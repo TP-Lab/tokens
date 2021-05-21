@@ -1,0 +1,11 @@
+{
+ "name": "CloneWinner Token",
+ "website": "https://clonewinner.com/",
+ "description": "The first decentralized order-copy finance community rights token.",
+ "explorer": "https://bscscan.com/token/0xe72dd0bc5c4F07Ff8E7309C57B0A6653633F8aA1",
+ "type": "BEP20",
+ "symbol": "CWT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe72dd0bc5c4F07Ff8E7309C57B0A6653633F8aA1"
+}
