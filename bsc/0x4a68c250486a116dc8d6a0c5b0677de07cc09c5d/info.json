@@ -1,0 +1,11 @@
+{
+  "name": "POODL Token",
+  "website": "https://poodltoken.com",
+  "description": "The meme coin owned by the community",
+  "explorer": "https://bscscan.com/token/0x4a68c250486a116dc8d6a0c5b0677de07cc09c5d",
+  "type": "BEP20",
+  "symbol": "POODL",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x4a68c250486a116dc8d6a0c5b0677de07cc09c5d"
+}
