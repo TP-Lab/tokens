@@ -1,0 +1,11 @@
+{
+ "name": "GWC Token",
+ "website": "https://gwc.one",
+ "description": "GWC（环球币），发行总量一百亿。环球币是一种前沿的实验代币，每笔交易通缩5%，社区生态自治，力争成为生态链去中心化第一代币。",
+ "explorer": "https://hecoinfo.com/address/0x1Df6cC5425A3E95996E2caD1B3Ae036b90eF1f47",
+ "type": "HRC20",
+ "symbol": "GWC",
+ "decimals": 10,
+ "status": "active",
+ "id": "0x1Df6cC5425A3E95996E2caD1B3Ae036b90eF1f47"
+}
