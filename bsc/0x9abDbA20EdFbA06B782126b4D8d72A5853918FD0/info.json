@@ -1,0 +1,11 @@
+{
+"name": "TABOO Token",
+"website": "https://taboo.community",
+"description": "TABOO是加密货币行业中的playboy，未来将以超模NFT的交换及观看为主要产品，采用的是持币分红模式，每次交易将扣除7%，其中2%为燃烧通缩，5%为给其他持币人分红",
+"explorer": "https://bscscan.com/token/0x9abDbA20EdFbA06B782126b4D8d72A5853918FD0",
+"type": "BEP20",
+"symbol": "TABOO",
+"decimals": 6,
+"status": "active",
+"id": "0x9abDbA20EdFbA06B782126b4D8d72A5853918FD0"
+}
