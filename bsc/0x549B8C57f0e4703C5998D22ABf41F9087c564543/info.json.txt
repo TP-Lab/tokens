@@ -1,0 +1,11 @@
+{
+ "name": "1024coin",
+ "website": "https://1024coin.yolasite.com",
+ "description": "Help improve  happiness of code engineers",
+ "explorer": "https://bscscan.com/token/0x549b8c57f0e4703c5998d22abf41f9087c564543",
+ "type": "BSC",
+ "symbol": "CLB",
+ "decimals": 18,
+ "status": "new issue",
+ "id": "0x549b8c57f0e4703c5998d22abf41f9087c564543"
+}
