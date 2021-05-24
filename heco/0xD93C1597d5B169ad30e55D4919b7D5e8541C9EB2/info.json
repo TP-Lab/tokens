@@ -1,0 +1,11 @@
+{
+    "name": "MellivoraCapensis",
+    "website": "https://fegtoken.com",
+    "description": "MICS aim to use static rewards",
+    "explorer": "https://hecoinfo.com/token/0xD93C1597d5B169ad30e55D4919b7D5e8541C9EB2",
+    "type": "HRC-20",
+    "symbol": "MICS",
+    "decimals": 5,
+    "status": "active",
+    "id": "0xD93C1597d5B169ad30e55D4919b7D5e8541C9EB2"
+}
