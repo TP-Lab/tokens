@@ -1,0 +1,11 @@
+{
+ "name": "DEFIMoon",
+ "website": "https://www.defimoon.site",
+ "description": "DEFIMoon is the first community token issued based on the DEFIMoon Protocol.",
+ "explorer": "https://hecoinfo.com/token/0x8e364641352FE279Ccc8b837dcE7BdF4d2023EeB",
+ "type": "HRC20",
+ "symbol": "DEFIMoon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8e364641352FE279Ccc8b837dcE7BdF4d2023EeB"
+}
