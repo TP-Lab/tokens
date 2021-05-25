@@ -1,0 +1,11 @@
+{
+    "name": "火星币",
+    "website": "-",
+    "description": "火星币",
+    "explorer": "https://hecoinfo.com/token/0x00168d3b2ca893b2788399aafcfa0e166f8edc41",
+    "type": "HRC-20",
+    "symbol": "HXB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x00168d3B2ca893B2788399AaFCfA0E166f8eDC41"
+   }
