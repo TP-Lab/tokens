@@ -1,0 +1,11 @@
+{
+    "name": "Tomato coin",
+    "website": "http://ta15.app",
+    "description": "Tomato coin（TOT）是番茄社区开发的一款用于番茄生态的一种通证，他将在番茄社区各领域流通。番茄社区是目前全球大型成人互动交流社区之一，海量美女，真人互动！",
+    "explorer": "https://bscscan.com/token/0x30194c6b47981d0825d164707e7f4ac55c1b13a7",
+    "type": "BEP20",
+    "symbol": "TOT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x30194c6b47981d0825d164707e7f4ac55c1b13a7"
+}
