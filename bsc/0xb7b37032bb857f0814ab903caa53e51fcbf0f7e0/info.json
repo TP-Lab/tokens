@@ -1,0 +1,11 @@
+{
+ "name": "Bitkanda Token(BKD)",
+ "website": "http://bitkanda.org",
+ "description": "小黑豹Bikanda是一个基于区块链的国家，起源于漫威宇宙的Wakanda。总发行量8,400,000,000,000,000。Bikanda系统是一个开源，完全分散的设计。数学保证网络的安全，区块链保证透明度，并允许每个人参与国家的治理，或者启动投票，每个人都可以竞选最高领导人，带领社区开发应用发展生态，每月可以领取一笔巨额费用。 Bikanda系统保留了采矿功能，矿工可以参与采矿并获得奖励。",
+ "explorer": "https://bscscan.com/token/0xb7b37032bb857f0814ab903caa53e51fcbf0f7e0",
+ "type": "BEP20",
+ "symbol": "BKD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb7b37032bb857f0814ab903caa53e51fcbf0f7e0"
+}
