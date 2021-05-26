@@ -1,0 +1,11 @@
+{
+    "name": "CRB 小强币",
+    "website": "-",
+    "description": "CRB 小强币",
+    "explorer": "https://hecoinfo.com/token/0x66B308F739b4553B35dD220390f451bB646F952D",
+    "type": "HRC-20",
+    "symbol": "CRB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x66B308F739b4553B35dD220390f451bB646F952D"
+   }
