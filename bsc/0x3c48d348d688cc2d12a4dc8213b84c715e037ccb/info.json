@@ -1,0 +1,11 @@
+{
+ "name": "Hamster 仓鼠币",
+ "website": "https://hamstercoin-inkling.github.io/",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0x3c48d348d688cc2d12a4dc8213b84c715e037ccb",
+ "type": "BEP20",
+ "symbol": "Hamster",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3c48d348d688cc2d12a4dc8213b84c715e037ccb"
+}
