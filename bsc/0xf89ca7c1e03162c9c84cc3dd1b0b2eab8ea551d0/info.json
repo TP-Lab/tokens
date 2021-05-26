@@ -1,0 +1,11 @@
+{
+ "name": "CRAZY MINER",
+ "website": "https://cames.io",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xf89ca7c1e03162c9c84cc3dd1b0b2eab8ea551d0",
+ "type": "BEP20",
+ "symbol": "CAME",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf89ca7c1e03162c9c84cc3dd1b0b2eab8ea551d0"
+}
