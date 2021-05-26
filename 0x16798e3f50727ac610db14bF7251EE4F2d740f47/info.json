@@ -1,0 +1,11 @@
+{
+ "name": "FutbolClub Token",
+ "website": "http://fcbsports.io/",
+ "description": "FutbolClub (FCB) is a BSC project of coin an ecological chain. It is a global football sports prediction machine. It takes the lead in the world in the way of ecological mining pool (EPM) to produce.",
+ "explorer": "https://bscscan.com/token/0x16798e3f50727ac610db14bF7251EE4F2d740f47",
+ "type": "BEP20",
+ "symbol": "FCB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x16798e3f50727ac610db14bF7251EE4F2d740f47"
+}
