@@ -1,0 +1,14 @@
+{
+ "name": "European Cup Oracle ",
+ "website": "https://www.europeancuporacle",
+ "description": "The European Cup Oracle is an Oracle platform based on football and NFT. The European Cup will start on June 12, and the project side will launch it on May 29. It can be officially traded on pancakeswap platform.
+The 24 teams will be made into NFT + Oracle Cards. With the winning team in the football field, the relevant NFT cards will passively obtain higher value. Meanwhile, all members of any team will be collected. The eco token can be directly extracted and traded on the platform, and the usdt and BNB card drawing functions will be launched one after another.
+Eco innovatively uses Oracle mode. A total of 2.4 billion were issued, and each team produced 100 million NFT + Oracle. Each of the 24 teams had its own eco. In the blockchain, consensus parameters were used to generate. After each team was eliminated, the 100 million eco represented by each team was transferred to the black hole address. There will only be 300 million eco left in the end. It leads to the scarcity of value.
+",
+ "explorer": "https://bscscan.com/address/0x5ce321f0da9cb245d164e5b6c902b03daf97c146",
+ "type": "BEP20",
+ "symbol": "ECO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5ce321f0DA9cB245d164E5b6C902B03DAF97c146"
+}
