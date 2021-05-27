@@ -1,0 +1,11 @@
+{
+    "name": "WFC",
+    "website": "http://bscwfc.com",
+    "description": "BSC's first green compound community autonomous defi + NFT integrated ecological Dex.",
+    "explorer": "https://bscscan.com/token/0xf88a7333f42f2215fb4df90e40309207c152776a",
+    "type": "BEP20",
+    "symbol": "WFC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf88a7333f42f2215fb4df90e40309207c152776a"
+   }

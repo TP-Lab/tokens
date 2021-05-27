@@ -1,0 +1,11 @@
+{
+    "name": "DOP",
+    "website": "http://bscwfc.com",
+    "description": "Based on BSC development, focus on green mining computing power, solve the problem of no current mining energy waste.",
+    "explorer": "https://bscscan.com/token/0xEcF32d9c60a75880B4E28A09da059dDa8BB114F9",
+    "type": "BEP20",
+    "symbol": "DOP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xEcF32d9c60a75880B4E28A09da059dDa8BB114F9"
+   }
