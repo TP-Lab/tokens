@@ -1,0 +1,11 @@
+{
+ "name": "NB Token",
+ "website": "https://nb.pro",
+ "description": "NB,总量发行1000万亿，是一个完全去中心化的社区实验。每笔交易都将扣税5%，完全社区自治。",
+ "explorer": "https://bscscan.com/token/0xfc532c3586f1cfa73421abc988d058947bbdb57b",
+ "type": "HECO",
+ "symbol": "NB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfc532c3586f1cfa73421abc988d058947bbdb57b"
+}
