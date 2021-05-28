@@ -1,0 +1,11 @@
+{
+ "name": "50CENT",
+ "website": "https://tokenpocket.pro",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0xDAD3EA5879F28353fC9C8e80394647164079a510",
+ "type": "BEP20",
+ "symbol": "$50Cent",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xDAD3EA5879F28353fC9C8e80394647164079a510"
+}
