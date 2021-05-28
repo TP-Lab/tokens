@@ -1,0 +1,11 @@
+{
+    "name": "Deagon coin",
+    "website": "www.dd215d.com",
+    "description": "DEAGON（Deagon coin）亚洲顶级游戏运营商尊龙用于体育、电子竞技和娱乐平台的数字化货币，适用于众多行业。其目的是促进为体育和娱乐而打造的区块链生态系统",
+    "explorer": "https://bscscan.com/token/0xf58534c58c8a3fafe56571905878fc8ef425daae",
+    "type": "BEP20",
+    "symbol": "DEAGON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf58534c58c8a3fafe56571905878fc8ef425daae"
+}
