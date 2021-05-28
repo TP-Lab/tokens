@@ -1,0 +1,11 @@
+{
+ "name": "Covid-19 Vaccine Token",
+ "website": "https://www2.hse.ie/screening-and-vaccinations/covid-19-vaccine/",
+ "description": "A NFT+MEME concept token created to mourn the Covid-19's deaths and to appreciate medical staff's hard work",
+ "explorer": "https://bscscan.com/token/0x4064F3E26b9C547D13882A56d50aCb895dCc95cb",
+ "type": "BEP20",
+ "symbol": "C19VT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x4064F3E26b9C547D13882A56d50aCb895dCc95cb"
+}
