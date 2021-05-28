@@ -1,0 +1,11 @@
+{
+ "name": "DogeKing Coin",
+ "website": "https://www.dogemainland.com",
+ "description": "DOGK CHAIN.",
+ "explorer": "https://hecoinfo.com/token/0x01faee65e5618eb474c78dd3262d8ea3c70b6274",
+ "type": "HRC20",
+ "symbol": "DOGK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x01faee65e5618eb474c78dd3262d8ea3c70b6274"
+}
