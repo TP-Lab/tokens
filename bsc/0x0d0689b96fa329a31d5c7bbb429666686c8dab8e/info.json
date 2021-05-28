@@ -1,0 +1,11 @@
+{
+ "name": "DogeDeer",
+ "website": "https://www.dogedeer.com",
+ "description": "Global computing power.",
+ "explorer": "https://bscscan.com/token/0x0d0689b96fa329a31d5c7bbb429666686c8dab8e",
+ "type": "BEP20",
+ "symbol": "dogd",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0d0689b96fa329a31d5c7bbb429666686c8dab8e"
+}
