@@ -1,0 +1,10 @@
+{
+ "name": "PCC",
+ "website": "https://dapp.cybers.group/pcc/",
+ "description": "贝宝协议",
+ "explorer": "https://bscscan.com/token/0x9eaA85eb0c4665daf956f19c9391E37C554238DE",
+ "type": "BEP20",
+ "symbol": "PCC",
+ "decimals": 8,
+ "id": "0x9eaA85eb0c4665daf956f19c9391E37C554238DE"
+}
