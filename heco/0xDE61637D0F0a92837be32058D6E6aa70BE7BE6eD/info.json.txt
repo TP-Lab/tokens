@@ -1,0 +1,11 @@
+{
+ "name": "Umbrella Corporation Token",
+ "website": "",
+ "description": "",
+ "explorer": "",
+ "type": "BEP20",
+ "symbol": "UCL",
+ "decimals": 5,
+ "status": "active",
+ "id": "0xDE61637D0F0a92837be32058D6E6aa70BE7BE6eD"
+}
