@@ -1,0 +1,11 @@
+{
+ "name": "HakunaMatata Token",
+ "website": "https://hakunamatata.finance",
+ "description": "Combing investment with altruism and charity.",
+ "explorer": "https://bscscan.com/token/0x355389292D8c963719FDaF0651f7846D6c504448",
+ "type": "BEP20",
+ "symbol": "TATA",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x355389292D8c963719FDaF0651f7846D6c504448"
+}
