@@ -1,0 +1,11 @@
+{
+ "name": "LotterySwap",
+ "website": "https://lotteryswap.xyz/",
+ "description": "Trade. Earn. Win.",
+ "explorer": "https://bscscan.com/token/0x8cc9c0e37cc06afeb4f666b5c674fc3edd452178",
+ "type": "BEP20",
+ "symbol": "LOTT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8cc9c0e37cc06afeb4f666b5c674fc3edd452178"
+}
