@@ -1,0 +1,21 @@
+{
+
+ "name": "Lingite ore",
+
+ "website": "-",
+
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+
+ "explorer": "https://hecoinfo.com/token/0xb3eeb5d263e00f75227fbd3a489a2e1bf05d8fef",
+
+ "type": "HRC-20",
+
+ "symbol": "LSK",
+
+ "decimals": 18,
+
+ "status": "active",
+
+ "id": "0xb3eeb5d263e00f75227fbd3a489a2e1bf05d8fef"
+
+}
