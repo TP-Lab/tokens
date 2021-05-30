@@ -1,0 +1,11 @@
+{
+ "name": "pub Token",
+ "website": "-",
+ "description": "-",
+  "explorer":"https://bscscan.com/token/0xf901146e2f8e577d061b30a3cc2ee18f09bf6f77",
+ "type": "BEP20",
+ "symbol": "pub",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf901146e2f8e577d061b30a3cc2ee18f09bf6f77"
+}
