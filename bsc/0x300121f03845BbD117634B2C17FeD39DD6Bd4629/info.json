@@ -1,0 +1,11 @@
+{
+ "name": "Surprise Token",
+ "website": "",
+ "description": "A cybermoney to test luck",
+ "explorer": "https://bscscan.com/token/0x300121f03845BbD117634B2C17FeD39DD6Bd4629",
+ "type": "BEP20",
+ "symbol": "SPT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x300121f03845BbD117634B2C17FeD39DD6Bd4629"
+}
