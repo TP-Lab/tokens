@@ -1,0 +1,11 @@
+{
+    "name": "CALL BEP20 Token",
+    "symbol": "CALL",
+    "type": "BEP20",
+    "decimals": 6,
+    "description": "Wrapped Callchain CALL token in BEP20 token",
+    "website": "http://callchain.cc/",
+    "explorer": "https://bscscan.com/token/0xCf7c87CB192BF21660B360F3f270400a42070aea",
+    "status": "active",
+    "id": "0xCf7c87CB192BF21660B360F3f270400a42070aea"
+}
