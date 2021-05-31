@@ -1,0 +1,11 @@
+{
+ "name": "You Pay Token",
+ "website": "http://youpay.club/",
+ "description": "YouPay是以区块链+支付为核心，致力于打造一套完整的去中心化支付体系，集金融资产管理、金融交易、购物支付、供应链金融、实体经济赋能等一站式服务。",
+ "explorer": "https://bscscan.com/token/0x8d03aa7585435679ccf2a9f0f9d1e74c9743cf33",
+ "type": "BEP20",
+ "symbol": "Pay",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8d03aA7585435679CcF2A9f0F9d1E74C9743cF33"
+}
