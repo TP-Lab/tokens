@@ -1,0 +1,11 @@
+{
+ "name": "Stephen William Hawking",
+ "website": "https://swh.pet",
+ "description": "SWH项目回购模式！ 真正的去中心化，任何人持有的币都是自己用HT买的，包括空投的币也是！包括强销毁，开发者零预留！ 买卖交易都扣10%的手续费，7%销毁，2%到流动池，1%持币分红！100%的社区自治！ SWH不蹭热度，全球10亿人口共识霍金，有强大顶尖的物理学家和爱好者！人才不缺！也会蜂拥而至的抢拍SWH的一切作品.",
+ "explorer": "https://hecoinfo.com/token/0x5F38d523a22b95b9d2CD7b29b33C6CcEcf69FF0c",
+ "type": "HRC20",
+ "symbol": "SWH",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5F38d523a22b95b9d2CD7b29b33C6CcEcf69FF0c"
+}
