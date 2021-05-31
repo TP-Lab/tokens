@@ -1,0 +1,11 @@
+{
+    "name": "JRS Token",
+    "website": "https://jrstoken.com",
+    "description": "JRS是社区驱动开发的HECO链上代币。JRS名称来源于家人，又称家人币。JRS总发行10000万亿，50%销毁至黑洞地址。每笔交易征收10%税费，5%按持有量比例分配给JRS持币人，5%自动销毁。JRS目标是建立首个链上社区JRS Community。JRS将作为社区代币，用于发帖、打赏、付费广告等用途。",
+    "explorer": "https://hecoinfo.com/token/0xf9b9af234262f4467f00629f01390db797550956",
+    "type": "HRC20",
+    "symbol": "JRS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xf9b9af234262f4467f00629f01390db797550956"
+}
