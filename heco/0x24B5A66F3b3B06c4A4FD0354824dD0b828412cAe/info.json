@@ -1,0 +1,11 @@
+{
+ "name": "Pikachu",
+ "website": "https://hecoinfo.com/token/0x24B5A66F3b3B06c4A4FD0354824dD0b828412cAe",
+ "description": "PKC is the first community-driven DeFi token based on the Pikachu Protocol.",
+ "explorer": "https://hecoinfo.com/token/0x24B5A66F3b3B06c4A4FD0354824dD0b828412cAe",
+ "type": "HRC-20",
+ "symbol": "PKC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x24B5A66F3b3B06c4A4FD0354824dD0b828412cAe"
+}
