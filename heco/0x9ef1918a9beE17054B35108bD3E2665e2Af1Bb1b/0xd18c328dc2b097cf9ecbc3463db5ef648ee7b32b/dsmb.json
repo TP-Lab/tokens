@@ -1,0 +1,11 @@
+{
+ "name": "大司马币",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0xd18c328dc2b097cf9ecbc3463db5ef648ee7b32b",
+ "type": "HRC-20",
+ "symbol": "DSMB",
+ "decimals": 1,
+ "status": "active",
+ "id": "0xd18c328dc2b097cf9ecbc3463db5ef648ee7b32b"
+}
