@@ -1,0 +1,11 @@
+{
+ "name": "WaWa Token",
+ "website": "https://www.laiwawa.co",
+ "description": "来挖挖是一个专注于矿机租赁，算力交易的项目.",
+ "explorer": "https://hecoinfo.com/token/0xc0f162883ec83ef2f351122926f1d3b85ebf0b65",
+ "type": "HRC20",
+ "symbol": "WAWA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC0F162883Ec83eF2F351122926F1D3B85EbF0B65"
+}
