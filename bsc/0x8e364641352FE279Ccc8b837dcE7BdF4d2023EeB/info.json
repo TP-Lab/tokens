@@ -1,0 +1,11 @@
+{
+ "name": "DOJOmax",
+ "website": "https://www.dojo-coin.com/",
+ "description": "DOJOmax is the first community token issued based on the DOJOmax Protocol.",
+ "explorer": "https://bscscan.com/token/0x8e364641352FE279Ccc8b837dcE7BdF4d2023EeB",
+ "type": "BEP20",
+ "symbol": "DOJOmax",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8e364641352FE279Ccc8b837dcE7BdF4d2023EeB"
+}
