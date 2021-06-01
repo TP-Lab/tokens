@@ -1,0 +1,10 @@
+{
+	"name":"SB Token",
+	"website":"",
+	"description":"SB Token, commonly known as leek counter attack coin, is a deflation contract. Each transfer burns 2% of the token, 1% of which goes into the black hole for permanent destruction, and 1% is distributed to the coin holder. Silly money no community, no operation, no planning, no advertising... Nothing! When online, all coins have been injected into the trading pool, and everyone in sb can be the master! Sb, bitcoin among fools.",
+	"explorer":"https://bscscan.com/address/0x913c9b033f37c783bf31cc61315bebb79d5cf432",
+	"type":"BEP20",
+	"decimals":18,
+	"status":"active",
+	"id":"0x913C9B033F37c783BF31CC61315BebB79D5Cf432"
+}
