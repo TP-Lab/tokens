@@ -1,0 +1,23 @@
+{
+    "name": "Digital Super Bit",
+    "website": "https://dsbswap.com",
+    "source_code": "https://github.com/DSBTeam",
+    "short_description": "A blockchain project on farm-yield, sports, games and e-commerce applications",
+    "description": "Digital Super Bit is a next-generation valueable investment token started from BSC. It mainly focuses on yeild farming, dencentralized exchanges, predictions, this project aims to promote a new concept about digital entertainment on blockchain. In the future, the project will be involved in sports, games and e-commerce",
+    "explorer": "https://bscscan.com/token/0xa1df781126fA49A9f07F4B3CCE7b88B78ed3F6fF",
+    "type": "BEP20",
+    "symbol": "DSB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa1df781126fA49A9f07F4B3CCE7b88B78ed3F6fF",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/DsbSwap"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/DSBSwap_eng"
+        }
+    ]
+}
