@@ -1,0 +1,11 @@
+{
+ "name": "Doge Ranker",
+ "website": "https://www.dogeranker.com/",
+ "description": "100% Safe Deflationary Doge token with not dev, ownership renounced, and liquidity pool burned! 5% tax on each trade that goes to the liquidity pool and passive rewards by holding! Less than a day old with an insane marketing campaign! Went from 1k->20k and soon we will hit 1mil! Get in before it's too late!.",
+ "explorer": "https://bscscan.com/token/0xdf248fb3e68d00d82b08cd240ec9ea526a47c68d",
+ "type": "BEP20",
+ "symbol": "DR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdf248fb3e68d00d82b08cd240ec9ea526a47c68d"
+}
