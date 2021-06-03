@@ -1,0 +1,11 @@
+{
+ "name": "Bonus Scene Token",
+ "website": "",
+ "description": "Bonus Scene Token",
+ "explorer": "https://bscscan.com/token/0xb7C8aAeDc478E431F84b7056c656eA86b280fD2f",
+ "type": "BEP20",
+ "symbol": "BST",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xb7C8aAeDc478E431F84b7056c656eA86b280fD2f"
+}
