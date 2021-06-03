@@ -1,0 +1,11 @@
+{
+ "name": "HOFEWART",
+ "website": "https://www.hofewart.com/",
+ "description": "HOFEWART(HWT),全名为火狗币,HWT是守护资产的安全卫士,是基于火币HECO链开发的去中心化数字资产,发行总量限定210万永不增发 ,HWT让任何人均可通过移动手机免费挖矿方式赚取加密货币HWT币.",
+ "explorer": "https://hecoinfo.com/token/0x1c1310c264a47f5d3409bbb47ba5d56c3e3b6e31",
+ "type": "HRC20",
+ "symbol": "HWT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1c1310C264A47F5d3409BbB47bA5d56c3e3b6E31"
+}
