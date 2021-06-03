@@ -15,7 +15,6 @@
         }
     ],
     "explorer": "https://bscscan.com/token/0x6c2d925721ce3e8620139605e475421ff23ed936"
-    "type": "BEP20",
     "symbol": "PLAG",
     "id": "0x6c2d925721ce3e8620139605e475421ff23ed936",
 }
