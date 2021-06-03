@@ -5,7 +5,7 @@
  "explorer": "https://bscscan.com/token/0xc42df57ceffe6540435432fc6bbdb05b30f711b8",
  "type": "HECO",
  "symbol": "bwin",
- "decimals": 18,
+ "decimals": 2,
  "status": "active",
  "id": "0xc42df57ceffe6540435432fc6bbdb05b30f711b8"
 }
