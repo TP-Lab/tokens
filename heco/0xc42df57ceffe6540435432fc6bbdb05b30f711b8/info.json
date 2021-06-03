@@ -1,0 +1,11 @@
+{
+ "name": "bwin",
+ "website": "https://www.linkedin.com/",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xc42df57ceffe6540435432fc6bbdb05b30f711b8",
+ "type": "HECO",
+ "symbol": "bwin",
+ "decimals": 2,
+ "status": "active",
+ "id": "0xc42df57ceffe6540435432fc6bbdb05b30f711b8"
+}
