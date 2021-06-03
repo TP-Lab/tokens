@@ -1,0 +1,20 @@
+﻿{
+    "name": "Phuket Islang Network",
+    "website": " https://0.plus/PhuketIslangNetwork",
+    "description": "Phuket Islang Network (PLAG) has launched the Billionaire Airdrop Campaign. Phuket islang network is a fast network world that benefits from blockchain technology for users to share. Users get value returns by sensing data, and open up an activity for users to vote, sports contests, e-contests.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://mobile.twitter.com/phuketislang",
+            "handle": "phuketislang"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/Phuket islang network",
+            "handle": "Phuket islang network"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x6c2d925721ce3e8620139605e475421ff23ed936"
+    "symbol": "PLAG",
+    "id": "0x6c2d925721ce3e8620139605e475421ff23ed936",
+}
