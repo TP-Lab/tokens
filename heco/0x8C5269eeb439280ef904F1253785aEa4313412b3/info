@@ -1,0 +1,11 @@
+{
+ "name": "OFO Token",
+ "website": "",
+ "description": "",
+ "explorer": "https://hecoinfo.com/token/0x8C5269eeb439280ef904F1253785aEa4313412b3",
+ "type": "BEP20",
+ "symbol": "OFO",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x8C5269eeb439280ef904F1253785aEa4313412b3"
+}
