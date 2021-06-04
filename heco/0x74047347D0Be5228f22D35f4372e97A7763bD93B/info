@@ -1,0 +1,11 @@
+{
+ "name": "WOWO Token",
+ "website": "",
+ "description": "",
+ "explorer": "https://hecoinfo.com/token/0x74047347D0Be5228f22D35f4372e97A7763bD93B",
+ "type": "BEP20",
+ "symbol": "WOWO",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x74047347D0Be5228f22D35f4372e97A7763bD93B"
+}
