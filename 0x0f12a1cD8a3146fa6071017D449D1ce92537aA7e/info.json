@@ -1,0 +1,11 @@
+{
+ "name": "WaWa Token",
+ "website": "https://www.laiwawa.co",
+ "description": "来挖挖是一个专注于矿机租赁，算力交易的项目.",
+ "explorer": "https://bscscan.com/token/0x0f12a1cd8a3146fa6071017d449d1ce92537aa7e",
+ "type": "BEP20",
+ "symbol": "WAWA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0f12a1cD8a3146fa6071017D449D1ce92537aA7e"
+}
