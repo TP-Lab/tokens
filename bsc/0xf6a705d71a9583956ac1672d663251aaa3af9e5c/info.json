@@ -1,0 +1,11 @@
+{
+    "name": "Greyhound",
+    "website": "https://www.jdfi.com/",
+    "description": "Hound 是首个通证化的 Staking 平台，可在BSC智能链的去中心化金融 DeFi 生态系统中质押 PoS 权益证明的代币。该项目由 Radix 团队孵化，并由 Albert Castellana 领导。",
+    "explorer": "https://bscscan.com/token/0xf6a705d71a9583956ac1672d663251aaa3af9e5c",
+    "type": "BEP20",
+    "symbol": "HOUND",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf6a705d71a9583956ac1672d663251aaa3af9e5c"
+}
