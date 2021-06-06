@@ -1,0 +1,11 @@
+{
+ "name": "Whalecom Token",
+ "website": "https://www.whalecom-token.com/",
+ "description": "Charity as a Service. Trade and Do Good.",
+ "explorer": "https://bscscan.com/token/0x873ffaf65d35083cb6bd71dce3f33138970946e0",
+ "type": "BEP20",
+ "symbol": "WCOM",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x873ffaf65d35083cb6bd71dce3f33138970946e0"
+}   
