@@ -1,0 +1,11 @@
+{
+ "name": "Entropy",
+ "website": "entropy-farm.com",
+ "description": "Entropy is a completely decentralized community driven transaction protocol on the BSC blockchain.",
+ "explorer": "https://bscscan.com/token/0xF08bad6c1C416897fd33430990d39E748D3Ca3f5",
+ "type": "BEP20",
+ "symbol": "ENTROPY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF08bad6c1C416897fd33430990d39E748D3Ca3f5"
+}
