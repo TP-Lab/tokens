@@ -1,0 +1,11 @@
+﻿{
+ "name": "SLB Token",
+ "website": "https://SLB.io",
+ "description": "A leading multi-chain wallet that supports  BSC.",
+ "explorer": "https://bscscan.com/token/0xefc60369b0c314bf60808a32f3266923cb178cab",
+ "type": "BEP20",
+ "symbol": "SLB",
+ "decimals": 4,
+ "status": "active",
+ "id": " 0x7ed2801c3d9d9ab3d6f95c4f002765e3acca3d15"
+}
