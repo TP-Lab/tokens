@@ -1,0 +1,11 @@
+{
+ "name": "SHIBA BSC",
+ "website": "https://shibsc.com",
+ "description": "Oracle, NFT Game and Toolbox.",
+ "explorer": "https://bscscan.com/token/0xdf0816cc717216c8b0863af8d4f0fc20bc65d643#balances",
+ "type": "BEP20",
+ "symbol": "SHIBSC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdf0816cc717216c8b0863af8d4f0fc20bc65d643"
+}
