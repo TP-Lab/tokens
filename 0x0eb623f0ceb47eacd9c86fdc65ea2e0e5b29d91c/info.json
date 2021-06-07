@@ -1,0 +1,12 @@
+{
+ "name": "WhaleFall Token",
+ "website": "-",
+ "description": "WhaleFall is a token on bsc boasting a number of impressive features",
+ "explorer": "https://bscscan.com/token/0x0eb623f0ceb47eacd9c86fdc65ea2e0e5b29d91c",
+ "type": "BEP20",
+ "symbol": "WHALE",
+ "decimals": 6,
+ "status": "active",
+ "release time": "2021-06-06 21:00",
+ "id": "0x0eb623f0ceb47eacd9c86fdc65ea2e0e5b29d91c"
+}
