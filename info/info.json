@@ -1,10 +1,9 @@
 {
- "name": " panda nft Token",
- "website": "https://pandacoin111.wixsite.com/pandatoken",
- "explorer": "https://www.hecochain.io/address/0x02f3cde4a7906da9144828267eba7098f1a85249",
+ "name": "IRON MAN TOKEN",
+ "explorer": "https://www.hecochain.io/address/0x73c6E4F4730A95874ba8dC7E9a1d05c19d89105D",
  "type": "HECO",
- "symbol": "PNT",
+ "symbol": "LRON",
  "decimals": 18,
  "status": "active",
- "id": "0x02f3CdE4A7906DA9144828267ebA7098F1a85249"
+ "id": "0x73c6E4F4730A95874ba8dC7E9a1d05c19d89105D"
 }
