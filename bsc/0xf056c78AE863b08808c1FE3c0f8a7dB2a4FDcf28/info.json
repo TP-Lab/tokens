@@ -1,0 +1,11 @@
+{
+	"name":"Kesef Finance",
+	"website":"https://kesef.finance",
+	"description":"Kesef Finance aim is to make DeFi accessible with cross chain finance across ETH, BSC, Polkadot. We are bridging the gap between real-world financial problems and cryptocurrencies with an App-first concept to handle all your financial requirements. Whether it is fiat or crypto, you got covered with Kesef Finance. The app also features yield farming, staking, and exchange features and the 0 fees crypto card you can easily convert your tokens to Fiat using the app itself. No need to send your tokens to exchange, sell and then wait for the money to hit your bank account.",
+	"explorer":"https://bscscan.com/address/0xf056c78AE863b08808c1FE3c0f8a7dB2a4FDcf28",
+	"type":"BEP20",
+        "symbol": "KSF",
+	"decimals":18,
+	"status":"active",
+	"id":"0xf056c78AE863b08808c1FE3c0f8a7dB2a4FDcf28"
+} 
