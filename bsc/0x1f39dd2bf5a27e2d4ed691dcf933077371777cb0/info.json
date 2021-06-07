@@ -1,0 +1,11 @@
+{
+ "name": "SnowCrash Token",
+ "website": "https://snowcrash.finance",
+ "description": "Nora (SnowCrash official token) is a decentralized meme token, a large-scale open finance movement.",
+ "explorer": "https://bscscan.com/token/0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0",
+ "type": "BEP20",
+ "symbol": "Nora",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0"
+}
