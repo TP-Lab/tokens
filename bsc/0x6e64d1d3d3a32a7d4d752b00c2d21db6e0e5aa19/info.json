@@ -1,0 +1,11 @@
+{
+ "name": "BASKETBALL Coin",
+ "website": "https://www.sportcoin.finance.com",
+ "description": "BASK is all you need.",
+ "explorer": "https://bscscan.com/token/0x6e64d1d3d3a32a7d4d752b00c2d21db6e0e5aa19",
+ "type": "BEP20",
+ "symbol": "BASK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6e64d1d3d3a32a7d4d752b00c2d21db6e0e5aa19"
+}
