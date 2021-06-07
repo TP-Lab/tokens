@@ -1,0 +1,11 @@
+{
+    "name": "SurvivorCoin",
+    "website": "www.sur-join.com",
+    "description": "由一线城市深圳程序员所创立，目的为了让更多被币圈割韭菜的币友们找到一个高度共识的社区，一起打造共识价值币。",
+    "explorer": "https://hecoinfo.com/token/0x8a1b527A477AFf835EEdDA3ec5b917B7A86B36E9",
+    "type": "HRC-20",
+    "symbol": "SUR",
+    "decimals": 12,
+    "status": "active",
+    "id": "0x8a1b527A477AFf835EEdDA3ec5b917B7A86B36E9"
+   }
