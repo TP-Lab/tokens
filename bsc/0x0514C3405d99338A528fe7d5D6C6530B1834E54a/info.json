@@ -1,0 +1,11 @@
+{
+ "name": "Bin Guo Coin",
+ "website": "http://bgcbsc.com/",
+ "description": "宾果币是一个基于币安智能链上的社区化代币，利用区块链技术，基于智能合约和Token系统，打造去中心化的、覆盖全球，权益共用、价值共创的去中心化社bgc社区.",
+ "explorer": "https://bscscan.com/token/0x0514C3405d99338A528fe7d5D6C6530B1834E54a",
+ "type": "BEP20",
+ "symbol": "BGC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0514C3405d99338A528fe7d5D6C6530B1834E54a"
+}
