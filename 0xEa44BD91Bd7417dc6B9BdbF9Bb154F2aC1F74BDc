@@ -1,0 +1,11 @@
+{
+ "name": "ONE",
+ "website": "https://onelife.eu",
+ "description": "OneCoin is committed to growth and is opening new regional offices around the world. This rapid expansion is due to the development of traders. Onecoin's goal is to create a market with more than 1 million traders and set 2.1 billion OneCoin.",
+ "explorer": "https://etherscan.io/address/0xEa44BD91Bd7417dc6B9BdbF9Bb154F2aC1F74BDc",
+ "type": "ERC20",
+ "symbol": "TPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEa44BD91Bd7417dc6B9BdbF9Bb154F2aC1F74BDc"
+}
