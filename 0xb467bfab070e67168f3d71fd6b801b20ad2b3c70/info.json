@@ -1,0 +1,20 @@
+"name": "Chinese Football Token",
+    "website": "https://twitter.com/CfcCoin",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/CfcCoin"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/CFCCoinGroup"
+        },
+    ],
+    "description": "中国足球币是币安智能链(BEP-20)项目，由海外华人社区驱动，项目致力于帮助中国足球的发展建设。是第一个以中国足球利益，球迷利益为核心的足球代币。",
+    "explorer": "https://bscscan.com/token/0xb467bfab070e67168f3d71fd6b801b20ad2b3c70",
+    "type": "BEP20",
+    "symbol": "CFT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xb467bfab070e67168f3d71fd6b801b20ad2b3c70"
+}
