@@ -1,0 +1,11 @@
+{
+ "name": "Mars",
+ "website": "https://www.gecgreen.com/",
+ "description": "HECO ",
+ "explorer": "https://hecoinfo.com/address/0x68e53a38aa43E2595e570a70f3E5e8898ED5825f",
+ "type": "HECO",
+ "symbol": "Mars",
+ "decimals": 18,
+ "status": "Mars",
+ "id": "0x68e53a38aa43E2595e570a70f3E5e8898ED5825f"
+}
