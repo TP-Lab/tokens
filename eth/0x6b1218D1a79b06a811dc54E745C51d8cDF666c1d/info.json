@@ -1,0 +1,11 @@
+{
+    "name": "NERA Token",
+    "website": "https://erax.io",
+    "description": "ERAX platform token",
+    "explorer": "https://etherscan.io/address/0x6b1218d1a79b06a811dc54e745c51d8cdf666c1d",
+    "type": "ERC20",
+    "symbol": "NERA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6b1218D1a79b06a811dc54E745C51d8cDF666c1d"
+}
