@@ -1,0 +1,11 @@
+{
+ "name": "Lycra 莱卡币",
+ "website": "-",
+ "description": “Lyra是Heco上的一个标志，拥有许多令人印象深刻的功能”，
+ "explorer": "https://hecoinfo.com/token/0x710DAcCF918a7209710774073025559cBd5E7e71",
+ "type": "HRC-20",
+ "symbol": "LKC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x710DAcCF918a7209710774073025559cBd5E7e71"
+}
