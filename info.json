@@ -1,11 +1,11 @@
 {
- "name": "DYSaurora ",
- "website": "https://dystoken.mystrikingly.com",
- "description": "-",
- "explorer": "https://bscscan.com/token/0x4632a4F3514B91dBaCCcd68c4Fa3745241D0679e",
+ "name": "Sportsmaster",
+ "website": "https://www.sportscoins.luxe",
+ "description": "Realize the fairness of sports events through Sports master technology.It is not only a technology, but also a fuel to improve the quality of life. The membership of the SOE club has been increasing.Our SOE can also earn more benefits for members.",
+ "explorer": "https://hecoinfo.com/token/0xF86d4294020017b8266e58c810bf137e6cAC75F1",
  "type": "HRC-20",
- "symbol": "DYS",
+ "symbol": "SOE",
  "decimals": 18,
  "status": "active",
- "id": "0x4632a4F3514B91dBaCCcd68c4Fa3745241D0679e"
+ "id": "0xF86d4294020017b8266e58c810bf137e6cAC75F1"
 }
