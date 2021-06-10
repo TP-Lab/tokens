@@ -1,0 +1,11 @@
+{
+ "name": "XJ",
+ "website": "https://tronscan.io/",
+ "description": "星际币",
+ "explorer": "https://tronscan.io/#/token20/TMM3jR2b1zyxrVSTgBQezqXgawCXu8fB7W",
+ "type": "TRC20",
+ "symbol": "XJ",
+ "decimals": 6,
+ "status": "active",
+ "id": "TMM3jR2b1zyxrVSTgBQezqXgawCXu8fB7W"
+}
