@@ -1,0 +1,11 @@
+{
+ "name": "JiuD(酒店币)",
+ "website": "https://hecoinfo.com/token/0x72ca5996Fe1730fd2182FaFe78099C7dCA43fCf6",
+ "description": "JiuD(酒店币)   JiuD是一款完全去中心化的酒店生态代币，主要用于全球的酒店客户住宿和酒店员工工资支付、以及酒店的运营管理所开发出来的酒店生态管理代币、拥有JiuD者可以在全球任何一个酒店支付酒店相关的费用。.",
+ "explorer": "https://hecoinfo.com/token/0x72ca5996Fe1730fd2182FaFe78099C7dCA43fCf6",
+ "type": "HRC20",
+ "symbol": "TPT",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x72ca5996Fe1730fd2182FaFe78099C7dCA43fCf6"
+}
