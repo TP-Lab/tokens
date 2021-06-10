@@ -1,0 +1,11 @@
+{
+ "name": "Camel",
+ "website": "https://camel-token.pro",
+ "description": "Camel Token",
+ "explorer": "https://bscscan.com/token/0x0624702914A3FbB6B2f997b6C2b0A609159c24C9",
+ "type": "HECO",
+ "symbol": "Camel",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0624702914A3FbB6B2f997b6C2b0A609159c24C9"
+}
