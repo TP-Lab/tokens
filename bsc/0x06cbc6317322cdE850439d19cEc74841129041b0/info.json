@@ -1,0 +1,11 @@
+{
+ "name": "cookies token",
+ "website": "https://bscscan.com/",
+ "description": "The Cookie Token protocol is designed for holders, with 6% of each transaction flowing to LP, 4% of each cookie transaction reflected to all holders, and 2% flowing into the black hole, where tokens gradually dwindle, thus creating an ever-rising price floor.",
+ "explorer": "https://bscscan.com/token/0x06cbc6317322cdE850439d19cEc74841129041b0",
+ "type": "BEP20",
+ "symbol": "ck",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x06cbc6317322cdE850439d19cEc74841129041b0"
+}
