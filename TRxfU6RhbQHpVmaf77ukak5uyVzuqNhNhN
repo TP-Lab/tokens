@@ -1,0 +1,11 @@
+{
+ "name": "WHEAT Token",
+ "website": "https://www.xiaob.vip",
+ "description": "小麦：10000枚发行量，永不增发，社区治理，去中心化，农业生态！",
+ "explorer": "https://tronscan.io/#/token20/TRxfU6RhbQHpVmaf77ukak5uyVzuqNhNhN",
+ "type": "TRC20",
+ "symbol": "WHEAT",
+ "decimals": 6,
+ "status": "active",
+ "id": "TRxfU6RhbQHpVmaf77ukak5uyVzuqNhNhN"
+}
