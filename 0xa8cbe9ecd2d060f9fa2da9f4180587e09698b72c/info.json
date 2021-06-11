@@ -1,0 +1,12 @@
+@@ -0,0 +1,11 @@
+{
+ "name": "SPACEDOGE",
+ "website": "https:www.spacedogetoken.space",
+ "description": "SpaceDoge协议实施了一个巧妙的税收制度，以便不依赖社区提供流动性，而是随着交易数量的增长自行扩大。",
+ "explorer": "https://hecoinfo.com/address/0xa8cbe9ecd2d060f9fa2da9f4180587e09698b72c",
+ "type": "HRC-20",
+ "symbol": "SPACEDOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa8cbe9ecd2d060f9fa2da9f4180587e09698b72c"
+}  
