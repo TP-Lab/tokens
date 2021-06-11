@@ -1,0 +1,11 @@
+{
+ "name": "UnioLotto",
+ "website": "-",
+ "description": "UnioLotto",
+ "explorer": "https://hecoinfo.com/token/0x5E6f02736fa6E8CDa42ce322c968A804797E764B",
+ "type": "IERC20",
+ "symbol": "UL",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5E6f02736fa6E8CDa42ce322c968A804797E764B"
+}
