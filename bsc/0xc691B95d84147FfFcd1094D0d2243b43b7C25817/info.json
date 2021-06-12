@@ -1,0 +1,11 @@
+{
+    "name": "DogeMars",
+    "website": "http://dogemars.me",
+    "description": "DogeMars is a community token developed based on BSC. The purpose of DogeMars is to help Dogecoin achieve its due value.",
+    "explorer": "https://bscscan.com/token/0xc691B95d84147FfFcd1094D0d2243b43b7C25817",
+    "type": "BEP20",
+    "symbol": "DogeMars",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xc691B95d84147FfFcd1094D0d2243b43b7C25817"
+}
