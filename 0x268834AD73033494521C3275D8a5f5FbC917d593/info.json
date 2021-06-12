@@ -1,0 +1,11 @@
+{
+ "name": "FFtools",
+ "website": "https://fftools.me",
+ "description": "FFtools is the first on-chain protocol that combines long-tail investment analysis, artificial intelligence, and self-organizing teams/guilds to generate passive income. Currently FFtools focuses on three parts: portfolio investment, competitive games and creative incubation.",
+ "explorer": "https://hecoinfo.com/token/0x268834AD73033494521C3275D8a5f5FbC917d593",
+ "type": "HRC-20",
+ "symbol": "FFT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x268834AD73033494521C3275D8a5f5FbC917d593"
+}
