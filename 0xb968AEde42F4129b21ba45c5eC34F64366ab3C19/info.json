@@ -1,0 +1,11 @@
+{
+ "name": "FuckSafeBabyDoge",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xb968AEde42F4129b21ba45c5eC34F64366ab3C19",
+ "type": "BEP20",
+ "symbol": "FSBD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xb968AEde42F4129b21ba45c5eC34F64366ab3C19"
+}
