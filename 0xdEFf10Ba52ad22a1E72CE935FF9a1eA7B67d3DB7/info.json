@@ -1,0 +1,11 @@
+{
+ "name": "OctopusBaby",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xdEFf10Ba52ad22a1E72CE935FF9a1eA7B67d3DB7",
+ "type": "BEP20",
+ "symbol": "OB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xdEFf10Ba52ad22a1E72CE935FF9a1eA7B67d3DB7"
+}
