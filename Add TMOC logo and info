@@ -1,0 +1,11 @@
+{
+ "name": "Tomorrow Coin",
+ "website": "-",
+ "description": "Leeks or salted fish can not escape the fate of being harvested. Only by uniting can we have a bright future. To this end, anonymous people create tomorrow's coin that will never be issued.",
+ "explorer": "https://hecoinfo.com/address/0x4F726B2A6064f83a1BE59C4020Ccf4b569468200",
+ "type": "BEP20",
+ "symbol": "TMOC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4F726B2A6064f83a1BE59C4020Ccf4b569468200"
+}
