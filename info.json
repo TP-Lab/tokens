@@ -1,11 +1,21 @@
 {
- "name": "DYSaurora ",
- "website": "https://dystoken.mystrikingly.com",
- "description": "-",
- "explorer": "https://bscscan.com/token/0x4632a4F3514B91dBaCCcd68c4Fa3745241D0679e",
- "type": "HRC-20",
- "symbol": "DYS",
- "decimals": 18,
- "status": "active",
- "id": "0x4632a4F3514B91dBaCCcd68c4Fa3745241D0679e"
+ 
+"name": "LightningCoin",
+
+"website": "https://www.lhctoken.com",
+
+"description": "Create the greatest degree of consensus, to achieve real autonomy community.",
+
+"explorer": "https://bscscan.com/token/0xa65243dcd741450cc1ee5b31a98293dba68f6578",
+ 
+"type": "BEP20",
+ 
+"symbol": "LHC",
+ 
+"decimals": 18,
+ 
+"status": "active",
+ 
+"id": "0xa65243dcd741450cc1ee5b31a98293dba68f6578"
+
 }
