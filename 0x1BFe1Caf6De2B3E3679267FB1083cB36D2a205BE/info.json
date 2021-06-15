@@ -1,0 +1,12 @@
+{
+ "name": "Go Fishing Coin",
+ "website": "-",
+ "description": "Go Fishing Coin is a token on Huobi Eco(HECO) Chain boasting a number of impressive features,it will be used to taunt the losing team in a sports game,let them go home and go fishing!If you hate a player, buy him GOFISHING and congratulate him on losing",
+ "explorer": "https://hecoinfo.com/token/0x1BFe1Caf6De2B3E3679267FB1083cB36D2a205BE",
+ "type": "HRC-20",
+ "symbol": "GOFISHING",
+ "decimals": 8,
+ "status": "active",
+ "release time": "2021-06-13 22:00",
+ "id": "0x1BFe1Caf6De2B3E3679267FB1083cB36D2a205BE"
+}
