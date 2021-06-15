@@ -1,0 +1,11 @@
+{
+ "name": "TYQ",
+ "website": "https://tronscan.io/",
+ "description": "田园犬",
+ "explorer": "https://tronscan.io/#/token20/TKFhE8tWhQ6Zr9mK5fxRes5icpZyVid9eD",
+ "type": "TRC20",
+ "symbol": "TYQ",
+ "decimals": 6,
+ "status": "active",
+ "id": "TKFhE8tWhQ6Zr9mK5fxRes5icpZyVid9eD"
+}

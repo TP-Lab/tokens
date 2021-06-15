@@ -1,0 +1,11 @@
+{
+ "name": "99",
+ "website": "https://tronscan.io/",
+ "description": "99币",
+ "explorer": "https://tronscan.io/#/token20/TBAa6N44t7wJaPBpAA18feY1WqPutpDdX8",
+ "type": "TRC20",
+ "symbol": "99",
+ "decimals": 8,
+ "status": "active",
+ "id": "TBAa6N44t7wJaPBpAA18feY1WqPutpDdX8"
+}
