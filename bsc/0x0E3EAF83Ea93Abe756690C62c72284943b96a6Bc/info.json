@@ -1,0 +1,11 @@
+﻿{
+  "name": "HODL Token",
+  "website": "https://hodltoken.net",
+  "description": "HODL works on an autonomous frictionless yield farming and liquidity generation protocol. Simply hold $HODL tokens in your wallet and you will get more. In addition to this, you will also earn daily rewards in $BNB. Accumulating Wealth Was Never This Simple!",
+  "explorer": "https://https://bscscan.com/token/0x0E3EAF83Ea93Abe756690C62c72284943b96a6Bc",
+  "type": "BEP20",
+  "symbol": "HODL",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x0E3EAF83Ea93Abe756690C62c72284943b96a6Bc"
+}
