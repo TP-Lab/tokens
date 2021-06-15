@@ -1,21 +1,11 @@
 {
- 
-"name": "LightningCoin",
-
-"website": "https://www.lhctoken.com",
-
-"description": "Create the greatest degree of consensus, to achieve real autonomy community.",
-
-"explorer": "https://bscscan.com/token/0xa65243dcd741450cc1ee5b31a98293dba68f6578",
- 
-"type": "BEP20",
- 
-"symbol": "LHC",
- 
-"decimals": 18,
- 
-"status": "active",
- 
-"id": "0xa65243dcd741450cc1ee5b31a98293dba68f6578"
-
+ "name": "Sportsmaster",
+ "website": "https://www.sportscoins.luxe",
+ "description": "Realize the fairness of sports events through Sports master technology.It is not only a technology, but also a fuel to improve the quality of life. The membership of the SOE club has been increasing.Our SOE can also earn more benefits for members.",
+ "explorer": "https://hecoinfo.com/token/0xF86d4294020017b8266e58c810bf137e6cAC75F1",
+ "type": "HRC-20",
+ "symbol": "SOE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF86d4294020017b8266e58c810bf137e6cAC75F1"
 }
