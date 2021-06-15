@@ -1,0 +1,10 @@
+{
+ "name": "Get rich Token",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0xc707c1043d102394405eebc06fe8f9e0aba29bf4",
+ "type": "BEP20",
+ "symbol": "BFC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc707c1043d102394405eebc06fe8f9e0aba29bf4"
+}
