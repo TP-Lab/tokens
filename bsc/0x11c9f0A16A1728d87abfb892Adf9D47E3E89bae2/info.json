@@ -1,0 +1,11 @@
+{
+ "name": "PandaDAO Finance Token",
+ "website": "https://pandadao.finance/",
+ "description": "PandaDAO is a Crypto Charity Fund,Every Transaction You Made Changes the World!",
+ "explorer": "https://bscscan.com/token/0x11c9f0A16A1728d87abfb892Adf9D47E3E89bae2",
+ "type": "BEP20",
+ "symbol": "PDD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x11c9f0A16A1728d87abfb892Adf9D47E3E89bae2"
+}
