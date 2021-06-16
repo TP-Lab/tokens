@@ -1,0 +1,12 @@
+{
+ "name": "ClownGirl Coin",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://www.bscscan.com/token/0x714aA5d2068223ac3D28B20f445eeE7E6c13eb4f",
+ "type": "BEP20",
+ "symbol": "ClOWNGIRL",
+ "decimals": 6,
+ "status": "active",
+ "release time": "2021-06-16 22:00",
+ "id": "0x714aA5d2068223ac3D28B20f445eeE7E6c13eb4f"
+}
