@@ -1,0 +1,11 @@
+{
+ "name": "Tether More Token",
+ "website": "http://tmtoken.net/",
+ "description": "tmt is a deflationary token that aggregating revenue generators regularly repurchase tokens and destroy them",
+ "explorer": "https://hecoinfo.com/address/0xcd6745773a3e2f29092d8000cc06f004d4d18c22",
+ "type": "HRC20",
+ "symbol": "TMT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xcD6745773A3E2F29092d8000cc06f004d4D18C22"
+}
