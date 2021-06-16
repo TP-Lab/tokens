@@ -1,0 +1,11 @@
+{
+ "name": "Moneta Token",
+ "website": "https://monetas.cc/",
+ "description": "Moneta is a decentralised synthetic asset issuance protocol built on HSC",
+ "explorer": "https://hscscan.com/address?address=0x124c04Ed0ED67609D194745181CcF2F1DBEf9271",
+ "type": "ERC20",
+ "symbol": "MNA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x124c04Ed0ED67609D194745181CcF2F1DBEf9271"
+}
