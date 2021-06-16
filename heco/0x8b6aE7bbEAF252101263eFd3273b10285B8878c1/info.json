@@ -1,0 +1,11 @@
+{
+ "name": "AI",
+ "website": "www.aicoin.pro",
+ "description": "AI is a decentralized integrated currency on the Huobi chain",
+ "explorer": "https://hecoinfo.com/token/0x8b6ae7bbeaf252101263efd3273b10285b8878c1#balances",
+ "type": "HECO",
+ "symbol": "AI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8b6aE7bbEAF252101263eFd3273b10285B8878c1"
+}
