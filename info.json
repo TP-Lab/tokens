@@ -1,21 +1,11 @@
 {
- 
-"name": "LightningCoin",
-
-"website": "https://www.lhctoken.com",
-
-"description": "Create the greatest degree of consensus, to achieve real autonomy community.",
-
-"explorer": "https://bscscan.com/token/0xa65243dcd741450cc1ee5b31a98293dba68f6578",
- 
-"type": "BEP20",
- 
-"symbol": "LHC",
- 
-"decimals": 18,
- 
-"status": "active",
- 
-"id": "0xa65243dcd741450cc1ee5b31a98293dba68f6578"
-
+ "name": "BTCMOON",
+ "website": "www.btcmooncoin.pro",
+ "description": "BTCMOON is a decentralized integrated currency on the Huobi chain",
+ "explorer": "https://hecoinfo.com/token/0x4D2FbC44D6a88d5a8A14CB61e44cfc8eE7828670#balances",
+ "type": "HECO",
+ "symbol": "BTCMOON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4D2FbC44D6a88d5a8A14CB61e44cfc8eE7828670"
 }
