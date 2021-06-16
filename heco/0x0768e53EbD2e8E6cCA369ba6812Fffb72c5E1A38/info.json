@@ -1,0 +1,11 @@
+{
+ "name": "OPM Token",
+ "website": "http://www.opm-finance.info/",
+ "description": "",
+ "explorer": "https://hecoinfo.com/address/0x0768e53EbD2e8E6cCA369ba6812Fffb72c5E1A38",
+ "type": "HECO",
+ "symbol": "OPM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0768e53EbD2e8E6cCA369ba6812Fffb72c5E1A38"
+}
