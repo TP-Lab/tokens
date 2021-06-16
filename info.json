@@ -1,21 +1,11 @@
 {
- 
-"name": "LightningCoin",
-
-"website": "https://www.lhctoken.com",
-
-"description": "Create the greatest degree of consensus, to achieve real autonomy community.",
-
-"explorer": "https://bscscan.com/token/0xa65243dcd741450cc1ee5b31a98293dba68f6578",
- 
-"type": "BEP20",
- 
-"symbol": "LHC",
- 
-"decimals": 18,
- 
-"status": "active",
- 
-"id": "0xa65243dcd741450cc1ee5b31a98293dba68f6578"
-
+ "name": "FootballHooligans ",
+ "website": "https://footballhooligans.net",
+ "description": "This token is not one of your stupidly launched, useless tokens. This token is a token that all the football fans.",
+ "explorer": "https://bscscan.com/token/0x03ce7649838a811c26c9eabe85a1884e3e0120d4",
+ "type": "BEP20",
+ "symbol": "FBH",
+ "decimals": ,9
+ "status": "active",
+ "id": "0x03ce7649838a811c26c9eabe85a1884e3e0120d4"
 }
