@@ -1,0 +1,11 @@
+{
+ "name": "FawkesMask",
+ "website": "https://fawkesmask.com/",
+ "description": "Fawkes Mask works on an autonomous frictionless yield farming and liquidity generation protocol.Go to Dashboard",
+ "explorer": "https://bscscan.com/token/0xcD3E0f859B34d462337172863009F5Fce898b1FB",
+ "type": "BEP20",
+ "symbol": "FMK",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xcD3E0f859B34d462337172863009F5Fce898b1FB"
+}
