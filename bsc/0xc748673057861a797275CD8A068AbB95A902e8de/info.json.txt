@@ -2,7 +2,7 @@
  "name": "Baby Doge Coin",
  "website": "https://babydogecoin.com",
  "description": "Baby Doge has learned a few tricks and lessons from his father,DogeCoin.Baby Doge seeks to impress",
- "explorer": "https://bscscan.com/tx/0xe5b7f4dfd0305f7651f9688e79b778028d7b729b081a5487f2b288b22b2a6c5d",
+ "explorer": "https://bscscan.com/tx/0x7945373404f30caead65ff76e23dc295b9ccf026cf6aa4c445828a4d6020d630",
  "type": "BEP20",
  "symbol": "BABYDOGE",
  "decimals": 9,
