@@ -1,0 +1,11 @@
+{
+ "name": "HCTMOON",
+ "website": "www.hctmooncoin.pro",
+ "description": "HCTMOON is a decentralized integrated currency on the Huobi chain",
+ "explorer": "https://hecoinfo.com/token/0x639b09f77d8d39dafeedc82a7f32fcaaa74c3af4#balances",
+ "type": "HECO",
+ "symbol": "HCTMOON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x639b09F77D8d39daFEEdC82a7F32fcAAA74C3Af4"
+}
