@@ -1,0 +1,11 @@
+{
+ "name": "Oracle Coin",
+ "website": "https://bscscan.com/",
+ "description": "Oracle provides more open and innovative new technologies, provides investors with a fair, transparent and open trading environment, and provides an ecological value token.",
+ "explorer": "https://bscscan.com/token/0x753b5Ceb49EADda898b083b0c527F3cfF32c8496",
+ "type": "BEP20",
+ "symbol": "ORA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x753b5Ceb49EADda898b083b0c527F3cfF32c8496"
+}
