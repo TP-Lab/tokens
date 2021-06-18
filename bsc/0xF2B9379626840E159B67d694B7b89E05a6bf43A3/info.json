@@ -1,0 +1,11 @@
+{
+    "name": " WaterNetwork",
+    "website": "https://waternetwork.godaddysites.com/",
+    "description": "Water network (hereinafter referred to as 🌎WN) is based on the development of BSC ecological chain.",
+    "explorer": "https://bscscan.com/token/0xf2b9379626840e159b67d694b7b89e05a6bf43a3",
+    "type": "ERC20",
+    "symbol": "🌎WN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf2b9379626840e159b67d694b7b89e05a6bf43a3"
+   }
