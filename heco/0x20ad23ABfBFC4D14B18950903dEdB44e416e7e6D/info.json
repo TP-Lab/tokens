@@ -1,0 +1,11 @@
+{
+    "name": "USDT",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://hecoinfo.com/token/0x20ad23ABfBFC4D14B18950903dEdB44e416e7e6D",
+    "type": "HRC20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x20ad23ABfBFC4D14B18950903dEdB44e416e7e6D"
+   }
