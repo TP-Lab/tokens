@@ -1,0 +1,11 @@
+{
+ "name": "Global ETH",
+ "website": "https://globaleth.org",
+ "description": "GETH环球以太生态挖矿",
+ "explorer": "https://bscscan.com/token/0x9BD6B2B99df3B5d03f5F02B7f04bbA9D8E99134C",
+ "type": "BEP20",
+ "symbol": "GETH",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9BD6B2B99df3B5d03f5F02B7f04bbA9D8E99134C"
+}
