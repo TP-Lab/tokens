@@ -1,0 +1,11 @@
+{
+ "name": "MarsDoge Token",
+ "website": "https://mdoge.club",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x42ae39614c6694dff6a238fa6513162cd50665fb",
+ "type": "MarsDoge",
+ "symbol": "MDOGE",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x42ae39614c6694dff6a238fa6513162cd50665fb"
+}
