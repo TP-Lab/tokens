@@ -1,0 +1,11 @@
+{
+ "name": "Father",
+ "website": "нч",
+ "description": "FatherIt is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
+ "explorer": "https://hecoinfo.com/address/0x0b30c4a69f938554e3d98e79bf18e1a1ccc86841",
+ "type": "HRC20",
+ "symbol": "Father",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0B30C4a69f938554e3d98e79bf18E1a1CcC86841"
+} 
