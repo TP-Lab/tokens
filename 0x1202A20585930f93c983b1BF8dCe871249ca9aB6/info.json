@@ -1,0 +1,11 @@
+{
+ "name": "Michelin Army",
+ "website": "http://www.michelinarmy.com/",
+ "description": "Creating a top-notch blockchain catering service .Bring delicious food with you to the moon.Creating a unique restaurant industry legend.",
+ "explorer": "https://bscscan.com/token/0x1202A20585930f93c983b1BF8dCe871249ca9aB6",
+ "type": "BEP20",
+ "symbol": "MA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1202A20585930f93c983b1BF8dCe871249ca9aB6"
+}
