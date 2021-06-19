@@ -1,0 +1,11 @@
+{
+ "name": "dalmatians",
+ "website": "-",
+ "description": "DMS （dalmatians）是一个开放、去中心化的平台，在生态系统里，DMS是最基本的货币，DMS总量是固定的，但是价值是不定的。",
+ "explorer": "https://hecoinfo.com/token/0xfd137d9aa80518b1b66faa72471d7eaa491cd822",
+ "type": "HRC-20",
+ "symbol": "DMS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFD137d9Aa80518B1B66faa72471d7eAa491cD822"
+}
