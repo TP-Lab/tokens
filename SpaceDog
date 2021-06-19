@@ -1,0 +1,19 @@
+File Extension: png . Uppercase PNG is considered invalid
+File Name：logo.png
+Size: 256px by 256px
+Background: transparent is recommanded.
+
+文件扩展名：json，请勿大写JSON
+文件名称：info.json
+
+{
+ "name": "TokenPocket Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xb8457dcd6bad32fa4d38aed082ea0962c4f34bc9"
+}
