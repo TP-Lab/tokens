@@ -1,0 +1,11 @@
+{
+ "name": "PhyseterToken",
+ "website": "https://PhyseterToken.io",
+ "description": " PhyseterToken is a token on bsc boasting a number of impressive features",
+ "explorer": "https://bscscan.com/token/0x1d5ddd30211fFaec5F05962e690b1fdB51aEF9BB",
+ "type": "BEP20",
+ "symbol": "PHST",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x1d5ddd30211fFaec5F05962e690b1fdB51aEF9BB"
+}
