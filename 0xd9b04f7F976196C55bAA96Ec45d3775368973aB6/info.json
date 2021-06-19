@@ -1,0 +1,11 @@
+{
+ "name": "HgdMoon Coin",
+ "website": "https://www.hgdmoon.pro",
+ "description": "HgdMoon is a token on Huobi Eco(HECO) Chain boasting a number of impressive features",
+ "explorer": "https://hecoinfo.com/token/0xd9b04f7F976196C55bAA96Ec45d3775368973aB6",
+ "type": "HECO",
+ "symbol": "HGDMOON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd9b04f7F976196C55bAA96Ec45d3775368973aB6"
+}
