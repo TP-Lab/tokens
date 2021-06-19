@@ -1,0 +1,11 @@
+{
+ "name": "Baby Whale",
+ "website": "http://www.68ggg.shop",
+ "description": "Don't give up.",
+ "explorer": "https://bscscan.com/token/0x627488207b1a53e1eAE3ee5c11061059e0ea354B",
+ "type": "BEP20",
+ "symbol": "Baby Whale",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x627488207b1a53e1eAE3ee5c11061059e0ea354B"
+}
