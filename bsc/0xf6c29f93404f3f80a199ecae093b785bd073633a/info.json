@@ -1,0 +1,11 @@
+{
+ "name": "LickDog",
+ "website": "https://lickdog.club",
+ "description": "Don't let your beloved girl treat you as a lick dog. Now you can buy LickDog coins in pancake and join the lickdog army!",
+ "explorer": "https://bscscan.com/token/0xf6c29f93404f3f80a199ecae093b785bd073633a",
+ "type": "BEP20",
+ "symbol": "LickDog",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xf6c29f93404f3f80a199ecae093b785bd073633a"
+}
