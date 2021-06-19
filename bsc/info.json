@@ -1,0 +1,11 @@
+{
+ "name": "CowDung Token",
+ "website": "http://cowdungtoken.com",
+ "description": "CowDung is a decentralized digital currency based on Binance Smart Chain, which has the functions of holding money to generate interest and burning.",
+ "explorer": "https://bscscan.com/token/0x92e5D7Cf4c0eb9828870fCbA3582fD4c641d7a4B",
+ "type": "BEP20",
+ "symbol": "CowDung",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x92e5D7Cf4c0eb9828870fCbA3582fD4c641d7a4B"
+}
