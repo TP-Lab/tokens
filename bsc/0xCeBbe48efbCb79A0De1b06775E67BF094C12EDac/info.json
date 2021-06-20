@@ -1,0 +1,11 @@
+{
+ "name": "Video Hephburn Token",
+ "website": "http://1.shuzi.tf",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xCeBbe48efbCb79A0De1b06775E67BF094C12EDac",
+ "type": "BEP20",
+ "symbol": "VH",
+ "decimals": 3,
+ "status": "active",
+ "id": "0xCeBbe48efbCb79A0De1b06775E67BF094C12EDac"
+}
