@@ -1,0 +1,11 @@
+{
+ "name": "Day Long Bi",
+ "website": "-",
+ "description": "DLONG致力于开发比特币和以太坊之外的第三种区块链生态系统，并致力于拓展区块链技术的应用边界和技术边界，使普通互联网用户能感受到区块链技术的价值。",
+ "explorer": "https://bscscan.com/token/0x0fbd23028f9ddebde1b12b673cf335b9ccbcf851",
+ "type": "BEP20",
+ "symbol": "BSC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0Fbd23028f9ddebDe1b12B673Cf335B9CCbcF851"
+}
