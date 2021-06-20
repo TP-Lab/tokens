@@ -1,0 +1,11 @@
+{
+ "name": "EverRase",
+ "website": "http://everrase.beaa.cn",
+ "description": "The original & first ever proprietary, buy-back hyper-deflationary token on the BSC.Join our telegram: https://t.me/RASETOKEN",
+ "explorer": "https://bscscan.com/token/0xc9869a7cae0d5262422c32d481b8b6642a004a8f",
+ "type": "BEP20",
+ "symbol": "RASE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xc9869a7cae0d5262422c32d481b8b6642a004a8f"
+}
