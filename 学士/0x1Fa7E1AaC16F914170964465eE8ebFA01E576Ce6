@@ -1,0 +1,11 @@
+{
+ "name": "Takung Art",
+ "website": "http://www.takungae.com/aboutUS.jhtml",
+ "description": "TKAT is an international electronic trading platform providing advanced and convenient services for all kinds of cultural and artistic works.",
+ "explorer": "https://bscscan.com/token/0x1Fa7E1AaC16F914170964465eE8ebFA01E576Ce6",
+ "type": "BEP20",
+ "symbol": "TKAT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x1Fa7E1AaC16F914170964465eE8ebFA01E576Ce6"
+}
