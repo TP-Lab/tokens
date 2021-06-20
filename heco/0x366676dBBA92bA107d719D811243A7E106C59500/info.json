@@ -1,0 +1,11 @@
+﻿{
+ "name": "Market Game Coin",
+ "website": "https://weibo.com/u/7624809744",
+ "description": "Market Game Coin, MGB. Decentralized Board Game Community Tokens, small payouts for the Werewolf kill, script kill, and other board game culture communities.",
+ "explorer": "https://hecoinfo.com/token/0x366676dbba92ba107d719d811243a7e106c59500",
+ "type": "HRC20",
+ "symbol": "MGB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x366676dBBA92bA107d719D811243A7E106C59500"
+}
