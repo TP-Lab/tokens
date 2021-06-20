@@ -1,11 +1,11 @@
 {
- "name": "DragonBall",
- "website": "www.dragonball.org",
- "description": "’ŸªΩ…Ò¡˙",
- "explorer": "https://hecoinfo.com/token/0xe18dadfed8ce207a503d7c9896c4b747925b956d",
- "type": "HRC20",
- "symbol": "DB",
- "decimals": 18,
- "status": "active",
- "id": "0xe18dadfed8ce207a503d7c9896c4b747925b956d"
+"name": "DragonBall",
+"website": " ",
+"description":"-",
+"explorer": "https://hecoinfo.com/token/0xe18dadfed8ce207a503d7c9896c4b747925b956d",
+"type": "IERC20",
+"symbol": "DB",
+"decimals": 18,
+"status": "active",
+"id": "0xe18dadfed8ce207a503d7c9896c4b747925b956d"
 }
