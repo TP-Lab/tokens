@@ -1,0 +1,11 @@
+{
+ "name": "Greenearth",
+ "website": "http://Greenearth.com/",
+ "description": "Bed in green earth.",
+ "explorer": "https://bscscan.com/token/0x227b66ffc508ddd787b38da845e9a00c039c95c6",
+ "type": "BEP20",
+ "symbol": "Greenearth",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x227b66ffc508ddd787b38da845e9a00c039c95c6"
+}
