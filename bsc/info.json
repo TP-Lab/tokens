@@ -1,0 +1,11 @@
+{
+ "name": "HuMan ToKen",
+ "website": "https://www.humanprotocol.org/",
+ "description": "Creating distributed labor markets that ignite global workforces  —  and, through them, a new generation of globally representative AI and ML technologies  —  by tokenizing the publishing and completion of tasks of any size or type.",
+ "explorer": "https://bscscan.com/token/0x5deBF6F920B4ad48Ea3a7F0bd5758c71124D8CEE",
+ "type": "BEP20",
+ "symbol": "HUM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5deBF6F920B4ad48Ea3a7F0bd5758c71124D8CEE"
+}
