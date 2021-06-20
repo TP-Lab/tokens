@@ -1,0 +1,11 @@
+{
+ "name": "NewTon",
+ "website": "https://tokenpocket.pro",
+ "description": "A niu dun niu bi",
+ "explorer": "https://hecoinfo.com/token/0x044039fA74c89AA3B580c847193be1D2C52372f1",
+ "type": "heco",
+ "symbol": "NewTon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x044039fA74c89AA3B580c847193be1D2C52372f1"
+}
