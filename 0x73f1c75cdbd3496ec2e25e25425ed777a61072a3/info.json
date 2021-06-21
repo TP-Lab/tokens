@@ -1,0 +1,11 @@
+{
+ "name": "Old football",
+ "website": "https://www.Old football.com",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0x73f1c75cdbd3496ec2e25e25425ed777a61072a3",
+ "type": "BEP20",
+ "symbol": "OFB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x73f1c75cdbd3496ec2e25e25425ed777a61072a3"
+}
