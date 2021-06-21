@@ -1,11 +1,11 @@
 {
- "name": "AMBG",
- "website": "https://ambg.mystrikingly.com",
- "description": "AMBG is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
- "explorer": "https://hecoinfo.com/address/0x40c8926c0009dE8cD2dBcABaAe7904c6Bc360BB7",
+ "name": "WSTT",
+ "website": "https://wstt.mystrikingly.com",
+ "description": "WSTT is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
+ "explorer": "https://hecoinfo.com/address/0xbc3ADB9dd2f8728cA4d54306500583E0b3Fc4aE5",
  "type": "HRC20",
- "symbol": "AMBG",
+ "symbol": "WSTT",
  "decimals": 18,
  "status": "active",
- "id": "0x40c8926c0009dE8cD2dBcABaAe7904c6Bc360BB7"
+ "id": "0xbc3ADB9dd2f8728cA4d54306500583E0b3Fc4aE5"
 } 
