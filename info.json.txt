@@ -1,11 +1,11 @@
 {
- "name": "Father",
- "website": "https://father.mystrikingly.com",
- "description": "FatherIt is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
- "explorer": "https://hecoinfo.com/address/0x0b30c4a69f938554e3d98e79bf18e1a1ccc86841",
+ "name": "BCH",
+ "website": "https://bchcoin.mystrikingly.com",
+ "description": "BCH is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
+ "explorer": "https://hecoinfo.com/address/0x19996d4a1badeec315595c5286ef3353ea54dafd",
  "type": "HRC20",
- "symbol": "Father",
+ "symbol": "BCH",
  "decimals": 18,
  "status": "active",
- "id": "0x0B30C4a69f938554e3d98e79bf18E1a1CcC86841"
+ "id": "0x19996d4a1BADEec315595C5286ef3353Ea54DafD"
 } 
