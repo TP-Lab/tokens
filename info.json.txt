@@ -1,11 +1,11 @@
 {
- "name": "WSTT",
- "website": "https://wstt.mystrikingly.com",
- "description": "WSTT is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
- "explorer": "https://hecoinfo.com/address/0xbc3ADB9dd2f8728cA4d54306500583E0b3Fc4aE5",
+ "name": "HYB",
+ "website": "https://hybcoin.mystrikingly.com",
+ "description": "HYB is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
+ "explorer": "https://hecoinfo.com/address/0xF413Ddc2bF914734139D59d12948F1F5e79DC765",
  "type": "HRC20",
- "symbol": "WSTT",
+ "symbol": "HYB",
  "decimals": 18,
  "status": "active",
- "id": "0xbc3ADB9dd2f8728cA4d54306500583E0b3Fc4aE5"
+ "id": "0xF413Ddc2bF914734139D59d12948F1F5e79DC765"
 } 
