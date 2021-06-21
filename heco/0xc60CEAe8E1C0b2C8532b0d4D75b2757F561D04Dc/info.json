@@ -1,0 +1,11 @@
+{
+ "name": "WOE",
+ "website": "无",
+ "description": "WOE是基于火币发行的代币，永不增发，未来价值巨大",
+ "explorer": "https://hecoinfo.com/token/0xc60CEAe8E1C0b2C8532b0d4D75b2757F561D04Dc",
+ "type": "HRC20",
+ "symbol": "WOE",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xc60CEAe8E1C0b2C8532b0d4D75b2757F561D04Dc"
+}
