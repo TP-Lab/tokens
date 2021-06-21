@@ -1,0 +1,11 @@
+{
+    "name": "Rocket Smart Chain",
+    "website": "http://rscx.org",
+    "description": "Rocket Smart Chain (RSCX) is a decentralized community driven platform",
+    "explorer": "https://hecoinfo.com/token/0xf0616E7606D35A40633110b681D2829Dc8AD72D9",
+    "type": "HRC20",
+    "symbol": "RSCX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf0616E7606D35A40633110b681D2829Dc8AD72D9"
+}
