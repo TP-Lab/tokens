@@ -1,11 +1,11 @@
 {
- "name": "BCH",
- "website": "https://bchcoin.mystrikingly.com",
- "description": "BCH is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
- "explorer": "https://hecoinfo.com/address/0x19996d4a1badeec315595c5286ef3353ea54dafd",
+ "name": "ETB",
+ "website": "https://etbcoin.mystrikingly.com",
+ "description": "ETB is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
+ "explorer": "https://hecoinfo.com/address/0x14774d0273dd0d8f6e9aae50e03d60225f4b159f",
  "type": "HRC20",
- "symbol": "BCH",
+ "symbol": "ETB",
  "decimals": 18,
  "status": "active",
- "id": "0x19996d4a1BADEec315595C5286ef3353Ea54DafD"
+ "id": "0x14774d0273dd0d8f6e9aaE50e03D60225f4b159F"
 } 
