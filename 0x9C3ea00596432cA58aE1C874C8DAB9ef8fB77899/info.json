@@ -1,0 +1,11 @@
+{
+ "name": "KOK",
+ "website": "https://www.KOK.com",
+ "description": "HECO",
+ "explorer": "https://bscscan.com/token/0x9C3ea00596432cA58aE1C874C8DAB9ef8fB77899",
+ "type": "HECO",
+ "symbol": "KOK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9C3ea00596432cA58aE1C874C8DAB9ef8fB77899"
+}
