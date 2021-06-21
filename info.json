@@ -1,12 +1,11 @@
 {
- "name": "DST Token",
- "website": "
-"https://www.dst.io",
- "DST": "DST，中文名：DST token is an experiment of a new blockchain protocol",
- "explorer": "https://tronscan.io/#/token20/TJUSNgeBPFTMxT3HtQXWQbcKwKMhBzsR5b",
- "type": "TRC20",
- "symbol": "DST",
+ "name": "ETHPT",
+ "website": "http://www.vitalik.fit/",
+ "description": "ETH derivative branch.",
+ "explorer": "https://bscscan.com/token/0x7Ac498C4Fbe659DAE5E16E5d05d3BE80E7E4C557",
+ "type": "BEP20",
+ "symbol": "ETHPT",
  "decimals": 9,
  "status": "active",
- "id": "TJUSNgeBPFTMxT3HtQXWQbcKwKMhBzsR5b"
+ "id": "0x7Ac498C4Fbe659DAE5E16E5d05d3BE80E7E4C557"
 }
