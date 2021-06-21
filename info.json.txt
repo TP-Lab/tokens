@@ -1,11 +1,11 @@
 {
- "name": "Father",
- "website": "https://father.mystrikingly.com",
- "description": "FatherIt is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
- "explorer": "https://hecoinfo.com/address/0x0b30c4a69f938554e3d98e79bf18e1a1ccc86841",
+ "name": "AMBG",
+ "website": "https://ambg.mystrikingly.com",
+ "description": "AMBG is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
+ "explorer": "https://hecoinfo.com/address/0x40c8926c0009dE8cD2dBcABaAe7904c6Bc360BB7",
  "type": "HRC20",
- "symbol": "Father",
+ "symbol": "AMBG",
  "decimals": 18,
  "status": "active",
- "id": "0x0B30C4a69f938554e3d98e79bf18E1a1CcC86841"
+ "id": "0x40c8926c0009dE8cD2dBcABaAe7904c6Bc360BB7"
 } 
