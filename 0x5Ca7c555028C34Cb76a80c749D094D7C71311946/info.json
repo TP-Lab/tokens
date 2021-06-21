@@ -1,0 +1,11 @@
+{
+    "name": "LoveCoin",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://hecoinfo.com/token/0x5Ca7c555028C34Cb76a80c749D094D7C71311946",
+    "type": "BEP20",
+    "symbol": "LVC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5Ca7c555028C34Cb76a80c749D094D7C71311946"
+   }
