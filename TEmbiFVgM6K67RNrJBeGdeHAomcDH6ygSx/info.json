@@ -1,0 +1,11 @@
+{
+ "name": "one on one",
+ "website": "https://www.ooocoin.io/",
+ "description": "OOO is committed to building a global consensus on social.",
+ "explorer": "https://tronscan.org/#/contract/TEmbiFVgM6K67RNrJBeGdeHAomcDH6ygSx",
+ "type": "TRC20",
+ "symbol": "OOO",
+ "decimals": 0,
+ "status": "active",
+ "id": "TEmbiFVgM6K67RNrJBeGdeHAomcDH6ygSx"
+}
