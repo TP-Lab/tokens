@@ -1,0 +1,11 @@
+{
+ "name": "Firework Token",
+ "website": "https://july.party/",
+ "description": "Holiday celebration token for the Fourth of July",
+ "explorer": "https://bscscan.com/token/0xaA1DeB0768D3ee41673bcA440941709DfB3486a6",
+ "type": "BEP20",
+ "symbol": "Firework",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaA1DeB0768D3ee41673bcA440941709DfB3486a6"
+}
