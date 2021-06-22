@@ -1,0 +1,11 @@
+{
+ "name": "Paul Frank",
+ "website": "https://www.pau.cn",
+ "description": "PAU大嘴猴.",
+ "explorer": "https://bscscan.com/token/0x0c598280ebf557334dd7f24ffd4ea4061375e898",
+ "type": "BEP20",
+ "symbol": "PAU",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x0C598280ebf557334Dd7F24FfD4EA4061375e898"
+}
