@@ -1,0 +1,11 @@
+{
+    "name": "SAFEMOON",
+    "website": "-",
+    "description": "SAFEMOON To Moon!",
+    "explorer": "https://hecoinfo.com/token/0xcb33fe7abc556888cf6d66739ffcc1f101a2b11c",
+    "type": "HRC-20",
+    "symbol": "SAFEMOON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xcb33fe7abc556888cf6d66739ffcc1f101a2b11c"
+   }
