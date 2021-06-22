@@ -1,0 +1,19 @@
+{
+ "name": "庄子",
+
+"website": "https://welove.mysxl.cn/",
+
+"description": "完全社区自治.",
+
+"explorer": "https://hecoinfo.com/token/0x209c9f3320446aa6c981399f0d3d1a03b87a33e4",
+
+"type": "ERC20",
+
+"symbol": "zhuangzhou",
+ 
+"decimals": 18,
+
+"status": "active",
+
+"id": "0x209c9f3320446aa6c981399f0d3d1a03b87a33e4"
+}
