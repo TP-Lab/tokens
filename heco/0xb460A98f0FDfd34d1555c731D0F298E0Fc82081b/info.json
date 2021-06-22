@@ -1,0 +1,11 @@
+{
+ "name": "Comet",
+ "website": "http://www.no1comet.pro",
+ "description": "It's a token with great ambition and realistic value.",
+ "explorer": "https://hecoinfo.com/token/0xb460A98f0FDfd34d1555c731D0F298E0Fc82081b",
+ "type": "HRC20",
+ "symbol": "Comet",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb460A98f0FDfd34d1555c731D0F298E0Fc82081b"
+}
