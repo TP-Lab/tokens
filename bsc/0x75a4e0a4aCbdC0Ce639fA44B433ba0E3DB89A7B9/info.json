@@ -1,0 +1,11 @@
+{
+  "name": "MIKE Token",
+  "website": "https://mikefinance6.com",
+  "description": "our priority is creating a platform where you can participate in making the world better",
+  "explorer": "https://bscscan.com/token/0x75a4e0a4aCbdC0Ce639fA44B433ba0E3DB89A7B9",
+  "type": "BEP20",
+  "symbol": "MIKE",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x75a4e0a4aCbdC0Ce639fA44B433ba0E3DB89A7B9"
+}
