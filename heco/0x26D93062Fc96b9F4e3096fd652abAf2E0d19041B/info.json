@@ -1,0 +1,11 @@
+{
+ "name": "Hello World",
+ "website": "https://helloworld.pro",
+ "description": "this project is want to show the world on HECO.",
+ "explorer": "https://hecoinfo.com/token/0x26D93062Fc96b9F4e3096fd652abAf2E0d19041B",
+ "type": "HRC-20",
+ "symbol": "HWC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x26D93062Fc96b9F4e3096fd652abAf2E0d19041B"
+}
