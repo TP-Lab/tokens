@@ -1,0 +1,11 @@
+{
+ "name": "Yearn Finking",
+ "website": "",
+ "description": "Combing investment with altruism and charity.",
+ "explorer": "https://bscscan.com/token/0xDa8555ECb52513AF42b9e0d225145AF5beB76a858",
+ "type": "BEP20",
+ "symbol": "YFIK",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xDa8555ECb52513AF42b9e0d225145AF5beB76a858"
+}
