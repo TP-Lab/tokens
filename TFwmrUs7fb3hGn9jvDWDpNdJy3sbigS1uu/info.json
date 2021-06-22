@@ -1,0 +1,11 @@
+{
+ "name": "BitCoin Aim",
+ "website": "https://bitcoinaim.biz",
+ "description": "全称BitCoin Aim,简称BCA,打造DEFI中的BTC,恒量发行,总量9931,全部流通,永不增发.",
+ "explorer": "https://tronscan.org/#/token20/TFwmrUs7fb3hGn9jvDWDpNdJy3sbigS1uu",
+ "type": "TRC20",
+ "symbol": "BCA",
+ "decimals": 9,
+ "status": "active",
+ "id": "TFwmrUs7fb3hGn9jvDWDpNdJy3sbigS1uu"
+}
