@@ -1,0 +1,11 @@
+﻿{
+ "name": "BSO",
+ "website": "https://www.bsocoin.org",
+ "description": "BSO (BaySol) is an open source cryptocurrency that focuses on privacy, decentralization and scalability.",
+ "explorer": "https://bscscan.com/token/0x16D7373b21c96BCC38A9d9161d9029a3596D4204",
+ "type": "BEP20",
+ "symbol": "BSO",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x16D7373b21c96BCC38A9d9161d9029a3596D4204"
+}
