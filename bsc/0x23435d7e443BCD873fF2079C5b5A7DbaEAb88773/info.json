@@ -1,0 +1,11 @@
+{
+ "name": "Anonymous network",
+ "website": "http://anonymous-network.com/",
+ "description": "A leading multi-chain wallet that supports BSC",
+ "explorer": "https://bscscan.com/token/0x23435d7e443BCD873fF2079C5b5A7DbaEAb88773",
+ "type": "BEP20",
+ "symbol": "AYS",
+ "decimals": 1,
+ "status": "active",
+ "id": "0x23435d7e443BCD873fF2079C5b5A7DbaEAb88773"
+}
