@@ -1,11 +1,11 @@
 {
- "name": "vtoken",
- "website": "https://vtoken.mystrikingly.com",
- "description": "vtoken is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
- "explorer": "https://hecoinfo.com/address/0x9bf726bbd7ac76fd034a4c887d3c9e975fa6aa45",
+ "name": "VBCCn",
+ "website": "https://vbcc.mystrikingly.com",
+ "description": "VBCC is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
+ "explorer": "https://hecoinfo.com/address/0xa5567f69137e3c451f1a7fe66ac6871cab17fc5a",
  "type": "HRC20",
- "symbol": "vtoken",
+ "symbol": "VBCC",
  "decimals": 18,
  "status": "active",
- "id": "0x9bf726BbD7AC76fD034A4C887D3c9E975fa6AA45"
+ "id": "0xa5567F69137E3c451f1a7fe66AC6871CAb17FC5A"
 } 
