@@ -1,0 +1,11 @@
+{
+ "name": "HZ Token",
+ "website": "https://hecoinfo.com/",
+ "description": "火种HZ是基于火币生态链的去中心化通缩型分红代币，以共识机制进入DEFI市场的社区代币.",
+ "explorer": "https://hecoinfo.com/token/0x4521aa810ebb82d4731f803687fdf4e3b456902c",
+ "type": "HRC-20",
+ "symbol": "HZ",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x4521aa810ebb82d4731f803687fdf4e3b456902c"
+}
