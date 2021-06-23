@@ -1,0 +1,11 @@
+{
+    "name":"SYNC",
+    "website":"-",
+    "description":"SYNC is a token on Huobi Eco(HECO) Chain boasting a number of impressive features.",
+    "explorer":"https://hecoinfo.com/token/0x524f6b2c6d595c7120eb3a1bf61dcacccfe3279f",
+    "type":"HRC20",
+    "symbol":"SYNC",
+    "decimals":9,
+    "status":"active",
+    "id":"0x524f6b2c6d595c7120eb3a1bf61dcacccfe3279f"
+}
