@@ -1,0 +1,11 @@
+{
+ "name": "TokenPocket Token",
+ "website": "http://jamglobalcommunity.com",
+ "description": "Jam Token",
+ "explorer": "https://bscscan.com/token/0x636074740273e1a916ed51c7c9090a794efb86b6",
+ "type": "BEP20",
+ "symbol": "Jam",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x636074740273e1a916ed51c7c9090a794efb86b6"
+}
