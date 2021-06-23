@@ -1,0 +1,11 @@
+{
+ "name": "Jackpot",
+ "website": "-",
+ "description": "HECO",
+ "explorer": "https://hecoinfo.com/address/0x13131Bc51025e2Abb51A934bF842b9Dc96A451fe",
+ "type": "HRC-20",
+ "symbol": "Jackpot",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x13131Bc51025e2Abb51A934bF842b9Dc96A451fe"
+}
