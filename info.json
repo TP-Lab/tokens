@@ -1,12 +1,11 @@
 {
- "name": "DST Token",
- "website": "
-"https://www.dst.io",
- "DST": "DST，中文名：DST token is an experiment of a new blockchain protocol",
- "explorer": "https://tronscan.io/#/token20/TJUSNgeBPFTMxT3HtQXWQbcKwKMhBzsR5b",
- "type": "TRC20",
- "symbol": "DST",
- "decimals": 9,
+ "name": "MCC Token",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BSC.",
+ "explorer": "https://bscscan.com/token/0x2754ebb4755d8551c0fe72b6cc667ee4dbdbeac7",
+ "type": "BEP20",
+ "symbol": "MCC",
+ "decimals": 8,
  "status": "active",
- "id": "TJUSNgeBPFTMxT3HtQXWQbcKwKMhBzsR5b"
+ "id": "0x2754ebb4755d8551c0fe72b6cc667ee4dbdbeac7"
 }
