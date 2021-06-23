@@ -1,11 +1,11 @@
 {
- "name": "HYB",
- "website": "https://hybcoin.mystrikingly.com",
- "description": "HYB is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
- "explorer": "https://hecoinfo.com/address/0xF413Ddc2bF914734139D59d12948F1F5e79DC765",
+ "name": "vtoken",
+ "website": "https://vtoken.mystrikingly.com",
+ "description": "vtoken is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
+ "explorer": "https://hecoinfo.com/address/0x9bf726bbd7ac76fd034a4c887d3c9e975fa6aa45",
  "type": "HRC20",
- "symbol": "HYB",
+ "symbol": "vtoken",
  "decimals": 18,
  "status": "active",
- "id": "0xF413Ddc2bF914734139D59d12948F1F5e79DC765"
+ "id": "0x9bf726BbD7AC76fD034A4C887D3c9E975fa6AA45"
 } 
