@@ -1,0 +1,11 @@
+{
+ "name": "NFTX Token",
+ "website": "http://www.nf-tx.com/",
+ "description": "NFTX（NFT Market）is a marketplace for NFTs which is based on blockchain. It is trading NFTs marketplace in the Tron ecosystem, with its own public blockchain.",
+ "explorer": "https://tronscan.io/#/token20/TXr4ahDvo3ESzAXJNVcH4j2jRzzPN1D4b4",
+ "type": "TRC20",
+ "symbol": "NFTX",
+ "decimals": 6,
+ "status": "active",
+ "id": "TXr4ahDvo3ESzAXJNVcH4j2jRzzPN1D4b4"
+}
