@@ -1,11 +1,11 @@
 {
- "name": "EAC",
- "website": "https://eaccoin.mystrikingly.com",
- "description": "EAC is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
- "explorer": "https://hecoinfo.com/address/0xa5b0dc63c218b5d4b5c7510f07324e69b223058d",
+ "name": "BCH",
+ "website": "https://bchcoin.mystrikingly.com",
+ "description": "BCH is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
+ "explorer": "https://hecoinfo.com/address/0x19996d4a1badeec315595c5286ef3353ea54dafd",
  "type": "HRC20",
- "symbol": "EAC",
+ "symbol": "BCH",
  "decimals": 18,
  "status": "active",
- "id": "0xa5B0Dc63C218B5d4b5C7510f07324E69B223058d"
+ "id": "0x19996d4a1BADEec315595C5286ef3353Ea54DafD"
 } 
