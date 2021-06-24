@@ -1,0 +1,11 @@
+string private _name = 'Little Teddy';
+    string private _symbol = 'Little Teddy';
+    uint8 private _decimals = 9;
+    
+    uint256 public _taxFee = 6;
+    uint256 private _previousTaxFee = _taxFee;
+    uint256 public _burnFee = 6;
+    uint256 private _previousBurnFee = _burnFee;
+    
+    address public burnAdd = 0x000000000000000000000000000000000000dEaD;
+    
