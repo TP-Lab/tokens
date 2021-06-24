@@ -1,0 +1,11 @@
+{
+ "name": "Second Block",
+ "website": "https://tokenpocket.pro",
+ "description": "Second Block is an integrated ecosystem of DEFI and NFT where players collaborate to create virtual worlds and games without centralized governance.",
+ "explorer": "https://bscscan.com/token/0x92E0f19F6107Add891662C096C20aD986eFBdA13",
+ "type": "BEP20",
+ "symbol": "SBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x92E0f19F6107Add891662C096C20aD986eFBdA13"
+}
