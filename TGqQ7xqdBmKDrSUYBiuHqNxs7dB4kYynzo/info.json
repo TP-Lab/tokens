@@ -1,0 +1,12 @@
+{
+ "name": "Classical Hollywood Cinema",
+ "website": "https://tronscan.org/#/contract/TGqQ7xqdBmKDrSUYBiuHqNxs7dB4kYynzo
+",
+ "description": "chc是国内外第一个社区布局的影视生态孵化器，重点应用于好莱坞影视大片拍摄，制作，国际影星聘请，影视新人培养等领域，是影视领域的真正数字资产通证.",
+ "explorer": "https://tronscan.io/#/contract/TGSUCsTpyUPCx9ZHZsNHxmYbdRiRh1o8eq",
+ "type": "TRC20",
+ "symbol": "CHC",
+ "decimals": 18,
+ "status": "active",
+ "id": "TGqQ7xqdBmKDrSUYBiuHqNxs7dB4kYynzo"
+}
