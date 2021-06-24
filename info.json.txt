@@ -1,11 +1,11 @@
 {
- "name": "Clown HECO Huobi",
- "website": "无",
- "description":  Clown HECO huobi简称CHH是发行火币生态链永不增发币种，潜力巨大",
- "explorer": "https://hecoinfo.com/address/0x5c8928860fd19ba0fc364bbe9d1b99b084e88889",
+ "name": "vtoken",
+ "website": "https://vtoken.mystrikingly.com",
+ "description": "vtoken is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
+ "explorer": "https://hecoinfo.com/address/0x9bf726bbd7ac76fd034a4c887d3c9e975fa6aa45",
  "type": "HRC20",
- "symbol": "CHH",
+ "symbol": "vtoken",
  "decimals": 18,
  "status": "active",
- "id": "0x5c8928860fd19ba0fc364bbe9d1b99b084e88889"
-}
+ "id": "0x9bf726BbD7AC76fD034A4C887D3c9E975fa6AA45"
+} 
