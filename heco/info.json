@@ -1,0 +1,11 @@
+{
+ "name": "CHIAN-ATM Token",
+ "website": "https://TMD.WORLD",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/token/0xfBC34136723d33B47629f993133d39b395c9590D",
+ "type": "HECO20",
+ "symbol": "CTM",
+ "decimals": 18,
+ "status": "active",
+ "0xfBC34136723d33B47629f993133d39b395c9590D"
+}
