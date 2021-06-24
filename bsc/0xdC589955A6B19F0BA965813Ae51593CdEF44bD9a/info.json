@@ -1,0 +1,10 @@
+{
+ "name": "Fire Fox",
+ "description": "Committed to the development of new fire coin.",
+ "explorer": "https://bscscan.com/token/0xdC589955A6B19F0BA965813Ae51593CdEF44bD9a",
+ "type": "BEP20",
+ "symbol": "Fire Fox",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdC589955A6B19F0BA965813Ae51593CdEF44bD9a"
+}
