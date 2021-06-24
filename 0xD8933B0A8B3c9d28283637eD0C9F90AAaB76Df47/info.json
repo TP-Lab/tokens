@@ -1,0 +1,11 @@
+{
+ "name": "Pubg Grand Casino Token",
+ "website": "https://twitter.com/PUBGDDC",
+ "description": "绝地求生大赌场游戏，我们创建了PUBG代币，总量1万亿枚，每天的北京时间21:30—00:00为赌局开盘时间，第一天开局拿10个BNB和100%的PUBG代币添加到流动池，前60分钟为安全期，后90分钟为博弈期。",
+ "explorer": "https://bscscan.com/token/0xD8933B0A8B3c9d28283637eD0C9F90AAaB76Df47",
+ "type": "BEP20",
+ "symbol": "PUBG",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xD8933B0A8B3c9d28283637eD0C9F90AAaB76Df47"
+}
