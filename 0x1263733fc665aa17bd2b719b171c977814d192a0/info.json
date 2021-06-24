@@ -1,0 +1,11 @@
+{
+ "name": "Dragon Ball",
+ "website": "https://Dragon BallToken.com",
+ "description": "Dragon Ball（龙珠）是由动画《龙珠》版权公司进军加密世界所推出的一个NFT应用平台",
+ "explorer": "https://bscscan.com/token/0x1263733fc665aa17bd2b719b171c977814d192a0",
+ "type": "BEP20",
+ "symbol": "DOL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1263733fc665aa17bd2b719b171c977814d192a0"
+}
