@@ -1,11 +1,11 @@
 {
- "name": "Clown HECO Huobi",
- "website": "无",
- "description":  Clown HECO huobi简称CHH是发行火币生态链永不增发币种，潜力巨大",
- "explorer": "https://hecoinfo.com/address/0x5c8928860fd19ba0fc364bbe9d1b99b084e88889",
+ "name": "EAC",
+ "website": "https://eaccoin.mystrikingly.com",
+ "description": "EAC is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
+ "explorer": "https://hecoinfo.com/address/0xa5b0dc63c218b5d4b5c7510f07324e69b223058d",
  "type": "HRC20",
- "symbol": "CHH",
+ "symbol": "EAC",
  "decimals": 18,
  "status": "active",
- "id": "0x5c8928860fd19ba0fc364bbe9d1b99b084e88889"
-}
+ "id": "0xa5B0Dc63C218B5d4b5C7510f07324E69B223058d"
+} 
