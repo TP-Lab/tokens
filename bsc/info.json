@@ -1,11 +1,11 @@
 {
- "name": "PhyseterToken",
- "website": "https://PhyseterToken.io",
- "description": " PhyseterToken is a token on bsc boasting a number of impressive features",
- "explorer": "https://bscscan.com/token/0x1d5ddd30211fFaec5F05962e690b1fdB51aEF9BB",
- "type": "BEP20",
- "symbol": "PHST",
- "decimals": 6,
- "status": "active",
- "id": "0x1d5ddd30211fFaec5F05962e690b1fdB51aEF9BB"
+    "name": "GSdog Coin",
+    "website": "https://www.GSdog.win/",
+    "description": "A GSdog with a mental breakdown after an investment failure launched GSdog coin (token: GSdog) .",
+    "explorer": "https://bscscan.com/token/0x3A269C4572b478EFe0FcD189a53e948ab2b02aAF",
+    "type": "BEP20",
+    "symbol": "GSdog",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3A269C4572b478EFe0FcD189a53e948ab2b02aAF"
 }
