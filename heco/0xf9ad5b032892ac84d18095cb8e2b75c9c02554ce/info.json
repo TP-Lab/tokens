@@ -1,0 +1,11 @@
+{
+ "name": "Carbs Token",
+ "website": "http://www.carbs.tech",
+ "description": "Carbs, Maintaining the Highest Standards of Security and Innovation.",
+ "explorer": "https://hecoinfo.com/token/0xf9ad5b032892ac84d18095cb8e2b75c9c02554ce",
+ "type": "HRC-20",
+ "symbol": "CARBS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf9ad5b032892ac84d18095cb8e2b75c9c02554ce"
+}
