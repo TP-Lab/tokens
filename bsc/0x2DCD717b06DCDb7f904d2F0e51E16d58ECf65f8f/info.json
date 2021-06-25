@@ -1,0 +1,11 @@
+{
+ "name": "Starship Token",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x2DCD717b06DCDb7f904d2F0e51E16d58ECf65f8f",
+ "type": "BEP20",
+ "symbol": "Starship",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2DCD717b06DCDb7f904d2F0e51E16d58ECf65f8f"
+}
