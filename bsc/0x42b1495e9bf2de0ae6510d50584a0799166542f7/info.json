@@ -1,0 +1,11 @@
+{
+ "name": "DogeKing Coin",
+ "website": "https://www.dogemainland.com",
+ "description": "DOGK CHAIN.",
+ "explorer": "https://bscscan.com/token/0x42b1495e9bf2de0ae6510d50584a0799166542f7",
+ "type": "BEP20",
+ "symbol": "DOGK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x42b1495e9bf2de0ae6510d50584a0799166542f7"
+}

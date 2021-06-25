@@ -1,0 +1,11 @@
+{
+ "name": "Baby Duck Coin",
+ "website": "https://babyduck.vip",
+ "description": "BBD is built upon the fundamentals of Buyback and increasing the investor's value.",
+ "explorer": "https://bscscan.com/token/0x0877ab7933534f850cbcf9bd2ee2add92dee21e0",
+ "type": "BEP20",
+ "symbol": "BBD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0877ab7933534f850cbcf9bd2ee2add92dee21e0"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "SOCCER",
+ "website": "https://hecoinfo.com/token/0xa743a040357bCC874750eb0a92b5ED6921c5Ea78",
+ "description": "SC is the first community-driven DeFi token based on the SOCCER Protocol.",
+ "explorer": "https://hecoinfo.com/token/0xa743a040357bCC874750eb0a92b5ED6921c5Ea78",
+ "type": "HRC-20",
+ "symbol": "SC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xa743a040357bCC874750eb0a92b5ED6921c5Ea78"
+}

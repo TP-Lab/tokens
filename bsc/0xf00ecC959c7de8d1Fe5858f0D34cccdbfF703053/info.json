@@ -1,0 +1,11 @@
+{
+ "name": "BabyMoon",
+ "website": "https://babymoon.xyz",
+ "description": "A truly connected global community for Crypto fans and supporters.",
+ "explorer": "https://bscscan.com/token/0xf00ecc959c7de8d1fe5858f0d34cccdbff703053",
+ "type": "BEP20",
+ "symbol": "BabyMoon",
+ "decimals": 5,
+ "status": "active",
+ "id": "0xf00ecc959c7de8d1fe5858f0d34cccdbff703053"
+}

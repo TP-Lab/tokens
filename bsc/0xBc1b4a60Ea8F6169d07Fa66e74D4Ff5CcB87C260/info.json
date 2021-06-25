@@ -1,0 +1,11 @@
+{
+  "name": "ETPlanToken",
+  "website": "https://etplan.org",
+  "description": "ETPlan is based on the application of the block chain technology, the birth of decentralized global Buddhist culture-related digital communication. It can effectively break through the barriers of related industries, realize the communication and exchange of the globalization of Buddhist culture and realize the global circulation of the certificate of Buddhist culture-related industries through the low-level technology of weak centralization, openness and transparency, distributed bookkeeping and global convenient trading channels.",
+  "explorer": "https://bscscan.com/token/0xbc1b4a60ea8f6169d07fa66e74d4ff5ccb87c260",
+  "type": "BEP20",
+  "symbol": "ELS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbc1b4a60ea8f6169d07fa66e74d4ff5ccb87c260"
+}

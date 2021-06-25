@@ -1,0 +1,11 @@
+{
+    "name":"NEC",
+    "website":"-",
+    "description":"New Energy Coin is a token on Huobi Eco(HECO) Chain boasting a number of impressive features.",
+    "explorer":"https://hecoinfo.com/token/0x56e430F7Bf3ee93291791e18B08D18426cCa7c24",
+    "type":"HECO",
+    "symbol":"NewEnergyCoin",
+    "decimals":9,
+    "status":"active",
+    "id":"0x56e430F7Bf3ee93291791e18B08D18426cCa7c24"
+}

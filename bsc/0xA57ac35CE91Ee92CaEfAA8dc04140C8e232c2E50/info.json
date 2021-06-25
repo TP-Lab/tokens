@@ -1,0 +1,11 @@
+{
+ "name": "PITBULL Token",
+ "website": "https://www.pitbull.community",
+ "description": A Community owned coin, Safe by concept.",
+ "explorer": "https://bscscan.com/token/0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50",
+ "type": "BEP20",
+ "symbol": "PIT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xA57ac35CE91Ee92CaEfAA8dc04140C8e232c2E50"
+}

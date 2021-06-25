@@ -1,0 +1,20 @@
+{
+ 
+"name": "HME",
+ 
+"website": "https://www.hme.com/",
+ 
+"description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ 
+"explorer": "https://hecoinfo.com/token/0x2106903F570956B808C4B7CF448322951F6D973A",
+ 
+"type": "HECO",
+ 
+"symbol": "HME",
+ 
+"decimals": 18,
+ 
+"status": "active",
+ 
+"id": "0x2106903F570956B808C4B7CF448322951F6D973A"
+}

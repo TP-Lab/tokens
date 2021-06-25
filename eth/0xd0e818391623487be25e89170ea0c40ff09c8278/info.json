@@ -1,0 +1,11 @@
+{
+  "name": "maxmaximize",
+  "website": "https://maxmaximize.github.io/",
+  "description": "Maxmaximize is an ERC20 token launched with a total supply of 2 quadrillion $Mmax",
+  "explorer": "https://etherscan.io/token/0xd0e818391623487be25e89170ea0c40ff09c8278",
+  "type": "ERC20",
+  "symbol": "Mmax",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd0e818391623487be25e89170ea0c40ff09c8278"
+}

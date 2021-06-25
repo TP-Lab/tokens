@@ -1,0 +1,11 @@
+{
+    "name": "TIKI",
+    "website": "https://www.tikitoken.finance/",
+    "description": "The biggest BNB reflection token and the only one with auto-claim feature. Simply hold $TIKI tokens in your wallet and you'll earn BNB.",
+    "explorer": "https://bscscan.com/token/0x9b76d1b12ff738c113200eb043350022ebf12ff0",
+    "type": "BEP20",
+    "symbol": "TIKI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9b76d1b12ff738c113200eb043350022ebf12ff0"
+   }

@@ -1,0 +1,11 @@
+{
+"name": "JKDAO Token",
+"website": "https://joker.one",
+"description": "JKDAO, with a total supply of 1,000 coins ",
+"explorer": "https://www.bloks.io/account/dao.joker",
+"type": "EOS",
+"symbol": "JKDAO",
+"decimals": 4,
+"status": "active",
+"id": "dao.joker"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "playdog.io",
+ "website": "https://playdog.io",
+ "description": "BSC上的PLAY可以和playdog链（链应用地址：https://app.playdog.io 基于波卡/substrate技术）的平台币PLAY跨链1：1兑换。未来我们计划会在BSC上以PLAY为代币开发各种应用",
+ "explorer": "https://bscscan.com/token/0x73aba7392476b27514053917b3a831cb4a65b7cb",
+ "type": "BEP20",
+ "symbol": "PLAY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x73aba7392476b27514053917b3a831cb4a65b7cb"
+}

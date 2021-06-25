@@ -1,0 +1,11 @@
+{
+ "name": "EAO Coin",
+ "website": "http://www.eaocoin.one/",
+ "description": "EAO is an easy-to-use and high-performance cloud collaboration infrastructure for Web3.0. It connects storage, computing, bandwidth and other distributed network resources in a verifiable way, and is managed and traded efficiently by the free market. In this process, EAO has practiced a large number of blockchain extension technologies, such as state channel, state fragmentation, verifiable storage and computational verification, to achieve high scalability of composition and layering, so as to provide multi-party trust and support unlimited transaction, storage and download requirements. At the same time, it also supports zero knowledge proof and secure multi-party computing technology, and realizes multi-party collaborative cognitive computing while protecting user data privacy.",
+ "explorer": "https://bscscan.com/token/0x1DEB61e41F337b04660eaB59A34Ad5E39afE9348",
+ "type": "BEP20",
+ "symbol": "EAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1DEB61e41F337b04660eaB59A34Ad5E39afE9348"
+}

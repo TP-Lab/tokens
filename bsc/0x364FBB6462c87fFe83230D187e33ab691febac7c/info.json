@@ -1,0 +1,11 @@
+{
+    "name": "TUG",
+    "website": "http://www.tugswap.com",
+    "description": "tugswap",
+    "explorer": "https://bscscan.com/token/0x364fbb6462c87ffe83230d187e33ab691febac7c",
+    "type": "BEP20",
+    "symbol": "TUG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x364FBB6462c87fFe83230D187e33ab691febac7c"
+}

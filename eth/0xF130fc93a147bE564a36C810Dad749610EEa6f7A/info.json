@@ -1,0 +1,11 @@
+{
+    "name": "OxCoin Token",
+    "website": "https://oxctoken.com",
+    "description": "OX Coin Token is our first community DeFi token. You can invest buy it to earn income. Remember that there are risks in investment, please treat it rationally! It will be the first securitized token, Let's witness its growth.",
+    "explorer": "https://etherscan.io/token/0xf130fc93a147be564a36c810dad749610eea6f7a",
+    "type": "ERC20",
+    "symbol": "OXC",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xF130fc93a147bE564a36C810Dad749610EEa6f7A"
+}

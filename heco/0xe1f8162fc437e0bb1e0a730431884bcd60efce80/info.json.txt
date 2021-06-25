@@ -1,0 +1,11 @@
+{
+    "name":"Aidi Inu",
+    "website":"http://aidi.xczip.com",
+    "description":"Aidi Inu is a fully decentralized, peer-to-peer cryptocurrency.",
+    "explorer":"https://hecoinfo.com/token/0xe1f8162fc437e0bb1e0a730431884bcd60efce80",
+    "type":"HECO",
+    "symbol":"AIDI",
+    "decimals":18,
+    "status":"active",
+    "id":"0xe1f8162fc437e0bb1e0a730431884bcd60efce80"
+}

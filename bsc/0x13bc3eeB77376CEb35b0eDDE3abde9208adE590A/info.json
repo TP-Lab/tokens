@@ -1,0 +1,11 @@
+{
+ "name": "Meme Token",
+ "website": "https://notbuymeme.com",
+ "description": "A meme token issuance platform.",
+ "explorer": "https://bscscan.com/token/0x13bc3eeB77376CEb35b0eDDE3abde9208adE590A",
+ "type": "BEP20",
+ "symbol": "Meme",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x13bc3eeB77376CEb35b0eDDE3abde9208adE590A"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "DashSports",
+ "website": "https://dashsports.org",
+ "description": "a community-driven token focus on sports and esports",
+ "explorer": "https://bscscan.com/token/0xca981cb99478d190cac2de266ed04e06e341e30e",
+ "type": "BEP20",
+ "symbol": "DASS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xcA981Cb99478d190CAc2De266ed04E06e341E30E"
+}

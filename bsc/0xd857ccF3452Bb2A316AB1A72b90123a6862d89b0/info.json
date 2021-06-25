@@ -1,0 +1,11 @@
+{
+ "name": "surprise token",
+ "website": "",
+ "description": "A token with a lottery mechanism",
+ "explorer": "https://bscscan.com/address/0xd857ccF3452Bb2A316AB1A72b90123a6862d89b0",
+ "type": "BEP20",
+ "symbol": "SPT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd857ccF3452Bb2A316AB1A72b90123a6862d89b0"
+}

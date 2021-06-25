@@ -1,0 +1,11 @@
+{
+    "name":"DogMoon Token",
+    "website":"https://dogmoon.natappvip.cc/",
+    "description":"DogMoon是由一群狗狗币狂热爱好者们自由发起，通过互联网以匿名的方式发行，持有DogMoon的每一个人都是一个区块超级节点.DogMoon有3个简单的功能：分红+LP流动性+销毁，每笔交易都要交10%的手续费，分成两部分，5%费用，重新分配给所有持币者，5%的费用分成分成2半，其中一半通过合同出售给HT，另一半DogMoon代币自动与前面提到的HT配对，并作为LP池的流动性对添加，同时，LP池将永久锁定，不能撤销。",
+    "explorer":"https://hecoinfo.com/token/0x5f50d90a991b3495851e3b5579de942832390c78",
+    "type":"HRC20",
+    "symbol":"DogMoon",
+    "decimals":9,
+    "status":"active",
+    "id":"0x5f50d90a991b3495851e3b5579de942832390c78"
+}

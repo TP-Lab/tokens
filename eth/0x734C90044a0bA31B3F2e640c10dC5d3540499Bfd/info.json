@@ -1,0 +1,11 @@
+{
+ "name": "Tradestars",
+ "website": "https://tradestars.app/",
+ "description": "TradeStars is Fantasy Sports experience with true digital ownership, transparency and decentralization.",
+ "explorer": "https://etherscan.io/token/0x734c90044a0ba31b3f2e640c10dc5d3540499bfd",
+ "type": "ERC20",
+ "symbol": "TSX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd"
+}

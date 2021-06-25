@@ -1,0 +1,11 @@
+{
+ "name": "Lucky Boy Coin",
+ "website": "https://luckyboy.com/index.php",
+ "description": "A leading multi-chain wallet that supports HECO, the happy coin.",
+ "explorer": "https://hecoinfo.com/token/0x9Cc8ae048105A4c3d54be59EE84cC5e84108Eb08",
+ "type": "HRC-20",
+ "symbol": "LBC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9Cc8ae048105A4c3d54be59EE84cC5e84108Eb08"
+}

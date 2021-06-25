@@ -1,0 +1,12 @@
+{
+ "name": "Miburi",
+ "website": "https://miburi.com",
+ "description": "The Miburi project team is dedicated to the promotion and application of cryptocurrencies.",
+ "explorer": "https://bscscan.com/token/0xe93e7c8503c1424c61c20c2906dfa1f2e8709348",
+ "type": "BEP20",
+ "symbol": "MI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe93e7c8503c1424c61c20c2906dfa1f2e8709348"
+
+}

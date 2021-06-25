@@ -1,0 +1,11 @@
+{
+ "name": "LottoNFT",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xBB311D0FF1077485ed2C9E61c4bF521862e6862B",
+ "type": "BEP20",
+ "symbol": "LottoNFT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xBB311D0FF1077485ed2C9E61c4bF521862e6862B"
+}

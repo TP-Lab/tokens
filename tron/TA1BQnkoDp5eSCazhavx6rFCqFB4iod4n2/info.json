@@ -1,0 +1,12 @@
+{
+ "name": "Baby pig Token",
+ "website": "
+http://www.forestry.gov.cn/bhxh/index.html",
+ "description": "Babypig，中文名：猪宝宝，由一群在pig币上获益百倍的社区共识者共同发起创立，目的是回馈币圈，愿越来越多的币圈信仰者都能够获得百倍千倍的收益！",
+ "explorer": "https://tronscan.io/#/token20/TA1BQnkoDp5eSCazhavx6rFCqFB4iod4n2",
+ "type": "TRC20",
+ "symbol": "Baby pig",
+ "decimals": 6,
+ "status": "active",
+ "id": "TA1BQnkoDp5eSCazhavx6rFCqFB4iod4n2"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "ACT",
+ "website": "https://www.ackunem.com",
+ "description": "Link all cryptocurrencies",
+ "explorer": "https://hecoinfo.com/token/0xc2c5c86eC3E67BFA06a6803b3Ac4728a5DD76275",
+ "type": "HRC20",
+ "symbol": "ACT",
+ "decimals": 9,
+ "status": "active",
+ "id": 0xc2c5c86eC3E67BFA06a6803b3Ac4728a5DD76275"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Facaishu",
+ "website": "https://hecoinfo.com/",
+ "description": "The Token protocol is designed for holders, with 6% of each transaction flowing to LP, 4% of each cookie transaction reflected to all holders, and 2% flowing into the black hole, where tokens gradually dwindle, thus creating an ever-rising price floor.",
+ "explorer": "https://hecoinfo.com/token/0xf3D0645B04757d537784D630d3d5cBc9BeCaD6eb",
+ "type": "HRC-20",
+ "symbol": "FCS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf3D0645B04757d537784D630d3d5cBc9BeCaD6eb"
+}

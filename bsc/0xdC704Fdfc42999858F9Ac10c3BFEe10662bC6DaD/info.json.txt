@@ -1,0 +1,11 @@
+{
+ "name": "babygoose",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xdC704Fdfc42999858F9Ac10c3BFEe10662bC6DaD",
+ "type": "BEP20",
+ "symbol": "babygoose",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdC704Fdfc42999858F9Ac10c3BFEe10662bC6DaD"
+} 

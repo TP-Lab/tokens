@@ -1,0 +1,11 @@
+{
+ "name": "ALL-in Coin",
+ "website": "https://www.All-incoin.top",
+ "description": "All-coin简称AIC币，总量1亿枚，永久流通量为5000W枚，为了响应物以稀为贵的原则，项目方最终决定上市前销毁50%的代币。AIC专为世界各大赛事而发行的代币，如：世界杯、欧洲杯等。致力于打造波场链上的第一体育竞技币；打造波场生态第一预言机。同时集成可信价格数据到DeFi平台，提供可信链下数据服务更多应用场景，加速波场生态的建设。All-coin的持有者可以参与社区治理并决定项目发展方向！",
+ "explorer": "https://tronscan.org/#/token20/TBtLczumSGCfDyP9ytbTxUx1YuJkdzADQK",
+ "type": "TRC20",
+ "symbol": "AIC",
+ "decimals": 10,
+ "status": "active",
+ "id": "TBtLczumSGCfDyP9ytbTxUx1YuJkdzADQK"
+} 

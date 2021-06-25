@@ -1,0 +1,21 @@
+{
+ "name": "DINOC Token",
+ "website": "https://dinosaurtoken.vip/",
+ "description": "DINOC It is a decentralized blockchain digital asset issued by the decentralized community DinosaurToken based on the Ethereum ecological chain. Designed to provide power for the next generation of digital and biotechnology.",
+ "explorer": "https://etherscan.io/address/0x56df7dd5e6476af94666e856c38aefc4d4555861",
+ "type": "ERC20",
+ "symbol": "DINOCeth",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x56df7DD5e6476aF94666e856c38AEfc4d4555861",
+ "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/coin_dinosaur"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/DinosaurToken"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+ "name": "WaWa Token",
+ "website": "https://www.laiwawa.co",
+ "description": "来挖挖是一个专注于矿机租赁，算力交易的项目.",
+ "explorer": "https://tronscan.org/#/token20/TN9hhSerokhtdmUzf6ePa6DsJdquYgsurP",
+ "type": "TRC20",
+ "symbol": "WaWa",
+ "decimals": 8,
+ "status": "active",
+ "id": "TN9hhSerokhtdmUzf6ePa6DsJdquYgsurP"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "animal",
+ "website": "https://bscscan.com/",
+ "description": "Animal (AIA) is a completely decentralized currency issued to protect the world's animals, 50% of which are locked and destroyed, 3% of which are returned to the mobile mine pool, 1% of which are allocated to all holders, 1% to the community management, and are completely autonomous by the community.",
+ "explorer": "https://bscscan.com/token/0x2A11A64d60a574b8ad892BdcEC17aa9E258C284d",
+ "type": "BEP20",
+ "symbol": "AIA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2A11A64d60a574b8ad892BdcEC17aa9E258C284d"
+}

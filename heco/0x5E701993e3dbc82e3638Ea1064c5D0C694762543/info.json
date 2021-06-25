@@ -1,0 +1,11 @@
+{
+ "name": "God Token",
+ "website": "-",
+ "description": "It's a godlike coin",
+ "explorer": "https://hecoinfo.com/token/0x5E701993e3dbc82e3638Ea1064c5D0C694762543",
+ "type": "HRC-20",
+ "symbol": "GODC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5E701993e3dbc82e3638Ea1064c5D0C694762543"
+}

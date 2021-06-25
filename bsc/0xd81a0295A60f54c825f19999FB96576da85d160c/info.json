@@ -1,0 +1,11 @@
+{
+ "name": "Opus Token",
+ "website": "https://opusbeat.com",
+ "description": "OpusBeat,One-Stop NFT Sports Competition Platform.",
+ "explorer": "https://bscscan.com/token/0xd81a0295A60f54c825f19999FB96576da85d160c",
+ "type": "BEP20",
+ "symbol": "OPUS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd81a0295A60f54c825f19999FB96576da85d160c"
+}

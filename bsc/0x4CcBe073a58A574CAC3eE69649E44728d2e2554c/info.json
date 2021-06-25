@@ -1,0 +1,11 @@
+{
+ "name": "QuickBounty",
+ "website": "https://quickbounty.money",
+ "description": " QuickBounty is the only token that doesn't have a buy tax and a sell tax cut, and each buy has a chance to win the whole prize",
+ "explorer": "https://bscscan.com/token/0x4CcBe073a58A574CAC3eE69649E44728d2e2554c",
+ "type": "BEP20",
+ "symbol": "QB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4CcBe073a58A574CAC3eE69649E44728d2e2554c"
+}

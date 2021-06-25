@@ -1,0 +1,11 @@
+{
+ "name": "Whale Fall",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x85baae20b6df00f0b7f9d95da15747cfb810163c",
+ "type": "HRC-20",
+ "symbol": "WHALE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x85baae20b6df00f0b7f9d95da15747cfb810163c"
+} 

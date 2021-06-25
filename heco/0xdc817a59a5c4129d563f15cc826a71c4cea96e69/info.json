@@ -1,0 +1,11 @@
+{
+ "name": "XLJ Token",
+ "website": "",
+ "description": "XJL",
+ "explorer": "https://hecoinfo.com/address/0xdc817a59a5c4129d563f15cc826a71c4cea96e69",
+ "type": "ERC-20",
+ "symbol": "XJL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdc817a59a5c4129d563f15cc826a71c4cea96e69"
+}
