@@ -1,0 +1,11 @@
+{
+ "name": "CHANELToken",
+ "website": "www.cne.com.cn",
+ "description": "总量1000000,永不增发",
+ "explorer": "https://bscscan.com/token/TAKx6HCUKez9oSBannsnmPJxqew1JEyVd3",
+ "type": "BEP20",
+ "symbol": "CNE",
+ "decimals": 18,
+ "status": "active",
+ "id": "TAKx6HCUKez9oSBannsnmPJxqew1JEyVd3"
+}
