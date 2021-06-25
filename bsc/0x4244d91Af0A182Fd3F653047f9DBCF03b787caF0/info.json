@@ -1,0 +1,25 @@
+{
+    "name": "Freestarter",
+	"website": "https://freestarter.io",
+	"description": "Freestarter is a professional and community-centric cross-chain DeFi incubation platform.",
+	"explorer": "https://bscscan.com/token/0x4244d91af0a182fd3f653047f9dbcf03b787caf0",
+    "type": "BEP20",
+    "symbol": "FRET",
+    "decimals": 6,
+	"status": "active",
+    "id": "0x4244d91Af0A182Fd3F653047f9DBCF03b787caF0",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/freestarter_io"
+        },
+        {
+            "name": "Medium",
+            "url": "https://freestarter.medium.com/"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/freestarter_io"
+        },
+    ]
+}
