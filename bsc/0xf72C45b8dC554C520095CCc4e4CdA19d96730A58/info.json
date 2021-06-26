@@ -1,0 +1,11 @@
+{
+ "name": "BBCT",
+ "website": "无",
+ "description": "BBCT是基于币安发行的代币，未来价值巨大",
+ "explorer": "https://bscscan.com/token/0xf72c45b8dc554c520095ccc4e4cda19d96730a58",
+ "type": "BSC20",
+ "symbol": "BBCT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf72C45b8dC554C520095CCc4e4CdA19d96730A58"
+}
