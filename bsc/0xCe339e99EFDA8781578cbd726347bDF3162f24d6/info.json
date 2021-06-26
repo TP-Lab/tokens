@@ -1,0 +1,11 @@
+{
+ "name": "TLX",
+ "website": "无",
+ "description": "LANG DAO是一个基于区块链技术的完全去中心化自治社区。它是一个由B2B和B2C产品和服务组成的平台，包括项目审核、合规融资、资产管理、DAO组织的延伸扩建和链上分析。LANG DAO的使命是使优质的区块链项目更容易获得风投机会，使社区成员公平、公正、稳健获利。",
+ "explorer": "https://bscscan.com/token/0xce339e99efda8781578cbd726347bdf3162f24d6",
+ "type": "BSC20",
+ "symbol": "TLX",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xCe339e99EFDA8781578cbd726347bDF3162f24d6"
+}
