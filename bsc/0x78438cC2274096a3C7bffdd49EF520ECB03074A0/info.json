@@ -1,0 +1,11 @@
+{
+ "name": "HZJN",
+ "website": "无",
+ "description": "HZJN是基于币安发行的代币，永不增发，未来价值巨大",
+ "explorer": "https://bscscan.com/token/0x78438cc2274096a3c7bffdd49ef520ecb03074a0",
+ "type": "BSC20",
+ "symbol": "HZJN",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x78438cC2274096a3C7bffdd49EF520ECB03074A0"
+}
