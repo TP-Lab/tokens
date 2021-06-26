@@ -1,0 +1,11 @@
+{
+    "name": "Four Leaf Clover",
+    "website": "http://www.fourleafclover.cc/m/index.html",
+    "description": "Four Leaf Clover is based on the leveraged liquidity mining cross-chain aggregation protocol on BSC. Depositors can deposit ETH, WBTC, USDT, DAI, BNB, HT and other assets into smart contracts to obtain the highest interest income in the market",
+    "explorer": "https://bscscan.com/token/0x40ed1a2c92536dE4F7fBEE4e9a1675a70CbD0d71",
+    "type": "BEP20",
+    "symbol": "FLC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x40ed1a2c92536dE4F7fBEE4e9a1675a70CbD0d71"
+   }
