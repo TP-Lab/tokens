@@ -1,0 +1,11 @@
+{
+	"name": "ETT Token",
+    "symbol": "ETT",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "ETT是PB社区建设中进行的一项实验代币，是PB社区的驱动代币，它将是兑换PB代币过程中唯一的代币",
+    "website": "https://www.ett.com",
+    "explorer": "https://bscscan.com/token/0xCC0B5bCe81C70f44ea3A4675d3bAfa2A12743745",
+    "status": "active",
+    "id": "0xCC0B5bCe81C70f44ea3A4675d3bAfa2A12743745"
+}
