@@ -1,0 +1,11 @@
+{
+ "name": "Laser Carbs Token",
+ "website": "https://lasercarbs.finance/",
+ "description": "A defi project on feedback to investors",
+ "explorer": "https://bscscan.com/token/0x3b60cc2ada3f6cca5c26429e340b66086ac2af94",
+ "type": "BEP20",
+ "symbol": "CARBS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3B60cC2ADa3F6ccA5c26429e340b66086aC2af94"
+}
