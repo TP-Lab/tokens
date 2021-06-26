@@ -1,0 +1,11 @@
+{
+ "name": " BitcoinDoge",
+ "website": "_",
+ "description": "_.",
+ "explorer": "https://bscscan.com/token/0x135768c92207c3e9a7b242eb4bc8b854f7beefe0",
+ "type": "BEP20",
+ "symbol": " BitcoinDoge",
+ "decimals": 18,
+ "status": "Jun-26-2021 06:29:30 ",
+ "id": "0x135768c92207c3e9a7b242eb4bc8b854f7beefe0"
+}
