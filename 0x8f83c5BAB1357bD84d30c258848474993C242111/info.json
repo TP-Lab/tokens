@@ -1,0 +1,11 @@
+{
+ "name": "Gabriel Token",
+ "website": "https://garbriel.finance",
+ "description": "Gabriel is a distributed aggregation solution. Gabriel's Daos provides truly untrusted and decentralized Oracle data. By using smart contracts and multiple data sources. Outliers, malicious actors and corrupted data will be automatically removed without external interaction.",
+ "explorer": "https://bscscan.com/address/0x8f83c5BAB1357bD84d30c258848474993C242111",
+ "type": "BEP20",
+ "symbol": "GABRIEL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8f83c5BAB1357bD84d30c258848474993C242111"
+}
