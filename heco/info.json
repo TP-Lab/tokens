@@ -1,11 +1,11 @@
 {
- "name": "DYSaurora ",
- "website": "https://dystoken.mystrikingly.com",
- "description": "-",
- "explorer": "https://bscscan.com/token/0x4632a4F3514B91dBaCCcd68c4Fa3745241D0679e",
- "type": "HRC-20",
- "symbol": "DYS",
- "decimals": 18,
+ "name": "BatPL",
+ "website": "http://batprotocol.finance",
+ "description": "BAT PROTOCOL蝙蝠协议旨在为WEB3.0数据市场提供新动力。该协议通过专业数据提供商组成的网络对具有商业价值的数据进行代币化，并使数据代币在链上具有流动性。",
+ "explorer": "https://hecoinfo.com/token/0x64a38994a642BE549E721C41715D2DdBb83e2e8C",
+ "type": "HRC20",
+ "symbol": "BatPL",
+ "decimals": 8,
  "status": "active",
- "id": "0x4632a4F3514B91dBaCCcd68c4Fa3745241D0679e"
+ "id": "0x64a38994a642BE549E721C41715D2DdBb83e2e8C"
 }
