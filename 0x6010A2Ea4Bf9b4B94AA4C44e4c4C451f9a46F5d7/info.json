@@ -1,0 +1,11 @@
+{
+	"name": "PB Token",
+    "symbol": "PB",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "PB是PB社区建设中进行的一项实验代币，是PB社区的驱动代币，它将是兑换PB代币过程中唯一的代币",
+    "website": "https://www.pib.org",
+    "explorer": "https://bscscan.com/token/0x6010A2Ea4Bf9b4B94AA4C44e4c4C451f9a46F5d7",
+    "status": "active",
+    "id": "0x6010A2Ea4Bf9b4B94AA4C44e4c4C451f9a46F5d7"
+}
