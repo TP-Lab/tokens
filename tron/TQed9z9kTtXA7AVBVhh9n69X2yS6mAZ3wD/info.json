@@ -1,0 +1,11 @@
+{
+ "name": "BaKe",
+ "website": "https://bake.org",
+ "description": "我们的理念是共创共享，BK代币分配全部分发给和我们一起共识的社群群主，初始资金池也由所有的社群群主一起注入,秉承Defi去中心化理念，行业首创分布式注池方案。为每一位参与者创造一个真正公平自由金融环境。",
+ "explorer": "https://tronscan.org/#/token20/TQed9z9kTtXA7AVBVhh9n69X2yS6mAZ3wD",
+ "type": "TRC20",
+ "symbol": "BK",
+ "decimals": 18,
+ "status": "active",
+ "id": "TQed9z9kTtXA7AVBVhh9n69X2yS6mAZ3wD"
+}
