@@ -1,0 +1,11 @@
+{
+ "name": "Binance",
+ "website": "",
+ "description": "",
+ "explorer": "https://hecoinfo.com/address/0x471E265Ab5b8513032721Acef0A53b79185Ae6F9",
+ "type": "HECO",
+ "symbol": "anyBNB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x471E265Ab5b8513032721Acef0A53b79185Ae6F9"
+}
