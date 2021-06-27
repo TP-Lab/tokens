@@ -1,12 +1,11 @@
 {
- "name": "DST Token",
- "website": "
-"https://www.dst.io",
- "DST": "DST，中文名：DST token is an experiment of a new blockchain protocol",
- "explorer": "https://tronscan.io/#/token20/TJUSNgeBPFTMxT3HtQXWQbcKwKMhBzsR5b",
- "type": "TRC20",
- "symbol": "DST",
- "decimals": 9,
- "status": "active",
- "id": "TJUSNgeBPFTMxT3HtQXWQbcKwKMhBzsR5b"
+    "name": "GSDOGE Coin",
+    "website": "https://www.GSDOGE.win/",
+    "description": "A GSDOGE with a mental breakdown after an investment failure launched GSDOGE coin (token: GSDOGE) .",
+    "explorer": "https://bscscan.com/token/0xf6d3d7f05258e83fc6b489bf801898627be15641",
+    "type": "BEP20",
+    "symbol": "GSDOGE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf6d3d7f05258e83fc6b489bf801898627be15641"
 }
