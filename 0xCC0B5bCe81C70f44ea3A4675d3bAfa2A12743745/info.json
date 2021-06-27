@@ -1,0 +1,11 @@
+{
+ "name": "ETTECT",
+ "website": "ETTECT",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0xCC0B5bCe81C70f44ea3A4675d3bAfa2A12743745",
+ "type": "BEP20",
+ "symbol": "ETT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCC0B5bCe81C70f44ea3A4675d3bAfa2A12743745"
+}
