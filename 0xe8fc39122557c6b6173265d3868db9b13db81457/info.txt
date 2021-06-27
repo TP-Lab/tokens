@@ -1,0 +1,11 @@
+{
+ "name": " BabyOtter",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xe8fc39122557c6b6173265d3868db9b13db81457",
+ "type": "BEP20",
+ "symbol": "Otter",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe8fc39122557c6b6173265d3868db9b13db81457"
+}
