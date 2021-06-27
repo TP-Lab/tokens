@@ -1,0 +1,21 @@
+{
+ 
+"name": "BiU-Farmer",
+ 
+"website": "https://biu-farmer.com/",
+ 
+"description": "BUF opens a new era of combination of global blockchain and e-commerce.",
+ 
+"explorer": "https://biu-farmer.com/token/0x022210d196c1c521270d75ad4aa6ac410aeb5c8c",
+ 
+"type": "HRC20",
+ 
+"symbol": "BUF",
+ 
+"decimals": 18,
+ 
+"status": "active",
+ 
+"id": "0x022210d196c1c521270d75ad4aa6ac410aeb5c8c"
+
+}
