@@ -1,11 +1,21 @@
 {
- "name": "Clown HECO Huobi",
- "website": "无",
- "description":  Clown HECO huobi简称CHH是发行火币生态链永不增发币种，潜力巨大",
- "explorer": "https://hecoinfo.com/address/0x5c8928860fd19ba0fc364bbe9d1b99b084e88889",
+ 
+"name": "JPM",
+
+ "website": "https://tokenpocket.pro",
+
+ "description": "JPM is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
+
+ "explorer": "https://hecoinfo.com/token/0x91ee155a6f0523e08552d4930608010addf34ad7",
+
  "type": "HRC20",
- "symbol": "CHH",
+
+ "symbol": "JPM",
+
  "decimals": 18,
+
  "status": "active",
- "id": "0x5c8928860fd19ba0fc364bbe9d1b99b084e88889"
+ "
+id": "0x91ee155a6F0523E08552d4930608010ADDF34ad7"
+
 }
