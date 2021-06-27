@@ -1,0 +1,11 @@
+{
+ "name": "BTC2",
+ "website": "无",
+ "description": "BTC2是基于币安发行的代币，永不增发，未来价值巨大",
+ "explorer": "https://bscscan.com/token/0x0025206ee0753497afe1eb997561c25fb0dd8363",
+ "type": "BSC20",
+ "symbol": "BTC2",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x0025206eE0753497AFe1EB997561C25fB0DD8363"
+}
