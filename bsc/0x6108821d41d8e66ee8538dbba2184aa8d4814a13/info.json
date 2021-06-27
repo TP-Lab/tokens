@@ -1,0 +1,11 @@
+{
+ "name": "FIFA Token",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x6108821d41d8e66ee8538dbba2184aa8d4814a13",
+ "type": "BEP20",
+ "symbol": "FIFA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6108821d41d8e66ee8538dbba2184aa8d4814a13"
+}
