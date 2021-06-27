@@ -1,0 +1,11 @@
+{
+ "name": "ZBC",
+ "website": "www.aicoin.pro",
+ "description": "AI is a decentralized integrated currency on the Huobi chain",
+ "explorer": "https://hecoinfo.com/address/0xb4e725c5b716448d4f6ebdfbe9f0e22838ab12a3",
+ "type": "HECO",
+ "symbol": "ZBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB4E725c5B716448d4f6EBDfbE9f0e22838ab12A3"
+}
