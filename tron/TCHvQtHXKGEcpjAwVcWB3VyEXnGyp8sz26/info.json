@@ -1,0 +1,11 @@
+{
+ "name": "OAC",
+ "website": "无",
+ "description": "Justswap波场体系2021年旨在打造永不增发、完全去中心化的DeFi项目，OAC为分布式流动，没有项目方，由社区运营，散户至上，真正的全民自治项目，由全球的参与者共建设同治理，在逐步完善技术创新的同时积极探索新领域，未来会在挖矿、聚合支付、借贷、NFT等领域建立更多生态布局",
+ "explorer": "https://tronscan.io/#/token20/TCHvQtHXKGEcpjAwVcWB3VyEXnGyp8sz26",
+ "type": "TRC20",
+ "symbol": "OAC",
+ "decimals": 6,
+ "status": "active",
+ "id": "TCHvQtHXKGEcpjAwVcWB3VyEXnGyp8sz26"
+}
