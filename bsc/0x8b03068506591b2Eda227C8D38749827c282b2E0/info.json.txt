@@ -1,0 +1,11 @@
+{
+ "name": "King Kong Coin",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x8b03068506591b2Eda227C8D38749827c282b2E0",
+ "type": "BEP20",
+ "symbol": "KK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8b03068506591b2Eda227C8D38749827c282b2E0"
+} 
