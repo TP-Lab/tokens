@@ -1,11 +1,19 @@
 {
- "name": "EAC",
- "website": "https://eaccoin.mystrikingly.com",
- "description": "EAC is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
- "explorer": "https://hecoinfo.com/address/0xa5b0dc63c218b5d4b5c7510f07324e69b223058d",
+ 
+ "name": "BOOG",
+ 
+ "website": "https://boog.mystrikingly.com",
+
+ "description": "BOOG is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future",
+
  "type": "HRC20",
- "symbol": "EAC",
+ 
+ "symbol": "BOOG",
+
  "decimals": 18,
+
  "status": "active",
- "id": "0xa5B0Dc63C218B5d4b5C7510f07324E69B223058d"
-} 
+ 
+ "id": "0xF3A5Db8A8595aA0d5950A17e26726bb0B43a072c"
+
+}
