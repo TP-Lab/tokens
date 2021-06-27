@@ -1,0 +1,11 @@
+{
+ "name": "HZZ",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x3732bA888Ad93c0230982fddEad0D15f7B58adBb",
+ "type": "HRC-20",
+ "symbol": "HZZ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3732bA888Ad93c0230982fddEad0D15f7B58adBb"
+} 
