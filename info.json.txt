@@ -1,11 +1,21 @@
 {
- "name": "Clown HECO Huobi",
- "website": "无",
- "description":  Clown HECO huobi简称CHH是发行火币生态链永不增发币种，潜力巨大",
- "explorer": "https://hecoinfo.com/address/0x5c8928860fd19ba0fc364bbe9d1b99b084e88889",
+
+ "name": "WSTT",
+
+ "website": "https://wstt.mystrikingly.com",
+
+ "description": "is a token issued based on the fire coin ecological chain. It will never be issued again and will be of great value in the future.",
+
+ "explorer": "https://hecoinfo.com/address/0xbc3ADB9dd2f8728cA4d54306500583E0b3Fc4aE5",
+
  "type": "HRC20",
- "symbol": "CHH",
+
+ "symbol": "TWSTT",
+ 
  "decimals": 18,
+
  "status": "active",
- "id": "0x5c8928860fd19ba0fc364bbe9d1b99b084e88889"
+ 
+ "id": "0xbc3ADB9dd2f8728cA4d54306500583E0b3Fc4aE5"
+
 }
