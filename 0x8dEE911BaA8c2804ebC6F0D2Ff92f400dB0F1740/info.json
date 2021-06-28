@@ -1,0 +1,11 @@
+{
+ "name": "Call of Duty",
+ "website": "https://www.SMZH.com",
+ "description": "Smzh is a decentralized deflation digital currency based on the fire currency ecological chain, with 5% tax deduction per transaction; 3% of the dividend in currency; 1% destroyed; 1% return to the liquidity pool! Moreover, each transaction is limited to 50billion, effectively preventing large households from damaging the market and fully autonomous by the community.",
+ "explorer": "https://hecoinfo.com/token/0x8dEE911BaA8c2804ebC6F0D2Ff92f400dB0F1740",
+ "type": "HRC-2",
+ "symbol": "SMZH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8dEE911BaA8c2804ebC6F0D2Ff92f400dB0F1740"
+}
