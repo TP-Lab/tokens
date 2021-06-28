@@ -1,0 +1,11 @@
+{
+ “名称”： “啪啪啪币”，
+ “网站”： “ httpwww.papappa.com ”，
+ 《描述》： “为单身狗量身打造，创造独一无二的单身行业传奇。” ,
+ “资源管理器”： “ httpsbscscan.comtoken0x1cf9c81950ca971fcdbf63987b28a4ee4dae0643”，
+ “类型”： “ BEP20 ”，
+ “符号”： “ ppp”，
+ “小数”： 0，
+ “状态”： “活动”，
+ “ id ”： “ 0x1cf9c81950ca971fcdbf63987b28a4ee4dae0643”
+}
