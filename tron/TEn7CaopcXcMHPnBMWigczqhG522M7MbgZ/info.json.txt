@@ -1,0 +1,11 @@
+{
+ "name": "GDC",
+ "website": "-",
+ "description": "GDC全称Global Decentralized Finance Ledger，是一个去中心化金融聚合协议。它能将传统金融工具的模型组合到基于公共区块链和智能合约的基础架构中",
+ "explorer": "https://tronscan.io/#/token20/TEn7CaopcXcMHPnBMWigczqhG522M7MbgZ",
+ "type": "TRC20",
+ "symbol": "GDC",
+ "decimals": 18,
+ "status": "active",
+ "id": "TEn7CaopcXcMHPnBMWigczqhG522M7MbgZ"
+}
