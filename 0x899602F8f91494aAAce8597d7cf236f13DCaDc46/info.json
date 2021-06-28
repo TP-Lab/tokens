@@ -1,0 +1,11 @@
+{
+ "name": "CARNIVAL Token",
+ "website": "https://carnivaltoken.org",
+ "description": "Carnival refers to a large cultural and artistic event. In this kind of entertainment event, there will be a lot of large recreational facilities, wonderful performances, very lively.",
+ "explorer": "https://hecoinfo.com/address/0x899602F8f91494aAAce8597d7cf236f13DCaDc46",
+ "type": "BEP20",
+ "symbol": "CARNIVAL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x899602F8f91494aAAce8597d7cf236f13DCaDc46"
+}
