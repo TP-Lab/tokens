@@ -1,11 +1,10 @@
 {
- "name": "PhyseterToken",
- "website": "https://PhyseterToken.io",
- "description": " PhyseterToken is a token on bsc boasting a number of impressive features",
- "explorer": "https://bscscan.com/token/0x1d5ddd30211fFaec5F05962e690b1fdB51aEF9BB",
+ "name": "TIGER COIN",
+ "website": "https://tokenpocket.pro",
+ "explorer": "https://bscscan.com/token/0xaa76b28f1ba2a61a9e00c51a74869881f4776394",
  "type": "BEP20",
- "symbol": "PHST",
- "decimals": 6,
- "status": "active",
- "id": "0x1d5ddd30211fFaec5F05962e690b1fdB51aEF9BB"
+ "symbol": "TGE",
+ "decimals": 18,
+ "status": "-",
+ "id": "0xaa76b28f1ba2a61a9e00c51a74869881f4776394"
 }
