@@ -1,0 +1,11 @@
+{
+ "name": "Godzilla",
+ "website": "无",
+ "description": "Godzilla是基于币安发行的代币，未来价值巨大",
+ "explorer": "https://bscscan.com/token/0x0ad165e3a958a0364cbfa1adf5b48eddaf692b5a",
+ "type": "BSC20",
+ "symbol": "Godzilla",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x0Ad165E3A958A0364CBFA1ADF5B48eddAf692b5a"
+}
