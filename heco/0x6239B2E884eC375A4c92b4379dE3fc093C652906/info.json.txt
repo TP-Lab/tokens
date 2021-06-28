@@ -1,0 +1,11 @@
+{
+ "name": " vessel",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x6239B2E884eC375A4c92b4379dE3fc093C652906",
+ "type": "HRC-20",
+ "symbol": " vessel",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6239B2E884eC375A4c92b4379dE3fc093C652906"
+} 
