@@ -1,0 +1,11 @@
+{
+ "name": "POKER TOKEN",
+ "website": "https://bscscan.com/",
+ "description": "Oracle provides more open and innovative new technologies, provides investors with a fair, transparent and open trading environment, and provides an ecological value token.",
+ "explorer": "https://bscscan.com/token/0xC17d711E41Da80a37d313173EeA452fe6416ec17",
+ "type": "BEP20",
+ "symbol": "POK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC17d711E41Da80a37d313173EeA452fe6416ec17"
+}
