@@ -1,0 +1,11 @@
+{
+ "name": "Mickey Mouse Coin",
+ "website": "https://www.mickeymousecoin2021.com",
+ "description": "Mickey Mouse was based on the classic Disney animation image of NFT scrip.",
+ "explorer": "https://bscscan.com/token/0x86eB67890DcE9B18e6ff4BaAc974C6d4B6924b8d",
+ "type": "BEP20",
+ "symbol": "MickeyMouse",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x86eB67890DcE9B18e6ff4BaAc974C6d4B6924b8d"
+}
