@@ -1,0 +1,11 @@
+{
+ "name": "BinanceMax",
+ "website": "https://binancemax.net//",
+ "description": "BMax new technology, new technology, new system .",
+ "explorer": "https://bscscan.com/token/0x7c98dad92da81d66c0a2235539deb76a3f5ba214",
+ "type": "BEP20",
+ "symbol": "BMax",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x7c98dad92da81d66c0a2235539deb76a3f5ba214"
+}
