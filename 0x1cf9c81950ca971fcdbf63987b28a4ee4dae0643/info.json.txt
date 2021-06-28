@@ -1,0 +1,11 @@
+{
+ "name": "papapabi",
+ "website": "httpwww.papappa.com",
+ "description": "为单身狗量身打造，打造单身狗的链时间，拥抱它，改变它。",
+ "explorer": "https://bscscan.com/token/0x1cf9c81950ca971fcdbf63987b28a4ee4dae0643",
+ "type": "BEP20",
+ "symbol": "ppp",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x1cf9c81950ca971fcdbf63987b28a4ee4dae0643"
+}
