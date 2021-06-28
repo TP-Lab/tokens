@@ -1,0 +1,11 @@
+{
+    "name": "FireBird",
+    "website": "http://firebirds.vip/",
+    "description": "HOLD FireBird TO EARN BNB",
+    "explorer": "https://bscscan.com/token/0xa80b18a3b787204C7f0F78889D596a9fFF5d9940",
+    "type": "BEP20",
+    "symbol": "FBD",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xa80b18a3b787204C7f0F78889D596a9fFF5d9940"
+}
