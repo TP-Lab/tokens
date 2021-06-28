@@ -1,0 +1,11 @@
+{
+ "name": "Take out musk",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xc6F9f1CEDD72a0f9E0eBA3D62C08ff683976CE58",
+ "type": "BEP20",
+ "symbol": "TMK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc6F9f1CEDD72a0f9E0eBA3D62C08ff683976CE58"
+} 
