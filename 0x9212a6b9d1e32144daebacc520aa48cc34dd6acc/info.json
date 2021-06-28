@@ -1,0 +1,11 @@
+{
+"name": "ORANGE",
+"website": "https://orgnft.finance",
+"description": "First NFT+ DEFI+Crosschain Bridge Service platfom",
+"explorer": "https://bscscan.com/token/0x9212a6b9d1e32144daebacc520aa48cc34dd6acc",
+"type": "BEP20",
+"symbol": "ORG",
+"decimals": 18,
+"status": "active",
+"id": "0x9212A6b9d1e32144dAEBaCc520aa48cC34Dd6Acc"
+}
