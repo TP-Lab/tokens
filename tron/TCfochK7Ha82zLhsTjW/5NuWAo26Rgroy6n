@@ -1,0 +1,12 @@
+
+{
+  "name": "XT",
+  "website": "http://www.xtnm.net/",
+  "description": "xingtu",
+  "explorer": "https://tronscan.io/#/contract/TCfochK7Ha82zLhsTjW5NuWAo26Rgroy6n",
+  "type": "TRC20",
+  "symbol": "XT",
+  "decimals": 6,
+  "status": "active",
+  "id": "TCfochK7Ha82zLhsTjW5NuWAo26Rgroy6n"
+}
