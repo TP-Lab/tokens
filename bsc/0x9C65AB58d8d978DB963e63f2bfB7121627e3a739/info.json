@@ -1,0 +1,11 @@
+{
+ "name": "MDX Token",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
+ "type": "BEP20",
+ "symbol": "MDX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739"
+}
