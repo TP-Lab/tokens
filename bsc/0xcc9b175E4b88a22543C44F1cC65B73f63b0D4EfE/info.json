@@ -1,0 +1,11 @@
+{
+ "name": "BabyShark Token",
+ "website": "https://www.babysharktoken.com/",
+ "description": "A cryptocurrency focused on cleaning up our oceans",
+ "explorer": "https://bscscan.com/token/0xcc9b175e4b88a22543c44f1cc65b73f63b0d4efe",
+ "type": "BEP20",
+ "symbol": "SHARK",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xcc9b175e4b88a22543c44f1cc65b73f63b0d4efe"
+}
