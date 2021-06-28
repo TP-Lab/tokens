@@ -1,0 +1,11 @@
+{
+ "name": "Lucky Dragon Token",
+ "website": "https://twitter.com/Luckylong666",
+ "description": "Who will be the Lucky Dragon",
+ "explorer": "https://bscscan.com/token/0x19B2f39cccA13737b3275c8e4F213CC91418D507",
+ "type": "BEP20",
+ "symbol": "Luckylong",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x19B2f39cccA13737b3275c8e4F213CC91418D507"
+}
