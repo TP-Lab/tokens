@@ -1,0 +1,11 @@
+{
+ "name": "Binance-Peg Dogecoin",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+ "type": "BEP20",
+ "symbol": "DOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43"
+}
