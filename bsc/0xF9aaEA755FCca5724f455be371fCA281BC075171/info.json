@@ -1,0 +1,11 @@
+{
+ "name": "MiniKey",
+ "website": "https://liquiditygames.com/",
+ "description": "Liquidity weight points, as the first equity, are issued to community governance users for free, in order to provide users with encouragement to mine for free, and we will repurchase them when mature",
+ "explorer": "https://bscscan.com/token/0xf9aaea755fcca5724f455be371fca281bc075171",
+ "type": "BEP20",
+ "symbol": "MNK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF9aaEA755FCca5724f455be371fCA281BC075171"
+}
