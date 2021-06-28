@@ -1,0 +1,11 @@
+{
+ "name": "WWW2 Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x77650ece6ebe5b20e01f36cd95411c1926e90b87",
+ "type": "BEP20",
+ "symbol": "WWW2",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x77650ece6eBE5B20e01f36CD95411c1926e90b87"
+}
