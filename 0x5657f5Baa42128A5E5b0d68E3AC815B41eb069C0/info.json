@@ -1,0 +1,11 @@
+{
+ "name": "BitDogeStar Token",
+ "website": "https://app.bitdoge.org",
+ "description": "A cute star dog, all outputs are mined",
+ "explorer": "https://bscscan.com/token/0x5657f5Baa42128A5E5b0d68E3AC815B41eb069C0",
+ "type": "BEP20",
+ "symbol": "BDOGS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5657f5Baa42128A5E5b0d68E3AC815B41eb069C0"
+}
