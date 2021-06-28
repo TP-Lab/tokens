@@ -1,0 +1,11 @@
+{
+    "name": "Dove Fund",
+    "website": "http://dovefund.xyz/",
+    "description": "DOF has now landed in coin security smart chain BSC. Users can vote through dove fund currency project security investment rating reference investment and public welfare assistance!",
+    "explorer": "https://bscscan.com/token/0x1fd88d2c00fb3b18ba1dc6aadc9272c1529d8cfe",
+    "type": "BEP20",
+    "symbol": "DOF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1fd88d2c00fb3b18ba1dc6aadc9272c1529d8cfe"
+}
