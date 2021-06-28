@@ -1,0 +1,11 @@
+{
+ "name": "INFT Token",
+ "website": "http://inftswap.org/",
+ "description": "INFT is the native governance token for INFTSWAP. INFTSWAP is an efficient, transparent and trusted digital asset exchange protocol designed to provide easy access to the world of DEFI and NFT.",
+ "explorer": "https://bscscan.com/token/0xc1cE98E2A2E95F626D62a240E8a55cC96A610D2C",
+ "type": "BEP20",
+ "symbol": "INFT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xc1cE98E2A2E95F626D62a240E8a55cC96A610D2C"
+}
