@@ -1,0 +1,11 @@
+{
+ "name": "PetDog",
+ "website": "-",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0xFE697528963656B2cf38C1e262AB7624Ce846E48",
+ "type": "BEP20",
+ "symbol": "PetDog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFE697528963656B2cf38C1e262AB7624Ce846E48"
+} 
