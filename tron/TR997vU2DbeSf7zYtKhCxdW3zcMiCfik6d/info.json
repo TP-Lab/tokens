@@ -1,0 +1,11 @@
+{
+ "name": "EcoBoost Token",
+ "website": "https://baike.sogou.com",
+ "description": "×ÜÁ¿100ÍòÃ¶£¡",
+"explorer": "https://tronscan.io/#/token20/TR997vU2DbeSf7zYtKhCxdW3zcMiCfik6d",
+ "type": "TRC20",
+ "symbol": "YM",
+ "decimals": 6,
+ "status": "active",
+ "id": "TR997vU2DbeSf7zYtKhCxdW3zcMiCfik6d"
+}

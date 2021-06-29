@@ -1,0 +1,21 @@
+{
+    "name": "FLOKI INU", 
+    "website": "https://www.flokiinu.co", 
+    "short_description": "FLOKI INU is recognized by Elon Musk, it is a fair launch token, no pre-sale, no dev wallet.", 
+    "description": "FLOKI INU is recognized by Elon Musk, we differ ourselves by not having a dev wallet. each exchange ,4%of every transaction gets redistributed between all holders of the token, 4% of every transaction is used to build up the liquidity pool for the token, 2% of every transaction gets redistributed proportionally between all holders of the token .", 
+    "type": "BEP20", 
+    "symbol": "FLO", 
+    "decimals": 9, 
+    "status": "active", 
+    "socials": [
+        {
+            "name": "Twitter", 
+            "url": "https://twitter.com/BUYFLOKI"
+        }, 
+        {
+            "name": "Telegram", 
+            "url": "https://t.me/REALFLOKI"
+        }
+    ], 
+    "explorer": "https://bscscan.com/token/0x0a8c87e41f36473e203aca3f58bce95648ce4afc"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "AIHUANGOU",
+ "website": "http://www.aihuangou.com",
+ "description": "基于价值交换区块链智能合约",
+ "explorer": "https://tronscan.io/#/token20/THKEuFaPxGMe18Ax1t87iF7KSWSZ4LF2TQ",
+ "type": "TRC20",
+ "symbol": "AHG",
+ "decimals": 18,
+ "status": "active",
+ "id": "THKEuFaPxGMe18Ax1t87iF7KSWSZ4LF2TQ"
+}

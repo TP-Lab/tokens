@@ -1,0 +1,11 @@
+{
+ "name": "KFB",
+ "website": "https://kongfuio.com",
+ "description": "KongFu Chain is an energy-efficient public chain, and KFB is the token of the public chain. Add public chain RPC: http://8.141.64.246:8545, ID: 1",
+ "explorer": "https://hecoinfo.com/token/0x836C9151d2070DEc1Fae8F50Ad7755eDC97a4d40",
+ "type": "HRC-20",
+ "symbol": "KFB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x836C9151d2070DEc1Fae8F50Ad7755eDC97a4d40"
+}

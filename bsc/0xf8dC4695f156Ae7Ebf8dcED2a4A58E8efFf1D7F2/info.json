@@ -1,0 +1,11 @@
+{
+ "name": "Coin Guardian",
+ "website": "https://coin-guardian.com/",
+ "description": "A Proprietary, Hyper Deflationary Token.",
+ "explorer": "https://bscscan.com/address/0xf8dC4695f156Ae7Ebf8dcED2a4A58E8efFf1D7F2",
+ "type": "BEP20",
+ "symbol": "CGD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xf8dC4695f156Ae7Ebf8dcED2a4A58E8efFf1D7F2"
+}
