@@ -1,0 +1,11 @@
+{
+ "name": "WFC token",
+ "website": "https://wfcbsc.com",
+ "description": "Intelligent difi platform wfc tokens",
+ "explorer": "https://bscscan.com/token/0x7164712F2136a03d25859408eb15AAf36640B71A",
+ "type": "BEP20",
+ "symbol": "WFC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7164712F2136a03d25859408eb15AAf36640B71A"
+}
