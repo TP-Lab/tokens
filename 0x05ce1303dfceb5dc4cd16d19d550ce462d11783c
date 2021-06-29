@@ -1,0 +1,11 @@
+{
+    "name": "SafeDoge",
+    "website": "https://safedoge.me",
+    "description": "Safedoge was created to simplify investing in cryptocurrency, reward holders, and help the world by donating to holder chosen charities.",
+    "explorer": "https://bscscan.com/address/0x05ce1303dFcEB5Dc4CD16D19d550cE462D11783c",
+    "type": "BEP20",
+    "symbol": "SafeDoge",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x05ce1303dFcEB5Dc4CD16D19d550cE462D11783c"
+}
