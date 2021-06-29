@@ -1,0 +1,11 @@
+{
+ "name": "CAPSULE",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xe3bf6603babeabc3192bc87558964374705071d7",
+ "type": "BEP20",
+ "symbol": "CAPSULE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe3bf6603babeabc3192bc87558964374705071d7"
+} 
