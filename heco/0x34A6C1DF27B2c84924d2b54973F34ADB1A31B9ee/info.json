@@ -1,0 +1,11 @@
+{
+ "name": "DeFiBox",
+ "website": "https://hecoinfo.com/",
+ "description": "The Token protocol is designed for holders, with 6% of each transaction flowing to LP, 4% of each cookie transaction reflected to all holders, and 2% flowing into the black hole, where tokens gradually dwindle, thus creating an ever-rising price floor.",
+ "explorer": "https://hecoinfo.com/token/0x34A6C1DF27B2c84924d2b54973F34ADB1A31B9ee",
+ "type": "HRC-20",
+ "symbol": "DeFiBox",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x34A6C1DF27B2c84924d2b54973F34ADB1A31B9ee"
+}
