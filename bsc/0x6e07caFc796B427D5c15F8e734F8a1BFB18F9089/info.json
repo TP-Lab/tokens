@@ -1,0 +1,11 @@
+{
+    "name": "BullDogs",
+    "website": "http://bulldogs.finance/",
+    "description": "HOLD BullDogs TO EARN MORE BNB",
+    "explorer": "https://bscscan.com/token/0x6e07caFc796B427D5c15F8e734F8a1BFB18F9089",
+    "type": "BEP20",
+    "symbol": "BDS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x6e07caFc796B427D5c15F8e734F8a1BFB18F9089"
+}
