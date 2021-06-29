@@ -1,0 +1,11 @@
+{
+ "name": "MistNFT",
+ "website": "https://bscscan.com/",
+ "description": "Oracle provides more open and innovative new technologies, provides investors with a fair, transparent and open trading environment, and provides an ecological value token.",
+ "explorer": "https://bscscan.com/token/0x86BC059Ce820DaF07679BF00cF8A59FA1Ed69a0E",
+ "type": "BEP20",
+ "symbol": "MistNFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x86BC059Ce820DaF07679BF00cF8A59FA1Ed69a0E"
+}
