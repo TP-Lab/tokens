@@ -1,12 +1,11 @@
-  
 {
- "name": "Elon Musk Light bulb coin",
- "website": "-",
- "description": "-",
- "explorer": "https://hecoinfo.com/token/0x35eB40c60f4a8372a92e309B31c771E5f844E520",
- "type": "HRC-20",
- "symbol": "EMLB",
+ "name": " HorseToken",
+ "website": "http://www.horsetoken1.com",
+ "description": "Horse Token was freely launched by a group of digital currency enthusiasts and launched anonymously on May 31, 2021.",
+ "explorer": "https://hecoinfo.com/token/0x400ec1c296a78517232020bc6830d8c2c781332f",
+ "type": "HRC20",
+ "symbol": "HORSE",
  "decimals": 18,
  "status": "active",
- "id": "0x35eB40c60f4a8372a92e309B31c771E5f844E520"
-} 
+ "id": "0x400ec1c296a78517232020bc6830d8c2c781332f"
+}
