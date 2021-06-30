@@ -1,0 +1,13 @@
+{
+ "name": "Ueagle",
+ "website（网站）": "-",
+ "description（描述）": " Ueagle was initiated by American Eagle lovers. It is a token based on the Heco chain",
+ "explorer（探查）": "https://hecoinfo.com/token/0x03E3a8D057A600579Ddd70e6F01504cB144B3323",
+ "type（类型）": "HECO",
+ "symbol（符号）": "Ueagle",
+ "decimals（小数）": 18,
+ "status": "active",
+ "id": "0x03E3a8D057A600579Ddd70e6F01504cB144B3323"
+}
+
+
