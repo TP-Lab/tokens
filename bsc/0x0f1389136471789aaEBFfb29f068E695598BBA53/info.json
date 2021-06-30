@@ -1,0 +1,11 @@
+{
+ "name": "Mars cat coin",
+ "website": "https://bscscan.com/",
+ "description": "new token",
+ "explorer": "https://bscscan.com/token/0x0f1389136471789aaEBFfb29f068E695598BBA53",
+ "type": "BEP20",
+ "symbol": "MACC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0f1389136471789aaEBFfb29f068E695598BBA53"
+}
