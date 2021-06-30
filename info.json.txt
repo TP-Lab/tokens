@@ -1,11 +1,14 @@
 {
- "name": "Clown HECO Huobi",
- "website": "无",
- "description":  Clown HECO huobi简称CHH是发行火币生态链永不增发币种，潜力巨大",
- "explorer": "https://hecoinfo.com/address/0x5c8928860fd19ba0fc364bbe9d1b99b084e88889",
- "type": "HRC20",
- "symbol": "CHH",
- "decimals": 18,
+ "name": "Olympic pig
+",
+ "website": "https://www.Olympic pig
+.com",
+ "description": "Olympic pig
+",
+ "explorer": "https://hecoinfo.com/token/0xB1E5832d0d5B6D0cfdb7F36AaE8975566C8d2af0",
+ "type": "HECO",
+ "symbol": "Olympic pig",
+ "decimals": 14,
  "status": "active",
- "id": "0x5c8928860fd19ba0fc364bbe9d1b99b084e88889"
-}
+ "id": "0xB1E5832d0d5B6D0cfdb7F36AaE8975566C8d2af0"
+} 
