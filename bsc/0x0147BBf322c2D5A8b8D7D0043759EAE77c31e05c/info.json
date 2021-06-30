@@ -1,0 +1,11 @@
+{
+ "name": "MOON WOLF",
+ "website": "https://bscscan.com/",
+ "description": "new token",
+ "explorer": "https://bscscan.com/token/0x0147BBf322c2D5A8b8D7D0043759EAE77c31e05c",
+ "type": "BEP20",
+ "symbol": "MNF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0147BBf322c2D5A8b8D7D0043759EAE77c31e05c"
+}
