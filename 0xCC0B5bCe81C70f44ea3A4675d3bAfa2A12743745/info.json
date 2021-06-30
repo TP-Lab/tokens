@@ -1,0 +1,11 @@
+{
+ "name": "ETTECT",
+ "website": "https://www.ETTECT.com",
+ "description": "ETT is an experimental token in community construction driven by protocol community. After our initial establishment, a leading group was formed by well-known people in the telegraph industry. The purpose of the group is to assign skills within the community to appropriate roles in development and to agree on future decisions. Anyone who has the skills or time to contribute will be invited to help develop and advance",
+ "explorer": "https://bscscan.com/token/0xCC0B5bCe81C70f44ea3A4675d3bAfa2A12743745",
+ "type": "BEP20",
+ "symbol": "ETT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCC0B5bCe81C70f44ea3A4675d3bAfa2A12743745"
+}
