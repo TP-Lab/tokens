@@ -1,0 +1,11 @@
+{
+    "name": "Automatic Teller Machine",
+    "website": "https://atmgame.vip",
+    "description": "ATM is a token issued based on TRON, which will never be issued, and will have great value in the future",
+    "explorer": "https://tronscan.io/#/contract/TRhZ8CyhSacwyRRZcsTkGBZnJnQF8Nxsac",
+    "type": "TRC20",
+    "symbol": "ATM",
+    "decimals": 4,
+    "status": "active",
+    "id": "TRhZ8CyhSacwyRRZcsTkGBZnJnQF8Nxsac"
+   }
