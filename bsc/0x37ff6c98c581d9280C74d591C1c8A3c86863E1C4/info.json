@@ -1,0 +1,11 @@
+{
+ "name": "World Cup Token",
+ "website": "https://kinba.io",
+ "description": "WUP is an advanced NFT ecosystem.",
+ "explorer": "https://bscscan.com/token/0x37ff6c98c581d9280C74d591C1c8A3c86863E1C4",
+ "type": "BEP20",
+ "symbol": "WUP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x37ff6c98c581d9280C74d591C1c8A3c86863E1C4"
+}
