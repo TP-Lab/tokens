@@ -1,0 +1,11 @@
+{
+ "name": "胜利",
+ "website": "http://winner-coin.com.block-chain.world",
+ "description": "Heco's new Chinese digital currency is bound to make Chinese currency re-encrypted, leaving its own legend in the world.",
+ "explorer": "https://hecoinfo.com/token/0x5a8749277a649B6984810Fb769b830594fBf85d6",
+ "type": "HRC-20",
+ "symbol": "胜利",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5a8749277a649B6984810Fb769b830594fBf85d6"
+} 
