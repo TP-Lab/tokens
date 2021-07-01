@@ -1,0 +1,11 @@
+{
+    "name":"Unicorn Token",
+    "website":"-",
+    "description":"Unicorn Token is a token on Huobi Eco(HECO) Chain boasting a number of impressive features.",
+    "explorer":"https://hecoinfo.com/token/0x8b493A1a3492fCf081dccF40d799Aa769C0b1055",
+    "type":"HRC-20",
+    "symbol":"Unicorn",
+    "decimals":18,
+    "status":"active",
+    "id":"0x8b493A1a3492fCf081dccF40d799Aa769C0b1055"
+}
