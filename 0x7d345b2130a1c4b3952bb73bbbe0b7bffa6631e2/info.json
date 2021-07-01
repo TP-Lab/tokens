@@ -2,10 +2,10 @@
  "name": "UKA UKA",
  "website": "http://ukauka.club",
  "description": "The biggest BNB reflection token with auto-claim feature.",
- "explorer": "https://bscscan.com/token/0x7d345b2130a1c4b3952bb73bbbe0b7bffa6631e2",
+ "explorer": "https://bscscan.com/token/0xf9cb31a064cdb98b02d54b39a5325c89672c5445",
  "type": "BEP20",
  "symbol": "UKA",
  "decimals": 18,
  "status": "active",
- "id": "0x7d345b2130a1c4b3952bb73bbbe0b7bffa6631e2"
+ "id": "0xf9cb31a064cdb98b02d54b39a5325c89672c5445"
 }
