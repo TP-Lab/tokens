@@ -1,0 +1,9 @@
+{
+"name": "银河币", 
+"website": "-", "description":"银河币", 
+"explorer":"https://hecoinfo.com/token/0xAeCE77E01AE22E5b7A0C035358202da8D6EE94e2", 
+"type": "HRC-20", 
+"symbol":"GTC", 
+"decimals": 18, 
+"status": "active", "id":"0xAeCE77E01AE22E5b7A0C035358202da8D6EE94e2" 
+}
