@@ -1,14 +1,13 @@
 {
- "name": "Olympic pig
+ "name": "BMBPE
 ",
- "website": "https://www.Olympic pig
-.com",
- "description": "Olympic pig
+ "website": "
+ "description": "BMBPE
 ",
- "explorer": "https://hecoinfo.com/token/0xB1E5832d0d5B6D0cfdb7F36AaE8975566C8d2af0",
+ "explorer": "https://hecoinfo.com/token/0x5599b1eeB991789B1352C45816ecda539dd775F9",
  "type": "HECO",
- "symbol": "Olympic pig",
- "decimals": 14,
+ "symbol": "BMBPE",
+ "decimals": 12,
  "status": "active",
- "id": "0xB1E5832d0d5B6D0cfdb7F36AaE8975566C8d2af0"
+ "id": "0x5599b1eeB991789B1352C45816ecda539dd775F9"
 } 
