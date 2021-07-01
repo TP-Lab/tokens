@@ -1,0 +1,9 @@
+{
+"name": "银河币", 
+"website": "-", "description":"银河币", 
+"explorer":"https://hecoinfo.com/token/0x93c9abD44921B970fF37463B6104827a05918daa", 
+"type": "HRC-20", 
+"symbol":"GLC", 
+"decimals": 18, 
+"status": "active", "id":"0x93c9abD44921B970fF37463B6104827a05918daa" 
+}
