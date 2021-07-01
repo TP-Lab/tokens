@@ -1,0 +1,9 @@
+https://http-mainnet.hecochain.com
+
+https://hecoinfo.com
+
+
+https://bsc-dataseed1.binance.org/
+
+
+https://bscscan.com/
