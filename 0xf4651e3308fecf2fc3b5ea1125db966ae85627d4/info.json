@@ -1,0 +1,11 @@
+{
+ "name": "Floki",
+ "website": "http://www.Flokibscscan.fit/",
+ "description": "Floki No. 1 in the world.",
+ "explorer": "https://bscscan.com/token/0xf4651e3308fecf2fc3b5ea1125db966ae85627d4",
+ "type": "BEP20",
+ "symbol": "Floki",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xf4651e3308fecf2fc3b5ea1125db966ae85627d4"
+}
