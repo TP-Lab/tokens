@@ -1,0 +1,11 @@
+{
+    "name":"DiamondStar",
+    "website":"https://diamondstar.finance",
+    "description":"We have six unique innovation mechanisms, Every mechanism is revolutionary, Who is the next big winner?",
+    "explorer":"https://bscscan.com/token/0x5ea8d246b27eba001bafa8a7f6a0039b76fd06ba",
+    "type":"BEP20",
+    "symbol":"DStar",
+    "decimals": 18,
+    "status":"active",
+    "id":"0xeca41281c24451168a37211f0bc2b8645af45092"
+}
