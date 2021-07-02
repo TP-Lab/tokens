@@ -1,0 +1,11 @@
+{
+ "name": "Baby Bird Fly Coin",
+ "website": "",
+ "description": "A project to protect the baby bird",
+ "explorer": "https://bscscan.com/token/0x95a293f5eea61989a2c8ba81d446a19401fa019e",
+ "type": "BEP20",
+ "symbol": "BBFC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x95a293f5eea61989a2c8ba81d446a19401fa019e"
+}
