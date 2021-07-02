@@ -1,0 +1,11 @@
+{
+ "name": "Cartoon Doge",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x94953DEBb88D4c4DbEc5D20591Eb5d44Ab7b4b08",
+ "type": "BEP20",
+ "symbol": "Cartoon Doge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x94953DEBb88D4c4DbEc5D20591Eb5d44Ab7b4b08"
+}
