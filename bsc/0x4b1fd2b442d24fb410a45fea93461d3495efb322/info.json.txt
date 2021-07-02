@@ -1,0 +1,11 @@
+{
+ "name": "cda",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x4b1fd2b442d24fb410a45fea93461d3495efb322",
+ "type": "BEP20",
+ "symbol": "cda",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4b1fd2b442d24fb410a45fea93461d3495efb322"
+} 
