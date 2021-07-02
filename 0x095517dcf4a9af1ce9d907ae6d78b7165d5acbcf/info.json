@@ -1,0 +1,11 @@
+{
+ "name": "Gold ant coin",
+ "website": "https://gactoken.pro",
+ "description": "Connect various industrial networks to solve practical problems in the industry and promote the popularization of blockchain technology.",
+ "explorer": "https://hecoinfo.com/token/0x095517dcf4a9af1ce9d907ae6d78b7165d5acbcf",
+ "type": "HECO",
+ "symbol": "GAC",
+ "decimals": 10,
+ "status": "active",
+ "id": "0x095517dcf4a9af1ce9d907ae6d78b7165d5acbcf"
+}
