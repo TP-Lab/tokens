@@ -1,0 +1,10 @@
+{
+ "name": "Kill Doge",
+ "website": "https://tokenpocket.pro",
+ "explorer": "https://bscscan.com/token/0xd30e8dcd5756c8f51e53be7a8b6dc2f297aec79c",
+ "type": "BEP20",
+ "symbol": "Kill Doge",
+ "decimals": 18,
+ "status": "-",
+ "id": "0xd30e8dcd5756c8f51e53be7a8b6dc2f297aec79c"
+}
