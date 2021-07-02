@@ -1,10 +1,11 @@
 {
- "name": "TIGER COIN",
- "website": "https://tokenpocket.pro",
- "explorer": "https://bscscan.com/token/0xaa76b28f1ba2a61a9e00c51a74869881f4776394",
- "type": "BEP20",
- "symbol": "TGE",
- "decimals": 18,
- "status": "-",
- "id": "0xaa76b28f1ba2a61a9e00c51a74869881f4776394"
+    "name": "UP",
+    "website": "https://up.fan",
+    "description": "Up.fan is a DeFi aggregation revenue platform. The automatic market maker mechanism Automated Market Maker (AMM) earns transaction fees, reinvests the proceeds regularly, and rewards participants with UP tokens, making it the best and most stable machine gun pool , To always earn the most stable income, we are building the Upswap exchange to create the highest quality DeFi investment ecology.",
+    "explorer": "https://hecoinfo.com/token/0xca178c8cad89ec63dd67a6bbb91250d9eeb5a1c5",
+    "type": "HRC20",
+    "symbol": "UP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xca178c8cad89ec63dd67a6bbb91250d9eeb5a1c5"
 }
