@@ -1,0 +1,11 @@
+{
+  "name": "Floki",
+  "website": "https://flokidoge.com",
+  "description": "Floki Doge，马斯克亲儿子。swap、defi已上线。",
+  "explorer": "https://bscscan.com/token/0xf983fcbedfc59d53425de5eb1cdea806db9c1cef",
+  "type": "BEP20",
+  "symbol": "FLOKI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf983fcbedfc59d53425de5eb1cdea806db9c1cef"
+}
