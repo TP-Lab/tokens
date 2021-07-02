@@ -1,0 +1,11 @@
+{
+ "name": "Floki Shiba",
+ "website": "-",
+ "description": "Floki Shiba是基于火币链发行的代币，为了纪念马斯克为其宠物取名FLOKI而来，永不增发.",
+ "explorer": "https://hecoinfo.com/tx/0xcbc1c31a38d53199c9977fdbbfa49c73e4228b2b852fbd28be54972553f6490a",
+ "type": "HRC-20",
+ "symbol": "FSHIB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa9c8eb064e4d831ae45de133f97971592defbf33"
+}
