@@ -1,0 +1,11 @@
+{
+  "name": "Matt Coin",
+  "website": "https://mtc.siuufr.shop",
+  "description": "MTC是一种极速通缩机制的资产，具有实用性，又是一个健康、 活跃的社区，由创造者、交易员、投资者、投机者和炒家组成。MTC双重销毁机制也为创建者、交易者、投资者、投机者和信仰者组成的健康社区提供了保障",
+  "explorer": "https://hecoinfo.com/address/0x1bBF97E48cA8415E7b9a450393b8886F5C094f77",
+  "type": "HRC20",
+  "symbol": "MTC",
+  "decimals": 8,
+  "status": "active",
+  "id": "0x1bBF97E48cA8415E7b9a450393b8886F5C094f77"
+}
