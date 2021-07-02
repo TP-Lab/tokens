@@ -1,0 +1,10 @@
+{
+ "name": "DaoKe Token",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xb8bed9d86e8c705663eca4dca0b6c4e68c7886d0",
+ "type": "BEP20",
+ "symbol": "DC",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xb8bed9d86e8c705663eca4dca0b6c4e68c7886d0"
