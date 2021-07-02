@@ -1,0 +1,12 @@
+{
+ "name": "PIB",
+ "website": "https://www.PIB.com",
+ "description": "PIB (PB) is an experimental token in the construction of decentralized community. PIB protocol is based on the token issued by coin an intelligent ecological chain.
+The first decentralized Oracle network that allows anyone to securely provide smart contracts, access critical external data, offline payments, and any other API functionality. Any user with a data feed, offline service (such as local payment) or any other API can offer it directly to a smart contract in exchange for a BNB token.",
+ "explorer": "https://bscscan.com/token/0x6010A2Ea4Bf9b4B94AA4C44e4c4C451f9a46F5d7",
+ "type": "BEP20",
+ "symbol": "PB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6010A2Ea4Bf9b4B94AA4C44e4c4C451f9a46F5d7"
+}
