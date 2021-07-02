@@ -1,0 +1,11 @@
+{
+ "name": "SafeBabyBear",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xd38794ceee033915602c49d2300c29c3fd48438b",
+ "type": "BEP20",
+ "symbol": "SafeBabyBear",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd38794ceee033915602c49d2300c29c3fd48438b"
+}
