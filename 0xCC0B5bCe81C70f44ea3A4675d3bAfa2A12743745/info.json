@@ -1,0 +1,11 @@
+{
+ "name": "ETTECT",
+ "website": "https://www.ETTECT.com",
+ "description": "Link network provides timely and accurate information to smart contract through Oracle's distributed network (data source and API). This information is very important for the effective and accurate execution of smart contracts, because the required information exists under the chain, and there must be a reliable way to obtain the information on the chain.",
+ "explorer": "https://bscscan.com/token/0xCC0B5bCe81C70f44ea3A4675d3bAfa2A12743745",
+ "type": "BEP20",
+ "symbol": "ETT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCC0B5bCe81C70f44ea3A4675d3bAfa2A12743745"
+}
