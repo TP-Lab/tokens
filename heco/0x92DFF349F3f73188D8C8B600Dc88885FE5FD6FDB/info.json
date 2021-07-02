@@ -1,0 +1,11 @@
+{
+ "name": "Floki Token",
+ "website": "https://FlokiToken.com",
+ "description": "Musk's virtual digital Chaigou Floki.",
+ "explorer": "https://hecoinfo.com/token/0x92DFF349F3f73188D8C8B600Dc88885FE5FD6FDB",
+ "type": "EIP20",
+ "symbol": "Floki",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x92DFF349F3f73188D8C8B600Dc88885FE5FD6FDB"
+}
