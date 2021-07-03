@@ -1,0 +1,11 @@
+{ 
+  "name": "TJB", 
+  "website": "https://tronscan.io/", 
+  "description": "TJB", 
+  "explorer": "https://tronscan.io/#/https://tronscan.io/#/token20/TR87XokaeJj117JPryy2D6wuABKJz6JYnK", 
+  "type": "TRC20", 
+  "symbol": "12530", 
+  "decimals": 6, 
+  "status": "active", 
+  "id": "TR87XokaeJj117JPryy2D6wuABKJz6JYnK" 
+ }  
