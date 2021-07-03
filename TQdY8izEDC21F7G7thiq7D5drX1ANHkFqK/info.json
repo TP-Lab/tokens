@@ -1,0 +1,12 @@
+{
+ "name": "Free currency",
+ "website": "
+https://www.Freecurrency.net",
+ "description": "Free currency（FCE）自由币它是社区自治通证，初始发行总量100000枚，具有通缩性机制，以确保未来FCE的超高币值。我们致力联合所有追崇自由的共识者一同打造最强社区及生态价值。同时未来联手搭建子币LP流动挖矿+NFT板块等各类区块链应用服务于所有自由社区持有者，不断的创造FCE实际价值和应用落地生态。",
+ "explorer": "https://tronscan.io/#/token20/TQdY8izEDC21F7G7thiq7D5drX1ANHkFqK",
+ "type": "TRC20",
+ "symbol": "FCE",
+ "decimals": 18,
+ "status": "active",
+ "id": "TQdY8izEDC21F7G7thiq7D5drX1ANHkFqK"
+}
