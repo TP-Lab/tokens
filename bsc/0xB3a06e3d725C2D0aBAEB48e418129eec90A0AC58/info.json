@@ -1,0 +1,11 @@
+{
+ "name": "Baby Elon Coin",
+ "website": "https://elontoken.cc",
+ "description": "Total supply is only 1 Million BabyElon coin and every coin is precious. BabyElon is fairly launched with 100% supply added to Pancakeswap liquidity and locked for 10 years.",
+ "explorer": "https://bscscan.com/address/0xB3a06e3d725C2D0aBAEB48e418129eec90A0AC58#code",
+ "type": "BEP20",
+ "symbol": "BabyElon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB3a06e3d725C2D0aBAEB48e418129eec90A0AC58"
+}
