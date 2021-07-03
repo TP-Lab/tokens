@@ -1,0 +1,11 @@
+{
+    "name": "BitTorrent",
+    "website": "https://www.bittorrennt.com/",
+    "description": "BTT is a ERC-20 utility token based on the blockchain that powers features of the most popular decentralized protocols and applications in the world. DApps powered by BTT include BitTorrent Speed, BitTorrent File System, DLive, and others in the pipeline.",
+    "explorer": "https://etherscan.io/address/0x0B1145796C79abe9ae5b2DF8c77aECF4faB9F119",
+    "type": "ERC20",
+    "symbol": "BTT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x0B1145796C79abe9ae5b2DF8c77aECF4faB9F119"
+   }
