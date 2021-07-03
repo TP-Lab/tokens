@@ -1,0 +1,12 @@
+{
+ "name": "ETGO Token",
+ "website": "
+https://www.EtGold.com",
+ "description": "ETGO Token (ETGO)以太黄金是基于TRON底层协议的加密货币，全球发行总量18888枚，永不增发，其目的为用户隐私数据得到更好的保护、实现更快的区块确认、更安全的资产流通、更低的交易成本。为繁荣TRON生态，近期将开启DAPP挖矿，后期将在支付、借贷、NFT等领域建立生态布局。",
+ "explorer": "https://tronscan.io/#/token20/TUj2khbs4QxKX1ChWtY3TaeKFZkqEdZtpM",
+ "type": "TRC20",
+ "symbol": "ETGO",
+ "decimals": 12,
+ "status": "active",
+ "id": "TUj2khbs4QxKX1ChWtY3TaeKFZkqEdZtpM"
+}
