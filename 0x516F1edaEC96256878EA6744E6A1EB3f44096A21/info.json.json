@@ -1,0 +1,11 @@
+{
+"name": "TokenPocket Token",
+"website": "https://tokenpocket.pro",
+"description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+"explorer": "https://bscscan.com/token/0x516F1edaEC96256878EA6744E6A1EB3f44096A21",
+"type": "BEP20",
+"symbol": " DOODOGE",
+"decimals": 10,
+"status": "active",
+"id": "0x516F1edaEC96256878EA6744E6A1EB3f44096A21"
+}
