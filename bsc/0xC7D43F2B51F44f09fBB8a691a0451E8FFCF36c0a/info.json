@@ -1,11 +1,10 @@
-{
- "name": "EverRase",
- "website": "http://everrase.beaa.cn",
- "description": "The original & first ever proprietary, buy-back hyper-deflationary token on the BSC.Join our telegram: https://t.me/RASETOKEN",
- "explorer": "https://bscscan.com/token/0xc9869a7cae0d5262422c32d481b8b6642a004a8f",
- "type": "BEP20",
- "symbol": "RASE",
- "decimals": 9,
- "status": "active",
- "id": "0xc9869a7cae0d5262422c32d481b8b6642a004a8f"
+"name": "EverRise",
+"website": "https://www.everrisecoin.com",
+"description": "EverRise is a hyper-deflationary token, which rewards investors for holding tokens, while also incorporating the Buyback approach currently present in the stock market.",
+"explorer": "https://bscscan.com/token/0xc7d43f2b51f44f09fbb8a691a0451e8ffcf36c0a",
+"type": "BEP20",
+"symbol": "RISE",
+"decimals": 9,
+"status": "active",
+"id": "0xc7d43f2b51f44f09fbb8a691a0451e8ffcf36c0a"
 }
