@@ -1,0 +1,11 @@
+{
+ "name": "Baby doge",
+ "website": "https://bbdoge.io",
+ "description": "hello baby",
+ "explorer": "https://hecoinfo.com/token/0xEC021A6383bd1816E12048254E544AF7CFf8Bb98",
+ "type": "HRC-20",
+ "symbol": "Baby doge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEC021A6383bd1816E12048254E544AF7CFf8Bb98"
+}
