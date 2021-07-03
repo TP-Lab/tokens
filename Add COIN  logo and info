@@ -1,0 +1,11 @@
+{ 
+ "name": "COIN", 
+ "website": "https://coinlist.co/", 
+ "description": "COIN", 
+ "explorer": "https://bscscan.com/token/0x37035b138d8aab82bf102230b08a32a538e1c541", 
+ "type": "BEP20", 
+ "symbol": "COIN", 
+ "decimals": 18, 
+ "status": "active", 
+ "id": "0x37035b138d8aab82bf102230b08a32a538e1c541" 
+ } 
