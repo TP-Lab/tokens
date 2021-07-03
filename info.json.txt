@@ -1,0 +1,12 @@
+{
+ " name " : " TJB 代币" ,
+ “网站”： “
+https://tronscan.io/ " ,
+ " TJB " : " TJB，中文名：TJB是一款基于波场生态建立的C2C类型区块链应用代币实验" ,
+ “资源管理器”： “ https://tronscan.io/#/token20/TR87XokaeJj117JPryy2D6wuABKJz6JYnK ”，
+ “类型”： “ TRC20 ”，
+ “符号”： “夏令时”，
+ "小数" : 6 ,
+ “状态”： “活动”，
+ “ id ”： “ TR87XokaeJj117JPryy2D6wuABKJz6JYnK  ”
+} 
