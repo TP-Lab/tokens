@@ -1,0 +1,11 @@
+{ 
+ "name": "TRADE", 
+ "website": "https://polytrade.finance/", 
+ "description": "TRADE", 
+ "explorer": "https://bscscan.com/token/0x28054fe13968c7d28f73376b8b071b4915aeb821", 
+ "type": "BEP20", 
+ "symbol": "TRADE", 
+ "decimals": 18, 
+ "status": "active", 
+ "id": "0x28054fe13968c7d28f73376b8b071b4915aeb821" 
+ } 
