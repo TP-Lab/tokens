@@ -1,0 +1,11 @@
+{
+ "name": "uaucurrency",
+ "website": "https://hecoinfo.com/",
+ "description": "The Token protocol is designed for holders, with 6% of each transaction flowing to LP, 4% of each cookie transaction reflected to all holders, and 2% flowing into the black hole, where tokens gradually dwindle, thus creating an ever-rising price floor.",
+ "explorer": "https://hecoinfo.com/token/0x9FeB4ccd901E3cbFd7A9e60e60aD6B79264d8cF0",
+ "type": "HRC-20",
+ "symbol": "UAU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9FeB4ccd901E3cbFd7A9e60e60aD6B79264d8cF0"
+}
