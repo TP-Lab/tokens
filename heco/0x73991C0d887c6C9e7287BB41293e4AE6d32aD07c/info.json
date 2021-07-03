@@ -1,0 +1,11 @@
+{
+ "name": "KWH Token",
+ "website": "https://kwhtoken.org",
+ "description": "KWH is a deflationary coin designed to become scarcer over time.",
+ "explorer": "https://hecoinfo.com/address/0x73991C0d887c6C9e7287BB41293e4AE6d32aD07c",
+ "type": "BEP20",
+ "symbol": "KWH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x73991C0d887c6C9e7287BB41293e4AE6d32aD07c"
+}
