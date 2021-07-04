@@ -1,0 +1,11 @@
+{
+ "name": "List of Gods",
+ "website": "https://www.listofgods.finance",
+ "description": "The List of God Community is a community experiment organized and initiated by a group of overseas Chinese blockchain engineers who are obsessed with Chinese myths and stories.",
+ "explorer": "https://bscscan.com/token/0x195d81dbbff59687050d608b13ad32f2e0968d28",
+ "type": "BEP20",
+ "symbol": "LGC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x195d81dbbff59687050d608b13ad32f2e0968d28"
+}
