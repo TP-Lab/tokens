@@ -1,0 +1,11 @@
+{
+ "name": "BAGH Token",
+ "website": "https://baike.sogou.com",
+ "description": "×ÜÁ¿38ÍòÃ¶£¡",
+"explorer": "https://tronscan.io/#/token20/TFNfEqFgJkEFTVNe2Tu8N6c2rnuqSYs5Ke/holders",
+ "type": "TRC20",
+ "symbol": "BAGH",
+ "decimals": 6,
+ "status": "active",
+ "id": "TFNfEqFgJkEFTVNe2Tu8N6c2rnuqSYs5Ke"
+}
