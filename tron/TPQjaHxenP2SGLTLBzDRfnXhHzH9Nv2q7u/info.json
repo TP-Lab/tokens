@@ -1,0 +1,11 @@
+{
+ "name": "TYbaby",
+ "website": "https://tronscan.io/",
+ "description": "田园犬宝宝",
+ "explorer": "https://tronscan.io/#/token20/TPQjaHxenP2SGLTLBzDRfnXhHzH9Nv2q7u",
+ "type": "TRC20",
+ "symbol": "TYbaby",
+ "decimals": 6,
+ "status": "active",
+ "id": "TPQjaHxenP2SGLTLBzDRfnXhHzH9Nv2q7u"
+}
