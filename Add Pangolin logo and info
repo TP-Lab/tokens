@@ -1,0 +1,11 @@
+{
+ "name": "Pangolin Token",
+ "website": "https://pangolinswap.net",
+ "description": "Pangolin mine card is a platform that integrates NFT,DEX,and Mining.",
+ "explorer": "https://bscscan.com/token/0x86aEFA44591c4E7fEf4dBf64ca39E3E24cBa3eF0",
+ "type": "	BEP20",
+ "symbol": "Pangolin",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbea08f758D65287F5109A63d0Edfc04A61aa78b8"
+}
