@@ -1,0 +1,11 @@
+{
+ "name": "QTA",
+ "website": "https://qta-token.pro",
+ "description": "QTA Token",
+ "explorer": "https://bscscan.com/token/0xac83cA08e2A141E44f769DF016fD4f2294ff2eA7",
+ "type": "BSC",
+ "symbol": "QTA",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xac83cA08e2A141E44f769DF016fD4f2294ff2eA7"
+}
