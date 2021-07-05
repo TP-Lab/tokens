@@ -1,0 +1,11 @@
+{
+    "name":"wildwolf",
+    "website":"http://wildwolf.us/",
+    "description":"Wild wolf is a community token for wild wolf game lovers based on coin an, which has hundreds of thousands of game users",
+    "explorer":"https://bscscan.com/token/0x00c74d711150059a7079f8fc0dfa196afd286ead",
+    "type":"BEP20",
+    "symbol":"wolf",
+    "decimals":9,
+    "status":"active",
+    "id":"0x00c74d711150059a7079f8fc0dfa196afd286ead"
+}
