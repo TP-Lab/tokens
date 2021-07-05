@@ -1,0 +1,11 @@
+{
+ "name": "REA Token",
+ "website": "https://www.rheachain.com/",
+ "description": "Rhea is an aggregation platform provided by innovative decentralized finance (DeFi) investors.",
+ "explorer": "https://tronscan.io/#/token20/TH5ydFhBnLV4ZHF2bgBVaTBfX8LY17kj9W",
+ "type": "TRC20",
+ "symbol": "REA",
+ "decimals": 6,
+ "status": "active",
+ "id": "TH5ydFhBnLV4ZHF2bgBVaTBfX8LY17kj9W"
+}
