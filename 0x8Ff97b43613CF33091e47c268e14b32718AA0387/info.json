@@ -1,0 +1,11 @@
+{
+ "name": "GREEKToken",
+ "website": "https://tokenpocket.pro",
+ "description": "Green token is initiated by members of the Shib community and based on BSC. It is a completely community governance platform, which pays tribute to musk for driving the bull market and bringing more people closer to wealth.",
+ "explorer": "https://bscscan.com/token/0x8Ff97b43613CF33091e47c268e14b32718AA0387",
+ "type": "BEP20",
+ "symbol": "GREEK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8Ff97b43613CF33091e47c268e14b32718AA0387"
+}
