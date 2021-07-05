@@ -1,0 +1,12 @@
+  
+{
+ "name": "GASH",
+ "website": "https://www.gaeacoin.io/#/",
+ "description": "GASH are shares that everyone can earn. When price of GAC rises above $1.05, smart contract will automatically issue more GAC to holders who deposit GASH in the Boardroom by percentage to stabilize the price of GAC.",
+ "explorer": "https://bscscan.com/address/0xEe826Bf89Ce0E5eb0aeabAb9bEb55eA8f4a25ab9",
+ "type": "BEP20",
+ "symbol": "GASH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEe826Bf89Ce0E5eb0aeabAb9bEb55eA8f4a25ab9"
+}
