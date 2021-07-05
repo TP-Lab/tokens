@@ -1,10 +1,11 @@
 {
- "name": "TIGER COIN",
+ "name": "GREEKToken",
  "website": "https://tokenpocket.pro",
- "explorer": "https://bscscan.com/token/0xaa76b28f1ba2a61a9e00c51a74869881f4776394",
+ "description": "Green token is initiated by members of the Shib community and based on BSC. It is a completely community governance platform, which pays tribute to musk for driving the bull market and bringing more people closer to wealth.",
+ "explorer": "https://bscscan.com/token/0x8Ff97b43613CF33091e47c268e14b32718AA0387",
  "type": "BEP20",
- "symbol": "TGE",
+ "symbol": "GREEK",
  "decimals": 18,
- "status": "-",
- "id": "0xaa76b28f1ba2a61a9e00c51a74869881f4776394"
+ "status": "active",
+ "id": "0x8Ff97b43613CF33091e47c268e14b32718AA0387"
 }
