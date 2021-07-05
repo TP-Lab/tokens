@@ -1,0 +1,11 @@
+{
+ "name": "Gourdman",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0xfb7F0566706723A360404060B511AEEBe606Fb38",
+ "type": "HRC-20",
+ "symbol": "Gourdman",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfb7F0566706723A360404060B511AEEBe606Fb38"
+} 
