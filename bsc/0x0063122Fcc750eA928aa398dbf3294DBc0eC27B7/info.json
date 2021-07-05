@@ -1,0 +1,11 @@
+{
+ "name": "Dogs on Mars",
+ "website": "http://domars.xyz",
+ "description": "Dogs on Mars",
+ "explorer": "https://bscscan.com/token/0x0063122Fcc750eA928aa398dbf3294DBc0eC27B7",
+ "type": "BEP20",
+ "symbol": "DoMars",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0063122Fcc750eA928aa398dbf3294DBc0eC27B7"
+}
