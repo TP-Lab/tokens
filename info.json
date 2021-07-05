@@ -1,11 +1,11 @@
 {
- "name": "Baby EverDoge Coin",
- "website": "https://www.BabyEverDoge.com/",
- "description": "BabyEverDoge want to create an innovative defi economic ecology and build a strong consensus community",
- "explorer": "https://bscscan.com/token/0x06c4212ae2fea51a27a045d968e73f7e91ea5521",
- "type": "BEP20",
- "symbol": "Baby EverDoge",
- "decimals": 18,
- "status": "active",
- "id": "0x06c4212Ae2fEa51a27A045D968E73F7E91eA5521"
-} 
+    "name":"wildwolf",
+    "website":"http://wildwolf.us/",
+    "description":"Wild wolf is a community token for wild wolf game lovers based on coin an, which has hundreds of thousands of game users",
+    "explorer":"https://bscscan.com/token/0x00c74d711150059a7079f8fc0dfa196afd286ead",
+    "type":"BEP20",
+    "symbol":"wolf",
+    "decimals":9,
+    "status":"active",
+    "id":"0x00c74d711150059a7079f8fc0dfa196afd286ead"
+}
