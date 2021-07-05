@@ -1,0 +1,11 @@
+{
+ "name": "Littlemoose",
+ "website": "https://littlemoosefinance.wixsite.com/website",
+ "description": "We Moose HOLD! We Moose Stay Strong! We Moose Unite! We Will Build aMooseEmpireArmy!",
+ "explorer": "https://bscscan.com/token/0x17d8c396a55d6c1c2130efc23f4936b56860df9c",
+ "type": "BEP20",
+ "symbol": "LMOOSE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x17d8c396a55d6c1c2130efc23f4936b56860df9c"
+}

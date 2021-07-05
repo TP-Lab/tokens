@@ -1,0 +1,11 @@
+{
+ "name": "LuckybabyFloki",
+ "website": "https://luckybabyfloki.finance/index.html",
+ "description": "LuckybabyFloki (LuckybabyFloki) is a decentralized deflation syndrome on binance smart chain.",
+ "explorer": "https://bscscan.com/token/0x97cc338a4f23868a672f10284ab9066b3019b546",
+ "type": "BEP20",
+ "symbol": "LuckybabyFloki",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x97cc338a4f23868a672f10284ab9066b3019b546"
+}
