@@ -1,11 +1,19 @@
 {
- "name": "Baby EverDoge Coin",
- "website": "https://www.BabyEverDoge.com/",
- "description": "BabyEverDoge want to create an innovative defi economic ecology and build a strong consensus community",
- "explorer": "https://bscscan.com/token/0x06c4212ae2fea51a27a045d968e73f7e91ea5521",
+
+ "name": "RecreationToken",
+
+ "website": "https://www.recreationtoken.net",
+
+ "description": "Leading multi-chain wallet, support BSC, We are committed to integrating leisure into the blockchain",
+
+ "explorer":"https://bscscan.com/token/0x2e36b57b2942cc980a10c8995a173a9d76a06683",
  "type": "BEP20",
- "symbol": "Baby EverDoge",
+
+ "symbol": "RRT",
+
  "decimals": 18,
- "status": "active",
- "id": "0x06c4212Ae2fEa51a27A045D968E73F7E91eA5521"
-} 
+
+ "status":"active",
+
+ "id": "0x2e36b57b2942cc980a10c8995a173a9d76a06683"
+}
