@@ -1,0 +1,11 @@
+{
+ "name": "NFTbswap",
+ "website": "www.nftbswap.com",
+ "description": "NFTBSWAP基于Heco搭建，是集去中心化金融（DeFi）、NFT市场、区块链游戏等处事于一身的区块链综合生态。",
+ "explorer": "https://hecoinfo.com/address/0xACdBB3329D9c46E6c2C22D123f92A5f6705540FC",
+ "type": "HECO",
+ "symbol": "NFTB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xACdBB3329D9c46E6c2C22D123f92A5f6705540FC"
+}

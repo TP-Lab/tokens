@@ -1,0 +1,11 @@
+{
+ "name": "DiscJockeyCAT",
+ "website": "https://DiscJockeyCAT.jp",
+ "description": "this project is want to show the world on HECO.",
+ "explorer": "https://hecoinfo.com/token/0x6c998B2DE44bc1A4d935F9ED06f9326D93Cb1Cd9",
+ "type": "HRC-20",
+ "symbol": "DJC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6c998B2DE44bc1A4d935F9ED06f9326D93Cb1Cd9"
+}
