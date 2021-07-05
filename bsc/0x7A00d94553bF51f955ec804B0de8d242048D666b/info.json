@@ -1,0 +1,11 @@
+{
+ "name":"Lightning Pup"
+ "website":"www.LightningPup.co"
+ "description":"LightningPup is a BSC token that has its ownership renounced and liquidity burnt. No Dev Wallets. No Control Of Contract. No Control of Liquidity. Rugscreen checked.We have a roadmap with plans for NFT Marketplace - will be aligning with international animal charities - all while building a solid long term community"
+ "explorer":"https://bscscan.com/token/0x7a00d94553bf51f955ec804b0de8d242048d666b?a=0x4753f016da39d83af8bda06ef997ff1469f0b8b0"
+ "type":"BEP20"
+ "symbol":"LPUP"
+ "decimals":"18"
+ "status":"active"
+ "id":"0x7A00d94553bF51f955ec804B0de8d242048D666b"
+}
