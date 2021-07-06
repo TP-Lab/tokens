@@ -1,0 +1,11 @@
+{
+ "name": "Europe Championship Coin",
+ "website": "https://xec.world",
+ "description": "XEC is a digital token applied to sports competition, IP digitalization of sports stars, NFT, e-sports and other fields.",
+ "explorer": "https://hecoinfo.com/token/0x7786c0847618740c8a05f23973ebf7c92140254e",
+ "type": "HRC20",
+ "symbol": "XEC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7786c0847618740c8a05f23973ebf7c92140254e"
+}
