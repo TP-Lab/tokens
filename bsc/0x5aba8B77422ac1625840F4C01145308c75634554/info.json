@@ -1,0 +1,22 @@
+{
+    "name": "FuckFake",
+    "website": "https://luckypig.net",
+    "description": "You can win BNB here.Fair and fair.",
+    "type": "BEP20",
+     "symbol": "FuckFake",
+     "decimals": 9,
+     "status": "active",
+     "id": "0x5aba8b77422ac1625840f4c01145308c75634554",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/FUCKFAK33229530"
+        },
+        
+        {
+            "name": "Telegram",
+            "url": "https://t.me/FuckAllFakeLucky"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x5aba8b77422ac1625840f4c01145308c75634554"
+}
