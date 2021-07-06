@@ -1,0 +1,11 @@
+﻿{
+ "name": "BTCS Token",
+ "website": "https://www.btcs.org/",
+ "description": "BTCS exists to revolutionize BTC.",
+ "explorer": "https://hecoinfo.com/token/0xBAb00a17E34c82F6588a6DC72d01fD84845fF52d",
+ "type": "HRC-20",
+ "symbol": "BTCS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBAb00a17E34c82F6588a6DC72d01fD84845fF52d"
+}
