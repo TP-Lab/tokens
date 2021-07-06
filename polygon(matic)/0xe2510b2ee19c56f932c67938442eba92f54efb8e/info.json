@@ -1,0 +1,12 @@
+
+{
+    "name": "PolyGirl",
+    "website": "https://twitter.com/polygirltoken",
+    "description": "Polygon",
+    "explorer": "https://polygonscan.com/token/0xe2510b2ee19c56f932c67938442eba92f54efb8e",
+    "type": "MATIC",
+    "symbol": "PolyGirl",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xe2510b2ee19c56f932c67938442eba92f54efb8e"
+}
