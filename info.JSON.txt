@@ -1,0 +1,11 @@
+{
+ "name": "BabySpaceDog",
+ "website": "https://tokenpocket.pro",
+ "description": "BabySpaceDog is a good project.",
+ "explorer": "https://polygonscan.com/address/0x3680dbac26b66cf185467fd6c3a5f01b6bdff328",
+ "type": "MATIC",
+ "symbol": "BabySpaceDog",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3680DbAc26b66cf185467FD6c3a5F01b6BdfF328"
+} 
