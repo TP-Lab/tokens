@@ -1,0 +1,10 @@
+{
+ "name": "Baby Starlink Doge",
+ "website": "https://starlink.london",
+ "description": "Baby Starlink Doge is a community-focused, decentralized cryptocurrency with instant feedback to active users.",
+ "explorer": "https://bscscan.com/token/0x28424179690f7fa27a00949b0e7c5d7e31e11d38",
+ "type": "BEP20",
+ "symbol": "StarlinkDoge",
+ "status": "active",
+ "id": "0x28424179690f7fa27a00949b0e7c5d7e31e11d38"
+}
