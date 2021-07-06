@@ -5,9 +5,9 @@
  "explorer": "https://bscscan.com/token/0xcEe24113fd2dca7989430E78C1b1aD0BF0925472
 ",
  "type": "BEP20",
- "symbol": "BABYTEDDY",
+ "symbol":"BABYTEDDY",
  "decimals": 9,
- "status": "active",
+ "status":"active",
  "id": "0xcEe24113fd2dca7989430E78C1b1aD0BF0925472
 "
 }
