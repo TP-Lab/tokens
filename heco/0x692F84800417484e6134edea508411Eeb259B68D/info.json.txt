@@ -1,0 +1,11 @@
+{
+ "name": "FET",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x692F84800417484e6134edea508411Eeb259B68D",
+ "type": "HRC-20",
+ "symbol": "FET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x692F84800417484e6134edea508411Eeb259B68D"
+} 
