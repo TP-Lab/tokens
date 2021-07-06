@@ -1,0 +1,11 @@
+{
+ "name": "MiniShib",
+ "website": "https://minishib.finance/",
+ "description": "—",
+ "explorer": "https://bscscan.com/address/0xd099d6ebfe446c9e8342dffd8903109d890f73b7",
+ "type": "BEP20",
+ "symbol": "MiniShib",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xD099d6ebfe446C9e8342dFFD8903109D890f73B7"
+} 
