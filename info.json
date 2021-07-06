@@ -1,11 +1,11 @@
 {
- "name": "Baby EverDoge Coin",
- "website": "https://www.BabyEverDoge.com/",
- "description": "BabyEverDoge want to create an innovative defi economic ecology and build a strong consensus community",
- "explorer": "https://bscscan.com/token/0x06c4212ae2fea51a27a045d968e73f7e91ea5521",
- "type": "BEP20",
- "symbol": "Baby EverDoge",
+ "name": "CHY Token",
+ "website": "http://www.chygroup.org/",
+ "description": "Concern Poverty Chain (CHY) is a team with the vision of ENDING EXTREME POVERTY WHATEVER IT TAKES. Every transaction will deduct 5% tax and bring more benefits to charity helpers through dividends.",
+ "explorer": "https://etherscan.io/token/0x35a23bc27c345b36dee700a256f69c6334030971",
+ "type": "ERC20",
+ "symbol": "CHY",
  "decimals": 18,
  "status": "active",
- "id": "0x06c4212Ae2fEa51a27A045D968E73F7E91eA5521"
-} 
+ "id": "0x35a23bc27c345b36dee700a256f69c6334030971"
+}
