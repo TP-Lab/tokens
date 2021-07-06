@@ -1,0 +1,11 @@
+{
+ "name": "Mother Doge",
+ "website": "https://t.me/Mother_Doge",
+ "description": "Mother Doge",
+ "explorer": "https://bscscan.com/token/0x5e03ecf5e5430811707ef270c01dd1f73509112f",
+ "type": "BEP20",
+ "symbol": "MDOGE ",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5e03ecf5e5430811707ef270c01dd1f73509112f"
+}
