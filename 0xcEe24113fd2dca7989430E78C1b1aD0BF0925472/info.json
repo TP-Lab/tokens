@@ -1,0 +1,13 @@
+{
+ "name": "BABYTEDDY",
+ "website": "https://teddycoin.xyz/"
+ "description": "A Super deflationary coin ",
+ "explorer": "https://bscscan.com/token/0xcEe24113fd2dca7989430E78C1b1aD0BF0925472
+",
+ "type": "BEP20",
+ "symbol": "BABYTEDDY",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xcEe24113fd2dca7989430E78C1b1aD0BF0925472
+"
+}
