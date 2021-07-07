@@ -1,0 +1,11 @@
+{
+ "name": "BAO",
+ "website": "无",
+ "description": "BAO是基于币安发行的代币，未来价值巨大",
+ "explorer": "https://bscscan.com/token/0xF848e8e8b060f47Da79698B03fd9f38a1868b20b",
+ "type": "BSC20",
+ "symbol": "BAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF848e8e8b060f47Da79698B03fd9f38a1868b20b"
+}

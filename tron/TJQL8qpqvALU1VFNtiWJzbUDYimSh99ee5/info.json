@@ -1,0 +1,11 @@
+{
+ "name": "New Finance",
+ "website": "无",
+ "description": "NFA是基于波场发行的代币，未来价值巨大",
+ "explorer": "https://tronscan.io/#/token20/TJQL8qpqvALU1VFNtiWJzbUDYimSh99ee5",
+ "type": "TRC20",
+ "symbol": "NFA",
+ "decimals": 6,
+ "status": "active",
+ "id": "TJQL8qpqvALU1VFNtiWJzbUDYimSh99ee5"
+}

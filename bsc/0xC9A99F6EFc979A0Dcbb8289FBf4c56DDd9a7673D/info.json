@@ -1,0 +1,11 @@
+{
+ "name": "BJC",
+ "website": "无",
+ "description": "BJC是基于币安发行的代币，未来价值巨大",
+ "explorer": "https://bscscan.com/token/0xc9a99f6efc979a0dcbb8289fbf4c56ddd9a7673d",
+ "type": "BSC20",
+ "symbol": "BJC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xC9A99F6EFc979A0Dcbb8289FBf4c56DDd9a7673D"
+}

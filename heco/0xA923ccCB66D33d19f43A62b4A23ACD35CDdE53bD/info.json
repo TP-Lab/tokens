@@ -1,0 +1,11 @@
+{
+ "name": "Babypig",
+ "website": "无",
+ "description": "Babypig是基于火币发行的代币，未来价值巨大",
+ "explorer": "https://hecoinfo.com/token/0xa923cccb66d33d19f43a62b4a23acd35cdde53bd",
+ "type": "HRC20",
+ "symbol": "Babypig",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA923ccCB66D33d19f43A62b4A23ACD35CDdE53bD"
+}
