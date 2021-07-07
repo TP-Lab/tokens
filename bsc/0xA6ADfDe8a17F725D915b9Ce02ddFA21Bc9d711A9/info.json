@@ -1,0 +1,12 @@
+{
+ "name": "Super Doge Token",
+ "website": "http://www.sdoge.co",
+ "description": "Super Doge is a token on bsc boasting a number of impressive features",
+ "explorer": "https://bscscan.com/token/0xA6ADfDe8a17F725D915b9Ce02ddFA21Bc9d711A9",
+ "type": "BEP20",
+ "symbol": "WHALE",
+ "decimals": 18,
+ "status": "active",
+ "release time": "2021-07-01 21:00",
+ "id": "0xA6ADfDe8a17F725D915b9Ce02ddFA21Bc9d711A9"
+}
