@@ -1,0 +1,11 @@
+{
+ "name": "harlemfinance",
+ "website": "https://harlemfinance.org",
+ "description": "Harlem Finance is a place to build a diversified NFT market and NFT aggregator.",
+ "explorer": "https://bscscan.com/token/0x77BF85a024ece48B6b67374BCb065330AA915bf2",
+ "type": "BEP20",
+ "symbol": "HALM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x77BF85a024ece48B6b67374BCb065330AA915bf2"
+}
