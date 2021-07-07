@@ -1,0 +1,12 @@
+  
+{
+ "name": "GAC",
+ "website": "https://www.gaeacoin.io/#/",
+ "description": "GAC is a decentralized, open-source and permissionless algorithmic stablecoin that pegged to 1 U.S. dollar. It can be a method to park value during trading, and solve the volatility issues of cryptocurrencies. ",
+ "explorer": "https://bscscan.com/token/0xE1Ede7E217ddf936214c193680fa25f2b861eE45",
+ "type": "BEP20",
+ "symbol": "GAC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE1Ede7E217ddf936214c193680fa25f2b861eE45"
+}
