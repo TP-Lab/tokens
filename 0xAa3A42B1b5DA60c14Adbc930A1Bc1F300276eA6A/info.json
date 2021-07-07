@@ -1,0 +1,11 @@
+{
+    "name": "HTMAX",
+    "website": "http://htmax.cc/",
+    "description": "HOLD HTMAX TO EARN HT auto",
+    "explorer": "https://hecoinfo.com/token/0xAa3A42B1b5DA60c14Adbc930A1Bc1F300276eA6A",
+    "type": "HRC-20",
+    "symbol": "HTMAX",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xAa3A42B1b5DA60c14Adbc930A1Bc1F300276eA6A"
+}
