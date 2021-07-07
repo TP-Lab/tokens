@@ -1,0 +1,11 @@
+{
+ "name": "Babyeth",
+ "website": "https://www.Babyeth.com",
+ "description": "Babyeth",
+ "explorer": "https://bscscan.com/token/0x524D5c39B4E812DF99fE419Ea2076857207e5630",
+ "type": "BEP20",
+ "symbol": "Babyeth",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x524D5c39B4E812DF99fE419Ea2076857207e5630"
+}
