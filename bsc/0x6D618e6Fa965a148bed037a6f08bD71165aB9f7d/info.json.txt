@@ -1,0 +1,11 @@
+{
+ "name": "Rooster independence",
+ "website": "-",
+ "description": "Big cock develops a difi wealth independent platform based on coin safety chain",
+ "explorer": "https://bscscan.com/token/0x6D618e6Fa965a148bed037a6f08bD71165aB9f7d",
+ "type": "BEP20",
+ "symbol": "Rooster",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6D618e6Fa965a148bed037a6f08bD71165aB9f7d"
+} 
