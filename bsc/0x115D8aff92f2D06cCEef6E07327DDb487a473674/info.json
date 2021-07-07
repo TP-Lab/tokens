@@ -1,0 +1,11 @@
+{
+    "name": "Ant Token",
+    "website": "https://antswap.hk",
+    "description": "ANTSwap 定位于 DEFI + NFT + MMO (大型多人在线游戏) 的元宇宙 IP 聚合平台，从结构化定义基础金融和功能性资产到游戏的细分，通过 DAO 分散所有权和治理权。",
+    "explorer": "https://bscscan.com/token/0x115D8aff92f2D06cCEef6E07327DDb487a473674",
+    "type": "BEP20",
+    "symbol": "ANT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x115D8aff92f2D06cCEef6E07327DDb487a473674"
+}
