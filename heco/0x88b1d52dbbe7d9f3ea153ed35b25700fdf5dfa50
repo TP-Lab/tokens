@@ -1,0 +1,11 @@
+{
+ "name": "TokenPocket Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+ "type": "HECO",
+ "symbol": "FIREBIRB",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x88b1d52dbbe7d9f3ea153ed35b25700fdf5dfa50"
+}
