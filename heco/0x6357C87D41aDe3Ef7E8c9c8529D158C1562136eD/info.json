@@ -1,0 +1,12 @@
+{
+ "name": "FLASH COIN",
+ "website": "https://flashcoin.rth.app/index.html
+",
+ "description": "FLASH！！！",
+ "explorer":"https://hecoinfo.com/token/0x6357C87D41aDe3Ef7E8c9c8529D158C1562136eD",
+ "type": "HRC-20",
+ "symbol": "FC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6357C87D41aDe3Ef7E8c9c8529D158C1562136eD"
+}
