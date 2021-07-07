@@ -1,0 +1,11 @@
+{
+ "name": "PolyFeg",
+ "website": "https://tokenpocket.pro",
+ "description": "MATIC(Polygon)",
+ "explorer": "https://polygonscan.com/token/0xd89f0e8695e85064f16caed659165c07ac699c53",
+ "type": "MATIC",
+ "symbol": "PolyFeg",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd89f0e8695e85064f16caed659165c07ac699c53"
+}
