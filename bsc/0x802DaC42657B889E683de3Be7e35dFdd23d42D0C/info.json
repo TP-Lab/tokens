@@ -1,0 +1,11 @@
+{
+ "name": "Lucky Rabbit",
+ "website": "http://www.lcrbt.com/",
+ "description": "Lucky Rabbit is based on the Binance Smart Chain BSC, 100% decentralization is created by the consensus of various community builders.Completely decentralized, fair distribution, community projects that everyone can participate in.",
+ "explorer": "https://bscscan.com/token/0x802DaC42657B889E683de3Be7e35dFdd23d42D0C",
+ "type": "BEP20",
+ "symbol": "LCRBT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x802DaC42657B889E683de3Be7e35dFdd23d42D0C"
+}
