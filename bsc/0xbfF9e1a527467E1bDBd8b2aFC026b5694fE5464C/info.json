@@ -1,0 +1,11 @@
+{
+ "name": "BisonSwap",
+ "website": "https://bscscan.com/",
+ "description": "provides investors with a fair, transparent and open trading environment, and provides an ecological value token.",
+ "explorer": "https://bscscan.com/token/0xbfF9e1a527467E1bDBd8b2aFC026b5694fE5464C",
+ "type": "BEP20",
+ "symbol": "BISS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xbfF9e1a527467E1bDBd8b2aFC026b5694fE5464C"
+}
