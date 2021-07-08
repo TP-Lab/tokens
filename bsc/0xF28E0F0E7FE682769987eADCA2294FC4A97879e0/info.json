@@ -1,0 +1,11 @@
+{
+ "name": "CowDungToken",
+ "website": "http://cowdungtoken.com",
+ "description": "CowDungToken is a decentralized digital currency based on the Binance Smart Chain. It has the characteristics of holding currency to generate interest, burning, and reflection. It is a deflationary currency .",
+ "explorer": "https://bscscan.com/token/0xF28E0F0E7FE682769987eADCA2294FC4A97879e0",
+ "type": "BEP20",
+ "symbol": "CowDung",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xF28E0F0E7FE682769987eADCA2294FC4A97879e0"
+}
