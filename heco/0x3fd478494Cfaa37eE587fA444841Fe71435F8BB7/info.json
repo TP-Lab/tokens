@@ -1,0 +1,11 @@
+{
+ "name": "WALS",
+ "website": "https://www.walstoken.com/",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x3fd478494Cfaa37eE587fA444841Fe71435F8BB7",
+ "type": "HRC-20",
+ "symbol": "WALS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3fd478494Cfaa37eE587fA444841Fe71435F8BB7"
+}
