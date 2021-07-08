@@ -1,0 +1,11 @@
+{
+"name": "TokenPocket Toke
+"网站": "https://tokenpocket.pro",
+"description": "领先的多链钱包，支持BTC、ETH、BSC、HECO、TRON、EOS、OKExChain、HSC等。",
+"explorer": "https://bscscan.com/token/0xCd402bF9e40acd863a5A5ac919d1f31e694CBC8F",
+"类型": "BEP20",
+"符号": "TPT",
+“小数”：4，
+“状态”：“活动”，
+“id”：“0xCd402bF9e40acd863a5A5ac919d1f31e694CBC8F”
+}
