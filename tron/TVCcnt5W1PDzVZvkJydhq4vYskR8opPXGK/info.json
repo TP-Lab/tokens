@@ -1,0 +1,11 @@
+{
+    "name": "Red Flower Coin",
+    "website": "https://twitter.com/Red Flower Coin/",
+    "description": "we are Red Flower Coin.",
+    "explorer": "https://tronscan.io/#/token20/TVCcnt5W1PDzVZvkJydhq4vYskR8opPXGK",
+    "type": "TRC20",
+    "symbol": "RFC",
+    "decimals": 4,
+    "status": "active",
+    "id": "TVCcnt5W1PDzVZvkJydhq4vYskR8opPXGK"
+   }
