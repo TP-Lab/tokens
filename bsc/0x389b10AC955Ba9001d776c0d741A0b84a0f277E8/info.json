@@ -1,0 +1,11 @@
+{
+"name": "Brave Doge",
+"website": "-",
+"description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+"explorer": "https://bscscan.com/token/0x389b10AC955Ba9001d776c0d741A0b84a0f277E8",
+"type": "BEP20",
+"symbol": "BraveDoge",
+"decimals": 2,
+"status": "active",
+"id": "0x389b10AC955Ba9001d776c0d741A0b84a0f277E8"
+}
