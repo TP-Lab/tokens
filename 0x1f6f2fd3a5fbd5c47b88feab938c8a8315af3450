@@ -1,0 +1,11 @@
++{
++ "name": "Milktea Doge",
++ "website": "www.milkcoin.top",
++ "description": "Milktea Doge, Maintaining the Highest Standards of Security and Innovation.",
++ "explorer": "https://polygonscan.com/address/0x1f6f2fd3a5fbd5c47b88feab938c8a8315af3450",
++ "type": "HRC-20",
++ "symbol": "Milktea Doge",
++ "decimals": 9,
++ "status": "active",
++ "id": "0x1f6f2fd3a5fbd5c47b88feab938c8a8315af3450"
++}
