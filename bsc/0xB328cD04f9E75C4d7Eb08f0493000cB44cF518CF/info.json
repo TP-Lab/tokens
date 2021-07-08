@@ -1,0 +1,11 @@
+{
+ "name": "LuckDoge",
+ "website": "https://www.luckdoge.org",
+ "description": "The World’s first Auto-Boost, Hyper Deflationary Coin is here! Luck Doge is on a mission to help lost and scared animals find their way to the nearest animal shelter.",
+ "explorer": "https://bscscan.com/token/0xB328cD04f9E75C4d7Eb08f0493000cB44cF518CF",
+ "type": "BEP20",
+ "symbol": "LuckDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xB328cD04f9E75C4d7Eb08f0493000cB44cF518CF"
+}
