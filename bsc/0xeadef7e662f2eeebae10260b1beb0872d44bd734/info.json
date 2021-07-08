@@ -1,0 +1,11 @@
+{
+ "name": " BTCD",
+ "website": "_",
+ "description": "_.",
+ "explorer": "https://bscscan.com/token/0xeadef7e662f2eeebae10260b1beb0872d44bd734",
+ "type": "BEP20",
+ "symbol": " BTCD",
+ "decimals": 18,
+ "status": "07-08-2021 18:11:21 ",
+ "id": "0xeadef7e662f2eeebae10260b1beb0872d44bd734"
+}
