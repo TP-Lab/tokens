@@ -1,0 +1,22 @@
+{
+	"name": "koifish",
+	"website": "https://koifish.me",
+	"short_description": "Koi fish is a governance token of decentralized Oracle exchange developed based on BSC Binance Smart Chain contract.",
+	"description": "Koi fish is a governance token of decentralized Oracle exchange developed based on BSC Binance Smart Chain contract.Every time a user buys a koi, he can get a prediction number, assign the prediction number according to the hash sequence, and extract the prediction number according to the hash value of the specified block. Users with corresponding Oracle numbers can get high rewards. And the blind box mechanism is used to invest koi fish to obtain NFT awards or mainstream digital currency awards. Token transfer is a deflationary mechanism, with a 10% handling charge, 5% going into the black hole forever, and 5% being distributed equally to the holders. The total amount is one trillion yuan, 20% of which will be circulated in the early stage, and the rest will be released in five years.",
+	"explorer": "https://bscscan.com/token/0xaa6Af79D3d3C23cdC2a9d1f6003d34e8Cd3B8B16",
+	"type": "BEP20",
+	"symbol": "koifish",
+	"decimals": 9,
+	"status": "active",
+	"socials": [
+		{
+		    "name": "Twitter",
+		    "url": "https://twitter.com/koifishdefi"
+		},
+		{
+		    "name": "Telegram",
+		    "url": "https://t.me/koifishswap"
+		}
+	],
+	"id": "0xaa6Af79D3d3C23cdC2a9d1f6003d34e8Cd3B8B16"
+}
