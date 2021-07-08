@@ -1,0 +1,11 @@
+{
+ "name": "DogsonMars",
+ "website": "http://domars.xyz",
+ "description": "It's a 100% decentralized community experiment. The Domars token is inspired by Elon Musk. This dog will represent all dogs and lunar dogs to complete the huge and perfect project of landing on Mars.",
+ "explorer": "https://bscscan.com/token/0x0063122Fcc750eA928aa398dbf3294DBc0eC27B7",
+ "type": "BEP20",
+ "symbol": "DoMars",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0063122Fcc750eA928aa398dbf3294DBc0eC27B7"
+}
