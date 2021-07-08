@@ -1,0 +1,11 @@
+{
+ "name": "DMDOGE Token",
+ "website": "http://DMdogecoin.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x77b228ec34418eAEAf26F70b1d3c839D0a7e0b8A",
+ "type": "BEP20",
+ "symbol": "DMDOGE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x77b228ec34418eAEAf26F70b1d3c839D0a7e0b8A"
+}
