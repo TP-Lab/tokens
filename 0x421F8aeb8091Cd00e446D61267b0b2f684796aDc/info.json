@@ -1,0 +1,11 @@
+{
+ "name": "Teddly",
+ "website": "https://teddly.finance",
+ "description": "Teddly Finance is a sustainable yield farm and lending protocol allowing leveraged yield farming on Binance Smart Chain.",
+ "explorer": "https://bscscan.com/token/0x421f8aeb8091cd00e446d61267b0b2f684796adc",
+ "type": "BEP20",
+ "symbol": "TED",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x421f8aeb8091cd00e446d61267b0b2f684796adc"
+}
