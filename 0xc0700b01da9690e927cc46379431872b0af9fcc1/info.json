@@ -1,0 +1,11 @@
+{
+ "name": "ProgramDog",
+ "website": "https://pdog.godaddysites.com/",
+ "description": "Pdog focuses on blockchain technology and serves as a payment platform for multiple programmer communities.",
+ "explorer": "https://bscscan.com/token/0xc0700b01da9690e927cc46379431872b0af9fcc1",
+ "type": "BEP20",
+ "symbol": "PDOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc0700b01da9690e927cc46379431872b0af9fcc1"
+}
