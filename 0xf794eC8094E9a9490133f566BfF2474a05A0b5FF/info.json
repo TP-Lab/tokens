@@ -1,0 +1,11 @@
+{
+ "name": "Kitty Coin",
+ "website": "https://www.kittycoin.global",
+ "description": "KITTY - The Ticket to Dream Life.\nBlockchain Lottery to Realize Dream Life with $1.\nOvertake DOGE, Be More Valuable Crypto Community.\nKITTY aims to create a lottery ecology based on the blockchain to help every community member achieve their dream life, and try best to serve public welfare.",
+ "explorer": "https://bscscan.com/token/0xf794ec8094e9a9490133f566bff2474a05a0b5ff",
+ "type": "BEP20",
+ "symbol": "KITTY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf794ec8094e9a9490133f566bff2474a05a0b5ff"
+}
