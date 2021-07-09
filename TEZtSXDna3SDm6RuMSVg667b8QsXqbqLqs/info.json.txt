@@ -1,0 +1,11 @@
+{
+ "name": "Unmanned Aerial Vehicle",
+ "website": "-",
+ "description": "Unmanned Aerial Vehicle (UAV)是基于波场链发行的新型DeFi去中心化金融协议代币。UAV将在DeFi去中心化金融和NFT非同质化代币协议算法、记账权益、链上资产管理等领域发挥重要作用",
+ "explorer": "https://tronscan.io/#/token20/TEZtSXDna3SDm6RuMSVg667b8QsXqbqLqs",
+ "type": "TRC20",
+ "symbol": "UAV",
+ "decimals": 18,
+ "status": "active",
+ "id": "TEZtSXDna3SDm6RuMSVg667b8QsXqbqLqs"
+}
