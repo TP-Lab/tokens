@@ -1,0 +1,12 @@
+{
+ "name": "Microdoge Token",
+ "website": "https://bscscan.com/token/0x20e05c6bbfa09b438eb090c2d50cfe700c1b1a1e",
+ "description": "A New coin that supports BSC.",
+ "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+ "type": "BEP20",
+ "symbol": "Microdoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x20e05c6bbfa09b438eb090c2d50cfe700c1b1a1e"
+}
+}
