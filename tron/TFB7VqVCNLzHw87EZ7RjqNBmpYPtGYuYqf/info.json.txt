@@ -1,0 +1,11 @@
+{
+ "name": "GDCV",
+ "website": "-",
+ "description": "GDCV是一个去中心化金融聚合协议，采用DAO去中心化社区组织高度自治。它能将传统金融工具的模型组合到基于公共区块链和智能合约的基础架构中。它的开源代码能够让任何开发人员构建以GDCV协议运行的不同形式的分布式应用程序",
+ "explorer": "https://tronscan.io/#/token20/TFB7VqVCNLzHw87EZ7RjqNBmpYPtGYuYqf",
+ "type": "TRC20",
+ "symbol": "GDCV",
+ "decimals": 18,
+ "status": "active",
+ "id": "TFB7VqVCNLzHw87EZ7RjqNBmpYPtGYuYqf"
+}
