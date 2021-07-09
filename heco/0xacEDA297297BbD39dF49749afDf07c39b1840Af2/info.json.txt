@@ -7,5 +7,5 @@
  "symbol": "SpaceX",
  "decimals": 18,
  "status": "active",
- "id": "0xaceda297297bbd39df49749afdf07c39b1840af2"
+ "id": "0xacEDA297297BbD39dF49749afDf07c39b1840Af2"
 }
