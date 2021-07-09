@@ -1,0 +1,11 @@
+{
+ "name": "hotcs",
+ "website": "https://hotcs.pro",
+ "description": "HOTCS是一条大健康智能生态公链，旨在利用区块链技术，记录个人健康数据，创建个人健康档案，发展安全可控的健康应用",
+ "explorer": "https://tronscan.io/#/token20/TDG8qyj6dKe8x5H7q9Ed2ULSi77H8dzK39",
+ "type": "TRC20",
+ "symbol": "hotcs",
+ "decimals": 6,
+ "status": "active",
+ "id": "TDG8qyj6dKe8x5H7q9Ed2ULSi77H8dzK39"
+}
