@@ -1,0 +1,11 @@
+{
+ "name": "Mommy Doge Coin",
+ "website": "www.mommydoge.finance",
+ "description": "Designed to reward long term holders.",
+ "explorer": "https://bscscan.com/token/0x0F38dBc738AAf367de32AF85612CDEB8FfA39e34",
+ "type": "BEP20",
+ "symbol": "MommyDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0F38dBc738AAf367de32AF85612CDEB8FfA39e34"
+}
