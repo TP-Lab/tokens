@@ -1,0 +1,11 @@
+{
+    "name": "发财币",
+    "website": "-",
+    "description": "发财币",
+    "explorer": "https://hecoinfo.com/token/0x255E8ad21d91F74a79cECA10418a62AFBde5E05C",
+    "type": "HRC-20",
+    "symbol": "HHF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x255E8ad21d91F74a79cECA10418a62AFBde5E05C"
+   }
