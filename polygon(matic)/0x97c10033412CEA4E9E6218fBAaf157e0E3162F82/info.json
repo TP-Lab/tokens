@@ -1,0 +1,11 @@
+﻿{
+ "name": "polyMoonPug Token",
+ "website": "http://polymoonpug.com",
+ "description": "Every transaction (buy, sell, transfer) of MoonPug has a 10% transaction tax, of which 5% will be automatically distributed to all holders, and 5% will be provided as a quick exchange liquidity.",
+ "explorer": "https://polygonscan.com/token/0x97c10033412CEA4E9E6218fBAaf157e0E3162F82",
+ "type": "matic",
+ "symbol": "MoonPug",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x97c10033412CEA4E9E6218fBAaf157e0E3162F82"
+}
