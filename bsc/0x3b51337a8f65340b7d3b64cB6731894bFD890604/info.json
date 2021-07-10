@@ -1,0 +1,11 @@
+{
+    "name": "Baby Ant Coin",
+    "website": "https://www.babyantcoin.com/",
+    "description": "Here comes the Baby Ant! World's Best Community Coin",
+    "explorer": "https://bscscan.com/token/0x3b51337a8f65340b7d3b64cB6731894bFD890604",
+    "type": "BEP20",
+    "symbol": "BabyAnt",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x3b51337a8f65340b7d3b64cB6731894bFD890604"
+}
