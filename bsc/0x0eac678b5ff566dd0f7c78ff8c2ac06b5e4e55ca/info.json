@@ -1,0 +1,29 @@
+{
+    "name": "DogeMerican",
+    "website": "https://www.dogemerican.com/",
+    "short_description": "DogeMerican token is a Defi ecological project based on the BSC chain. The initial team members do not hold coins. This is a movement to zero initiated by the community.",
+    "description": "DogeMerican token is a Defi ecological project based on the BSC chain. The initial team members do not hold coins. This is a movement to zero initiated by the community.Everyone can participate in the ecological construction of the community and promote the zero-zero plan.",
+    "type": "BEP20",
+    "symbol": "DOGEME",
+    "decimals": 8,
+    "status": "active",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/DogeMerican"
+        },
+        {
+            "name": "Medium",
+            "url": "https://dogemerican.medium.com"
+        },
+        {
+            "name": "Telegram",
+            "url": "t.me/DogeMericanEnglish"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://www.reddit.com/user/DogeMerican"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x0eac678b5ff566dd0f7c78ff8c2ac06b5e4e55ca"
+}
