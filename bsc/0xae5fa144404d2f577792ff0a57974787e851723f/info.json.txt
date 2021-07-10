@@ -1,0 +1,11 @@
+{
+ "name": "Shoppingloan",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xae5fa144404d2f577792ff0a57974787e851723f",
+ "type": "BEP20",
+ "symbol": "SGL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xae5fa144404d2f577792ff0a57974787e851723f"
+} 
