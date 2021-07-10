@@ -1,0 +1,12 @@
+{
+ " name " : " Moondoge " ,
+ “网站”： “ https://moondoge.cx ”，
+ “描述”： “ Moon Doge是一个100% 的社区项目它由DOGE和BTC爱好者联合发起，其目的是使DOGE和BTC共识达成一致，获得财富增长。
+Moon Doge在币安智能链发布，在产生收益和通缩的合约的下一个演变:您获得的奖励是代币而不是BNB。” ,
+ “资源管理器”： “ https://bscscan.com/token/0x302F60b56d7D54953b51B24f26662Ab6219E59BB ”，
+ “类型”： “ BEP20 ”，
+ “符号”： “ MoonDoge ”，
+ "小数" : 9 ,
+ “状态”： “活动”，
+ “ id ”： “ 0x302F60b56d7D54953b51B24f26662Ab6219E59BB”
+}
