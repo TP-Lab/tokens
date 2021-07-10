@@ -1,0 +1,11 @@
+{
+ "name": "MxDoge Token",
+ "website": "http://www.mxdoge.live",
+ "description": "MxDoge commemorative coins.",
+ "explorer": "https://bscscan.com/token/0x72a05191f56ad28c47daa175277309a946191c47",
+ "type": "BEP20",
+ "symbol": "MxDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x72a05191f56ad28c47daa175277309a946191c47"
+}
