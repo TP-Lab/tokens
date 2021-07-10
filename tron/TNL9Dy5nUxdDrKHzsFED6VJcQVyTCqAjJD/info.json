@@ -1,0 +1,11 @@
+{
+  “name”:“DigitalLife”
+  “website”:“www.dlif.net”
+  “description”:“DLIF ecology allows every consumer to turn personal data into digital assets, and continue to create value for themselves.”
+  “explorer”: “https://tronscan.org/#/token20/TNL9Dy5nUxdDrKHzsFED6VJcQVyTCqAjJD”
+  “type”:“TRC20”
+  “symbol”:“DLIF”
+  “decimals”: "8"
+  “status”:"active"
+  “id”："TNL9Dy5nUxdDrKHzsFED6VJcQVyTCqAjJD"
+}
