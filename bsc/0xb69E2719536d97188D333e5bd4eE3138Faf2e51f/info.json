@@ -1,0 +1,11 @@
+{
+ "name": "MiniCat",
+ "website": "https://minicat.cc",
+ "description": "The World’s first Super-Boost, Hyper Deflationary Coin is here! Mini Cat is on a mission to help people who suffered from COVID achieve financial freedom. Every buy gives members more with the super-boost and hyper deflation system in place.",
+ "explorer": "https://bscscan.com/token/0xb69E2719536d97188D333e5bd4eE3138Faf2e51f",
+ "type": "BEP20",
+ "symbol": "MiniCat",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb69E2719536d97188D333e5bd4eE3138Faf2e51f"
+}
