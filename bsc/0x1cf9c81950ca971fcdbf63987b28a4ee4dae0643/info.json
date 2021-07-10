@@ -1,0 +1,11 @@
+{
+ "name": "papapabi",
+ "website": "https://www.papappa.com",
+ "description": "无私募、无预挖、无众筹（三无），打造单身狗区块链世界，明天的你会为今天的购买而自豪！！！",
+ "explorer": "https://bscscan.com/token/0x1cf9c81950ca971fcdbf63987b28a4ee4dae0643",
+ "type": "BEP20",
+ "symbol": "ppp",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x1cf9c81950ca971fcdbf63987b28a4ee4dae0643"
+}
