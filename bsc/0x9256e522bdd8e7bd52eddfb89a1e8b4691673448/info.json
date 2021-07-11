@@ -1,0 +1,11 @@
+{
+ "name": "BabyDog",
+ "website": "https://www.babydogcoin.org/",
+ "description": "BabyDog is a more advanced type of Dogecoin, which has a 10 times faster block rate and a cheaper gas fee. A new cryptocurrency born by members of the DogCoin online community, BabyDog has enhanced features in many ways",
+ "explorer": "https://bscscan.com/token/0x9256e522bdd8e7bd52eddfb89a1e8b4691673448",
+ "type": "BEP20",
+ "symbol": "BabyDog",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9256e522bdd8e7bd52eddfb89a1e8b4691673448"
+}
