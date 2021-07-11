@@ -1,0 +1,11 @@
+{
+ "name": "Santa Doge",
+ "website": "https://santadog.xyz/",
+ "description": "A fully upgraded version of the STG",
+ "explorer": "https://bscscan.com/token/0x16f4f824983b6666290389f670610b37e542F0DF",
+ "type": "BEP20",
+ "symbol": "STG_V2",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x16f4f824983b6666290389f670610b37e542F0DF"
+} 
