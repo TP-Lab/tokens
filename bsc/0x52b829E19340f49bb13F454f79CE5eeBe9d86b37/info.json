@@ -1,0 +1,11 @@
+{
+	"name": "SuperUncleDogeCoin",
+	"website": "http://www.superuncledoge.com",
+	"description": "We will be the king of Dogecoin,A lovely uncle doge coin",
+	"explorer": "https://bscscan.com/token/0x52b829e19340f49bb13f454f79ce5eebe9d86b37",
+	"type": "BEP20",
+	"symbol": "SUDC",
+	"decimals": 9,
+	"status": "active",
+	"id": "0x52b829e19340f49bb13f454f79ce5eebe9d86b37"
+       }
