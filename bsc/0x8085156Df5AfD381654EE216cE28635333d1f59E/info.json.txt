@@ -1,0 +1,11 @@
+{
+ "name": "TAF",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x8085156Df5AfD381654EE216cE28635333d1f59E",
+ "type": "BEP20",
+ "symbol": "TAF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8085156Df5AfD381654EE216cE28635333d1f59E"
+} 
