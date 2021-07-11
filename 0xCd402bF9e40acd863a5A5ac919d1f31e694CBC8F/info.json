@@ -1,0 +1,21 @@
+{
+ 
+"name": "Slothi Token",
+ 
+"website": "https://slothi.net/",
+ 
+"description": "Slothi tokens are community driven tokens. You decide what happens to Slothi.",
+ 
+"explorer": "https://hecoinfo.com/address/0xCd402bF9e40acd863a5A5ac919d1f31e694CBC8F",
+ 
+"type": "HECO",
+ 
+"symbol": "Slothi",
+ 
+"decimals": 18,
+ 
+"status": "active",
+ 
+"id": "0xCd402bF9e40acd863a5A5ac919d1f31e694CBC8F"
+
+}
