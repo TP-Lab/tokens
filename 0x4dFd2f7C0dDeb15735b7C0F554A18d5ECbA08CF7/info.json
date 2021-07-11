@@ -1,0 +1,21 @@
+{
+ 
+"name": "WFP Token",
+ 
+"website": "https://www.wfp.org",
+ 
+"description": "The World Food Program supports a social protection strategy, and the WFP coinage is a gold coinage deployed by the WFP.",
+ 
+"explorer": "https://hecoinfo.com/address/0x4dFd2f7C0dDeb15735b7C0F554A18d5ECbA08CF7",
+ 
+"type": "HECO",
+ 
+"symbol": "WFP",
+ 
+"decimals": 18,
+ 
+"status": "active",
+ 
+"id": "0x4dFd2f7C0dDeb15735b7C0F554A18d5ECbA08CF7"
+
+}
