@@ -1,0 +1,11 @@
+{
+ "name": "HBV Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x0b28A422448Bb0384631e8F3f2B0E8DC4B09634E",
+ "type": "ERC20",
+ "symbol": "HBV",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0b28A422448Bb0384631e8F3f2B0E8DC4B09634E"
+}
