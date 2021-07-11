@@ -1,0 +1,11 @@
+{
+ "name": "TYB Token",
+ "website": "https://baike.baidu.com/item/%E5%A4%AA%E9%98%B3/24010?fr=aladdin",
+ "description": "总量1000万亿枚",
+"explorer": "https://tronscan.io/#/contract/TVAnBdDkLzmj3KhfyEcipUmCNzC5z1snJe",
+ "type": "TRC20",
+ "symbol": "TYB",
+ "decimals": 6,
+ "status": "active",
+ "id": "TVAnBdDkLzmj3KhfyEcipUmCNzC5z1snJe"
+}
