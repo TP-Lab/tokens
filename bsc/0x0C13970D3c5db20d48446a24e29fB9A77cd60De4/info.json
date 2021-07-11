@@ -1,0 +1,11 @@
+{
+ "name": "Shrew",
+ "website": "https://www.shrew.com",
+ "description": "Utilizing the latest technology to deliver a new experience in reward points.",
+ "explorer": "https://bscscan.com/token/0x0C13970D3c5db20d48446a24e29fB9A77cd60De4",
+ "type": "BEP20",
+ "symbol": "SHREW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0C13970D3c5db20d48446a24e29fB9A77cd60De4"
+}
