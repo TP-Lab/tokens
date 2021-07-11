@@ -1,0 +1,11 @@
+{
+ "name": "Sword",
+ "website": "https://tronscan.org/",
+ "description": "SWO是Sword社区治理代币，是权益证明，打造第一DEFI,是获得原生数字资产所有权NFT的数字门票.",
+ "explorer": https://tronscan.org/#/token20/TKfquzCaRjoFVv3c51WAqC9rXFQj3S649N",
+ "type": "TRC20",
+ "symbol": "SWO",
+ "decimals": 6,
+ "status": "active",
+ "id": "TKfquzCaRjoFVv3c51WAqC9rXFQj3S649N"
+}
