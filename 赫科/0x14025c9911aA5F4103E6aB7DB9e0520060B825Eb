@@ -1,0 +1,11 @@
+{ 
+ "name": "TerminatorSHIB", 
+ "website": "https://terminatordoge.com", 
+ "description": "Terminator Coin", 
+ "explorer": "https://hecoinfo.com/token/0x14025c9911aA5F4103E6aB7DB9e0520060B825Eb", 
+ "type": "HRC20", 
+ "symbol": "DOGK", 
+ "decimals": 8, 
+ "status": "active", 
+ "id": "0x14025c9911aA5F4103E6aB7DB9e0520060B825Eb" 
+ } 
