@@ -1,0 +1,11 @@
+{
+ "name": "miniNEWINU",
+ "website": "https://mininewinu.com",
+ "description": "miniNEWINU mini系列下一个浪潮",
+ "explorer": "https://bscscan.com/token/0xb3d7845E24A1Da5fFBa8A44B6aaB6440831E0cCB",
+ "type": "BEP20",
+ "symbol": "miniNEWINU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb3d7845E24A1Da5fFBa8A44B6aaB6440831E0cCB"
+}
