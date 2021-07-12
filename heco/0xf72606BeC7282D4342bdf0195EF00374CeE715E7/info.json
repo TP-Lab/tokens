@@ -1,9 +1,11 @@
 {
- "name": "ÖÐ±Ò", 
-"website": "-", "description":"ÖÐ±Ò", 
-"explorer":"0xf72606BeC7282D4342bdf0195EF00374CeE715E7", 
-"type": "HRC-20", 
-"symbol":"RMB", 
-"decimals": 18, 
-"status": "active", "id":"0xf72606BeC7282D4342bdf0195EF00374CeE715E7" 
-}
+    "name": "ÖÐ±Ò",
+    "website": "-",
+    "description": "RMB, Maintaining the Highest Standards of Security and Innovation.",
+    "explorer": "https://hecoinfo.com/tx/0x16eff2394e82b05f8ac13ea67db98f47f9682c688de91a8add9b33ed96d046f6",
+    "type": "HRC20",
+    "symbol": "RMB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf72606BeC7282D4342bdf0195EF00374CeE715E7"
+   }
