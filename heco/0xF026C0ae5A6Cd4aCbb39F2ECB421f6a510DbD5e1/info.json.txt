@@ -1,0 +1,11 @@
+{
+ "name": "AAA",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0xF026C0ae5A6Cd4aCbb39F2ECB421f6a510DbD5e1",
+ "type": "HRC-20",
+ "symbol": "AAA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF026C0ae5A6Cd4aCbb39F2ECB421f6a510DbD5e1"
+} 
