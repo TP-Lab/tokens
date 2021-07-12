@@ -1,0 +1,11 @@
+{
+ "name": "JFHTOKEN",
+ "website": "https://hecoinfo.com/",
+ "description": "JFH是基于火币生态链的去中心化通缩型分红代币，以共识机制进入DEFI市场的社区代币.",
+ "explorer": "https://hecoinfo.com/token/0x425441ba19ba4f61a1d2e44c9c22b7eea6efc6cb",
+ "type": "HRC-20",
+ "symbol": "JFH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x425441ba19ba4f61a1d2e44c9c22b7eea6efc6cb"
+}
