@@ -1,0 +1,11 @@
+{
+ "name": "Pokemon Token",
+ "website": "https://www.pokemon.art/",
+ "description": "PKT(Pokemon Token)is a Pokemon token that can be used to purchase Pokemon NFT card packs and Pokemon NFT card transactions. The total issuance is 100 million, the initial issuance price is 0.1USDT, and the issuance time is July 8, 2021.Pokemon has a huge fan base around the world. The NFT series of cards launched by Pokemon NFT Labs is Pokemon's first attempt at NFT.",
+ "explorer": "https://tronscan.org/#/contract/TJWK9Hs73vV9WCSMN7sFhZspQF3GZTqaFb",
+ "type": "TRC20",
+ "symbol": "PKT",
+ "decimals": 18,
+ "status": "active",
+ "id": "TJWK9Hs73vV9WCSMN7sFhZspQF3GZTqaFb"
+}
