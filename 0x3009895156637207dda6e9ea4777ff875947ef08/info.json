@@ -1,0 +1,11 @@
+{
+ "name": "TKoda Robot Dog",
+ "website": "",
+ "description": "Dogecoin is one of the most popular cryptocurrencies in recent times, thanks to its cute image and endorsement by Musk's mother, Maye Musk. Koda isn't just focused on advancing computing. But it's also moving forward through design. Our goal is to bring elegance to our lovely robotic dogs. We believe that good design can create a link between people and cutting-edge technology",
+ "explorer": "https://bscscan.com/token/0x3009895156637207dda6e9ea4777ff875947ef08",
+ "type": "BEP20",
+ "symbol": "KODA",
+ "decimals": 18,
+ "staus": "active",
+ "id": "0x3009895156637207dda6e9ea4777ff875947ef08"
+}
