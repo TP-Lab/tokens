@@ -1,0 +1,11 @@
+{
+ "name": "Evergreen digital tokens",
+ "website": "http://www.cqe.com/",
+ "description": "CQE是一个社区共识透明的社区自治资产，是围绕全球社区发起的项目.",
+ "explorer": https://tronscan.org/#/token20/THdgCPjuBX4UM51ZzbQRHkcrzKeVuJYK7W",
+ "type": "TRC20",
+ "symbol": "CQE",
+ "decimals": 18,
+ "status": "active",
+ "id": "THdgCPjuBX4UM51ZzbQRHkcrzKeVuJYK7W"
+}
