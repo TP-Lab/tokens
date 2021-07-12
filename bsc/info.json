@@ -1,0 +1,11 @@
+{
+ "name": "Token Friendlies ",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xe8de1e121f7cb3d2ee553dd2c88eef141a69b96b",
+ "type": "BEP20",
+ "symbol": "FUWA",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xe8de1e121f7cb3d2ee553dd2c88eef141a69b96b"
+}
