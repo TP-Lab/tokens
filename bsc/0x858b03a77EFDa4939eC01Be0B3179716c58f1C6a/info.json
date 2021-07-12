@@ -1,0 +1,11 @@
+{
+    "name": "DistributedMarathon",
+    "webisite": "http: //distributedmarathon.finance/",
+    "description": "A fully open source project, with coordinated contributions from developers around the world, formed the On-Chain Boundary Free Security Organization",
+    "explorer": "https://bscscan.com/token/0x858b03a77EFDa4939eC01Be0B3179716c58f1C6a",
+    "type": "BEP20",
+    "dymbol": "DMA",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x858b03a77EFDa4939eC01Be0B3179716c58f1C6a"
+}
