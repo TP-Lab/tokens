@@ -1,0 +1,11 @@
+{
+ "name": "BABYNFT",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0xBA9D8f8659059569B739D4Ba62781311731944b0",
+ "type": "HRC-20",
+ "symbol": "BABYNFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBA9D8f8659059569B739D4Ba62781311731944b0"
+} 
