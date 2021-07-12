@@ -1,0 +1,11 @@
+{
+ "name": "SafeMiniBabyDoge Coin",
+ "website": "https://bscscan.com/",
+ "description": " provides an ecological value token.",
+ "explorer": "https://bscscan.com/token/0x362920c7ad830145a4baDAe6A476ac1F5Ebe4021",
+ "type": "BEP20",
+ "symbol": "SafeMiniBabyDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x362920c7ad830145a4baDAe6A476ac1F5Ebe4021"
+}
