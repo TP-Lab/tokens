@@ -1,0 +1,12 @@
+{
+ "name": "EGO",
+ "website": "-",
+ "description": "EGO, Maintaining the Highest Standards of Security and Innovation.",
+ "explorer": "https://hecoinfo.com/tx/0xc86e86d2dd886aaef0f8dad272666c998579bfb1baa43cdc571742be2a415d99
+",
+ "type": "HRC-20",
+ "symbol": "EGO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA8a8389efBE9970577CaA1a4754716Df92d69562"
+}
