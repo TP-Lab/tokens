@@ -1,0 +1,11 @@
+{
+    "name": "BoKaCoin",
+    "website": "http://bokacoin.xyz//",
+    "description": "HOLD BKC TO EARN HT",
+    "explorer": "https://hecoinfo.com/token/0x5ee18b5A4e5d1ef5374B9739bDA511C7291B8C37",
+    "type": "HRC-20",
+    "symbol": "BKC",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x5ee18b5A4e5d1ef5374B9739bDA511C7291B8C37"
+}
