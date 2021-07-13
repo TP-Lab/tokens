@@ -1,0 +1,11 @@
+{
+ "name": "Minipig",
+ "website": "",
+ "description": "An experimental token",
+ "explorer": "https://bscscan.com/address/0xA615F2eb9A9c77bc6d7AC5E10D8E4bD612987421",
+ "type": "BEP20",
+ "symbol": "Minipig",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xA615F2eb9A9c77bc6d7AC5E10D8E4bD612987421"
+}
