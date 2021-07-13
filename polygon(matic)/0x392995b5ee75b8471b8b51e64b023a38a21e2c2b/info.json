@@ -1,0 +1,12 @@
+
+{
+    "name": "PolyMusk",
+    "website": "https://twitter.com/PolyMusk",
+    "description": "Polygon",
+    "explorer": "https://polygonscan.com/token/0x392995b5ee75b8471b8b51e64b023a38a21e2c2b",
+    "type": "MATIC",
+    "symbol": "PolyMusk",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x392995b5ee75b8471b8b51e64b023a38a21e2c2b"
+}

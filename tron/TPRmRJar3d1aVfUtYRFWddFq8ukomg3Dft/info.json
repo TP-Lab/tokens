@@ -1,0 +1,11 @@
+{
+ "name": "BEECOIN",
+ "website": "https://tronscan.org/",
+ "description": "BEE是基于波场公链打造的一个支持多种 DeFi 协议的聚合理财平台，会在协议间自动移仓以帮助储户获取最高的理财收益.",
+ "explorer": "https://tronscan.org/#/token20/TPRmRJar3d1aVfUtYRFWddFq8ukomg3Dft",
+ "type": "TRC20",
+ "symbol": "BEE",
+ "decimals": 6,
+ "status": "active",
+ "id": "TPRmRJar3d1aVfUtYRFWddFq8ukomg3Dft"
+}
