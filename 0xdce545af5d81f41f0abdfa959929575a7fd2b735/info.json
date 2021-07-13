@@ -1,0 +1,11 @@
+{
+ "name": "WELE",
+ "website": "https://wele.world",
+ "description": "Wele is used to participate in the whole DEFI mobile mining ecology, mining management currency Gele in real time according to the proportion and share of pledge, and enjoying static high investment return income.",
+ "explorer": "https://hecoinfo.com/token/0xdce545af5d81f41f0abdfa959929575a7fd2b735",
+ "type": "HRC20",
+ "symbol": "WELE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdce545af5d81f41f0abdfa959929575a7fd2b735"
+}
