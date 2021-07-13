@@ -1,0 +1,11 @@
+{
+ "name": "ATOR Token",
+ "website": "-",
+ "description": "ATOR Token",
+ "explorer": "https://bscscan.com/token/0x97b9ecCEE8A25f5D5DCa55D0742BC8C4a29C7890",
+ "type": "BEP20",
+ "symbol": "ATOR",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x97b9ecCEE8A25f5D5DCa55D0742BC8C4a29C7890"
+}
