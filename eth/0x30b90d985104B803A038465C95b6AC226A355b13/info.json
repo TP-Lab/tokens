@@ -1,0 +1,21 @@
+{
+    "name": "KB24 Token",
+    "type": "ERC20",
+    "symbol": "KB24",
+    "decimals": 0,
+    "description": "The First NFT Metaverse Token. KB Token is a kind of NFT metaverse asset to create a metaverse territory.",
+    "website": "https://kbtoken.co/",
+    "explorer": "https://etherscan.io/address/0x30b90d985104B803A038465C95b6AC226A355b13",
+    "id": "0x30b90d985104B803A038465C95b6AC226A355b13",
+    "status": "active",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://mobile.twitter.com/kobetoken24"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/kbtoken"
+        },
+    ]
+}
