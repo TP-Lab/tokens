@@ -1,0 +1,11 @@
+{
+ "name": "MXshib",
+ "website": "https://www.MXshib.com",
+ "description": "mxshib token is a token based on the self-care of the community based on Huobi Chain, mainly to arouse community resonance",
+ "explorer": "https://hecoinfo.com/token/0x05Bf38C919B8e27aF93621EB9D39f37C1885F322",
+ "type": "HRC-2",
+ "symbol": "MXshib",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x05Bf38C919B8e27aF93621EB9D39f37C1885F322"
+}
