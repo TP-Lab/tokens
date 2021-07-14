@@ -1,0 +1,11 @@
+{
+ "name": "Heco-Peg HBTC Token",
+ "website": "",
+ "description": "",
+ "explorer": "https://hecoinfo.com/address/0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa",
+ "type": "HECO",
+ "symbol": "HBTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa"
+}
