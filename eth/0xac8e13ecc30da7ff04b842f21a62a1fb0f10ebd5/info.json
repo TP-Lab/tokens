@@ -1,0 +1,11 @@
+{
+ "name": "BabyDoge Coin",
+ "website": "https://babydogecoin.gg",
+ "description": "DeFi For The Mass, Bring popular cryptocurrency concepts to the mainstream.",
+ "explorer": "https://etherscan.io/token/0xac8e13ecc30da7ff04b842f21a62a1fb0f10ebd5",
+ "type": "ERC20",
+ "symbol": "BABYDOGE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xAC8E13ecC30Da7Ff04b842f21A62a1fb0f10eBd5"
+}
