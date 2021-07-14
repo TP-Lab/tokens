@@ -1,0 +1,11 @@
+{
+ "name": "BabyNiao Token",
+ "website": "https://BabyNiao.pro",
+"description": "极致社区红利实验项目，将作为世界银行进军区块链的先行标志。",
+ "explorer": "https://bscscan.com/token/0x8BC35a662f72e17fe35d72450Df586Fa2Ab822dB",
+ "type": "BEP20",
+ "symbol": "BabyNiao",
+ "decimals":"9",
+ "status": "active",
+ "id": "0x8BC35a662f72e17fe35d72450Df586Fa2Ab822dB"
+}
