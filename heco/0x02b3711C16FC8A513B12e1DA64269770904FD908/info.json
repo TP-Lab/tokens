@@ -1,0 +1,11 @@
+{
+ "name": "USDK Token",
+ "website": "",
+ "description": "Stable Coin, 1:1 USDT",
+ "explorer": "https://hecoinfo.com/address/0x02b3711C16FC8A513B12e1DA64269770904FD908",
+ "type": "HECO",
+ "symbol": "USDK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x02b3711C16FC8A513B12e1DA64269770904FD908"
+}
