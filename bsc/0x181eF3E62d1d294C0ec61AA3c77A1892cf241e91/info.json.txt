@@ -1,0 +1,11 @@
+{
+ "name": "YC",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x181eF3E62d1d294C0ec61AA3c77A1892cf241e91",
+ "type": "BEP20",
+ "symbol": "YC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x181eF3E62d1d294C0ec61AA3c77A1892cf241e91"
+} 
