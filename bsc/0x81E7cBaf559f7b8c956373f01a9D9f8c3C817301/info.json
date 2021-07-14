@@ -1,0 +1,11 @@
+{
+ "name": "Poker Token",
+ "website": "",
+ "description": "Poker Token",
+ "explorer": "https://www.bscscan.com/token/0x81E7cBaf559f7b8c956373f01a9D9f8c3C817301",
+ "type": "BEP20",
+ "symbol": "POK",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x81E7cBaf559f7b8c956373f01a9D9f8c3C817301"
+}
