@@ -1,0 +1,11 @@
+{
+ "name": "Heco-Peg LINK Token",
+ "website": "",
+ "description": "",
+ "explorer": "https://hecoinfo.com/address/0x9e004545c59D359F6B7BFB06a26390b087717b42",
+ "type": "HECO",
+ "symbol": "LINK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9e004545c59D359F6B7BFB06a26390b087717b42"
+}
