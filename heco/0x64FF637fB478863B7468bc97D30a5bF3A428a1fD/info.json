@@ -1,0 +1,11 @@
+{
+ "name": "Heco-Peg ETH Token",
+ "website": "",
+ "description": "",
+ "explorer": "https://hecoinfo.com/address/0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
+ "type": "HECO",
+ "symbol": "ETH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD"
+}
