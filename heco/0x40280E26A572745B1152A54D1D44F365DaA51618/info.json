@@ -1,0 +1,11 @@
+{
+ "name": "Heco-Peg DOGE Token",
+ "website": "",
+ "description": "",
+ "explorer": "https://hecoinfo.com/address/0x40280E26A572745B1152A54D1D44F365DaA51618",
+ "type": "HECO",
+ "symbol": "DOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x40280E26A572745B1152A54D1D44F365DaA51618"
+}
