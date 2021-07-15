@@ -1,0 +1,11 @@
+{
+ "name": "SCY",
+ "website": "https://SCY.com",
+ "description": "Based on the credit economic foundation, cloud computing and blockchain technology, scy uses the characteristics of blockchain decentralization, intelligent contract, high security and high trust to ensure the establishment, cultivation, payment and credit income of users' own credit; To ensure the authenticity and transparency of all transactions through decentralized accounting records; By registering users' credit attributes and modifying records through blockchain, users' credit rights and interests are protected from infringement.",
+ "explorer": "https://tronscan.io/#/contract/TVubqEoaNUJ9pjZmGviyxoWJD1zXGR3jkt",
+ "type": "TRC20",
+ "symbol": "SCY",
+ "decimals": 18,
+ "status": "active",
+ "id": "TVubqEoaNUJ9pjZmGviyxoWJD1zXGR3jkt"
+}
