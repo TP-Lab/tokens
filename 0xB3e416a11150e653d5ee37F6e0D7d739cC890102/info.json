@@ -1,0 +1,13 @@
+{
+ "name": "king kong Token",
+ "website": "https://www.kgkcoin.com",
+ "description": "kgk is a decentralized and deflationary currency based on currency security ecological chain",
+ "explorer": "https://bscscan.com/token/0xb3e416a11150e653d5ee37f6e0d7d739cc890102",
+ "type": "BEP20",
+ "symbol": "KGK",
+ "decimals": 10,
+ "status": "active",
+ "id": "0xB3e416a11150e653d5ee37F6e0D7d739cC890102"
+}
+
+
