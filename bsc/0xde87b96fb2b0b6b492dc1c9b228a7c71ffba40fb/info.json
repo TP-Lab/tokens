@@ -1,0 +1,11 @@
+{
+    "name": "BabyShibbyInu",
+    "website": "https://www.babyshibbyinu.finance",
+    "description": "BabyShibby Inu ($BABYSHIB) is a hyper deflationary token, which rewards investors for holding tokens.",
+    "explorer": "https://bscscan.com/token/0xde87b96fb2b0b6b492dc1c9b228a7c71ffba40fb",
+    "type": "BEP20",
+    "symbol": "BABYSHIB",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xde87b96fb2b0b6b492dc1c9b228a7c71ffba40fb"
+}
