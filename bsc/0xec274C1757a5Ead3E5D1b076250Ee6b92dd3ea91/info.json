@@ -1,0 +1,11 @@
+{
+    "name": "BSCMOON Token",
+    "website": "https://tokenpocket.pro",
+    "description": "BSC",
+    "explorer": "https://bscscan.com/token/0xec274C1757a5Ead3E5D1b076250Ee6b92dd3ea91",
+    "type": "BEP20",
+    "symbol": "BSCMOON",
+    "decimals": 4,
+    "status": "active",
+    "id": "0xec274C1757a5Ead3E5D1b076250Ee6b92dd3ea91"
+}
