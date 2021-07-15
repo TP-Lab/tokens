@@ -1,0 +1,11 @@
+{
+ "name": "BabyFCN",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0xa460159c4137C4801BCf0F79c1ED4bC8c2B1E10f",
+ "type": "HRC-20",
+ "symbol": "BabyFCN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa460159c4137C4801BCf0F79c1ED4bC8c2B1E10f"
+} 
