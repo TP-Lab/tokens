@@ -1,0 +1,12 @@
+{
+    "name": "SWPP Coin",
+    "website": "https://wolfsafepoorpeople.com/",
+    "description": "
+With the impact of the epidemic and economic recession, it is very moving and embarrassing. The SWPP poverty alleviation program really helps the common people. Build consensus.",
+    "explorer": "https://bscscan.com/token/0xc85333e2eec6b3b94acb5f94cb5c955309b4a2d2",
+    "type": "BEP20",
+    "symbol": "SWPP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc85333e2eec6b3b94acb5f94cb5c955309b4a2d2"
+}
