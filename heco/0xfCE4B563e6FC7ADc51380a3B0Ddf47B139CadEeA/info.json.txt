@@ -1,0 +1,11 @@
+{
+ "name": "Doge Baby",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0xfCE4B563e6FC7ADc51380a3B0Ddf47B139CadEeA",
+ "type": "HRC-20",
+ "symbol": "DOGEBABY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfCE4B563e6FC7ADc51380a3B0Ddf47B139CadEeA"
+} 
