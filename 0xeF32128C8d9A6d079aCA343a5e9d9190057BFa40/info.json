@@ -1,0 +1,11 @@
+{
+ "name": "SpaceDogeToken",
+ "website": "https://bscscan.com/",
+ "description": "BSC.",
+ "explorer": "https://bscscan.com/token/0xeF32128C8d9A6d079aCA343a5e9d9190057BFa40",
+ "type": "BEP20",
+ "symbol": "SpaceDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xeF32128C8d9A6d079aCA343a5e9d9190057BFa40"
+}
