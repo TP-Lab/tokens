@@ -1,0 +1,11 @@
+{
+ "name": "CxCoin",
+ "website": "https://cxcoin.net/",
+ "description": "CxCoin is building a platform to allow streamers and content creators a safe and easy way of receiving.",
+ "explorer": "https://bscscan.com/token/0xd09092b1c9c495eb7e0a043927492cf2dee68a86",
+ "type": "BEP20",
+ "symbol": "CX",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd09092B1C9C495Eb7e0A043927492Cf2DEE68a86"
+} 
