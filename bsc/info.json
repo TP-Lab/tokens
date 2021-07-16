@@ -1,0 +1,19 @@
+{
+
+ "name": "RecreationToken",
+
+ "website": "https://www.recreationtoken.net",
+
+ "description": "RRT is a token issued based on the BSC chain, which aims to integrate the blockchain into the entertainment/game sector.",
+ 
+ "explorer":"https://bscscan.com/token/0x2e36b57B2942Cc980A10c8995A173A9D76a06683",
+  "type": "BEP20",
+
+ "symbol": "RRT",
+
+ "decimals": 18,
+
+ "status": "active",
+
+ "id": "0x2e36b57B2942Cc980A10c8995A173A9D76a06683"
+}
