@@ -1,0 +1,11 @@
+  {
+ "name": "Litchi chain ",
+ "website": "www.Litchi chain .com",
+ "description": "HECO LC.",
+ "explorer": "https://hecoinfo.com/token/0xC0511D20A75fcA0716D073bdC391c8952C45a138",
+ "type": "HRC-20",
+ "symbol": "LC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC0511D20A75fcA0716D073bdC391c8952C45a138"
+}
