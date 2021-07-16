@@ -1,0 +1,11 @@
+{
+ "name": "BabyNiao Token",
+ "website": "https://BabyNiao.pro",
+"description": "极致社区红利实验项目，将作为世界银行进军区块链的先行标志。",
+ "explorer": "https://hecoinfo.com/token/0x6b7de3cfdfc0b7e45f4ab48cac0b9a495a2fde26",
+ "type": "HRC-20",
+ "symbol": "BabyNiao",
+ "decimals":"9",
+ "status": "active",
+ "id": "0x6b7de3cfdfc0b7e45f4ab48cac0b9a495a2fde26"
+}
