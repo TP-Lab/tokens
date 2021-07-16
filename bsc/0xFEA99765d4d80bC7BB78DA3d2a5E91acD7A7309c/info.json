@@ -1,0 +1,11 @@
+{
+ "name": "AngelDoge",
+ "website": "http://www.angeldogecoin.com",
+ "description": "AngelDoge is a smart contract.",
+ "explorer": "https://bscscan.com/token/0xFEA99765d4d80bC7BB78DA3d2a5E91acD7A7309c",
+ "type": "BEP20",
+ "symbol": "AngelDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFEA99765d4d80bC7BB78DA3d2a5E91acD7A7309c"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Y luxurious",
+ "website": "http://www.juwisdom.net/",
+ "description": "The YLS token is the only platform token powered by the YLS platform ecosystem, and it is also a digital asset issued by a two-currency stock transaction.",
+ "explorer": "https://bscscan.com/token/0x2af9ebaba0f3c988351339fd06a12b4eef6d6989",
+ "type": "BEP20",
+ "symbol": "YLS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2af9ebaba0f3c988351339fd06a12b4eef6d6989"
+}
