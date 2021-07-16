@@ -1,0 +1,11 @@
+{
+ "name": "BabyDog Token",
+ "website": "https://babydogtoken.com",
+ "description": "BabyDog协议是100％社区驱动的，基于公平推出的DeFi代币。每个交易过程中会发生三个简单的功能：反射，LP采集和刻录。并且RFI静态奖励，让持有者自己的BabyDog盈余过程中，进一步通过静态反射获得部分被动奖励.",
+ "explorer": "https://bscscan.com/token/0x56211f0bd111c7e5f10d59754ca607264b90be46",
+ "type": "BEP20",
+ "symbol": "BabyDog",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x56211f0bD111C7E5F10D59754CA607264b90Be46"
+}
