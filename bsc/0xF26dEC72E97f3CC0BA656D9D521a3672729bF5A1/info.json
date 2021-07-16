@@ -1,0 +1,11 @@
+{
+ "name": "XCH",
+ "website": "http://xch.xch.cn.com",
+ "description": "XCH network is a San Francisco based company dedicated to improving cryptocurrency infrastructure. Our CEO, oppcom, famously invented XCH netwok: one of the first modern distributed network protocols and incentives for bitcoin. Our founding team has experience in cryptocurrency and finance from King, crypto company and lightning lab. By March 1, 2016.",
+ "explorer": "https://bsscan.com/token/0xf26dec72e97f3cc0ba656d9d521a3672729bf5a1",
+ "type": "BEP20",
+ "symbol": "XCH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf26dec72e97f3cc0ba656d9d521a3672729bf5a1"
+}
