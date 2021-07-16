@@ -1,0 +1,11 @@
+{
+ "name": "FCN",
+ "website": "-",
+ "description": "FCN是基于火币生态链的去中心化通货紧缩型货币，流动性矿池被锁定，每笔转账交易都将扣税5%，3%回归流动性矿池，1%销毁，1%分配给全体持有者，完全由社区自治。",
+ "explorer": "https://hecoinfo.com/address/0xEF31493c844f866f774Ca2524a9BF6D1Ccf2A396",
+ "type": "HRC20",
+ "symbol": "FCN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEF31493c844f866f774Ca2524a9BF6D1Ccf2A396"
+}
