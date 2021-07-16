@@ -1,0 +1,11 @@
+{
+ "name": "Bitcoin Value star",
+ "website": "https://btvstoken.pro",
+ "description": "BTVS（Bitcoin Value star）比特之星是基于中央服务器上开放性点对点式的通信传输协议，是未来互联网金融核心应用以及区块链金融电子商务解决方案的核心defi应用。BTVS建立了以机器信任与价值观共识为基石的数字金融区块链生态系统，是区块链技术应用的迭代，拓展了数字资产的应用领域，同时也开始构建一种理想的双挖币挖矿体系，为用户带来可观的收益。 未来BTVS将会成为去中心化交易平台的重要支付燃料，为后续NFT和DAO板块打下坚固的基础。使用去中心化交易平台时，需要用BTVS进行销毁和回购。团队来自于国内外顶级区块链研发团队，DEFI从业爱好者和金融专家团队共同打造！",
+ "explorer": "https://bscscan.com/token/0x7c6677683f5b2d45e5ecc1c7e6f399dc61c146f5",
+ "type": "BEP20",
+ "symbol": "BTVS",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x7c6677683f5b2d45e5ecc1c7e6f399dc61c146f5"
+}
