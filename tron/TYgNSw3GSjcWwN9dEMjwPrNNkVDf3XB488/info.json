@@ -1,0 +1,11 @@
+{
+ "name": "GreedyWolfStar Token",
+ "website": "https://www.gws.pub",
+"description": "贪狼星令牌是由GWS区块链协会（由多个社区联合组建）发起的一场社会实践。参与实验的人们可以使用令牌进行存储生息、质押挖矿、发起提议、节点竞选等行为。",
+ "explorer": "https://tronscan.io/#/token20/TYgNSw3GSjcWwN9dEMjwPrNNkVDf3XB488",
+ "type": "TRC20",
+ "symbol": "GWS",
+ "decimals":"6",
+ "status": "active",
+ "id": "TYgNSw3GSjcWwN9dEMjwPrNNkVDf3XB488"
+}
