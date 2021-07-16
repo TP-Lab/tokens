@@ -1,0 +1,11 @@
+{
+ "name": "MoonDoge ",
+ "website": "https://moondoge.cx",
+ "description": "moon Doge is a 100% community project, which is jointly initiated by Doge and BTC enthusiasts. It is to make Doge and BTC agree on their intention to achieve wealth growth",
+ "explorer": "https://bscscan.com/token/0x921cbadDB8C0f48dDb35a8348Aa5b31156c12372",
+ "type": "BEP-20",
+ "symbol": "MoonDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x921cbadDB8C0f48dDb35a8348Aa5b31156c12372"
+}
