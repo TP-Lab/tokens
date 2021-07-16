@@ -1,0 +1,11 @@
+{
+  "name": "LuckDoge",
+  "website": "https://www.luckdoge.org/",
+  "description": "Recently, the dog family has been controversial, various kinds of dogs mixed, seriously damage the reputation of the dog family, Luck Doge choose not to be silent, and come out of nowhere. It is the time to defend the noble lineage of the dog family! The world's first Self-regulation, actively appreciated digital currency. Luck Doge has a super metabolic function and is based on a mathematical model for variable repurchase to ensure price stability.",
+  "explorer": "https://bscscan.com/token/0xD1E4b03a12B5e40A89BAA5c1e6415523800C2ee8",
+  "type": "BEP20",
+  "symbol": "LuckDoge",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xD1E4b03a12B5e40A89BAA5c1e6415523800C2ee8"
+}
