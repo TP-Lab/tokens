@@ -1,0 +1,11 @@
+{
+    "name": "Poseidon Doge",
+    "website": "https://poseidondoge.com/",
+    "description": " Poseidon Doge is a community, rug-free token, that has your best interest at heart. We have all seen what the current state of the market has been, and we know that things go through its ups and downs. We are trying to provide a positive experience that puts your mind at ease, and rewards you while you hold",
+    "explorer": "https://bscscan.com/token/0x0A5B75478270B95141909B0CEa64853a18b34c22",
+    "type": "BEP20",
+    "symbol": "PDOGE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0A5B75478270B95141909B0CEa64853a18b34c22"
+   }
