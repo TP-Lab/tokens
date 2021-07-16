@@ -1,0 +1,17 @@
+{
+ "name": "babyboxer",
+ "website": "https://babyboxer.io/",
+ "description": "Baby Boxer is the first token to be launched on the Boxer Ecosystem. 
+It is the son of Boxer Inu, the first token to partner with UFC fighters and Boxing legends.
+Baby Boxer is is a utility token on the Binance Smart Chain and is part of the Boxer Ecosystem.
+ It has a 10% tax on every transfer. Part of that tax is burned forever making Baby Boxer a deflationary cryptocurrency asset.
+The Boxer team believes that no success can come from a persons work until he thinks about the world around him.
+ Baby Boxer is a protocol that connects the high adoption rate of the crypto industry with
+ helping babies in need around the world by bringing a system of complete accountability and traceability of donations via an easy-to-use interface..",
+ "explorer": "https://bscscan.com/token/0xed7ed82d5a0f1b363309223975f899e7bed5fea6",
+ "type": "BEP20",
+ "symbol": "BBoxer",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xed7ed82d5a0f1b363309223975f899e7bed5fea6"
+}
