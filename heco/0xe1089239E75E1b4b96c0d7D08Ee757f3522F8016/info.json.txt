@@ -1,0 +1,11 @@
+{
+ "name": "Ralph",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0xe1089239E75E1b4b96c0d7D08Ee757f3522F8016",
+ "type": "HRC-20",
+ "symbol": "Ralph",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe1089239E75E1b4b96c0d7D08Ee757f3522F8016"
+} 
