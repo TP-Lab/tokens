@@ -1,0 +1,11 @@
+{
+ "name": "Honeysuckle",
+ "website": "Honeysuckle.io",
+ "description": "由JustSwap青柠社区+斗鱼社区和码头社区地推团队联合打造。致力于波场生态体系建设，在去中心化赛道上通过社区+形成金银花集群，一起赋能HNS，通过HNS在去中心化金融领域在流动性挖矿、借贷、支付等领域进行布局。",
+ "explorer": "https://tronscan.io/#/token20/TPKBcjjQjvkkU1HyiYjpAYEY1twrnJma5T",
+ "type": "TRC20",
+ "symbol": "HNS",
+ "decimals": 18,
+ "status": "active",
+ "id": "TPKBcjjQjvkkU1HyiYjpAYEY1twrnJma5T"
+}
