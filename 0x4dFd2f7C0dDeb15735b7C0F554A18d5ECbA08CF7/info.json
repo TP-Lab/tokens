@@ -1,6 +1,6 @@
 {
  
-"name": "WFP Token",
+"name": "WFP",
  
 "website": "https://www.wfp.org",
  
@@ -8,7 +8,7 @@
  
 "explorer": "https://hecoinfo.com/address/0x4dFd2f7C0dDeb15735b7C0F554A18d5ECbA08CF7",
  
-"type": "HECO",
+"type": "HRC20",
  
 "symbol": "WFP",
  
