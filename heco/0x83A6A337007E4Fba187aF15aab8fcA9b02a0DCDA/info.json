@@ -1,0 +1,11 @@
+{
+ "name": OverTheAir",
+ "website": "http://OverTheAir.com",
+ "description": "OverTheAir.",
+ "explorer": "https://hecoinfo.com/token/0x83A6A337007E4Fba187aF15aab8fcA9b02a0DCDA",
+ "type": "HRC-2",
+ "symbol": "OTA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x83A6A337007E4Fba187aF15aab8fcA9b02a0DCDA"
+}
