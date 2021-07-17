@@ -1,0 +1,11 @@
+{
+ "name": "火鸟",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x88b1d52dbbe7d9f3ea153ed35b25700fdf5dfa50",
+ "type": "HRC-20",
+ "symbol": "FIREBIRB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x88b1d52dbbe7d9f3ea153ed35b25700fdf5dfa50"
+} 
