@@ -1,0 +1,11 @@
+{
+ "name": "Baby Cat",
+ "website": "https://www.BabyCat.com",
+ "description": "Baby Cat",
+ "explorer": "https://bscscan.com/address/0x62898a7CDB8ed68e4E5804f79637fb4869C010BD",
+ "type": "BEP20",
+ "symbol": "Baby Cat",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x62898a7CDB8ed68e4E5804f79637fb4869C010BD"
+}
