@@ -1,0 +1,11 @@
+{
+ "name": "SingleDoge",
+ "website": "https://SingleDoge.com",
+ "description": "SingleDoge",
+ "explorer": "https://bscscan.com/token/0x5a5859A8D14218d88F98e91BC86f5E9157464Db2",
+ "type": "BEP20",
+ "symbol": "SingleDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5a5859A8D14218d88F98e91BC86f5E9157464Db2"
+}
