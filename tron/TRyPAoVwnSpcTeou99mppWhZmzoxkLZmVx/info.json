@@ -1,0 +1,11 @@
+{
+ "name": "NFSQ",
+ "website": "https://tokenpocket.pro",
+ "description": "NFSQ",
+ "explorer": "https://tronscan.io/#/token20/TRyPAoVwnSpcTeou99mppWhZmzoxkLZmVx",
+ "type": "TRC20",
+ "symbol": "NFSQ",
+ "decimals": 6,
+ "status": "active",
+ "id": "TRyPAoVwnSpcTeou99mppWhZmzoxkLZmVx"
+}
