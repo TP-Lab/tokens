@@ -1,0 +1,11 @@
+{
+    "name": "ChangeMoon",
+    "website": "http://changemoon.net3v.net/",
+    "description": "基于HTMoon协议发行的第一个社区令牌",
+    "explorer": "https://hecoinfo.com/token/0x485Dbb912Ad6aD6347A59684561693bd54d81F3E",
+    "type": "HRC-20",
+    "symbol": "ChangeMoon",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x485Dbb912Ad6aD6347A59684561693bd54d81F3E"
+   }
