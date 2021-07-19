@@ -1,0 +1,11 @@
+{ 
+ "name": "HappyDoge", 
+ "website": "-", 
+ "description": "HappyDoge originated from a group of block chain lovers. The recent flood of dogs and other animal projects has caused financial losses. In order to resist this situation, Native Dog is a community project.", 
+ "explorer": "https://bscscan.com/token/0x84cb20025fc6d3dfd05ef6203f240cd84cd4765b", 
+ "type": "BEP20", 
+ "symbol": "HPG", 
+ "decimals": 4, 
+ "status": "active", 
+ "id": "0x84cb20025fc6d3dfd05ef6203f240cd84cd4765b" 
+ } 
