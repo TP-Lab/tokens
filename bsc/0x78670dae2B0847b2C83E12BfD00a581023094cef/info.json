@@ -1,7 +1,7 @@
 {
  "name": "omni",
  "website": "https://www.omni-nft.com",
- "description": "OMNI is the first benchmark token issued by the OMNI-NFT team. When the circulation is 1%, the NFT casting phase will start.",
+ "description": "OMNI is the first benchmark token issued by the OMNI-NFT team. When the circulation is 1%, the NFT casting phase will start.",
  "explorer": "https://bscscan.com/address/0x78670dae2B0847b2C83E12BfD00a581023094cef",
  "type": "BEP20",
  "symbol": "OMNI",
@@ -9,5 +9,3 @@
  "status": "active",
  "id": "0x78670dae2B0847b2C83E12BfD00a581023094cef"
 }
-
-
