@@ -1,0 +1,11 @@
+{
+ "name": "Elephant",
+ "website": "http://eab.tianguo.cc/index.html",
+ "description": "The elephant agricultural product industry chain drives the development of the trending traditional physical chain with an innovative ecological direction",
+ "explorer": "https://bscscan.com/token/0xD7F122ea3101c294772a36141088f11A8bE4085B",
+ "type": "BEP20",
+ "symbol": "EAB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD7F122ea3101c294772a36141088f11A8bE4085B"
+}
