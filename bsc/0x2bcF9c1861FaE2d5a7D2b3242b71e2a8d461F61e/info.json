@@ -1,0 +1,11 @@
+{
+ "name": “Golff”,
+ "website": "https://golff.finance/",
+ "description": "One-Stop Services Encrypted Bank,Create a Light, Open and Free Financial World”,
+ "explorer": "https://bscscan.com/token/0x2bcF9c1861FaE2d5a7D2b3242b71e2a8d461F61e",
+ "type": "BEP20",
+ "symbol": “GOF”,
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2bcF9c1861FaE2d5a7D2b3242b71e2a8d461F61e"
+}
