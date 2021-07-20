@@ -1,0 +1,11 @@
+{
+ "name": "XOM",
+ "website": "http://pulsardao.com/",
+ "description": "a decentralized development platform as a service (DPAAS）,which combines the current mature SaaS and PaaS technologies to drive the development of with its own advantages. It creates a distributed open source of the blockchain cloud platform with the underlying technologies, which will evolve into a highly redundant incentive peer-to-peer distributed environment. It is a highly decentralized application, a new original financial ecology, and a new interoperable DPAAS system.",
+ "explorer": "https://bscscan.com/token/0x95315508c88DF08dF9cC3D59DC9C7c440A61d373",
+ "type": "BEP20",
+ "symbol": "XOM",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x95315508c88DF08dF9cC3D59DC9C7c440A61d373"
+}
