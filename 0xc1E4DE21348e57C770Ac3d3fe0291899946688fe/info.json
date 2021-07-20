@@ -1,0 +1,11 @@
+{
+ "name": "TokenPocket Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/token/0xc1E4DE21348e57C770Ac3d3fe0291899946688fe",
+ "type": "HECO",
+ "symbol": "TPT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xc1E4DE21348e57C770Ac3d3fe0291899946688fe"
+}
