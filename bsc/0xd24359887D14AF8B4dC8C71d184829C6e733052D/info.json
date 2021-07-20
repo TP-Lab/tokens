@@ -1,0 +1,11 @@
+{
+ "name": "WatchDoge",
+ "website": "https://watchdoge.finance/",
+ "description": "WatchDoge is a next-gen token and our friendly whale Dogefather Elon will auto buy-back the dips",
+ "explorer": "https://bscscan.com/token/0xd24359887D14AF8B4dC8C71d184829C6e733052D",
+ "type": "BEP20",
+ "symbol": "WatchDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd24359887D14AF8B4dC8C71d184829C6e733052D"
+}
