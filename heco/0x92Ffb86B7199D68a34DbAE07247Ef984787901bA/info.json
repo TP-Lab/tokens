@@ -1,0 +1,12 @@
+{
+ "name": "NFTBET",
+ "website": "https://ht.nftbet.org",
+ "description": "BET基于火币生态链Heco上发行的NFT代币项目,前期社区人数已达万人",
+ "explorer": "https://hecoinfo.com/token/0x33748c601124B1fBce5395bdDdc1E404b7aB0f43",
+ "type": "HRC-20",
+ "symbol": "BET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x33748c601124B1fBce5395bdDdc1E404b7aB0f43"
+}
+
