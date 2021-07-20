@@ -1,0 +1,14 @@
+  {
+     "name": "TOTAL",
+     "website": "https://totswaps.com",
+     "description": "The top kilometer TOTAL created by the Singapore KyberNetwork team.    
+                     TOTAL is an open source blockchain protocol, which aims to build an 
+                     Internet-based value transfer protocol and the underlying technology
+                     of future distributed applications.",
+     "explorer": "https://bscscan.com/token/0x091376820f1a024e9d0772d3a206e01747d9bbc2",
+     "type": "BEP20",
+     "symbol": "TOT"
+     "decimals": 18,
+     "status": "active",
+     "id": "0x091376820F1a024e9d0772d3a206E01747D9bbC2"
+  }
