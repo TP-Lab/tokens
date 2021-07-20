@@ -1,11 +1,10 @@
-{
-    "name": "亚洲游戏",
-    "website": "https://arizonageologicalsoc.org/",
-    "description": "亚洲游戏",
-    "explorer": "https://hecoinfo.com/token/0x782eebf6ee24fc4e263678b32c3e2501dab2b65f",
+"name": "Consensus",
+    "website": "https://consensus.icu",
+    "description": "Consensus",
+    "explorer": "https://hecoinfo.com/token/0x84c133f86c0b4b8ff052848d5c892e9772a0822a",
     "type": "HRC-20",
-    "symbol": "AGS",
+    "symbol": "Consensus",
     "decimals": 18,
     "status": "active",
-    "id": "0x782EEBf6ee24fC4E263678B32c3E2501DAB2B65F"
+    "id": "0x84c133f86c0b4b8ff052848d5c892e9772a0822a"
    } 
