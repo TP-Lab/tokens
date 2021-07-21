@@ -1,0 +1,11 @@
+{
+ "name": "VenusVNS",
+ "website": "www.venusvns.xyz",
+ "description": "venus（VNS） Token 是由 Shining stars 去中心化金融平台发布的权益通证（Shining stars：一个聚合型去中心化网络借贷协议）。",
+ "explorer": "https://github.com/VenusVNS/TL7rKoggb23n2rKX7M9E2c4JpC4P1Ris73",
+ "type": "TRC20",
+ "symbol": "VNS",
+ "decimals": 6,
+ "status": "active",
+ "id": "TL7rKoggb23n2rKX7M9E2c4JpC4P1Ris73"
+}
