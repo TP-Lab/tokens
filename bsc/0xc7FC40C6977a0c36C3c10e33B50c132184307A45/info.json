@@ -1,0 +1,11 @@
+{
+    "name": "Nash Equilibrium Contract",
+    "website": "http://www.nash.best/",
+    "description": "Nash Equilium Contract (NEC) is a new revolutionary community-driven DeFi token, initiated by DoraHacks community, aiming to improve the community-driven model without being manipulated by whales or celebrities on social media.",
+    "explorer": "https://bscscan.com/token/0xc7FC40C6977a0c36C3c10e33B50c132184307A45",
+    "type": "BEP20",
+    "symbol": "NEC",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xc7FC40C6977a0c36C3c10e33B50c132184307A45"
+}
