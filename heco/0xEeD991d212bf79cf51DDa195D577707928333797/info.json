@@ -1,0 +1,11 @@
+{
+ "name": "BuTter Moon",
+ "website": "https://www.buttermoooon.com",
+ "description": "butter to the moon",
+ "explorer": "https://hecoinfo.com/token/0xEeD991d212bf79cf51DDa195D577707928333797#balances",
+ "type": "HRC-20",
+ "symbol": "BTMOON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xeca41281c24451168a37211f0bc2b8645af45092"
+}
