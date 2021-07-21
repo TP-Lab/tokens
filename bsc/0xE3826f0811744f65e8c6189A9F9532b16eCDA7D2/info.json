@@ -1,0 +1,11 @@
+{
+ "name": "BSC doge",
+ "website": "http://www.bscdoge.xyz/",
+ "description": "Decentralized Meme Tokens that grew into a value ecosystem DOGESwap.",
+ "explorer": "https://bscscan.com/token/0xE3826f0811744f65e8c6189A9F9532b16eCDA7D2",
+ "type": "BEP20",
+ "symbol": "BSC doge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE3826f0811744f65e8c6189A9F9532b16eCDA7D2"
+}
