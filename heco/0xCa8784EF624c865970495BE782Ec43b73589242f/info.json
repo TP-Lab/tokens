@@ -1,0 +1,11 @@
+{
+ "name": "MXCdoge",
+ "website": "www.MXCdoge.com",
+ "description": "MXCdoge.",
+ "explorer": "https://hecoinfo.com/token/0xCa8784EF624c865970495BE782Ec43b73589242f",
+ "type": "HRC-2",
+ "symbol": "MXCdoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCa8784EF624c865970495BE782Ec43b73589242f"
+}
