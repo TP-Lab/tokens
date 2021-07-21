@@ -1,0 +1,11 @@
+{
+ "name": "Honey badger",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x1881B484019873Bff7Cf5d6D7d3Ad366c9914468",
+ "type": "HRC-20",
+ "symbol": "Honey badger",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1881B484019873Bff7Cf5d6D7d3Ad366c9914468"
+} 
