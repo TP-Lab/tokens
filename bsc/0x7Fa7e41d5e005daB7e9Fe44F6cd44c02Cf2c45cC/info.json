@@ -1,0 +1,11 @@
+{
+ "name": "Ferrari Sports Car",
+ "website": "https://www.ferrarilakeforest.com",
+ "description": "Ferrari is a super sports car NTF ecology.",
+ "explorer": "https://bscscan.com/token/0x7Fa7e41d5e005daB7e9Fe44F6cd44c02Cf2c45cC",
+ "type": "BEP20",
+ "symbol": "Ferrari",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7Fa7e41d5e005daB7e9Fe44F6cd44c02Cf2c45cC"
+}
