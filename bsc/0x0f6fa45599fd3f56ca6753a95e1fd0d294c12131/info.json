@@ -5,7 +5,7 @@
  "explorer": "https://bscscan.com/token/0x0f6fa45599fd3f56ca6753a95e1fd0d294c12131",
  "type": "BEP20",
  "symbol": "WHALE",
- "decimals": 18,
+ "decimals": 9,
  "status": "active",
  "release time": "2021-07-01 21:00",
  "id": "0x0f6fa45599fd3f56ca6753a95e1fd0d294c12131"
