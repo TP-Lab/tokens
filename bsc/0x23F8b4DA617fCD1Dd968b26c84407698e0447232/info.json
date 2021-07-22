@@ -1,0 +1,11 @@
+{
+"name": "HELL DOGE COIN",
+"website": "-",
+"description": "-",
+"explorer": "https://bscscan.com/token/0x23F8b4DA617fCD1Dd968b26c84407698e0447232",
+"type": "BEP20",
+"symbol": "HDC",
+"decimals": 18,
+"status": "active",
+"id": "0x23F8b4DA617fCD1Dd968b26c84407698e0447232"
+}
