@@ -1,0 +1,11 @@
+{
+    "name": "dogstonks",
+    "website": "-",
+    "description": "dogstonks",
+    "explorer": "https://www.bscscan.com/address/0x6a3340dD0144067E298dB6a7339482374E86f851",
+    "type": "HRC-20",
+    "symbol": "dogstonks",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6a3340dD0144067E298dB6a7339482374E86f851"
+}
