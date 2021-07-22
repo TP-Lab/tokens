@@ -1,0 +1,11 @@
+{
+    "name": "Space Cat",
+    "website": "https://spacexcat.org",
+    "description": "The first meme token with dividend yield paid in Filcoin",
+    "explorer": "https://bscscan.com/token/0x7E82B5a7aF1916A97fA656B2A38C070e79143fF9",
+    "type": "BEP20",
+    "symbol": "SPACECAT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7E82B5a7aF1916A97fA656B2A38C070e79143fF9"
+   }
