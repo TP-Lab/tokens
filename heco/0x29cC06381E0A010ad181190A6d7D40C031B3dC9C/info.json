@@ -1,0 +1,14 @@
+{
+ "name": "HSMT",
+ "website": "https://smartmesh.io",
+ "description": "HSMT is the cross-chain mapping token of SMT on Heco.",
+ "explorer": "https://hecoinfo.com/token/0x29cC06381E0A010ad181190A6d7D40C031B3dC9C",
+ "type": "HRC20",
+ "symbol": "HSMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x29cC06381E0A010ad181190A6d7D40C031B3dC9C"
+}
+
+
+
