@@ -1,0 +1,11 @@
+{
+ "name": "The Godfather Doge",
+ "website": "https://thegodfatherdoge.com",
+ "description": "It’s time for The Godfather Doge. The eldest and the strongest of the family is now in the crypto market and ready to regulate the family.",
+ "explorer": "https://bscscan.com/token/0xcff3e7a7d8ccde665d41192a75be89b4b15f53c5",
+ "type": "BEP20",
+ "symbol": "TGDOGE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xcff3e7a7d8ccde665d41192a75be89b4b15f53c5"
+}
