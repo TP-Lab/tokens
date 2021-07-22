@@ -2,10 +2,10 @@
     "name": "MinBears Token",
     "website": "https://heco.minbears.com",
     "description": "BEAR是一群相信区块链能带来巨大改变的共识，组成的匿名团队，如何在熊市中持币，带着不到千倍，万倍拒绝卖出的信仰建立了社区令牌，创新开发BEAR挖矿代币，基本功能：挖矿，燃烧，奖励，自动增加流动性。",
-    "explorer": "https://hecoinfo.com/token/0x870406F04fA1602Ca5d4f3b9c1560dd2E14300Fe",
+    "explorer": "https://hecoinfo.com/token/0x0D2459C010D854d95b171f4d40190bF9e4DE8CCF",
     "type": "HRC20",
     "symbol": "BEAR",
     "decimals": 8,
     "status": "active",
-    "id": "0x870406F04fA1602Ca5d4f3b9c1560dd2E14300Fe"
+    "id": "0x0D2459C010D854d95b171f4d40190bF9e4DE8CCF"
    }
