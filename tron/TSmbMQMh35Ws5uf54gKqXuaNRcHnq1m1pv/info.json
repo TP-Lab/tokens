@@ -1,0 +1,11 @@
+{
+    "name": "Miswap Token",
+    "website": "http://miswap.global/",
+    "description": "Miswap is a token issued based on wave field. It has no private placement, no pre excavation and great value in the future",
+    "explorer": "https://tronscan.io/#/token20/TSmbMQMh35Ws5uf54gKqXuaNRcHnq1m1pv",
+    "type": "TRC20",
+    "symbol": "MIST",
+    "decimals": 18,
+    "status": "active",
+    "id": "TSmbMQMh35Ws5uf54gKqXuaNRcHnq1m1pv"
+   }
