@@ -1,0 +1,12 @@
+{
+  "name": "Baby Back Doge",
+  "website": "https://www.babybackdoge.finance/",
+  "description": "BabyBackDOGE ($BBDOGE) is a hyper deflationary token & whilst also incorporating the auto buyback per 5 mins approach & token rewards prepare to list on the market.
+Through our BBDOGE dAPP stake/farm with highest APR, autobuyback protocol, anti whale, antibot, and unstoppable community, we are making a difference in the world.",
+  "explorer": "https://bscscan.com/token/0x545C6721314A1064821A8f235a7Cef987B4FBC32",
+  "type": "BEP20",
+  "symbol": "BBDOGE",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x545C6721314A1064821A8f235a7Cef987B4FBC32",
+}
