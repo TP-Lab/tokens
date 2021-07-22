@@ -1,0 +1,11 @@
+{ 
+"name": "RARA Token",
+"website": "www.rara.farm",
+"description": "The NFT value discovery system where amazing NFTs go viral and get discovered.",
+"explorer": "https://bscscan.com/address/0x83d0E7Ddd6208EC6Df83807660024cbb7878B685",
+"type": "BEP20",
+"symbol": "RARA",
+"decimals": 18,
+"status": "active",
+"id": "0x83d0E7Ddd6208EC6Df83807660024cbb7878B685"
+}
