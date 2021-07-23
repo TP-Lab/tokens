@@ -1,0 +1,11 @@
+{
+ "name": "Metaverse",
+ "website": "http://Metaverse.com/",
+ "description": "provides investors with a fair, transparent and open trading environment, and provides an ecological value token.",
+ "explorer": "https://bscscan.com/token/0x65cbcDF197CF9EAC0e32aE22a55544F378A3EF2C",
+ "type": "BEP20",
+ "symbol": "Metaverse",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x65cbcDF197CF9EAC0e32aE22a55544F378A3EF2C"
+}
