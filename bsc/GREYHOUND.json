@@ -1,0 +1,11 @@
+{
+ "name": "GREYHOUND",
+ "website": "https://greyhound.fun/",
+ "description": "GREYHOUND GO TO MARS",
+ "explorer": "https://bscscan.com/token/0xD8785547F8210b91dfeB740cf6c9C1DA158987Fd",
+ "type": "BEP20",
+ "symbol": "GREYHOUND",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD8785547F8210b91dfeB740cf6c9C1DA158987Fd"
+}
