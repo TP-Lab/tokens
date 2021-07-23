@@ -1,0 +1,11 @@
+{
+ "name": "BTLXYG TOKEN",
+ "website": "-",
+ "description": "BTLXYG TOKEN.",
+ "explorer": "https://bscscan.com/address/0xb11e160704a810ec81f6bcad1d60ea63282b49ff",
+ "type": "BEP20",
+ "symbol": "XYG",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xB11E160704A810EC81f6BCaD1d60eA63282b49ff"
+}
