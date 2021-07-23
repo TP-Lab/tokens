@@ -1,0 +1,11 @@
+{
+ "name": "Earl dog",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xF4539e183A92F3fB9fBc7e8b266dadCb9d22ED04",
+ "type": "BEP20",
+ "symbol": "Earl dog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF4539e183A92F3fB9fBc7e8b266dadCb9d22ED04"
+} 
