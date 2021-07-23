@@ -1,11 +1,13 @@
+  
 {
- "name": "LJ",
- "website": "LJ.com",
- "description": "亮剑",
- "explorer": "https://tronscan.io/#/contract/TAm3hbPdGdbVy1GDM81CmCZF1oR6RCspSi",
+ "name": "FWT Token",
+ "website": "
+https://tronscan .io",
+ "description": "FWT  Building Ecosystems Perfect the decentralized system Speed up the construction of block chain interoperability",
+ "explorer": "https://tronscan.io/#/token20/TWNN1rzpvMWB3oxJyehoKbFrezC3t31CwN",
  "type": "TRC20",
- "symbol": "LJ",
- "decimals": 18,
+ "symbol": "FWT",
+ "decimals": 8,
  "status": "active",
- "id": "TAm3hbPdGdbVy1GDM81CmCZF1oR6RCspSi"
+ "id": "TWNN1rzpvMWB3oxJyehoKbFrezC3t31CwN"
 }
