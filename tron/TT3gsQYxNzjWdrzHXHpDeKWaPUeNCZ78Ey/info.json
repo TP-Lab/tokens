@@ -1,0 +1,11 @@
+{
+  "name": "JAGUAR",
+  "website": "https://www.jaguar.com",
+  "description": "去中心化波场生态治理代币",
+  "explorer": "https://tronscan.org/#/contract/TT3gsQYxNzjWdrzHXHpDeKWaPUeNCZ78Ey",
+  "type": "TRC20",
+  "symbol": "JAGUAR",
+  "decimals": 18,
+  "status": "active",
+  "id": "TT3gsQYxNzjWdrzHXHpDeKWaPUeNCZ78Ey"
+}
