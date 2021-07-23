@@ -1,0 +1,11 @@
+{
+ "name": "SGL",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xD43b61dAa9205a8627CfdAE1F71A169104207D26",
+ "type": "BEP20",
+ "symbol": "SGL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD43b61dAa9205a8627CfdAE1F71A169104207D26"
+} 
