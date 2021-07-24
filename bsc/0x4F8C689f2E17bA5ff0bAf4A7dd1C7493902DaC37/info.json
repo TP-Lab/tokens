@@ -1,0 +1,11 @@
+{
+ "name": "SupreNFT",
+ "website": "http://www.suprenft.com/",
+ "description": "SupreNFT is a highly original diversified and integrated NFT trading and creation platform.",
+ "explorer": "https://bscscan.com/token/0x4F8C689f2E17bA5ff0bAf4A7dd1C7493902DaC37",
+ "type": "BEP20",
+ "symbol": "SNFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4F8C689f2E17bA5ff0bAf4A7dd1C7493902DaC37"
+}
