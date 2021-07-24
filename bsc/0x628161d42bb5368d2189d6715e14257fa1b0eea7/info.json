@@ -1,0 +1,11 @@
+{
+ "name": BABYDOT",
+ "website": "https://BABYDOT.net",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0x628161d42bb5368d2189d6715e14257fa1b0eea7",
+ "type": "BEP20",
+ "symbol": "BABYDOT",",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x628161d42bb5368d2189d6715e14257fa1b0eea7"
+}
