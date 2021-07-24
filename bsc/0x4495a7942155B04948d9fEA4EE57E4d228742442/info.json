@@ -1,0 +1,11 @@
+{
+ "name": "ZKN network",
+ "website": "http://www.movzkn.com",
+ "description": "ZKN is the BSC basic chain of the ZKN network project. ZKN is the BSC basic chain of the ZKN network project. The ZKN network project is affiliated to Ziken Labs.",
+ "explorer": "https://bscscan.com/token/0x4495a7942155B04948d9fEA4EE57E4d228742442",
+ "type": "BEP20",
+ "symbol": "ZKN",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x4495a7942155B04948d9fEA4EE57E4d228742442"
+}
