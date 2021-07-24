@@ -1,0 +1,11 @@
+{
+ "name": "FIFA Token",
+ "website": "https://www.fifablockchains.com",
+ "description": "FIFACHAIN enables sports teams and other organizations to create their own fan tokens, which can be used as an exchange medium within the community",
+ "explorer": "https://tronscan.io/#/contract/TJYxxaswbqTSam6TQHp3exp77NBSbe4S92/code",
+ "type": "TRC20",
+ "symbol": "FIFA",
+ "decimals": 6,
+ "status": "active",
+ "id": "TJYxxaswbqTSam6TQHp3exp77NBSbe4S92"
+}
