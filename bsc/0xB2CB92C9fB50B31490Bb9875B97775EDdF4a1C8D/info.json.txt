@@ -1,0 +1,11 @@
+{
+ "name": "TeddyDoge coin",
+ "website": "http://www.teddydoge.me",
+ "description": "TeddyDoge is a deflationary coin designed to become scarcer over time.",
+ "explorer": "https://bscscan.com/token/0xB2CB92C9fB50B31490Bb9875B97775EDdF4a1C8D",
+ "type": "BEP20",
+ "symbol": "TeddyDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xB2CB92C9fB50B31490Bb9875B97775EDdF4a1C8D"
+}
