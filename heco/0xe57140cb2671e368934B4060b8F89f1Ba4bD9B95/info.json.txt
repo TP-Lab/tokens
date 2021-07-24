@@ -1,0 +1,11 @@
+{
+    "name": "SRS",
+    "website": "https://SRS.com",
+    "description": "SRS是社区驱动开发的HECO链上代币",
+    "explorer": "https://hecoinfo.com/token/0xe57140cb2671e368934B4060b8F89f1Ba4bD9B95",
+    "type": "HRC20",
+    "symbol": "SRS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe57140cb2671e368934B4060b8F89f1Ba4bD9B95"
+} 
