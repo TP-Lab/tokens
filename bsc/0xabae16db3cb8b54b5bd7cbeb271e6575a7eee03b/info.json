@@ -1,0 +1,11 @@
+{
+ "name": "BTSA TOKEN",
+ "website": "",
+ "description": "BTSARMY(BTSA) is a community-driven token inspired by the South Korean boy band, BTS.",
+ "explorer": "https://bscscan.com/token/0xabae16db3cb8b54b5bd7cbeb271e6575a7eee03b",
+ "type": "BEP20",
+ "symbol": "BTSA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xabae16db3cb8b54b5bd7cbeb271e6575a7eee03b"
+}
