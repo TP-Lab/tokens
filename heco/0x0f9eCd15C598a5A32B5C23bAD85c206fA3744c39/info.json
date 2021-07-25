@@ -1,0 +1,11 @@
+{
+    "name": "金牛币",
+    "website": "-",
+    "description": "Taurus Coin",
+    "explorer": "https://hecoinfo.com/token/0x0f9eCd15C598a5A32B5C23bAD85c206fA3744c39",
+    "type": "HRC-20",
+    "symbol": "TRSE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0f9eCd15C598a5A32B5C23bAD85c206fA3744c39"
+}
