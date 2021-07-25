@@ -1,0 +1,11 @@
+{
+ "name": "Baby Shiba Inu",
+ "website": "https://babyshibainu.finance",
+ "description": "Building Decentralised Finance for over 20 regions with language support.",
+ "explorer": "https://etherscan.io/address/0xC21B8620f3Cf59A14C8Da19fd3651754E1637E02",
+ "type": "ERC20",
+ "symbol": "BABYSHIB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC21B8620f3Cf59A14C8Da19fd3651754E1637E02"
+}
