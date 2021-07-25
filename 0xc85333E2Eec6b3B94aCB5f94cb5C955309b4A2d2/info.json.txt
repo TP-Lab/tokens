@@ -1,0 +1,12 @@
+{
+    "name": "SWPP Coin",
+    "website": "https://swpp.co.uk",
+    "description": "
+The SWPP is one of the worlds largest organisations for pro and aspiring photographers. Members receive a range of benefits to help them in their careers and businesses. Members have access to our photographic Forum, comprehensive listing on our web site, online photographic gallery, Professional Imagemaker magazine and a great deal more photo services.",
+    "explorer": "https://bscscan.com/token/0xc85333e2eec6b3b94acb5f94cb5c955309b4a2d2",
+    "type": "BEP20",
+    "symbol": "SWPP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc85333e2eec6b3b94acb5f94cb5c955309b4a2d2"
+}
