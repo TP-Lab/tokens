@@ -1,0 +1,16 @@
+{
+  "symbol": "SingleDog",
+  "address": "0x148CBc2d3117aF65DB83EC9B5Ba8Af52B0c7D91D",
+  "overview": {
+    "en": "Based on the core concept of blockchain, singledog will launch a decentralized intelligent communication platform to serve global single dogs and help them find another single dog.",
+    "zh": "基于区块链的核心理念， SingleDog将推出去中心化智能交流平台，致力服务于全球单身狗，帮助他们寻找另一个单身狗。"
+  },
+  "links": {
+    "facebook": "https://www.facebook.com/SingleDog/"
+  },
+  "email": "singledogonline@sina.com",
+  "website": "http://www.SingleDog.online/",
+  "explorer": "https://bscscan.com/token/0x148CBc2d3117aF65DB83EC9B5Ba8Af52B0c7D91D/",
+  "whitepaper": "http://www.SingleDog.online/SingleDog.pdf",
+  "published_on": "2021-07-25"
+}
