@@ -1,0 +1,11 @@
+{
+ "name": "HalfPizza Token",
+ "website": "http://halfpizza.com/",
+ "description": "Decentralized Finance, Reward-based and Distributed Autonomous Organization, BTC price predition, NFT market and so on.",
+ "explorer": "https://bscscan.com/token/0xfc646d0b564bf191b3d3adf2b620a792e485e6da",
+ "type": "BEP20",
+ "symbol": "PIZA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfc646d0b564bf191b3d3adf2b620a792e485e6da"
+}
