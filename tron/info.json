@@ -1,0 +1,22 @@
+{
+
+"name": "QJIToken",
+
+"website": "http://qijitoken.com",
+
+"description": "QJI Token 是由海外技术团队为支撑，团结多社区联合自治共识打造。以社区理念为精神，以团结共识为力量，以无私奉献为担当，以创新时代为方向！拥有DeFi超前通缩机制，每笔交易通缩5%，2%永久销毁，3%进入基金分红。QJI通证发行26666枚，销毁固定至6666枚！",
+
+"explorer": "https://tronscan.io/#/token20/TKBvDb68PzQjPdfKeXZRqMZH28bFrdrd9w",
+
+"type": "trc20",
+
+"symbol": "QJI",
+
+"decimals": 6,
+
+"status": "active",
+
+"id": "TKBvDb68PzQjPdfKeXZRqMZH28bFrdrd9w"
+
+}
+
