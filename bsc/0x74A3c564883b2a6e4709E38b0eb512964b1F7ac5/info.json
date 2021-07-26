@@ -1,0 +1,11 @@
+{
+ "name": "SteakSwap ",
+ "website": "https://steakswap.me",
+ "description": "Steakswap is the explorer of defi2.0, which is a decentralized exchange protocol based on BSC public chain and gradually realizes Multi Chain and cross chain aggregation.",
+ "explorer": "https://bscscan.com/token/0x74A3c564883b2a6e4709E38b0eb512964b1F7ac5",
+ "type": "BEP-20",
+ "symbol": "STEK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x74A3c564883b2a6e4709E38b0eb512964b1F7ac5"
+}
