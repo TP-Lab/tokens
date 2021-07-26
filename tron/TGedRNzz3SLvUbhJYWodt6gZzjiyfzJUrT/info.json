@@ -1,0 +1,11 @@
+{
+ "name": "Kirin token",
+ "website": "http://www.ukauka.club",
+ "description": "⭐ 麒麟发行量450000枚 ⭐ 每次交易销毁2%，到10000枚止 ⭐ 2%持币分红 ⭐ 4%社区基金 ⭐ 7%回流动池       麒麟由多个地推团队联合发起",
+ "explorer": "https://tronscan.io/#/token20/TGedRNzz3SLvUbhJYWodt6gZzjiyfzJUrT",
+ "type": "tron",
+ "symbol": "Kirin",
+ "decimals": 18,
+ "status": "active",
+ "id": "TGedRNzz3SLvUbhJYWodt6gZzjiyfzJUrT"
+}
