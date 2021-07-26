@@ -1,0 +1,11 @@
+{
+ "name": "BabyGirlDoge",
+ "website": "http://www.babygirldoge.com",
+ "description": "Musk's favorite dog baby girl.",
+ "explorer": "https://bscscan.com/token/0xBb7c264B0d78a1F2979280f05Fe7A6d1dda249F7",
+ "type": "BEP20",
+ "symbol": "BabyGirlDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBb7c264B0d78a1F2979280f05Fe7A6d1dda249F7"
+}
