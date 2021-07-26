@@ -1,0 +1,11 @@
+{
+    "name": "BABYMDX",
+    "website": "https://babymdx.tk",
+    "description": "A token for reward mdx token",
+    "explorer": "https://bscscan.com/token/0x1cA381aA283aaE2a95912EC9184aB39E3d9D7451",
+    "type": "BEP20",
+    "symbol": "BABYMDX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1cA381aA283aaE2a95912EC9184aB39E3d9D7451"
+}
