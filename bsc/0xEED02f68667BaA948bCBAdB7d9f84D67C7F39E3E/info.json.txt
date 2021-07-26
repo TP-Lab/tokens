@@ -1,0 +1,11 @@
+{
+ "name": "NFTE",
+ "website": "-",
+ "description": "-",
+ "explorer": "0xEED02f68667BaA948bCBAdB7d9f84D67C7F39E3E",
+ "type": "BEP20",
+ "symbol": "NFTE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEED02f68667BaA948bCBAdB7d9f84D67C7F39E3E"
+} 
