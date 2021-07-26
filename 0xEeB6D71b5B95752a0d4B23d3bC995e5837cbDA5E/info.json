@@ -1,0 +1,11 @@
+{
+  "name": "ZJH",
+  "website": "https://www.zjhtoken.com",
+  "description": "去中心化火币生态治理代币",
+  "explorer": "https://hecoinfo.com/address/0xEeB6D71b5B95752a0d4B23d3bC995e5837cbDA5E#analytics",
+  "type": "TRC20",
+  "symbol": "ZJH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xEeB6D71b5B95752a0d4B23d3bC995e5837cbDA5E"
+}
