@@ -1,0 +1,11 @@
+{
+ "name": "MJBubbles",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x5751548af950c9b12bdfbb52f1fd0274250b8e6f",
+ "type": "BEP20",
+ "symbol": "MJBubbles",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5751548af950c9b12bdfbb52f1fd0274250b8e6f"
+}
