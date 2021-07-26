@@ -2,7 +2,7 @@
  "name": "Save Doge Coin",
  "website": "https://bscscan.com/token/0x7f20317087557fadafe8dff13e20b7edb2f35f28",
  "description": "Hold Save Doge and get rewarded in ETH on every transaction.",
- "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+ "explorer": "https://bscscan.com/address/0x7f20317087557Fadafe8Dff13e20b7EDb2F35F28",
  "type": "BEP20",
  "symbol": "SaveDoge",
  "decimals": 9,
