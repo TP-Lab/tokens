@@ -1,0 +1,11 @@
+{
+    "name": "FinCypher",
+    "website": "https://fincypher.io/",
+    "description": "The FinCypher token has several roles in the system: first, it is applied as a base currency in the Fincypher ecosystem for the trade of Fincypher Crypto CDOs, next the token is used as a mean of payment of the relayer fees, and lastly token drives the governance process in Fincypher ecosystem allowing stakeholders to securely execute Fincypher protocol upgrades.",
+    "explorer": "https://bscscan.com/token/0x182d9ba52e2780d0438e4623d9f74a8067a0655c",
+    "type": "BEP20",
+    "symbol": "FCH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x182d9ba52e2780d0438e4623d9f74a8067a0655c"
+}

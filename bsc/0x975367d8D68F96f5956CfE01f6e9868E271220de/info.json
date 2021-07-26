@@ -1,0 +1,11 @@
+{
+ "name": "CoinDD",
+ "website": "https://coindd.org",
+ "description": "BSC chain CoinDD Token,CoinDD The agreement is community-driven and Defi tokens issued.",
+ "explorer": "https://bscscan.com/token/0x975367d8D68F96f5956CfE01f6e9868E271220de",
+ "type": "BEP20",
+ "symbol": "CDD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x975367d8D68F96f5956CfE01f6e9868E271220de"
+}

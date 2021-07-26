@@ -1,0 +1,10 @@
+    "name": "MadDoge Coin",
+    "website": "http://www.maddoge.xyz/",
+    "description": "Mad Doge is the extension of Doge and the extension of financial attribute.",
+    "explorer": "https://bscscan.com/token/0x823e403C3df05c08A57Eb02a4bD11bB33b44C025",
+    "type": "BEP20",
+    "symbol": "MadDoge",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x823e403C3df05c08A57Eb02a4bD11bB33b44C025"
+}

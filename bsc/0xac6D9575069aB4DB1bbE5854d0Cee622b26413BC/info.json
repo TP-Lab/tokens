@@ -1,0 +1,11 @@
+{
+"name": "COO Token",
+"website": "https://cootoken.pro",
+"description": "coo币的发行主要是为了推广coo钱包的作用,
+"explorer": "https://bscscan.com/token/0xac6D9575069aB4DB1bbE5854d0Cee622b26413BC",
+"type": "BEP20",
+"symbol": "TPT",
+"decimals": 18,
+"status": "active",
+"id": "0xac6D9575069aB4DB1bbE5854d0Cee622b26413BC"
+}

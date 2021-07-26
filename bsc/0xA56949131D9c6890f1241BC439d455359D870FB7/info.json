@@ -1,0 +1,11 @@
+{
+	"name": "SunCoin Token",
+	"website": "http://www.suncoin.me/",
+	"description": "New Energy Award protocol on SunCoin BlockChain.",
+	"explorer": "https://bscscan.com/token/0xa56949131d9c6890f1241bc439d455359d870fb7",
+	"type": "BEP20",
+	"symbol": "SUC",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xA56949131D9c6890f1241BC439d455359D870FB7"
+}

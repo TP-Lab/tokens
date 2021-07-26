@@ -1,0 +1,11 @@
+{
+ "name": "Mars cat coin",
+ "website": "http://macc.cdecoin.com/",
+ "description": "Build rescue stations around the world, implement them on the spot, and help every homeless cat!",
+ "explorer": "https://bscscan.com/token/0x0f1389136471789aaEBFfb29f068E695598BBA53",
+ "type": "BEP20",
+ "symbol": "MACC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0f1389136471789aaEBFfb29f068E695598BBA53"
+}

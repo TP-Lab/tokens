@@ -1,0 +1,11 @@
+{
+    "name":"SuperGoldCoin",
+    "website":"https://0.plus/SuperGoldCoin",
+    "description":"SGC issued 2100, never to raise",
+    "explorer":"https://tronscan.io/#/token20/TTuH9kxpcFoRi3Afgw1W8BrQ12781W6Joi",
+    "type":"TRC20",
+    "symbol":"SGC",
+    "decimals":18,
+    "status":"active",
+    "id":"TTuH9kxpcFoRi3Afgw1W8BrQ12781W6Joi"
+}

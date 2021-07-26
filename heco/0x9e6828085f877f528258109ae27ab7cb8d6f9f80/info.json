@@ -1,11 +1,11 @@
 {
  "name": "WZRY",
- "website": "-",
- "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
- "explorer": "https://hecoinfo.com/token/0x9e6828085f877f528258109ae27ab7cb8d6f9f80",
- "type": "HECO",
+ "website": "www.WZRY.com",
+ "description": "no.",
+ "explorer": "https://hecoinfo.com/token/0x9e6828085F877f528258109Ae27aB7CB8d6F9F80",
+ "type": "HRC-2",
  "symbol": "WZRY",
  "decimals": 18,
  "status": "active",
- "id": "0x9e6828085f877f528258109ae27ab7cb8d6f9f80"
+ "id": "0x9e6828085F877f528258109Ae27aB7CB8d6F9F80"
 }

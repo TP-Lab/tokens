@@ -1,0 +1,11 @@
+{
+ "name": "Singular Point",
+ "website": "https://www.si0.org",
+ "description": "Singular Point Labs",
+ "explorer": "https://bscscan.com/token/0x2200269C63D4eeD912383aA94bEe7aAd5520DCEA",
+ "type": "BEP20",
+ "symbol": "S0",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x2200269C63D4eeD912383aA94bEe7aAd5520DCEA"
+}
