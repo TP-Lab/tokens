@@ -1,0 +1,11 @@
+{
+ "name": "BEE",
+ "website": "https://bee.b-t.finance",
+ "description": "BEE是BT Finance商业综合体治理代币。主要致力于为全球文娱提供版权存证交易，NFT产品孵化，NFT加密游戏，高端艺术NFT孵化交易等于一体的一站式综合性流通凭证。",
+ "explorer": "https://tronscan.io/#/token20/TYz2awuo1Ba75ZWSqQWPJmDmDc1gRUmDGj",
+ "type": "TRC20",
+ "symbol": "BEE",
+ "decimals": 18,
+ "status": "active",
+ "id": "TYz2awuo1Ba75ZWSqQWPJmDmDc1gRUmDGj"
+}
