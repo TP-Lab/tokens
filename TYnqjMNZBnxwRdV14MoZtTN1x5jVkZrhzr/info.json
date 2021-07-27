@@ -1,0 +1,11 @@
+{
+ "name": "Pepper",
+ "website": "www.PER.com",
+ "description": "PER.",
+ "explorer": "https://tronscan.io/#/contract/TYnqjMNZBnxwRdV14MoZtTN1x5jVkZrhzr",
+ "type": "TRC20",
+ "symbol": "PER",
+ "decimals": 18,
+ "status": "active",
+ "id": "TYnqjMNZBnxwRdV14MoZtTN1x5jVkZrhzr"
+}
