@@ -1,0 +1,11 @@
+{
+ "name": "LokiDoge",
+ "website": "http://lokidoge.com",
+ "description": "Lokidoge opens a ten thousand times journey.",
+ "explorer": "https://bscscan.com/token/0xe9fdace13d0026e39be65b9de1677fa1da701f1d",
+ "type": "BEP20",
+ "symbol": "LDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe9fdace13d0026e39be65b9de1677fa1da701f1d"
+}
