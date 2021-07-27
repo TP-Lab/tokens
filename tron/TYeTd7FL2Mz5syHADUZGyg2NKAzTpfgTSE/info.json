@@ -1,0 +1,11 @@
+{
+ "name": "Minky Way Galaxy",
+ "website": "https://tronscan.io/#/token20/TYeTd7FL2Mz5syHADUZGyg2NKAzTpfgTSE",
+ "description": "Minky Way Galaxy(MWG) 银河系是基于TRON链上的社区生态治理代币，发行总数限定190000个，旨在利用DEFI模式打造一个完全去中心化分布式社区生态及应用。持有者享受社区生态相应权益，让每一位用户参与社区生态的建设和发展，共建MWG区块链社区生态系统。",
+ "explorer": "https://tronscan.io/#/token20/TYeTd7FL2Mz5syHADUZGyg2NKAzTpfgTSE",
+ "type": "TRC20",
+ "symbol": "MWG",
+ "decimals": 18,
+ "status": "active",
+ "id": "TYeTd7FL2Mz5syHADUZGyg2NKAzTpfgTSE"
+}
