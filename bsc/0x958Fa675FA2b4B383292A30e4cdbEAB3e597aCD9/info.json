@@ -1,0 +1,11 @@
+{
+ "name": "Flamingo Coin",
+ "website": "https://bscscan.com/token/0x958fa675fa2b4b383292a30e4cdbeab3e597acd9",
+ "description": "Hold Flamingo and get rewarded in Token on every transaction.",
+ "explorer": "https://bscscan.com/token/0x958fa675fa2b4b383292a30e4cdbeab3e597acd9",
+ "type": "BEP20",
+ "symbol": "Flamingo",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x958Fa675FA2b4B383292A30e4cdbEAB3e597aCD9"
+}
