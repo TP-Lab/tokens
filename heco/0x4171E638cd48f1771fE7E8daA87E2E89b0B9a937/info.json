@@ -1,0 +1,11 @@
+{
+ "name": "FHB",
+ "website": "https://www.fhbpractice.com",
+ "description": "FHB is a decentralized deflationary currency based on the Huobi ecological chain.",
+ "explorer": "https://hecoinfo.com/token/0x4171e638cd48f1771fe7e8daa87e2e89b0b9a937",
+ "type": "HRC-20",
+ "symbol": "FHB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4171E638cd48f1771fE7E8daA87E2E89b0B9a937"
+}
