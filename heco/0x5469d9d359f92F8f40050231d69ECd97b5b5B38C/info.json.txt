@@ -1,0 +1,11 @@
+{
+ "name": "HY",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x5469d9d359f92F8f40050231d69ECd97b5b5B38C",
+ "type": "HRC-20",
+ "symbol": "HY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5469d9d359f92F8f40050231d69ECd97b5b5B38C"
+} 
