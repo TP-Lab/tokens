@@ -1,0 +1,10 @@
+{
+ "name": "MARVEL NFT",
+ "Telegram": "https://t.marvelnftchat",
+ "explorer": "https://hecoinfo.com/token/0x7a342b463693ddc252ccd7326611b7fdf6bca22a",
+ "type": "HRC20",
+ "symbol": "MARVEL",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x7a342B463693Ddc252CCD7326611B7FdF6BCa22A"
+}
