@@ -1,0 +1,11 @@
+{
+ "name": "Fist Guarantee",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://tronscan.io/#/token20/THgci8RD4ffWU7568HFJ6tBpxx1K6k4aD2",
+ "type": "TRC20",
+ "symbol": "FISTG",
+ "decimals": 18,
+ "status": "active",
+ "id": "THgci8RD4ffWU7568HFJ6tBpxx1K6k4aD2"
+}
