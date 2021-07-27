@@ -1,0 +1,11 @@
+{
+ "name": "KIRIN token",
+ "website": "http://www.ukauka.club",
+ "description": "⭐麒麟发行量29800枚；⭐每笔交易1%持币地址分红；⭐每笔交易2%进入黑洞销毁，永不增发，缩量到5000枚止；⭐每笔交易3%进入社区基金；麒麟由多个地推团队联合发起，社区自治。",
+ "explorer": "https://tronscan.io/#/token20/TUkZ5t1TFmsRL3f8yEzkLtcFLVLaqFe9Pz",
+ "type": "tron",
+ "symbol": "KIRIN",
+ "decimals": 9,
+ "status": "active",
+ "id": "TUkZ5t1TFmsRL3f8yEzkLtcFLVLaqFe9Pz"
+}
