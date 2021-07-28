@@ -1,0 +1,11 @@
+{
+ "name": "Butter Fly Token",
+ "website": "https://www.butter-fly.me",
+ "description": "由Butter中文社区的支持者发起的HRC-20 Token项目，致力于协助Butter发展，并创建社区自己的去中心化生态系统。我们希望秉承ButterSwap在遇到困难时永不放弃的精神，脚踏实地一步一个脚印的同Butterswap前行！",
+ "explorer": "https://hecoinfo.com/token/0xC9418277567dDd84Ba6c7E182819DcE4a058516D",
+ "type": "HRC-20",
+ "symbol": "ButterFly",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC9418277567dDd84Ba6c7E182819DcE4a058516D"
+}
