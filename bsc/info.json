@@ -1,0 +1,11 @@
+{
+ "name": "SuperCow",
+ "website": "https://tokenpocket.pro",
+ "description": "Super Cow is a yield-generating deflationary charitable cryptocurrency that runs on Binance Smart Chain.",
+ "explorer": "https://bscscan.com/token/0xb7FFeaE75ca2941815d96C4cb16F0b7ab661F211",
+ "type": "BEP20",
+ "symbol": "SuperCow",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xb7FFeaE75ca2941815d96C4cb16F0b7ab661F211"
+}
