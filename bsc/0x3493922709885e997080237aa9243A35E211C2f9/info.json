@@ -1,0 +1,11 @@
+{
+ "name": "Ology",
+ "website": "http://north-ology.com/",
+ "description": "Norse mythology is the first of meta-universe chain game, and the Ology is the general token for our product.",
+ "explorer": "https://bscscan.com/token/0x3493922709885e997080237aa9243A35E211C2f9",
+ "type": "BEP20",
+ "symbol": "OLOGY",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3493922709885e997080237aa9243A35E211C2f9"
+}
