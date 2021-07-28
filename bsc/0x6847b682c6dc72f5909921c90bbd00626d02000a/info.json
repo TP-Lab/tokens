@@ -1,0 +1,11 @@
+{
+ "name": "TheMass",
+ "website": "http://themass.eu/",
+ "description": "Themass创新?度，整合了CAKE代币?动分红，鲸鱼池稳定的机制增涨刺激社区共识持有者不断系列计划买?策略交易，Themass团队将PancakeSwap把DEX交CAKE收?创新之处在于Themass改进了反倾销鲸?池机制",
+ "explorer": "https://bscscan.com/token/0x6847b682c6dc72f5909921c90bbd00626d02000a",
+ "type": "BEP20",
+ "symbol": "TMS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6847b682c6dc72f5909921c90bbd00626d02000a"
+}
