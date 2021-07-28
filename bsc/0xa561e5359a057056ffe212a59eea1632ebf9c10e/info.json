@@ -1,0 +1,11 @@
+{
+    "name": "PuzzleBobble",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xa561e5359a057056ffe212a59eea1632ebf9c10e",
+    "type": "BEP20",
+    "symbol": "PuzzleBobble",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa561e5359a057056ffe212a59eea1632ebf9c10e"
+}
