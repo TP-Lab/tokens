@@ -1,0 +1,11 @@
+{ 
+  "name": "FE", 
+  "website": "https://tronscan.io/", 
+  "description": "Fortune Elf 缩写FE，中文名：财富精灵", 总量2021枚，全部由CFT持有者挖出！
+  "explorer": "https://tronscan.io/#/token20/TFPRQjCM5kfYSZoABi5mDYMgB5oc1Np5v6", 
+  "type": "TRC20", 
+  "symbol": "FE", 
+  "decimals": 6, 
+  "status": "active", 
+  "id": "TFPRQjCM5kfYSZoABi5mDYMgB5oc1Np5v6" 
+  } 
