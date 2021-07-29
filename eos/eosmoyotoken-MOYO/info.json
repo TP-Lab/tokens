@@ -1,0 +1,11 @@
+{
+    "name": "Moyo Token",
+    "website": "https://moyo.ink",
+    "description": "MOYO, with a total supply of 1,00000000 coins ",
+    "explorer": "https://www.bloks.io/account/eosmoyotoken",
+    "type": "EOS",
+    "symbol": "MOYO",
+    "decimals": 8,
+    "status": "active",
+    "id": "eosmoyotoken"
+    }
