@@ -1,0 +1,11 @@
+{
+ "name": "CloudChain",
+ "website": "forcloud.vip",
+ "description": "CloudChain will change the world",
+ "explorer": "https://tronscan.org/#/contract/TD2931N32Sqp8hYS6pv7rSjpQyBN9VaGX7",
+ "type": "TRC20",
+ "symbol": "CCC",
+ "decimals": 6,
+ "status": "active",
+ "id": "TD2931N32Sqp8hYS6pv7rSjpQyBN9VaGX7"
+}
