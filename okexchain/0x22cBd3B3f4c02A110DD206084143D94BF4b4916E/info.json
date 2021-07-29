@@ -1,0 +1,11 @@
+{
+    "name": "BABYCHERRY",
+    "website": "https://www.cherryswap.net/#/swap",
+    "description": "The first auto rewards distributing baby token in OKEx chain",
+    "explorer": "https://www.oklink.com/okexchain/address/0x22cbd3b3f4c02a110dd206084143d94bf4b4916e",
+    "type": "ERC20",
+    "symbol": "babyCHERRY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x22cbd3b3f4c02a110dd206084143d94bf4b4916e"
+}
