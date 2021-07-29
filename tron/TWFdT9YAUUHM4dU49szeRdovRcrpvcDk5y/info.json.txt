@@ -1,0 +1,11 @@
+{
+ “名称”： “Feng niu coin”，
+ “网站”： “ http://fnsq.mysxl.cn/ ”，
+ "说明" : " FNC是疯牛社区的驱动社区代币。" ,
+ “资源管理器”： “ https://tronscan.io/#/token20/TWFdT9YAUUHM4dU49szeRdovRcrpvcDk5y ”，
+ “类型”： “ TRC20 ”，
+ “符号”： “ FNC ”，
+ “小数”： 6，
+ “状态”： “活动”，
+ “ id ”： “ TWFdT9YAUUHM4dU49szeRdovRcrpvcDk5y ”
+} 
