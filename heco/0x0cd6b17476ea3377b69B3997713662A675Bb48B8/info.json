@@ -1,0 +1,11 @@
+{
+ "name": "Smye Token",
+ "website": "http://www.smye.top",
+ "description": "A Samoye dog community experimental token",
+ "explorer": "https://hecoinfo.com/token/0x0cd6b17476ea3377b69b3997713662a675bb48b8",
+ "type": "HRC-20",
+ "symbol": "SMYE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0cd6b17476ea3377b69b3997713662a675bb48b8"
+}
