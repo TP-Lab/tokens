@@ -1,0 +1,11 @@
+{
+ "name": "Moore",
+ "website": "https://mooreswap.com",
+ "description": "The MOORE three countries will issue a total of 50 million MOORE.",
+ "explorer": "https://bscscan.com/address/0x48A265E858B43640028B0e80459F6991893a4DF4",
+ "type": "BEP20",
+ "symbol": "Moore",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x48A265E858B43640028B0e80459F6991893a4DF4"
+}
