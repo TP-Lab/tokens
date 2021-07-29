@@ -1,0 +1,11 @@
+{
+ "name": "Baby Floki Coin",
+ "website": "https://babyfloki.live/",
+ "description": "Elon Musk BabyFloki",
+ "explorer": "https://bscscan.com/token/0x092b12DD3af68CA641A8Afe7A11dd404EEb7fBcc",
+ "type": "BEP20",
+ "symbol": "BabyFloki",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x092b12DD3af68CA641A8Afe7A11dd404EEb7fBcc"
+}
