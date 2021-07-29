@@ -1,0 +1,11 @@
+{
+ "name": "PupDoge",
+ "website": "https://pupdoge.finance/",
+ "description": "Pup Doge The team is a group of tech-inclined mates from all over the world.",
+ "explorer": "https://bscscan.com/token/0xd0872cE249f3F9967AA3481aE5F568001865C817",
+ "type": "BEP20",
+ "symbol": "PupDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd0872cE249f3F9967AA3481aE5F568001865C817"
+}
