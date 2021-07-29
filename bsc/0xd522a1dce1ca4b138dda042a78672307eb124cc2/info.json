@@ -1,0 +1,11 @@
+{
+ "name": "Swapz",
+ "website": "https://swapz.app/",
+ "description": "Swapz is building a cross-chain zero-slippage DEX that’ll set a new standard for web 3.0. Get ready for pure DeFi.",
+ "explorer": "https://bscscan.com/token/0xd522a1dce1ca4b138dda042a78672307eb124cc2",
+ "type": "BEP20",
+ "symbol": "SWAPZ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd522a1dce1ca4b138dda042a78672307eb124cc2"
+}
