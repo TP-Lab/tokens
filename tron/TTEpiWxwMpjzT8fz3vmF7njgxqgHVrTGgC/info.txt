@@ -1,0 +1,11 @@
+{
+  "name": "JFYH",
+  "website": "https://www.HurricaneOne.com/",
+  "description": "HurricaneOne",
+  "explorer": "https://tronscan.io/#/TTEpiWxwMpjzT8fz3vmF7njgxqgHVrTGgC",
+  "type": "TRC20",
+  "symbol": "HurricaneOne",
+  "decimals": 18,
+  "status": "active",
+  "id": "TTEpiWxwMpjzT8fz3vmF7njgxqgHVrTGgC"
+} 
