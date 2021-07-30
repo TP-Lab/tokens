@@ -1,11 +1,11 @@
 {
- "name": "Light in heart",
- "website": "-",
- "description": "-",
- "explorer": "https://hecoinfo.com/token/0x6B072221B4838Ce5E6F2d12aBFB508Ed8f18D0C6",
- "type": "HRC-20",
- "symbol": "LIH",
- "decimals": 18,
- "status": "active",
- "id": "0x6B072221B4838Ce5E6F2d12aBFB508Ed8f18D0C6"
-} 
+    "name": "LIH",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://hecoinfo.com/token/0x6B072221B4838Ce5E6F2d12aBFB508Ed8f18D0C6",
+    "type": "HRC-20",
+    "symbol": "LIH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6B072221B4838Ce5E6F2d12aBFB508Ed8f18D0C6"
+   }
