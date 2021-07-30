@@ -1,0 +1,11 @@
+{
+ "name": "Okex Fly",
+ "website": "http://butterswap.me",
+ "description": "okex fly to the mars.",
+ "explorer": "https://www.oklink.com/okexchain/address/0x02F093513b7872CdFC518e51eD67f88F0e469592",
+ "type": "KIP-20",
+ "symbol": "OKFly",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x02F093513b7872CdFC518e51eD67f88F0e469592"
+}
