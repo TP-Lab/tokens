@@ -1,0 +1,11 @@
+{
+ "name": "ETU",
+ "website": "http://www.ktb200.xyz/",
+ "description": "The main purpose of ETU is to create a panoramic ecosystem of blockchain through DEFI+ education.",
+ "explorer": "https://hecoinfo.com/address/0x53355e25dF792CbFC375302Ab99F77D891ecD6Ca",
+ "type": "HRC20",
+ "symbol": "ETU",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x53355e25dF792CbFC375302Ab99F77D891ecD6Ca"
+}
