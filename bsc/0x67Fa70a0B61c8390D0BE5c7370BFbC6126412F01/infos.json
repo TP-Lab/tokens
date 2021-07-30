@@ -1,0 +1,11 @@
+{
+    "name": "ZBC Token",
+    "website": "https://zbc.la",
+    "description": "ZBC, a great experiment in human society.",
+    "explorer": "https://bscscan.com/address/0x67fa70a0b61c8390d0be5c7370bfbc6126412f01",
+    "type": "BEP20",
+    "symbol": "ZBC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x67fa70a0b61c8390d0be5c7370bfbc6126412f01"
+}
