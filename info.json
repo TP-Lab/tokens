@@ -1,0 +1,11 @@
+{
+ "name": "Maker Governance",
+ "website": "https://www.governance.com",
+ "description": "Maker Governance",
+ "explorer": "https://bscscan.com/token/0xC64218cFd39b6D68169Ed92B85932Bd35813485D",
+ "type": "BEP20",
+ "symbol": "MAGO",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xC64218cFd39b6D68169Ed92B85932Bd35813485D"
+}
