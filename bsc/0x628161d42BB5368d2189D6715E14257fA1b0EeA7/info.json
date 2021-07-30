@@ -1,0 +1,11 @@
+{
+ "name": "BABYDOT",
+ "website": "https://babydot.net/",
+ "description": "Think of BABYDOT as a fair universal currency for the people. Everywhere. It is not a meme currency like Doge, Shiba, or Cardano. This is a real project that will be constantly evolving. And that begins with undoing the damage done by scammers, schemers, and bad actors. You may have some questions.",
+ "explorer": "https://bscscan.com/token/0x628161d42BB5368d2189D6715E14257fA1b0EeA7",
+ "type": "BEP20",
+ "symbol": "BABYDOT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x628161d42BB5368d2189D6715E14257fA1b0EeA7"
+}
