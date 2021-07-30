@@ -1,0 +1,11 @@
+{
+"name":"XNFT",
+"website":"https://xnft.net",
+"description":"Aggregator Protocol of NFT ecosystem, which is a decentralized, cross-chain network designed to create, mint & blind box exchange NFT.",
+"explorer":"https://hecoinfo.com/token/0xe5944b50df84001a36c7de0d5cb4da7ab21407d2",
+"type":"HRC20",
+"symbol":"XNFT",
+"decimals":18,
+"status":"active"
+"id":0xe5944b50df84001a36c7de0d5cb4da7ab21407d2
+}
