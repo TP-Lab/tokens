@@ -1,10 +1,10 @@
 {
- "name": "Okexshiba",
+ "name": "OkexShiba",
  "website": "https://okexshiba.com",
  "description": "The first shiba inu on the OKExChain.",
  "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xc1a5e697a5cd8055cca3179280fe1f9c2f7e2561",
  "type": "KIP20",
- "symbol": "Okexshiba",
+ "symbol": "OkexShiba",
  "decimals": 18,
  "status": "active",
  "id": "0xC1A5e697a5cd8055cCA3179280fe1F9c2F7e2561"
