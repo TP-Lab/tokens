@@ -1,0 +1,11 @@
+{
+ "CYC": "ChangYuanCunToken",
+ "website": "https://changyuancun.org",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/token/0x8dffd4ef10ac7c3f45d58e3c602b9da292573888",
+ "type": "HRC20",
+ "symbol": "CYC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8dffd4ef10ac7c3f45d58e3c602b9da292573888"
+}

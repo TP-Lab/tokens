@@ -1,0 +1,11 @@
+{
+ "name": "Babycattle Token",
+ "website": "https://babycattle.finance/index.htm",
+ "description": "Babycattle (cow) is a decentralized deflation syndrome on binance smart chain.",
+ "explorer": "https://bscscan.com/token/0x29a65f190a3bf9c66bfef6bf96e85e27505c5a55",
+ "type": "BEP20",
+ "symbol": "babycattle",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x29a65f190a3bf9c66bfef6bf96e85e27505c5a55"
+}

@@ -1,0 +1,10 @@
+{
+ "name": "MOBOX Coin",
+ "website": "https://tokenpocket.pro",
+ "explorer": "https://www.bscscan.com/token/0x281b802EE5513ac417Bad82840c7Bf9c75967e13",
+ "type": "BEP20",
+ "symbol": "MOBOX",
+ "decimals": 18,
+ "status": "-",
+ "id": "0x281b802EE5513ac417Bad82840c7Bf9c75967e13"
+}

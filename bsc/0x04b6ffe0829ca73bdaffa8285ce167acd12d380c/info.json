@@ -1,0 +1,11 @@
+{
+ "name": "Mars",
+ "website": "https://asder.gitbook.io/mars/",
+ "description": "Mars ($MS) is a decentralized community launched in the binance smart chain to create the best space animation NFT collection ecosystem and integrated space animation DEX. It not only supports DEX, Oracle machines, NFT and liquidity work proof, but also supports the alliance composed of comic books and space exploration fans. In the future, Musk's first cryptocurrency to enter space may be Martian currency, so as to promote its influence in the blockchain world. The Mars token will be represented by the symbol",
+ "explorer": "https://bscscan.com/token/0x04b6fFe0829CA73bDaFFA8285ce167acd12D380c",
+ "type": "BEP20",
+ "symbol": "Mars",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x04b6fFe0829CA73bDaFFA8285ce167acd12D380c"
+}

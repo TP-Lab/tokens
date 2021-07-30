@@ -1,0 +1,11 @@
+{
+    "name": "Piggy Token",
+    "website": "-",
+    "description": "总量1000万亿，上线销毁50％进入黑洞，每笔交易扣除10％税（5％进入流动池，2.5％销毁加强通缩提升币价，未来piggy会越来越少，2.5％作为分红，根据持币地址分配给所有持币者）",
+    "explorer": "https://hecoinfo.com/token/0xc66e4fba51261db233f24ec459a61ff83f656be6",
+    "type": "HRC-20",
+    "symbol": "Piggy",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc66e4fba51261db233f24ec459a61ff83f656be6"
+   } 

@@ -1,0 +1,11 @@
+{
+ "name": "Sport Token",
+ "website": "https://www.sportnft.finance",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xed1ffffc0bc6f5474a7bd638655a7e2638202db7",
+ "type": "BEP20",
+ "symbol": "SPORT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xed1ffffc0bc6f5474a7bd638655a7e2638202db7"
+}

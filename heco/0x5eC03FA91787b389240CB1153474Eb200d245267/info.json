@@ -1,0 +1,11 @@
+{
+ "name": "XSHIB",
+ "website": "http://XSHIB.com",
+ "description": "XSHIB is the first token of SHIB, issued by the SHIB group.",
+ "explorer": "https://hecoinfo.com/token/0x5eC03FA91787b389240CB1153474Eb200d245267",
+ "type": "HRC-2",
+ "symbol": "XSHIB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5eC03FA91787b389240CB1153474Eb200d245267"
+}

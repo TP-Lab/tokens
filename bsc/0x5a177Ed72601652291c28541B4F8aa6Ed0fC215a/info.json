@@ -1,0 +1,11 @@
+{
+ "name": "Shibawoof Rise",
+ "website": "https://shibawoof.com",
+ "description": "Shibawoof is built upon the fundamentals of Buyback and increasing the investor's value.",
+ "explorer": "https://bscscan.com/token/0x5a177ed72601652291c28541b4f8aa6ed0fc215a",
+ "type": "BEP20",
+ "symbol": "ShibaWoof",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5a177ed72601652291c28541b4f8aa6ed0fc215a"
+}

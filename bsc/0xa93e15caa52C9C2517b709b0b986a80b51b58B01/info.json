@@ -1,0 +1,11 @@
+{
+ "name": "FoxSay",
+ "website": "https://foxsay.finance/",
+ "description": "FoxSay works on an autonomous frictionless yield farming and liquidity generation protocol.Simply hold $FSY tokens in your wallet and you will get more. In addition to this, you will also earn daily rewards in $BNB.",
+ "explorer": "https://bscscan.com/token/0xa93e15caa52c9c2517b709b0b986a80b51b58b01",
+ "type": "BEP20",
+ "symbol": "FSY",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xa93e15caa52C9C2517b709b0b986a80b51b58B01"
+}

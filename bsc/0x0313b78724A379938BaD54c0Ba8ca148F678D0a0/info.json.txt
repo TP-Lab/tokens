@@ -1,0 +1,11 @@
+{
+ "name": "Ophiuchus",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x0313b78724A379938BaD54c0Ba8ca148F678D0a0",
+ "type": "BEP20",
+ "symbol": "OPHC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0313b78724A379938BaD54c0Ba8ca148F678D0a0"
+} 

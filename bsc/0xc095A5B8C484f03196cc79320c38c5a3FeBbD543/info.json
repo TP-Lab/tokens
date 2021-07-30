@@ -1,0 +1,11 @@
+{
+ "name": "FLOKI",
+ "website": "https://floki.social",
+ "description": "FLOKI is completely decentralized and all decisions are made by a community poll.",
+ "explorer": "https://bscscan.com/token/0xc095A5B8C484f03196cc79320c38c5a3FeBbD543",
+ "type": "BEP20",
+ "symbol": "FLOKI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc095A5B8C484f03196cc79320c38c5a3FeBbD543"
+}

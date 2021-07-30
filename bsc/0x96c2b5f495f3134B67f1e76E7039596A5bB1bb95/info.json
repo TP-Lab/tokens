@@ -1,0 +1,11 @@
+{
+ "name": "BABYDUKE",
+ "website": "https://www.bbduke.com/",
+ "description": "BABYDUKE has a locked LP, industry standard security and best-in-the-market tokenomics system. Simply HODL and reap the rewards.",
+ "explorer": "https://bscscan.com/token/0x96c2b5f495f3134B67f1e76E7039596A5bB1bb95",
+ "type": "BEP20",
+ "symbol": "BABYDUKE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x96c2b5f495f3134B67f1e76E7039596A5bB1bb95"
+}

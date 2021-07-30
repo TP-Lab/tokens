@@ -1,0 +1,11 @@
+{
+ "name": "TEAC",
+ "website": "-",
+ "description": "TeaC 是NFTCHA平台的通用积分，由Tea world legend foundation LTD （新加坡茶界传奇基金会）发行，旨在用区块链技术赋能茶产业生态，用区块链连接产业各方，形成多方共赢的产业网络。",
+ "explorer": "https://hecoinfo.com/token/0xC82d722DFFe6f41C924944A3242a80D6EAB0E530",
+ "type": "HRC20",
+ "symbol": "TEAC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC82d722DFFe6f41C924944A3242a80D6EAB0E530"
+}

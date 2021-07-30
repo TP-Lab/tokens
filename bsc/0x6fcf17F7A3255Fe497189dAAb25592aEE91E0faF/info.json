@@ -1,0 +1,11 @@
+{
+ "name": "LoveDoge",
+ "website": "http://lovedoge.financial",
+ "description": "BNB reflection token, hold $LoveDoge in your wallet, you'll earn BNB.",
+ "explorer": "https://bscscan.com/token/0x6fcf17F7A3255Fe497189dAAb25592aEE91E0faF",
+ "type": "BEP20",
+ "symbol": "LoveDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6fcf17F7A3255Fe497189dAAb25592aEE91E0faF"
+}

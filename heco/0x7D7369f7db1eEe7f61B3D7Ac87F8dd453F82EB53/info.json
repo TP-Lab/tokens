@@ -1,0 +1,11 @@
+{
+ "name": "SAMSUNG",
+ "website": "http://www.SAMSUNG.finance/",
+ "description": "SAMSUNG is the first community token issued based on the SAMSUNG Protocol.",
+ "explorer": "https://hecoinfo.com/token/0x7D7369f7db1eEe7f61B3D7Ac87F8dd453F82EB53",
+ "type": "HRC20",
+ "symbol": "SAMSUNG",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x7D7369f7db1eEe7f61B3D7Ac87F8dd453F82EB53"
+}

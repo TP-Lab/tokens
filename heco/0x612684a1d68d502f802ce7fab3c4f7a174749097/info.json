@@ -1,0 +1,11 @@
+{
+ "name": "AZA",
+ "website": "https://AZAtacaoal.com",
+ "description": "AZA is a community token, everything that functions and docking will be done by the community",
+ "explorer": "https://bscscan.com/token/0x612684a1d68d502f802ce7fab3c4f7a174749097",
+ "type": "HRC20",
+ "symbol": "AZA",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x612684a1d68d502f802ce7fab3c4f7a174749097"
+}

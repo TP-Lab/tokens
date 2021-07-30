@@ -1,0 +1,11 @@
+{
+ "name": "CoinUnion ",
+ "website": "http://www.bhtswap.com",
+ "description": "实现数据共享资源整合。创造真正的新金融区块链共识共享跨境汇率兑U的持续稳定业务。币汇是国际上唯一一家全生态贯通的跨境汇率兑纯搬砖平台;是扎扎实实从点对点、点对台、全托管到现在国际租赁推广的服务平;是具有强大生态背景的BHT全资托平。",
+ "explorer": "https://tronscan.io/#/token20/TFaF44hGufaWZYdkNrdPmjjnLJ4DTZqh8X",
+ "type": "TRC20",
+ "symbol": "BHT",
+ "decimals": 6,
+ "status": "active",
+ "id": "TFaF44hGufaWZYdkNrdPmjjnLJ4DTZqh8X"
+}

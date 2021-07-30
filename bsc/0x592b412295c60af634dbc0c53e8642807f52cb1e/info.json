@@ -1,0 +1,11 @@
+{
+ "name": "KITTY",
+ "website": "http://t.hk.uy/qbT",
+ "description": "KITY provides more open and innovative new technologies, provides investors with a fair, transparent and open trading environment, and provides an ecological value token.",
+ "explorer": "https://bscscan.com/token/0x592b412295c60af634dbc0c53e8642807f52cb1e",
+ "type": "BEP20",
+ "symbol": "KITY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x592b412295c60af634dbc0c53e8642807f52cb1e"
+}

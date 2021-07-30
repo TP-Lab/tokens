@@ -1,0 +1,11 @@
+{
+ "name": "LMB Token",
+ "website": "http://lmb.finance",
+ "description": "The Avengers(LMB),是一群志同道合并且在这个行业中还有着梦想的人,而且在这个行业中一路亏过来,没钱的人联合组建的复仇者联盟社区,意在打造一个真正的去中心化、完全的公平、公正、公开的数字经济联盟TOKEN",
+ "explorer": "https://bscscan.com/token/0x72B1f4A1AD581676e34C0834aD6cd7670F015678",
+ "type": "BEP20",
+ "symbol": "LMB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x72B1f4A1AD581676e34C0834aD6cd7670F015678"
+}

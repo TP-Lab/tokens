@@ -1,0 +1,11 @@
+{
+ "name": "Ice cream cone",
+ "website": "http://chainicc.com/",
+ "description": "ICC aims to create the world's largest decentralized financial ecology for global users under the existing Internet economic system.",
+ "explorer": "https://etherscan.io/token/0x8ad0b69f46755cbd4b03ddfd84aab6123c021997",
+ "type": "ERC20",
+ "symbol": "ICC",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x8Ad0b69f46755CBd4b03ddfD84AAb6123C021997"
+}

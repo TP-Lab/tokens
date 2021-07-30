@@ -1,0 +1,11 @@
+{
+ "name": "BTCV",
+ "website": "无",
+ "description": "BTCV是基于火币发行的代币，永不增发，未来价值巨大",
+ "explorer": "https://hecoinfo.com/token/0x610e0eec1d24de25cbcf59adb8e2f6fa763ce4aa",
+ "type": "HRC20",
+ "symbol": "BTCV",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x610e0Eec1D24DE25CbCf59adB8E2f6FA763Ce4AA"
+}

@@ -1,0 +1,12 @@
+{
+ "name": "BAI 令牌",
+ "website": "https://www.bakerfi.com/",
+ "description": "Decentralized stablecoin borrow system on BSC.",
+ "explorer": "https://bscscan.com/token/0xD39b64FA868f5c0b505bce73FB416F5aa442A8c9",
+ "type": "BEP20",
+ "symbol": "BAI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD39b64FA868f5c0b505bce73FB416F5aa442A8c9"
+}
+

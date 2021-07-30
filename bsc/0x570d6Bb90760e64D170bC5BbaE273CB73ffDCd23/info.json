@@ -1,0 +1,11 @@
+{
+    "name": "EthereumTitanium",
+    "website": "https://ettc.vip/",
+    "description": "全球超级公链典范，世界财富聚集中心。未来，一定是属于DeFi的，我们信仰的不是通证，不是那串代码，而是完全意义上的去中心化！ETTC，纯币圈纯DeFi社区自治通证，价值可期！",
+    "explorer": "https://bscscan.com/token/0x570d6Bb90760e64D170bC5BbaE273CB73ffDCd23",
+    "type": "BEP20",
+    "symbol": "ETTC",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x570d6Bb90760e64D170bC5BbaE273CB73ffDCd23"
+}

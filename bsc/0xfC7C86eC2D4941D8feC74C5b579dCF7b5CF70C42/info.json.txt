@@ -1,0 +1,11 @@
+{
+ "name": "LayBaby",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xfC7C86eC2D4941D8feC74C5b579dCF7b5CF70C42",
+ "type": "BEP20",
+ "symbol": "LayBaby",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xfC7C86eC2D4941D8feC74C5b579dCF7b5CF70C42"
+} 

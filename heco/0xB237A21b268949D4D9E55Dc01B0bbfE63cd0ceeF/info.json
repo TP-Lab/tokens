@@ -1,0 +1,12 @@
+{
+ "name": "AGGswap",
+ "website": "https://ht.aggswap.io",
+ "description": "AGG (聚合协议) 是基于火币生态Heco 发行的通缩型货币，流动性矿池被锁定，每笔买卖交易都将扣税10%，其中5%销毁，3%回归流动性矿池，2%手续费，完全由社区自治，我们的目标：打造全球最大去中心化应用聚合平台。",
+ "explorer": "https://hecoinfo.com/token/0xB237A21b268949D4D9E55Dc01B0bbfE63cd0ceeF",
+ "type": "HRC-20",
+ "symbol": "AGG",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xB237A21b268949D4D9E55Dc01B0bbfE63cd0ceeF"
+}
+

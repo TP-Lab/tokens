@@ -1,0 +1,11 @@
+{
+ "name": "ShaCoin",
+ "website": "https://shacoin.finance/",
+ "description": "ShaCoin(鲨币)是社区驱动的令牌，从命名到LOGO均由投票产生，在未来所有决策及活动均由社区投票决定。快来加入社区参与活动投票！Shacoin is a token guided by the community. It is an open style without leader and maker.In the future, all decisions and activities will be decided by community voting.Join the Meme community to vote!",
+ "explorer": "https://bscscan.com/token/0x0a5f205f495ee99c4fc73aeacd73763d114b807a",
+ "type": "BEP20",
+ "symbol": "SHAB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0a5f205f495ee99c4fc73aeacd73763d114b807a"
+}

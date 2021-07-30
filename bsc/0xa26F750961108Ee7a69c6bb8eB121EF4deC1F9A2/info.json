@@ -1,0 +1,11 @@
+{
+ "name": "HIFI Token",
+ "website": "https://hifigamingsociety.com/",
+ "description": "HiFi Gaming Society is convinced gaming will become a prominent way of life in Decentralized Finance.",
+ "explorer": "https://bscscan.com/token/0xa26F750961108Ee7a69c6bb8eB121EF4deC1F9A2",
+ "type": "BEP20",
+ "symbol": "HIFI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa26F750961108Ee7a69c6bb8eB121EF4deC1F9A2"
+}

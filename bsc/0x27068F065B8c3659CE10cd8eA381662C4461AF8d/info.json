@@ -1,0 +1,11 @@
+{
+    "name": "DouBi Coin",
+    "website": "https://www.doubi.win/",
+    "description": "A doubi with a mental breakdown after an investment failure launched doubi coin (token: doub) .",
+    "explorer": "https://bscscan.com/token/0x27068F065B8c3659CE10cd8eA381662C4461AF8d",
+    "type": "BEP20",
+    "symbol": "doub",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x27068F065B8c3659CE10cd8eA381662C4461AF8d"
+}

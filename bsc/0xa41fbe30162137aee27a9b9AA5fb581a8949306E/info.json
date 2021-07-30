@@ -1,0 +1,12 @@
+
+{
+    "name": "FoxDoge",
+    "website": "https://twitter.com/foxdogecoin",
+    "description": "$FOXDOGE is the worlds best ever crypto with an adjusting highest buyback feature for sells of $FOXDOGE.",
+    "explorer": "https://www.bscscan.com/address/0xa41fbe30162137aee27a9b9AA5fb581a8949306E",
+    "type": "BEP20",
+    "symbol": "FoxDoge",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xa41fbe30162137aee27a9b9AA5fb581a8949306E"
+}

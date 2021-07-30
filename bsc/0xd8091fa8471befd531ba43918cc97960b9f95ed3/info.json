@@ -1,0 +1,11 @@
+{
+ "name": "DogeWorld",
+ "website": "https://DogeWorld.io",
+ "description": "DogeWorld is a deflationary meme DeFi coin with Automated Rewards Farming (ARF) technology built in..",
+ "explorer": "https://bscscan.com/token/0xd8091fa8471befd531ba43918cc97960b9f95ed3",
+ "type": "BEP20",
+ "symbol": "DogeW",
+ "decimals": 3,
+ "status": "active",
+ "id": "0xd8091fa8471befd531ba43918cc97960b9f95ed3"
+}

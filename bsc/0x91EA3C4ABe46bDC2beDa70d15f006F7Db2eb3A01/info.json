@@ -1,0 +1,11 @@
+{
+  "name": "Data Storage Coin",
+  "website": "https://www.dscglobal.me",
+  "description": "DSC is a token on Binance Smart Chain boasting a number of impressive features.",
+  "explorer": "https://bscscan.com/token/0x91ea3c4abe46bdc2beda70d15f006f7db2eb3a01",
+  "type": "BEP20",
+  "symbol": "DSC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x91ea3c4abe46bdc2beda70d15f006f7db2eb3a01"
+}

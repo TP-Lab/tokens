@@ -1,0 +1,11 @@
+{
+ "name": "DOGFOOD",
+ "website": "https://www.dogfood.com",
+ "description": "DOGFOOD aims to create dog food to feed global dogs, suport DOGE, SHIB, AKITA toward success.",
+ "explorer": "https://hecoinfo.com/token/0xd4bd9c43915e0868c0b35b69880c35d244eeed98",
+ "type": "HECO",
+ "symbol": "DOGFOOD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd4bd9c43915e0868c0b35b69880c35d244eeed98"
+}

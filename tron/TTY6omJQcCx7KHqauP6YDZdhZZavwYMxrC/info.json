@@ -1,0 +1,11 @@
+{
+ "name": "MSCCOIN",
+ "website": "https://www.mscoin456.com/",
+ "description": "MSCCOIN=JUSTICE",
+ "explorer": "https://tronscan.io/#/token20/TTY6omJQcCx7KHqauP6YDZdhZZavwYMxrC",
+ "type": "TRC20",
+ "symbol": "MSC",
+ "decimals": 18,
+ "status": "active",
+ "id": "TTY6omJQcCx7KHqauP6YDZdhZZavwYMxrC"
+}

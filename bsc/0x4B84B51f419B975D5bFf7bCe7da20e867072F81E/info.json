@@ -1,0 +1,11 @@
+{
+ "name": "Ninja Dog",
+ "website": "https://olympicdog.xyz/",
+ "description": "Olympic Dog Derivatives, representing the Japanese national team.",
+ "explorer": "https://bscscan.com/token/0x4B84B51f419B975D5bFf7bCe7da20e867072F81E",
+ "type": "BEP20",
+ "symbol": "NinjaDog",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4B84B51f419B975D5bFf7bCe7da20e867072F81E"
+}

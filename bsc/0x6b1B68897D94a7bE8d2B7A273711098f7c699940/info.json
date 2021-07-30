@@ -1,0 +1,11 @@
+{
+ "name": "DIDCOIN",
+ "website": "https://didcoin.io",
+ "description": "A leading multi-chain wallet that supports BSC.",
+ "explorer": "https://bscscan.com/token/0x6b1b68897d94a7be8d2b7a273711098f7c699940",
+ "type": "BEP20",
+ "symbol": "DID",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6b1b68897d94a7be8d2b7a273711098f7c699940"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Dinosaur Baby",
+ "website": "https://www.db.cn",
+ "description": " Dinosaur Baby恐龙宝宝.",
+ "explorer": "https://bscscan.com/token/0xe1b67EB7DF3FC0a0C7c7898A0d1065B77bCc21f2",
+ "type": "BEP20",
+ "symbol": "DB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe1b67EB7DF3FC0a0C7c7898A0d1065B77bCc21f2"
+}

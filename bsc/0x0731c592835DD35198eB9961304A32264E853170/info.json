@@ -1,0 +1,11 @@
+{
+ "name": "SpaceDog",
+ "website": "http://gogomars.xyz",
+ "description": "SpaceDog coin will change the world",
+ "explorer": "https://bscscan.com/token/0x0731c592835DD35198eB9961304A32264E853170",
+ "type": "BEP20",
+ "symbol": "SpaceDog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0731c592835DD35198eB9961304A32264E853170"
+}

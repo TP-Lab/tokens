@@ -1,0 +1,11 @@
+{
+    "name":"COVID",
+    "website":"https://covidcoin.cn",
+    "description":"Covid coin (CVD) is a concept coin deployed in the fire coin ecological chain. Its mission is to double the reward for unrequited dedication and innate gratitude! 1% of each transfer will go to the charitable endowment address for the development of global public utilities such as medical, health, environmental protection and education.",
+    "explorer":"https://hecoinfo.com/token/0x6665dDf83Ec5A3f4f608F7aC2254B497A6BAf05a",
+    "type":"HECO",
+    "symbol":"CVD",
+    "decimals":18,
+    "status":"active",
+    "id":"0x6665dDf83Ec5A3f4f608F7aC2254B497A6BAf05a"
+} 

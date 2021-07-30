@@ -1,0 +1,11 @@
+{
+ "name": "Global Village Tokey",
+ "website": "-",
+ "description": "Global Village Encryption digital currency gv is a completely decentralized digital currency.",
+ "explorer": "https://hecoinfo.com/tx/0x1a0fa78a9968db2f3614523b190300620443e32ba7d2c741feead5d3120016b6",
+ "type": "HRC-20",
+ "symbol": "GV",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x797cca789c3a4fdd5336d5ad361022192c30f7c5"
+}
