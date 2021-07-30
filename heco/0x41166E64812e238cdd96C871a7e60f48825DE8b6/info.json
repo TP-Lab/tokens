@@ -1,0 +1,11 @@
+{
+ "name": "Filecoin Miner",
+ "website": "https://www.filecoinm.com",
+ "description": "Filecoin Miner of DeFi, The only Filecoin mining platform on HECO",
+ "explorer": "https://hecoinfo.com/address/0x41166e64812e238cdd96c871a7e60f48825de8b6",
+ "type": "HRC-20",
+ "symbol": "Film",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x41166E64812e238cdd96C871a7e60f48825DE8b6"
+}
