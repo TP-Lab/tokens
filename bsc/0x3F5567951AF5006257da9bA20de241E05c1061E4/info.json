@@ -1,0 +1,11 @@
+{
+  "name": "GodZilla",
+  "website": "https://godzilla-abc.xyz",
+  "description": "The GodZilla Protocol is a community driven DeFi Token. Three built-in mechanisms occur on each trade: Reflection, Burn and Reward.",
+  "explorer": "https://bscscan.com/token/0x3F5567951AF5006257da9bA20de241E05c1061E4",
+  "type": "BEP20",
+  "symbol": "Zilla",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3F5567951AF5006257da9bA20de241E05c1061E4"
+}
