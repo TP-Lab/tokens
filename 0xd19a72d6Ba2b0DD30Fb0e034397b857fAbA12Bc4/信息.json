@@ -1,0 +1,11 @@
+{
+ "name": "TheBall",
+ "website": "",
+ "description": " TheBall ",
+ "explorer": "https://bscscan.com/token/0xd19a72d6Ba2b0DD30Fb0e034397b857fAbA12Bc4",
+ "type": "BEP20",
+ "symbol": " TB ",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd19a72d6Ba2b0DD30Fb0e034397b857fAbA12Bc4"
+}
