@@ -1,0 +1,11 @@
+{
+  "name": "BabyMarsDOGE",
+  "website": "https://www.babymarsdoge.finance",
+  "description": "A new golden doge to the Mars",
+  "explorer": "https://bscscan.com/token/0x30e5d4983c409ad12dec274a6bdc7f00a423736d",
+  "type": "BEP20",
+  "symbol": "BMDOGE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x30e5d4983c409ad12dec274a6bdc7f00a423736d"
+}
