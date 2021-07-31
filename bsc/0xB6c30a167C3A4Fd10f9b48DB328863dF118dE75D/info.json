@@ -1,0 +1,12 @@
+{
+ "name": "SSCT",
+ "website": "http//www.ssctcoins.com",
+ "description": " 
+盛世勋章仅含销毁和分红两个合约,交易一次扣取1%手续费，其中0.5%用于销毁，0.5%给添加资金池用户根据每个人添加资金量占资金池总量的比例分红。销毁到只剩100万枚时停止，用于市场流通。自此手续费降低为0.5%全部用于添加资金池用户分红 ",
+ "explorer": "https://bscscan.com/address/0xB6c30a167C3A4Fd10f9b48DB328863dF118dE75D",
+ "type": "BEP20",
+ "symbol": " SSCT ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB6c30a167C3A4Fd10f9b48DB328863dF118dE75D"
+}
