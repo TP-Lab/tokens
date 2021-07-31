@@ -1,0 +1,11 @@
+{
+ "name": "BTB Token.",
+ "website": "www.btb.finance",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xa750fa824b4f9dd213f2ecd832a07774f039075a",
+ "type": "BEP20",
+ "symbol": "BTB",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xA750fA824b4F9dd213f2Ecd832a07774f039075a"
+}
