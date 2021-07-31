@@ -1,0 +1,11 @@
+{
+ "name": "Bit miracle coin",
+ "website": "https://www.bcq.com",
+ "description": "BCQCOIN SYETEM目前针对海外社区开放流动性挖矿+实体应用，BIGCoin基于区块链技术的智能交易平台，进行点对点去中心化的数字货币交易兑换，致力于为全球区块链参与者提供一个安全、高效、快捷的数字货币交易兑换平台。",
+ "explorer": "https://bscscan.com/token/0xa3e117d7c1518e264f9415c64346fb88f0a36a3e",
+ "type": "BEP20",
+ "symbol": "BCQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa3e117d7c1518e264f9415c64346fb88f0a36a3e"
+}
