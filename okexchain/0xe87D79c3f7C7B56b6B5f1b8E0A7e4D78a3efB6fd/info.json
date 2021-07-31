@@ -1,0 +1,11 @@
+{
+ "name": "Baby TITAN",
+ "website": "http://babytitan.xyz",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xe87d79c3f7c7b56b6b5f1b8e0a7e4d78a3efb6fd",
+ "type": "KIP20",
+ "symbol": "BabyTITAN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe87d79c3f7c7b56b6b5f1b8e0a7e4d78a3efb6fd"
+}
