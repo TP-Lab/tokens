@@ -1,0 +1,11 @@
+{
+ "name": "APPLE",
+ "website": "https://appswap.xyz",
+ "description": "App (appleswap) is launched on okexchian with automatic market making protocol. It is characterized by cross chain high-speed transaction and low-cost transaction fee. Its goal is to become the main liquidity creator on all chains with diversified functions such as liquidity mining, IFO, NFT, lottery and Dao. It will integrate into other chains and other fields with innovative mode.",
+ "explorer": "https://www.oklink.com/okexchain/address/0xc99183512B41D91e4e902F88C1664e7Bf8AB4bD8",
+ "type": "KIP20",
+ "symbol": "APP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc99183512B41D91e4e902F88C1664e7Bf8AB4bD8"
+}
