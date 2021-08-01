@@ -1,0 +1,11 @@
+{
+ "name": "OKDOGE",
+ "website": "http://oktdoge.net/",
+ "description": "A doge meme on OKEx chain.",
+ "explorer": "https://www.oklink.com/okexchain",
+ "type": "KIP20",
+ "symbol": "OKDOGE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x1F70a125948553053748101e6d1B2F120a76E099"
+}
