@@ -1,0 +1,11 @@
+{
+ "name": "Orcacoin",
+ "website": "https://orcacoin.app",
+ "description": "Orcacoin",
+ "explorer": "https://bscscan.com/token/0xe3cD323345c475f25F2Ca260C2772cF2869DD8E7",
+ "type": "BEP20",
+ "symbol": "OOC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe3cD323345c475f25F2Ca260C2772cF2869DD8E7"
+}
