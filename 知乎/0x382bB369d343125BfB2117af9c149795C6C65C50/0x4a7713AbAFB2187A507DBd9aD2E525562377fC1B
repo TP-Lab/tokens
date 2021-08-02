@@ -1,0 +1,11 @@
+{
+ "name": "BabyDogeV3",
+ "website": "https://babydogev3.com/",
+ "description": "BabyDogeV3 was released on OKExChain. It was copied from Baby Doge Coin and has the same deflationary function as Baby Doge Coin.",
+"explorer":"https://okinfo.cherryswap.net/token/https://okinfo.cherryswap.net/token/0x4a7713abafb2187a507dbd9ad2e525562377fc1b",
+ "type": "KIP20",
+ "symbol": "BabyDogeV3",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x4a7713AbAFB2187A507DBd9aD2E525562377fC1B"
+}
