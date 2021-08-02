@@ -1,0 +1,11 @@
+{
+    "name": "PancakeSwap-DAM-BNB",
+    "website": "https://www.doraemonfund.org",
+    "description": "DAM/BNB Pancake LPs (Cake-LP)",
+    "explorer": "https://bscscan.com/token/0xea44ac71e6f76764803f68369921162cc149b83a",
+    "type": "BEP20",
+    "symbol": "DAM/BNB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xEA44ac71e6f76764803F68369921162cC149B83A"
+   } 

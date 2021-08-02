@@ -1,0 +1,11 @@
+{
+ "name": "GBC Token",
+ "website": "https://gbc.esesport.com/about.html",
+ "description": "GBC token is an algorithmic stable-coin running on Binance Smart-chain. Completely decentralised on-chain governance.",
+ "explorer": "https://bscscan.com/token/0x7031f489e92481a08e212d19feedd8ef7f9f1e7a",
+ "type": "BEP20",
+ "symbol": "GBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7031F489E92481A08e212D19FeEdd8Ef7f9f1e7A"
+}

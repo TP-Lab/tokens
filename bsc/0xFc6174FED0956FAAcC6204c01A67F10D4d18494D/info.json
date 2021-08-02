@@ -1,0 +1,11 @@
+{
+    "name": "DENPASAR-BALI",
+    "website": "",
+    "description": "The leading AMM and yield farm on BSC Chain.",
+    "explorer": "https://bscscan.com/token/0xFc6174FED0956FAAcC6204c01A67F10D4d18494D",
+    "type": "BEP20",
+    "symbol": "DPS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFc6174FED0956FAAcC6204c01A67F10D4d18494D"
+}
