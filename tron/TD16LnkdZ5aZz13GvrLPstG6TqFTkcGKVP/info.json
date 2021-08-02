@@ -1,0 +1,11 @@
+{
+ "name": "Taurus",
+ "website": "www.Taurus.com",
+ "description": "Taurus",
+ "explorer": "https://tronscan.io/#/TD16LnkdZ5aZz13GvrLPstG6TqFTkcGKVP",
+ "type": "TRC20",
+ "symbol": "Tur",
+ "decimals": 18,
+ "status": "active",
+ "id": "TD16LnkdZ5aZz13GvrLPstG6TqFTkcGKVP"
+}
