@@ -1,0 +1,11 @@
+{
+  "name": "AFT",
+  "website": "https://ilfc.com/",
+  "description": "一个去中心化的通证生态平台，公共区块链为现实世界与数字资产构建人性化的桥梁，能够让链上用户自由发起市场预测、创建通证（Token)、开发去中心化应用（DAPP)等。",
+  "explorer": "https://tronscan.io/#/token20/TNCX8obRAQkmybx1gQu3nFWoRdJddW9Jph",
+  "type": "TRC20",
+  "symbol": "AFT",
+  "decimals": 6,
+  "status": "active",
+  "id": "TNCX8obRAQkmybx1gQu3nFWoRdJddW9Jph"
+}
