@@ -1,0 +1,11 @@
+{
+ "name": "Baby Doge Coin",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0xb1b157514833848fa701ECc70537E13Fa93a78A2",
+ "type": "HRC-20",
+ "symbol": "BabyDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xb1b157514833848fa701ECc70537E13Fa93a78A2"
+}
