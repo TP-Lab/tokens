@@ -1,0 +1,11 @@
+{
+ "name": "RHEIN",
+ "website": "http://www.rheincoin.com",
+ "description": "RHEIN is a blockchain that bridges the gap between the fundraising performance of developers and the community of funders. The project aims to overcome the "blockchain trilemma" that limits many blockchains, including ethereum. Using multi-chain technology, RHEIN supports EVM-based blockchains.",
+ "explorer": "https://bscscan.com/token/0x23788081c244fec6Ef6B82d8ffcAd4e4c1532794",
+ "type": "BEP20",
+ "symbol": "RHEIN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x23788081c244fec6Ef6B82d8ffcAd4e4c1532794"
+}
