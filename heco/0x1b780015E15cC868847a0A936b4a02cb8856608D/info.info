@@ -1,0 +1,11 @@
+{
+    "name": "0x1b780015E15cC868847a0A936b4a02cb8856608D",
+    "website": "http://TYBtoken.net/",
+    "description": "基于TYBtoken协议发行的第一个社区令牌",
+    "explorer": "https://hecoinfo.com/token/0x1b780015E15cC868847a0A936b4a02cb8856608D",
+    "type": "HRC-20",
+    "symbol": "TYB",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x1b780015E15cC868847a0A936b4a02cb8856608D"
+   }
