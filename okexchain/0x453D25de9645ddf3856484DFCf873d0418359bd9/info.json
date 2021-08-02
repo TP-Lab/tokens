@@ -1,0 +1,11 @@
+{
+ "name": "OKRocket TOKEN",
+ "website": "",
+ "description": "",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x8CB7165C5D9aA822d92163DE1061acaC0b5cF54e",
+ "type": "KIP20",
+ "symbol": "OKRocket",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8CB7165C5D9aA822d92163DE1061acaC0b5cF54e"
+}
