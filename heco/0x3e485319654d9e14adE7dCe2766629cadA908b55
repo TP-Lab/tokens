@@ -1,0 +1,19 @@
+{
+ 
+ "name": "Cherry Token",
+ 
+ "website": "https://tokenpocket.pro",
+ "description": "A leading   multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS,    OKExChain, HSC and so on.",
+ 
+ "explorer":  "https://hecoinfo.com/token/0x3e485319654d9e14adE7dCe2766629cadA908b55",
+  "type": "HECO",
+ 
+ "symbol": "Cherry",
+ 
+ "decimals": 4,
+ 
+ "status": "active",
+ 
+ "id": "0x3e485319654d9e14adE7dCe2766629cadA908b55"
+
+}
