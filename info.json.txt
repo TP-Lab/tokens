@@ -1,0 +1,11 @@
+{
+ "name": "OKTMooN",
+ "website": "https://OKTMooN.net/",
+ "description": "The OKTMooN Protocol is a community driven DeFi Token. Three built-in mechanisms occur on each trade: Reflection, Burn and Reward.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x920ecdf6ac7a0690bd25c4053632345b29fd4f78",
+ "type": "KIP20",
+ "symbol": "BabyDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x920ecdf6ac7a0690bd25c4053632345b29fd4f78"
+}
