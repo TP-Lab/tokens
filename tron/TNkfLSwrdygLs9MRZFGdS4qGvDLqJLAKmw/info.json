@@ -1,0 +1,11 @@
+{
+ "name": "HUOYANNIAO TOKEN",
+ "website": "www.HYN.com",
+ "description": "HYN",
+ "explorer": "https://tronscan.io/#/contract/TNkfLSwrdygLs9MRZFGdS4qGvDLqJLAKmw",
+ "type": "TRC20",
+ "symbol": "HYN",
+ "decimals": 18,
+ "status": "active",
+ "id": "TNkfLSwrdygLs9MRZFGdS4qGvDLqJLAKmw"
+}
