@@ -1,0 +1,11 @@
+{
+ "name": "Red Cherry",
+ "website": "",
+ "description": "Hold and Reward Cherry",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xfF6cD71348F3A39F49bA986f707b4C82569E3dC1",
+ "type": "KIP20",
+ "symbol": "Red Cherry",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfF6cD71348F3A39F49bA986f707b4C82569E3dC1"
+}
