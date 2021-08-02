@@ -1,0 +1,11 @@
+{
+ "name": "Beer Doge",
+ "website": "https://beerdoge.club",
+ "description": "BeerDoge is a craftbeer, peoples like drink too much",
+ "explorer": "https://bscscan.com/token/0x07570859a5F1354B2145Ee7678868b219A4256DC",
+ "type": "BEP20",
+ "symbol": "BeerDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x07570859a5F1354B2145Ee7678868b219A4256DC"
+}
