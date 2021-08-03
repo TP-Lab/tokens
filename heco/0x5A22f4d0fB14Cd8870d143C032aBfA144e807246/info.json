@@ -1,0 +1,11 @@
+{
+"name": “X-TOKEN”,
+"website": "https://www.gdbtoken.com",
+"description": “Game Decentralized Box Token.”,
+"explorer": "https://hecoinfo.com/token/0x5A22f4d0fB14Cd8870d143C032aBfA144e807246#balances",
+"type": “HECO”,
+"symbol": "GDBX",
+"decimals": 8,
+"status": "active",
+"id": "0x5A22f4d0fB14Cd8870d143C032aBfA144e807246"
+}
