@@ -1,0 +1,21 @@
+{
+ 
+ "name": "Tarot",
+ 
+ "website": "",
+
+ "description": "TRT(Tarot) is a kind of tokens based on the Huobi ECO Chain(Heco).",
+
+ "explorer": "https://hecoinfo.com/token/0x72b7172e479105eeea3bcba8bba50ae0e8fd4f31",
+
+ "type": "HRC20",
+
+ "symbol": "TRT",
+
+ "decimals": 18,
+
+ "status": "active",
+
+ "id": "0x72b7172E479105eEea3bCBa8Bba50Ae0e8fd4F31"
+
+}
