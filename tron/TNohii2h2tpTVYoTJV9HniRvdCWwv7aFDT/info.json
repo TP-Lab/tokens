@@ -1,0 +1,11 @@
+   {
+    "name": "STARNET PLAN",
+    "website": "https://tronscan.io/#/contract/TNohii2h2tpTVYoTJV9HniRvdCWwv7aFDT/code",
+    "description": "StarNetPlan首发搭建在波场智能链上，然后会通过多层生态建设规划，最终完成面向全球的全生态公链。",
+    "explorer": "https://tronscan.io/#/token20/TNohii2h2tpTVYoTJV9HniRvdCWwv7aFDT",
+    "type": "TRC20",
+    "symbol": "SNP",
+    "decimals": 18,
+    "status": "active",
+    "id": "TNohii2h2tpTVYoTJV9HniRvdCWwv7aFDT"
+   }
