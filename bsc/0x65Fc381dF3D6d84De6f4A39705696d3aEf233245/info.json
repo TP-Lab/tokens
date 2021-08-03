@@ -1,7 +1,7 @@
 {
- "name": "MCU",
- "website": "http://www.mcu-token.com/",
- "description": "MCU Good",
+ "name": "Marvel Cinematic Universe",
+ "website": ".",
+ "description": ".",
  "explorer": "https://bscscan.com/token/0x65Fc381dF3D6d84De6f4A39705696d3aEf233245",
  "type": "BEP20",
  "symbol": "MCU",
