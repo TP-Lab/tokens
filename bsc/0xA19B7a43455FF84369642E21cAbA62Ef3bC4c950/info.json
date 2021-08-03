@@ -1,0 +1,11 @@
+{
+ "name": "DOMINO",
+ "website": "http://dominonft.com",
+ "description": "Domino is a cross-chain NFT and DeFi aggregate platform who can achieve decentralized governance for NFT products.",
+ "explorer": "https://bscscan.com/token/0xA19B7a43455FF84369642E21cAbA62Ef3bC4c950",
+ "type": "BEP20",
+ "symbol": "DOM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA19B7a43455FF84369642E21cAbA62Ef3bC4c950"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Avocado",
+ "website": "-",
+ "description": "Avcd希望打造一个纯生态的物品选购中转站，让更多的用户参与到虚拟商品以及现实商品的空间进行选购，后期我们将加入NFT等商品的添加中。",
+ "explorer": "https://bscscan.com/token/0x8da8db682835f82a5903e516f3924744fd817c5f",
+ "type": "BEP20",
+ "symbol": "Avcd",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8da8db682835f82a5903e516f3924744fd817c5f"
+}

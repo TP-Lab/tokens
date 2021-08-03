@@ -1,0 +1,11 @@
+{
+    "name": "KittyCake",
+    "website": "https://kittycake.app",
+    "description": "喵喵蛋糕是币安智能链上的新一代CAKE分红货币，分红比例是交易量的10%。手持喵喵蛋糕就能赚取CAKE。",
+    "explorer": "https://bscscan.com/token/0xc22e8114818a918260662375450e19ac73d32852",
+    "type": "BEP20",
+    "symbol": "KCAKE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc22e8114818a918260662375450e19ac73d32852"
+}

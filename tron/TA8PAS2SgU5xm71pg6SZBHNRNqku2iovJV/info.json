@@ -1,0 +1,11 @@
+{
+	"name": "KBB Token",
+	"website": "http://kbb.world",
+	"description": "KBB生态链，用区块链技术把实体商品与数字货币结合，用KBB带动商品流通与销售，用实体商品为KBB提供永久保值和增值空间，构建一个全球区块链自由贸易区",
+	"explorer": "https://tronscan.io/#/token20/TA8PAS2SgU5xm71pg6SZBHNRNqku2iovJV",
+	"type": "TRC20",
+	"symbol": "KBB",
+	"decimals": 8,
+	"status": "active",
+	"id": "TA8PAS2SgU5xm71pg6SZBHNRNqku2iovJV"
+}

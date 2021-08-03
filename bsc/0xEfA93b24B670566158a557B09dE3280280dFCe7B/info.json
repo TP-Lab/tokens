@@ -1,0 +1,11 @@
+{
+ "name": "T20",
+ "website": "https://t20.network/",
+ "description": "Good Reliable investment",
+ "explorer": "https://bscscan.com/token/0xefa93b24b670566158a557b09de3280280dfce7b",
+ "type": "BEP20",
+ "symbol": "T20",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xefa93b24b670566158a557b09de3280280dfce7b"
+}

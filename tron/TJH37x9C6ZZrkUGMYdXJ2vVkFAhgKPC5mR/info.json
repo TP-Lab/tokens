@@ -1,0 +1,11 @@
+{
+ "name": "GWS",
+ "website": "www.GWS.com",
+ "description": "GWS",
+ "explorer": "https://tronscan.io/#/contract/TJH37x9C6ZZrkUGMYdXJ2vVkFAhgKPC5mR",
+ "type": "TRC20",
+ "symbol": "GWS",
+ "decimals": 18,
+ "status": "active",
+ "id": "TJH37x9C6ZZrkUGMYdXJ2vVkFAhgKPC5mR"
+}

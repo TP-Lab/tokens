@@ -1,0 +1,11 @@
+{
+    "name": "KACO Token",
+    "website": "无",
+    "description": "KACO is a token issued based on TRON. There is no pre-mining, no additional issuance, and the prospect is huge",
+    "explorer": "https://tronscan.io/#/token20/TDXANpJNnHkEhYnENL1hDKGtsPiBckv1KQ",
+    "type": "TRC20",
+    "symbol": "KACO",
+    "decimals": 6,
+    "status": "active",
+    "id": "TDXANpJNnHkEhYnENL1hDKGtsPiBckv1KQ"
+   }

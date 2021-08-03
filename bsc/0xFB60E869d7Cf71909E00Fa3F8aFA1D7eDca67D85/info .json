@@ -1,0 +1,11 @@
+{
+ "name": "Starlink Network",
+ "website": "www.snt.world",
+ "description": "Starlink（星链）首创智能合约资金池自动挖矿分红机制，无需提取，挖矿分红直达用户钱包。Starlink Cyber和Cloud可为用户构建安全的IT基础设施。",
+ "explorer": "https://bscscan.com/token/0xFB60E869d7Cf71909E00Fa3F8aFA1D7eDca67D85",
+ "type": "BEP20",
+ "symbol": "Starlink",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xFB60E869d7Cf71909E00Fa3F8aFA1D7eDca67D85"
+}

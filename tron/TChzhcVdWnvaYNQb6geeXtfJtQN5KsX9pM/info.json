@@ -1,0 +1,11 @@
+{
+ "name": "Maserati",
+ "website": "https://www.houndcoin.net",
+ "description": "Msat uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://tronscan.io/#/token20/TChzhcVdWnvaYNQb6geeXtfJtQN5KsX9pM",
+ "type": "TRC20",
+ "symbol": "Msat",
+ "decimals": 18,
+ "status": "active",
+ "id": "TChzhcVdWnvaYNQb6geeXtfJtQN5KsX9pM"
+}

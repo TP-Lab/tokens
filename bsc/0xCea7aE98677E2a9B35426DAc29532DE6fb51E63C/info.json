@@ -1,0 +1,11 @@
+{
+ "name": "KACN Token",
+ "website": "https://www.kacn.app",
+ "description": "Blockchain mall for KACN digital commodity trading",
+ "explorer": "https://bscscan.com/token/0xCea7aE98677E2a9B35426DAc29532DE6fb51E63C",
+ "type": "BEP20",
+ "symbol": "KACN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCea7aE98677E2a9B35426DAc29532DE6fb51E63C"
+}

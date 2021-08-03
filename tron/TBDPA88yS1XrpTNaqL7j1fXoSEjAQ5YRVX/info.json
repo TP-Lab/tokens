@@ -1,0 +1,11 @@
+{
+ "name": "Free currency",
+ "website": "www.Free currency.com",
+ "description": "Free currency (FCE) is a kind of community autonomous token with an initial total of 100000. It has a deflation + dividend mechanism to ensure the super high value of FCE in the future. We are committed to working with all freedom advocates to create the strongest community and ecological values. At the same time, in the future, we will work together to build various blockchain applications such as zicoin LP mobile mining + NFT plate to serve all free community holders, and continue to create practical value and application landing ecology of FCE.",
+ "explorer": "https://tronscan.io/#/contract/TBDPA88yS1XrpTNaqL7j1fXoSEjAQ5YRVX",
+ "type": "TRC20",
+ "symbol": "FCE",
+ "decimals": 18,
+ "status": "active",
+ "id": "TBDPA88yS1XrpTNaqL7j1fXoSEjAQ5YRVX"
+} 

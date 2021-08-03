@@ -1,0 +1,11 @@
+{
+"name": "PoliceDOGE",
+"website": "https://www.policedoge.com/",
+"description": "PoliceDOGE is a hyper-deflationary buyback token forked from RISE with improved functions to make it more secure.",
+"explorer":"https://bscscan.com/token/0x4186829914d1b7b130b5153f4aabd21142e8e658",
+"type": "BEP20",
+"symbol": "PoliceDOGE",
+"decimals": 9,
+"status": "active",
+"id": "0x4186829914d1b7b130b5153f4aabd21142e8e658"
+}

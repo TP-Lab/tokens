@@ -1,0 +1,12 @@
+{
+ "name": "NFTBET",
+ "website": "https://ht.nftbet.org",
+ "description": "BET基于火币生态链Heco上发行的NFT代币项目，同时开启MDEX交易，并且每笔交易将销毁5%的代币，以保证BET币的通缩流转。",
+ "explorer": "https://hecoinfo.com/token/0xE55b3Fb96Bb83fBd483170eaecc39A8159cB253A",
+ "type": "HRC-20",
+ "symbol": "BET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE55b3Fb96Bb83fBd483170eaecc39A8159cB253A"
+}
+

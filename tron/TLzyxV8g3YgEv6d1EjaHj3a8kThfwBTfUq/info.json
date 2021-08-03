@@ -1,0 +1,11 @@
+{
+ "name": "FERRARI",
+ "website": "https://www.ferrari.com",
+ "description": "The only Ferrari Defi on the TRON public chain",
+ "explorer": "https://tronscan.io/#/token20/TLzyxV8g3YgEv6d1EjaHj3a8kThfwBTfUq",
+ "type": "TRC20",
+ "symbol": "FERRARI",
+ "decimals": 6,
+ "status": "active",
+ "id": "TLzyxV8g3YgEv6d1EjaHj3a8kThfwBTfUq"
+}

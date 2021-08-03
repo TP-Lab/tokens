@@ -1,0 +1,11 @@
+{
+ "name": "PGY Token",
+ "website": "http://tronscan.io/",
+ "description": "PGY像蒲公英一样，将财富自由的使命洒满人间.",
+ "explorer": "https://tronscan.io/#/token20/TC6TMXKpDA6343kyTEWqueXTn4A1QTean1",
+ "type": "TRC20",
+ "symbol": "PGY",
+ "decimals": 18,
+ "status": "active",
+ "id": "TC6TMXKpDA6343kyTEWqueXTn4A1QTean1"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MiniPig",
+ "website": "https://www.minipiginu.com",
+ "description": "MiniPig is a community-centric centralized city that can provide rewards to holders.",
+ "explorer": "https://www.bscscan.com/token/0x8e09fddf1c9eb717ab4e598516a1b0f522c21a6a",
+ "type": "BEP20",
+ "symbol": "MiniPig",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8E09FddF1c9eB717ab4e598516a1B0f522C21A6A"
+}
