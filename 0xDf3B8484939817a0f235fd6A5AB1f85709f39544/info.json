@@ -1,0 +1,11 @@
+{
+ "name": "PAT",
+ "website": "http://www.propertyaccess.party",
+ "description": "PAT是新一代机去中心化聚合平台，综合了NFT和DEFI双重机制",
+ "explorer": "https://bscscan.com/address/0xDf3B8484939817a0f235fd6A5AB1f85709f39544",
+ "type": "BEP20",
+ "symbol": "PAT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xDf3B8484939817a0f235fd6A5AB1f85709f39544"
+}
