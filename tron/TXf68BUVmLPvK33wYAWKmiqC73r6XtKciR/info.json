@@ -1,0 +1,11 @@
+{
+    "name": "IFPC Coin",
+    "website": "http://www.ifpc.io",
+    "description": "Build the world's first 'intelligent ecological' system with IPFs Technology.",
+    "explorer": "https://tronscan.org/#/token20/TXf68BUVmLPvK33wYAWKmiqC73r6XtKciR",
+    "type": "TRC20",
+    "symbol": "IFPC",
+    "decimals": 6,
+    "status": "active",
+    "id": "TXf68BUVmLPvK33wYAWKmiqC73r6XtKci"
+}
