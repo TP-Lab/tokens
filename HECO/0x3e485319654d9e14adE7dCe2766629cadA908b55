@@ -5,7 +5,7 @@
  "explorer":  "https://hecoinfo.com/token/0x3e485319654d9e14adE7dCe2766629cadA908b55",
  "type": "HECO",
  "symbol": "Cherry",
- "decimals": 4,
+ "decimals": 18,
  "status": "active",
  "id": "0x3e485319654d9e14adE7dCe2766629cadA908b55"
 }
