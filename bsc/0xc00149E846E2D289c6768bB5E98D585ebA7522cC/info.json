@@ -1,7 +1,7 @@
 {
  "name": "Psy Duck Coin",
  "website": "https://psyduckcoin.com",
- "description": "PSYDUCK",
+ "description": "A token that can dividend busd. Holding and buying will continue to dividend busd",
  "explorer": "https://bscscan.com/token/0xc00149e846e2d289c6768bb5e98d585eba7522cc",
  "type": "BEP20",
  "symbol": "PSYDUCK",
