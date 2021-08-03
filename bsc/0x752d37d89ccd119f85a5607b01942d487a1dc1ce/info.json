@@ -1,0 +1,11 @@
+{
+    "name": "Miswap Token",
+    "website": "http://miswap.global/",
+    "description": "Miswap is a token issued based on wave field. It has no private placement, no pre excavation and great value in the future",
+    "explorer": "https://bscscan.com/token/0x752d37d89CCd119f85a5607b01942d487A1dC1ce",
+    "type": "BEP20",
+    "symbol": "MIST",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x752d37d89CCd119f85a5607b01942d487A1dC1ce"
+   }
