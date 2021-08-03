@@ -1,0 +1,11 @@
+{
+ "name": "NRK",
+ "website": "https://nrk.io",
+ "description": "NRK是新一代机去中心化金融的基础设施，它的诞生为全球数亿普通投资者的金融生态带来了曙光",
+ "explorer": "https://bscscan.com/address/0x6252331EcD459be21dBf6c9187cA1fF82dd15f3b",
+ "type": "BEP20",
+ "symbol": "NRK",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x6252331EcD459be21dBf6c9187cA1fF82dd15f3b"
+}
