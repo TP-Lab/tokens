@@ -1,0 +1,11 @@
+{
+ "name": "ARISE",
+ "website": "https://arise2themoon.com/",
+ "description": "ARISE is a community driven project with deflationary mechanism built on Binance Smart Chain.",
+ "explorer": "https://bscscan.com/token/0x1efa81b9956c85e35a19fad073b0e971f4d46895",
+ "type": "BEP20",
+ "symbol": "ARISE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x1EFa81B9956c85e35a19FAd073B0e971F4D46895"
+}
