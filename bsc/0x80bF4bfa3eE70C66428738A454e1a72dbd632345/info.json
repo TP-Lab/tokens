@@ -1,0 +1,11 @@
+{
+ "name": "NFT Market",
+ "website": "https://bscscan.com/",
+ "description": "NFT Market是基于币安智能链的去中心化代币.",
+ "explorer": "https://bscscan.com/token/0x80bF4bfa3eE70C66428738A454e1a72dbd632345",
+ "type": "BEP-20",
+ "symbol": "NFT集市",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x80bF4bfa3eE70C66428738A454e1a72dbd632345"
+}
