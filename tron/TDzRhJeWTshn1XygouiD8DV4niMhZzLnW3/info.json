@@ -1,0 +1,11 @@
+{
+ "name": "Timeless Computing Power Coin",
+ "website": "https://tccnode.com",
+ "description": "TCC基於Tron Chain公鏈開發的全球去中心化算力聚合網路，是以算力形式發行的生態通證，總量100%TCC被用戶共同采挖，零私募、零認購，代碼開源。",
+ "explorer": "https://tronscan.org/#/contract/TDzRhJeWTshn1XygouiD8DV4niMhZzLnW3",
+ "type": "TRC20",
+ "symbol": "TCC",
+ "decimals": 8,
+ "status": "active",
+ "id": "TDzRhJeWTshn1XygouiD8DV4niMhZzLnW3"
+}
