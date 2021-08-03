@@ -1,0 +1,10 @@
+{
+ "name": "DogToken",
+ "website": "https://dogtoken.club",
+ "description": Decentralized trust, co construction, symbiosis and common prosperity.",
+ "explorer": "https://bscscan.com/token/0xaF2773f9B2fa378De028FEbc506E8CBFf7650d2c",
+ "type": "BEP20",
+ "symbol": "DogToken",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xaF2773f9B2fa378De028FEbc506E8CBFf7650d2c
