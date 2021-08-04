@@ -1,0 +1,11 @@
+{
+ "name": "Baby Lady Doge",
+ "website": "http://www.babyladydoge.com/",
+ "description": "BabyLadyDoge (Baby Lady Doge) is a 100% community driven, fair launch based WiFi token. There are three simple functions in each transaction: reflection, LP acquisition and recording.",
+ "explorer": "https://bscscan.com/token/0x0CCc03E61707CAc36C8D4c9801382e39419CaC51",
+ "type": "BEP20",
+ "symbol": "BabyLadyDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0CCc03E61707CAc36C8D4c9801382e39419CaC51"
+}
