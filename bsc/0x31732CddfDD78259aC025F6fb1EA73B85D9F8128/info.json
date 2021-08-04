@@ -1,0 +1,11 @@
+{
+ "name": "PiPiCoin",
+ "website": "https://www.pipicoin.net/",
+ "description": "An innovative DeFi farm field integrates Oracles and Vaults based on BscChain.",
+ "explorer": "https://bscscan.com/address/0x31732CddfDD78259aC025F6fb1EA73B85D9F8128",
+ "type": "BEP20",
+ "symbol": "PiPi",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x31732CddfDD78259aC025F6fb1EA73B85D9F8128"
+}
