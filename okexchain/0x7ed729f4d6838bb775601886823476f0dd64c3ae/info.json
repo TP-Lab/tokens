@@ -1,0 +1,11 @@
+{
+  "name": "nBNB",
+  "website": "",
+  "description": "",
+  "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x7ed729f4d6838bb775601886823476f0dd64c3ae",
+  "type": "KIP20",
+  "symbol": "BNB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7ed729f4d6838bb775601886823476f0dd64c3ae"
+}

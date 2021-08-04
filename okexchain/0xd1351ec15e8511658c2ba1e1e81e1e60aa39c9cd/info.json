@@ -1,0 +1,11 @@
+{
+  "name": "NVT",
+  "website": "https://nerve.network",
+  "description": "",
+  "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xd1351ec15e8511658c2ba1e1e81e1e60aa39c9cd",
+  "type": "KIP20",
+  "symbol": "NVT",
+  "decimals": 8,
+  "status": "active",
+  "id": "0xd1351ec15e8511658c2ba1e1e81e1e60aa39c9cd"
+}

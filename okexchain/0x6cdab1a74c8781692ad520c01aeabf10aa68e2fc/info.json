@@ -1,0 +1,11 @@
+{
+  "name": "nBUSD",
+  "website": "",
+  "description": "",
+  "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x6cdab1a74c8781692ad520c01aeabf10aa68e2fc",
+  "type": "KIP20",
+  "symbol": "BUSD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6cdab1a74c8781692ad520c01aeabf10aa68e2fc"
+}

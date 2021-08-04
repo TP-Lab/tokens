@@ -1,0 +1,11 @@
+{
+  "name": "nHUSD",
+  "website": "",
+  "description": "",
+  "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x03d1e72765545729a035e909edd9371a405f77fb",
+  "type": "KIP20",
+  "symbol": "HUSD",
+  "decimals": 8,
+  "status": "active",
+  "id": "0x03d1e72765545729a035e909edd9371a405f77fb"
+}

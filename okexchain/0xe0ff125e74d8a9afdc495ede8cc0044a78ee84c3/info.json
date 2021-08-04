@@ -1,0 +1,11 @@
+{
+  "name": "nHT",
+  "website": "",
+  "description": "",
+  "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xe0ff125e74d8a9afdc495ede8cc0044a78ee84c3",
+  "type": "KIP20",
+  "symbol": "HT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe0ff125e74d8a9afdc495ede8cc0044a78ee84c3"
+}

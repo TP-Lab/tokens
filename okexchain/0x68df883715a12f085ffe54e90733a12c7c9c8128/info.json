@@ -1,0 +1,11 @@
+{
+  "name": "NABOX",
+  "website": "https://nabox.io",
+  "description": "",
+  "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x68df883715a12f085ffe54e90733a12c7c9c8128",
+  "type": "KIP20",
+  "symbol": "NABOX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x68df883715a12f085ffe54e90733a12c7c9c8128"
+}

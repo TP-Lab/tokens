@@ -1,0 +1,11 @@
+{
+  "name": "NULS",
+  "website": "https://nuls.io",
+  "description": "",
+  "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x8cd6e29d3686d24d3c2018cee54621ea0f89313b",
+  "type": "KIP20",
+  "symbol": "NULS",
+  "decimals": 8,
+  "status": "active",
+  "id": "0x8cd6e29d3686d24d3c2018cee54621ea0f89313b"
+}
