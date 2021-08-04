@@ -1,0 +1,11 @@
+{
+ "name": "Blue Moon Token",
+ "website": "https://bluemoontoken.space/",
+ "description": "BlueMoon是从头开始设计的去中心化的代币，是互联网级协议和应用程序的基础，愿景是在未来每个人都能上太空。",
+ "explorer": "https://www.oklink.com/okexchain/address/0x05f5652F9768EAaf3c158BC9584D0784EdF8671D",
+ "type": "KIP20",
+ "symbol": "BlueMoon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x05f5652F9768EAaf3c158BC9584D0784EdF8671D"
+}
