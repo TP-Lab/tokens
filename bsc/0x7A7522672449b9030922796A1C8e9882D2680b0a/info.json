@@ -1,0 +1,11 @@
+{
+ "name": "DPN",
+ "website": "https://www.dpn.com",
+ "description": "A very good project",
+ "explorer": "https://bscscan.com/token/0x7A7522672449b9030922796A1C8e9882D2680b0a",
+ "type": "BEP20",
+ "symbol": "DPN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7A7522672449b9030922796A1C8e9882D2680b0a"
+}

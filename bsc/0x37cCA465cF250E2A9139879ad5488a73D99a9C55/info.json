@@ -1,0 +1,11 @@
+{
+ "name": "SIMBA",
+ "website": "https://simbachain.com",
+ "description": "SIMBA Chain enables organizations to monetize and unlock the hidden value of their physical and digital assets through smart contracts and Non-Fungible Tokens (NFTs).",
+ "explorer": "https://bscscan.com/token/0x37cCA465cF250E2A9139879ad5488a73D99a9C55",
+ "type": "BEP20",
+ "symbol": "SIM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x37cCA465cF250E2A9139879ad5488a73D99a9C55"
+}

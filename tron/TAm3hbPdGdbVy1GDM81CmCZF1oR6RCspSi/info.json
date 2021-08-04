@@ -1,0 +1,11 @@
+{
+ "name": "LJ",
+ "website": "LJ.com",
+ "description": "亮剑",
+ "explorer": "https://tronscan.io/#/contract/TAm3hbPdGdbVy1GDM81CmCZF1oR6RCspSi",
+ "type": "TRC20",
+ "symbol": "LJ",
+ "decimals": 18,
+ "status": "active",
+ "id": "TAm3hbPdGdbVy1GDM81CmCZF1oR6RCspSi"
+}

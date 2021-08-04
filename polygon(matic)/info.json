@@ -1,0 +1,11 @@
+{
+ "name": "Dreamdoge",
+ "website": "https://www.houndcoin.net",
+ "description": "Dreamdoge uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://polygonscan.com/token/0xe68ff461C0392A86DF024B70b66AAeDC2dDe39E7",
+ "type": "polygon",
+ "symbol": "Dreamdoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe68ff461C0392A86DF024B70b66AAeDC2dDe39E7"
+}

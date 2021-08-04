@@ -1,0 +1,11 @@
+{
+ "name": "GYL Token",
+ "website": "www.baidu.com",
+ "description": "The total number is 21 million",
+"explorer": "https://tronscan.io/#/token20/TU7HG334bDcpussoXkYHbaXAcvhamEarr1",
+ "type": "TRC20",
+ "symbol": "GYL",
+ "decimals": 6,
+ "status": "active",
+ "id": "TU7HG334bDcpussoXkYHbaXAcvhamEarr1"
+}

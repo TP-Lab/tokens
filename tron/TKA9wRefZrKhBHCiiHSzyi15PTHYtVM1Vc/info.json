@@ -1,0 +1,11 @@
+{
+ "name": "SWAN",
+ "website": "https://swan.com",
+ "description": "shequzizhiswan",
+ "explorer": "https://tronscan.io/#/contract/TKA9wRefZrKhBHCiiHSzyi15PTHYtVM1Vc/events",
+ "type": "TRC20",
+ "symbol": "SWAN",
+ "decimals": 18,
+ "status": "active",
+ "id": "TKA9wRefZrKhBHCiiHSzyi15PTHYtVM1Vc"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "CrazyRabbit",
+ "website": "-",
+ "description": "Lucky rabbit.",
+ "explorer": "https://bscscan.com/address/0xd80efc01f8faecb58385f41b37f4751f71afa1cd",
+ "type": "BEP20",
+ "symbol": "CrazyRabbit",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd80EfC01f8faEcb58385f41B37f4751f71AfA1Cd"
+}

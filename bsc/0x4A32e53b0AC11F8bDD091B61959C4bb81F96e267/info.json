@@ -1,0 +1,11 @@
+{
+ "name": "Bzzb",
+ "website": "https://pangolinswap.net",
+ "description": "Bzzb Good",
+ "explorer": "https://bscscan.com/token/0x4A32e53b0AC11F8bDD091B61959C4bb81F96e267",
+ "type": "BEP20",
+ "symbol": "Bzzb",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4A32e53b0AC11F8bDD091B61959C4bb81F96e267"
+}

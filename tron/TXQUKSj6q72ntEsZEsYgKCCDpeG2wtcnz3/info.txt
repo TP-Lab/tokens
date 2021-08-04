@@ -1,0 +1,11 @@
+{
+ "name": "RICH Token",
+ "website": "https://tronscan.io/",
+ "description": "RICH（大富翁）是完全去中心化的DeFi项目，基于波场链，分布式流动，使用DAO模式可以打造每一个人 的区块链名片，可以用于区块链交易里面的金融体系搭建，RICH协议发行的可流通全球的加密数字货币，由RICH生态成员共同创造的唯一价值通证。通过RICH代币，RICH生态系统将权益合理分配给社区 (包括投资者、用户等参与者)，实现价值互联，达到互利互赢.",
+ "explorer": "https://tronscan.io/#/token20/TXQUKSj6q72ntEsZEsYgKCCDpeG2wtcnz3",
+ "type": "TRC20",
+ "symbol": "RICH",
+ "decimals": 6,
+ "status": "active",
+ "id": "TXQUKSj6q72ntEsZEsYgKCCDpeG2wtcnz3"
+}

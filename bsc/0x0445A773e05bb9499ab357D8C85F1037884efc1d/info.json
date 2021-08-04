@@ -1,0 +1,11 @@
+{
+ "name": "LAISEN",
+ "website": "https://www.LAISEN.com",
+ "description": "LAISEN",
+ "explorer": "https://bscscan.com/token/0x0445A773e05bb9499ab357D8C85F1037884efc1d",
+ "type": "BEP20",
+ "symbol": "LAISEN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0445A773e05bb9499ab357D8C85F1037884efc1d"
+}

@@ -1,0 +1,11 @@
+{ 
+  "name": "CFT", 
+  "website": "https://tronscan.io/", 
+  "description": "CFT是基于波场生态链发行的通缩型分红代币，永不增发，未来价值巨大", 
+  "explorer": "https://tronscan.io/#/token20/TPgM9shurzup2zPJLVa53ZqeX4djjGSPax", 
+  "type": "TRC20", 
+  "symbol": "CFT", 
+  "decimals": 6, 
+  "status": "active", 
+  "id": "TPgM9shurzup2zPJLVa53ZqeX4djjGSPax" 
+  } 

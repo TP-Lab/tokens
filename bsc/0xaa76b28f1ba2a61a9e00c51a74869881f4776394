@@ -1,0 +1,10 @@
+{
+ "name": "TIGER COIN",
+ "website": "https://tokenpocket.pro",
+ "explorer": "https://bscscan.com/token/0xaa76b28f1ba2a61a9e00c51a74869881f4776394",
+ "type": "BEP20",
+ "symbol": "TGE",
+ "decimals": 18,
+ "status": "-",
+ "id": "0xaa76b28f1ba2a61a9e00c51a74869881f4776394"
+}

@@ -1,0 +1,9 @@
+"name": "Private coin",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x9507D1EABAceD780512B6C174a40905E19937ccd",
+ "type": "HRC-20",
+ "symbol": "P",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9507D1EABAceD780512B6C174a40905E19937ccd"

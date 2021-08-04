@@ -1,0 +1,11 @@
+{
+ "name": "NEKO",
+ "website": "-",
+ "description": "The Neko token is a 100% decentralized community experiment, inspired by Elon Musk and Doge.",
+ "explorer": "https://bscscan.com/token/0x9d58814C0D1C3958554542B7f6b319A2E81018E6",
+ "type": "BEP20",
+ "symbol": "NEKO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9d58814C0D1C3958554542B7f6b319A2E81018E6"
+}

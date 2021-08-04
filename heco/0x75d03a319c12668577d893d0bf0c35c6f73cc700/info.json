@@ -1,0 +1,11 @@
+{
+    "name":"CrownCoin",
+    "website":"-",
+    "description":"CrownCoin is a token which used for incentive and community development.",
+    "explorer":"https://hecoinfo.com/token/0x75d03a319c12668577d893d0bf0c35c6f73cc700",
+    "type":"HRC-20",
+    "symbol":"CrownCoin",
+    "decimals":9,
+    "status":"active",
+    "id":"0x75d03a319c12668577d893d0bf0c35c6f73cc700"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "WHALE",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+ "type": "HECO",
+ "symbol": "WHALE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2DFB9550DeE1F058B52baa31551982E40abdce80"
+}

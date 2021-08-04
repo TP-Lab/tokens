@@ -1,0 +1,11 @@
+{
+ "name": "Gold Seed Coin",
+ "website": "https://goldseedcoin.cc",
+ "description": "Best Gold Seed Coin",
+ "explorer": "https://bscscan.com/token/0x3FEb0Eb253AbD38694E2E162c9BFB96C874Aa66d",
+ "type": "BEP20",
+ "symbol": "GSC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3FEb0Eb253AbD38694E2E162c9BFB96C874Aa66d"
+}

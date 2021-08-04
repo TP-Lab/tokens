@@ -1,0 +1,11 @@
+{
+ "name": "Pokkadoge",
+ "website": "http://www.pokkadoge.top",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xd6Aa0b4492e88b2AB062a2433D2F2b742110e0c5",
+ "type": "BEP20",
+ "symbol": "POkADOGE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd6Aa0b4492e88b2AB062a2433D2F2b742110e0c5"
+}

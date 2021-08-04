@@ -1,0 +1,11 @@
+{
+ "name": "Olympic Dog",
+ "website": "https://olympicdog.xyz",
+ "description": "Olympic Dog is a fans group which like to sport and make the earth being better.",
+ "explorer": "https://bscscan.com/token/0x4FB7860D85bE45D320e975e969612F3D0fADe36E",
+ "type": "BEP20",
+ "symbol": "OlympicDog",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4FB7860D85bE45D320e975e969612F3D0fADe36E"
+}

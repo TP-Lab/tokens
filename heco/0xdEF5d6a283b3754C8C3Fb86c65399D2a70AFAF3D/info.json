@@ -1,0 +1,11 @@
+{
+ "name": "tso token",
+ "website": "http://tso-coin.com/",
+ "description": " Financial tokens based on the heco chain are used to solve the point-to-point trust problem between finances",
+ "explorer": "https://hecoinfo.com/token/0xdef5d6a283b3754c8c3fb86c65399d2a70afaf3d",
+ "type": "HRC20",
+ "symbol": "TSO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdEF5d6a283b3754C8C3Fb86c65399D2a70AFAF3D"
+}

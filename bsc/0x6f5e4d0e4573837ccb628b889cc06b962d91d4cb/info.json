@@ -1,0 +1,11 @@
+{
+ "name": "EFINITY TOKEN",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/address/0x6f5e4d0e4573837ccb628b889cc06b962d91d4cb",
+ "type": "BEP20",
+ "symbol": "EFI",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x6f5e4d0e4573837ccb628b889cc06b962d91d4cb"
+}

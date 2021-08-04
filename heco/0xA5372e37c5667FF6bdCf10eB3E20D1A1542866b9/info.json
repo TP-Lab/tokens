@@ -1,0 +1,11 @@
+{
+ "name": "ADV Token",
+ "website": "-",
+ "description": "ADV Token",
+ "explorer": "https://hecoinfo.com/token/0xA5372e37c5667FF6bdCf10eB3E20D1A1542866b9",
+ "type": "HRC-20",
+ "symbol": "ADV",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xA5372e37c5667FF6bdCf10eB3E20D1A1542866b9"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Tianxia credit assets",
+ "website": "http://www.txiaca.com/",
+ "description": "TXCA(Tianxia credit assets)是由TXCA团队天下大数据计算平台主导开发的一种基于区块链智能合约平台，TXCA具有内置的经济激励机制，适用于在线支付购物，建立新共识构建智能信任社会，容纳无限个体，旨在创建更可靠的信用评估工具。",
+ "explorer": "https://hecoinfo.com/token/0x243AA4864D78C63817DDE1F3dDA83F1Ea4653340",
+ "type": "HRC-20",
+ "symbol": "TXCA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x243AA4864D78C63817DDE1F3dDA83F1Ea4653340"
+} 

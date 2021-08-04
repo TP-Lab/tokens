@@ -1,0 +1,11 @@
+{
+ "name": "Virtual Reality",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/token/0x65aBbe127C6C9E97750a3c73C286f16c1b0421C6",
+ "type": "HECO",
+ "symbol": "VR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x65aBbe127C6C9E97750a3c73C286f16c1b0421C6"
+}

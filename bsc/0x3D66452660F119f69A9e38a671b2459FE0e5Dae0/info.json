@@ -1,0 +1,11 @@
+{
+ "name": "MSKE",
+ "website": "无",
+ "description": "MSKE是基于币安发行的代币，永不增发，未来价值巨大",
+ "explorer": "https://bscscan.com/token/0x3d66452660f119f69a9e38a671b2459fe0e5dae0",
+ "type": "BSC20",
+ "symbol": "MSKE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3D66452660F119f69A9e38a671b2459FE0e5Dae0"
+}
