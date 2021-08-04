@@ -1,0 +1,11 @@
+{
+ "name": "Ethereum Standard Hashrate Token",
+ "website": "https://ethst.io",
+ "description": "ETHST is the first global perpetual Ethereum standard hashrate token, a hashrate token that anchors the mining power of Ethereum.",
+ "explorer": "https://bscscan.com/token/0xEAa2baDD888324100669481E46d2329796531EF1",
+ "type": "BEP20",
+ "symbol": "ETHST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEAa2baDD888324100669481E46d2329796531EF1"
+}
