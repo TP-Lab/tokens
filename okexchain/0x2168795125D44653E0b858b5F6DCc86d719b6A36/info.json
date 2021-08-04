@@ -1,0 +1,11 @@
+{
+ "name": "KoalaToken",
+ "website": "https://www.koalafinance.net/",
+ "description": "Koala Finance is the first leveraged yield farm protocol based on the OKExChain. We are an international, democratic, free and fair project. In terms of token distribution, 90% of tokens are produced by mining,It is a project for wealth growth that can truly realize the equality of all participants.",
+ "explorer": "https://www.oklink.com/okexchain/address/0x2168795125d44653e0b858b5f6dcc86d719b6a36",
+ "type": "KIP20",
+ "symbol": "KOA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2168795125D44653E0b858b5F6DCc86d719b6A36"
+}
