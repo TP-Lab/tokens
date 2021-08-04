@@ -1,0 +1,11 @@
+{
+ "name": "CHECOIN Token",
+ "website": "https://launch.checoin.finance/",
+ "description": "CheCoin is the PASSIVE INCOME COIN (every hour, holders get FREE BNB on their wallet automatically)..",
+ "explorer": "https://bscscan.com/address/0x54626300818e5c5b44db0fcf45ba4943ca89a9e2",
+ "type": "BEP20",
+ "symbol": "CHECOIN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x54626300818E5C5b44Db0fcf45Ba4943CA89A9e2"
+}
