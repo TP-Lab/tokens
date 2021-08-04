@@ -1,0 +1,11 @@
+{
+    "name": "Space Games Coin",
+    "website": "http://www.spacegamecoin.com/",
+    "description": "Space Games Coin ($SGSC) is a decentralized game Coin. ",
+    "explorer": "https://bscscan.com/token/0x59d87ee7d31fc3309ab147140c0bdb0d8ae243df",
+    "type": "BEP20",
+    "symbol": "SGSC",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x59d87ee7d31fc3309ab147140c0bdb0d8ae243df"
+   } 
