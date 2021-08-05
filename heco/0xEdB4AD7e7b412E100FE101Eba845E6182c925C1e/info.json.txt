@@ -1,0 +1,11 @@
+{
+    "name":"HuobiMoon",
+    "website":"-",
+    "description":"HBMoon is a token on Huobi Eco(HECO) Chain boasting a number of impressive features.",
+    "explorer":"https://hecoinfo.com/token/0xEdB4AD7e7b412E100FE101Eba845E6182c925C1e",
+    "type":"HECO",
+    "symbol":"HBMoon",
+    "decimals":18,
+    "status":"active",
+    "id":"0xEdB4AD7e7b412E100FE101Eba845E6182c925C1e"
+}
