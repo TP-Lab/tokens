@@ -1,0 +1,9 @@
+{
+  "name": "KOI",
+  "website": "http://koiceo.com",
+  "description": "KOI将会聚合该七大类目，打造全球 领 先的专业NFT智能合约聚合平台， 支持 ERC20、721和1155资产协 议，使用 Stark Exchange交易引擎， 架构以太坊 Layer2资产流通模块，满足用户购买、 出售、拍卖NFT流通需 求，以添加NFT及 数字资产流动性的 方式提供NFT流动性 挖矿需求。",
+  "explorer": "https://bscscan.com/token/0x2e43D0ECF69d05d134E6d166709DBbb6716D51d1",
+  "type": "BEP20",
+  "decimals": 16,
+  "id": "0x2e43D0ECF69d05d134E6d166709DBbb6716D51d1"
+}
