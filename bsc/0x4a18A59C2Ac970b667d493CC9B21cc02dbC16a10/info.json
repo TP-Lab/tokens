@@ -1,0 +1,11 @@
+ {
+  "name": "Good Doge Token",
+  "website": "http://gooddoge.co/",
+  "description": "Good-Dogecoin is a completely decentralized, platform-publishing, community-autonomous token distributed on BSC.",
+  "explorer": "https://bscscan.com/address/0x4a18A59C2Ac970b667d493CC9B21cc02dbC16a10",
+  "type": "BEP20",
+  "symbol": "Good Doge",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x4a18A59C2Ac970b667d493CC9B21cc02dbC16a10"
+}	 
