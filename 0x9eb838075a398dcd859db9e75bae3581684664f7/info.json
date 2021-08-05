@@ -1,0 +1,11 @@
+{
+ "name": "Honey Badger",
+ "website": "https://hbctoken.com",
+ "description": "The Honey Badger(HBC) project is a multi-ecological project that integrates multiple applications.",
+ "explorer": "https://bscscan.com/token/0x9eb838075a398dcd859db9e75bae3581684664f7",
+ "type": "BEP20",
+ "symbol": "HBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9eb838075a398dcd859db9e75bae3581684664f7"
+}
