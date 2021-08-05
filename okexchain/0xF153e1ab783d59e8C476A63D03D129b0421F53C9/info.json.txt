@@ -1,0 +1,11 @@
+{
+ "name": "PNDBET",
+ "website": "https://pndbet.info/",
+ "description": "Pandaren Rise of Pandas bet on high-quality burning tokens",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/ex179f7r2mc84v733rk5c7s85ffkppp757fdh2eem",
+ "type": "KIP20",
+ "symbol": "PNDBET",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xF153e1ab783d59e8C476A63D03D129b0421F53C9"
+}
