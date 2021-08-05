@@ -1,0 +1,11 @@
+{
+ "name": "BDMChain",
+ "website": "https://wwwbdmchain.com",
+ "description": "BDM is a new generation of economic model to solve distributed financial ecological governance",
+ "explorer": "https://classic.tronscan.io/#/contract/TXFLChdviajbgZuWpQ3j56PaKBckY2DgC8",
+ "type": "TRC20",
+ "symbol": "BDM",
+ "decimals": 6,
+ "status": "active",
+ "id": "TXFLChdviajbgZuWpQ3j56PaKBckY2DgC8"
+}
