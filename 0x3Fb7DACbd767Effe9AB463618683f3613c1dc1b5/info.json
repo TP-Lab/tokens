@@ -1,0 +1,11 @@
+{
+ "name": "IntelligentDogeCoin",
+ "website": "https://www.intelligentdoge.com/",
+ "description": "Intelligent Doge is a hyper-deflationary token, which rewards investors for holding tokens, while also incorporating the Buyback approach  currently present in the stock market.",
+ "explorer": "https://bscscan.com/token/0x3Fb7DACbd767Effe9AB463618683f3613c1dc1b5",
+ "type": "BEP20",
+ "symbol": " IDOGE ",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3Fb7DACbd767Effe9AB463618683f3613c1dc1b5"
+}
