@@ -1,0 +1,11 @@
+{
+ "name": "OKDoge Token",
+ "website": "https://okdogetoken.com/",
+ "description": "",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xEB9fB08f359f13e1AB0A871D543e3b773aACaA68",
+ "type": "KIP20",
+ "symbol": "OKDoge",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xEB9fB08f359f13e1AB0A871D543e3b773aACaA68"
+}
