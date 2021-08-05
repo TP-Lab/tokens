@@ -1,0 +1,11 @@
+{
+    "name":"YKA",
+    "website":"https://mdex.co",
+    "description":"Yka is used for the equity pass of DEX exchange. Holding the pass can enjoy the ecological income dividend of the exchange",
+  "explorer":"https://mdex.co/token/0xe2430a856fdc5ed16d0d52e4a41e0064f2179bd5",
+    "type":"TRC20",
+    "symbol":"YKA",
+    "decimals":18,
+    "status":"active",
+    "id":"0xe2430a856fdc5ed16d0d52e4a41e0064f2179bd5"
+}
