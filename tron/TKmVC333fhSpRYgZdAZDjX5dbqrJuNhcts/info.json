@@ -1,0 +1,11 @@
+{
+ "name": "Ready Player One",
+ "website": "无",
+ "description": "RPO头号玩家是以全球知名公链波场TRON底层技术为支持，用户可以通过给平台的聚合流动性池提供流动性来获得此代币。头号玩家是一个去中心化金融（DeFi）平台，旨在建立聚合流动性池、聚合理财、交易挖矿、自动做市等集合生态。共同构建一个开放共享、自由创新、去中心化的生态体系，持有者将拥有投票、分润、参与等权益。",
+ "explorer": "https://tronscan.io/#/token20/TKmVC333fhSpRYgZdAZDjX5dbqrJuNhcts",
+ "type": "TRC20",
+ "symbol": "RPO",
+ "decimals": 18,
+ "status": "active",
+ "id": "TKmVC333fhSpRYgZdAZDjX5dbqrJuNhcts"
+}
