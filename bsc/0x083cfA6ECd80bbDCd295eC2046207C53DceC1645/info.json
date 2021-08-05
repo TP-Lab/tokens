@@ -1,0 +1,11 @@
+{
+“name”:“Punk-BSC”,
+“website”:“https://www.punk.network”,
+“description”:“Punk.Network is a high-performance NFT-Friendly mainnet based on the Substrate architecture with NPoS (Nominated Proof of Stakes) as the consensus mechanism, which can accommodate a wide range of asset types, a large number of transactions and various type of smart contracts.”
+“explorer”:“https://www.bscscan.com/token/0x083cfa6ecd80bbdcd295ec2046207c53dcec1645”,
+“type”:“BEP20”,
+“symbol”:“Punk”,
+“decimals”:“18”,
+“status”:“active”,
+“id”:“0x083cfa6ecd80bbdcd295ec2046207c53dcec1645”
+}
