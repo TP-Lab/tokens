@@ -1,0 +1,21 @@
+{
+
+ "name": "PIYOU TOKEN",
+
+ "website": "http://piyoucoin.com",
+
+ "description": "该项目是由pi币初始核心推广团队联合发行的币，增加pi币的同代币，两个币相辅相成，都一起上涨.",
+
+ "explorer": "https://bscscan.com/token/0x1EC51A4A06F7e6a89284A4234004f3cbE42061A1",
+
+ "type": "BEP20",
+
+ "symbol": "πu",
+
+ "decimals": 9,
+
+ "status": "active",
+
+ "id": "0x1EC51A4A06F7e6a89284A4234004f3cbE42061A1"
+
+}
