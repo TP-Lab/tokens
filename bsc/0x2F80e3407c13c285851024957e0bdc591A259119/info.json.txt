@@ -1,0 +1,9 @@
+"name": "Ares Doge",
+ "website": "https://www.aresdoge.finance",
+ "description": " Build a liquid community where members get income and assets are protected",
+ "explorer": "https://bscscan.com/token/0x2f80e3407c13c285851024957e0bdc591a259119",
+ "type": "BEP20",
+ "symbol": "AresDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2f80e3407c13c285851024957e0bdc591a259119
