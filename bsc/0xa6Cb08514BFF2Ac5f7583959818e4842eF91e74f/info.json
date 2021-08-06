@@ -1,0 +1,38 @@
+{
+    "name": "Turtle Finance", 
+    "website": "https://www.tre.finance/", 
+    "short_description": "TRE is the Turtle Finance platform governance token, which can be used for community voting and revenue acceleration.", 
+    "description": "Turtle Finance is a decentralized, automatic and multichain smart trading platform. TRE is the Turtle Finance platform governance token, which can be used for community voting and revenue acceleration. It connects professional trading strategists and amateur traders. Experienced strategists can upload their strategy to Turtle Finance and gain profit from it. On the other hand, the amateur traders provide their funds, and they can directly use these strategies to earn more with their tokens! Turtle finance can do arbitrage between different DEXs at the same time. Arbitrage opportunities will not exist all the time. When that happens, Turtle Finance will invest idle funds into safe and stable mining pools with a high return rate to earn interest for users.", 
+    "type": "BEP20", 
+    "symbol": "TRE", 
+    "decimals": 18, 
+    "status": "active", 
+    "id": "0xa6Cb08514BFF2Ac5f7583959818e4842eF91e74f", 
+    "socials": [
+        {
+            "name": "Twitter", 
+            "url": "https://twitter.com/Turtle_Finance_"
+        }, 
+        {
+            "name": "Medium", 
+            "url": "https://medium.com/@turtlefinanceplatform/"
+        }, 
+        {
+            "name": "Telegram", 
+            "url": "https://t.me/TurtleFinanceGroup"
+        }, 
+        {
+            "name": "Reddit", 
+            "url": "https://www.reddit.com/user/Trefinance"
+        }, 
+        {
+            "name": "Discord", 
+            "url": "https://discord.gg/V7z2jR4E5g"
+        }, 
+        {
+            "name": "CoinMarketCap", 
+            "url": "https://coinmarketcap.com/currencies/turtle-finance/"
+        }
+    ], 
+    "explorer": "https://bscscan.com/address/0xa6Cb08514BFF2Ac5f7583959818e4842eF91e74f"
+}
