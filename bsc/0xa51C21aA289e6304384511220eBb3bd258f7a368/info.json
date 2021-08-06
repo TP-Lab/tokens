@@ -1,0 +1,11 @@
+{
+ "name": "Forte",
+ "website": "https://www.fortes.life",
+ "description": "Forte combines the NFT ecological sector to integrate blockchain technology into the game, so that players can own digital goods and currencies and trade with each other, real property rights, players and publishers can benefit from it.  Its incentive system is the concept of meta-universe, earning tokens through games to obtain rewards, creating a playable and profitable blockchain system",
+ "explorer": "https://bscscan.com/token/0xa51C21aA289e6304384511220eBb3bd258f7a368",
+ "type": "BEP20",
+ "symbol": "Forte",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa51C21aA289e6304384511220eBb3bd258f7a368"
+}
