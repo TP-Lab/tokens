@@ -1,0 +1,11 @@
+{
+ "name": "Super Pomer",
+ "website": "https://superpomer.finance/",
+ "description": "Super Pomer is a community-focused, completely decentralized cryptocurrency with instant rewards thanks to active users!",
+ "explorer": "https://bscscan.com/token/0x2a1d5f7a253505124764d6684feb4e307a98601b",
+ "type": "BEP20",
+ "symbol": "SPMR",
+ "decimals": "9",
+ "status": "active",
+ "id": "0x2a1d5f7a253505124764d6684feb4e307a98601b"
+}
