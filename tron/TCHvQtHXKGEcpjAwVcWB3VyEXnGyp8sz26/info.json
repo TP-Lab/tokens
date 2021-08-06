@@ -1,0 +1,11 @@
+{
+ "name": "OAC Token",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://tronscan.io/#/token20/TCHvQtHXKGEcpjAwVcWB3VyEXnGyp8sz26",
+ "type": "TRC20",
+ "symbol": "OAC",
+ "decimals": 6,
+ "status": "active",
+ "id": "TCHvQtHXKGEcpjAwVcWB3VyEXnGyp8sz26"
+}
