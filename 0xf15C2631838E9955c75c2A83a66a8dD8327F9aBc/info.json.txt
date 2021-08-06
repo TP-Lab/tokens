@@ -1,0 +1,12 @@
+{
+"name": "wuxingtongzheng",
+"website": "无",
+"description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+"explorer": "https://hecoinfo.com/token/0xf15c2631838e9955c75c2a83a66a8dd8327f9abc",
+"type": "HRC-20",
+"symbol": "WXTZ",
+"decimals": 0,
+"status": "active",
+"id": "0xf15c2631838e9955c75c2a83a66a8dd8327f9abc",
+"
+}
