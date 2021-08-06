@@ -1,0 +1,12 @@
+{
+ "name": "Cheese Token",
+ "website": "https://cheesecoin.com/",
+ "description": "There is no project party, everyone holds $Cheese Are its owners.
+",
+ "explorer": "https://bscscan.com/token/0x99028c983F02a937E88c2f25Bf1606efeAa05c16",
+ "type": "BEP20",
+ "symbol": "CHE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x99028c983F02a937E88c2f25Bf1606efeAa05c16"
+}	
