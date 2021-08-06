@@ -1,7 +1,7 @@
 {
  "name": "SHARE Token",
- "website": "https://tronscan.io/#/share%20token.cn",
- "description": "×ÜÁ¿13413£¬ÓÀ²»Ôö·¢",
+ "website": "https://tronscan.io/#/share token.cn",
+ "description": "æ€»é‡13413ï¼Œæ°¸ä¸å¢å‘.",
  "explorer": "https://tronscan.io/#/token20/TENuNiBLAorxm32G7AXbESPxgZSsm4Bifn
 
 ",
@@ -10,6 +10,5 @@
  "decimals": 6,
  "status": "active",
  "id": "TENuNiBLAorxm32G7AXbESPxgZSsm4Bifn
-
 "
 }
