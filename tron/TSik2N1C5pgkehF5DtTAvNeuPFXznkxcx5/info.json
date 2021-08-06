@@ -1,0 +1,11 @@
+{
+  "name": "MineralVirtualSpace",
+  "website": "https://app.mvszone.com/",
+  "description": "MVS是一个开源创新的区块链存储设施，专注于数据库和云服务，由硅谷顶级的区块链密码学天才帕-尤金联合多位顶级的计算机科学家提出，通过加密和一系列分散的应用程序，允许用户以安全和分散的方式存储数据",
+  "explorer": "https://tronscan.io/#/contract/TSik2N1C5pgkehF5DtTAvNeuPFXznkxcx5",
+  "type": "BEP20",
+  "symbol": "MVS",
+  "decimals": 18,
+  "status": "active",
+  "id": "TSik2N1C5pgkehF5DtTAvNeuPFXznkxcx5"
+}
