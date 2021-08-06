@@ -1,0 +1,11 @@
+{
+ "name": "World Finance Coin",
+ "website": "https://wfex.finance",
+ "description": "Decentralized exchanges",
+ "explorer": "https://bscscan.com/token/0x471C87D83c7bd296fcD849266C01eE7f692574F6",
+ "type": "BEP20",
+ "symbol": "WFC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x471C87D83c7bd296fcD849266C01eE7f692574F6"
+}
