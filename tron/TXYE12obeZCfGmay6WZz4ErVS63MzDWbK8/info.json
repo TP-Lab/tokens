@@ -1,0 +1,11 @@
+{
+ "name": "Grateful Action Foundation",
+ "website": "https://www.gaf-token.net",
+ "description": "GAF即Grateful Action Foundation，总发行量1亿，永不增发，阶段性燃烧50%，5千万用于流通市场，GAF打造公益数据公开透明，不可篡改的目的，从而实现公益的创新改革",
+ "explorer": "https://tronscan.io/#/token20/TXYE12obeZCfGmay6WZz4ErVS63MzDWbK8",
+ "type": "TRC20",
+ "symbol": "GAF",
+ "decimals": 6,
+ "status": "active",
+ "id": "TXYE12obeZCfGmay6WZz4ErVS63MzDWbK8"
+}
