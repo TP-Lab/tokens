@@ -1,0 +1,12 @@
+{
+"name": "wuxingtongzheng",
+"website": "无",
+"description": "解决全球数字贸易经济时代下各平台之间多年以来难以转换和流通变现的问题.",
+"explorer": "https://hecoinfo.com/token/0xf15c2631838e9955c75c2a83a66a8dd8327f9abc",
+"type": "HRC-20",
+"symbol": "WXTZ",
+"decimals": 0,
+"status": "active",
+"id": "0xf15c2631838e9955c75c2a83a66a8dd8327f9abc",
+"
+}
