@@ -1,0 +1,11 @@
+{
+ "name": "baby",
+ "website": "https://www.babybnb",
+ "description": "It is jointly created by the top ten communities + the local push team to create a completely decentralized DeFi project that will never increase issuance. Baby Binance is a distributed flow and is operated by the community..",
+ "explorer": "https://bscscan.com/token/0x47ca75b98b0cf0136f99B4E81778C4F59343923c",
+ "type": "BEP20",
+ "symbol": "babynbn",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x47ca75b98b0cf0136f99B4E81778C4F59343923c"
+}
