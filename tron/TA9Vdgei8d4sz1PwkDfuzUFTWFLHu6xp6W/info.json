@@ -1,0 +1,11 @@
+{
+ "name": "DHF",
+ "website": "https://www.dhf.today",
+ "description": "DHF是一个支持任意资产的去中心化永续合约协议，通过虚拟自动化做市商来实现的。通过交易者可以在无需对手方的情况下直接通过DHF进行交易。 通过DHF，如果一个资产在链上有其价格数据-永远数据 Protocol都可以将其创建创建属于该资产的永续合约。DHF是平台的原生功能型代币，并有以下两个用途： 治理：代币持有人投票决定下一个要上架的资产。 质押：代币持有人获得抵押奖励和部分的交易手续费。",
+ "explorer": "https://tronscan.io/#/token20/TA9Vdgei8d4sz1PwkDfuzUFTWFLHu6xp6W",
+ "type": "TRON20",
+ "symbol": "DHF",
+ "decimals": 18,
+ "status": "active",
+ "id": "TA9Vdgei8d4sz1PwkDfuzUFTWFLHu6xp6W"
+}
