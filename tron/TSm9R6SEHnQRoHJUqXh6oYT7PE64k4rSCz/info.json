@@ -1,0 +1,11 @@
+{
+ "name": "BIGBIT",
+ "website": "http://www.bgbswap.com",
+ "description": "BGB tokens have many scenarios, circulate in the whole market, no reserved coins, no technical fees, 100% open source data on the chain, contract token security audit, openness, transparency, safety and reliability, strong core consensus, create a new community self-care, open a new enabling of defi mechanism, and launch bgbswap + bgamefi to open the next era, OKExChain, HSC and so on.",
+ "explorer": "https://tronscan.io/#/token20/TSm9R6SEHnQRoHJUqXh6oYT7PE64k4rSCz",
+ "type": "TRC20",
+ "symbol": "BGB",
+ "decimals": 18,
+ "status": "active",
+ "id": "TSm9R6SEHnQRoHJUqXh6oYT7PE64k4rSCz"
+}
