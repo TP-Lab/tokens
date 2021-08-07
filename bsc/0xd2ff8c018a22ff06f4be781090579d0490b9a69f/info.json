@@ -1,0 +1,12 @@
+{
+ "name": “iNFT”,
+ "website": "https://inft.io",
+ "description": " 
+iNFT is the world's leading NFT asset trading platform, with the widest range of NFT asset categories. iNFT supports mainstream public chains, such as Ethereum and BSC. ",
+ "explorer": "https://bscscan.com/token/0xd2ff8c018a22ff06f4be781090579d0490b9a69f",
+ "type": "BEP20",
+ "symbol": " INFT ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd2ff8c018a22ff06f4be781090579d0490b9a69f"
+}
