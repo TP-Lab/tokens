@@ -1,0 +1,11 @@
+{
+ "name": "BTCB TEST Token",
+ "website": "https://abc.com",
+ "description": "JUST A TEST TOKEN.",
+ "explorer": "https://bscscan.com/token/0x0c0da04cddcdbdd7242c32e04fb6eb5229e70bcb",
+ "type": "BEP20",
+ "symbol": "BTCB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0C0dA04CDDcdbDd7242C32e04FB6Eb5229e70bCB"
+}
