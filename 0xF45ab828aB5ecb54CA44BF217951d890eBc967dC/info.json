@@ -1,0 +1,11 @@
+{
+    "name": "THEKINGOFFIGHTERS",
+    "website": "http://www.kingoffighters.cc",
+    "description": "we are THEKINGOFFIGHTERS.",
+    "explorer": "https://bscscan.com/token/0xF45ab828aB5ecb54CA44BF217951d890eBc967dC",
+    "type": "BEP20",
+    "symbol": "KOF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF45ab828aB5ecb54CA44BF217951d890eBc967dC"
+   }
