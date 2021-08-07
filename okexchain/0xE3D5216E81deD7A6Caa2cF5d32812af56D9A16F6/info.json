@@ -1,0 +1,11 @@
+{
+ "name": "LeeChee",
+ "website": "http://www.leechee.io",
+ "description": "LeeChee is a token on the OkChain that offers features like auto burns, auto-liquidity generating mechanism, and static rewards on every transaction.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xe3d5216e81ded7a6caa2cf5d32812af56d9a16f6",
+ "type": "KIP20",
+ "symbol": "LCC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xE3D5216E81deD7A6Caa2cF5d32812af56D9A16F6"
+}
