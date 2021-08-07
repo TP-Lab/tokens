@@ -1,11 +1,11 @@
 {
- "name": "GART",
- "website": "https://griffinart.finance/",
- "description": "第一个专业#NFT由具有回购功能的代币提供支持的平台。灵感来自神话英雄格里芬",
- "explorer": "https://bscscan.com/token/0xd1ECFDD45c49057479c4Ca95E045855370bC4F5B",
- "type": "BEP20",
- "symbol": "GART",
- "decimals": 9,
- "status": "active",
- "id": "0xd1ECFDD45c49057479c4Ca95E045855370bC4F5B"
+ “名称”： “ GART ”，
+ “网站”： “ https://griffinart.finance/ ”，
+ 《描述》： “第一个专业#NFT由具有魔术功能的币提供支持的平台。来自代神话英雄格里芬”，
+ “资源管理器”： “ https://bscscan.com/token/0xd1ECFDD45c49057479c4Ca95E045855370bC4F5B ”，
+ “类型”： “ BEP20 ”，
+ “符号”： “ GART ”，
+ "小数" : 9 ,
+ “状态”： “活动”，
+ “ id ”： “ 0xd1ECFDD45c49057479c4Ca95E045855370bC4F5B ”
 }
