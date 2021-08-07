@@ -1,0 +1,11 @@
+{
+ "name": "Air coin",
+ "website": "https://discord.com/channels/827376475211563078/857934405635670037",
+ "description": "Air coin is a decentralized token built by smart contract, which will allow anonymous users to P2P trade cryptocurrency without intermediaries or regulators. It acts as an automatic hosting service, and automatically collects transaction fees to add liquidity, allowing both parties to trade safely on the coin security intelligent chain.",
+ "explorer": "https://bscscan.com/token/0x80ee41695c19921454f63f8ba06d16dda7ebb694",
+ "type": "BEP20",
+ "symbol": "AIR",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x80ee41695c19921454f63f8ba06d16dda7ebb694"
+}
