@@ -1,0 +1,11 @@
+{
+    "name": "MicroSHIBA",
+    "website": "https://www.microshiba.net/",
+    "description": "MicroSHIBA combines the best of both worlds with its unique tokenomics in the DeFi space.",
+    "explorer": "https://bscscan.com/address/0xb78e41AE7fc8121978168557bB096e1A858be2Ea",
+    "type": "BEP20",
+    "symbol": "MicroSHIB",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xb78e41AE7fc8121978168557bB096e1A858be2Ea"
+}
