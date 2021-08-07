@@ -1,0 +1,11 @@
+{
+ "name": "Felinae Token",
+ "website": "",
+ "description": "Felinae Token is a kind of tokens based on the Huobi ECO Chain(Heco).",
+ "explorer": "https://hecoinfo.com/token/0xbcec0611ace18c967b210d088e2b91a8695839be",
+ "type": "HRC20",
+ "symbol": "FT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBCeC0611acE18C967B210D088e2B91a8695839be"
+}
