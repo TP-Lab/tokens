@@ -1,0 +1,11 @@
+{
+ "name": "TuoXiangToken",
+ "website": "https://www.tuoxiangtech.com/",
+ "description": "Tx is the distributed ledger of Tuoxiang Technology, and it is the dividend sharing token of Tuoxiang Technology's shared breeding decentralization.",
+ "explorer": "https://tronscan.org/#/token20/TM9pHVVCWph3ZDbQCM8u4Yc8H3srnfnPHe",
+ "type": "TRC20",
+ "symbol": "TX",
+ "decimals": 6,
+ "status": "active",
+ "id": "TM9pHVVCWph3ZDbQCM8u4Yc8H3srnfnPHe"
+}
