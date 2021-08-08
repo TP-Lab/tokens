@@ -1,0 +1,11 @@
+{
+ "name": "Mango Token",
+ "website": "https://mangoo.vip",
+ "description": "Mango是一款元宇宙游戏结合NFT卡牌区块链游戏",
+ "explorer": "https://www.oklink.com/okexchain/address/0x88b9c2381610a9e46ca76433cd0d0904b720bd02",
+ "type": "KIP20",
+ "symbol": "Mango",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x88B9c2381610a9E46Ca76433cD0d0904B720bd02"
+}
