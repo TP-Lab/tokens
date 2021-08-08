@@ -1,0 +1,11 @@
+{
+ "name": "CKR",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://tronscan.io/#/token20/TQjDEhcCjWMhZh1f4t6iPL7hA448V5crnN",
+ "type": "TRON",
+ "symbol": "CKR",
+ "decimals": 18,
+ "status": "active",
+ "id": "TQjDEhcCjWMhZh1f4t6iPL7hA448V5crnN"
+}
