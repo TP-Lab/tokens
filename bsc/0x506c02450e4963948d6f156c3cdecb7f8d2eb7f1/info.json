@@ -1,0 +1,12 @@
+{
+ "name": "Flaming Phenix",
+ "website": "https://www.flamingphenix.com",
+ "description": "Flaming Phenix is an experiment conducted in the construction of a decentralized spontaneous community. The token is the team's first token. Flaming Phenix is like DOGECOIN.
+Flaming Phenix has a circulation of 1,000,000,000,000,000. The team locked 45% of the total supply of tokens o",
+ "explorer": "https://bscscan.com/token/0x506c02450e4963948d6f156c3cdecb7f8d2eb7f1",
+ "type": "BEP20",
+ "symbol": "fix",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x506c02450e4963948d6f156c3cdecb7f8d2eb7f1"
+}
