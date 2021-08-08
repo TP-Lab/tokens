@@ -1,0 +1,11 @@
+{
+    "name": "Ins3.Finance Coin",
+    "website": "https://www.ins3.finance",
+    "description": "A fully decentralized, cross-chain insurance and coverage provider for the blockchain industry.",
+    "explorer": "https://hecoinfo.com/token/0x943d97ad0b597f73425d6f740596d0efd3d62507",
+    "type": "HRC20",
+    "symbol": "ITF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x943D97ad0b597F73425d6f740596D0efD3d62507"
+}
