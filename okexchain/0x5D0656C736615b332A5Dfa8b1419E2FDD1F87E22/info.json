@@ -1,0 +1,11 @@
+{
+ "name": "Big Pig token",
+ "website": "https://bigpigtoken.com",
+ "description": "BigPigtoken Burning Destruction 4%, dividend 4%",
+ "explorer": "https://www.oklink.com/okexchain/address/0x5d0656c736615b332a5dfa8b1419e2fdd1f87e22",
+ "type": "KIP20",
+ "symbol": "Big Pig",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5d0656c736615b332a5dfa8b1419e2fdd1f87e22"
+}
