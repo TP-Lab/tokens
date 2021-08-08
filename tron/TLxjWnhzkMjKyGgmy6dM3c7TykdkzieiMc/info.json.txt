@@ -1,0 +1,11 @@
+{
+ "name": "FEI",
+ "website": "www.feI.finance.com",
+ "description": "飞跃币.",
+ "explorer": "https://tronscan.io/#/contract/TLxjWnhzkMjKyGgmy6dM3c7TykdkzieiMc",
+ "type": "TRC20",
+ "symbol": "FEI",
+ "decimals": 6,
+ "status": "active",
+ "id": "TLxjWnhzkMjKyGgmy6dM3c7TykdkzieiMc"
+}
