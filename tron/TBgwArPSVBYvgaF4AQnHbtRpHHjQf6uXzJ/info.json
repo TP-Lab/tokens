@@ -1,0 +1,11 @@
+{
+ "name": "Anti Token",
+ "website": "https://www.anti.bet",
+ "description": "ANTI is a Token to support users joining anti-guessing type of games and trading.(ANTI是一个用于支持用户参与反向竞猜类游戏和交易的Token)",
+ "explorer": "https://tronscan.io/#/token20/TBgwArPSVBYvgaF4AQnHbtRpHHjQf6uXzJ",
+ "type": "TRC20",
+ "symbol": "ANTI",
+ "decimals": 6,
+ "status": "active",
+ "id": "TBgwArPSVBYvgaF4AQnHbtRpHHjQf6uXzJ"
+}
