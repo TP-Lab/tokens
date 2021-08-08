@@ -1,0 +1,11 @@
+{
+ "name": "TCP Token",
+ "website": "http://timecapsules.xyz",
+ "description": "Time Capsule 时空胶囊，是基于币安智能链和pancake swap的通缩型通证，由埃里克·芬曼的全球忠实粉丝自发组织发行的社区治理代币，旨在创造一个完全去中心化的社交生态系统。",
+ "explorer": "https://www.bscscan.com/address/0x3B65661B5D32a54a9f69c5Ff8a859A72c64e4169",
+ "type": "BEP20",
+ "symbol": "TCP",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3B65661B5D32a54a9f69c5Ff8a859A72c64e4169"
+}
