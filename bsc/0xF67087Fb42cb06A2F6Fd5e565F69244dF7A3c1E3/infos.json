@@ -1,0 +1,11 @@
+{
+    "name": "ManagerZBC",
+    "website": "https://zbc.la",
+    "description": "MZBC, the international blockchain settlement currency.",
+    "explorer": "https://bscscan.com/address/0xf67087fb42cb06a2f6fd5e565f69244df7a3c1e3",
+    "type": "BEP20",
+    "symbol": "MZBC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf67087fb42cb06a2f6fd5e565f69244df7a3c1e3"
+}

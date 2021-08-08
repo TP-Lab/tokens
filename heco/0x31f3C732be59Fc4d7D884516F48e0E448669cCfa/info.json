@@ -1,0 +1,11 @@
+{
+    "name": "Rlink Token",
+    "website": "https://rlink.link/#/",
+    "description": "RLT，全称RLink Token,是RLink唯一的权益代币。Rlink是全球首个完全去中心化的推荐关系和返佣的预言机。",
+    "explorer":"https://hecoinfo.com/token/0x31f3C732be59Fc4d7D884516F48e0E448669cCfa",
+    "type": "HRC-20",
+    "symbol": "RLT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x31f3C732be59Fc4d7D884516F48e0E448669cCfa"
+}
