@@ -1,0 +1,11 @@
+{
+ "name": "babyShib Token",
+ "website": "https://www.shibatoken.com/",
+ "description": "babyShib is completely decentralized. Its task is to bring rich to more ordinary people.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/ex1q9c8avf60tq8tfxff8kqzjy0pdqsk4fqc5sqan",
+ "type": "KIP20",
+ "symbol": "babyShib",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x01707eb13a7ac075a4c949ec01488f0b410b5520"
+}
