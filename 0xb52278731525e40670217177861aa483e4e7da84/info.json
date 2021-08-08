@@ -1,0 +1,11 @@
+{
+ "name": "babyDoge Token",
+ "website": "https://babydoge.com/",
+ "description": "babyDoge is build on Okexchain that is completely decentralized.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/ex1k538suc4yhjqvuppw9mcvx4ys0jw0k5yst0r9x",
+ "type": "KIP20",
+ "symbol": "babyDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb52278731525e40670217177861aa483e4e7da84"
+}
