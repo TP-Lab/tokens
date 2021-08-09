@@ -1,11 +1,14 @@
-{{
- "name": "CYYS",
- "website": "www.CYYS.com",
- "description": "茶颜悦色通证由蒲公英社区原班人马打造，打破defi波场链的杂乱篇章。带领韭菜找到方向。 蒲公英社区的人不当韭菜，也不割韭菜！",
- "explorer": "https://tronscan.io/#/token20/TB6PUzH1FhALfjrjuz3kxxsEw77dejcL2P",
+{
+ "name": "BWB Token",
+ "website": "http://tronscan.io/",
+ "description": "币王币(BWB)全力打造DEFI币王，发行总量1888枚，买、卖交易各通缩10%，5%流动池分红，5%拉升价格，通缩到188枚截止。
+",
+ "explorer": "https://tronscan.io/#/token20/TUDyKgkaHnMQ6D2TpvipMfD8AY4MUUgeA4
+",
  "type": "TRC20",
- "symbol": "CYYS",
+ "symbol": "BWB",
  "decimals": 6,
  "status": "active",
- "id": "TB6PUzH1FhALfjrjuz3kxxsEw77dejcL2P"
+ "id": "TUDyKgkaHnMQ6D2TpvipMfD8AY4MUUgeA4
+"
 }
