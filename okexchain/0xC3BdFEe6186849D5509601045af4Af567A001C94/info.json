@@ -1,0 +1,11 @@
+{
+ "name": "GLORY",
+ "website": "https://oec.farmhero.io/",
+ "description": "FarmHero is a novel protocol that mixes NFT, gaming and DEFI concepts.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/ex1cw7laescdpya25ykqyz94a902eaqq8y50yrl3v",
+ "type": "KIP20",
+ "symbol": "GLORY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC3BdFEe6186849D5509601045af4Af567A001C94"
+}
