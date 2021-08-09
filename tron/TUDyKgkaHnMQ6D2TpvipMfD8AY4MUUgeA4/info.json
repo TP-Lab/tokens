@@ -1,0 +1,14 @@
+{
+ "name": "BWB Token",
+ "website": "http://tronscan.io/",
+ "description": "币王币(BWB)全力打造DEFI币王，发行总量1888枚，买、卖交易各通缩10%，5%流动池分红，5%拉升价格，通缩到188枚截止。
+",
+ "explorer": "https://tronscan.io/#/token20/TUDyKgkaHnMQ6D2TpvipMfD8AY4MUUgeA4
+",
+ "type": "TRC20",
+ "symbol": "BWB",
+ "decimals": 6,
+ "status": "active",
+ "id": "TUDyKgkaHnMQ6D2TpvipMfD8AY4MUUgeA4
+"
+}
