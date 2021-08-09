@@ -1,7 +1,7 @@
 {
  "name": "HZ",
  "website": "-",
- "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "description": "-",
  "explorer": "https://bscscan.com/token/0xbf0bf0ca14369185701e7e505ddf1fbca6df2878#balances",
  "type": "BEP20",
  "symbol": "HZ",
