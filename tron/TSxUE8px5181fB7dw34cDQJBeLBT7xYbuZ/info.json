@@ -1,0 +1,11 @@
+{
+ "name": "Avatar governance tokens",
+ "website": "www.ac3344ac.org",
+ "description": "阿凡达社区治理代币，总量51万枚！",
+ "explorer": "https://tronscan.io/#/token20/TSxUE8px5181fB7dw34cDQJBeLBT7xYbuZ",
+ "type": "TRC20",
+ "symbol": "ACC",
+ "decimals": 18,
+ "status": "active",
+ "id": "TSxUE8px5181fB7dw34cDQJBeLBT7xYbuZ"
+}
