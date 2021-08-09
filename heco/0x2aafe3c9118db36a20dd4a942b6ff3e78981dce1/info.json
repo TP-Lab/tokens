@@ -1,0 +1,11 @@
+{
+ "name": “Golff”,
+ "website": "https://golff.finance/",
+ "description": "One-Stop Services Encrypted Bank,Create a Light, Open and Free Financial World”,
+ "explorer": "https://hecoinfo.com/address/0x2aafe3c9118db36a20dd4a942b6ff3e78981dce1",
+ "type": “HRC20”,
+ "symbol": “GOF”,
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2aafe3c9118db36a20dd4a942b6ff3e78981dce1"
+}
