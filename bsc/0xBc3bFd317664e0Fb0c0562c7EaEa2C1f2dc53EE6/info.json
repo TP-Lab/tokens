@@ -1,0 +1,11 @@
+{
+ "name": "Bigger Cake",
+ "website": "https://biggercakeswap.com",
+ "description": "$BiggerCake proposes an innovative feature in its contract : DIVIDEND YIELD PAID IN CAKE! With the auto-claim feature, simply hold $BiggerCake and you'll receive CAKE automatically in your wallet. Hold Baby Cake and get rewarded in Cake on every transaction!",
+ "explorer": "https://bscscan.com/token/0xBc3bFd317664e0Fb0c0562c7EaEa2C1f2dc53EE6",
+ "type": "BEP20",
+ "symbol": "BIGGERCAKE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBc3bFd317664e0Fb0c0562c7EaEa2C1f2dc53EE6"
+} 
