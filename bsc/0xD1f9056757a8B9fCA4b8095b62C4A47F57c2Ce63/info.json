@@ -1,0 +1,11 @@
+{
+ "name": "Metaminers Network Coin",
+ "website": "https://www.metaminers.one",
+ "description": "MNC can be used to pay for various economic behaviors in the ecology and holders also have the right to vote.",
+ "explorer": "https://bscscan.com/token/0xD1f9056757a8B9fCA4b8095b62C4A47F57c2Ce63",
+ "type": "BEP20",
+ "symbol": "MNC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD1f9056757a8B9fCA4b8095b62C4A47F57c2Ce63"
+}
