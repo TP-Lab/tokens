@@ -1,0 +1,11 @@
+{
+ "name": "RhinoCoin Token",
+ "website": "https://rhino-coin.com",
+ "description": "RhinoCoin help other projects, products, and services gain visibility by rewarding holders for promotional activities (upvote, like, retweet, etc).",
+ "explorer": "https://bscscan.com/token/0xe7886f869d7ae46f5ff88034125a445ea01576e6",
+ "type": "BEP20",
+ "symbol": "RHINO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe7886f869d7ae46f5ff88034125a445ea01576e6"
+}
