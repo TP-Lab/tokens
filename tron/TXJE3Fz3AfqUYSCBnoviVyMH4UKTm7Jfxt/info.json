@@ -1,0 +1,11 @@
+{
+ "name": "ETDG Token",
+ "website": "https://www.houndcoin.net",
+ "description": "ETDG uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://tronscan.io/#/token20/TXJE3Fz3AfqUYSCBnoviVyMH4UKTm7Jfxt",
+ "type": "TRC20",
+ "symbol": "ETDG",
+ "decimals": 18,
+ "status": "active",
+ "id": "TXJE3Fz3AfqUYSCBnoviVyMH4UKTm7Jfxt"
+}
