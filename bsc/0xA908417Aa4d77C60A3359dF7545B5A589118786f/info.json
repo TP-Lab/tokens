@@ -1,0 +1,11 @@
+{
+ "name": "Son of Doge",
+    "website": "https://sonofdogecoin.com",
+    "description": "Hold SONOFDOGE Earn Bitcoin",
+    "explorer": "https://bscscan.com/token/0xa908417aa4d77c60a3359df7545b5a589118786f",
+    "type": "BEP20",
+    "symbol": "SONOFDOGE",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xA908417Aa4d77C60A3359dF7545B5A589118786f"
+}
