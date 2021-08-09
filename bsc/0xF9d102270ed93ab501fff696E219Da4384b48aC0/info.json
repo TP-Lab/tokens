@@ -1,0 +1,11 @@
+{
+ "name": "DogeCmdr",
+ "website": "https://dogecommander.net",
+ "description": "Hold DogeCommander and get BNB rewards for every transaction",
+ "explorer": "https://bscscan.com/token/0xF9d102270ed93ab501fff696E219Da4384b48aC0",
+ "type": "BEP20",
+ "symbol": "DogeCmdr",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xF9d102270ed93ab501fff696E219Da4384b48aC0"
+}
