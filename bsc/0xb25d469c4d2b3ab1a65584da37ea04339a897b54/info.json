@@ -1,0 +1,11 @@
+{
+ "name": "Dogmoon",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xb25d469c4d2b3ab1a65584da37ea04339a897b54",
+ "type": "BEP20",
+ "symbol": "Dogmoon",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xb25d469c4d2b3ab1a65584da37ea04339a897b54"
+}
