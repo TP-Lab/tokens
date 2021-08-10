@@ -1,0 +1,11 @@
+{
+ "name": "TPmoon",
+ "website": "www.tpdskaspp.com",
+ "description": "A MEME coin which can ",
+ "explorer": "https://www.oklink.com/okexchain/address/0x74058f3c52efab2c64fb58aa143efa5a2cc79453",
+ "type": "KIP20",
+ "symbol": "TPmoon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x74058F3c52EFAB2c64fB58AA143EfA5A2cc79453"
+}
