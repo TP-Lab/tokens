@@ -1,0 +1,11 @@
+{
+ "name": "Qual Tether X",
+ "website": "https://qchip.finance",
+ "description": "QSDTX (Qual Tether X) is an incentive stable coin for the Qual Finance community. It is used to pledge low-factor equity liquidity mining pools and obtain QChip (Qual Chip) through mining. The total circulation is 200 million.",
+ "explorer": "https://www.bscscan.com/token/0x05158b1ea76BC98A7A46Ce9121E822b81E6A87d0",
+ "type": "BEP20",
+ "symbol": "QSDTX",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x05158b1ea76BC98A7A46Ce9121E822b81E6A87d0"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Qual Tether",
+ "website": "",
+ "description": "QSDT (Qual Tether) is Qual Finance's primary stable currency, used to pledge liquidity mining pools, and obtain QChip (Qual Chip) through mining. The total circulation is 200 million.",
+ "explorer": "https://www.bscscan.com/token/0xe83122De4f16e6876c7Ce7D225778aD391f353E5",
+ "type": "BEP20",
+ "symbol": "QSDT",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xe83122De4f16e6876c7Ce7D225778aD391f353E5"
+}
