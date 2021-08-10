@@ -1,0 +1,11 @@
+{
+ "name": "Business chain",
+ "website": "http://www.achain.pw/",
+ "description": "商业链是一个基于火币生态链上的社区化代币，利用区块链技术，基于智能合约和Token系统，打造去中心化的、覆盖全球，权益共用、价值共创的去中心化社bgc社区.",
+ "explorer": "https://hecoinfo.com/token/0x2Ed0A1e821aC6EB17FE871e6fEc147BE90988A44",
+ "type": "HRC20",
+ "symbol": "BC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2Ed0A1e821aC6EB17FE871e6fEc147BE90988A44"
+}
