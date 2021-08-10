@@ -1,0 +1,11 @@
+{
+    "name":"Dog Broter",
+    "website":"-",
+    "description":"DOGEG is a token on Huobi Eco(HECO) Chain boasting a number of impressive features.",
+    "explorer":"https://hecoinfo.com/token/0x5e8fCF43409BA292A9b9bA0d306a5874DB17FD2b",
+    "type":"HRC-20",
+    "symbol":"DOGEG",
+    "decimals":18,
+    "status":"active",
+    "id":"0x5e8fCF43409BA292A9b9bA0d306a5874DB17FD2b"
+}
