@@ -1,0 +1,11 @@
+{
+    "name": "FIL COIN",
+    "website": "无",
+    "description": "FILCOIN is created by Power star in order to solve the liquidity problem of FIL coins in TRON. The total issuance of 150,000 pieces is one-to-one, which can be exchanged at justswap at any time. ",
+    "explorer": "https://tronscan.io/#/contract/TLm5JKZYLpLGGQHgeYZpRf9BYJrku4BE6i",
+    "type": "TRC20",
+    "symbol": "FIL",
+    "decimals":6,
+    "status": "active",
+    "id": "TLm5JKZYLpLGGQHgeYZpRf9BYJrku4BE6i"
+   }
