@@ -1,0 +1,11 @@
+{
+ "name": "AZA",
+ "website": "https://www.Qinfinity.com",
+ "description": "AZOOMMAS(AZA) is a digital asset issued by the Knight Foundation of the United States based on the Heco protocol.",
+ "explorer": "https://hecoinfo.com/token/0x0d17Bf65C92A3952847D017743d9840dD0Ee156F",
+ "type": "HECO",
+ "symbol": "AZA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0d17Bf65C92A3952847D017743d9840dD0Ee156F"
+}
