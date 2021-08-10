@@ -1,0 +1,11 @@
+{
+ "name": "CAVA TOKEN",
+ "website": "http://home.mxglobal.cn/h5/#/",
+ "description": "CAVA TOKEN，简称：CAVA，运行于区块链上的分布式全球用户体验的生态系统，通过建立社区文化服务，建立强大共识以及整合营销通路。",
+ "explorer": "https://tronscan.io/#/token20/TZ9d1eaHuvW9danNbwtxg4CyNaAEHKH1cm",
+ "type": "TRC20",
+ "symbol": "CAVA",
+ "decimals": 8
+ "status": "active",
+ "id": "TZ9d1eaHuvW9danNbwtxg4CyNaAEHKH1cm"
+}
