@@ -1,0 +1,11 @@
+{
+ "name": "Mermaid coin",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://hecoinfo.com/token/0xd60d7858c72b5eea35e3ad976cd07f244b4e8e53",
+ "type": "HRC20",
+ "symbol": "MMD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd60d7858c72b5eeA35e3ad976CD07F244b4e8e53"
+}
