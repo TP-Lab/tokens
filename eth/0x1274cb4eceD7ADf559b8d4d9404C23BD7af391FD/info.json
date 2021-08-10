@@ -1,0 +1,11 @@
+{
+ "name": "AZA",
+ "website": "https://www.Qinfinity.com",
+ "description": "AZOOMMAS(AZA) is a digital asset issued by the Knight Foundation of the United States based on the Ethereum ERC-20 protocol.",
+ "explorer": "https://etherscan.io/token/0x1274cb4eceD7ADf559b8d4d9404C23BD7af391FD",
+ "type": "ERC20",
+ "symbol": "AZA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1274cb4eceD7ADf559b8d4d9404C23BD7af391FD"
+}
