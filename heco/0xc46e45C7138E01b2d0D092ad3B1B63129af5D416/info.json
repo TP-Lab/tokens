@@ -1,0 +1,11 @@
+{
+ "name": "Starbase Surge",
+ "website": "http://sbscoin.nets.hk/",
+ "description": "基于火币生态链（HECO）发行的代币",
+ "explorer": "https://hecoinfo.com/token/0xc46e45c7138e01b2d0d092ad3b1b63129af5d416",
+ "type": "HRC-20",
+ "symbol": "SBS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc46e45c7138e01b2d0d092ad3b1b63129af5d416"
+}
