@@ -1,0 +1,11 @@
+{
+    "name": "HuobiMoon",
+    "website": "-",
+    "description": "HBMoon is a community driven, No Team Allocation, 100% decentralized liquidity pool, No one own contract key. HBMoon aims to establish a DeFi protocol of wealth redistribution",
+    "explorer": "https://hecoinfo.com/token/0xa7073Ef4d6e7543F580a4ec5d6623aA8989f2870",
+    "type": "HRC-20",
+    "symbol": "HBMoon",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa7073Ef4d6e7543F580a4ec5d6623aA8989f2870"
+}
