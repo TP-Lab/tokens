@@ -1,0 +1,11 @@
+{
+ "name": "Mars Token",
+ "website": "-",
+ "description": "总量10000万亿，上线销毁60％投放黑洞，单笔交易燃烧5％，3％进入流动池，1％销毁，1％分红。",
+ "explorer": "https://hecoinfo.com/token/0xb86b428d565abca00ba6354f1df4677f33cc1622",
+ "type": "HRC-20",
+ "symbol": "Mars",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb86b428d565abca00ba6354f1df4677f33cc1622"
+} 
