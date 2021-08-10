@@ -1,0 +1,11 @@
+{
+ "name": "THOREUM",
+ "website": "https://thoreum.finance/",
+ "description": "Thoreum is TRUE hyper deflationary token, the best coin for HODLING.",
+ "explorer": "https://bscscan.com/token/0x580de58c1bd593a43dadcf0a739d504621817c05",
+ "type": "BEP20",
+ "symbol": "THOREUM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x580de58c1bd593a43dadcf0a739d504621817c05"
+}
