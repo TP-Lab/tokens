@@ -1,0 +1,11 @@
+{
+ "name": "MST",
+ "website": "https://tronscan.org/#/contract/TUFsrGvvPnChMDt5mWu6bj1HPX2VUcSmwT",
+ "description": "MST协议融合DeFi生态打造一个全新分布式金融生态系统，是完全去中心化 DeFi万倍孵化器。让MST持有者获得更高的价值回报，是真正的社区自治项目，全球参与者共同建设,共同治理，不断完善技术创新同时探索新领域。",
+ "explorer": "https://tronscan.org",
+ "type": "TRC20",
+ "symbol": "MST",
+ "decimals": 18,
+ "status": "active",
+ "id": "TUFsrGvvPnChMDt5mWu6bj1HPX2VUcSmwT"
+}
