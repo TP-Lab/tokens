@@ -1,11 +1,11 @@
 {
-    "name": "Dog Broter Token",
-    "website": "https://www.dogeg.app",
-    "description": "Dog broter is an innovative defi application, which is completely self governed by the community and brings value to the extreme deflation!",
-    "explorer": "https://hecoinfo.com/token/0x5e8fCF43409BA292A9b9bA0d306a5874DB17FD2b",
-    "type": "BEP20",
-    "symbol": "DOGEG",
-    "decimals": 18,
-    "status": "active",
-    "id": "0x5e8fCF43409BA292A9b9bA0d306a5874DB17FD2b"
+    "name":"Dog Broter",
+    "website":"-",
+    "description":"DOGEG is a token on Huobi Eco(HECO) Chain boasting a number of impressive features.",
+    "explorer":"https://hecoinfo.com/token/0x5e8fCF43409BA292A9b9bA0d306a5874DB17FD2b",
+    "type":"HRC-20",
+    "symbol":"DOGEG",
+    "decimals":18,
+    "status":"active",
+    "id":"0x5e8fCF43409BA292A9b9bA0d306a5874DB17FD2b"
 }
