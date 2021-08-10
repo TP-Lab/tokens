@@ -1,0 +1,11 @@
+{
+ "name": "Qual Chip",
+ "website": "https://qchip.finance",
+ "description": "QChip (Qual Chip) is the equity token of QualFinance liquidity mining. The only way to obtain it is through QualFinance liquidity mining pool pledge mining. The total issuance of QChip is 800 million, and the number of coins that can be mined is distributed through different stages of the mining cycle. The QChip team builds a fair and equitable decentralized mining ecology with the “three no strategy” of “no private placement, no airdrop, and no reservation”, aiming to build a blockchain-shared equity bridge between traditional finance and digital finance to create a brand new Shared digital smart economy closed-loop ecology!",
+ "explorer": "https://www.bscscan.com/token/0x910799B074b0f8C4Eaaf5B9Ed4c1172C478269C1",
+ "type": "BEP20",
+ "symbol": "QCHIP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x910799B074b0f8C4Eaaf5B9Ed4c1172C478269C1"
+}

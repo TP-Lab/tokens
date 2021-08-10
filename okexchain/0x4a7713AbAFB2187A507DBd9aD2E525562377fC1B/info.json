@@ -1,0 +1,11 @@
+{
+ "name": "BabyDogeV3",
+ "website": "https://babydogeV3.com",
+ "description": "Baby DogeV3 Token was released on OKExChain. Its owner is from Baby Doge Coin and is co-sponsored by fans of the Baby Doge Coin community.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x4a7713AbAFB2187A507DBd9aD2E525562377fC1B",
+ "type": "KIP20",
+ "symbol": "BabyDogeV3",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4a7713AbAFB2187A507DBd9aD2E525562377fC1B",
+}

@@ -1,0 +1,11 @@
+{
+    "name": "HCD",
+    "website": "https://hcdtoken.org",
+    "description": "HCD的存量会随着时间的推移与交易次数的频繁增加而随之减少变得更加稀缺,链上每笔交易的2％分配给了所有持有人。在持有产品的那一刻，即持有分红。链上每笔交易都将扣税3%添加到MDEX资金池提供流动性。",
+    "explorer": "https://hecoinfo.com/token/0x24ae3ef370185e27ae69e3c687a5e946e38c1ab4",
+    "type": "HRC-20",
+    "symbol": "HCD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x24aE3ef370185e27Ae69E3C687A5E946E38C1AB4"
+}

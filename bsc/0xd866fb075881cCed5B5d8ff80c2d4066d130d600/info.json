@@ -1,0 +1,11 @@
+{
+ "name": "SMI",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0xd866fb075881cced5b5d8ff80c2d4066d130d600",
+ "type": "BSC20",
+ "symbol": "SMI",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xd866fb075881cCed5B5d8ff80c2d4066d130d600"
+}
