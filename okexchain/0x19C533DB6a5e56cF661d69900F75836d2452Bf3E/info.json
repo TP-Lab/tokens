@@ -1,0 +1,11 @@
+{
+ "name": "OKC",
+ "website": "-",
+ "description": "OKExChain Cattle",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x19C533DB6a5e56cF661d69900F75836d2452Bf3E",
+ "type": "KIP20",
+ "symbol": "OKC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x19C533DB6a5e56cF661d69900F75836d2452Bf3E"
+}
