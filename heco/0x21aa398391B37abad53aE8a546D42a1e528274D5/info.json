@@ -1,0 +1,11 @@
+{
+ "name": "CONCH",
+ "website": "https://conch.network/?ref=0x4219866a2b8173481FD1E8b024214f50eA32222a",
+ "description": "Conch Smart Chain (CSC) is the first product launched by the Conch Open Platform under the Conch Blockchain Research Institute. Conch Smart Chain is a decentralized, high-efficiency and energy-saving public chain that can realize the compatibility of smart contracts on the basis of supporting high-performance transactions. However, the goal of Conch Smart Chain is not only to be a public chain. Relying on the global transaction ecology, Conch Smart Chain is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecosystem that integrates technology development, application promotion, and transactions. closed loop.",
+ "explorer": "https://hecoinfo.com/token/0x21aa398391B37abad53aE8a546D42a1e528274D5",
+ "type": "HRC20",
+ "symbol": "CONCH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x21aa398391B37abad53aE8a546D42a1e528274D5"
+}
