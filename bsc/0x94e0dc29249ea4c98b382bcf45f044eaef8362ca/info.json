@@ -1,0 +1,11 @@
+{
+ "name": "Doraemon Token",
+ "website": "https://bscscan.com/token/0x94e0dc29249ea4c98b382bcf45f044eaef8362ca",
+ "description": "Doraemon it can realize commodity trading of limited edition comics through blockchain.",
+ "explorer": "https://bscscan.com/token/0x94e0dc29249ea4c98b382bcf45f044eaef8362ca",
+ "type": "BEP20",
+ "symbol": "Doraemon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x94E0DC29249eA4c98B382bcf45f044eAeF8362cA"
+}
