@@ -1,0 +1,11 @@
+{
+ "name": "Fs-Asset Management Platform",
+ "website": "www.famp.cc",
+ "description": "Financial supermarket(FS)旗下数字资产应用管理系统，旨在通过区块链技术解决企业信息数字化转型问题，更好的促进企业数字资产的科学管理和有效利用，提高企业经济效益。",
+ "explorer": "https://tronscan.org/#/token20/TPQTCJSQs1ukGTZnAt6oEEF3zPv91F96PQ",
+ "type": "TRC20",
+ "symbol": "FAMP",
+ "decimals": 18,
+ "status": "active",
+ "id": "TPQTCJSQs1ukGTZnAt6oEEF3zPv91F96PQ"
+}
