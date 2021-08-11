@@ -1,0 +1,11 @@
+{
+ "name": "SupperBunny",
+ "website": "https://superbunny.one/",
+ "description": "The first token with bonus Bunny and winning mechanism, SuperBunny.",
+ "explorer": "https://bscscan.com/token/0x61D70388f7a20b84DB4e44027C1E85dB86F3dA79",
+ "type": "BEP20",
+ "symbol": "SupperBunny",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x61D70388f7a20b84DB4e44027C1E85dB86F3dA79"
+}

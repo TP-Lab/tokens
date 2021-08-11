@@ -1,0 +1,11 @@
+{
+ "name": "Proletarian Alliance",
+ "website": "https://proletarian.finance/",
+ "description": "Proletarian Alliance, inspired by proletariats, for proletariats",
+ "explorer": "https://bscscan.com/address/0xec83D4D0F3A62B03F278250B5596F080BEC40516",
+ "type": "BEP20",
+ "symbol": "PROLETARIAN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xec83D4D0F3A62B03F278250B5596F080BEC40516"
+}

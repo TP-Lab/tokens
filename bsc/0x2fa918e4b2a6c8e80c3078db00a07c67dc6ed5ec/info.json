@@ -1,0 +1,11 @@
+{
+ "name": "Wall-Ecoin",
+ "website": "https://www.wall-ecoin.com/",
+ "description": "Wall-E is a more advanced type of Wall-Ecoin, which has a 10 times faster block rate and a cheaper gas fee. A new cryptocurrency born by members of the Wall-Ecoin online community, Wall-Ecoin has enhanced features in many ways",
+ "explorer": "https://bscscan.com/token/0x2fa918e4b2a6c8e80c3078db00a07c67dc6ed5ec",
+ "type": "BEP20",
+ "symbol": "Wall-E",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2fa918e4b2a6c8E80C3078dB00a07C67DC6Ed5EC"
+}
