@@ -1,0 +1,11 @@
+{
+ "name": "ibox NFT token",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0xc8cF66252dfBa231C6Ac9C95E66CEFA8b2a28882",
+ "type": "BSC20",
+ "symbol": "ibox",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc8cF66252dfBa231C6Ac9C95E66CEFA8b2a28882"
+}
