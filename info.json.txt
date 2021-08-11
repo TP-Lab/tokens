@@ -1,0 +1,20 @@
+{
+ 
+"name": "Farmer Token",
+ 
+"website": "https://FarmerToken.pro",
+ 
+"description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ 
+"explorer": "https://bscscan.com/token/0x0cfC218aFDAC9e980AC7B3F40BF1eDf69BB0CE9e",
+ 
+"type": "BEP20",
+ "symbol": "Farmer",
+ 
+"decimals": 9,
+ 
+"status": "active",
+ 
+"id": "0x0cfC218aFDAC9e980AC7B3F40BF1eDf69BB0CE9e"
+
+}
