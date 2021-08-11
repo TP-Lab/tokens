@@ -1,0 +1,11 @@
+{
+ "name": "CloudChainCoin",
+ "website": "https://forcloud.vip",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://tronscan.io/#/token20/TD2931N32Sqp8hYS6pv7rSjpQyBN9VaGX7",
+ "type": "TRON",
+ "symbol": "CCC",
+ "decimals": 6,
+ "status": "active",
+ "id": "TD2931N32Sqp8hYS6pv7rSjpQyBN9VaGX7"
+}
