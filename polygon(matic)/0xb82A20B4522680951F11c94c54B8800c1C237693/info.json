@@ -1,0 +1,11 @@
+{
+ "name": "HONOR",
+ "website": "https://polygon.farmhero.io",
+ "description": "FarmHero is a novel protocol that mixes NFT, gaming and DEFI concepts.",
+ "explorer": "https://polygonscan.com/token/0xb82A20B4522680951F11c94c54B8800c1C237693",
+ "type": "Polygon",
+ "symbol": "HONOR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb82A20B4522680951F11c94c54B8800c1C237693"
+}
