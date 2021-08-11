@@ -1,0 +1,11 @@
+{
+ "name": "Mo Fitow",
+ "website": "https://tronscan.io",
+ "description": "MFO将区块链游戏结构进行优化和扩展，增加自定义数据存储空间并可以根据游戏调整相应数据、见证、出块等关键流程，确保块数据的体积不会因长时间的交易而增长拥堵",
+ "explorer": "https://tronscan.io/#/token20/TCcAWjvQ7NvrNhEL8WJqNfTz2JihR4Urpm",
+ "type": "TRC20",
+ "symbol": "MFO",
+ "decimals": 6,
+ "status": "active",
+ "id": "TCcAWjvQ7NvrNhEL8WJqNfTz2JihR4Urpm"
+}
