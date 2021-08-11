@@ -1,0 +1,11 @@
+{
+ "name": "mickey",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x2544e2cda5a8c81a90adbe51d39369459871eb17",
+ "type": "BSC20",
+ "symbol": "mickey",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x2544E2cda5A8c81a90aDbE51D39369459871EB17"
+}
