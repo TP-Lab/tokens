@@ -1,0 +1,11 @@
+{
+ "name": "HUAWEI",
+ "website": "www.HW.com",
+ "description": "HW",
+ "explorer": "https://tronscan.io/#/contract/TEXzAm8NQRwtHLr18yc5FbYJNVoGfPwuC8",
+ "type": "TRC20",
+ "symbol": "HW",
+ "decimals": 18,
+ "status": "active",
+ "id": "TEXzAm8NQRwtHLr18yc5FbYJNVoGfPwuC8"
+}
