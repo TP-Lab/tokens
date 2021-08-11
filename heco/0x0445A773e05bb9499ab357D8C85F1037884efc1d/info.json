@@ -1,0 +1,11 @@
+{
+ "name": "你的代币全称",
+ "website": "官网",
+ "description": "你的代币全称",
+ "explorer": "https://bscscan.com/token/0x0445A773e05bb9499ab357D8C85F1037884efc1d",（你的代币合约查询 这个是币安链的查询 火币的你就找个火币的信息修改 很简单）
+ "type": "BEP20", 这里是不用动的 币安的   火币的信息就这里也不用改
+ "symbol": "代币简称", 比如 三个字母 ABC
+ "decimals": 18, 这里不用动  18位小数点
+ "status": "active", 这里也是 不要动
+ "id": "0x0445A773e05bb9499ab357D8C85F1037884efc1d"  这里是你的合约地址
+}
