@@ -5,7 +5,7 @@
  "explorer": "https://hecoinfo.com/token/0x5FcA4C69b73d6Dc2356445D06ECc92Db82381B16",
  "type": "HRC-20",
  "symbol": "RPONE",
- "decimals": 18,
+ "decimals": 9,
  "status": "active",
  "id": "0x5FcA4C69b73d6Dc2356445D06ECc92Db82381B16"
 }
