@@ -1,0 +1,12 @@
+
+{
+    "name": "HappyDOT",
+    "website": "https://twitter.com/VarunMayya",
+    "description": "All purchasers can participate in the DOT crazy bonus. Come and grab the first mine! First mine to buy DOT back immediately!",
+    "explorer": "https://www.bscscan.com/tx/0xa74407b2a66feb605ed369aee41977872a85a584e70e94d0a41bf794c07daa9b",
+    "type": "BEP20",
+    "symbol": "HappyDOT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x21404fe2f1Cbbe48d869b4099D1dF11550bAdBD0"
+}
