@@ -1,0 +1,19 @@
+{
+ "name": "stars",
+
+"website": "https://welove.mysxl.cn/",
+
+"description": "ST token.",
+
+"explorer": "https://hecoinfo.com/token/0x8a4ACBaB581c647600892a21534B6DCeBE59d54B",
+
+"type": "ERC20",
+
+"symbol": "ST",
+ 
+"decimals": 18,
+
+"status": "active",
+
+"id": "0x8a4ACBaB581c647600892a21534B6DCeBE59d54B"
+}
