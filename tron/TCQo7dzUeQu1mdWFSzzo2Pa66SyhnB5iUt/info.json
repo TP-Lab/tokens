@@ -1,0 +1,11 @@
+{
+ "name": "Azalea token",
+ "website": "http://tronscan.io/",
+ "description": "鸣扬社区倾力打造的一款基于波场链上社区自治通证Azalea token（映山红），具有通缩分红机制(最后通缩至8888枚)，全民共识自治，未来将开发多链挖矿，借贷，NFT等生态布局！坚韧不拔争做DEFI领域佼佼者！",
+ "explorer": "https://tronscan.org/#/token20/TCQo7dzUeQu1mdWFSzzo2Pa66SyhnB5iUt",
+ "type": "TRC20",
+ "symbol": "AZT",
+ "decimals": 18,
+ "status": "active",
+ "id": "TCQo7dzUeQu1mdWFSzzo2Pa66SyhnB5iUt"
+}
