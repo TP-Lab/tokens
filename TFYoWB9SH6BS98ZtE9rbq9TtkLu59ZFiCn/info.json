@@ -1,0 +1,11 @@
+{
+ "name": "JSHJ",
+ "website": "http://tronscan.io/",
+ "description": "狭路相逢勇者胜，该亮剑时就亮剑！",
+ "explorer": "https://tronscan.org/#/token20/TFYoWB9SH6BS98ZtE9rbq9TtkLu59ZFiCn",
+ "type": "TRC20",
+ "symbol": "JSHJ",
+ "decimals": 6,
+ "status": "active",
+ "id": "TFYoWB9SH6BS98ZtE9rbq9TtkLu59ZFiCn"
+}
