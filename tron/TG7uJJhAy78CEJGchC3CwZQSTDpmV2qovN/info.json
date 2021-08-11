@@ -1,0 +1,11 @@
+{
+ "name": "DFH",
+ "website": "http://tronscan.io/",
+ "description": "DFH俱樂部頒發的通行證是加入俱樂部的證書。我們可以在俱樂部裏獲得賺錢的樂趣.",
+ "explorer": "https://tronscan.io/#/token20/TG7uJJhAy78CEJGchC3CwZQSTDpmV2qovN",
+ "type": "TRC20",
+ "symbol": "DFH",
+ "decimals": 6,
+ "status": "active",
+ "id": "TG7uJJhAy78CEJGchC3CwZQSTDpmV2qovN"
+}
