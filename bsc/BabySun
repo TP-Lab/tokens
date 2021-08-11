@@ -1,0 +1,11 @@
+{
+ "name": " BabySun ",
+ "website": "https://bscscan.com/token/0xca40882bec9b7e77401652e6d0bfec9c168bb56b",
+ "description": "$BabySun is the largest BNB reflections token on the Binance Smart Chain.Baby Sun Coin is one of the only BNB rewards tokens with a unique auto-claim feature. BNBrewards are sent to your wallet directly. All you need to do is HODL Baby Sun Coin and earnBNB rewards HOURLY.",
+ "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+ "type": "BEP20",
+ "symbol": "BabySun",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xca40882bec9B7e77401652E6d0bfeC9C168BB56B"
+}
