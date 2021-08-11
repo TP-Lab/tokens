@@ -1,0 +1,11 @@
+{
+ "name": "CrownToken",
+ "website": "https://crown.sbs/",
+ "description": "Crown is a token designed to reward all key stakeholders of the gaming ecosystem. ",
+ "explorer": "https://bscscan.com/token/0xe1ab7D6d9cA7bf1Bd464e1E5687D72464d37A0a3",
+ "type": "BEP20",
+ "symbol": "Crown",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe1ab7D6d9cA7bf1Bd464e1E5687D72464d37A0a3"
+}
