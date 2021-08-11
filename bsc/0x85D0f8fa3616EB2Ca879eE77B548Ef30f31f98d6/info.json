@@ -1,0 +1,11 @@
+{
+ "name": "Spark",
+ "website": "http://huohuaspark.club",
+ "description": "Huohua • spark is a diversified application ecosystem based on the BSC chain, integrating defi, NFT, IEO on the chain, mall on the chain and meta universe applications, jointly created by Malaysia blockchain Association, Malaysia Mining Association, spark digital Capital &amp; spark community, Hanlan college and SMI system!",
+ "explorer": "https://bscscan.com/token/0x85d0f8fa3616eb2ca879ee77b548ef30f31f98d6",
+ "type": "BEP20",
+ "symbol": "SPK",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x85D0f8fa3616EB2Ca879eE77B548Ef30f31f98d6"
+}
