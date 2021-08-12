@@ -1,0 +1,11 @@
+﻿{
+ "name": "GM Club Token",
+ "website": "https://gmclub.pro",
+ "description": "GM club member points, a total of 210000, using deflation plus handling fee bonus mechanism! 3.5% of each transaction will be directly destroyed, 1.5% will be directly entered into the initial address as a handling fee, and 50% of the dividend will be given to the first 100 coin holding addresses on the 28th of each month.",
+ "explorer": "https://hecoinfo.com/address/0xddb6132edf2de39ac9c9d879f72d5a0afc925cb8",
+ "type": "HRC20",
+ "symbol": "GMCT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDDb6132edF2de39Ac9C9d879F72D5a0AFc925cb8"
+}
