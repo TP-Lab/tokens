@@ -1,0 +1,11 @@
+{
+ "name": "QM",
+ "website": "https://QM.com/orders",
+ "description": "QM is a yield-generating deflationary charitable cryptocurrency that runs on HRC20 Smart Chain.",
+ "explorer": "https://hecoinfo.com/token/0x0d3a46ac0f7d3ab251ae548fc26f022a3ae387a8",
+ "type": "HRC20",
+ "symbol": "QM",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0d3a46ac0f7d3ab251ae548fc26f022a3ae387a8"
+}
