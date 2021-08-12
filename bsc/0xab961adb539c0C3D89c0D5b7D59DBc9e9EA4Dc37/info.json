@@ -1,0 +1,11 @@
+{
+ "name": "DOGE SHOW",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0xab961adb539c0C3D89c0D5b7D59DBc9e9EA4Dc37",
+ "type": "BSC20",
+ "symbol": "DOGESHOW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xab961adb539c0C3D89c0D5b7D59DBc9e9EA4Dc37"
+}

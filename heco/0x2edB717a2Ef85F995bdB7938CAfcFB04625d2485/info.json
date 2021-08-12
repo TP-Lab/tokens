@@ -1,0 +1,11 @@
+{
+ "name": "Teddy DOGE",
+ "website": "https://www.teddydoge.cn",
+ "description": "Teddy DOGE泰迪狗.",
+ "explorer": "https://hecoinfo.com/token/0x2edB717a2Ef85F995bdB7938CAfcFB04625d2485",
+ "type": "HRC20",
+ "symbol": "Teddy DOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2edB717a2Ef85F995bdB7938CAfcFB04625d2485"
+}
