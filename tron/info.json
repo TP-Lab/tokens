@@ -1,0 +1,11 @@
+{
+ "name": "Ferrari token",
+ "website": "",
+ "description": "FLL,Maintaining the Highest Standards of Security and Innovation",
+ "explorer": "https://tronscan.io/#/token20/THcMpVsXxMPdnjwBedGEG21cbmgLGfVPtW",
+ "type": "TRC20",
+ "symbol": "FLL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5676C89a35BcAac8B6ee334b13b1aC75fC0db8C6"
+}
