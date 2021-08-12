@@ -1,0 +1,11 @@
+{
+ "name": "CRS Token",
+ "website": "http://www.crs.cash/",
+ "description": "佳士得(CRS)去中心化概念是现实应用的缩小版映射于网络，类似竞拍，置换等等，旨在为用户节约成本，提高利润，引流锁粉。进而完善细节，落地呈现，以全新的方式推动去中心化进程，代币也将拥有无限的价值想象空间。",
+"explorer": "https://tronscan.io/#/token20/TRegosVaS1o3DHG85nnW8xYzczPm3xL76K",
+ "type": "TRC20",
+ "symbol": "CRS",
+ "decimals": 8,
+ "status": "active",
+ "id": "TRegosVaS1o3DHG85nnW8xYzczPm3xL76K"
+}
