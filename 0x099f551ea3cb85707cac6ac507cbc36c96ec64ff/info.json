@@ -1,0 +1,11 @@
+{
+ "name": "SafeEarn",
+ "website": "https://safearn.money/",
+ "description": "Safe Earn is the first mover of double-reflection tokens. Safe Earn acts as an earning platform by rewarding SafeMoon tokens to holders at a rate of 8.5%, which are then eligible to benefit from the SafeMoon standard reflections of 5%. Safe Earn fills a gap in the DeFi space where standard reflection mechanics give rewards in their own token to holders by instead offering a reward that is desirable. By building a system that can self sustain, Safe Earn exists to be a unique opportunity and a stand out in the world of frictionless yield tokens. Safe Earn itself applies functions from a mix of popular tokens in the DeFi space, including buy backs and burns baked into the contract. It's a hyper deflationary asset and intends to continuously offer opportunity to raise its value and appeal to new investors.",
+ "explorer": "https://bscscan.com/token/0x099f551ea3cb85707cac6ac507cbc36c96ec64ff",
+ "type": "BEP20",
+ "symbol": "SAFEARN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x099f551ea3cb85707cac6ac507cbc36c96ec64ff"
+}
