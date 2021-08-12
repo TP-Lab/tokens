@@ -1,0 +1,11 @@
+{
+    "name": "Bitcoinx",
+    "website": "https://btcxcoin.io/",
+    "description": "Bitcoinx(BTCX) is an anonymous project basing on smart contracts to protect the privacy of users on multi-chain ",
+    "explorer": "https://bscscan.com/token/0x93813e3c4b63931224bbb68ac0179551d5c98b8a",
+    "type": "BEP20",
+    "symbol": "BTCX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x93813E3c4B63931224BbB68AC0179551d5C98b8A"
+}
