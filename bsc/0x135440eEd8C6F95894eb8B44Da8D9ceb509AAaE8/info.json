@@ -1,0 +1,11 @@
+{
+ "name": "PresaleMonster",
+ "website": "https://www.monstertrain.me/",
+ "description": "MonsterTrain GameFI is for true NFT Metaverse fans.",
+ "explorer": "https://bscscan.com/token/0x135440eEd8C6F95894eb8B44Da8D9ceb509AAaE8",
+ "type": "BEP20",
+ "symbol": "PreMonster",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x135440eEd8C6F95894eb8B44Da8D9ceb509AAaE8"
+}
