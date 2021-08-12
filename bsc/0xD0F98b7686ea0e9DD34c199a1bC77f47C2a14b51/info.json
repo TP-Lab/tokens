@@ -1,0 +1,11 @@
+{
+ "name": "Neuralink",
+ "website": "http://neuralinktoken.org/",
+ "description": "NeuraLink is the first 100% community owned decentralized virtual project.",
+ "explorer": "https://bscscan.com/address/0xd0f98b7686ea0e9dd34c199a1bc77f47c2a14b51",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xd0f98b7686ea0e9dd34c199a1bc77f47c2a14b51"
+}
