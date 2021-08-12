@@ -1,0 +1,11 @@
+{
+ "name": "Player Array",
+ "website": "www.playerarray.com",
+ "description": "A NFT ecological chain game platform.",
+ "explorer": "https://bscscan.com/token/0xC865b6fa946587dBd13EA852eAE183E2DF39Af6e",
+ "type": "BEP20",
+ "symbol": "PA",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xC865b6fa946587dBd13EA852eAE183E2DF39Af6e"
+}
