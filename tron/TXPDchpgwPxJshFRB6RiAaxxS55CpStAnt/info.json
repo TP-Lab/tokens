@@ -1,0 +1,11 @@
+{
+ "name": "Future Bank",
+ "website": "http://www.fbchinatop.com/",
+ "description": "一种未来的趋势，世界的玩法",
+ "explorer": "https://tronscan.io/#/token20/TXPDchpgwPxJshFRB6RiAaxxS55CpStAnt",
+ "type": "TRC20",
+ "symbol": "FB",
+ "decimals": 18,
+ "status": "active",
+ "id": "TXPDchpgwPxJshFRB6RiAaxxS55CpStAnt"
+}
