@@ -1,0 +1,11 @@
+{
+ "name": "GodCar",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x3d7fd791035fea23da4b9f6615bf31e201189de7",
+ "type": "BEP20",
+ "symbol": "GodCar",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3d7fd791035fea23da4b9f6615bf31e201189de7"
+}
