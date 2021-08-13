@@ -1,0 +1,11 @@
+{
+ "name": "DogeSmartChain",
+ "website": "http://www.dogesmartchain.net",
+ "description": "Dog smart chain - Dog Coin two-layer network, bringing dog coin into defi ecology and deeply empowering dog coin!",
+ "explorer": "https://bscscan.com/token/0xCddb1F2E312a1adC3b821Cf41c5288fdcb9A01B7",
+ "type": "BEP20",
+ "symbol": "DSC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xCddb1F2E312a1adC3b821Cf41c5288fdcb9A01B7"
+}
