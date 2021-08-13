@@ -1,0 +1,11 @@
+{
+ "name": "RBW Protocol",
+ "website": "无",
+ "description": "RBW Is the first multi-chain DPOS dual-mining protocol based on TRON.",
+ "explorer": "https://tronscan.io/#/token20/THwQH4fxE58QMzHGTcAjE6T1SVeFvGFqrN",
+ "type": "TRC20",
+ "symbol": "RBW",
+ "decimals": 6,
+ "status": "active",
+ "id": "THwQH4fxE58QMzHGTcAjE6T1SVeFvGFqrN"
+}
