@@ -1,0 +1,11 @@
+{
+ "name": "OkexFloki",
+ "website": "https://okexfloki.com",
+ "description": "OkexFloki is Metaverse Inu Token on Okex Chain.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x5d595c3925143e51ff33bad5d5896c9b5e852291",
+ "type": "KIP20",
+ "symbol": "OkexFloki",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5d595c3925143e51ff33bad5d5896c9b5e852291",
+}
