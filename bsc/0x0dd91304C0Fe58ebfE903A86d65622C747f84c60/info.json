@@ -1,0 +1,11 @@
+{
+ "name": "ETDoge",
+ "website": "http://etdoge.com/",
+ "description": "The World first Auto-Resurrection, Hyper Deflationary Coin is here! Every transaction gives members more with Auto-Resurrection and hyper deflation system in place.",
+ "explorer": "https://bscscan.com/address/0x0dd91304C0Fe58ebfE903A86d65622C747f84c60",
+ "type": "BEP20",
+ "symbol": "ETDOGE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0dd91304C0Fe58ebfE903A86d65622C747f84c60"
+}
