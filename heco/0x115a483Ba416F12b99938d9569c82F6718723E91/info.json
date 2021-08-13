@@ -1,0 +1,11 @@
+﻿{
+ "name": "GM partner token",
+ "website": "Under construction",
+ "description": "GM partner token is the management token of GM Club shareholders and enjoys the priority dividend right of GM Club handling fee! 110000 pieces in total, 3.5% of each transaction will be directly destroyed, and 0.1% will be transferred to the initial address as a standby fund!",
+ "explorer": "https://hecoinfo.com/address/0x115a483ba416f12b99938d9569c82f6718723e91",
+ "type": "HRC20",
+ "symbol": "GM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x115a483Ba416F12b99938d9569c82F6718723E91"
+}
