@@ -1,0 +1,11 @@
+{
+ "name": "LNG Token",
+ "website": "https://bscscan.com/token/0x002c200A5F72D051d4C890eccEe635a197A1fC82",
+ "description": "LNG TOKEN.",
+ "explorer": "https://bscscan.com/token/0x002c200A5F72D051d4C890eccEe635a197A1fC82",
+ "type": "BEP20",
+ "symbol": "LNG",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x002c200A5F72D051d4C890eccEe635a197A1fC82"
+}
