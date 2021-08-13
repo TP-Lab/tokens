@@ -1,0 +1,11 @@
+{
+ "name": "mole",
+ "website": "https://mole.live",
+ "description": "Mole Protocol is committed to building a global DEFI ecosystem based on artificial intelligence, providing users with a complete cross-chain decentralized financial platform.",
+ "explorer": "https://hecoinfo.com/token/0x28e202094a25F3b2495F840b1f7331494eF3F88f",
+ "type": "HRC20",
+ "symbol": "MOLE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x28e202094a25F3b2495F840b1f7331494eF3F88f"
+}
