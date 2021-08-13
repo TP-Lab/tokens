@@ -1,0 +1,11 @@
+{
+ "name": "Red Shrimp",
+ "website": " ",
+ "description": "A meme coin",
+ "explorer": "https://bscscan.com/address/0xb8ec7506bfb00358c3da8f7201e2ce9cdb0d8066",
+ "type": "BEP20",
+ "symbol": "Red Shrimp",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xb8ec7506bfB00358C3dA8F7201E2ce9cdB0d8066"
+}
