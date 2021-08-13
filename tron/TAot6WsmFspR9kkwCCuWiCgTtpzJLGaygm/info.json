@@ -1,0 +1,11 @@
+{
+ "name": "TGBM",
+ "website": "http://tronscan.io/",
+ "description": "TGBM致力于打造社区综合治理，建立一个强大的信任体系.",
+ "explorer": "https://tronscan.io/#/token20/TAot6WsmFspR9kkwCCuWiCgTtpzJLGaygm",
+ "type": "TRC20",
+ "symbol": "TGBMCONQUER Token",
+ "decimals": 6,
+ "status": "active",
+ "id": "TAot6WsmFspR9kkwCCuWiCgTtpzJLGaygm"
+}
