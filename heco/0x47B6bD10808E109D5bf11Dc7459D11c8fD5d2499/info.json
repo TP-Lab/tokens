@@ -1,0 +1,11 @@
+{
+ "name": "BTCDEFI",
+ "website": "btcdefi.vip",
+ "description": "Btcdefi is a token issued based on fire coin ecology heco, with a total of 21 million tokens. It adopts the deflation dividend return mechanism. The on chain transfer contract automatically deducts 12%, of which 4% is distributed to all wallet holders, 4% is destroyed to the black hole, and 4% is added to the flow pool.",
+ "explorer": "https://hecoinfo.com/token/0x47B6bD10808E109D5bf11Dc7459D11c8fD5d2499",
+ "type": "HRC-2",
+ "symbol": "BTCDEFI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x47B6bD10808E109D5bf11Dc7459D11c8fD5d2499"
+}
