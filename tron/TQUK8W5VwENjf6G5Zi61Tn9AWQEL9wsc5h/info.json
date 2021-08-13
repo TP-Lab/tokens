@@ -1,0 +1,11 @@
+{
+ "name": "GameForPeace",
+ "website": "https://gameforpeace.fun/",
+ "description": "和平精英",
+ "explorer": "https://tronscan.io/#/token20/TQUK8W5VwENjf6G5Zi61Tn9AWQEL9wsc5h",
+ "type": "TRC20",
+ "symbol": "GFP",
+ "decimals": 18,
+ "status": "active",
+ "id": "TQUK8W5VwENjf6G5Zi61Tn9AWQEL9wsc5h"
+}
