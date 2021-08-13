@@ -1,0 +1,11 @@
+{
+ "name": "LWB",
+ "website": "www.LWB.com",
+ "description": "LWB",
+ "explorer": "https://tronscan.io/#/contract/TR3rHf8D1zZEx5PF3Xh5FZhNtfqNHWERH1",
+ "type": "TRC20",
+ "symbol": "LWB",
+ "decimals": 18,
+ "status": "active",
+ "id": "TR3rHf8D1zZEx5PF3Xh5FZhNtfqNHWERH1"
+}
