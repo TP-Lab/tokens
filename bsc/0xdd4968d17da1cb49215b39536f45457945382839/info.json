@@ -1,0 +1,11 @@
+{
+ "name": "SupersonicDoge Coin",
+ "website": "http://supersonicdoge.com/ ",
+ "description": "SupersonicDoge Coin",
+ "explorer": "https://www.bscscan.com/token/0xdd4968d17da1cb49215b39536f45457945382839",
+ "type": "BEP20",
+ "symbol": "SupersonicDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xdd4968d17da1cb49215b39536f45457945382839"
+}

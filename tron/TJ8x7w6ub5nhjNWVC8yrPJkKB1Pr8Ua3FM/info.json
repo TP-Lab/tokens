@@ -1,0 +1,11 @@
+{
+ "name": "Tesla",
+ "website": "www.Tesla.com",
+ "description": "Tesla",
+ "explorer": "https://tronscan.io/#/contract/TJ8x7w6ub5nhjNWVC8yrPJkKB1Pr8Ua3FM",
+ "type": "TRC20",
+ "symbol": "TSL",
+ "decimals": 18,
+ "status": "active",
+ "id": "TJ8x7w6ub5nhjNWVC8yrPJkKB1Pr8Ua3FM"
+}

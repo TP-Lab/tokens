@@ -1,0 +1,11 @@
+{
+ "name": "ADACAKE",
+ "website": "https://adacakecoin.com",
+ "description": "ADACAKE is a completely decentralized intelligent ecological community will create a global interesting community.",
+ "explorer": "https://bscscan.com/token/0xC8C750b59255d63A8052975Bee5506c021BF30A4",
+ "type": "BEP20",
+ "symbol": "ADACAKE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC8C750b59255d63A8052975Bee5506c021BF30A4"
+}

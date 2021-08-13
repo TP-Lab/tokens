@@ -1,0 +1,11 @@
+{
+ "name": "DTFToken",
+ "website": "http://www.datongs.vip/gw",
+ "description": "DTF是基于信用匹配自治跨链DeFi平台，由世界投资大亨-尤里·米尔纳联合世界极客联盟共同发起。",
+ "explorer": "https://tronscan.org/#/token20/TYAseZuvYbupcmgYVjELu7dveJt1GomVhT",
+ "type": "TRC20",
+ "symbol": "DTF",
+ "decimals": 6,
+ "status": "active",
+ "id": "TYAseZuvYbupcmgYVjELu7dveJt1GomVhT"
+}

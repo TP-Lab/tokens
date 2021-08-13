@@ -1,0 +1,11 @@
+{
+    "name": "Lacar Token",
+    "website": "https://lacar.io/",
+    "description": "Lacar, the first space traveler Let's carry on Lacar Inherit Lacar's spirit of appreciation of culture",
+    "explorer": "https://bscscan.com/token/0xcECE6d1abABcAC0280C24c0d93a4609542d3744a",
+    "type": "BEP20",
+    "symbol": "Lacar",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xcECE6d1abABcAC0280C24c0d93a4609542d3744a"
+   }

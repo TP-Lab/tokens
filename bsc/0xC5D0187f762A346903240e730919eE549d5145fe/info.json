@@ -1,0 +1,11 @@
+{
+ "name": "Bobo Doge Coin",
+ "website": "https://www.bobodoge.com",
+ "description": "BoboDoge Lab was founded in February 2020 aiming at building a decentralized network of oracle which dedicated to work on the external information written into the blockchain.",
+ "explorer": "https://bscscan.com/token/0xC5D0187f762A346903240e730919eE549d5145fe",
+ "type": "BEP20",
+ "symbol": "BoboDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC5D0187f762A346903240e730919eE549d5145fe"
+} 

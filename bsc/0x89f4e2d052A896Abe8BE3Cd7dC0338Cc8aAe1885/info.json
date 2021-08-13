@@ -1,0 +1,11 @@
+{
+    "name": "WorldDatabase",
+    "website": "http://www.worlddatabase.io",
+    "description": "World Database, abbreviated WD, is a public chain of blockchain storage based on disruptive technology and a unique governance model. WD is committed to using distributed storage technology and a unique decentralized automatic operation governance mechanism to provide sustainable, safe, efficient, and low-cost data storage services for the Internet industry and blockchain public chains to build a future network of human infrastructure for technology distribution.",
+    "explorer": "https://bscscan.com/token/0x89f4e2d052A896Abe8BE3Cd7dC0338Cc8aAe1885",
+    "type": "BEP20",
+    "symbol": "WD",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x89f4e2d052A896Abe8BE3Cd7dC0338Cc8aAe1885"
+}

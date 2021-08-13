@@ -1,0 +1,11 @@
+{
+ "name": "nine",
+ "website": "无",
+ "description": "nine 韭币是基于以太链去中心化的私密性代币，以隐私为中心的区块链技术，是颠覆式的社区建设代币，用于转账、运行分布式应用和激励社区参与者。nine 是为致敬“游戏驿站”事件而诞生的社区代币，象征着散户的骑士精神。发行量1000亿，无私幕、无预挖、永不增发，开发团队不拥有任何代币 无时间 无空间 私密强 每个人都是自己的英雄",
+ "explorer": "https://cn.etherscan.com/token/0x6a3aAB575838119ADCBE42063bf60bb4f8063f40",
+ "type": "ERC20",
+ "symbol": "nine",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6a3aAB575838119ADCBE42063bf60bb4f8063f40"
+}

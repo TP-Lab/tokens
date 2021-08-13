@@ -1,0 +1,11 @@
+{
+ "name": "USDT",
+ "website": "",
+ "description": "",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x382bb369d343125bfb2117af9c149795c6c65c50",
+ "type": "KIP20",
+ "symbol": "USDT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x382bb369d343125bfb2117af9c149795c6c65c50"
+}

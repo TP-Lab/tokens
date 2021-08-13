@@ -1,0 +1,11 @@
+{
+    "name": "HochtiefBlockchainToken",
+    "website": "-",
+    "description": "HOBT is a decentralized digital asset developed by European HOCHTIEF company.",
+    "explorer": "https://hecoinfo.com/token/0xb9B8C43F4753c39f71De4142F4E1e7fd0F48e9E7",
+    "type": "HRC20",
+    "symbol": "HOBT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb9B8C43F4753c39f71De4142F4E1e7fd0F48e9E7"
+   }

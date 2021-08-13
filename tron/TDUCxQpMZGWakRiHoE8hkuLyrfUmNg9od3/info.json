@@ -1,0 +1,11 @@
+{
+ "name": "Houk token",
+ "website": "https://www.houndcoin.net",
+ "description": "Houk uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://tronscan.io/#/token20/TDUCxQpMZGWakRiHoE8hkuLyrfUmNg9od3",
+ "type": "TRC20",
+ "symbol": "Houk",
+ "decimals": 18,
+ "status": "active",
+ "id": "TDUCxQpMZGWakRiHoE8hkuLyrfUmNg9od3"
+}
