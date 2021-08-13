@@ -1,0 +1,11 @@
+{
+    "name": "PalmaDOGE",
+    "website": "https://palmadoge.finance",
+    "description": "PalmaDOGE is the new project which paves the way for a series of projects we will carry out in the next 3 years.",
+    "explorer": "https://bscscan.com/address/0xbf3e97b043ff914e1cfc2ab1561e0238712c0c4e",
+    "type": "BEP20",
+    "symbol": "PDOGE",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xbf3e97b043ff914e1cfc2ab1561e0238712c0c4e"
+   }
