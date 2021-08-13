@@ -1,0 +1,11 @@
+{
+ "name": "Rainbow Protocol",
+ "website": "无",
+ "description": "RPW Is the first multi-chain DPOS dual-mining protocol based on TRON.",
+ "explorer": "https://tronscan.io/#/token20/TJLHibBE9y5x4TX2HdutryHcxg46K2dH6S",
+ "type": "TRC20",
+ "symbol": "RPW",
+ "decimals": 6,
+ "status": "active",
+ "id": "TJLHibBE9y5x4TX2HdutryHcxg46K2dH6S"
+}
