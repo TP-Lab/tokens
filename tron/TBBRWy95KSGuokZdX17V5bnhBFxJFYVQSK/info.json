@@ -1,0 +1,11 @@
+{
+ "name": "LBT Token",
+ "website": "https://www.liberty-chain.com",
+ "description": "Liberty(LBT)公链矿商联盟治理代币，用于主网上线前矿商联盟内部流通使用。矿商联盟内部提供50枚测试网代币抵押兑换1枚治理代币进行托底，确保主网上线后治理代币同主网币1比1映射兑付。",
+ "explorer": "https://tronscan.org/#/token20/TBBRWy95KSGuokZdX17V5bnhBFxJFYVQSK",
+ "type": "TRC20",
+ "symbol": "LBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "TBBRWy95KSGuokZdX17V5bnhBFxJFYVQSK"
+}
