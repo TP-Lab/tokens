@@ -1,0 +1,11 @@
+{
+ "name": "SHEROFINANCE",
+ "website": "https://tokenpocket.pro",
+ "description": "It is the first NFT token  on TRON public chain. Hold Shero,Obtain TRX dividend and earn multi-fold benefit of NFT",
+ "explorer": "https://tronscan.org/#/token20/TCr8X1tp9csrmywifKzCJX4bkNFrM1jnLH",
+ "type": "TRC20",
+ "symbol": "SHERO",
+ "decimals": 6,
+ "status": "active",
+ "id": "TCr8X1tp9csrmywifKzCJX4bkNFrM1jnLH"
+}
