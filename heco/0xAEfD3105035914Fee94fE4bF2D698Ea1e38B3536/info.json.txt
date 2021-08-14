@@ -1,0 +1,11 @@
+{
+ "name": "FCNRise",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x0002d45c88cdf6f91459be1bec54a53da69f2392",
+ "type": "HRC-20",
+ "symbol": "FCNRise",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xAEfD3105035914Fee94fE4bF2D698Ea1e38B3536"
+}
