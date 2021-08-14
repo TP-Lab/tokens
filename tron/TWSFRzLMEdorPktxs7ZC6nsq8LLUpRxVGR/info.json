@@ -1,0 +1,11 @@
+{
+ "name": "JSG",
+ "website": "http://jstgcoin.xyz/",
+ "description": "JSG是基于JUST 致力于开发基于 TRON 的 DeFi 协议，旨在为用户提供一站式金融解决方案，JSG上支持构建一个去中心化的社区机构，JSG是基于链上数据、社区评分以及用户在平台内的使用习惯，为用户提供最权威的应用推荐",
+ "explorer": "https://tronscan.org/#/token20/TWSFRzLMEdorPktxs7ZC6nsq8LLUpRxVGR",
+ "type": "TRC20",
+ "symbol": "JSG",
+ "decimals": 6,
+ "status": "active",
+ "id": "TWSFRzLMEdorPktxs7ZC6nsq8LLUpRxVGR"
+}
