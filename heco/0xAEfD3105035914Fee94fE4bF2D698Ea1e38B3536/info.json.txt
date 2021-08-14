@@ -2,7 +2,7 @@
  "name": "FCNRise",
  "website": "-",
  "description": "-",
- "explorer": "https://hecoinfo.com/token/0x0002d45c88cdf6f91459be1bec54a53da69f2392",
+ "explorer": "0x127bdf3508ba9f90659f290858ea5ccefe62a279f9f41d62f1c0de8bb024eff4",
  "type": "HRC-20",
  "symbol": "FCNRise",
  "decimals": 6,
