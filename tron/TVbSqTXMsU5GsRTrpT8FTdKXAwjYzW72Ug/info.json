@@ -1,0 +1,11 @@
+{
+ "name": "Lafite Token",
+ "website": "www.LFT.com",
+ "description": "LFT",
+ "explorer": "https://tronscan.io/#/contract/TVbSqTXMsU5GsRTrpT8FTdKXAwjYzW72Ug",
+ "type": "TRC20",
+ "symbol": "LFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "TVbSqTXMsU5GsRTrpT8FTdKXAwjYzW72Ug"
+}
