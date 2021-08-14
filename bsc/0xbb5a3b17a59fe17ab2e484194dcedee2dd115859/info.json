@@ -1,0 +1,11 @@
+{
+ "name": "Low carbon coin",
+ "website": "-",
+ "description": "LCC (Low Carbon Coin) is a carbon neutral concept environmental currency, the more carbon is consumed, the greater 'carbon dioxide' will be, since global warming is changing with human activity.Our goal is to reduce pollution by donating to organizations that promote low carbon, which will be voted on by the community.",
+ "explorer": "https://www.bscscan.com/token/0xbb5a3b17a59fe17ab2e484194dcedee2dd115859",
+ "type": "BEP20",
+ "symbol": "LCC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbb5a3b17a59fe17ab2e484194dcedee2dd115859"
+}
