@@ -1,0 +1,11 @@
+{
+ "name": "TMSToken",
+ "website": "https://tms.io/",
+ "description": "托马斯",
+ "explorer": "https://tronscan.io/#/token20/TLgrsHnCYc8JCmv9cmiUDAERoWRSDoESZt",
+ "type": "TRC20",
+ "symbol": "TMS",
+ "decimals": 6,
+ "status": "active",
+ "id": "TLgrsHnCYc8JCmv9cmiUDAERoWRSDoESZt"
+}
