@@ -1,0 +1,11 @@
+{
+ "name": "RT Token",
+ "website": "https://www.romacommunity.com",
+ "description": "RT 为 Roma Community 生态协议治理代币，为流动性挖矿产出。 在社区建立过程中，RT 作为投票议会的投票权益通证，提高 Roma Community 的社区自治能力，其持有者可通过提案投票对基金会锁仓的 RC 进行解锁以及使用分配；在未来打造的 NFT 板块中，RT 可用于 NFT 铸造、抵押、拍卖和交易等，允许最活跃的创造者和收藏家为平台升级投票献策，并参与管理和审核。",
+ "explorer": "https://tronscan.io/#/token20/TPJMLmJZEWxz1uGLtwjsEamNmnFK1LqUcq",
+ "type": "TRC20",
+ "symbol": "RT",
+ "decimals": 18,
+ "status": "active",
+ "id": "TPJMLmJZEWxz1uGLtwjsEamNmnFK1LqUcq"
+}
