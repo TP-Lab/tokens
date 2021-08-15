@@ -1,0 +1,14 @@
+{
+ "name": "TCM Coin",
+ "website": "https://tigercoremining.com",
+ "description": "TCM is a new generation of game mining combined with gamefi and NFT, with a total supply of 100 trillion",
+ "explorer": "https://bscscan.com/token/0x03722138bb2fa26282adfb67216a9acd82e675b7",
+ "type": "BEP20",
+ "symbol": "TCM",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x03722138BB2FA26282aDfb67216a9acd82E675B7"
+}
+
+
+
