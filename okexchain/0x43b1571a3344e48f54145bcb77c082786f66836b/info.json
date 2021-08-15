@@ -1,0 +1,11 @@
+{
+ "name": "OKexRush",
+ "website": "http://www.okexrush.com/",
+ "description": "okex首个社区区块价值实验，通过落地支付，销毁所支付的代币，实现代币通缩，提高代币需求",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x43b1571a3344e48f54145bcb77c082786f66836b",
+ "type": "KIP20",
+ "symbol": "OKRush",
+ "decimals": 1,
+ "status": "active",
+ "id": "0x43b1571a3344e48f54145bcb77c082786f66836b"
+}
