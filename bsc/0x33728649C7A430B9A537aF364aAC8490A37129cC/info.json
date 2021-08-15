@@ -1,0 +1,11 @@
+{
+    "name": "DRM-H",
+    "website": "https://www.doraemonfund.org",
+    "description": "DRM-H",
+    "explorer": "https://bscscan.com/token/0x33728649C7A430B9A537aF364aAC8490A37129cC",
+    "type": "BEP20",
+    "symbol": "DRM-H",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x33728649C7A430B9A537aF364aAC8490A37129cC"
+   } 
