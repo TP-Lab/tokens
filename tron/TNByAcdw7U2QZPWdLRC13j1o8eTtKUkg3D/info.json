@@ -1,0 +1,11 @@
+{
+ "name": "RC Token",
+ "website": "https://www.romacommunity.com",
+ "description": "一个去中心化的基于无边界的 NFT（non-fungible token）区块链 孵化平台。前期我们聚焦于区块链和金融理财行业的专业内容生产， 并致力于为所有参与者，即内容创造者、内容持有者、通证持有者创 造获利共赢的生态社区。",
+ "explorer": "https://tronscan.io/#/token20/TNByAcdw7U2QZPWdLRC13j1o8eTtKUkg3D",
+ "type": "TRC20",
+ "symbol": "RC",
+ "decimals": 18,
+ "status": "active",
+ "id": "TNByAcdw7U2QZPWdLRC13j1o8eTtKUkg3D"
+}
