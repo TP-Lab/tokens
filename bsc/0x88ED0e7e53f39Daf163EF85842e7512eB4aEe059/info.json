@@ -1,0 +1,11 @@
+{
+    "name": "QDAM",
+    "website": "https://www.doraemonfund.org",
+    "description": "QDAM",
+    "explorer": "https://bscscan.com/token/0x88ed0e7e53f39daf163ef85842e7512eb4aee059",
+    "type": "BEP20",
+    "symbol": "QDAM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x88ED0e7e53f39Daf163EF85842e7512eB4aEe059"
+   } 
