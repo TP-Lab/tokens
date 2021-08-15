@@ -1,0 +1,12 @@
+
+{
+    "name": "Bullfight",
+    "website": "https://twitter.com/bainianbuhe",
+    "description": "$Bullfight take you to financial freedom!",
+    "explorer": "https://www.bscscan.com/token/0x88f5a8c1b78cee4272db7bf0fe1f3c21584ef64b",
+    "type": "BEP20",
+    "symbol": "Bullfight",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x88f5a8c1b78cee4272db7bf0fe1f3c21584ef64b"
+}
