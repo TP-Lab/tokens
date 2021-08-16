@@ -1,0 +1,11 @@
+{
+ "name": "MZ Token",
+ "website": "http://www.monzoasia.com",
+ "description": "MZ主要用于流动性挖矿，借贷抵押物、 节点质押、去中心化仲裁、去中心化保理等。",
+ "explorer": "https://tronscan.io/#/token20/TEH5BaHe1jJ9E5bva6imU51nQc4sfrd9c8",
+ "type": "TRC20",
+ "symbol": "MZ",
+ "decimals": 6,
+ "status": "active",
+ "id": "TEH5BaHe1jJ9E5bva6imU51nQc4sfrd9c8"
+}
