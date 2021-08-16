@@ -1,0 +1,11 @@
+{
+ "name": "Himi",
+ "website": "https://www.houndcoin.net",
+ "description": "Himi uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://hecoinfo.com/token/0xb298b56fb4433cfcb35f4cbb301f6cda3db298b2",
+ "type": "HRC20",
+ "symbol": "Himi",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb298b56fb4433cfcb35f4cbb301f6cda3db298b2"
+}
