@@ -1,0 +1,11 @@
+﻿{
+ "name": "ZL Token",
+ "website": "https://tronscan.org/",
+ "description": "ZL Token，战狼币",
+ "explorer": "https://tronscan.io/#/token20/TLoG4zmmsWHDd3US8TmPwjznBn2QtWHzWT",
+ "type": "TRC20",
+ "symbol": "ZL",
+ "decimals": 8,
+ "status": "active",
+ "id": "TLoG4zmmsWHDd3US8TmPwjznBn2QtWHzWT"
+}
