@@ -1,0 +1,11 @@
+{
+ "name": "HTZZMOON",
+ "website": "https://htzzmoon.site",
+ "description": "",
+ "explorer": "https://hecoinfo.com/token/0xCbe30DF0845d303aaF38577b86B91DB364bb4421",
+ "type": "HRC-20",
+ "symbol": "HTZZMOON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCbe30DF0845d303aaF38577b86B91DB364bb4421"
+}
