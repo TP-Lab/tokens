@@ -1,0 +1,11 @@
+{
+ "name": "Tower of Saviors",
+ "website": "https://towerofsaviors.com",
+ "description": "TOS is a digital card world,The total number of game tokens TSS issued is 2100001, and the project owner keeps 1 for his own collection.  ",
+ "explorer": "https://bscscan.com/token/0x8ac6e8defdd65984d6e27cbd4765e213db9bd342",
+ "type": "BEP20",
+ "symbol": "TSS",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x8ac6e8defdd65984d6e27cbd4765e213db9bd342"
+}
