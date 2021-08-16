@@ -1,0 +1,11 @@
+{
+ "name": "HQ Token",
+ "website": "https://tronscan.org/",
+ "description": "HQ Token，红旗币",
+ "explorer": "https://tronscan.io/#/token20/TKz3h72CyukEMo93BfNYe1qqaFaj5ScQms",
+ "type": "TRC20",
+ "symbol": "HQ",
+ "decimals": 8,
+ "status": "active",
+ "id": "TKz3h72CyukEMo93BfNYe1qqaFaj5ScQms"
+}
