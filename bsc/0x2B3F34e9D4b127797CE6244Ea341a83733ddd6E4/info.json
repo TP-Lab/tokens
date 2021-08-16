@@ -1,0 +1,11 @@
+{
+ "name": "FLOKI",
+ "website": "https://theflokiinu.com",
+ "description": "Floki Inu is one brave puppy. A new crypto coin birthed by fans & members of the Shiba Inu community. Floki Inu is Elon Musk’s very own shiba inu and he’s hungry for outer-space treats!",
+ "explorer": "https://bscscan.com/address/0x2b3f34e9d4b127797ce6244ea341a83733ddd6e4",
+ "type": "BEP20",
+ "symbol": "FLOKI",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2B3F34e9D4b127797CE6244Ea341a83733ddd6E4"
+}

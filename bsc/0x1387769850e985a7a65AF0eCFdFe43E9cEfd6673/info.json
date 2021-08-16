@@ -1,0 +1,11 @@
+{
+ "name": "AXSS Token",
+ "website": "https://www.AXSScoin.com",
+ "description": "There is no project party, everyone holds $AXSS Are its owners.",
+ "explorer": "https://bscscan.com/token/0x1387769850e985a7a65af0ecfdfe43e9cefd6673",
+ "type": "BEP20",
+ "symbol": "AXSS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1387769850e985a7a65AF0eCFdFe43E9cEfd6673"
+}

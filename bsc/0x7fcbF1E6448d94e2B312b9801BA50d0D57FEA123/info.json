@@ -1,0 +1,11 @@
+{
+  "name": "BabyAxs",
+  "website": "https://www.babyaxs.app",
+  "description": "Bsc Economic freedom for gamers",
+  "explorer": "https://bscscan.com/token/0x7fcbf1e6448d94e2b312b9801ba50d0d57fea123",
+  "type": "BEP20",
+  "symbol": "BabyAxs",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7fcbf1e6448d94e2b312b9801ba50d0d57fea123"
+ }

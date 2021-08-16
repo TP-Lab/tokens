@@ -1,0 +1,11 @@
+{
+  "name": "Magic Power Token",
+  "website": "https://moonbaby.finance",
+  "description": "MGP（Magic Power）是Magic Power社区的治理代币。它将帮助 Magic Cube 生态系统成长为一个超级强大的去中心化金融系统。它的创建是为了连接 Magic Cube 第一阶段生态系统中的整个代币系统。",
+  "explorer": "https://bscscan.com/token/0xa677bc9bDb10329E488A4d8387ED7a08b2fc9005",
+  "type": "BEP20",
+  "symbol": "MGP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa677bc9bDb10329E488A4d8387ED7a08b2fc9005"
+}

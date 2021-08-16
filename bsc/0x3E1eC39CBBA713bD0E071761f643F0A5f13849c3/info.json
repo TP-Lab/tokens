@@ -1,0 +1,11 @@
+{
+ "name": "BakeDog",
+ "website": "https://www.bakedog.cn",
+ "description": "BakeDog.",
+ "explorer": "https://bscscan.com/token/0x3E1eC39CBBA713bD0E071761f643F0A5f13849c3",
+ "type": "BEP20",
+ "symbol": "BakeDog",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3E1eC39CBBA713bD0E071761f643F0A5f13849c3"
+}

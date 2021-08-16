@@ -1,0 +1,11 @@
+{
+ "name": "Kaiken Shiba",
+ "website": "https://kaikenshiba.com/",
+ "description": "Kaiken Shiba is not only hyper-deflationary with a built-in smart betting system to reward holders, but also helps save dogs that are in need.",
+ "explorer": "https://bscscan.com/token/0x11C0c93035d1302083eB09841042cFa582839A8C",
+ "type": "BEP20",
+ "symbol": "KSHIB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x11C0c93035d1302083eB09841042cFa582839A8C"
+}

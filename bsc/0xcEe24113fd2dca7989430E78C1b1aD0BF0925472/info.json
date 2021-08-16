@@ -1,0 +1,11 @@
+{
+ "name": "babyteddy",
+ "website": "无",
+ "description": "BABYTEDDY是基于币安发行的代币，未来价值巨大",
+ "explorer": "https://bscscan.com/token/0xcEe24113fd2dca7989430E78C1b1aD0BF0925472",
+ "type": "BSC20",
+ "symbol": "BABYTEDDY",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xcEe24113fd2dca7989430E78C1b1aD0BF0925472"
+}

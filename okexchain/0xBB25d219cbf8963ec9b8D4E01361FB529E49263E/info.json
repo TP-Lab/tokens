@@ -1,0 +1,11 @@
+{
+ "name": "OKMoon",
+ "website": "https://okmoon.app/",
+ "description": "OKMoon is Metaverse Inu Token on Okex Chain",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xBB25d219cbf8963ec9b8D4E01361FB529E49263E",
+ "type": "KIP20",
+ "symbol": "OKmoon",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xBB25d219cbf8963ec9b8D4E01361FB529E49263E"
+}

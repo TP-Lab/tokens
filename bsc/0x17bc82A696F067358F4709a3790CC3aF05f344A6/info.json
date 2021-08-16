@@ -1,0 +1,11 @@
+{
+"name": "RobotDogeCoin",
+"website": "https://Robotdogecoin.com",
+"description": "BSC",
+"explorer": "https://bscscan.com/token/0x17bc82A696F067358F4709a3790CC3aF05f344A6",
+"type": "BEP20",
+"symbol": "RobotDoge",
+"decimals": 9,
+"status": "active",
+"id": "0x17bc82A696F067358F4709a3790CC3aF05f344A6"
+}

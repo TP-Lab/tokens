@@ -1,0 +1,11 @@
+ {
+  "name": "Gold Rice Token",
+  "website": "http://k-star.cc/",
+  "description": "Under the guidance of the blockchain top architecture concept, in the future, K Star Gold will take the investment and acquisition of more high-quality gold minerals as the development core, take GDRT token as the ecological governance certificate, rely on the blockchain technology to build a new sustainable ecological system, and explore a new road for digital gold ecology.",
+  "explorer": "https://bscscan.com/token/0x3a656e4796C9bC4cB61c4F8b99d2aA6f9B9dD27B",
+  "type": "BEP20",
+  "symbol": "GDRT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3a656e4796C9bC4cB61c4F8b99d2aA6f9B9dD27B"
+}

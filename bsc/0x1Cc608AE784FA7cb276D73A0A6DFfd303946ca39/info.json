@@ -1,0 +1,11 @@
+{
+ "name": "MOFRUBIK",
+ "website": "无",
+ "description": "MOFRUBIK旨在为用户提供完备的去中心化金融基础设施，其核心理念是开放公平、操作简便、是全球首个可实现无抵押借贷的DeFi业务系统，最终将成为全球用户量最多的，加密货币公共开放，金融交易服务代币",
+ "explorer": "https://bscscan.com/token/0x1Cc608AE784FA7cb276D73A0A6DFfd303946ca39",
+ "type": "BEP20",
+ "symbol": "MOF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1Cc608AE784FA7cb276D73A0A6DFfd303946ca39"
+}

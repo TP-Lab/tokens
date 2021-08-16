@@ -1,0 +1,11 @@
+{
+ "name": "MineCraft",
+ "website": "-",
+ "description": "-.",
+ "explorer": "https://bscscan.com/token/0xd81fc9746f4fce5dd2930f5a9ae066edc4f4fffd",
+ "type": "BEP20",
+ "symbol": "MCC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xd81fc9746f4fce5dd2930f5a9ae066edc4f4fffd"
+}
