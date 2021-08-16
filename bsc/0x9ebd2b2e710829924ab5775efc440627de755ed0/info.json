@@ -1,0 +1,16 @@
+{
+ "name": "FTB Network",
+ "website": "http://8.142.44.73:8080/pool",
+ "description": "The design of FTB project stems from the team's in-depth thinking on the
+essence of Finance and defi.The defi platform protocol developed by the decentralized
+automatic market making defi financial technology component based on FTB is
+committed to providing encrypted currency,decentralized lending services and
+supporting most popular digital assets in the world. FTB allows global users to access,
+borrow and repay anytime, anywhere.",
+ "explorer": "https://bscscan.com/token/0x9ebd2b2e710829924ab5775efc440627de755ed0",
+ "type": "BEP20",
+ "symbol": "FTB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9ebd2b2e710829924ab5775efc440627de755ed0"
+}
