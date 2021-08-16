@@ -1,0 +1,11 @@
+{
+ "name": "LoveDoge",
+ "website": "https://www.lovedoge.io",
+ "description": "Love Doge announces the next evolution of revenue-generating and deflationary contracts on bscscan and OKExChain",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x8c4E32E65E236C5C3D2AcA1B2f3C834d4C52bC56",
+ "type": "KIP20",
+ "symbol": "LoveDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8c4E32E65E236C5C3D2AcA1B2f3C834d4C52bC56",
+}

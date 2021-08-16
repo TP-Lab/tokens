@@ -1,0 +1,11 @@
+{
+  "name": "Binamars",
+  "website": "https://www.binamars.com/",
+  "description": "NFT games platform and decentralized yield farm applications.",
+  "explorer": "https://bscscan.com/address/0x46880afc2E6FA41bBbE9787c082f7c23F795465E",
+  "type": "BEP20",
+  "symbol": "BMARS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x46880afc2E6FA41bBbE9787c082f7c23F795465E"
+}

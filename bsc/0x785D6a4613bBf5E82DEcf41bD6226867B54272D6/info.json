@@ -1,0 +1,11 @@
+{
+"name":"LuckyBabyDoge",
+"website":"https://luckybabydoge.com/",
+"description":" LuckyBabyDoge is a yield-generating deflationary charitable cryptocurrency that runs on Binance Smart Chain. It rewards holders through reflections by taxing transactions. It charity is dedicated in dogs protection and creating dog shelter ",
+"explorer":"https://bscscan.com/token/0x785D6a4613bBf5E82DEcf41bD6226867B54272D6",
+"type":"BEP20",
+"symbol":"LuckyBabyDoge",
+"decimals":9,
+"status":"active",
+"id":"0x785D6a4613bBf5E82DEcf41bD6226867B54272D6"
+}

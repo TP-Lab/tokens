@@ -1,0 +1,11 @@
+{
+ "name": "Rose Token",
+ "website": "http://rosetoken.com.cn",
+ "description": "ROSE is a virtual world platform based on blockchain, which aims to solve the problem of platform vendors earning intermediate profits for decentralized open source projects, so as to achieve interoperability between content creators and members; The project uses blockchain technology to acquire and transfer virtual property rights, and allows users to permanently hold these virtual property rights and operate them to make profits for their own content creation. ROSE consists of six parts: Wrapper: cross-chain gateway Swap: liquidity provider Vault: asset management RUSD: stable currency Perp: contract transaction DAO: decentralized autonomous organization.",
+ "explorer": "https://tronscan.io/#/token20/TK5HXaW4mc1jyiUjqnuJeYEcNej3vThW3J",
+ "type": "TRC20",
+ "symbol": "ROSE",
+ "decimals": 18,
+ "status": "active",
+ "id": "TK5HXaW4mc1jyiUjqnuJeYEcNej3vThW3J"
+}

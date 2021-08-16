@@ -1,0 +1,11 @@
+{
+  "name": "Water Token",
+  "website": "http://21000.one/",
+  "description": "Water Token",
+  "explorer": "https://bscscan.com/token/0x881C4E1f6f78f732850B1E3C8bc90d2c0AE4b787",
+  "type": "BEP20",
+  "symbol": "WT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x881C4E1f6f78f732850B1E3C8bc90d2c0AE4b787"
+}

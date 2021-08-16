@@ -1,0 +1,11 @@
+{
+ "name": "Chocolate dog",
+ "website": " - ",
+ "description": " - ",
+ "explorer": "https://bscscan.com/token/0x7186889a2364d732e2bd0adf41665dc04034a9dd",
+ "type": "BEP20",
+ "symbol": " Chocolatedog ",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x7186889a2364d732e2bD0adf41665DC04034a9Dd"
+}

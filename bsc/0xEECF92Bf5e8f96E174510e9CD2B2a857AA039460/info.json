@@ -1,0 +1,11 @@
+{
+ "name": "DCS Token",
+ "website": "https://https://dcs.cash/",
+ "description": "A new transaction model that is decentralized, anonymous, secure, shared, and mutually beneficial.",
+ "explorer": "https://bscscan.com/token/0xEECF92Bf5e8f96E174510e9CD2B2a857AA039460",
+ "type": "BEP20",
+ "symbol": "DCS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEECF92Bf5e8f96E174510e9CD2B2a857AA039460"
+}
