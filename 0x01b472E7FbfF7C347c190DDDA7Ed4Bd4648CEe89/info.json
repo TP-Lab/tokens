@@ -1,0 +1,11 @@
+{
+ "name": "OMEGA",
+ "website": "http://www.omegaweb.cc",
+ "description": "Gradually establish a simple, accurate and safe investment platform through decentralized connectors and omg tokens",
+ "explorer": "https://hecoinfo.com/token/0x01b472E7FbfF7C347c190DDDA7Ed4Bd4648CEe89",
+ "type": "HRC20",
+ "symbol": "OMG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x01b472E7FbfF7C347c190DDDA7Ed4Bd4648CEe89"
+}
