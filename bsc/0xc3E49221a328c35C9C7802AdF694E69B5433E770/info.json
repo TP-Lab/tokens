@@ -1,0 +1,11 @@
+{
+ "name": "StarLink X",
+ "website": "http://starlinkx.top",
+ "description": "项目基于互联网络Web3.0技术研发及网络设施布局，主要方向为智能进化研究及智慧信息传输节点网络的应用。",
+ "explorer": "https://bscscan.com/token/0xc3E49221a328c35C9C7802AdF694E69B5433E770",
+ "type": "BEP20",
+ "symbol": "SX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc3E49221a328c35C9C7802AdF694E69B5433E770"
+}
