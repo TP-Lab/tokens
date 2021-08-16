@@ -1,0 +1,11 @@
+{
+ "name": "SuperDoge Token",
+ "website": "http://www.superdoge.vip",
+ "description": "Superdoge token with the characteristics of automatic destruction repurchase and mining has great potential",
+ "explorer": "https://www.oklink.com/okexchain/address/0xd57d49c65c4c67d0e224b9eec7e19ca1046a3d94",
+ "type": "KIP20",
+ "symbol": "SuperDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd57d49c65c4c67d0e224b9eec7e19ca1046a3d94"
+}
