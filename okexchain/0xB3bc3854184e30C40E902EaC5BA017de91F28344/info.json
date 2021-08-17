@@ -1,0 +1,11 @@
+{
+ "name": "OKO",
+ "website": "https://www.oko-token.com",
+ "description": "OKO is a top-level token with fixed total amount, negligible gas transaction cost, excellent, and safe code mechanism.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xb3bc3854184e30c40e902eac5ba017de91f28344",
+ "type": "KIP20",
+ "symbol": "OKO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb3bc3854184e30c40e902eac5ba017de91f28344"
+}
