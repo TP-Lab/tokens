@@ -1,0 +1,11 @@
+{
+ "name": "SteamCoin",
+ "website": "http://www.steamcoin.top",
+ "description": "Steam Coin is a Governance Token for SC Ecology. Contract built-in buyback and dividend double mechanism.",
+ "explorer": "https://bscscan.com/token/0xFF726f8528329672C9E1C526F3f10cDB736BEE95",
+ "type": "BEP20",
+ "symbol": "SC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xFF726f8528329672C9E1C526F3f10cDB736BEE95"
+}
