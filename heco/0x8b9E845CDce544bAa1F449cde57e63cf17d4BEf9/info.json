@@ -3,7 +3,7 @@
  "website": "https://hecoinfo.com/token/0x8b9e845cdce544baa1f449cde57e63cf17d4bef9#balances",
  "description": "Hair style August 12, 2021",
  "explorer": "https://hecoinfo.com/token/0x8b9e845cdce544baa1f449cde57e63cf17d4bef9#balances",
- "type": "BEP20",
+ "type": "heco",
  "symbol": "QLM",
  "decimals": 18,
  "status": "active",
