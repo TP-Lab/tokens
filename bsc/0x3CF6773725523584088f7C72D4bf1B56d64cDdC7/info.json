@@ -1,0 +1,11 @@
+{
+ "name": "StackCake",
+ "website": "https://www.stack-cake.com",
+ "description": "Stack Cake, A Binance Smart Chain Token that rewards holders by sending 14% $Cake from all transactions automatically to your wallet.",
+ "explorer": "https://bscscan.com/token/0x3CF6773725523584088f7C72D4bf1B56d64cDdC7",
+ "type": "BEP20",
+ "symbol": "StackCake",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3CF6773725523584088f7C72D4bf1B56d64cDdC7"
+}
