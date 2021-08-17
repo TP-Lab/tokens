@@ -1,0 +1,12 @@
+{
+ "name": "Western mining pool",
+ "website": "https://www.WMPcoin.com",
+ "description": "Westernminingpool以创新为基础，打造全球领先的一站式算力生态，
+提供多币种挖矿服务，数字资产管理服务以及企业级公链应用开发服务.",
+ "explorer": "https://bscscan.com/token/0x2BAAFBb0C7e50aAB43f637dc902f58F1F5fEA4e7",
+ "type": "BEP20",
+ "symbol": "WMP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2BAAFBb0C7e50aAB43f637dc902f58F1F5fEA4e7"
+}
