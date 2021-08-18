@@ -1,0 +1,11 @@
+{
+ "name": "PiMoon",
+ "website": "http://www.pimooncoin.com",
+ "description": "Pi coins to the moon",
+ "explorer": "https://hecoinfo.com/tx/0xe376e0a637159cc49124c41a46739c7d72f8614e28aef1b5c88afa7eb776d48d",
+ "type": "HECO",
+ "symbol": "PiMoon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE1C91942e366dd875D0BA2729Fd89569fdD552dB"
+}
