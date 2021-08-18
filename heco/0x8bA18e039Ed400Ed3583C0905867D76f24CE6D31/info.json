@@ -1,0 +1,11 @@
+{
+ "name": "FBT",
+ "website": "http://FBT.club/",
+ "description": "FBT.",
+ "explorer": "https://hecoinfo.com/token/0x8bA18e039Ed400Ed3583C0905867D76f24CE6D31",
+ "type": "HRC-2",
+ "symbol": "FBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8bA18e039Ed400Ed3583C0905867D76f24CE6D31"
+}
