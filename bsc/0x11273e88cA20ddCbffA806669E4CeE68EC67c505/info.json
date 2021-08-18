@@ -1,0 +1,11 @@
+{
+ "name": "Amc Token",
+ "website": "https://www.amctoken.top/",
+ "description": "海外版和平精英元宇宙游戏项目主要针对海外玩家，只在海外市场流通代币，主要功能在游戏里面买卖枪支弹药、汽车大炮 、 皮肤、衣服背包等游戏需要的一切工具，游戏加入了PK模式，胜利一方可以获得输的一方武器装备 ，游戏里面所有物价都可以兑换等价的代币，目前众多国内外知名投资机构参投 ",
+ "explorer": "https://bscscan.com/token/0x11273e88cA20ddCbffA806669E4CeE68EC67c505",
+ "type": "BEP20",
+ "symbol": "AMC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x11273e88cA20ddCbffA806669E4CeE68EC67c505"
+}
