@@ -1,0 +1,11 @@
+{
+ "name": "PurnNet Token",
+ "website": "https://eoam.club",
+ "description": "PurnNet Token is a storage and auxiliary location service project based on 5g multi node decentralization",
+ "explorer": "https://etherscan.io/token/0x87441029f93a401ef502593d12a059af03e4fcc0",
+ "type": "BEP20",
+ "symbol": "PNT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x87441029f93A401Ef502593D12a059aF03e4fcC0"
+} 
