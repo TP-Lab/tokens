@@ -1,0 +1,11 @@
+{
+ "name": "JMY",
+ "website": "http://digitalsamcoin.com",
+ "description": "JMY Token",
+ "explorer": "https://tronscan.io/#/contract/TPVB2kdgYH6jTMprXGWubBX8aPdGiR2eRB",
+ "type": "TRC20",
+ "symbol": "JMY",
+ "decimals": 6,
+ "status": "active",
+ "id": "TPVB2kdgYH6jTMprXGWubBX8aPdGiR2eRB"
+}
