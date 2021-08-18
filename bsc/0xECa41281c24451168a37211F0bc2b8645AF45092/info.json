@@ -1,0 +1,11 @@
+{
+ "name": "Psychodoge Token",
+ "website": "https://psychodoge.io/",
+ "description": "$PSYCHODOGE is a hyper-deflationary Binance Smart Chain BEP-20 token dragging you from the screaming depths of memecoin hell and misery and rocketing you to smiling your ass off all the way to the moon and beyond! No “buy-back” bullshit, no “rewards in BNB”, no fancy fuckery…",
+ "explorer": "https://bscscan.com/token/0xD4cdBd31f55c6F06B267809b5eca0f0C257c8A6A",
+ "type": "BEP20",
+ "symbol": "PSYCHODOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD4cdBd31f55c6F06B267809b5eca0f0C257c8A6A"
+}
