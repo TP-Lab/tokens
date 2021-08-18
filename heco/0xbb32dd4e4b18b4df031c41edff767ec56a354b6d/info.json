@@ -1,0 +1,12 @@
+{
+ "name": "LoveforeverGuoEr Token",
+ "website": "",
+ "description": "该项目主要为纪念狗哥和果儿的爱情故事，代币总量（1314520000）45%全部为免费赠送，创建当天40%代币已赠送给故事中的女主人公（520000000），15%已全额添加进MDEX流动性。项目方0预留，0私募
+永不跑路，永不护盘（因为没钱）池子令牌已全部销毁（项目方无法撤池）为保证代币数量永远为1314520000，所以无销毁，滑点0.1%即可购买，唉，就是玩，爱买不买",
+ "explorer": "https://hecoinfo.com/token/0xbb32dd4e4b18b4df031c41edff767ec56a354b6d",
+ "type": "HRC20",
+ "symbol": "LoveforeverGuoEr",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbb32dd4e4b18b4df031c41edff767ec56a354b6d"
+}
