@@ -1,0 +1,11 @@
+{
+ "name": "DarryringCoin",
+ "website": "https://bscscan.com/token/0x500e3244bC436CBb99E26586798d9A7C6ccd7104",
+ "description": "DarryringCoin Token",
+ "explorer": "https://bscscan.com/token/0x500e3244bC436CBb99E26586798d9A7C6ccd7104",
+ "type": "BEP20",
+ "symbol": "DR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x500e3244bC436CBb99E26586798d9A7C6ccd7104"
+}
