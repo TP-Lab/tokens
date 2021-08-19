@@ -1,0 +1,11 @@
+{
+ "name": "Bollo",
+ "website": "https://bollogroup.com",
+ "description": "Bollo Group is emblematic of the true decentralized finance space with all-around products in Bollo ecosystem.",
+ "explorer": "https://bscscan.com/token/0x66bf4057AB565d88F58814ba64F84B8A3F832e54",
+ "type": "BEP20",
+ "symbol": "BOLO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x66bf4057AB565d88F58814ba64F84B8A3F832e54"
+}
