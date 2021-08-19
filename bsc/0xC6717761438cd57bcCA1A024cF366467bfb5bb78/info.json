@@ -1,11 +1,11 @@
 {
-"name": “Don’t KYC”,
-"website": "https://dontkyc.com”,
-"description": "Don’t Know Your Customer (DKYC) is a novel and seamless integration between Decentralized Finance (DeFi) and real-world anonymous spending. Invest on the Binance Smart Chain (BSC) while funding your everyday life with the dividends. No identification required. Ever.",
-"explorer": "https://bscscan.com/token/0xc6717761438cd57bcca1a024cf366467bfb5bb78",
-"type": "BEP20",
-"symbol": "DKYC”,
-"decimals": 9,
-"status": "active",
-"id": "0xC6717761438cd57bcCA1A024cF366467bfb5bb78"
+ "name": "Don't KYC",
+ "website": "https://dontkyc.com",
+ "description": "Don’t Know Your Customer (DKYC) is a novel integration between Decentralized Finance (DeFi) and real-world anonymous spending.",
+ "explorer": "https://bscscan.com/token/0xc6717761438cd57bcca1a024cf366467bfb5bb78",
+ "type": "BEP20",
+ "symbol": "DKYC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC6717761438cd57bcCA1A024cF366467bfb5bb78"
 }
