@@ -1,0 +1,11 @@
+{
+ "name": "GSC Token",
+ "website": "http://www.gsccoin.com",
+ "description": "GSC (Monster Coin) is a new DeFi decentralized financial protocol token based on the Firecoin chain. gsc will play an important role in DeFi decentralized financial and NFT non-homogeneous token protocol algorithms, bookkeeping rights, on-chain asset management, etc..",
+ "explorer": "https://hecoinfo.com/token/0xfeeffd9c8fe8bda11567e38b1ebe715bbecd365b",
+ "type": "HRC20",
+ "symbol": "GSC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFeefFd9c8Fe8bDa11567e38B1eBE715BbeCd365B"
+}
