@@ -1,0 +1,11 @@
+{
+ "name": "VST",
+ "website": "https://www.Qinfinity.com",
+ "description": "VS Token(VST) is a Defi-related coin based on ETH. VST token came out to be free from the virus.",
+ "explorer": "https://etherscan.io/token/0x739F608908100435EBBf30FAa940e6b8432d01D1",
+ "type": "ERC20",
+ "symbol": "VST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x739F608908100435EBBf30FAa940e6b8432d01D1"
+}
