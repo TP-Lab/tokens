@@ -1,0 +1,11 @@
+{
+ "name": "TokenPocket Token",
+ "website": "",
+ "description": "SX是第一个基于OEC的区块链网络流行性嘲讽语言元素通证.",
+ "explorer": "https://www.oklink.com/okexchain/",
+ "type": "KIP20",
+ "symbol": "SX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x500E9282D86dDa48bDf7B00f7ae9eE394d731Efe"
+}
