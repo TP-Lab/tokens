@@ -1,0 +1,11 @@
+{
+ "name": "VST",
+ "website": "https://www.Qinfinity.com",
+ "description": "VS Token(VST) is a Defi-related coin based on HECO. VST token came out to be free from the virus.",
+ "explorer": "https://hecoinfo.com/address/0xC3e4D68B00aE0E86113a57589A1f0B4a21339b22",
+ "type": "HECO",
+ "symbol": "VST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC3e4D68B00aE0E86113a57589A1f0B4a21339b22"
+}
