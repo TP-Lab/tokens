@@ -1,0 +1,11 @@
+{
+ "name": "Bike",
+ "website": "http://www.kbbcoin.top",
+ "description": "A new generation of mobile mining system.",
+ "explorer": "https://hecoinfo.com/address/0x706c27d2994a359a8A6D1Ef101Dff7b77A216FCC",
+ "type": "HECO",
+ "symbol": "KBB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x706c27d2994a359a8A6D1Ef101Dff7b77A216FCC"
+}
