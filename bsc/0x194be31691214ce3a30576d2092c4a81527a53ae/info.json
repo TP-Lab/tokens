@@ -1,0 +1,11 @@
+{
+ "name": "Bestshot.win",
+ "website": "https://bestshot.win/",
+ "description": "BestShot is a Play-to-earn sports prediction game built especially for fans to engage with their favorite teams.",
+ "explorer": "https://bscscan.com/token/0x194be31691214ce3a30576d2092c4a81527a53ae",
+ "type": "BEP20",
+ "symbol": "WIN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x194be31691214ce3a30576d2092c4a81527a53ae"
+}
