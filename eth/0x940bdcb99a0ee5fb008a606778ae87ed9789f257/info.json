@@ -1,0 +1,11 @@
+{
+ "name": "JFIN Coin",
+ "website": "https://www.jfincoin.io",
+ "description": "JFIN aims to provide decentralized digital lending platform and JFin Coin Utility Token to be utilized in its ecosystem.",
+ "explorer": "https://etherscan.io/token/0x940bdcb99a0ee5fb008a606778ae87ed9789f257",
+ "type": "ERC20",
+ "symbol": "JFIN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x940bdcb99a0ee5fb008a606778ae87ed9789f257"
+}
