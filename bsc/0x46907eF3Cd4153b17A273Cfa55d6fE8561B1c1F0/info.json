@@ -1,0 +1,11 @@
+{
+ "name": "TorchSwap",
+ "website": "https://tht.ink",
+ "description": "THT ( Torch Token )火炬令牌,由 Torch Fund 发起,集合一批全球区块链社区信仰者,以星星之火可以燎原之勇气,传递火炬之精神,打破不平等的利益分配,打造一个完全公开透明、公平公正的区块链生态",
+ "explorer": "https://bscscan.com/token/0x46907eF3Cd4153b17A273Cfa55d6fE8561B1c1F0",
+ "type": "BEP20",
+ "symbol": "THT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x46907eF3Cd4153b17A273Cfa55d6fE8561B1c1F0"
+}
