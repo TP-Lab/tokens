@@ -1,0 +1,11 @@
+{
+ "name": "深圳链改咨询科技有限公司",
+ "website": "http://lgkj.org/",
+ "description": "链改科技代币",
+ "explorer": "https://bscscan.com/token/0x1CEd7139AE902bd0A5463ADE1315b9fE50D8B6fE",
+ "type": "BEP20",
+ "symbol": "LGKJ",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x1CEd7139AE902bd0A5463ADE1315b9fE50D8B6fE"
+}
