@@ -1,0 +1,12 @@
+
+{
+    "name": "Bullfight",
+    "website": "https://twitter.com/BullfightToken",
+    "description": "$Bullfight take you to financial freedom!",
+    "explorer": "https://www.bscscan.com/token/0x3DA4eD9aAE61193d9D1E8D06153c2eD0aA89d1D9",
+    "type": "BEP20",
+    "symbol": "Bullfight",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3DA4eD9aAE61193d9D1E8D06153c2eD0aA89d1D9"
+}
