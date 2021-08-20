@@ -1,0 +1,11 @@
+{
+ "name": "Dawn Token",
+ "website": "https://www.Dawn Token.com",
+ "description": "Dawn Token",
+ "explorer": "https://hecoinfo.com/token/0x43c2346cc0e66484a456F87e35940d45dC3f53aF",
+ "type": "HRC-2",
+ "symbol": "DT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x43c2346cc0e66484a456F87e35940d45dC3f53aF"
+}
