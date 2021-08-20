@@ -1,0 +1,11 @@
+{
+    "name": "MMR",
+    "website": "https://dapp.mmr.finance",
+    "description": "Make Me Rich Finance.",
+    "explorer": "https://bscscan.com/address/0x5787519D098223e7Ee1700cA3b253434a02F254C",
+    "type": "BEP20",
+    "symbol": "mmr",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5787519D098223e7Ee1700cA3b253434a02F254C"
+}
