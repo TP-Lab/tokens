@@ -1,0 +1,11 @@
+{
+ "name": "Excited Dog Coin",
+ "website": "https://edogcoin.pro",
+ "description": "EDOG是币安链最新机制的代币，自带回购拉盘，销毁的机制，用机制打造最强共识代币.",
+ "explorer": "https://bscscan.com/token/0xcF665fB62dC6EE3dCA000E7E3fD938902f2721C5",
+ "type": "BEP20",
+ "symbol": "EDOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcF665fB62dC6EE3dCA000E7E3fD938902f2721C5"
+}
