@@ -1,0 +1,11 @@
+{
+    "name": "Bwitter Token",
+    "website": "https://www.bwitter.co",
+    "description": "SocialFi",
+    "explorer": "https://bscscan.com/token/0x8d32605b25921b548eefccdabc11e46543597aa7",
+    "type": "BEP20",
+    "symbol": "BT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8d32605B25921B548EEfcCDABc11e46543597Aa7"
+}
