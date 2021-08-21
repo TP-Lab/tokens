@@ -1,0 +1,11 @@
+{
+ "name": "Evelyn blockchain",
+ "website": "http://www.evelyn.world/",
+ "description": "Evelyn blockchain(EVB),takes promotion of the development of blockchain as its own responsibility,ully pushing forward the innovative development of Gamefi and being determined to become the pioneer of Defi + Gamefi + NFT.",
+ "explorer": "https://tronscan.org/#/token20/TQnpQtnkcyiUS6hMjJgzR9XHfFEgNtk7mM",
+ "type": "TRC20",
+ "symbol": "EVB",
+ "decimals": 18,
+ "status": "active",
+ "id": "TQnpQtnkcyiUS6hMjJgzR9XHfFEgNtk7mM"
+}
