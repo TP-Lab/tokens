@@ -1,0 +1,11 @@
+{
+ "name": "Green Bitcoin ",
+ "website": "https://GreenBitcoin.io",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/address/0xD9fEC7977c98dbBb79dFA99C87cfcDDDAb497A0B",
+ "type": "BEP20",
+ "symbol": "GBTC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xD9fEC7977c98dbBb79dFA99C87cfcDDDAb497A0B"
+}
