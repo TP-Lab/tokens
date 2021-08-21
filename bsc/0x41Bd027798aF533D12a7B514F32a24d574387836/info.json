@@ -1,0 +1,11 @@
+{
+ "name": "KB24",
+ "website": "https://filoopide.com/",
+ "description": "A token to commemorate kobe",
+ "explorer": "https://bscscan.com/address/0x41bd027798af533d12a7b514f32a24d574387836",
+ "type": "BEP20",
+ "symbol": "KB24",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x41bd027798af533d12a7b514f32a24d574387836"
+}
