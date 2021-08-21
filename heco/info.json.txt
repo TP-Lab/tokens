@@ -1,0 +1,11 @@
+{
+ "name": "infinite Token",
+ "website": "https://www.infinite.io",
+ "description": "INF is based on the Huobi Ecological Chain .",
+ "explorer": "https://hecoinfo.com/token/0x8d095a4f7492f84e9695722f5194f65cce430eb3",
+ "type": "HRC20",
+ "symbol": "INF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8D095a4f7492F84E9695722f5194f65Cce430EB3"
+}
