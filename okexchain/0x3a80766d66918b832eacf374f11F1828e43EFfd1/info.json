@@ -1,0 +1,11 @@
+{
+ "name": "Love Token",
+ "website": "https://loveswap.finance",
+ "description": "LoveSwap is a decentralized exchange. It uses an Automated Market Maker (AMM) mechanism designed to enable self-driven liquidity creation",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x3a80766d66918b832eacf374f11F1828e43EFfd1",
+ "type": "KIP20",
+ "symbol": "LOVE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3a80766d66918b832eacf374f11F1828e43EFfd1"
+}
