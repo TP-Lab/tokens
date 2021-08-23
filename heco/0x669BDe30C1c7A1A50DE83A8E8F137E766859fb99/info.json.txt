@@ -1,0 +1,11 @@
+{
+    "name": "Black Hole Coin",
+    "website": "-",
+    "description": "Black Hole The ultimate destruction drives the growth of value ",
+    "explorer": "https://hecoinfo.com/token/0x669BDe30C1c7A1A50DE83A8E8F137E766859fb99",
+    "type": "HRC-20",
+    "symbol": "BlackHole",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x669BDe30C1c7A1A50DE83A8E8F137E766859fb99"
+   }
