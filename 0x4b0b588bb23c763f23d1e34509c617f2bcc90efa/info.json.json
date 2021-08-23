@@ -1,0 +1,11 @@
+{
+ "name": "TokenPocket Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x4b0b588bb23c763f23d1e34509c617f2bcc90efa",
+ "type": "BEP20",
+ "symbol": "YFI2",
+ "decimals": 10,
+ "status": "active",
+ "id": "0x4B0b588bb23c763F23d1e34509c617f2Bcc90Efa"
+}
