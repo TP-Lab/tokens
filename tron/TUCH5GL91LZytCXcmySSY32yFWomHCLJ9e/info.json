@@ -1,0 +1,11 @@
+{
+ "name": "NbcToken",
+ "website": "https://nbctoken.one",
+ "description": "NIUBTC global top-level blockchain cloud computing platform.",
+ "explorer": "https://tronscan.io/#/token20/TUCH5GL91LZytCXcmySSY32yFWomHCLJ9e",
+ "type": "TRC20",
+ "symbol": "NBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "TUCH5GL91LZytCXcmySSY32yFWomHCLJ9e"
+}
