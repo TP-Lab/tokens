@@ -1,0 +1,11 @@
+{
+ "name": "Forbes Token",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0xc9cbe494b5dcbe8776722ac324e5ad4c88fb669c",
+ "type": "BSC20",
+ "symbol": "FOT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC9CBe494b5dCBe8776722aC324e5AD4C88FB669c"
+}
