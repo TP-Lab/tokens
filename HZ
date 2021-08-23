@@ -1,1 +1,11 @@
-
+{
+ "name": "HZ",
+ "website": "-",
+ "description": "由社区驱动、流动池已锁死200年，无团队保留，完全去中心化，完全社区自治。将陆续推出线上商店、NFT产品、在线游戏集中使用场景",
+ "explorer": "https://bscscan.com/token/0xbf0bf0ca14369185701e7e505ddf1fbca6df2878#balances",
+ "type": "BEP20",
+ "symbol": "HZ",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xbF0bF0cA14369185701e7E505ddf1fBCA6dF2878"
+}
