@@ -1,0 +1,11 @@
+{
+ "name": "CFAToken",
+ "website": "https://cfalab.pro",
+ "description": "Space program DeFi + NFT Leading a new era of blockchain.",
+ "explorer": "https://bscscan.com/token/0xc5a498fbbfd5f88cb7e86a7b54485fc9697fd2af",
+ "type": "BEP20",
+ "symbol": "CFA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC5a498FbBFD5F88cB7e86A7b54485Fc9697fD2Af"
+}
