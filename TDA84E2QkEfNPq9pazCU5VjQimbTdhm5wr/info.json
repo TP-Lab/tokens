@@ -1,0 +1,11 @@
+{
+ "name": "Borgcoin",
+ "website": "http://borgdefi.org/",
+ "description": ":BGC是Borg-Defi的头矿生态代币，总量发行6万枚，全部用于销毁，转换成挖矿算力。",
+ "explorer": "https://tronscan.io/#/token20/TDA84E2QkEfNPq9pazCU5VjQimbTdhm5wr",
+ "type": "TRC20",
+ "symbol": "BGC",
+ "decimals": 18,
+ "status": "active",
+ "id": "TDA84E2QkEfNPq9pazCU5VjQimbTdhm5wr"
+}
