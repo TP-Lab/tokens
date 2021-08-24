@@ -1,0 +1,11 @@
+{
+    "name": "Pretty Dog Coin",
+    "website": "-",
+    "description": "PrettyDog is a highly deflationary decentralized currency",
+    "explorer": "https://hecoinfo.com/token/0x5E586bb9B96dcFCB7d9933fB8c3148FF50c934B8",
+    "type": "HRC-20",
+    "symbol": "PrettyDog",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5E586bb9B96dcFCB7d9933fB8c3148FF50c934B8"
+   }
