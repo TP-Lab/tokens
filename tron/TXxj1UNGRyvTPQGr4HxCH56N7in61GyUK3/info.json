@@ -4,7 +4,7 @@
  "description": ":Borg是Borg-Defi的生态治理代币，是以区块链技术为基础，以去中心化、社区自治、分布式金融为设计原则，在TRON的分布式节点上构建“DApppool”，融合区块链的真实属性和价值，构建一个生态系统。",
  "explorer": "https://tronscan.io/#/token20/TXxj1UNGRyvTPQGr4HxCH56N7in61GyUK3",
  "type": "TRC20",
- "symbol": "Borg ",
+ "symbol": "Borg",
  "decimals": 18,
  "status": "active",
  "id": "TXxj1UNGRyvTPQGr4HxCH56N7in61GyUK3"
