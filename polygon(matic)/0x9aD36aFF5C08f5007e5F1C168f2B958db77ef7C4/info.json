@@ -1,0 +1,11 @@
+{
+ "name": "Rapture",
+ "website": "https://rapture.cash",
+ "description": "Rapture is the first FPS game on blockchain. Players leverage RT to acquire in-game NFTs and trade them.",
+ "explorer": "https://polygonscan.com/token/0x9aD36aFF5C08f5007e5F1C168f2B958db77ef7C4",
+ "type": "MATIC",
+ "symbol": "RT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9aD36aFF5C08f5007e5F1C168f2B958db77ef7C4"
+}
