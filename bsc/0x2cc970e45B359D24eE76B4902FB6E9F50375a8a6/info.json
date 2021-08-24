@@ -1,0 +1,11 @@
+{
+ "name": "Anonymous",
+ "website": "https://www.anmfinance.com/",
+ "description": "A BEP-20 Token created on Binance Smart Chain",
+ "explorer": "https://bscscan.com/token/0x2cc970e45B359D24eE76B4902FB6E9F50375a8a6",
+ "type": "BEP20",
+ "symbol": "ANM",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2cc970e45B359D24eE76B4902FB6E9F50375a8a6"
+}
