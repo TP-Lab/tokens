@@ -1,0 +1,11 @@
+{
+ "name": "WANT Token",
+ "website": "https://wantoken.xyz",
+ "description": "WANT is deeply integrate the blockchain technology with the real economy to enable the real economy.",
+ "explorer": "https://tronscan.io/#/contract/TVgtDCAQeqWpr7U1HGQZGgHmvFtcBjRjpG",
+ "type": "TRC20",
+ "symbol": "WANT",
+ "decimals": 8,
+ "status": "active",
+ "id": "TVgtDCAQeqWpr7U1HGQZGgHmvFtcBjRjpG"
+}
