@@ -1,0 +1,11 @@
+{
+ "name": "KenB Coin",
+ "website": "Null",
+ "description": "One BSC Token, total supply 1000 trillion, 8% transaction tax for Holder dividend and burn, 7% transaction tax for adding liquidity pool.",
+ "explorer": "https://bscscan.com/token/0xea83a82b571dccd30071b79e2440baf6187902c8",
+ "type": "BEP20",
+ "symbol": "KENB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xEa83A82b571DCcd30071B79E2440baF6187902C8"
+}
