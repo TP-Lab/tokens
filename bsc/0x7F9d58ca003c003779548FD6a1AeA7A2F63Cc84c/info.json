@@ -1,0 +1,11 @@
+{
+ "name": "IDEToken",
+ "website": "https://identity.kim",
+ "description": "building the blockchain did and the trusted network.",
+ "explorer": "https://bscscan.com/address/0x7F9d58ca003c003779548FD6a1AeA7A2F63Cc84c",
+ "type": "BEP20",
+ "symbol": "IDE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7F9d58ca003c003779548FD6a1AeA7A2F63Cc84c"
+}
