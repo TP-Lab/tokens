@@ -1,0 +1,11 @@
+{
+    "name": "Origin Fountainhead Chain",
+    "symbol": "OFC",
+    "type": "BEP20",
+    "decimals": 8,
+    "description": "Origin Fountainhead Chain",
+    "website": "http://web.hutnft.com/",
+    "explorer": "https://bscscan.com/token/0x3743bf4A609f1F1645fD52e99a16aefeCa160Db3",
+    "status": "active",
+    "id": "0x3743bf4A609f1F1645fD52e99a16aefeCa160Db3"
+}
