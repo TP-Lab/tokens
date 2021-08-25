@@ -1,0 +1,11 @@
+{
+ "name": "Crypto Gladiator Shards",
+ "website": "https://www.cryptogladiator.cc",
+ "description": "A NFT game on chain, play-to-earn with security and transparency",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x81fDe2721F556e402296B2a57E1871637c27D5E8",
+ "type": "KIP20",
+ "symbol": "CGS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x81fDe2721F556e402296B2a57E1871637c27D5E8"
+}
