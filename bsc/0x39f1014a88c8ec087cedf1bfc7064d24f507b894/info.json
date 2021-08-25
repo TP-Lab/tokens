@@ -1,0 +1,11 @@
+{
+ "name": "SafeBSC",
+ "website": "https://safebsc.finance",
+ "description": "SafeBSC is a DeFi yield farming portfolio with over 64 supported protocols on Binance Smart Chain.",
+ "explorer": "https://bscscan.com/token/0x39f1014a88c8ec087cedf1bfc7064d24f507b894",
+ "type": "BEP20",
+ "symbol": "SCZ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x39f1014a88c8ec087cedf1bfc7064d24f507b894"
+}
