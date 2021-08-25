@@ -1,0 +1,11 @@
+{
+ "name": "NIN",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x06eB5112171A42901B0b34A54990Ca2680dc890D",
+ "type": "HRC-20",
+ "symbol": "NIN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x06eB5112171A42901B0b34A54990Ca2680dc890D"
+}
