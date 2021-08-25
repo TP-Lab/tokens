@@ -1,1 +1,11 @@
-
+{
+ "name": "NEOT",
+ "website": "https://www.neot.finance/",
+ "description": "NEOT基于NFT环境运行，通过非同质化数字资产技术标准把虚拟现实实现每个元素之间的“身份”唯一性，每个元素不仅是链上资产，更是现实资产",
+ "explorer": "https://tronscan.org/#/token20/TPkDczwr6fHMPamR5cWasWtAwD54zN4XRL",
+ "type": "TRC20",
+ "symbol": "NEOT",
+ "decimals": 18,
+ "status": "active",
+ "id": "TPkDczwr6fHMPamR5cWasWtAwD54zN4XRL"
+}
