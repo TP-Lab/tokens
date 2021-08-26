@@ -1,0 +1,11 @@
+{
+ "name": "MsgSender",
+ "website": "https://msgsender.io",
+ "description": "A mobile access to pancake on binance smart chain.",
+ "explorer": "https://bscscan.com/token/0xac789dcad2437c3224c25a009ae103ab6d1a9128",
+ "type": "BEP20",
+ "symbol": "MSG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAC789DcAD2437C3224c25A009Ae103ab6d1a9128"
+}
