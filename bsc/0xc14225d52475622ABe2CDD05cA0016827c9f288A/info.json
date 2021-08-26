@@ -1,0 +1,11 @@
+{
+ "name": "Spary",
+ "website": "https://www.houndcoin.net",
+ "description": "Spary uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://bscscan.com/token/0xc14225d52475622ABe2CDD05cA0016827c9f288A",
+ "type": "BEP20",
+ "symbol": "SY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc14225d52475622ABe2CDD05cA0016827c9f288A"
+}
