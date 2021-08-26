@@ -1,9 +1,9 @@
 {
  "name": "HTZZMOON",
  "website": "https://htzzmoon.site",
- "description": "",
+ "description": "Htzzmoon is a unique token on heco chain",
  "explorer": "https://hecoinfo.com/token/0xCbe30DF0845d303aaF38577b86B91DB364bb4421",
- "type": "HRC-20",
+ "type": "HECO",
  "symbol": "HTZZMOON",
  "decimals": 18,
  "status": "active",
