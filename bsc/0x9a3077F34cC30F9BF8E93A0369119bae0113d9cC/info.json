@@ -1,0 +1,12 @@
+{
+ "name": "PLAY",
+ "website": "https://polyplay.net/",
+ "description": "Gold Standard Gaming Coin|Pro and Amateur Gaming",
+ "explorer": "https://bscscan.com/token/0x9a3077F34cC30F9BF8E93A0369119bae0113d9cC
+",
+ "type": "BEP20",
+ "symbol": "PLAY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9a3077F34cC30F9BF8E93A0369119bae0113d9cC" 
+} 

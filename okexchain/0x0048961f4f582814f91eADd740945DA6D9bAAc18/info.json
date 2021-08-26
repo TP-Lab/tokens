@@ -1,0 +1,11 @@
+{
+ "name": "CGD",
+ "website": "https://www.cryptogladiator.cc",
+ "description": "A NFT game on chain, play-to-earn with security and transparency",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x0048961f4f582814f91eADd740945DA6D9bAAc18",
+ "type": "KIP20",
+ "symbol": "CGD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0048961f4f582814f91eADd740945DA6D9bAAc18"
+}

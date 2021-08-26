@@ -1,0 +1,11 @@
+{
+ "name": "DrakeBall Token",
+ "website": "https://www.cryptodball.io/",
+ "description": "CryptoDrakeBall is a Play to Earn NFT Card Game developed on the Binance Smart Chain platform.",
+ "explorer": "https://bscscan.com/address/0x088BeBef4e371757509E64d3508B6Da6F376e2ac",
+ "type": "BEP20",
+ "symbol": "DBall",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x088BeBef4e371757509E64d3508B6Da6F376e2ac"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BabyUSDT Token",
+ "website": "https://www.babyusdt.finance",
+ "description": "BabyUSDT Token",
+ "explorer": "https://bscscan.com/token/0x8dc1942e2089e711725eda66ab06650035475441",
+ "type": "BEP20",
+ "symbol": "BABYUSDT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8Dc1942E2089e711725EDA66ab06650035475441"
+}

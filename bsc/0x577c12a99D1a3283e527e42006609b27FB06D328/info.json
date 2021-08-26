@@ -1,0 +1,11 @@
+{
+ "name": "ManhattanCake",
+ "website": "https://manhattan-cake.com/",
+ "description": "A token with a brand-new mechanism, which can distribute Cake dividends and automatically pull offers to achieve real buybacks.",
+ "explorer": "https://bscscan.com/token/0x577c12a99d1a3283e527e42006609b27fb06d328",
+ "type": "BEP20",
+ "symbol": "ManhattanCake",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x577c12a99d1a3283e527e42006609b27fb06d328"
+}

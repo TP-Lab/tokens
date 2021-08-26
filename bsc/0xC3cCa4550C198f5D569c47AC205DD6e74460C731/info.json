@@ -1,0 +1,11 @@
+{
+ "name": "ART Non-Fungible Token",
+ "website": "http://web.unitmworld.com",
+ "description": "AFT是艺术品与NFT名称的结合，这ART Non-Fungible Token的寓意着加密艺术品插上NFT的翅膀，进行实体数字化，它将是传统艺术拍卖行业最强的颠覆者。",
+ "explorer": "https://bscscan.com/token/0xC3cCa4550C198f5D569c47AC205DD6e74460C731",
+ "type": "BEP20",
+ "symbol": "AFT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC3cCa4550C198f5D569c47AC205DD6e74460C731"
+}
