@@ -1,0 +1,11 @@
+{
+  "name": "MMM Token",
+  "website": "https://www.mmmbnb.com",
+  "description": "A leading multi-chain wallet that supports BTC,ETH,BSC,HECO,TRON,EOS,OKExChain,HSC and so on",
+  "explorer": "https://bscscan.com/address/0x31bCdA441BdfEb3912328c686b697D47552Dea3f",
+  "type": "BEP20",
+  "symbol": "MMM",
+  "decimals": "18",
+  "status": "active",
+  "id": "0x31bCdA441BdfEb3912328c686b697D47552Dea3f"
+}
