@@ -1,9 +1,9 @@
 {
  "name": "HTFly Coin",
  "website": "https://www.htfly.me",
- "description": "Htfly is issued in heco chain. We are determined to create brilliance in heco, help heco go further, inject strength into heco, and be concerned and understood by more people.",
+ "description": "HTFly Coin injects energy into HECO Chain",
  "explorer": "https://hecoinfo.com/token/0x2fF46dacb9CdFC1142C88FA5c34F1e800ec1477F",
- "type": "HRC-20",
+ "type": "HECO",
  "symbol": "FC",
  "decimals": 9,
  "status": "active",
