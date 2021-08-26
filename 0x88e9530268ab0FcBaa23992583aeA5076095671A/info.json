@@ -1,0 +1,11 @@
+{
+ "name": "ECS Token",
+ "website": "https://www.euecf.com",
+ "description": "EU Electronic Cigarette Foundation ecstoken economy",
+ "explorer": "https://hecoinfo.com/token/0x88e9530268ab0fcbaa23992583aea5076095671a",
+ "type": "HRC-20",
+ "symbol": "ECS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x88e9530268ab0FcBaa23992583aeA5076095671A"
+}
