@@ -1,0 +1,12 @@
+{
+ "name": "UniGains",
+ "website": "https://www.unigains.net/",
+ "description": "Unigains aims to create a token that combines a whole new generation of tokenomics, combined with the original “BuyBack Wallet” methodology. This newly founded generation of tokenomics will create everlasting gains for the project itself and to the community as a whole.
+ The developers of UniGains elected to use an updated and revised version of the first original contract that deployed the “BuyBack Smart Chain Methodology”. The internal mechanics of the coin, as well as the fee structure includes allocating a portion of the collected fees to reinvest back into the token. This mechanism of tokenomics is tested and has proven to be a game changer for both investors and the project itself. UniGains aspires to incorporate three very powerful tools within the BSC cryptocurrency space: combining a dynamically enhanced tokenomic system, superior marketing, and a continually growing community.",
+ "explorer": "https://bscscan.com/address/0x2bb145b319aa7d5844456529426661c98e7ac35f#code",
+ "type": "BEP20",
+ "symbol": "UGN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2bb145B319AA7d5844456529426661C98e7AC35F"
+}
