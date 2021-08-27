@@ -1,0 +1,11 @@
+{
+ "name": "Tarot",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://tronscan.io/#/contract/TJj18TgZuavabZM9ZLvedY9cUfoTVAwN9B",
+ "type": "TRC20",
+ "symbol": "TAT",
+ "decimals": 18,
+ "status": "active",
+ "id": "TJj18TgZuavabZM9ZLvedY9cUfoTVAwN9B"
+}
