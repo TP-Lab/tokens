@@ -1,0 +1,11 @@
+{
+ "name": "FalconSwap",
+ "website": "https://falconswap.in",
+ "description": "Fully Decentralized Exchange for Automated Dividends on Binance Smart Chain",
+ "explorer": "https://bscscan.com/token/0x7c94bB1192A89C7e9a5a7E3f995560e6244AB114",
+ "type": "BEP20",
+ "symbol": "FAL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7c94bB1192A89C7e9a5a7E3f995560e6244AB114"
+}
