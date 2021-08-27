@@ -1,0 +1,11 @@
+{
+ "name": "seeds",
+ "website": "https://keplerswap.io",
+ "description": "SDS is the native token issued by KeplerSwap. SDS is also key to achieve decentralization and autonomy in KeplerSwap team",
+ "explorer": "https://bscscan.com/token/0x0b7CfD1379E4A914be026461215010c577dBc64F",
+ "type": "BEP20",
+ "symbol": "SDS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0b7CfD1379E4A914be026461215010c577dBc64F"
+}
