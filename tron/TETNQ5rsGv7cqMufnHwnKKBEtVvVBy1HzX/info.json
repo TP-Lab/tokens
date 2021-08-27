@@ -1,0 +1,11 @@
+{
+ "name": "Cartoon",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://tronscan.io/#/contract/TETNQ5rsGv7cqMufnHwnKKBEtVvVBy1HzX",
+ "type": "TRC20",
+ "symbol": "CTN",
+ "decimals": 18,
+ "status": "active",
+ "id": "TETNQ5rsGv7cqMufnHwnKKBEtVvVBy1HzX"
+}
