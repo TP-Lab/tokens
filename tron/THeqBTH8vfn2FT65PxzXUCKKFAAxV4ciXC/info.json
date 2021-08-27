@@ -1,0 +1,11 @@
+{
+ "name": "天星共识",
+ "website": "https://mtlpro.me/",
+ "description": "天星共识燃烧挖矿是一套运行在区块链上的去中心化智能合约，其由代币合约和挖矿合约两大合约组成，配合去中心化交易合约，旨在打造价值共识全新算法，让通证经济的价值共识更容易达成。",
+ "explorer": "https://tronscan.io/#/token20/THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC",
+ "type": "TRC20",
+ "symbol": "TX",
+ "decimals": 8,
+ "status": "active",
+ "id": "THeqBTH8vfn2FT65PxzXUCKKFAAxV4ciXC"
+}
