@@ -1,0 +1,11 @@
+{
+ "name": "Fying Dog",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x87F93CFd764590443bF6ee51d4c2E39B09B4fbd8",
+ "type": "BSC20",
+ "symbol": "Fyingdog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x87F93CFd764590443bF6ee51d4c2E39B09B4fbd8"
+}
