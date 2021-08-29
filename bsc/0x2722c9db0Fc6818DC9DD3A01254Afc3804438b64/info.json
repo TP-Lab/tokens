@@ -1,0 +1,11 @@
+{
+    "name": "Yaki Gold",
+    "website": "https://cryptozoon.io",
+    "description": "Yaki Gold will play a variety of functions in CryptoZoon's working mechanism, including a requirement for farming NFT, prizes from Fight Monsters, a currency for buying items in future, and so on.",
+    "explorer": "https://bscscan.com/token/0x2722c9db0Fc6818DC9DD3A01254Afc3804438b64",
+    "type": "BEP20",
+    "symbol": "YAG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2722c9db0Fc6818DC9DD3A01254Afc3804438b64"
+}
