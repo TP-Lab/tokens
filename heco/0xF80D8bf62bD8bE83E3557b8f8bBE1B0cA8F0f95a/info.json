@@ -1,0 +1,11 @@
+{
+ "name": "Save Our Souls",
+ "website": "https://www.houndcoin.net",
+ "description": "Save Our Souls uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://hecoinfo.com/address/0xF80D8bf62bD8bE83E3557b8f8bBE1B0cA8F0f95a",
+ "type": "HRC20",
+ "symbol": "SOS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF80D8bf62bD8bE83E3557b8f8bBE1B0cA8F0f95a"
+}
