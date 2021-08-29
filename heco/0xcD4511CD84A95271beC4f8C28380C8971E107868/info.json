@@ -1,0 +1,11 @@
+{
+ "name": "Dragon Coin",
+ "website": "http://dragon-coin.finance",
+ "description": "Dragon Coin is a highly deflationary asset. Each transaction burns 10%, and the circulation will continue to decrease significantly, eventually reaching an extremely rare level.",
+ "explorer": "https://hecoinfo.com/token/0xcd4511cd84a95271bec4f8c28380c8971e107868",
+ "type": "HRC-20",
+ "symbol": "DC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcD4511CD84A95271beC4f8C28380C8971E107868"
+}

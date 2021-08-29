@@ -1,0 +1,11 @@
+{
+ "name": "RewardsBunny",
+ "website": "https://rewardsbunny.com/",
+ "description": "Rewards Bunny is designed to reward long-term holders.The community always comes first and foremost. Rewards Bunny provides full transparency and fairness to the community. It has an elastic tax allocation feature that allows allocating the tax according to community needs as well as market trends. We are also developing utility platform not just in Defi but in the real world as well. Rewards Bunny heavily focuses on rewarding holders with giveaways and creating hype to drive the success of our token.",
+ "explorer": "https://bscscan.com/token/0x68848E1d1fFd7B38D103106C74220c1ad3494AFC",
+ "type": "BEP20",
+ "symbol": "RBunny",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x68848E1d1fFd7B38D103106C74220c1ad3494AFC"
+}

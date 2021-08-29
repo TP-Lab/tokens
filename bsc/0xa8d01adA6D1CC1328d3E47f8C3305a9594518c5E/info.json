@@ -1,0 +1,11 @@
+{
+ "name": "SpiritStones",
+ "website": "https://www.spst.games",
+ "description": "灵石(Spirit Stones)，一颗蕴含无穷能量的神奇石头；一个普通的凡人拥有它，让他一步步走出凡人界，踏上灵界，飞升仙界；让人人都拥有这样的灵石，开创无限未来！！！",
+ "explorer": "https://bscscan.com/token/0xa8d01ada6d1cc1328d3e47f8c3305a9594518c5e",
+ "type": "BSC20",
+ "symbol": "STONES",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xa8d01adA6D1CC1328d3E47f8C3305a9594518c5E"
+}

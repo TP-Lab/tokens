@@ -1,0 +1,11 @@
+{
+ "name": "Baby Miner Coin",
+ "website": "https://babyminers.com/#/",
+ "description": "BabyMiner is a new generation of game mining combined with gamefi and NFT.",
+ "explorer": "https://bscscan.com/token/0xB8328dE7A7225F56d5e1cEB55AAA7965d403b2af",
+ "type": "BEP20",
+ "symbol": "BMC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB8328dE7A7225F56d5e1cEB55AAA7965d403b2af"
+}

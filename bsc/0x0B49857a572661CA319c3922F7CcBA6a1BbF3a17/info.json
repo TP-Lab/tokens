@@ -1,0 +1,11 @@
+{
+ "name": "FXC",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x0B49857a572661CA319c3922F7CcBA6a1BbF3a17",
+ "type": "BSC20",
+ "symbol": "FXC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0B49857a572661CA319c3922F7CcBA6a1BbF3a17"
+}

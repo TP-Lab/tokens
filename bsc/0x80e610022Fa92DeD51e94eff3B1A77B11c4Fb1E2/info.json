@@ -1,0 +1,11 @@
+{
+ "name": "DearDoge",
+ "website": "https://deardoge.top",
+ "description": "a token for reward doge coin",
+ "explorer": "https://bscscan.com/token/0x80e610022Fa92DeD51e94eff3B1A77B11c4Fb1E2",
+ "type": "BEP20",
+ "symbol": "DearDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x80e610022Fa92DeD51e94eff3B1A77B11c4Fb1E2"
+}

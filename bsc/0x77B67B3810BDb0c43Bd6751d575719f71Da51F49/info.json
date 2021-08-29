@@ -1,0 +1,11 @@
+{
+ "name": "Black Knight Token",
+ "website": "http://www.blackknight.life/",
+ "description": "Fully decentralized tokens",
+ "explorer": "https://bscscan.com/token/0x77b67b3810bdb0c43bd6751d575719f71da51f49",
+ "type": "BEP20",
+ "symbol": "BKN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x77B67B3810BDb0c43Bd6751d575719f71Da51F49"
+}

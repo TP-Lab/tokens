@@ -1,0 +1,11 @@
+{
+ "name": "Flashy",
+ "website": "https://flawebsite.godaddysites.com",
+ "description": "FLA (Flashy Token) is the platform currency of the Flashy ecosystem, with a total issuance of 10 billion. FLA is exchanged, repurchased and destroyed during the Flashy ecological application process until the total amount of FLA is destroyed to 1 billion. Exchange and repurchase will deflate FLA. In theory, if the total value of FLA remains unchanged, exchange and repurchase can increase the currency price.",
+ "explorer": "https://hecoinfo.com/token/0x74dfb0ae9e65086c8c879bf3cfd51d4c048f9585",
+ "type": "HRC-20",
+ "symbol": "FLA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x74dfb0ae9e65086c8c879bf3cfd51d4c048f9585"
+}

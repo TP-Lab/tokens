@@ -1,0 +1,11 @@
+{
+ "name": "NUN",
+ "website": "https://nuntokens.cc",
+ "description": "A buildable, fair, free, financial world.",
+ "explorer": "https://bscscan.com/token/0xae2482de5ea7D62e3B33848eD1Fc6a9Beba3101",
+ "type": "BEP20",
+ "symbol": "NUN",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xae2482de5ea7D62e3B33848eD1Fc6a9Beba3101"
+}

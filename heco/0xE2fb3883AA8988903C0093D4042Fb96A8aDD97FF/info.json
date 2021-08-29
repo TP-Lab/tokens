@@ -1,0 +1,11 @@
+{
+ "name": "Btcs",
+ "website": "www.Btcs.com",
+ "description": "Btcs",
+ "explorer": "https://hecoinfo.com/token/0xE2fb3883AA8988903C0093D4042Fb96A8aDD97FF",
+ "type": "HRC-2",
+ "symbol": "Btcs",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE2fb3883AA8988903C0093D4042Fb96A8aDD97FF"
+}

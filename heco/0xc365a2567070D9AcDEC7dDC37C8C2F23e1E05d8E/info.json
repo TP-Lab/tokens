@@ -1,0 +1,11 @@
+{
+ "name": "OX Coin",
+ "website": "www.OX Coin.com",
+ "description": "OX",
+ "explorer": "https://hecoinfo.com/token/0xc365a2567070D9AcDEC7dDC37C8C2F23e1E05d8E",
+ "type": "HRC-2",
+ "symbol": "OX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc365a2567070D9AcDEC7dDC37C8C2F23e1E05d8E"
+}
