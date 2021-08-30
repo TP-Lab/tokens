@@ -1,0 +1,11 @@
+{
+ "name": "NUWA",
+ "website": "www.hyyw2020.com",
+ "description": "Nuwa is a micro-training platform based on blockchain technology, including Internet training, community life micro-training and health training.",
+ "explorer": "https://hecoinfo.com/0x32CA63A8bA7f5B7d674FddA38e80E7cD3F0bbff8",
+ "type": "HECO",
+ "symbol": "NUWA",
+ "decimals": 5,
+ "status": "active",
+ "id": "0x32CA63A8bA7f5B7d674FddA38e80E7cD3F0bbff8"
+}
