@@ -1,0 +1,11 @@
+{
+ "name": "LATT Token",
+ "website": "http://tallcoin.top",
+ "description": "Latt is also a defi product, a synthetic asset agreement for the general public.",
+ "explorer": "https://bscscan.com/token/0x97464d689e958c7339bbcd37dba6c8b594f62a42",
+ "type": "BEP-20",
+ "symbol": "LATT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x97464D689E958c7339BbCD37dba6C8B594f62A42"
+}
