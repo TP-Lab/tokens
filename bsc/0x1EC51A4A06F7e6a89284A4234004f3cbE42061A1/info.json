@@ -1,0 +1,11 @@
+{
+ "name": "PIYOU TOKEN",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x1EC51A4A06F7e6a89284A4234004f3cbE42061A1",
+ "type": "BSC20",
+ "symbol": "πu",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x1EC51A4A06F7e6a89284A4234004f3cbE42061A1"
+}
