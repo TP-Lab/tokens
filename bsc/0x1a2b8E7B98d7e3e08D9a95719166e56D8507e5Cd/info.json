@@ -1,0 +1,12 @@
+{
+    "name": "GameDao Token",
+    "website": "https://bsc.gamedao.io",
+    "description": "GameDao is a NFT encrypted artwork entertainment creation platform, including NFT creation platform (NFT By your), NFT and blockchain game publishing platform, POPNFTs, NFT trading market, and entertainment interactive system.",
+    "explorer": "https://bscscan.com/token/0x1a2b8E7B98d7e3e08D9a95719166e56D8507e5Cd",
+    "type": "BEP20",
+    "symbol": "GDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1a2b8E7B98d7e3e08D9a95719166e56D8507e5Cd"
+   }
+   
