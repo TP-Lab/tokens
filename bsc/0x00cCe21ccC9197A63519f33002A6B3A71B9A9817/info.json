@@ -1,0 +1,11 @@
+{
+ "name": "Old Leek Coin",
+ "website": "http://oldleek.org",
+ "description": "The king of socialfi.",
+ "explorer": "https://bscscan.com/token/0x00cCe21ccC9197A63519f33002A6B3A71B9A9817",
+ "type": "BEP20",
+ "symbol": "OLC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x00cCe21ccC9197A63519f33002A6B3A71B9A9817"
+}
