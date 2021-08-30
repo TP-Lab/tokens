@@ -1,0 +1,11 @@
+{
+    "name": "LTCMoon",
+    "website": "-",
+    "description": "总量10000万亿，上线60％销毁，单笔交易10％税，税收的5％进入流动池，税收的3％销毁，税收的2％分红，买入限制单笔：50万亿（0.5％），卖出限制单笔：50万亿（0.5％）。",
+    "explorer": "https://hecoinfo.com/token/0xa3b7f31e1d76983e29caf78cc9522019fb052be0",
+    "type": "HRC-20",
+    "symbol": "LTCMoon",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa3B7f31E1d76983E29cAf78Cc9522019fB052Be0"
+   } 
