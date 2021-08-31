@@ -1,0 +1,11 @@
+{
+ "name": "ThunderDoge",
+ "website": "-",
+ "description": "ThunderDoge(Tdoge) 是自下而上互动叙事元宇宙通用游戏代币，它主要包含且不限于社区NFT交易。",
+ "explorer": "https://bscscan.com/token/0x53159d40b603724837c2d66f949fd6d6126b00fe",
+ "type": "BEP20",
+ "symbol": "Tdoge",
+ "decimals": 15,
+ "status": "active",
+ "id": "0x53159d40b603724837c2d66f949fd6d6126b00fe"
+}
