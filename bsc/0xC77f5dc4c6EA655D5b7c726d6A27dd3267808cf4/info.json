@@ -1,0 +1,11 @@
+{
+ "name": "LOIS",
+ "website": "https://bscscan.com/address/0xC77f5dc4c6EA655D5b7c726d6A27dd3267808cf4",
+ "description": "LOIS",
+ "explorer": "https://bscscan.com/address/0xC77f5dc4c6EA655D5b7c726d6A27dd3267808cf4",
+ "type": "BEP20",
+ "symbol": "LOIS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC77f5dc4c6EA655D5b7c726d6A27dd3267808cf4"
+}
