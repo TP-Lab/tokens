@@ -1,0 +1,9 @@
+"name": "HEROBATTLE TOKEN",
+    "website": "https://herobattle.app/",
+    "description": "HeroBattle is a Play to Earn NFT Role-Playing Game , The game was released and received great attention from the community",
+    "explorer": "https://bscscan.com/token/0x8d58a9254a84275c5449589527a5ddf85fff6d6d",
+    "type": "BEP20",
+    "symbol": "HRB",
+    "decimals": 18,
+    "status": "active",
+    "id": 0x8d58a9254a84275c5449589527a5ddf85fff6d6d
