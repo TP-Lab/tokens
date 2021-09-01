@@ -1,0 +1,11 @@
+{
+"name": "MapleValley Token",
+"website": "https://mapgame.vip",
+"description": "Maple Valley was once a popular adventure game. On this basis, the project team combines blockchain technology. Through map, a new economic model will be formed to popularize the blockchain world and technology to traditional game users in an interesting and valuable way.",
+"explorer": "https://bscscan.com/token/0x1230eB186C30810a6ED0e8293bC4e0256B4a7a4E",
+"type": "BEP20",
+"symbol": "MAP",
+"decimals": 18,
+"status": "active",
+"id": "0x1230eB186C30810a6ED0e8293bC4e0256B4a7a4E"
+}
