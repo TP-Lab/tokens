@@ -1,0 +1,11 @@
+{
+ "name": "DigitalFund",
+ "website": "http://dgf.dgf.asia",
+ "description": "DigitalFund (DGF) is a highly open and autonomous community. Each holder can participate in community development and construction.",
+ "explorer": "https://bscscan.com/token/0xCa028e40b8F406176c76e78B8597F0d842a30984",
+ "type": "BEP20",
+ "symbol": "DGF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCa028e40b8F406176c76e78B8597F0d842a30984"
+}
