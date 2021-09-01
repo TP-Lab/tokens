@@ -1,0 +1,11 @@
+{
+ "name": "hogwarts",
+ "website": "https://hogwarts.one",
+ "description": "Connecting myth and future fantasy NFT market. Supported by deflation tokens with high value, hold $Hogw tokens and get passive income from BNB every 60 minutes.",
+ "explorer": "https://bscscan.com/address/0x9ea326ee59777e9f7874f4ec71f1b1f15bebc234"
+ "type": "BEP20",
+ "symbol": "HOGW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9eA326Ee59777e9f7874F4ec71f1b1F15BeBC234"
+}
