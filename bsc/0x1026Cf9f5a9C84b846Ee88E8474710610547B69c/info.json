@@ -1,0 +1,11 @@
+{
+    "name": "PER Token",
+    "website": "https://www.diemword.com/",
+    "description": "DiemWord platform token.",
+    "explorer": "https://bscscan.com/token/0x1026Cf9f5a9C84b846Ee88E8474710610547B69c",
+    "type": "BEP20",
+    "symbol": "PER",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1026Cf9f5a9C84b846Ee88E8474710610547B69c"
+}
