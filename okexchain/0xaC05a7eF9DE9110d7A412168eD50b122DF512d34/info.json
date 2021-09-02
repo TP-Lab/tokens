@@ -1,0 +1,11 @@
+{
+ "name": "OKST",
+ "website": "http://www.okstarter.finance",
+ "description": "The first decentralized IDO platform for OK Chain. Community governed fund raising for OK Chain projects",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xac05a7ef9de9110d7a412168ed50b122df512d34",
+ "type": "KIP20",
+ "symbol": "OKST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xac05a7ef9de9110d7a412168ed50b122df512d34"
+}
