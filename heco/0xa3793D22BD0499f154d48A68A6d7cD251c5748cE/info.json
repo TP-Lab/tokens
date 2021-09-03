@@ -1,0 +1,12 @@
+{
+ "name": "AcMoon Token",
+ "website": "",
+ "description": "",
+ "explorer": "https://hecoinfo.com/token/0xa3793d22bd0499f154d48a68a6d7cd251c5748ce",
+ "totaly supply": "1900000000000000",
+ "type": "heco",
+ "symbol": "ACMOON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa3793D22BD0499f154d48A68A6d7cD251c5748cE"
+}
