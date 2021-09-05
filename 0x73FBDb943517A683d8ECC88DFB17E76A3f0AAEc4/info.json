@@ -1,0 +1,11 @@
+{
+ "name": "Evil Spirit",
+ "website": "https://www.houndcoin.net",
+ "description": "Evil Spirit uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://hecoinfo.com/token/0x73FBDb943517A683d8ECC88DFB17E76A3f0AAEc4",
+ "type": "HRC20",
+ "symbol": "ESEB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x73FBDb943517A683d8ECC88DFB17E76A3f0AAEc4"
+}
