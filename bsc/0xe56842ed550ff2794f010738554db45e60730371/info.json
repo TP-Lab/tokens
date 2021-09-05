@@ -1,0 +1,11 @@
+{
+ "name": "Binemon",
+ "website": "https://binemon.io",
+ "description": "A leading gamefi on bsc",
+ "explorer": "https://bscscan.com/token/0xe56842ed550ff2794f010738554db45e60730371",
+ "type": "BEP20",
+ "symbol": "BIN",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xe56842ed550ff2794f010738554db45e60730371"
+}
