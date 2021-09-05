@@ -1,0 +1,11 @@
+{
+ "name": "BSocial",
+ "website": "https://bsocial.pro",
+ "description": "A leading socialfi on bsc",
+ "explorer": "https://bscscan.com/token/0x822dc83fa4dc997fff24d0bc0a66fcb2954a6156",
+ "type": "BEP20",
+ "symbol": "BINS",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x822dc83fa4dc997fff24d0bc0a66fcb2954a6156"
+}
