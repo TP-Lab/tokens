@@ -1,0 +1,11 @@
+{
+ "name": "NFTT",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x288b72a25340C451a9e0b620edbf69Db5BC6B3be",
+ "type": "BEP20",
+ "symbol": "NFTT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x288b72a25340C451a9e0b620edbf69Db5BC6B3be"
+}
