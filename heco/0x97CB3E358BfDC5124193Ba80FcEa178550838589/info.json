@@ -1,0 +1,11 @@
+{
+    "name": "HTU",
+    "website": "-",
+    "description": "HTU Token",
+    "explorer": "https://hecoinfo.com/token/0x97CB3E358BfDC5124193Ba80FcEa178550838589",
+    "type": "HECO",
+    "symbol": "HTU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x97CB3E358BfDC5124193Ba80FcEa178550838589"
+   }
