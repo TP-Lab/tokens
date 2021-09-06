@@ -1,0 +1,11 @@
+{
+ "name": "OKex Jay",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://www.oklink.com/okexchain/address/0x024b846b59c422c2dc508d0e6872d29be00594f1",
+ "type": "OKExChain",
+ "symbol": "OKJAY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x024b846b59c422c2dc508d0e6872d29be00594f1"
+}
