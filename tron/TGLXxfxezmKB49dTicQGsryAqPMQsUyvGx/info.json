@@ -1,0 +1,11 @@
+{
+ "name": "RAT",
+ "website": "https://tronscan.org/#/contract/TGLXxfxezmKB49dTicQGsryAqPMQsUyvGx",
+ "description": "瑞达星球(Rita planet)是结合NFT＋DeFi＋元宇宙元素，打造一个元宇宙虚拟游戏分布式金融生态系统，是完全去中心化 DeFi万倍孵化器。让RATA持有者获得更高的价值回报，是真正的社区自治项目，全球参与者共同建设,共同治理，不断完善技术创新同时探索新领域。",
+ "explorer": "https://tronscan.org",
+ "type": "TRC20",
+ "symbol": "RAT",
+ "decimals": 18,
+ "status": "active",
+ "id": "TGLXxfxezmKB49dTicQGsryAqPMQsUyvGx"
+}
