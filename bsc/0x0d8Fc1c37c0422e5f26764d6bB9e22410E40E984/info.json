@@ -1,0 +1,11 @@
+{
+ "name": "DD Coin",
+ "website": "https://www.wfex.finance/",
+ "description": "Decentralized exchange token",
+ "explorer": "https://bscscan.com/token/0x0d8Fc1c37c0422e5f26764d6bB9e22410E40E984",
+ "type": "BEP20",
+ "symbol": "DD",
+ "decimals": 8 ,
+ "status": "active",
+ "id": "0x0d8Fc1c37c0422e5f26764d6bB9e22410E40E984"
+}
