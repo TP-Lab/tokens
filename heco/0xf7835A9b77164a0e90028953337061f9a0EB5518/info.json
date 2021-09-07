@@ -1,0 +1,12 @@
+{
+ "name": "Kitty",
+ "website": "",
+ "description": "Hello Kitty由盘古社区旗下神秘大户发行，意在由大户带领打造坚如磐石的共识社区，由散户跟随大户不断开拓市场玩转DEFI，让多数在DEFI领域的小白跟随实现财富自由。",
+ "explorer": "https://hecoinfo.com/token/0xf7835a9b77164a0e90028953337061f9a0eb5518",
+ "totaly supply": "30000",
+ "type": "heco",
+ "symbol": "KITTY",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xf7835A9b77164a0e90028953337061f9a0EB5518"
+}
