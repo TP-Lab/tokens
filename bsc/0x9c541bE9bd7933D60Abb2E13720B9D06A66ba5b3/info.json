@@ -1,0 +1,11 @@
+{
+ "name": "Legend Of Gods",
+ "website": "https://nft-gods.com",
+ "description": "A decentralized NFT+TCG game based on BSC.",
+ "explorer": "https://bscscan.com/token/0x9c541be9bd7933d60abb2e13720b9d06a66ba5b3",
+ "type": "BEP20",
+ "symbol": "LG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9c541bE9bd7933D60Abb2E13720B9D06A66ba5b3"
+}
