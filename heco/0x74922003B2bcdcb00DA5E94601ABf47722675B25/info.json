@@ -1,0 +1,11 @@
+{
+ "name": "Ena",
+ "website": "https://www.houndcoin.net",
+ "description": "Ena uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://hecoinfo.com/token/0x8333Aa1859753dBdC44e30990335F4824a37FfcC",
+ "type": "HRC20",
+ "symbol": "Ena",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8333Aa1859753dBdC44e30990335F4824a37FfcC"
+}
