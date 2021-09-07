@@ -1,0 +1,11 @@
+{
+  "name": "VerseWar Token",
+  "website": "https://versewar.io",
+  "description": "VerseWar is a Play-to-Earn Metaverse NFT game developed on the Binance Smart Chain inspired by the multiversal movies where monsters of universes converge.",
+  "explorer": "https://bscscan.com/token/0x3963df5BA3CF7A579eD4a5ff81084E059a32BDa0",
+  "type": "BEP20",
+  "symbol": "VERSE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3963df5BA3CF7A579eD4a5ff81084E059a32BDa0"
+}
