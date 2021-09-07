@@ -1,0 +1,11 @@
+{
+ "name": "CARE",
+ "website": "http://www.carebsc.com",
+ "description": "CARE",
+ "explorer": "https://bscscan.com/token/0xc6D7F0a4845B2C56eB4Bf18E4FaBfdEE9Dfc16Bb",
+ "type": "BEP20",
+ "symbol": "CARE",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xc6D7F0a4845B2C56eB4Bf18E4FaBfdEE9Dfc16Bb"
+}

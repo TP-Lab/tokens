@@ -1,0 +1,11 @@
+{
+ "name": "HtStar",
+ "website": "http://www.htstar.info",
+ "description": "HtStar, be your own hero and create the strongest token in the fire coin chain.",
+ "explorer": "https://hecoinfo.com/token/0x6502D400DB85a0E282bfF0F5044D14fDb171B36D",
+ "type": HRC-20
+ "symbol": "HtStar",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6502D400DB85a0E282bfF0F5044D14fDb171B36D"
+}

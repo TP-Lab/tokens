@@ -1,0 +1,11 @@
+{
+ "name": "ThreeDimensional",
+ "website": "https://threedimensional.pro",
+ "description": "A Layer-2 Decentralized Service Platform Based on ZK-Rollup Technology and AMM Model.",
+ "explorer": "https://etherscan.io/token/0x08a5a14fa138fff51680e8ac4fe52bcf1ce62a35",
+ "type": "ERC20",
+ "symbol": "TD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x08A5A14Fa138fFf51680e8Ac4fE52Bcf1cE62A35"
+}
