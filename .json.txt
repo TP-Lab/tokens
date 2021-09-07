@@ -1,0 +1,11 @@
+{
+ "name": "KITTY",
+ "website": "http://www.kittyloveyou.com/",
+ "description": ""由盘古社区旗下神秘大户发行，意在由大户带领打造坚如磐石的共识社区，由散户跟随大户不断开拓市场玩转DEFI，让多数在DEFI领域的小白跟随实现财富自由,刚发行，初始代币30000个已经全部加入资金池，资金池的初始权限已经被发行者直接打入黑洞可查！.",
+ "explorer": "https://hecoinfo.com/tx/0xf7835A9b77164a0e90028953337061f9a0EB5518",
+ "type": "HECO",
+ "symbol": "KITTY",
+ "decimals": 18,
+ "status": "2021年8月14日21时51分",
+ "id": "0xf7835A9b77164a0e90028953337061f9a0EB5518"
+}
