@@ -1,0 +1,11 @@
+{
+ "name": "NFTMOON",
+ "website": "www.nftmoon.pro",
+ "description": "NFTMOON is a decentralized integrated currency on the Huobi chain",
+ "explorer": "https://https://hecoinfo.com/token/0x2a18b56699e469f89079a867b888bfeedbb00411",
+ "type": "HECO",
+ "symbol": "NFTMOON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2a18b56699E469f89079a867B888bFEEdBB00411"
+}
