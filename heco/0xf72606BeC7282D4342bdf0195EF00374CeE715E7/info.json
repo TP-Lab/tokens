@@ -1,11 +1,11 @@
 {
  "name": "ÖÐ±Ò",
- "website": "ÎÞ",
- "description": "ÎÞ",
+ "website": "http://www.tesladojo.cn/",
+ "description": "DOJO is the first community token issued based on the RMB Protocol.",
  "explorer": "https://hecoinfo.com/token/0xf72606BeC7282D4342bdf0195EF00374CeE715E7",
  "type": "HRC20",
- "symbol": "RMB",
+ "symbol": "DOJO",
  "decimals": 18,
  "status": "active",
  "id": "0xf72606BeC7282D4342bdf0195EF00374CeE715E7"
-} 
+}
