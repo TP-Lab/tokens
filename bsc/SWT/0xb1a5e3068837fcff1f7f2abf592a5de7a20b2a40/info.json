@@ -1,0 +1,11 @@
+{
+ "name": "SmartWalletToken",
+ "website": "https://eveswt.io",
+ "description": "Your handheld encryption bank",
+ "explorer": "https://bscscan.com/token/0xb1a5e3068837fcff1f7f2abf592a5de7a20b2a40",
+ "type": "BEP20",
+ "symbol": "SWT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb1a5e3068837fcff1f7f2abf592a5de7a20b2a40"
+}
