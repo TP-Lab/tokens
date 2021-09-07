@@ -1,0 +1,11 @@
+{
+  "name": "Dora Token",
+  "website": "https://doraon.info/",
+  "description": "Doraemon is the first fan token issued by comicfi alliance and Toho Company, Limited. to bring Doraemon of Nobita's family home and realize your dreams from your magical pocket. Doraemon will be able to exchange exclusive NFT avatars. Iboxnft platform will release 3D Handmade / blind box / digital avatars and other peripheral products. At the same time, it will launch the NFT motherboard of coin security to wait for Doraemon fans to have a global carnival. Later, Doraemon will be supported to participate in animation production and global copyright sharing to create your Doraemon.",
+  "explorer": "https://bscscan.com/address/0xf7Bb29583c592B657840fc7EcBfb19DE4eF92E40",
+  "type": "BEP20",
+  "symbol": "DORA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf7Bb29583c592B657840fc7EcBfb19DE4eF92E40"
+ }
