@@ -1,12 +1,11 @@
 {
- "name": "In the currency
-",
- "website": "http://www.tesladojo.cn/",
- "description": "RMB is the first community token issued based on the RMB Protocol.",
- "explorer": "https://hecoinfo.com/token/0xf72606BeC7282D4342bdf0195EF00374CeE715E7",
+ "name": "RMB",
+ "website": "нч",
+ "description": "нч",
+ "explorer": "https://hecoinfo.com/token/0x61A59924AEB8071D6c3D699FAD441f2324e8aE01",
  "type": "HRC20",
  "symbol": "RMB",
  "decimals": 18,
  "status": "active",
- "id": "0xf72606BeC7282D4342bdf0195EF00374CeE715E7"
+ "id": "0x61A59924AEB8071D6c3D699FAD441f2324e8aE01"
 }
