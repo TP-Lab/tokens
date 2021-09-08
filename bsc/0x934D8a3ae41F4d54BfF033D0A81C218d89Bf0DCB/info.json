@@ -1,0 +1,11 @@
+{
+ "name": "TCO2 Token",
+ "website": "http://www.gcsa-carbonsink.com/",
+ "description": "Build the world's first carbon neutral ecosystem based on blockchain technology.",
+ "explorer": "https://bscscan.com/token/0x934D8a3ae41F4d54BfF033D0A81C218d89Bf0DCB",
+ "type": "BEP20",
+ "symbol": "TCO2",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x934D8a3ae41F4d54BfF033D0A81C218d89Bf0DCB"
+}
