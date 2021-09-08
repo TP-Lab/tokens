@@ -1,0 +1,12 @@
+{
+ 
+"name": "Thor.Network",
+"website": "https://thornet.cc",
+"description": "Thor.Network is a distributed encrypted digital financial service protocol, which is based on the Binance Smart Chain (BSC) and the underlying cross DeFi-friendly mainnet developed by the chain protocol.",
+"explorer": "https://bscscan.com/address/0x9610ea66f6ef813669a84f87d6ea0b91db0e569e",
+"type": "BEP20",
+"symbol": "THOR",
+"decimals": 18,
+ "status": "active",
+"id": "0x9610ea66f6ef813669a84f87d6ea0b91db0e569e"
+}
