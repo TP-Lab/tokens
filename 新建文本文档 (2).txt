@@ -1,0 +1,12 @@
+
+{
+ "name": "LIS",
+ "website": "http://LISswap.xyz/#/swap",
+ "description": "LISiswap is a decentralized exchange (DEX) on binance smart Chain BSC.",
+ "explorer": "https://bscscan.com/token/0xaffaa883c80d8f56fe3db7c71f86ec0fbf17411f",
+ "type": "BEP20",
+ "symbol": "LIS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaffaa883c80d8f56fe3db7c71f86ec0fbf17411f"
+}
