@@ -1,12 +1,12 @@
 {
- "name": "In the currency
-",
- "website": "http://www.tesladojo.cn/",
- "description": "RMB is the first community token issued based on the RMB Protocol.",
- "explorer": "https://hecoinfo.com/token/0xf72606BeC7282D4342bdf0195EF00374CeE715E7",
- "type": "HRC20",
- "symbol": "RMB",
- "decimals": 18,
- "status": "active",
- "id": "0xf72606BeC7282D4342bdf0195EF00374CeE715E7"
+"name": "EGO",
+"website": "-",
+"description": "EGO, Maintaining the Highest Standards of Security and Innovation.", 
+"explorer":"https://hecoinfo.com/tx/0xc86e86d2dd886aaef0f8dad272666c998579bfb1baa43cdc571742be2a415d99
+", 
+"type": "HRC-20",
+"symbol": "EGO",
+"decimals": 18,
+"status": "active",
+"id": "0xA8a8389efBE9970577CaA1a4754716Df92d69562"
 }
