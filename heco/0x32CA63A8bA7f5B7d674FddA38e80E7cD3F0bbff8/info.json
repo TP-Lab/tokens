@@ -1,11 +1,11 @@
-﻿{
+{
  "name": "NUWA",
  "website": "www.hyyw2020.com",
- "description": "NUWA是一个区块链技术应用场景下的微培训平台，包括互联网培训、社区生活微培训，健康培训三大板块应用.",
- "explorer": "https://hecoinfo.com/address/0x32CA63A8bA7f5B7d674FddA38e80E7cD3F0bbff8",
+ "description": "Nuwa is a micro training platform under the application scenario of blockchain technology, including Internet training, community life micro training and health training",
+ "explorer": "https://hecoinfo.com/token/0x32CA63A8bA7f5B7d674FddA38e80E7cD3F0bbff8",
  "type": "HRC20",
  "symbol": "NUWA",
- "decimals": 5,
+ "decimals": 5 ,
  "status": "active",
  "id": "0x32CA63A8bA7f5B7d674FddA38e80E7cD3F0bbff8"
 }
