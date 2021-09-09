@@ -1,0 +1,11 @@
+{
+ "name": "Basketball Baby",
+ "website": "https://www.shipinyasuo.com",
+ "description": "Basketball Baby is No.1.",
+ "explorer": "https://bscscan.com/token/0x710c469d2E0E80c31Ee21EddD7D257B8Fc38E112",
+ "type": "BEP20",
+ "symbol": "Basketball Baby",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x710c469d2E0E80c31Ee21EddD7D257B8Fc38E112"
+}
