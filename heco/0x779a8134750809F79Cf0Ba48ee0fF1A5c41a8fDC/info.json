@@ -3,7 +3,7 @@
  "website": "https://www.secondspace.game",
  "description": "MARK是游戏中流通代币，相当于游戏的兑换及交易媒介，MARK产量是根据游戏GDP量的增减来调控，但日产出上限不超过1000万枚。",
  "explorer": "https://hecoinfo.com/token/0x779a8134750809F79Cf0Ba48ee0fF1A5c41a8fDC",
- "type": "HRC20",
+ "type": "HRC-20",
  "symbol": "MARK",
  "decimals": 18,
  "status": "active",
