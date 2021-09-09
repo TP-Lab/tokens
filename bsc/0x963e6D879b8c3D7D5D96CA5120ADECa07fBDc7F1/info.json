@@ -1,0 +1,11 @@
+﻿{
+ "name": "VIT",
+ "website": "http://www.loisnetworks.club/",
+ "description": "VIT是一种通证，是以数字形式存在的权益凭证，它代表的是一种权利，一种固有和内在的价值。",
+ "explorer": "https://www.bscscan.com/address/0x963e6D879b8c3D7D5D96CA5120ADECa07fBDc7F1",
+ "type": "BEP20",
+ "symbol": "BEP20",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x963e6D879b8c3D7D5D96CA5120ADECa07fBDc7F1"
+}
