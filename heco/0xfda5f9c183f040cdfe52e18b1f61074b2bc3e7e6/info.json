@@ -3,8 +3,8 @@
  "website": "无",
  "description": "无", 
  "explorer":"https://hecoinfo.com/tx/0xfda5f9c183f040cdfe52e18b1f61074b2bc3e7e6 ", 
- "type": "HRC-B",
- "decimals": 120",
+ "type": "HRC-20",
+ "decimals": 18",
  "symbol": "GOB,
  "status": "active",
  "id": "0xfda5f9c183f040cdfe52e18b1f61074b2bc3e7e6"
