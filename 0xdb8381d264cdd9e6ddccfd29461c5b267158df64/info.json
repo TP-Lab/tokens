@@ -1,0 +1,11 @@
+﻿{
+ "name": "LOIS",
+ "website": "http://www.loisnetworks.club/",
+ "description": "Lois是洛斯协议生态中的的底层流通代币，它将被应用于洛斯生态中的空投、质押、挖矿、社区自治投票等环节，同时也将作为支付流通工具具备完全的市场属性，Lois的价值将随着市场供需关系的改变而改变。",
+ "explorer": "https://www.bscscan.com/address/0xdb8381d264cdd9e6ddccfd29461c5b267158df64",
+ "type": "BEP20",
+ "symbol": "BEP20",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdb8381d264cdd9e6ddccfd29461c5b267158df64"
+}
