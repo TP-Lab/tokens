@@ -1,0 +1,11 @@
+{
+ "name": "onePERL",
+ "website": "https://perl.eco",
+ "description": "onePERL is the governance token with stable value used in PERL.eco ecosystem",
+ "explorer": "https://etherscan.io/token/0xd9a24485e71b9148e0fd51f0162072099df0db67",
+ "type": "ERC20",
+ "symbol": "onePERL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd9a24485e71b9148e0fd51f0162072099df0db67"
+}

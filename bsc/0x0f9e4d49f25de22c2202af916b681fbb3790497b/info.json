@@ -1,0 +1,11 @@
+{
+ "name": "PERL.eco",
+ "website": "https://perl.eco",
+ "description": "The Planetary Ecosystem Registration Ledger democratizes real-world ecological assets through tokenizing carbon credits and biodiversities and more",
+ "explorer": "https://bscscan.com/token/0x0f9e4d49f25de22c2202af916b681fbb3790497b",
+ "type": "BEP20",
+ "symbol": "PERL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0f9e4d49f25de22c2202af916b681fbb3790497b"
+}
