@@ -1,0 +1,11 @@
+{
+ "name": "Dog tag",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://hecoinfo.com/token/0x61A3F11e86496533d3c62737A52c4659E902B130",
+ "type": "HRC20",
+ "symbol": "dogtag",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x61A3F11e86496533d3c62737A52c4659E902B130"
+}

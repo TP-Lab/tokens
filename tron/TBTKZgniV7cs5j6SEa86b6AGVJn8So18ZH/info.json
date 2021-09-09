@@ -1,0 +1,11 @@
+{
+ "name": "YourTokenName",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://tronscan.io/#/token20/TBTKZgniV7cs5j6SEa86b6AGVJn8So18ZH",
+ "type": "TRC20",
+ "symbol": "WTN",
+ "decimals": 18,
+ "status": "active",
+ "id": "TBTKZgniV7cs5j6SEa86b6AGVJn8So18ZH"
+}
