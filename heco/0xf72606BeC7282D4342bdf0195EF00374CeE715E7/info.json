@@ -1,11 +1,11 @@
 {
- "name": "�б�",
- "website": "_",
- "description": "_",
- "explorer": "https://hecoinfo.com/token/0x61A59924AEB8071D6c3D699FAD441f2324e8aE01",
+ "name": "中币",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://hecoinfo.com/token/0xf72606BeC7282D4342bdf0195EF00374CeE715E71",
  "type": "HRC20",
  "symbol": "RMB",
  "decimals": 18,
  "status": "active",
- "id": "0x61A59924AEB8071D6c3D699FAD441f2324e8aE01"
-}
+ "id": "0xf72606BeC7282D4342bdf0195EF00374CeE715E7"
+} 
