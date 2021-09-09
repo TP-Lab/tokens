@@ -1,11 +1,12 @@
 {
- "website": "美帝",
- "name": "无",
- "description": "无",
- "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
- "type": "HRC20",
- "symbol": "BTG",
- "status": "active",
+ "name": "EG",
+ "website": "无",
+ "description": "无", 
+ "explorer":"https://hecoinfo.com/tx/0xc86e86d2dd886aaef0f8dad272666c998579bfb1baa43cdc571742be2a415d99
+", 
+ "type": "HRC-20",
+ "symbol": "EGO",
  "decimals": 18,
- "id": "0xECa41281c24451168a37211F0bc2b8645AF45092"
+ "status": "active",
+ "id": "0xA8a8389efBE9970577CaA1a4754716Df92d69562"
 }
