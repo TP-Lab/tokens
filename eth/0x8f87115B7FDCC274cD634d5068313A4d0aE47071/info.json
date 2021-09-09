@@ -1,0 +1,11 @@
+{
+ "name": "ETBY",
+ "website": "http://etby.network/",
+ "description": ".",
+ "explorer": "https://etherscan.io/token/0x8f87115b7fdcc274cd634d5068313a4d0ae47071",
+ "type": "ERC20",
+ "symbol": "ETBY",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x8f87115B7FDCC274cD634d5068313A4d0aE47071"
+}
