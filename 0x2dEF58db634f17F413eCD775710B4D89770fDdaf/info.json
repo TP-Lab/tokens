@@ -1,0 +1,11 @@
+{
+ "name": "Nair coin",
+ "website": "无",
+ "description": "无.",
+ "explorer": "https://bscscan.com/token/0x2dEF58db634f17F413eCD775710B4D89770fDdaf",
+ "type": "HECO",
+ "symbol": "NIC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2dEF58db634f17F413eCD775710B4D89770fDdaf"
+}
