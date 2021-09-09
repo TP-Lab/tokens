@@ -1,0 +1,11 @@
+{
+ "name": "ASSACC Token",
+ "website": "https://www.assapay.com/",
+ "description": "I am using it in online e-commerce and I want to use it as a payment method in distribution.",
+ "explorer": "https://www.eosx.io/account/friendsnow12",
+ "type": "EOS",
+ "symbol": "A",
+ "decimals": 3,
+ "status": "active",
+ "id": "friendsnow12"
+}
