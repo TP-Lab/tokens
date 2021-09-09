@@ -1,5 +1,5 @@
-  {
-  "name": "币圈",
+{
+  "name": "币链",
   "website": "无",
   "description": "无", 
   "explorer":"https://hecoinfo.com/tx/0xc86e86d2dd886aaef0f8dad272666c998579bfb1baa43cdc571742be2a415d99
@@ -9,4 +9,4 @@
   "decimals": 18,
   "status": "active",
   "id": "0xA8a8389efBE9970577CaA1a4754716Df92d69562"
-  }
+}
