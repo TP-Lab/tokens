@@ -1,0 +1,11 @@
+{
+ "name": "Dogecoi Token",
+ "website": "https://Dogecoi Token.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/address/0x8e23c2f0c1d5902ae5a0041bf2b4b86712cb92b6",
+ "type": "HECO",
+ "symbol": "DOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8e23c2f0C1D5902AE5A0041bf2b4B86712Cb92B6"
+}
