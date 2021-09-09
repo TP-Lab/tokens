@@ -1,0 +1,11 @@
+{
+ "name": "BINANCE8 Token",
+ "website": "https://binance8.finance/",
+ "description": "B8 (Binance8) is the native token in the Binance8 ecosystem. Pay tribute to Binance created by CZ and bring a bright future of innovation, fairness and diversified investment to the blockchain. B8 is the native token in the BINANCE8 ecosystem",
+ "explorer": "https://bscscan.com/token/0x325b6434c62b108e452c858298f529906c8f456a",
+ "type": "BEP20",
+ "symbol": "BINANCE8",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x325b6434c62b108e452c858298f529906c8f456a"
+}
