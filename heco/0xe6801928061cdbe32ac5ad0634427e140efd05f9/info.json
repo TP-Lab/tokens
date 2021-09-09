@@ -1,0 +1,11 @@
+{
+ "name": "Baby Doge Coin",
+ "website": "https://babydogecoin.com/",
+ "description": "Baby Doge has learned a few tricks and lessons from his father,DogeCoin.Baby Doge seeks to impress",
+ "explorer": "https://hecoinfo.com/address/0xe6801928061cdbe32ac5ad0634427e140efd05f9",
+ "type": "HECO",
+ "symbol": "BabyDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe6801928061cdbe32ac5ad0634427e140efd05f9"
+}
