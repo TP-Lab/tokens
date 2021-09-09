@@ -1,0 +1,11 @@
+{
+ "name": "GMV",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x7b717d7c136b67a5e96c13edfa53e523b71afae8",
+ "type": "BSC20",
+ "symbol": "GMV",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x7b717D7c136b67A5e96C13EdfA53e523B71aFAE8"
+}
