@@ -1,0 +1,11 @@
+{
+    "name": "Ins3.Finance Coin",
+    "website": "https://www.ins3.finance",
+    "description": "A fully decentralized, cross-chain insurance and coverage provider for the blockchain industry.",
+    "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x7275a3befd6a75d79eb44325839763b4d82dc5f0",
+    "type": "KIP20",
+    "symbol": "ITF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7275A3bEfd6a75D79eb44325839763B4D82DC5f0"
+}
