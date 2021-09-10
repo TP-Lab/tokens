@@ -1,0 +1,11 @@
+{
+ "name": "NON-FUNGIBLE TOKEN BOS HEAD",
+ "website": "https://nfxh.info",
+ "description": "Nfxh is a blockchain based distribution of nfxh art and game assets. Focusing on the issuance of nfxh art and game assets, aiming at the current art market and game market, it aims to introduce Dao governance scheme, create an autonomous community of art and game fans, and empower art and games.",
+ "explorer": "https://hecoinfo.com/token/0x76e83e8d61f94387928c931852a13b072abf5026",
+ "type": "HECO",
+ "symbol": "NFXH",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x76e83e8D61F94387928C931852A13b072abf5026"
+}
