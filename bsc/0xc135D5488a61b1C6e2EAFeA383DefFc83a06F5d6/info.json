@@ -1,0 +1,11 @@
+{
+ "name": "Lord welfare lottery",
+ "website": "https://www.lord.care/",
+ "description": "LWY is committed to using blockchain to change the issue of trust between lottery issuers and lottery players",
+ "explorer": "https://bscscan.com/token/0xc135d5488a61b1c6e2eafea383deffc83a06f5d6",
+ "type": "BEP20",
+ "symbol": "LWY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc135D5488a61b1C6e2EAFeA383DefFc83a06F5d6"
+}
