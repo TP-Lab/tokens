@@ -1,0 +1,11 @@
+{
+ "name": "chainroblox",
+ "website": "http//www.chainroblox.me",
+ "description": "CAX is a decentralized virtual reality platform highly integrating NFT, defi, roblox triple play and blockchain technology, and a metaverse project with business strategy and asset operation as the core.",
+ "explorer": "https://bscscan.com/token/0x5aa8fefe03c5d2875470927818c5863189008e43",
+ "type": "BEP20",
+ "symbol": "CAX",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5aa8fefe03c5d2875470927818c5863189008e43"
+}
