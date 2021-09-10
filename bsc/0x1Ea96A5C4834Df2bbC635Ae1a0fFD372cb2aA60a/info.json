@@ -1,0 +1,11 @@
+{
+    "name":"BearbrickPark",
+    "website":"http://bearbrickpark.cn/web/home",
+    "description":"  Bearbrick Park is an experiment.The future of this experiment depends on everyone in the community, even all those who are interested in it and willing to participate in the construction. ",
+    "explorer":"https://bscscan.com/token/0x1Ea96A5C4834Df2bbC635Ae1a0fFD372cb2aA60a",
+    "type":"BEP20",
+    "symbol":" BBK ",
+    "decimals":18,
+    "status":"active",
+    "id":"0x1Ea96A5C4834Df2bbC635Ae1a0fFD372cb2aA60a"
+}
