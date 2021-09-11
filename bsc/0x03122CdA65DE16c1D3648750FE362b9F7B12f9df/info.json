@@ -1,0 +1,11 @@
+{
+  "name": "BSC Next DEFI",
+  "website": "https://www.bndbsc.com",
+  "description": "BSC Next Defi.The new DEFI platform, mainstream currency and any other currency can be mining and trading for free.",
+  "explorer": "https://bscscan.com/token/0x03122CdA65DE16c1D3648750FE362b9F7B12f9df",
+  "type": "BEP20",
+  "symbol": "BND",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x03122CdA65DE16c1D3648750FE362b9F7B12f9df"
+}
