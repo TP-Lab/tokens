@@ -1,0 +1,11 @@
+{
+  "name": "XBT",
+  "website": "https://www.xbt.wang",
+  "description": "It is a 'new, global and ecological' public blockchain encrypted data network system, just like android/Apple system for mobile phones and Windows operating system for computers.",
+  "explorer": "https://bscscan.com/token/0x8aEd0B1EAd444f6C78da714c19dF73b4F4c45aeD",
+  "type": "BEP20",
+  "symbol": "XBT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8aEd0B1EAd444f6C78da714c19dF73b4F4c45aeD"
+}
