@@ -1,0 +1,11 @@
+{
+ "name": "KangarooCake",
+ "website": "https://www.kangaroocake.com/",
+ "description": "Kangaroo cake.",
+ "explorer": "https://bscscan.com/token/0x368e0de91fbbdeff5eca131a9955a50b3b84f6b7",
+ "type": "BEP20",
+ "symbol": "KCake",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x368e0de91fbbdeff5eca131a9955a50b3b84f6b7"
+}
