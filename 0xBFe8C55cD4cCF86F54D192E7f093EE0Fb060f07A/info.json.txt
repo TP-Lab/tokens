@@ -1,0 +1,11 @@
+{
+ "name": "黑旋风李逵",
+ "website": "",
+ "description": "A bep 20 token launched on bsc.
+ "explorer": "https://bscscan.com/token/0xBFe8C55cD4cCF86F54D192E7f093EE0Fb060f07A",
+ "type": "BEP20",
+ "symbol": "黑旋风李逵",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xBFe8C55cD4cCF86F54D192E7f093EE0Fb060f07A"
+}
