@@ -1,0 +1,11 @@
+{
+  "name": "WKC",
+  "website": "https://www.w.club",
+  "description": "Decentralized blockchain digital assets based on blockchain technology, WKC ecological token, fuel for resource exchange.",
+  "explorer": "https://bscscan.com/token/0xA30442f87fb448Fb4a008f700c4bCC50D469c1A4",
+  "type": "BEP20",
+  "symbol": "WKC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xA30442f87fb448Fb4a008f700c4bCC50D469c1A4"
+}
