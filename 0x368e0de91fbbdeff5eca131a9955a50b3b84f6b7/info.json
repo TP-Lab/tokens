@@ -2,7 +2,7 @@
  "name": "KangarooCake",
  "website": "https://www.kangaroocake.com/",
  "description": "Kangaroo cake.",
- "explorer": "https://bscscan.com/token/0x368e0De91FBBDEfF5eCA131a9955a50b3B84F6B6",
+ "explorer": "https://bscscan.com/token/0x368e0De91FBBDEfF5eCA131a9955a50b3B84F6B7",
  "type": "BEP20",
  "symbol": "KCake",
  "decimals": 18,
