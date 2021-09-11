@@ -1,0 +1,11 @@
+{
+ "name": "金比特",
+ "website": "无" ,
+ "description": "无" ,
+ "explorer":"https://hecoinfo.com/tx/0xaBe7E85866e32D564bB87966349F0896fD28Fee4", 
+ "type": "HRC-20",
+ "symbol": "BTC-A",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaBe7E85866e32D564bB87966349F0896fD28Fee4"
+}
