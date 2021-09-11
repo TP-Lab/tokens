@@ -1,11 +1,11 @@
 {
- "name": "Lighthouse Token",
- "website": "http://www.lighthousestrategy.vip/office/#/",
- "description": "LIG  Is based onThe customized pass of lighthouse community games opens up new markets for entrepreneurs and makes the circulation value of lighthouse NFT Token",
- "explorer": "https://bscscan.com/token/0x3D18B7c59529E2f9d6E81A9126270FcfbB87E6fb",
+ "name": "KangarooCake",
+ "website": "https://www.kangaroocake.com/",
+ "description": "Kangaroo cake.",
+ "explorer": "https://bscscan.com/token/0x368e0de91fbbdeff5eca131a9955a50b3b84f6b7",
  "type": "BEP20",
- "symbol": "LIG",
- "decimals": 9,
+ "symbol": "KCake",
+ "decimals": 18,
  "status": "active",
- "id": "0x3D18B7c59529E2f9d6E81A9126270FcfbB87E6fb"
+ "id": "0x368e0de91fbbdeff5eca131a9955a50b3b84f6b7"
 }
