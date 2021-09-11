@@ -1,0 +1,11 @@
+{
+  "name": "Buck",
+  "website": "https://www.biding.com",
+  "description": "The whole platform token based on BUCK public chain supports the whole community of media, social, games and other functions.",
+  "explorer": "https://bscscan.com/token/0xF27a4F92A98bB1238854Af640bBc84BcA8884FC2",
+  "type": "BEP20",
+  "symbol": "BUCK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xF27a4F92A98bB1238854Af640bBc84BcA8884FC2"
+}
