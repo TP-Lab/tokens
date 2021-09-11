@@ -1,0 +1,11 @@
+{
+ "name": "Rewardeum",
+ "website": "https://rewardeum.com",
+ "description": "Rewardeum ($REUM) is first multicoin and NFT reward token. Claim NFTs, BTC, ETH, BNB, USDT, BUSD and many more. Rewards stay consistent for longer with the Smart Pool mechanic meaning reward pool size is not tied to trading volume.",
+ "explorer": "https://bscscan.com/token/0x5a68431398a6de785994441e206259702e259c5e",
+ "type": "BEP20",
+ "symbol": "REUM",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5a68431398a6de785994441e206259702e259c5e"
+}
