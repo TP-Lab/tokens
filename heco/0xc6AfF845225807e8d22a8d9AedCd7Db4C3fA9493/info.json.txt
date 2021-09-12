@@ -1,0 +1,11 @@
+{
+    "name": "Fortune",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://hecoinfo.com/token/0xc6AfF845225807e8d22a8d9AedCd7Db4C3fA9493",
+    "type": "HRC20",
+    "symbol": "FOM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc6AfF845225807e8d22a8d9AedCd7Db4C3fA9493"
+}
