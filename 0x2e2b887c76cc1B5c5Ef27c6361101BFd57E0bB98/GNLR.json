@@ -1,0 +1,11 @@
+{
+ "name": "GNLR",
+ "website": "http://godsnlegends.com/",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x2e2b887c76cc1b5c5ef27c6361101bfd57e0bb98",
+ "type": "BEP20",
+ "symbol": "GNLR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2e2b887c76cc1B5c5Ef27c6361101BFd57E0bB98"
+} 
