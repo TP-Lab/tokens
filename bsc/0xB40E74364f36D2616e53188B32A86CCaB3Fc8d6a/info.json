@@ -1,0 +1,11 @@
+{
+ "name": "EcologyCoin",
+ "website": "http://www.ecologycoin.finance",
+ "description": "",
+ "explorer": "https://bscscan.com/address/0xb40e74364f36d2616e53188b32a86ccab3fc8d6a",
+ "type": "BEP20",
+ "symbol": "ECO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xB40E74364f36D2616e53188B32A86CCaB3Fc8d6a"
+}
