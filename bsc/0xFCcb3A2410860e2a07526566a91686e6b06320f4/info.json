@@ -1,0 +1,11 @@
+{
+ "name": "MuskDoge Token",
+ "website": "http://muskdogetoken.com",
+ "description": "MuskDoge Token.",
+ "explorer": "https://bscscan.com/address/0xfccb3a2410860e2a07526566a91686e6b06320f4",
+ "type": "BEP20",
+ "symbol": "MuskDoge",
+ "decimals":0,
+ "status": "active",
+ "id": "0xFCcb3A2410860e2a07526566a91686e6b06320f4"
+}
