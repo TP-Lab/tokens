@@ -1,0 +1,11 @@
+{
+ "name": "Dark Net",
+ "website": "https://www.houndcoin.net",
+ "description": "Dark Net uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://hecoinfo.com/token/0x5637A3e266907690e14cb142c427EA17E0BBc84b",
+ "type": "HRC20",
+ "symbol": "AWB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5637A3e266907690e14cb142c427EA17E0BBc84b"
+}
