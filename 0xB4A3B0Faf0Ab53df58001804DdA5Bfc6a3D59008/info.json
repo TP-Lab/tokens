@@ -1,0 +1,11 @@
+{
+ "name": "Sperax Token",
+ "website": "https://sperax.io",
+ "description": "Sperax is dedicated to benefiting all financial lives with blockchain technology.",
+ "explorer": "https://etherscan.io/address/0xb4a3b0faf0ab53df58001804dda5bfc6a3d59008",
+ "type": "ERC20",
+ "symbol": "SPA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB4A3B0Faf0Ab53df58001804DdA5Bfc6a3D59008"
+}
