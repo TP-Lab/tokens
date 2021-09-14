@@ -1,0 +1,11 @@
+{
+ "name": "Heroes of Sui and Tang",
+ "website": "www.hstgame.com",
+ "description": "《隋唐英雄》是STB（CPC）项目组发行的首款卡牌RPG质押挖矿游戏，随着游戏开放项目组也会增加更新各类新颖玩法，项目组的目标是让质押挖矿成为游戏机制中的其中一个玩法融入游戏，而不是成为游戏的唯一方式，项目组永远会坚持朝这个目标发展来用心做好项目回馈所有用户玩家对STB及CPC的厚爱。",
+ "explorer": "https://hecoinfo.com/token/0x51db6a3b5dd227910b9032f678ebd97e58e43af2",
+ "type": "HRC20",
+ "symbol": "STB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x51db6a3b5dd227910b9032f678ebd97e58e43af2"
+}
