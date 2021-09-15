@@ -1,0 +1,11 @@
+{
+ "name": "ConFiDanTe",
+ "website": "-",
+ "description": "ConFiDanTe token is initiated by dacute community, managed by community autonomy.",
+ "explorer": "https://bscscan.com/token/0x4d522dbda98672e99e5c319cff19d5bd4c154f99",
+ "type": "HECO",
+ "symbol": "CFDT",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x4d522dbda98672e99e5c319cff19d5bd4c154f99"
+}
