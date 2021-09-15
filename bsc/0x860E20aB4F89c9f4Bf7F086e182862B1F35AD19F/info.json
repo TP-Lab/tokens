@@ -1,0 +1,11 @@
+{
+  "name": "Threebody Token",
+  "website": "http://three-body.co/",
+  "description": "Threnody (TEB), An imaginary space can be connected between the spiritual world and the blockchain world to realize DeFi + NFT. Presented on the BSC smart chain, allowing all miners to explore the unknown together. Thought experiment, realize infinite possibility.",
+  "explorer": "https://bscscan.com/token/0x860E20aB4F89c9f4Bf7F086e182862B1F35AD19F",
+  "type": "BEP20",
+  "symbol": "TEB",
+  "decimals": 8,
+  "status": "active",
+  "id": "0x860E20aB4F89c9f4Bf7F086e182862B1F35AD19F"
+}
