@@ -1,0 +1,11 @@
+{
+ "name": "Kamiland Games",
+ "website": "https://www.kamiland.games/",
+ "description": "KAMI Land is a new on-chain RPG online game based on Binance Smart Chain (BSC). Players can freely to create characters, challenge the trial battlefield and the purgatory battlefield to obtain token rewards. Consuming tokens can increase your character's level and get more Power coins. The PVE battlefield will be opened in the later stage, and the successful challenge will get richer rewards.",
+ "explorer": "https://bscscan.com/address/0x8D841867C96253F3d3A93f33DdeBa341906A529C",
+ "type": "BEP20",
+ "symbol": "KAMI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8D841867C96253F3d3A93f33DdeBa341906A529C"
+}
