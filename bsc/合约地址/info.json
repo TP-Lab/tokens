@@ -1,0 +1,11 @@
+{
+ "name": "全称",
+ "website": "官网",
+ "description": "简介",
+ "explorer": "https://bscscan.com/token/合约地址",
+ "type": "BEP20",
+ "symbol": "简称",
+ "decimals": 18,
+ "status": "active",
+ "id": "合约地址"
+}
