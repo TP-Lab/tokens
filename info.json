@@ -1,0 +1,11 @@
+{
+ "name": "ATA",
+ "website": "http://www.atarts.art/",
+ "description": "Global Asset Auction",
+ "explorer": "https://bscscan.com/token/0xb0ed4f549503edd183cf701eb89e9858bb829471",
+ "type": "BEP20",
+ "symbol": "ATA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb0ed4f549503edd183cf701eb89e9858bb829471"
+}
