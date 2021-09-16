@@ -1,0 +1,11 @@
+{
+ "name": "LoveDog",
+ "website": "https://lovedogcoin.com/",
+ "description": "a brand-new decentralized encrypted digital currency initiated by members and fans of the LoveDog Community.",
+ "explorer": "https://bscscan.com/token/0x20a1BDDab61c611cAAb1c2fe3D97F32d477AdB2a",
+ "type": "BEP20",
+ "symbol": "LoveDog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x20a1BDDab61c611cAAb1c2fe3D97F32d477AdB2a"
+}
