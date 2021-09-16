@@ -1,11 +1,21 @@
 {
- "name": "GOCP-Token",
- "website": "http://www.gocp.xyz",
- "description": "GOCP BlockChain is a public chain based on the underlying technology of the blockchain. Through a decentralized structure, the real economy is connected to the blockchain to create an application ecology. GOCP is committed to empowering the transformation and upgrading of the real economy and providing top-level business model design for entities , Token economic model design, corporate commercial value reshaping, blockchain technology development and scenario application and other overall chain reform services, realize corporate value interconnection, and build a new economic ecology with consensus and trust.",
- "explorer": "https://hecoinfo.com/token/0x47dd08ac01fE7924d834B53757420bACa97B16dB",
- "type": "HECO",
- "symbol": "GOCP",
- "decimals": 4,
+
+ "name": "USDD Token",
+ 
+ "website": "https://usdd.vip",
+
+ "description": "UDCoin (UD) is the first social network that builds intelligent AI and enables free transactions between heterogeneous chains.",
+
+ "explorer": "https://hecoinfo.com/token/0xae807a539fdfb89b5a8b99b4b05d3488d3af6c7a",
+
+ "type": "HRC-20",
+
+ "symbol": "UD",
+
+ "decimals": 18,
+
  "status": "active",
- "id": "0x47dd08ac01fE7924d834B53757420bACa97B16dB"
+
+ "id": "0xae807a539fdfb89b5a8b99b4b05d3488d3af6c7a"
+
 }
