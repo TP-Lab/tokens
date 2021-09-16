@@ -1,11 +1,11 @@
 {
- "name": "Lighthouse Token",
- "website": "http://www.lighthousestrategy.vip/office/#/",
- "description": "LIG  Is based onThe customized pass of lighthouse community games opens up new markets for entrepreneurs and makes the circulation value of lighthouse NFT Token",
- "explorer": "https://bscscan.com/token/0x3D18B7c59529E2f9d6E81A9126270FcfbB87E6fb",
- "type": "BEP20",
- "symbol": "LIG",
- "decimals": 9,
+ "name": "Monster Island",
+ "website": "http://monsterisland.online",
+ "description": "Monster to be a BSC chain game, you can build a strong team and fight in fierce battles. After winning each battle, get token rewards",
+ "explorer":"https://www.bscscan.com/address/0xcefc95dd0279aa42b4acc405049d0feaa53f4566",
+ "type": "BSC20",
+ "symbol": "MI",
+ "decimals": 18,
  "status": "active",
- "id": "0x3D18B7c59529E2f9d6E81A9126270FcfbB87E6fb"
+ "id": "0xCEfc95dd0279aA42B4acc405049D0FEAa53F4566"
 }
