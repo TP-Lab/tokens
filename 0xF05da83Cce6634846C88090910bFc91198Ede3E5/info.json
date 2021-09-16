@@ -1,0 +1,11 @@
+{
+ "name": "DeFiR Token",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://hecoinfo.com/token/0xF05da83Cce6634846C88090910bFc91198Ede3E5",
+ "type": "HRC20",
+ "symbol": "DeFiR",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xF05da83Cce6634846C88090910bFc91198Ede3E5"
+}
