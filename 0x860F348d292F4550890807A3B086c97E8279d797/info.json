@@ -1,0 +1,11 @@
+{
+ "name": "NF3",
+ "website": "https://speed.finance.ski",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x860F348d292F4550890807A3B086c97E8279d797",
+ "type": "BEP20",
+ "symbol": "NF3",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x860F348d292F4550890807A3B086c97E8279d797"
+}
