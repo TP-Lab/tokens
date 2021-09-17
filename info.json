@@ -7,7 +7,7 @@
         "explorer": "https://bscscan.com/token/0x952b4b4c2fd8d6841d0aabd2dfbd9591145e26c1",
         "type": "BEP20",
         "symbol": "Suica",
-        "decimals": 18,
+        "decimals": "18",
         "status": "active",
         "id": "0x952B4b4C2FD8d6841D0aaBD2dFBD9591145E26c1"
        }
