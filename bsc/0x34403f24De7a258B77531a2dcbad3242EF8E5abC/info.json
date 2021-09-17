@@ -1,0 +1,11 @@
+{
+ "name": "AOE (Age of Empires)",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x34403f24de7a258b77531a2dcbad3242ef8e5abc",
+ "type": "BEP20",
+ "symbol": "AOE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x34403f24De7a258B77531a2dcbad3242EF8E5abC"
+}
