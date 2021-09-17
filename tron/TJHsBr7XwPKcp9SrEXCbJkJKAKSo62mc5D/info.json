@@ -1,0 +1,11 @@
+{
+ "name": "RainbowNFT",
+ "website": "无",
+ "description": "RNFT Is the first multi-chain DPOS dual-mining protocol based on TRON.",
+ "explorer": "https://tronscan.io/#/token20/TJHsBr7XwPKcp9SrEXCbJkJKAKSo62mc5D",
+ "type": "TRC20",
+ "symbol": "RNFT",
+ "decimals": 6,
+ "status": "active",
+ "id": "TJHsBr7XwPKcp9SrEXCbJkJKAKSo62mc5D"
+}
