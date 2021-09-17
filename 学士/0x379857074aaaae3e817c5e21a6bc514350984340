@@ -1,0 +1,11 @@
+{
+ "name": "CATB Token",
+ "website": "https://bscscan.com/address/0x379857074aaaae3e817c5e21a6bc514350984340",
+ "description": "CATB TOKEN.",
+ "explorer": "https://bscscan.com/token/0x379857074aaaae3e817c5e21a6bc514350984340",
+ "type": "BEP20",
+ "symbol": "CATB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x379857074aaaae3e817c5e21a6bc514350984340"
+}
