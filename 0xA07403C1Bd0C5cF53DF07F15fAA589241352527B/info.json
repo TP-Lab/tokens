@@ -1,0 +1,11 @@
+{
+ "name": "Blade Warrior",
+ "website": "https://www.blade.game",
+ "description": "Blade Warrior 是 OEC 上第一个元宇宙游戏 - 一个开放式的区块链游戏生态系统。团队来自内业知名 3A 游戏开发公司和国际知名区块链公司，通过英雄人物完美结合炫酷的打斗场景，高精美画质及多元化的玩法及通证模型重新定义链游。",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xA07403C1Bd0C5cF53DF07F15fAA589241352527B",
+ "type": "KIP20",
+ "symbol": "Blade",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA07403C1Bd0C5cF53DF07F15fAA589241352527B"
+}
