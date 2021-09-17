@@ -3,7 +3,7 @@
  "website": "https://sacom.space",
  "description": "OX is star alliance community and DLP foundation launched one of the Chinese zodiac series of token",
  "explorer": "https:/hecoinfo.com.com/token/0xBD946ba06f54271152bd6a217f85272405C6B525",
- "type": "HECO",
+ "type": "HRC-20",
  "symbol": "OX",
  "decimals": 18,
  "status": "active",
