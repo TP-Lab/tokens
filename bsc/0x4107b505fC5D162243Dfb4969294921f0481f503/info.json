@@ -1,0 +1,11 @@
+{
+  "name": "GOSToken Token",
+  "website": "http://www.gos.world/index/",
+  "description": "Gos combines the two blockchain categories of defi and NFT to create a decentralized online virtual reality space game meta universe platform.",
+  "explorer": "https://bscscan.com/token/0x4107b505fc5d162243dfb4969294921f0481f503",
+  "type": "BEP20",
+  "symbol": "GOS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4107b505fC5D162243Dfb4969294921f0481f503"
+}
