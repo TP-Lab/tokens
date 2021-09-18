@@ -1,0 +1,11 @@
+{
+ "name": "Geeker Coin",
+ "website": "https://geekercoin.org",
+ "description": "极客币是由中国开源极客圈自发组织发起的项目，极客圈的比特币，总发行量1024亿，团队自留10%用于激励极客向社会输出高质量技术，20%用于激励优秀具有极客精神的企业及初创公司发展。同时将为新一代网络开源体系建设赋能，打造新型开源生态链。",
+ "explorer": "https://bscscan.com/token/0xf59af31137ffe614af24c300f3bba013cf94eba4",
+ "type": "BEP20",
+ "symbol": "GEE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf59af31137ffe614af24c300f3bba013cf94eba4"
+}
