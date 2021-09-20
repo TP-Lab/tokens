@@ -1,0 +1,11 @@
+{
+ "name": "Aggregation",
+ "website": "https://aggregation.godaddysites.com/",
+ "description": "AGG 全称“Aggregation（聚合）”是基于 BEP -20 发行的代币。致力于打造集数字财富管理、应用和流通为一体的区块链生态圈。AGG 作为 AGG 生态圈内流通权益通证，深度融合区块链技术，专注于服务相关区块链项目布局。",
+ "explorer": "https://bscscan.com/token/0xc628ea06346ea45ec2eda6b6b8625b5cc6f8bb6f",
+ "type": "BEP20",
+ "symbol": "AGG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc628ea06346ea45ec2eda6b6b8625b5cc6f8bb6f"
+} 
