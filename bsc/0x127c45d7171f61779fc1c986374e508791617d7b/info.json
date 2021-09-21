@@ -1,0 +1,11 @@
+{
+ "name": "PandaCola NFT",
+ "website": "https://7s.cool",
+ "description": "PandaCola NFT (PCNFT) is a Binance Smart Chain-based reward governance token. It won't be increased any more. The PCNFT is used for philanthropy and rewarding the fans who supports and promotes  Seven Star team's NFTs projects.",
+ "explorer": "https://bscscan.com/token/0x127c45d7171f61779fc1c986374e508791617d7b",
+ "type": "BEP20",
+ "symbol": "PCNFT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x127c45d7171f61779fc1c986374e508791617d7b"
+}
