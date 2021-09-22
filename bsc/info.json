@@ -1,11 +1,11 @@
 {
- "name": "Lighthouse Token",
- "website": "http://www.lighthousestrategy.vip/office/#/",
- "description": "LIG  Is based onThe customized pass of lighthouse community games opens up new markets for entrepreneurs and makes the circulation value of lighthouse NFT Token",
- "explorer": "https://bscscan.com/token/0x3D18B7c59529E2f9d6E81A9126270FcfbB87E6fb",
+ "name": "Farmer",
+ "website": "https://Farmertoken.pro",
+ "description": "The farmer's core idea is that we reorganize the existing value.",
+ "explorer": "https://bscscan.com/token/0x0cfC218aFDAC9e980AC7B3F40BF1eDf69BB0CE9e",
  "type": "BEP20",
- "symbol": "LIG",
+ "symbol": "Farmer",
  "decimals": 9,
  "status": "active",
- "id": "0x3D18B7c59529E2f9d6E81A9126270FcfbB87E6fb"
+ "id": "0x0cfC218aFDAC9e980AC7B3F40BF1eDf69BB0CE9e"
 }
