@@ -1,0 +1,11 @@
+{
+    "name": "聚福币",
+    "website": "-",
+    "description": "聚福币",
+    "explorer": "https://hecoinfo.com/tx/0xcf602bd52857a4a8cda1a39311421fd0dc2e5c3d7dc6918db0b174e0cd70eb51",
+    "type": "HRC-20",
+    "symbol": "JFB",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x915f7C7882221A19D36Da3a63699A5cd31364432"
+   }
