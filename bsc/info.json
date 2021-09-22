@@ -1,11 +1,21 @@
 {
- "name": "Lighthouse Token",
- "website": "http://www.lighthousestrategy.vip/office/#/",
- "description": "LIG  Is based onThe customized pass of lighthouse community games opens up new markets for entrepreneurs and makes the circulation value of lighthouse NFT Token",
- "explorer": "https://bscscan.com/token/0x3D18B7c59529E2f9d6E81A9126270FcfbB87E6fb",
- "type": "BEP20",
- "symbol": "LIG",
- "decimals": 9,
- "status": "active",
- "id": "0x3D18B7c59529E2f9d6E81A9126270FcfbB87E6fb"
+ 
+"name": "Novis Vita Coin",
+ 
+"website": "",
+ 
+"description": "",
+ 
+"explorer": "https://bscscan.com/token/0xB3450E49639194b37B7825AAbef0A1A0A2Dde3cb",
+ 
+"type": "BSC",
+ 
+"symbol": "NVS",
+ 
+"decimals": 9,
+ 
+"status": "active",
+ 
+"id": "0xB3450E49639194b37B7825AAbef0A1A0A2Dde3cb"
+
 }
