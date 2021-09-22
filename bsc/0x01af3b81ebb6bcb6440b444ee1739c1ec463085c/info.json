@@ -1,0 +1,11 @@
+{
+ "name": "KFK",
+ "website": "https://tokenpocket.pro",
+ "description": "Tokens that facilitate the primary market.",
+ "explorer": "https://bscscan.com/token/0x01af3b81ebb6bcb6440b444ee1739c1ec463085c",
+ "type": "BEP20",
+ "symbol": "KFK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x01af3b81ebb6bcb6440b444ee1739c1ec463085c"
+}
