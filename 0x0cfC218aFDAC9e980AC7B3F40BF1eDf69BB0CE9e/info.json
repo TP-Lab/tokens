@@ -1,0 +1,11 @@
+{
+ "name": "Farmer",
+ "website": "https://Farmertoken.pro",
+ "description": "The farmer's core idea is that we reorganize the existing value.",
+ "explorer": "https://bscscan.com/token/0x0cfC218aFDAC9e980AC7B3F40BF1eDf69BB0CE9e",
+ "type": "BEP20",
+ "symbol": "Farmer",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0cfC218aFDAC9e980AC7B3F40BF1eDf69BB0CE9e"
+}
