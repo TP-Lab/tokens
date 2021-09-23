@@ -1,0 +1,11 @@
+{
+    "name": "Cybertron World Token",
+    "website": "https://cybertron.world",
+    "description": "Cybertron World Token",
+    "explorer": "https://bscscan.com/address/0x8ff22201d69583b3f081e49e16caf86f3cb708f7",
+    "type": "ERC20",
+    "symbol": "CWT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8ff22201d69583b3f081e49e16caf86f3cb708f7"
+}
