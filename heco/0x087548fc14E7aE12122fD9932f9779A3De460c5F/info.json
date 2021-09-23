@@ -1,0 +1,11 @@
+{
+ "name": "vBTC",
+ "website": "https://vbtcdao.info/",
+ "description": "vBTC holders will be able to claim rewards if they stake their tokens, play the game, and participate in key governance votes. Players will also be able to earn vBTC when they play various games within the Mining Project Universe and through user generated content initiatives. ",
+ "explorer": "https://hecoinfo.com/tx/0xd83d48f1566cfc72ec35f4883235c11d784c2432d12be46fcfd40102ffc5536a",
+ "type": "HRC20",
+ "symbol": "vBTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x087548fc14E7aE12122fD9932f9779A3De460c5F"
+}
