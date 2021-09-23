@@ -1,0 +1,11 @@
+{
+ "name": "baby",
+ "website": "http://www.okexbaby.com",
+ "description": "baby",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xE6BaAc4Ade7027FC4aB239bf6eb112007128424D",
+ "type": "KIP20",
+ "symbol": "baby",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE6BaAc4Ade7027FC4aB239bf6eb112007128424D"
+}
