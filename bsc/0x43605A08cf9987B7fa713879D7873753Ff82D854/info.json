@@ -1,0 +1,12 @@
+{
+    "name":"hero",
+    "website":"https://horeworldnft.com",
+    "description":"Hero is a decentralized digital game token created by combining NFT and Metaverse on the Binance Smart Chain. Anyone can get token rewards through proficient gameplay and contribution to the ecosystem.
+A series of functions introduced by the Hero ecosystem include token mortgage, dynamic token rarity, rarity mining, and game mechanisms managed by the decentralized autonomous group (Heroworld).",
+  "explorer":"https://bscscan.com/token/0x43605A08cf9987B7fa713879D7873753Ff82D854",
+    "type":"BEP20",
+    "symbol":"hero",
+    "decimals":9,
+    "status":"active",
+    "id":"0x43605A08cf9987B7fa713879D7873753Ff82D854"
+}
