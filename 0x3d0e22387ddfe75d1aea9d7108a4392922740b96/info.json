@@ -1,0 +1,11 @@
+{
+ "name": "Loud Market",
+ "website": "https://loudnft.co/",
+ "description": "LOUD is the Binance Smart Chain (BSC) Token built to support Loud Market’s NFT Marketplace.",
+ "explorer": "https://bscscan.com/address/0x3d0e22387ddfe75d1aea9d7108a4392922740b96#code",
+ "type": "BEP20",
+ "symbol": "LOUD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3d0e22387ddfe75d1aea9d7108a4392922740b96"
+}
