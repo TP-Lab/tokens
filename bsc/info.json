@@ -1,11 +1,11 @@
 {
- "name": "Lighthouse Token",
- "website": "http://www.lighthousestrategy.vip/office/#/",
- "description": "LIG  Is based onThe customized pass of lighthouse community games opens up new markets for entrepreneurs and makes the circulation value of lighthouse NFT Token",
- "explorer": "https://bscscan.com/token/0x3D18B7c59529E2f9d6E81A9126270FcfbB87E6fb",
+ "name": "GOAT Token",
+ "website": "http://www.goatfinance.io",
+ "description": "GOAT-Open a new world of metaverse",
+ "explorer": "https://bscscan.com/token/0xb1033Fce0bA6415f60FD592f90BE10580bC39830",
  "type": "BEP20",
- "symbol": "LIG",
- "decimals": 9,
+ "symbol": "GOAT",
+ "decimals": 8,
  "status": "active",
- "id": "0x3D18B7c59529E2f9d6E81A9126270FcfbB87E6fb"
+ "id": "0xb1033Fce0bA6415f60FD592f90BE10580bC39830"
 }
