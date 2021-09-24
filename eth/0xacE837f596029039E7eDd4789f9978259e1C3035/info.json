@@ -1,0 +1,11 @@
+{
+ "name": "CoinShop",
+ "website": "https://coinshop.com",
+ "description": "CoinShop-BTC Shopping APP",
+ "explorer": "https://etherscan.io/token/0xacE837f596029039E7eDd4789f9978259e1C3035",
+ "type": "ERC20",
+ "symbol": "SHOP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xacE837f596029039E7eDd4789f9978259e1C3035"
+}

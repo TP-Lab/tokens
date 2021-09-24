@@ -1,0 +1,11 @@
+{
+ "name": "Peanut U Valley",
+ "website": "www.puv.one",
+ "description": "PUV是花生U谷平台币， 是平台的未来生态唯一通证。获取方式：注册认证或者邀请赠送。平台本着不私募、不众筹的初心，并将PUV投入更多应用。比如，抵扣手续费、担保费、广告费及开发中的挖矿、商城、游戏对接等。平台内置C2C交易、社区论坛、币圈助手、快讯等板块。",
+ "explorer": "https://bscscan.com/token/0x179C6f1d3b54F68d6A676F9A208Bf03799525b9C",
+ "type": "BEP20",
+ "symbol": "PUV ",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x179C6f1d3b54F68d6A676F9A208Bf03799525b9C "
+}

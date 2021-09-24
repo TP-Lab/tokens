@@ -1,0 +1,11 @@
+{
+ "name": "牛魔王代币",
+ "website": "https://bscscan.com/token/0x932D851Cc084a37d03393C198723d0Be465BBF00",
+ "description": "牛魔王：纵横币世界!中国元素!影响世界!我有自己要去的远方，风雨兼程披星戴月。全球首创，中文命名，纵横世界!区块链中文名专利项目，牛魔王!牛气冲天，冲击牛市!一战成名!",
+ "explorer": "https://bscscan.com/token/0x932D851Cc084a37d03393C198723d0Be465BBF00",
+ "type": "BEP20",
+ "symbol": "牛魔王",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x932D851Cc084a37d03393C198723d0Be465BBF00"
+}
