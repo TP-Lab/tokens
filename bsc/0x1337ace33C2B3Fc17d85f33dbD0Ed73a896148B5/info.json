@@ -1,0 +1,11 @@
+{
+    "name": "Gravitoken",
+    "website": "https://gravitoken.co.uk",
+    "description": "GRAVITOKEN (GRV) is a project born out of the need for reliable price rises amongst a sea of volatility and red candles. We've created a token and a community you can join with confidence. Gravitoken is mathematically designed to increase in price every hour, allowing you to be worry-free knowing your investment is protected through a constantly increasing liquidity pool solidifying the price floor.",
+    "explorer": "https://bscscan.com/token/0x1337ace33C2B3Fc17d85f33dbD0Ed73a896148B5",
+    "type": "BEP20",
+    "symbol": "GRV",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x1337ace33C2B3Fc17d85f33dbD0Ed73a896148B5"
+}
