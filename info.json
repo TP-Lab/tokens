@@ -1,0 +1,11 @@
+{
+ "name": "FCN",
+ "website": "http://www.fcntoken.com",
+ "description": "FCN uses blockchain technology to build a decentralized intelligent ecosystem to achieve community self-governance. with DeFi as the underlying technology, FCN helps global blockchain enthusiasts, products and individuals achieve a more open and decentralized self-governance operation through the decentralized on-chain system built.",
+ "explorer": "https://bscscan.com/token/0x289f347aC469bc1B7359ED95C87c75Ac2c3EB16F",
+ "type": "BEP20",
+ "symbol": "FCN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x289f347aC469bc1B7359ED95C87c75Ac2c3EB16F"
+}
