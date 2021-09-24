@@ -1,0 +1,11 @@
+{
+ "name": "HBCT",
+ "website": "https://www.hbcttokengame.com",
+ "description": "A competitive game on the chain.",
+ "explorer": "https://bscscan.com/token/0x8d8c2Ca7A7B670aA6e1e76b905d10667d43B67f4",
+ "type": "BEP20",
+ "symbol": "HBCT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8d8c2Ca7A7B670aA6e1e76b905d10667d43B67f4"
+}
