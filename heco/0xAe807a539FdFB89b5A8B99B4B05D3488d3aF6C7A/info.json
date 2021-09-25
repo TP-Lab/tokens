@@ -1,0 +1,11 @@
+{
+ "name": "USDD Token",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0xAe807a539FdFB89b5A8B99B4B05D3488d3aF6C7A",
+ "type": "HRC-2",
+ "symbol": "UD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAe807a539FdFB89b5A8B99B4B05D3488d3aF6C7A"
+}
