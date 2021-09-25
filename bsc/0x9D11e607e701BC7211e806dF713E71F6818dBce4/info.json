@@ -1,0 +1,11 @@
+{
+ "name": "Three-body Protocol",
+ "website": "http://threebodyprotocol.com",
+ "description": "TPL is based on blockchain, AR and big data technology. Under the background of Web3.0 era, TPL links virtual reality with technology to make the future accessible. In the virtual Star Universe, game, NFT, metauniverse and other elements are integrated,Everyone will have a unique identity, build their own ideal home and make their dreams come true in the star universe.",
+ "explorer": "https://bscscan.com/token/0x9d11e607e701bc7211e806df713e71f6818dbce4",
+ "type": "BEP20",
+ "symbol": "TPL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9D11e607e701BC7211e806dF713E71F6818dBce4"
+}
