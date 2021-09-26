@@ -1,0 +1,11 @@
+{
+ "name": "STAN Token",
+ "website": "https://stan.run/",
+ "description": "A value token for GameForPeace game publishers",
+ "explorer": "https://bscscan.com/token/0x36666aa24ebed61e97b16c0aa76426e328fcd353",
+ "type": "BEP20",
+ "symbol": "STAN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x36666aa24ebed61e97b16c0aa76426e328fcd353"
+}
