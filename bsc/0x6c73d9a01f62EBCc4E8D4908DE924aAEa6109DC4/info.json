@@ -1,0 +1,11 @@
+{
+ "name": "DARKGAME",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x6c73d9a01f62EBCc4E8D4908DE924aAEa6109DC4",
+ "type": "BEP20",
+ "symbol": "DAGA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6c73d9a01f62EBCc4E8D4908DE924aAEa6109DC4"
+}
