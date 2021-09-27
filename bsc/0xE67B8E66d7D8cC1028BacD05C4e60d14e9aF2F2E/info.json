@@ -1,0 +1,11 @@
+{
+    "name": "UIL",
+    "website": "https://www.uil.plus",
+    "description": "UIL is a gaming platform that combines revenue mining and NFT mining to create a free and play while earning ecosystem .",
+    "explorer": "https://bscscan.com/token/0xE67B8E66d7D8cC1028BacD05C4e60d14e9aF2F2E",
+    "type": "BEP20",
+    "symbol": "UIL",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xE67B8E66d7D8cC1028BacD05C4e60d14e9aF2F2E"
+}
