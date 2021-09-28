@@ -1,0 +1,11 @@
+{
+ "name": "BCC Endless Chain",
+ "website": "http://www.bcc-chain168.com",
+ "description": "BCC builds decentralized application scenarios.",
+ "explorer": "https://hecoinfo.com/address/0x527875D1E12ACD77E35574f801f579f019A3b8Dd",
+ "type": "HECO",
+ "symbol": "BCC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x527875D1E12ACD77E35574f801f579f019A3b8Dd"
+}
