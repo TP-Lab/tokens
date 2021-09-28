@@ -1,0 +1,11 @@
+ {
+  "name": "charity coin",
+  "website": "https://chacoin.finance",
+  "description": "CHA was issued based on binance Chain, and subsequently independently developed Olive Chain public Chain of the main network. Olive Chain is a future-oriented public Chain of big data economic infrastructure. Based on the distributed characteristics of blockchain, cryptography and other technical means and token design, Olive Chain provides a brand new blockchain solution for the development of charity and leads a new revolution in data services.",
+  "explorer": "https://bscscan.com/token/0xf759574191fff5490840fab805456e58aaf99958",
+  "type": "BEP20",
+  "symbol": "CHA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf759574191fff5490840fab805456e58aaf99958"
+}
