@@ -1,0 +1,11 @@
+{
+    "name": "EBZZ TOKEN",
+    "website": "www.ebzz.info",
+    "description": "ebzz is a functonal token facilitating the usage of a series blockchain applications, offering a promising solution to various inconvenience between user and the data on the chain",
+    "explorer": "https://bscscan.com/token/0xbdeb4488c5be9f7a7acbf030ebc63e6823114d3b",
+    "type": "BEP20",
+    "symbol": "EBZZ",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xbdEb4488C5be9f7a7Acbf030EBc63e6823114d3B"
+}
