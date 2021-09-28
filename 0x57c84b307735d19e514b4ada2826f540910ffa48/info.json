@@ -1,0 +1,11 @@
+{
+ "name": "MUSK",
+ "website": "https://www.unclemusk.com",
+ "description": "MUSK uses blockchain technology to build a decentralized intelligent ecosystem to achieve community self-governance. with DeFi as the underlying technology, MUSK helps global blockchain enthusiasts, products and individuals achieve a more open and decentralized self-governance operation through the decentralized on-chain system built.",
+ "explorer": "https://bscscan.com/token/0x57c84b307735d19e514b4ada2826f540910ffa48",
+ "type": "BEP20",
+ "symbol": "MUSK",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x57c84b307735d19e514b4ada2826f540910ffa48"
+}
