@@ -1,0 +1,11 @@
+{
+	"name": "Mars Ecosystem Token",
+	"website": "https://https://marsecosystem.com/home",
+	"description": "The fundamental issue within most current stablecoin protocols is positive externality. The cost of producing and maintaining stablecoins are incurred by the protocol and its users (minters, share holders, bond holders). Whereas the majority of the value comes from the transaction of stablecoins within DeFi primitives and and is captured by these DeFi primitives.Mars Ecosystem solves this problem by integrating the creation and the use of stablecoin into one stable yet decentralized ecosystem.The relationship between Mars Stablecoin and Mars DeFi platform creates a positive feedback loop and generates a flywheel effect.",
+	"explorer": "https://bscscan.com/token/0x7859b01bbf675d67da8cd128a50d155cd881b576",
+	"type": "BEP20",
+	"symbol": "XMS",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x7859B01BbF675d67Da8cD128a50D155cd881B576"
+}
