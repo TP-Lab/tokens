@@ -1,0 +1,11 @@
+{
+ "name": "BluSea Token",
+ "website": "https://blusea.net",
+ "description": "Coin introduction: BLUS is the only platform token issued by BluSea Exchange. In the business system of BluSea Exchange, BLUS plays a very important role.Transaction fee: All the transaction fees for NFT transactions on the BluSea exchange need to be paid by BLUS;Platform governance: The BluSea Exchange adopts the DAO method for governance. All major matters such as: adjustment of handling fees, new trading categories online, etc., need to be voted by the community, and BLUS is the only voting medium;Digitization of assets: Converting physical assets into digital assets on the BluSea Exchange needs to pledge BLUS. At the same time, if such digital assets are cast into NFTs, BLUS needs to be destroyed to execute the contract.",
+ "explorer": "https://bscscan.com/token/0x79fAcDe0fa8B6E4BE99e1eB38ED229cb79D4deb0",
+ "type": "BEP20",
+ "symbol": "BLUS",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x79fAcDe0fa8B6E4BE99e1eB38ED229cb79D4deb0"
+}
