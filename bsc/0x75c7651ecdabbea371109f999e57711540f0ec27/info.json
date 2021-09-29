@@ -1,0 +1,11 @@
+{
+ "name": "Pushinka Doge Token",
+ "website": "https://snowcrash.finance",
+ "description": "PushDoge is an ecological Token in MetaVoxel world, which can be used to buy pets or other props in MetaVoxel.",
+ "explorer": "https://bscscan.com/token/0x75c7651ecdabbea371109f999e57711540f0ec27",
+ "type": "BEP20",
+ "symbol": "PushDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x75c7651EcdaBbEA371109F999e57711540f0Ec27"
+}
