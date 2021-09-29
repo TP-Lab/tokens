@@ -1,0 +1,11 @@
+ {
+  "name": "Drpolet",
+  "website": " detoken.finance",
+  "description": "Droplet came from the Trisolarans, who launched droplet as a pioneer space probe to Earth. Droplet, aided by the human Advent, needed speed to block the sun's ability to amplify radio waves.",
+  "explorer": "https://bscscan.com/address/0xc5ff08ff6bf5398a63c30ede191647051ad7880b",
+  "type": "BEP20",
+  "symbol": "DET",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc5FF08Ff6bF5398A63c30eDE191647051ad7880b"
+}
