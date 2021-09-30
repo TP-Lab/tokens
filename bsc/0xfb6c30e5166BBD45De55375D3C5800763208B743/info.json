@@ -1,0 +1,11 @@
+{
+ "name": "BluSea Token",
+ "website": "https://blusea.io",
+ "description": "藍海交易所是一家技術領先的 數位資產交易所，其核心業務包括NFT、GameFi、 DeFi、資產數位化等多個方向，為來自於全球的用 戶提供專業、安全、高效的數位資產交易服務。",
+ "explorer": "https://bscscan.com/token/0xfb6c30e5166bbd45de55375d3c5800763208b743",
+ "type": "BEP20",
+ "symbol": "BLUS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfb6c30e5166bbd45de55375d3c5800763208b743"
+}
