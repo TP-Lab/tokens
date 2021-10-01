@@ -1,0 +1,11 @@
+{
+ "name": "Depth Token",
+ "website": "https://www.depth.fi",
+ "description": "Depth Token on BSC",
+ "explorer": "https://www.bscscan.com/token/0x16f99577b259b069a2d1d166e70d349b11b1d325",
+ "type": "BEP20",
+ "symbol": "BDEP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x16f99577b259b069a2d1d166e70d349b11b1d325"
+}
