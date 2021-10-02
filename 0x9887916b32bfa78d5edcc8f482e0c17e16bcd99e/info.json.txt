@@ -1,0 +1,20 @@
+{
+ "name": "sarc Token",
+ 
+ "website": "нч",
+
+ "description": "Company tokens issued by Ami Digital Assets.",
+
+ "explorer": "https://bscscan.com/token/0x9887916b32bfa78d5edcc8f482e0c17e16bcd99e",
+
+ "type": "BEP20",
+
+ "symbol": "SARC",
+
+ "decimals": 8,
+
+ "status": "active",
+
+ "id": "0x9887916b32bfa78d5edcc8f482e0c17e16bcd99e"
+
+}
