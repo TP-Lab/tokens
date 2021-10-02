@@ -1,0 +1,11 @@
+{
+ "name": "DREAM COIN",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x9e44d9f15616d4594551e4434e697bf8c8464348",
+ "type": "BSC20",
+ "symbol": "DMC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x9E44d9f15616D4594551e4434e697bf8c8464348"
+}
