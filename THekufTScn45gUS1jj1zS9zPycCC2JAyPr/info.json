@@ -1,0 +1,11 @@
+{
+ "name": "DRACO Token",
+ "website": "http://www.dracotoke.com",
+ "description": "DRT creates an ecological Multi Chain decentralized game platform. It aims to build a bridge between reality and virtualization and create a decentralized community world that anyone can explore.",
+ "explorer": "https://tronscan.io/#/contract/THekufTScn45gUS1jj1zS9zPycCC2JAyPr",
+ "type": "TRC20",
+ "symbol": "DRT",
+ "decimals": 6,
+ "status": "active",
+ "id": "THekufTScn45gUS1jj1zS9zPycCC2JAyPr"
+}
