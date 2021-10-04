@@ -1,0 +1,14 @@
+{
+ "name"PigSwap",
+ "website": "https://www.PigSwap.com",
+ "description": "This is the test token of 50 million PI friends around the world
+.",
+ "explorer": "https://hecoinfo.com/token/0xf4dfa081c54312bb356db454b75c4e4cf8767c56
+",
+ "type": "HRC-20",
+ "symbol": "PiSwap",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf4dfa081c54312bb356db454b75c4e4cf8767c56
+"
+}
