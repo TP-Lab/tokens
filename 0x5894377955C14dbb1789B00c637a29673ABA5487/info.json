@@ -1,0 +1,11 @@
+{
+ "name": "FIRE",
+ "website": "http://www.hte.ink",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x5894377955c14dbb1789b00c637a29673aba5487",
+ "type": "BEP20",
+ "symbol": "FIRE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5894377955C14dbb1789B00c637a29673ABA5487"
+}
