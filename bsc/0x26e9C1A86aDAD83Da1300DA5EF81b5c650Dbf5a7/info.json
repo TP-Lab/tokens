@@ -1,7 +1,7 @@
 {
     "name": "BT",
-    "website": "",
-    "description": "",
+    "website": "https://btswap-finance.net",
+    "description": "BT Finance is a global decentralized financial integrated business entity, committed to becoming the most widely used DeFi application platform for TRON users and establishing a multi-level financial system.",
     "explorer": "https://bscscan.com/token/0x26e9C1A86aDAD83Da1300DA5EF81b5c650Dbf5a7",
     "type": "BEP20",
     "symbol": "BT",
