@@ -1,11 +1,11 @@
 {
-	"name": "Meta Soldier Token",
-	"website": "https://www.metasolider.org",
-	"description": "MetaSoldier is an STG chain game, which brings rich game fun and potential benefits to users",
-	"explorer": "https://bscscan.com/token/0xe570d0158cd137c25230a04c26406b01bee501f6",
-	"type": "BEP20",
-	"symbol": "MSD",
-	"decimals": 18,
-	"status": "active",
-	"id": "0xE570D0158CD137C25230a04C26406b01bee501f6"
+  "name": "Meta Soldier Token",
+  "website": "https://www.metasolider.org",
+  "description": "MetaSoldier is an STG chain game, which brings rich game fun and potential benefits to users",
+  "explorer": "https://bscscan.com/token/0xe570d0158cd137c25230a04c26406b01bee501f6",
+  "type": "BEP20",
+  "symbol": "MSD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xE570D0158CD137C25230a04C26406b01bee501f6"
 }
