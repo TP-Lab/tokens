@@ -1,0 +1,11 @@
+{
+ "name": "Musk Floki",
+ "website": "http://muskfloki.xyz",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xa988766aa3e1d562fd49c389e704640c8a03b34b",
+ "type": "BEP20",
+ "symbol": "MuskFloki",
+ "decimals":9,
+ "status": "active",
+ "id": "0xA988766AA3e1d562Fd49c389E704640c8a03B34b"
+}
