@@ -1,0 +1,11 @@
+{
+ "name": "Samurai Amazing Game",
+ "website": "https://samurai.gold/",
+ "description": "Samurai is an OEC based on-chain RTC+TCG game ecosystem based on the story of the famous Chinese fiction romance of three kingdoms",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/ex13w2pthdkgwps9qdz683cnk8qynra9m00nrajhy",
+ "type": "KIP20",
+ "symbol": "SAMU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8b9415ddb643830281a2d1e389d8e024c7d2edef"
+}
