@@ -1,0 +1,11 @@
+{
+ "name": "GRAPE STABLE Coin",
+ "website": "https://defifox.io",
+ "description": "DeFiFox is a leveraged income aggregator focusing on the DeFi ecosystem, committed to building a complete ecological infrastructure of the public chain, allowing users to more conveniently use leverage to obtain higher returns.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x81118943c298de2973f2abe4807cd915c26ca483",
+ "type": "KIP20",
+ "symbol": "GRAPE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x81118943C298dE2973f2abe4807Cd915c26CA483"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Lucky Doge Coin",
+  "website": "https://luckydogefinance.com",
+  "description": "A deflationary token for Lucky Doge Finance DeFi platform",
+  "explorer": "https://bscscan.com/token/0xb4c0cf074ae61d9b5218b0557bbcb2343c7d61c7",
+  "type": "BEP20",
+  "symbol": "LDC",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xb4c0cf074ae61D9b5218B0557BBCb2343c7D61c7"
+ }

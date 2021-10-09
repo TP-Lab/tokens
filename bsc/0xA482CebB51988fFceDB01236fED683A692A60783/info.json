@@ -1,0 +1,11 @@
+{
+ "name": "blockyu",
+ "website": "https://snapshot.org/#/blockyu.eth",
+ "description": "The block fish community badge can be voted.",
+ "explorer": "https://bscscan.com/token/0xA482CebB51988fFceDB01236fED683A692A60783",
+ "type": "BEP20",
+ "symbol": "blockyu",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA482CebB51988fFceDB01236fED683A692A60783"
+}

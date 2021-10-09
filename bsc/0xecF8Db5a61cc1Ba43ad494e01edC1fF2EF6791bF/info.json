@@ -1,0 +1,11 @@
+{
+ "name": "Grandpa Dog",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xecF8Db5a61cc1Ba43ad494e01edC1fF2EF6791bF",
+ "type": "BEP20",
+ "symbol": "GPD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xecF8Db5a61cc1Ba43ad494e01edC1fF2EF6791bF"
+}

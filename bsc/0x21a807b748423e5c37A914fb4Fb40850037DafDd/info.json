@@ -1,0 +1,11 @@
+{
+    "name": "GameDao Protocal",
+    "website": "https://bsc.gamedao.io",
+    "description": "GameDao is a NFT encrypted artwork entertainment creation platform, including NFT creation platform (NFT By your), NFT and blockchain game publishing platform, POPNFTs, NFT trading market, and entertainment interactive system.",
+    "explorer": "https://bscscan.com/token/0x21a807b748423e5c37a914fb4fb40850037dafdd",
+    "type": "BEP20",
+    "symbol": "DAO",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x21a807b748423e5c37A914fb4Fb40850037DafDd"
+}

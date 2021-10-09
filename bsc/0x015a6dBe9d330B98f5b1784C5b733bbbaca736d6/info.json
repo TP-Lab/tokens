@@ -1,0 +1,11 @@
+{
+    "name": "LokiDoge Coin",
+    "website": "https://www.lokidoge.net",
+    "description": "we are LokiDoge Coin.",
+    "explorer": "https://bscscan.com/token/0x015a6dBe9d330B98f5b1784C5b733bbbaca736d6",
+    "type": "BEP20",
+    "symbol": "LokiDoge",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x015a6dBe9d330B98f5b1784C5b733bbbaca736d6"
+   }

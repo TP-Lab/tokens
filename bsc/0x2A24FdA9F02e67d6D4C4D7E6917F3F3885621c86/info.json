@@ -1,0 +1,12 @@
+{
+ "name": "Donald John Trump",
+ "website": "https://www.djtgame.com",
+ "description": "Donald John Trump
+特朗普(DJT)基于 BSC 打造了创新型流动性挖矿系统，发行 DJT 代币，实现持有 即挖矿、流动性自我成长以及通缩燃烧等机制，并通过超级挖矿系统，为用户提供一整套的 挖矿服务解决方案，在去中心化的理念支持下，做到真实、透明、安全、便捷，更做到挖矿 奖励的公平、公正和自由，真正实现人人皆可挖矿的目标。",
+ "explorer": "https://bscscan.com/token/0x2A24FdA9F02e67d6D4C4D7E6917F3F3885621c86",
+ "type": "BEP20",
+ "symbol": "DJT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2A24FdA9F02e67d6D4C4D7E6917F3F3885621c86"
+}

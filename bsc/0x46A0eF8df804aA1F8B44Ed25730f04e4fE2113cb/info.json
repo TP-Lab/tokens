@@ -1,0 +1,11 @@
+{
+ "name": "DOGE++ Token",
+ "website": "https://dogeplusplus.com",
+ "description": "Doge++, empowers Dogecoin.",
+ "explorer": "https://bscscan.com/token/0x46A0eF8df804aA1F8B44Ed25730f04e4fE2113cb",
+ "type": "BEP20",
+ "symbol": "DOGE++",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x46A0eF8df804aA1F8B44Ed25730f04e4fE2113cb"
+}

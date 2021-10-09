@@ -1,0 +1,11 @@
+{
+ "name": "Angels Token",
+ "website": "www.xtsworld.com",
+ "description": "XTS token is mainly used in games, e-commerce, artwork, stores, health industry, commodity traceability ect., especially commodities and games have a high degree of attention in the market. Some game props and commodities are naturally unique and inseparable, and they are just coupled with XTS. Therefore, XTS can effectively prevent the forgery and falsification of such items.",
+ "explorer": "https://bscscan.com/token/0xe3da5172192e968d24f2a65810a7c2b708e25795",
+ "type": "BEP20",
+ "symbol": "XTS",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xe3da5172192e968d24f2a65810a7c2b708e25795"
+}

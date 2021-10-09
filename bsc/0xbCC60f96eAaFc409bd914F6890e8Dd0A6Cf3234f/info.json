@@ -1,0 +1,11 @@
+{
+ "name": "Roman",
+ "website": "https://row.finance",
+ "description": "Token of row.finance",
+ "explorer": "https://bscscan.com/address/0xbCC60f96eAaFc409bd914F6890e8Dd0A6Cf3234f",
+ "type": "BEP20",
+ "symbol": "ROW",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xbCC60f96eAaFc409bd914F6890e8Dd0A6Cf3234f"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "LUCKY-SWAP",
+ "website": "http://luckswap.club/",
+ "description": "LUCKS is a decentralized deflationary currency based on the Huobi ecological chain.",
+ "explorer": "https://hecoinfo.com/token/0x8cccb1545869334d73003fe510e6fb0bdb125930",
+ "type": "HRC20",
+ "symbol": "LUCKS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8ccCB1545869334D73003fe510e6FB0BdB125930"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Fightdoge",
+ "website": "https://Fightdogetoken.com",
+ "description": "FightDoge is fully decentralized and owned by its fun, vibrant community..",
+ "explorer": "https://bscscan.com/token/0x62c07281289e807d2aD7479E35e050264B5a3cBa",
+ "type": "BEP20",
+ "symbol": "Fightdoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x62c07281289e807d2aD7479E35e050264B5a3cBa"
+}

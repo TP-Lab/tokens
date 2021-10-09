@@ -1,0 +1,11 @@
+{
+ "name": "SlushPool",
+ "website": "-",
+ "description": "The SlushPool project focuses on storage server mining.",
+ "explorer": "https://bscscan.com/token/0xcfAF43bFAB8Dd1A4D9e628982C9fC37058ad7370",
+ "type": "BEP20",
+ "symbol": "STC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xcfAF43bFAB8Dd1A4D9e628982C9fC37058ad7370"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Matifi Token",
+    "website": "https://matifi.network",
+    "description": "Cross-chain aggregation of Ethereum ecological resources and traffic, providing financial derivatives services for Polygon, Arbitrum, BSC, and ETH users.",
+    "explorer": "https://polygonscan.com/token/0x20791BF24aA283De42D08BE7B112dE458186036e",
+    "type": "ERC20",
+    "symbol": "MATIFI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x20791BF24aA283De42D08BE7B112dE458186036e"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "cocoa bean",
+ "website": "https://cocotoken.top/web",
+ "description": "An NFT themed governance token containing community forums, NFT trading platform, NFT creation and communication",
+ "explorer": "https://bscscan.com/token/0xAEF5055A7e0663a9bF0DaFDD105bf0f1Bc28f082",
+ "type": "BEP20",
+ "symbol": "COCO",
+ "decimals": 0,
+ "status": "active",
+ "id": "0xAEF5055A7e0663a9bF0DaFDD105bf0f1Bc28f082"
+}

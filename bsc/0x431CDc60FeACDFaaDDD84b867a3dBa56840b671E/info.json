@@ -1,0 +1,11 @@
+{
+ "name": "LegoDoge",
+ "website": "https://www.LgDoge.com",
+ "description": "LegoDoge",
+ "explorer": "https://bscscan.com/address/0x431CDc60FeACDFaaDDD84b867a3dBa56840b671E",
+ "type": "BEP20",
+ "symbol": "LegoDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x431CDc60FeACDFaaDDD84b867a3dBa56840b671E"
+}

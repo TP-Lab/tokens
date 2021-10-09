@@ -1,0 +1,11 @@
+{
+ "name": "NFTDOGE",
+ "website": "",
+ "description": "NFT+GAMEFI",
+ "explorer": "https://bscscan.com/token/0x9282b59fccbe85195952a58518eb3c265e15c061",
+ "type": "BEP20",
+ "symbol": "NFTDOGE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9282b59fcCBE85195952a58518EB3c265E15c061"
+}

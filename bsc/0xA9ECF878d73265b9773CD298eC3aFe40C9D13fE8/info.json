@@ -1,0 +1,11 @@
+{
+    "name": "Baby Loser Coin",
+    "website": "https://www.babyloser.com",
+    "description": "A poor youth in a fifth tier city, invited another poor programmer, to Co sponsor the Baby Loser Coin project, BabyLowb.",
+    "explorer": "https://bscscan.com/token/0xa9ecf878d73265b9773cd298ec3afe40c9d13fe8",
+    "type": "BEP20",
+    "symbol": "BabyLowb",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA9ECF878d73265b9773CD298eC3aFe40C9D13fE8"
+   }

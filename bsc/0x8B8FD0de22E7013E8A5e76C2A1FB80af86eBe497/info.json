@@ -1,0 +1,11 @@
+{
+    "name": "GOLDTREE",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0x8b8fd0de22e7013e8a5e76c2a1fb80af86ebe497",
+    "type": "BEP20",
+    "symbol": "GOLDTREE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8b8fd0de22e7013e8a5e76c2a1fb80af86ebe497"
+}

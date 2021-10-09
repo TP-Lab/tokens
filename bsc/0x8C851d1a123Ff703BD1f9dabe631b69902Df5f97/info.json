@@ -1,0 +1,11 @@
+{
+	"name": "BinaryX",
+	"website": "https://www.binaryx.pro",
+	"description": "BinaryX is a brand new Decentralized Derivatives Protocol on BSC. Owned games [Cyber Dragon] is an online game based on Binance Smart Chain (BSC).",
+	"explorer": "https://bscscan.com/token/0x8C851d1a123Ff703BD1f9dabe631b69902Df5f97",
+	"type": "BEP20",
+	"symbol": "BNX",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x8C851d1a123Ff703BD1f9dabe631b69902Df5f97"
+}

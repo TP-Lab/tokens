@@ -1,0 +1,11 @@
+{
+    "name":"GTMooncoin",
+    "website":"http://www.gtmoon.xyz",
+    "description":"GTMOON is a community autonomous token with a total of 10 trillion coins and an extreme deflationary bonus mechanism",
+    "explorer":"https://bscscan.com/token/0x6D63E08952B6Afd77bB2bc6E43faE070B52AF618",
+    "type":"BEP20",
+    "symbol":"GTMOON",
+    "decimals":8,
+    "status":"active",
+    "id":"0x6D63E08952B6Afd77bB2bc6E43faE070B52AF618"
+} 

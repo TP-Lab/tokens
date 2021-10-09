@@ -1,0 +1,11 @@
+{
+ "name": "StrayDoge",
+ "website": "https://www.straydoge.org",
+ "description": "Stray Doge is a bep-20 token with deflationary, automated rewards, burns, as well as incredible plans for charity.",
+ "explorer": "https://bscscan.com/token/0xbCad05157d856d807804D9F7725C944c14E0390e",
+ "type": "BEP20",
+ "symbol": "StrayDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xbCad05157d856d807804D9F7725C944c14E0390e"
+}

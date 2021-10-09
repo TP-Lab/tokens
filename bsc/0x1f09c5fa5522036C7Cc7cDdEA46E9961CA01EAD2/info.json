@@ -1,0 +1,11 @@
+{
+ "name": "C Token",
+ "website": "https://c-token.info",
+ "description": "C token is a new conceptive token about environmental protection based on heco smartchain.",
+ "explorer": "https://bscscan.com/address/0x1f09c5fa5522036c7cc7cddea46e9961ca01ead2",
+ "type": "BSC",
+ "symbol": "C",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1f09c5fa5522036C7Cc7cDdEA46E9961CA01EAD2"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "plus token",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://hecoinfo.com/token/0xB61A381995b4929FC0EFa76eaAF3D1C235A0Fa65",
+ "type": "HRC20",
+ "symbol": "Plus",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB61A381995b4929FC0EFa76eaAF3D1C235A0Fa65"
+}

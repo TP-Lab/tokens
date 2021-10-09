@@ -1,0 +1,11 @@
+{
+"name": "MxPig Token",
+"website": "http://MxPig.org",
+"description": "BSC",
+"explorer": "https://bscscan.com/token/0xd0040048E3026d6C57C69d489C70Df13cF70CEBA",
+"type": "BEP20",
+"symbol": "MxPig",
+"decimals": 9,
+"status": "active",
+"id": "0xd0040048E3026d6C57C69d489C70Df13cF70CEBA"
+}

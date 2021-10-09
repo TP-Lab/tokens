@@ -1,0 +1,11 @@
+{
+ "name": "StrongDoge",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x7b2Ba8Ce3fF2D46e2c3F959E19C2dc355BcbB286",
+ "type": "HRC20",
+ "symbol": "StrongDoge",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x7b2Ba8Ce3fF2D46e2c3F959E19C2dc355BcbB286"
+}

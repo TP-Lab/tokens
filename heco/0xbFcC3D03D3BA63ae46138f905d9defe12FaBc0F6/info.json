@@ -1,0 +1,11 @@
+{
+ "name": "Slotcoin",
+ "website": "https://slotcoin.finance/",
+ "description": "Slot Coin, the brave game in the crypto world, exclusive for Winners, loser filter, a great crypto-economic experiment.",
+ "explorer": "https://hecoinfo.com/token/0xbFcC3D03D3BA63ae46138f905d9defe12FaBc0F6",
+ "type": "HRC20",
+ "symbol": "SLOT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xbFcC3D03D3BA63ae46138f905d9defe12FaBc0F6"
+}

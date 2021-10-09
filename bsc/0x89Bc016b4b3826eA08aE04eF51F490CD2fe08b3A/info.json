@@ -1,0 +1,11 @@
+{
+ "name": "Pan Oracle Token",
+ "website": "https://panoracle.com/",
+ "description": "PanOracle provides a decentralized Service platform for all DApps to serve data interacting with the real world.",
+ "explorer": "https://bscscan.com/token/0x89Bc016b4b3826eA08aE04eF51F490CD2fe08b3A",
+ "type": "BEP20",
+ "symbol": "PAN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x89Bc016b4b3826eA08aE04eF51F490CD2fe08b3A"
+}

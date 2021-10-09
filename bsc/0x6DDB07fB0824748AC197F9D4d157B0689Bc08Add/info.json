@@ -1,0 +1,11 @@
+{
+  "name": "Finance Radar Engine",
+  "website": "http://fre.one",
+  "description": "FRE (大夫人)，FRE 作为DeFi的引擎，由流动性挖矿聚合挖矿产出，实现了每秒处理超过3000笔交易的吞吐量，并将交易确认时间压缩在30秒以内，是现有公链比特币系统性能的428倍，是以太坊系统的75倍。",
+  "explorer": "https://bscscan.com/token/0x6DDB07fB0824748AC197F9D4d157B0689Bc08Add",
+  "type": "BEP20",
+  "symbol": "FRE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6DDB07fB0824748AC197F9D4d157B0689Bc08Add"
+}

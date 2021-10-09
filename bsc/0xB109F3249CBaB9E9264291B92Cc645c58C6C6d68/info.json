@@ -1,0 +1,11 @@
+{
+ "name": "Meteor Network",
+ "website": "http://mtonet.org",
+ "description": "Meteor Network will connect blockchain and reality",
+ "explorer": "https://bscscan.com/token/0xB109F3249CBaB9E9264291B92Cc645c58C6C6d68",
+ "type": "BEP20",
+ "symbol": "MTO",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xB109F3249CBaB9E9264291B92Cc645c58C6C6d68"
+}

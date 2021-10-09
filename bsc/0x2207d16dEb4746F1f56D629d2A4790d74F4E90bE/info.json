@@ -1,0 +1,11 @@
+{
+ "name": "Blockchain Property Token",
+ "website": "https://bcpt.tech/",
+ "description": "BLOCKCHAIN PROPERTY is a real estate transaction platform based on blockchain, allowing users to purchase property rights without borders.",
+ "explorer": "https://bscscan.com/token/0x2207d16deb4746f1f56d629d2a4790d74f4e90be",
+ "type": "BEP20",
+ "symbol": "BCPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2207d16deb4746f1f56d629d2a4790d74f4e90be"
+}

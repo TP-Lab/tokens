@@ -1,0 +1,11 @@
+{
+ "name": "Bamboo",
+ "website": "https://bam-boo.net",
+ "description": "A leading multi-chain wallet that supports OKExChain,  and so on.",
+ "explorer": "https://www.oklink.com/okexchain/address/0xAc7dA85D833918136BdC1F4f490309dFC586cb3c",
+ "type": "KIP20",
+ "symbol": "Bamboo",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAc7dA85D833918136BdC1F4f490309dFC586cb3c"
+}

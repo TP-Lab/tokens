@@ -1,0 +1,11 @@
+{
+ "name": FLYDOGMOON",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/token/0x308bc2667f503dc544d02deb54db5d71ab9f3b79",
+ "type": "HECO",
+ "symbol": "FLYDOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x308bc2667f503dc544d02deb54db5d71ab9f3b79"
+}

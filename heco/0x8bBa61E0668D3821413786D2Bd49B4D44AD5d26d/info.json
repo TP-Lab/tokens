@@ -1,0 +1,11 @@
+{
+ "name": "BABY SHIBA INU",
+ "website": "https://www.babyshibatoken.com/",
+ "description": "BABYSHIB is a decentralized experiment and, as such, we always incentivize the use of DEXs.",
+ "explorer": "https://etherscan.io/token/0x8bBa61E0668D3821413786D2Bd49B4D44AD5d26d",
+ "type": "HRC20",
+ "symbol": "BABYSHIB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8bBa61E0668D3821413786D2Bd49B4D44AD5d26d"
+}
