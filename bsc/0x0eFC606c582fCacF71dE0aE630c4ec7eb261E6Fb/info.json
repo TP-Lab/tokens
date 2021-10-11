@@ -1,7 +1,7 @@
 {
     "name": "BEE",
-    "website": "",
-    "description": "",
+    "website": "https://btswap-finance.net/",
+    "description": "BEE is BT Finance Commercial Comprehensive Governance.",
     "explorer": "https://bscscan.com/token/0x0eFC606c582fCacF71dE0aE630c4ec7eb261E6Fb",
     "type": "BEP20",
     "symbol": "BEE",
