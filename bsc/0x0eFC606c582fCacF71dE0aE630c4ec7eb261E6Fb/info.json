@@ -1,0 +1,11 @@
+{
+    "name": "BEE",
+    "website": "",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x0eFC606c582fCacF71dE0aE630c4ec7eb261E6Fb",
+    "type": "BEP20",
+    "symbol": "BEE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0eFC606c582fCacF71dE0aE630c4ec7eb261E6Fb"
+}
