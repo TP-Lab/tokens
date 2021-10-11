@@ -1,0 +1,11 @@
+{
+ "name": "NFT",
+ "website": "https://bscscan.com/token/0x0De6b8562B6EaffFf9f7e78Ee384ae00FaACfB97",
+ "description": "NFT TOKEN.",
+ "explorer": "https://bscscan.com/token/0x0De6b8562B6EaffFf9f7e78Ee384ae00FaACfB97",
+ "type": "BEP20",
+ "symbol": "NFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0De6b8562B6EaffFf9f7e78Ee384ae00FaACfB97"
+}
