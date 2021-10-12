@@ -1,0 +1,11 @@
+{
+ "name": "PowerTiger Token",
+ "website": "powertigercoin.com ",
+ "description": "Fully decentralized tokens",
+ "explorer": "https://bscscan.com/token/0x4f5b9d34cbac63370b4d0bb2f62a6ffdd9cfc41c",
+ "type": "BEP20",
+ "symbol": "PowerTiger ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4F5B9d34cBaC63370B4D0BB2f62a6ffDD9CFc41c"
+}
