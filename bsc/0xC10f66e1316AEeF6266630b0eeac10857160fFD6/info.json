@@ -1,0 +1,11 @@
+{
+ "name": "StarEnterPrise",
+ "website": "https://spe.network",
+ "description": "A leading decentralized mining protocol",
+ "explorer": "https://bscscan.com/token/0xC10f66e1316AEeF6266630b0eeac10857160fFD6",
+ "type": "BEP20",
+ "symbol": "SPE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC10f66e1316AEeF6266630b0eeac10857160fFD6"
+}
