@@ -1,0 +1,11 @@
+{
+ "name": "Catb Token",
+ "website": " - ",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x5750a4479d9f73367fc2d2d267ef35d8f622f5c0",
+ "type": "BEP20",
+ "symbol": "CATB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5750a4479d9f73367fc2d2d267ef35d8f622f5c0"
+}
