@@ -1,0 +1,11 @@
+{
+ "name": "UF Token",
+ "website": "http://uf-token.club",
+ "description": "UF protocol integrates wave field ecology to create a new distributed financial ecosystem, which is a 10000 fold incubator of completely decentralized wave field.",
+ "explorer": "https://tronscan.io/#/token20/TL4k63zAUwiTkbrsTCCvgfZsXLVFSfEror",
+ "type": "TRC20",
+ "symbol": "UF",
+ "decimals": 6,
+ "status": "active",
+ "id": "TL4k63zAUwiTkbrsTCCvgfZsXLVFSfEror"
+}
