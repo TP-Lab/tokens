@@ -1,21 +1,11 @@
-{
- 
+{ 
 "name": "Novis Vita Coin",
- 
 "website": "http://www.novislong.cn",
- 
-"description": "",
- 
-"explorer": "https://bscscan.com/token/0xB3450E49639194b37B7825AAbef0A1A0A2Dde3cb",
- 
-"type": "BSC",
- 
-"symbol": "NVS",
- 
-"decimals": 9,
- 
-"status": "active",
- 
+"description": "", 
+"explorer": "https://bscscan.com/token/0xB3450E49639194b37B7825AAbef0A1A0A2Dde3cb", 
+"type": "BSC", 
+"symbol": "NVS", 
+"decimals": 9, 
+"status": "active", 
 "id": "0xB3450E49639194b37B7825AAbef0A1A0A2Dde3cb"
-
 }
