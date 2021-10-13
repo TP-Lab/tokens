@@ -1,0 +1,11 @@
+{
+ "name": "apple",
+ "website": "无",
+ "description": "无.",
+ "explorer": "https://bscscan.com/token/0x48223955bf90fb2013c67881E49bcbE39902C35c",
+ "type": "BSC20",
+ "symbol": "apple",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x48223955bf90fb2013c67881E49bcbE39902C35c"
+}
