@@ -1,0 +1,11 @@
+{
+    "name": "Charity Finance",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xffce84f80e5c0168687e7d6d4800bdaabdfeaf6b",
+    "type": "BEP20",
+    "symbol": "CHA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFfce84f80e5c0168687e7D6d4800bdaAbdFeAF6B"
+}
