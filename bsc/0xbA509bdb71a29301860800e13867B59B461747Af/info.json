@@ -1,0 +1,11 @@
+{
+ "name": “MonSpac Token",
+ "website": "https://mspc.io”,
+ "description": "MSPC realizes multi-chain data collaborative storage, cross-chain data management, data privacy protection, data ownership certification, distributed intelligent computing and other services through the original multi-point matrix fusion storage protocol. At the same time, it provides services for decentralized applications. Unlimited data storage capacity.",
+ "explorer": "https://bscscan.com/token/0xbA509bdb71a29301860800e13867B59B461747Af",
+ "type": "BEP20",
+ "symbol": “MSPC”,
+ "decimals": 8,
+ "status": "active",
+ "id": "0xbA509bdb71a29301860800e13867B59B461747Af"
+}
