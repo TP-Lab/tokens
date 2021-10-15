@@ -1,0 +1,11 @@
+{
+    "name": "ZooToken",
+    "website": "https://zoogame.app",
+    "description": "ZOO Dapp is a set of Smart Contracts include YIELD FARMING/NFT Cards Collection/NFT Combat/Seasonal Ranking Rewards.",
+    "explorer": "https://bscscan.com/token/0x1D229B958D5DDFca92146585a8711aECbE56F095",
+    "type": "BEP20",
+    "symbol": "ZOO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1D229B958D5DDFca92146585a8711aECbE56F095"
+}
