@@ -1,0 +1,11 @@
+{
+ "name": "Pegasus Token",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://hecoinfo.com/token/0x5ef8C1B38F40B95dB13D09b3Ba2A5AcA73c820F3",
+ "type": "HRC20",
+ "symbol": "PGT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5ef8C1B38F40B95dB13D09b3Ba2A5AcA73c820F3"
+}
