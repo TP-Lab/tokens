@@ -1,0 +1,11 @@
+{
+    "name": "DNFT",
+    "website": "https://www.doraemonfund.org",
+    "description": "DNFT can redeem community ecology 3.0  NFT card meta-universe ticket props",
+    "explorer": "https://bscscan.com/token/0x0224A8211B1ed0dD932ba3d7751dD54a699655a3",
+    "type": "BEP20",
+    "symbol": "DNFT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0224A8211B1ed0dD932ba3d7751dD54a699655a3"
+   } 
