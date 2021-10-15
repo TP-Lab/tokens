@@ -1,0 +1,12 @@
+{
+ "name": "DLM",
+ "website": ".",
+ "description": "DLM - Digital Monster是一种可以在币安区块链上使用的BEP-20代币。DLM是一款元宇宙NFT跟DIFI相结合的币安链上运行的生态游戏（dapp)，任何人都可以通过对游戏的熟练玩法和对游戏生态系统的贡献来获得奖励。DLM是一个为区块链生态发展为前景的元宇宙项目。
+",
+ "explorer":"https://bscscan.com/token/0x750f6430b096368feccfd0901454b597fc1392d0",
+ "type": "BEP20",
+ "symbol": "DLM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x750f6430b096368feccfd0901454b597fc1392d0"
+}
