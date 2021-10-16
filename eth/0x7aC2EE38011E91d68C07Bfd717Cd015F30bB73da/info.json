@@ -1,0 +1,11 @@
+{
+ "name": "NPA disposal",
+ "website": "https://www.npadisposal.com",
+ "description": "NPA development team has proposed a new digital non-performing assets disposal scheme, aiming to make a new model for multi-dimensional evaluation, guarantee and disposal of digital assets.",
+ "explorer": "https://etherscan.io/token/0x7aC2EE38011E91d68C07Bfd717Cd015F30bB73da",
+ "type": "ERC20",
+ "symbol": "NPA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7aC2EE38011E91d68C07Bfd717Cd015F30bB73da"
+}
