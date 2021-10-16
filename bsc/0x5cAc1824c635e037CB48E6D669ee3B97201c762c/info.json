@@ -1,0 +1,11 @@
+{
+  "name": "Spirit Coin",
+  "website": "-",
+  "description": "SPC是精灵游戏中唯一流通的经济通证，是精灵生态组建的核心工具。",
+  "explorer": "https://bscscan.com/token/0x5cac1824c635e037cb48e6d669ee3b97201c762c",
+  "type": "BEP20",
+  "symbol": "SPC",
+  "decimals": 0,
+  "status": "active",
+  "id": "0x5cAc1824c635e037CB48E6D669ee3B97201c762c"
+ }
