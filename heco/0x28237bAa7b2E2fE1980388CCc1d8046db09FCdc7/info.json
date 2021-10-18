@@ -1,0 +1,10 @@
+﻿{ 
+"name"： "BtwCoin",
+ "website"： "https://www.btw.nz/", 
+"description"： "BTW is a decentralized autonomous organization (DAO) used to invest in NFTs based on virtual worlds and blockchain games.", 
+"explorer"： "https://hecoinfo.com/token/0x28237bAa7b2E2fE1980388CCc1d8046db09FCdc7", "type"："HECO", 
+"symbol"："TPT", 
+"decimals"： 18, 
+"status"："active", 
+"id"： "0x28237bAa7b2E2fE1980388CCc1d8046db09FCdc7"
+}
