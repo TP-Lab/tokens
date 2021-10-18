@@ -1,0 +1,11 @@
+{
+ "name": "MKECOIN",
+ "website": "https://www.mkecoin.io",
+ "description": "MKECOIN a subchain technology based on CryptoNote protocol",
+ "explorer": "https://bscscan.com/token/0xf6fbbe99828e2e9660b67c87305ce15501372ea7",
+ "type": "BEP20",
+ "symbol": "MKE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xf6fbbe99828e2e9660b67c87305ce15501372ea7"
+}
