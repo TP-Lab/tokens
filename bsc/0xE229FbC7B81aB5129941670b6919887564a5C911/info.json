@@ -1,0 +1,11 @@
+{
+ "name": "Non Fungible Token Fund",
+ "website": "-",
+ "description": "Non Fungible Token Fund",
+ "explorer": "https://bscscan.com/token/0xe229fbc7b81ab5129941670b6919887564a5c911",
+ "type": "BEP20",
+ "symbol": "NFTF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE229FbC7B81aB5129941670b6919887564a5C911"
+}
