@@ -1,0 +1,11 @@
+{
+ "name": "Peacock Game Platform Token",
+ "website": "https://peacockgame.me",
+ "description": "Peak (Peacock Game Platform), a blockchain game financial integrated service platform based on  NFT.",
+ "explorer": "https://bscscan.com/token/0x717b99a2ba29eA91450e1A45eF1A18e44b798C21",
+ "type": "BEP20",
+ "symbol": "PEAK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x717b99a2ba29eA91450e1A45eF1A18e44b798C21"
+}
