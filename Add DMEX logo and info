@@ -1,0 +1,11 @@
+{
+ "name": "DMEX",
+ "website": "https://dmex.im/",
+ "description": "World's First Decentralized Crypto Currency Cloud Mining Power Financial Service Platform",
+ "explorer": "https://bscscan.com/address/0x0d506156d54d85697cc32f894281f10b81fb0d10",
+ "type": "BEP20",
+ "symbol": "DMC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0d506156d54d85697cc32f894281f10b81fb0d10"
+}
