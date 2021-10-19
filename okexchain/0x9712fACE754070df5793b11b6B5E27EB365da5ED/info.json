@@ -1,0 +1,11 @@
+{
+ "name": "Samurai Game Point",
+ "website": "https://samurai.gold/",
+ "description": "Samurai is an OEC based on-chain RTC+TCG game ecosystem based on the story of the famous Chinese fiction romance of three kingdoms",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/ex1juf04nn4gpcd74unkydkkh38avm9mf0d276yu7",
+ "type": "KIP20",
+ "symbol": "SGP",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x9712fACE754070df5793b11b6B5E27EB365da5ED"
+}
