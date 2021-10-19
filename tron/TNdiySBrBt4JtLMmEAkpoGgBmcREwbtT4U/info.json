@@ -1,0 +1,11 @@
+{
+ "name": "CrownCoin",
+ "website": "http://coctoken.github.io",
+ "description": "Crown是一个自治的社区项目，基于区块链技术构建了一个免费的开放式互联网。它邀请有进取心的人学习密码空间，并在皇冠平台上建立新的经济应用程序。皇冠让用户问问题并建立自己的答案。其目标之一就是支持快速成长的社区，创建一个新的应用经济模式，这不仅仅是一种象征。",
+ "explorer": "https://tronscan.io/#/token20/TNdiySBrBt4JtLMmEAkpoGgBmcREwbtT4U",
+ "type": "TRC20",
+ "symbol": "coc",
+ "decimals": 18,
+ "status": "active",
+ "id": "TNdiySBrBt4JtLMmEAkpoGgBmcREwbtT4U"
+}
