@@ -1,0 +1,11 @@
+{
+ "name": "TB",
+ "website": "https://tb.tb-nft.com/index/tb",
+ "description": "NB is the community governance pass of TB task platform. Community organizations organize activities to reward community members for the construction and incentive of user ecology.",
+ "explorer": "https://hecoinfo.com/token/0x59420CDFD4Bc8F1BA448D3E71de54154cF0bF256",
+ "type": "HRC-20",
+ "symbol": "NB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x59420CDFD4Bc8F1BA448D3E71de54154cF0bF256"
+}
