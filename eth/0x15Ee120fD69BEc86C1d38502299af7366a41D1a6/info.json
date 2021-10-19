@@ -1,0 +1,11 @@
+{
+ "name": "BitANT",
+ "website": "https://bitbtc.money/",
+ "description": "BitANT can make up for the shortcomings of BTC. It splits one BTC into 1,000,000 BitANT, and will successively deploy it to various Ethereum L2 protocols Arbitrum and optimistm, etc., thereby promoting faster, cheaper, and more energy-saving Bitcoin payments, and finally achieve Bitcoin global payment with close to zero cost.",
+ "explorer": "https://etherscan.io/address/0x15Ee120fD69BEc86C1d38502299af7366a41D1a6",
+ "type": "ERC20",
+ "symbol": "bit",
+ "decimals": 18,
+ "status": "active",
+ "id": "00x15Ee120fD69BEc86C1d38502299af7366a41D1a6"
+}
