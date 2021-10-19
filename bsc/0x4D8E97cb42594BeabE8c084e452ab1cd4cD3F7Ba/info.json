@@ -1,0 +1,11 @@
+{
+  "name": "WolfToken",
+  "website": "https://wolf.gift",
+  "description": "Based on the poc fuel from Binance Smart Chain, the 100% decentralized deflation token is mainly used as fuel for the global cultural industry, enabling the real economy to achieve cross-chain transformation and serving as an accelerator for enterprises.",
+  "explorer": "https://bscscan.com/token/0x4d8e97cb42594beabe8c084e452ab1cd4cd3f7ba",
+  "type": "BEP20",
+  "symbol": "WOLF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4D8E97cb42594BeabE8c084e452ab1cd4cD3F7Ba"
+}
