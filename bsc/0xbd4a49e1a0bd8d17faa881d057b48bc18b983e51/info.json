@@ -1,0 +1,11 @@
+{
+  "name": "DogeBull",
+  "website": "https://www.dogecola.finance",
+  "description": "DogeBull is part of DogeCola ecosystem. Hold DogeBull and receive DogeCola rewards.",
+  "explorer": "https://bscscan.com/token/0xbd4a49e1a0bd8d17faa881d057b48bc18b983e51",
+  "type": "BEP20",
+  "symbol": " DOGEBULL ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbd4a49e1a0bd8d17faa881d057b48bc18b983e51"
+}
