@@ -1,0 +1,12 @@
+{
+    "name": "Mercury Intelligent swap",
+    "website": "无",
+    "description": "MIS is the governance token of MiSwap, with no privacy and no pre-control. The total issuance of Mis is 30,000, which can be produced through liquidity mining.",
+    "explorer": "https://bscscan.com/token/0x0fc3cc9e72e8f907013270db04053a55f5cae87a",
+    "type": "BEP20",
+    "symbol": "MIS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0fc3cc9e72e8f907013270db04053a55f5cae87a"
+   }
+   
