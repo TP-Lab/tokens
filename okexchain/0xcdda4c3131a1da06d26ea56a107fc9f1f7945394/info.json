@@ -1,0 +1,11 @@
+{
+	"name": "Land of Strife",
+	"website": "https://losnft.io",
+	"description": "Land of Strife unites the player and the game closely together through the “play to earn” economic pattern.",
+	"explorer": "https://www.oklink.com/okexchain/tokenAddr/0xcdda4c3131a1da06d26ea56a107fc9f1f7945394",
+	"type": "KIP20",
+	"symbol": "LOS",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xcdda4c3131a1da06d26ea56a107fc9f1f7945394"
+}
