@@ -1,0 +1,33 @@
+{
+    "name": "Valkyrio Token", 
+    "website": "https://www.playvalkyr.io/", 
+    "short_description": "Valkyrio is a blockchain-based game inspired by a manga.", 
+    "description": "Valkyrio is a blockchain-based game inspired by a manga. At Valkyrio, players will immerse themselves in the role of a humanity representative by recruiting fighters, forging the weapons, killing monsters, and challenging Gods. At Valkyrio, we believe that having a unique fighter and/or weapon is one of the ways the game can be appealing and engaging, but also rewarding to the players.", 
+    "type": "BEP20", 
+    "symbol": "VALK", 
+    "decimals": 18, 
+    "status": "active", 
+    "socials": [
+        {
+            "name": "Twitter", 
+            "url": "https://twitter.com/PlayValkyrio"
+        }, 
+        {
+            "name": "Telegram", 
+            "url": "https://t.me/ValkyrioGlobalChat"
+        }, 
+        {
+            "name": "Github", 
+            "url": "https://github.com/PlayValkyrio/smart_contract_v2"
+        }, 
+        {
+            "name": "Whitepaper", 
+            "url": "https://drive.google.com/file/d/1BRwpj7PFld9zcNMY4i-Lulhtm65wrApA/view"
+        }, 
+        {
+            "name": "CoinMarketCap", 
+            "url": "https://coinmarketcap.com/zh/currencies/valkyrio/"
+        }
+    ], 
+    "explorer": "https://bscscan.com/token/0x405cff4ce041d3235e8b1f7aaa4e458998a47363"
+} 
