@@ -1,0 +1,12 @@
+{
+    "name": "MIST",
+    "website": "无",
+    "description": "Mist is the fuel currency of the MiSwap platform, with a total circulation of 21 million. Mist is the core instrument currency for liquid betting and an important part of the MiSwap asset aggregator.",
+    "explorer": "https://bscscan.com/token/0x2490324350F926C10348Dc1E02480a14d5033E1a",
+    "type": "BEP20",
+    "symbol": "MIST",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x2490324350F926C10348Dc1E02480a14d5033E1a"
+   }
+   
