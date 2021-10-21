@@ -1,0 +1,11 @@
+{
+	"name": "BFEX",
+	"website": "http://bifanex.club",
+	"description": "BFex is a full-service platform of the world's top decentralized digital assets built on the wave field intelligent chain, which is a brand new decentralized financial paradigm. BFex is fully deployed on the chain, and any individual user can freely deposit tokens for exchange and withdraw them. BFex will build the most secure, stable, trust-free and highly decentralized financial infrastructure for global users.",
+	"explorer": "https://tronscan.org/#/token20/TFjmWBVBDjBNW6H5Aciytn68W1taBwj3Y2",
+	"type": "TRC20",
+	"symbol": "BFEX",
+	"decimals": 18,
+	"status": "active",
+	"id": "TFjmWBVBDjBNW6H5Aciytn68W1taBwj3Y2"
+}
