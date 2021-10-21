@@ -1,0 +1,11 @@
+{
+"name": "Pet World",
+ "website": "http://petworldgame.com",
+ "description": "Latest Update: Pet World is an online game based on blockchain in which you can adopt pets, trade and work to make money.",
+"explorer": "https://bscscan.com/address/0xff00da868f1ca57a3c13ec8a77f6c3cdf06139c3",
+"type": "BEP20",
+"symbol": "PW",
+"decimals": 9,
+"status": "active",
+ "id": "0xFF00da868f1cA57a3C13ec8A77F6c3CDF06139C3"
+ }
