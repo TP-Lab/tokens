@@ -1,0 +1,11 @@
+{
+ "name": "Guard BTC",
+ "website": "https://guardbtc.net/",
+ "description": "A tokens can pay dividends in the transaction bitcoin.",
+ "explorer": "https://bscscan.com/token/0xbB9F6e07920311EA34CfF5b02aD3bb8B2B03c65A",
+ "type": "BEP20",
+ "symbol": "Guard BTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbB9F6e07920311EA34CfF5b02aD3bb8B2B03c65A"
+}

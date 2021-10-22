@@ -1,0 +1,11 @@
+{
+ "name": "Snail Coin",
+ "website": "https://www.snailcoin.org/",
+ "description": "Slow but sure, only snail",
+ "explorer": "https://bscscan.com/token/0x5122fFa3e20Aaf9e8FA33357B853723856C753c9",
+ "type": "BEP20",
+ "symbol": "SNAIL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5122fFa3e20Aaf9e8FA33357B853723856C753c9"
+}

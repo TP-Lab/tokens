@@ -1,0 +1,11 @@
+{
+ "name": "JULY Token",
+ "website": "https://julytoken.io",
+ "description": "A leading multi-chain token that will supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/token/0xaef9beb3165b128a374861c0c90905ac7328d96f",
+ "type": "HECO",
+ "symbol": "JULY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaef9beb3165b128a374861c0c90905ac7328d96f"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Ume Community",
+    "website": "http://umex.club/",
+    "description": "UME is a universal global point issued by the Umi Community Foundation, referred to as UME. UME is issued based on the TRON TRC 20 agreement and has great value in the future.",
+    "explorer": "https://tronscan.io/#/token20/TY3j5cyWcZxUAxjtDhi748dSe91Gzae516",
+    "type": "TRC20",
+    "symbol": "UME",
+    "decimals": 6,
+    "status": "active",
+    "id": "TY3j5cyWcZxUAxjtDhi748dSe91Gzae516"
+   }

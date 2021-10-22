@@ -1,0 +1,11 @@
+{
+ "name": "HTFly Coin",
+ "website": "https://www.htfly.me",
+ "description": "HTFly Coin injects energy into HECO Chain",
+ "explorer": "https://hecoinfo.com/token/0x2fF46dacb9CdFC1142C88FA5c34F1e800ec1477F",
+ "type": "HECO",
+ "symbol": "FC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2fF46dacb9CdFC1142C88FA5c34F1e800ec1477F"
+}

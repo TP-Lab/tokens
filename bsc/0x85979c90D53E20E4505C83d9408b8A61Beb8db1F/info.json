@@ -1,0 +1,11 @@
+{
+ "name": "Libra Token",
+ "website": "http://libratoken.pro",
+ "description": "The libra aims to three things,fair,fair,still the fair.",
+ "explorer": "https://bscscan.com/token/0x85979c90D53E20E4505C83d9408b8A61Beb8db1F",
+ "type": "BEP20",
+ "symbol": "LIBRA",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x85979c90D53E20E4505C83d9408b8A61Beb8db1F"
+}

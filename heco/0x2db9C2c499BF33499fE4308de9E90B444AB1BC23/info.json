@@ -1,0 +1,11 @@
+{
+ "name": "Blockchain information Base",
+ "website": "https://cryptortrust.com/",
+ "description": "Blockchain information Base是基于火币生态链的去中心化通缩型分红代币，以共识机制进入DEFI市场的社区代币.",
+ "explorer": "https://hecoinfo.com/token/0x2db9c2c499bf33499fe4308de9e90b444ab1bc23",
+ "type": "HRC-20",
+ "symbol": "BIB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2db9C2c499BF33499fE4308de9E90B444AB1BC23"
+}

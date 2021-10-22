@@ -1,0 +1,11 @@
+{
+    "name": "ADAMoracle Token",
+    "website": "https://www.adamoracle.io/",
+    "description": "A leading multi-chain wallet that supports ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+    "explorer": "https://bscscan.com/token/0xdde077002982956DF24E23E3f3743BA5e56929fe",
+    "type": "BEP20",
+    "symbol": "ADAM",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xdde077002982956DF24E23E3f3743BA5e56929fe"
+}

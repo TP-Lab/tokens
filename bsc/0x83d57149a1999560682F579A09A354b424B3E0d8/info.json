@@ -1,0 +1,11 @@
+{
+ "name": "Pineapple coin",
+ "website": " - ",
+ "description": " - ",
+ "explorer": "https://bscscan.com/token/0x83d57149a1999560682f579a09a354b424b3e0d8",
+ "type": "BEP20",
+ "symbol": " PAC ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x83d57149a1999560682F579A09A354b424B3E0d8"
+}

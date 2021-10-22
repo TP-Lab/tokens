@@ -1,0 +1,11 @@
+{
+ "name": "ASX Token",
+ "website": "https://axieinfinity.com/",
+ "description": "The ASX is built on top of Binance Smart Chain, a Pokemon inspired digital pet world where anyone can earn tokens for skilled gameplay and contribution to the ecosystem.",
+ "explorer": "https://bscscan.com/token/0x6c05e8cf690c08ef70f7f747100e4fa389c52ff1",
+ "type": "BEP20",
+ "symbol": "ASX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6c05E8cF690C08eF70f7f747100E4fA389c52ff1"
+}

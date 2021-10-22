@@ -1,0 +1,11 @@
+{
+    "name": "Aggregation mining",
+    "website": "http://amcmining.org/",
+    "description": "AMC (Aggregation mining coin) aggregate mining computing power platform shocked. The world's first, one coin pledge, one machine for multiple mining, one key switch. Mainstream currencies, mining on the same day, profit on the day, real data, sustainable operation.",
+    "explorer": "https://tronscan.io/#/token20/TPwXRnvdtTVDaGBMXtnwzBbtym9xaaFwzb",
+    "type": "TRC20",
+    "symbol": "AMC",
+    "decimals": 6,
+    "status": "active",
+    "id": "TPwXRnvdtTVDaGBMXtnwzBbtym9xaaFwzb"
+   }

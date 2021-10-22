@@ -1,0 +1,11 @@
+{
+ "name": "90S",
+ "website": "http://tronscan.io/",
+ "description": "90s,一群90后年轻人打造的共识社区",
+ "explorer": "https://tronscan.io/#/token20/TAsXtEQppA41RaDZjqEQLdC1eYc8BmxViK",
+ "type": "TRC20",
+ "symbol": "90S",
+ "decimals": 18,
+ "status": "active",
+ "id": "TAsXtEQppA41RaDZjqEQLdC1eYc8BmxViK"
+}

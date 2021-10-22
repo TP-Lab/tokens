@@ -1,0 +1,11 @@
+{
+ "name": "HTMoon2",
+ "website": "https://htmoon.world",
+ "description": "HTMoon2 is the mirror token of HTMoon. ",
+ "explorer": "https://hecoinfo.com/address/0x2f1805cd2bbc416492890ae7fe123b50cd15f53f",
+ "type": "ERC20",
+ "symbol": "HTMoon2",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2f1805CD2bBc416492890ae7fE123B50Cd15F53F"
+}

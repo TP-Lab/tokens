@@ -1,0 +1,11 @@
+{
+ "name": "ClownGame Token",
+ "website": "https://www.clown-coin.com",
+ "description": "ClownGame is a decentralized game,players can play to earn Clown Family's token through ClownGame.",
+ "explorer": "https://bscscan.com/token/0x2a1eB323ba7D71e5985bb6F571328618be0F4178",
+ "type": "BEP20",
+ "symbol": "ClownGame",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x2a1eB323ba7D71e5985bb6F571328618be0F4178"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "ANNE",
+ "website": "https://anne.finance",
+ "description": "ANNE is a community driven,Fair launched MeMe Token",
+ "explorer": "https://bscscan.com/token/0x6347e0AbcF77Db824050b4408C39e0eabC354bD7",
+ "type": "BEP20",
+ "symbol": "ANNE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6347e0AbcF77Db824050b4408C39e0eabC354bD7"
+}

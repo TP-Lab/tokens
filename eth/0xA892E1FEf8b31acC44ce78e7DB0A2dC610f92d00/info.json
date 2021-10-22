@@ -1,0 +1,11 @@
+{
+    "name": "UFO",
+    "website": "http://www.ufox.io",
+    "description": "UFO is the first innovative integration based on okexchain with defi + NFT + gamefi.",
+    "explorer": "https://www.oklink.com/okexchain/address/0xA892E1FEf8b31acC44ce78e7DB0A2dC610f92d00",
+    "type": "KIP20",
+    "symbol": "UFO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA892E1FEf8b31acC44ce78e7DB0A2dC610f92d00"
+   }

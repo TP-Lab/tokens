@@ -1,0 +1,11 @@
+{
+ "name": "Air Bud Coin",
+ "website": "",
+ "description": "A community token of Air Bud fans.",
+ "explorer": "https://bscscan.com/token/0x9Cd8066c51bD09d773cC20fa896df7e34838D8E1",
+ "type": "BEP20",
+ "symbol": "Air Bud",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9Cd8066c51bD09d773cC20fa896df7e34838D8E1"
+}

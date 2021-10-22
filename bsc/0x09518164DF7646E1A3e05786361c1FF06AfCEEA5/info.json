@@ -1,0 +1,11 @@
+{
+ "name": "Wobb Token",
+ "website": "https://www.wobs.pro/",
+ "description": "WOBB is a kind of currency security creed financial derivatives, with a total amount of 8631, 163 initial flow pools and 8468 WOBB ore pools, with 10% deduction for change, 2% destruction, 8% distribution, pledge WOB or WOBB output WOBB.",
+ "explorer": "https://bscscan.com/token/0x09518164DF7646E1A3e05786361c1FF06AfCEEA5",
+ "type": "BEP20",
+ "symbol": "WOBB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x09518164DF7646E1A3e05786361c1FF06AfCEEA5"
+}

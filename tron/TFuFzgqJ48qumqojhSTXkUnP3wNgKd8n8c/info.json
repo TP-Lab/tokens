@@ -1,0 +1,11 @@
+{
+ "name": "BigPanda",
+ "website": "http://www.bpbp.club",
+ "description": "The main purpose of BigPanda is to create a panoramic ecosystem of blockchain through DEFI+ education.",
+ "explorer": "https://tronscan.io/#/contract/TFuFzgqJ48qumqojhSTXkUnP3wNgKd8n8c",
+ "type": "TRC20",
+ "symbol": "BP",
+ "decimals": 6,
+ "status": "active",
+ "id": "TFuFzgqJ48qumqojhSTXkUnP3wNgKd8n8c"
+}

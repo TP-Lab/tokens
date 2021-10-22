@@ -1,0 +1,11 @@
+{
+ "name": "MULTiVERES",
+ "website": "https://bscscan.com/token/0xC13c0dE461E2dB00e9269CBEC42A54960a4F7330",
+ "description": "MULTiVERES TOKEN.",
+ "explorer": "https://bscscan.com/token/0xC13c0dE461E2dB00e9269CBEC42A54960a4F7330",
+ "type": "BEP20",
+ "symbol": "MTS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC13c0dE461E2dB00e9269CBEC42A54960a4F7330"
+}

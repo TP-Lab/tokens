@@ -1,0 +1,11 @@
+{
+ "name": "Btj Turkey Coin ",
+ "website": "http://turkeycoin.top",
+ "description": "New BTJ token",
+ "explorer": "https://hecoinfo.com/token/0xcb43e127b44ba3f48617681b93f60a90db982a29",
+ "type": "HRC20",
+ "symbol": "BTJ",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xcb43e127B44ba3F48617681B93f60A90dB982a29"
+} 

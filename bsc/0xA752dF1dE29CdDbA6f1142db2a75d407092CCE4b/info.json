@@ -1,0 +1,11 @@
+{
+  "name": "Nort Token",
+  "website": "https://token.nort.app.br",
+  "description": "A utility token developed to Nort Ecosystem Services ( by ALLNEXT )",
+  "explorer": "https://bscscan.com/token/0xA752dF1dE29CdDbA6f1142db2a75d407092CCE4b",
+  "type": "BEP20",
+  "symbol": "NT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xA752dF1dE29CdDbA6f1142db2a75d407092CCE4b"
+}

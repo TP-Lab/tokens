@@ -1,0 +1,11 @@
+{
+ "name": "Baby Sun",
+ "website": "https://babysuntoken.com/",
+ "description": "Baby Sun is a Binance Smart Chain token that rewards holders with TRX.",
+ "explorer": "https://bscscan.com/address/0xf26474cd702261051b8e6ac9b6ae562cd974965a",
+ "type": "BEP20",
+ "symbol": "BABYSUN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xf26474cD702261051B8E6AC9B6aE562Cd974965a"
+}

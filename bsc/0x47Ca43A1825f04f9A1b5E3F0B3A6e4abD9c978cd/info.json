@@ -1,0 +1,11 @@
+{
+ "name": "ZKH NetWork",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x47Ca43A1825f04f9A1b5E3F0B3A6e4abD9c978cd",
+ "type": "BSC20",
+ "symbol": "ZKH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x47Ca43A1825f04f9A1b5E3F0B3A6e4abD9c978cd"
+}
