@@ -1,0 +1,11 @@
+{
+ "name": "WoW  Metaverse",
+ "website": "https://wowmetaverse.io",
+ "description": "A metaverse underlying protocol based on blockchain. ",
+ "explorer": "https://bscscan.com/token/0xf7A2E92364366063d2db2128Af97C26022a30429",
+ "type": "BEP20",
+ "symbol": "WOW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf7A2E92364366063d2db2128Af97C26022a30429"
+}
