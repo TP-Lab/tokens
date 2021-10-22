@@ -1,0 +1,11 @@
+{
+ "name": "WUDI",
+ "website": "-",
+ "description": "WUDI is a DAO and used for self-organization",
+ "explorer": "https://bscscan.com/token/0x7Be418e2D61d82f20162b3faAA9F6b9925c44a7D",
+ "type": "BEP20",
+ "symbol": "WUDI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7Be418e2D61d82f20162b3faAA9F6b9925c44a7D"
+}
