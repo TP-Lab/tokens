@@ -1,0 +1,11 @@
+{
+    "name": "AdventureRoad",
+    "website": "http://adventureroad.site/",
+    "description": "Adventure Road 是基于BSC链上开发代币游戏，致力于建设闯关链游生态，基于NFT应用的在线闯关类游戏，DeFI模型是未来游戏系统中的新经济，为游戏生态提供可信、智能的经济生态，打破现有的圈层，以游戏物品NFT为媒介，成为一个去中心化的专注游戏NFT板块的价值流通平台，多元生态圈打造为玩家、研发、渠道商和广告商提供完整的区块链解决方案，构建起完整生态。",
+    "explorer": "https://bscscan.com/token/0x9Bfdf8FACDd6627f3a89a976D07f9b4d1b9b2b7A",
+    "type": "BEP20",
+    "symbol": "ARD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9Bfdf8FACDd6627f3a89a976D07f9b4d1b9b2b7A"
+   }
