@@ -1,0 +1,11 @@
+{
+ "name": "VDS",
+ "website": "http://www.vds.pro",
+ "description": "The VDS Token is for metaverse.It is a high-performance NFT-Friendly mainnet based on the Substrate architecture with NPoS",
+ "explorer": "https://bscscan.com/token/0x6ec6a2970a64a7b766f72e68b3a02831dad12069",
+ "type": "BEP20",
+ "symbol": "VDS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6ec6a2970a64a7b766f72e68b3a02831dad12069"
+}
