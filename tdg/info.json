@@ -1,0 +1,11 @@
+{
+ "name": "Test Dark Global",
+ "website": "https://www.tdgio.com",
+ "description": "TDG.",
+ "explorer": "https://tronscan.io/#/contract/TPNDxw8Y7cnSYX33Az9d3jC2Kt2bqvTTDz",
+ "type": "TRC20",
+ "symbol": "TDG",
+ "decimals": 6,
+ "status": "active",
+ "id": "TPNDxw8Y7cnSYX33Az9d3jC2Kt2bqvTTDz"
+}
