@@ -1,0 +1,11 @@
+{
+ "name": "Aforce Token",
+ "website": "https://aforce.io",
+ "description": "Metaverse game virtual system with independent economic system.",
+ "explorer": "https://bscscan.com/token/0x49f965fdd87e9ef1083e8581cadd6fc9880b4052",
+ "type": "BEP20",
+ "symbol": "AFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x49f965fdd87e9ef1083e8581cadd6fc9880b4052"
+}
