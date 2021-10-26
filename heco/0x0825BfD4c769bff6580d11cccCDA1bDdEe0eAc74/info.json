@@ -1,0 +1,11 @@
+{
+ "name": "SUN Token",
+ "website": "https://www.100SunGlobal.io",
+ "description": "Realize the integration of all ecological rights and interests of 100sunglobal platform, make the platform ecology decentralized, open, transparent and standardized in the form of token from generation to use to value transmission under the unified rights and interests system, and adopt PSS smart contract algorithm + physical proof algorithm to realize the value logic that participants are contributors;",
+ "explorer": "https://hecoinfo.com/token/0x0825BfD4c769bff6580d11cccCDA1bDdEe0eAc74",
+ "type": "HRC-20",
+ "symbol": "SUNT",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x0825BfD4c769bff6580d11cccCDA1bDdEe0eAc74"
+}
