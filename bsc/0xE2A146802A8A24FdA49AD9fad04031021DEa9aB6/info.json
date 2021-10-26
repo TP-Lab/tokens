@@ -1,0 +1,11 @@
+{
+ "name": "BMD",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0xE2A146802A8A24FdA49AD9fad04031021DEa9aB6",
+ "type": "BSC20",
+ "symbol": "BMD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE2A146802A8A24FdA49AD9fad04031021DEa9aB6"
+}
