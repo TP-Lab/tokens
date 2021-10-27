@@ -1,0 +1,11 @@
+{
+    "name": "Flokizilla ",
+    "website": "http://flokizilla.cc",
+    "description": "The first self-raising token to reward SHIB",
+    "explorer": "https://bscscan.com/token/0x43A30E08e39e7C2CC62D1339298A0609409f8E7e",
+    "type": "BEP20",
+    "symbol": "Flokizilla",
+    "decimals": 4,
+    "status": "active",
+    "id": "0x43A30E08e39e7C2CC62D1339298A0609409f8E7e"
+   }
