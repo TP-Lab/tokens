@@ -1,0 +1,11 @@
+{
+ "name": "YHC Token",
+ "website": "https://http://yohero.fi",
+ "description": "YHC tokens are stable tokens in the yohero game,which can be exchanged for USDT or used to summon new YOLO.",
+"explorer":"https://www.bscscan.com/token/0x9bCf82cc8B42B075d6c62436284AA59e77B67C26",
+ "type": "BEP20",
+ "symbol": "YHC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9bCf82cc8B42B075d6c62436284AA59e77B67C26"
+}
