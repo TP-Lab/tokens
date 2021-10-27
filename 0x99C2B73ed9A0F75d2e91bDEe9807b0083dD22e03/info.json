@@ -1,0 +1,11 @@
+{
+ "name": "GGNG",
+ "website": "www.ggng.pro",
+ "description": "NFT and GAME.",
+ "explorer": "https://www.bscscan.com/token/0x99C2B73ed9A0F75d2e91bDEe9807b0083dD22e03",
+ "type": "BEP20",
+ "symbol": "GGNG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x99C2B73ed9A0F75d2e91bDEe9807b0083dD22e03"
+}
