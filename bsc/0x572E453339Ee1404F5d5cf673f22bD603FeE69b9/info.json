@@ -1,0 +1,11 @@
+{
+ "name": "Cryptography Chumly",
+ "website": "https://cryptographychumly.com",
+ "description": "Cryptography Chumly, designed by the Team Cryptography Chumly, will be available first at BSC and is an NFT game that can be used   to enhance your character or hero by combining DeFi with GameFi.",
+ "explorer": "https://bscscan.com/token/0x572E453339Ee1404F5d5cf673f22bD603FeE69b9",
+ "type": "BEP20",
+ "symbol": "CC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x572E453339Ee1404F5d5cf673f22bD603FeE69b9"
+}
