@@ -1,0 +1,11 @@
+{
+  "name": "DogZilla",
+  "website": "https://dogeswap.com/",
+  "description": "一个社区驱动的项目。我们是加密领域第一家Memecoin + Utility+NFT+P2E的项目。",
+  "explorer": "https://bscscan.com/address/0x53055f93C4f9D1F651c8c182f9d55AfCD45CE832",
+  "type": "BEP20",
+  "symbol": "DogZilla",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x53055f93C4f9D1F651c8c182f9d55AfCD45CE832"
+}
