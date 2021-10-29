@@ -1,0 +1,11 @@
+{
+ "name": "Nano SHIB",
+ "website": "https://nanoshib.com",
+ "description": "Hold Nano SHIB and earn passive income paid in Nano SHIB.",
+ "explorer": "https://bscscan.com/token/0x261896f8ae41C8511c3122BB319d88c5F96961BB",
+ "type": "BEP20",
+ "symbol": "Nano SHIB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x261896f8ae41C8511c3122BB319d88c5F96961BB"
+}
