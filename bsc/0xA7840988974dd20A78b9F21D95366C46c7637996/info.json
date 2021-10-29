@@ -2,10 +2,10 @@
  "name": "EarnDefiCoin",
  "website": "https://www.edc.ac",
  "description": "EarnDefi Coin",
- "explorer": "https://bscscan.com/token/0xa7840988974dd20a78b9f21d95366c46c7637996",
+ "explorer": "https://bscscan.com/token/0xA7840988974dd20A78b9F21D95366C46c7637996",
  "type": "BEP20",
  "symbol": "EDC",
  "decimals": 9,
  "status": "active",
- "id": "0xa7840988974dd20a78b9f21d95366c46c7637996"
+ "id": "0xA7840988974dd20A78b9F21D95366C46c7637996"
 }
