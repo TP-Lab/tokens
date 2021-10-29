@@ -1,0 +1,11 @@
+{
+ "name": "ZillaCOW",
+ "website": "https://www.cowtokens.com/",
+ "description": "ZillaCOW is a deflationary token designed to become scarcer over time. Because ZillaCOW will incur taxes every time it is purchased or sold. Then, some taxes and fees will be burned. The future $ZillaCOW will be very valuable.",
+ "explorer": " https://bscscan.com/token/0xbac0d36c742fe6caba8d6d3d21f3eecd56088a4b",
+ "type": "BSC",
+ "symbol": "ZillaCOW",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xbac0d36c742fe6caba8d6d3d21f3eecd56088a4b"
+}
