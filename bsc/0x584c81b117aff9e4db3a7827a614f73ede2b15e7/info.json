@@ -1,0 +1,11 @@
+{
+ "name": "BabyZilla",
+ "website": "https://babyzilla.com",
+ "description": "A Bsc Smart Chain Token",
+ "explorer": "https://bscscan.com/token/0x584c81b117AFf9E4DB3A7827a614f73EdE2b15E7",
+ "type": "BEP20",
+ "symbol": "BabyZilla",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x584c81b117AFf9E4DB3A7827a614f73EdE2b15E7"
+}
