@@ -1,0 +1,13 @@
+{
+    "name":"Oganesson Coin",
+    "website":"https://www.ogc.best",
+    "description":"Oganesson. Games is developing the abyss digital distribution platform, a leading video game developer and publisher in Russia, He has rich professional knowledge in the start-up and operation of game projects and his own MMO project development. In addition, we It also localizes and publishes browsers and client games developed by other developers, as well as AAA client games.
+
+",
+    "explorer":"https://bscscan.com/token/0x28a02cdb57ee8823d727e8e48c1f282ae9a0279c",
+    "type":"BEP20",
+    "symbol":"OGC",
+    "decimals":6,
+    "status":"active",
+    "id":"0x28a02cdb57ee8823d727e8e48c1f282ae9a0279c"
+}
