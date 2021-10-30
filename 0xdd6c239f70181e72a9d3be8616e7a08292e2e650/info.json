@@ -1,0 +1,11 @@
+{
+ "name": "WildFzilla",
+ "website": "https://wildfzilla.com",
+ "description": "A Bsc Smart Chain Token.",
+ "explorer": "https://bscscan.com/token/0xdd6c239f70181e72a9d3be8616e7a08292e2e650",
+ "type": "BEP20",
+ "symbol": "WildFzilla",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xdd6c239f70181e72a9d3be8616e7a08292e2e650"
+}
