@@ -2,7 +2,7 @@
  "name": "GloryDoge",
  "website": "https://glorydogecoin.com",
  "description": "Building a secure DeFi ecosystem to help bring creative ideas to life and protect early investors' funds.",
- "explorer": "https://bscscan.com/token/0xcc5667333f5e997ac9f0c26d41b7dda65b2b675a#writeContract",
+ "explorer": "https://bscscan.com/token/0xcc5667333f5e997ac9f0c26d41b7dda65b2b675a",
  "type": "BEP20",
  "symbol": "GLORYD",
  "decimals": 18,
