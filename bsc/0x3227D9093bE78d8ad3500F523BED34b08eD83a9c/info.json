@@ -1,0 +1,11 @@
+{
+    "name": "safemoonzilla",
+    "website": "https://bscscan.com/token/0x3227D9093bE78d8ad3500F523BED34b08eD83a9c",
+    "description": "SafeMoon Zilla.",
+    "explorer": "https://bscscan.com/token/0x3227D9093bE78d8ad3500F523BED34b08eD83a9c",
+    "type": "BEP20",
+    "symbol": "safemoonzilla",
+    "decimals": 4,
+    "status": "active",
+    "id": "0x3227D9093bE78d8ad3500F523BED34b08eD83a9c"
+}
