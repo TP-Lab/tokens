@@ -1,0 +1,11 @@
+{
+  "name": "Cross Chain France Coin",
+  "website": "https://bscscan.com/token/0xc8a1f704805B1B5f93992496Cf208a38B3209BC0",
+  "description": "Cross Chain France Coin.",
+  "explorer": "https://bscscan.com/token/0xc8a1f704805B1B5f93992496Cf208a38B3209BC0",
+  "type": "BEP20",
+  "symbol": "CFB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc8a1f704805B1B5f93992496Cf208a38B3209BC0"
+ }
