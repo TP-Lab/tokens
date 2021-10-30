@@ -1,0 +1,12 @@
+{
+ "name": "MiPox Token",
+ "website": "https://bscscan.com/token/0x511f01876d83516535533f987a52ff554890037b",
+ "description": "Decentralized tokens will serve as a system of game ecology in the virtual scene of the metasverse.",
+ "explorer": "https://bscscan.com/token/0x511f01876d83516535533f987a52ff554890037b",
+ "type": "BEP20",
+ "symbol": "MP",
+ "decimals": 10,
+ "status": "active",
+ "id": "0x511f01876d83516535533f987a52ff554890037b"
+}
+
