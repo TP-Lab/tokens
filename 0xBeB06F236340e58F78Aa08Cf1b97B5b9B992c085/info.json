@@ -1,0 +1,11 @@
+{
+ "name": "DOGE PROF",
+ "website": "https://bscscan.com/token/0xBeB06F236340e58F78Aa08Cf1b97B5b9B992c085",
+ "description": "DOGE PROF  is a deflationary token designed to become scarcer over time. Because DOGE PROF  will incur taxes every time it is purchased or sold. Then, some taxes and fees will be burned. The future DOGE PROF  will be very valuable.",
+ "explorer": "https://bscscan.com/token/0xBeB06F236340e58F78Aa08Cf1b97B5b9B992c085",
+ "type": "BEP20",
+ "symbol": "DOGE PROF",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xBeB06F236340e58F78Aa08Cf1b97B5b9B992c085"
+}
