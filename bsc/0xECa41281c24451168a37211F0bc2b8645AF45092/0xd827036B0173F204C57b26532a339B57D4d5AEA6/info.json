@@ -1,0 +1,11 @@
+{
+ "name": “Seadog Metaverse",
+ "website": "https://seadog.finance/",
+ "description": "SEADOG is one of the the crypto currency in Seadog Metaverse,which can be used to trade NFTs, Game, etc. ",
+ "explorer": "https://bscscan.com/token/0xd827036b0173f204c57b26532a339b57d4d5aea6",
+ "type": "BEP20",
+ "symbol": "SEADOG”,
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd827036B0173F204C57b26532a339B57D4d5AEA6"
+}
