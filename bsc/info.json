@@ -1,11 +1,10 @@
 {
- "name": "GOAT Token",
- "website": "http://www.goatfinance.io",
- "description": "GOAT-Open a new world of metaverse",
- "explorer": "https://bscscan.com/token/0xb1033Fce0bA6415f60FD592f90BE10580bC39830",
+ "name": "safemoonzilla",
+ "website": "https://safemoonzilla.com",
+ "explorer": "https://bscscan.com/token/0x3227d9093be78d8ad3500f523bed34b08ed83a9c",
  "type": "BEP20",
- "symbol": "GOAT",
- "decimals": 8,
+ "symbol": "safemoonzilla",
+ "decimals": 21,
  "status": "active",
- "id": "0xb1033Fce0bA6415f60FD592f90BE10580bC39830"
+ "id": "0x3227d9093be78d8ad3500f523bed34b08ed83a9c"
 }
