@@ -1,0 +1,11 @@
+{
+ "name": "SmarsZilla",
+ "website": "http//www.vgo.vip",
+ "description": "SmarsZillaIt is a deflationary charitable cryptocurrency that generates revenue and runs on the Binance Smart Chain. It rewards holders through reflection by taxing transactions. It is charitable and dedicated to animal protection shelters",
+ "explorer": "https://bscscan.com/token/0x7D845Ff7456341def9b53E22A25541AC6CB64B09",
+ "type": "BEP20",
+ "symbol": "SmarsZilla",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x7D845Ff7456341def9b53E22A25541AC6CB64B09"
+}
