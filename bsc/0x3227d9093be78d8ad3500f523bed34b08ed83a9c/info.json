@@ -1,0 +1,11 @@
+{
+ "name": "safemoonzilla",
+ "website": "https://safemoonzilla.com",
+"description": "A leading multi-chain wallet that supports  BSC",
+ "explorer":https://bscscan.com/token/0x3227d9093be78d8ad3500f523bed34b08ed83a9c",
+ "type": "BEP20",
+ "symbol": "safemoonzilla",
+ "decimals": 21,
+ "status": "active",
+ "id": "0x3227d9093be78d8ad3500f523bed34b08ed83a9c"
+}
