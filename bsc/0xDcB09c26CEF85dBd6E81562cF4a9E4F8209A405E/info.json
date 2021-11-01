@@ -5,7 +5,7 @@
     "explorer": "https://bscscan.com/token/0xDcB09c26CEF85dBd6E81562cF4a9E4F8209A405E",
     "type": "BEP20",
     "symbol": "D-NFT",
-    "decimals": 18,
+    "decimals": 9,
     "status": "active",
     "id": "0xDcB09c26CEF85dBd6E81562cF4a9E4F8209A405E"
    } 
