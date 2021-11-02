@@ -1,11 +1,11 @@
 {
- "name": "GOAT Token",
- "website": "http://www.goatfinance.io",
- "description": "GOAT-Open a new world of metaverse",
- "explorer": "https://bscscan.com/token/0xb1033Fce0bA6415f60FD592f90BE10580bC39830",
+ "name": "Super Cultural Industry",
+ "website": "http://scy.plus",
+ "description": "SCY網絡將結合物聯網技術平臺和區塊鏈技術，在分布式實體（終端/用戶）和數據信任的基礎上，在多個維度拓展信任應用，實現數據價值的實現。",
+ "explorer": "https://bscscan.com/address/0x2fd0cf8ffc150c6668544e16e85b96a962bff184",
  "type": "BEP20",
- "symbol": "GOAT",
- "decimals": 8,
+ "symbol": SCY
+ "decimals": 6,
  "status": "active",
- "id": "0xb1033Fce0bA6415f60FD592f90BE10580bC39830"
-}
+ "id": "0x2fd0cf8ffc150c6668544e16e85b96a962bff184"
+} 
