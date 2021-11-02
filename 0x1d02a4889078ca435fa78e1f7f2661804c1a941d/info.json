@@ -1,0 +1,11 @@
+{
+ "name": "OSKzilla",
+ "website": "http://oskdefi.com/",
+ "description": "OSKzilla uses blockchain technology to build a decentralized intelligent ecosystem to achieve community self-governance. with DeFi as the underlying technology, OSKzilla helps global blockchain enthusiasts, products and individuals achieve a more open and decentralized self-governance operation through the decentralized on-chain system built.",
+ "explorer": "https://bscscan.com/token/0x1d02a4889078ca435fa78e1f7f2661804c1a941d",
+ "type": "BEP20",
+ "symbol": "OSKzilla",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x1d02a4889078ca435fa78e1f7f2661804c1a941d"
+}
