@@ -1,0 +1,11 @@
+{
+ "name": "TTBANK",
+ "website": "http://ttbank.org",
+ "description": "Time Token Bank(时间币行)，是一个元宇宙世界里的加密货币融通服务平台，同时也是一个元宇宙世界里的区 块链项目孵化平台，现在将面向全球用户进行首次区块链数字资产的发行(IDO)。 Time Token Bank(时间币 行)定位是元宇宙世界里的高盛(全球顶级投资银行)，其两大主要业务为: 1.基于稳定币(如USDT)的金融服 务; 2.孵化有价值的区块链项目的投资银行。",
+ "explorer": "https://bscscan.com/token/0xe61ff8c725A6c9Ee99B1D6B2217cE51Be7787025",
+ "type": "BEP20",
+ "symbol": "TTBANK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe61ff8c725A6c9Ee99B1D6B2217cE51Be7787025"
+}
