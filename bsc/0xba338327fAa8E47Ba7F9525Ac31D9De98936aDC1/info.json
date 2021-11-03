@@ -1,0 +1,11 @@
+{
+  "name": "Distinct Fortune Token",
+  "website": "https://www.dfcoin.link",
+  "description": "The Distinct Fortune game is not only based on the Binance Smart Chain or community model tokens to create a decentralized aggregate meta-transaction platform integrating DeFi, NFT, and games.",
+  "explorer": "https://bscscan.com/token/0xba338327fAa8E47Ba7F9525Ac31D9De98936aDC1",
+  "type": "BEP20",
+  "symbol": "DF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xba338327fAa8E47Ba7F9525Ac31D9De98936aDC1"
+}
