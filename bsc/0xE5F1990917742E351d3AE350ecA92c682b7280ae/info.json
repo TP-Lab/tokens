@@ -1,0 +1,11 @@
+{
+ "name": "eSpartanToken",
+ "website": "https://espartan.io",
+ "description": "A metaverse project focusd on eSports",
+ "explorer": "https://bscscan.com/token/0xe5f1990917742e351d3ae350eca92c682b7280ae",
+ "type": "BEP20",
+ "symbol": "ESPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE5F1990917742E351d3AE350ecA92c682b7280ae"
+}
