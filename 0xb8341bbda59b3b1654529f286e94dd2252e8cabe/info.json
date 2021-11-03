@@ -1,0 +1,11 @@
+{
+ "name": "AVZilla",
+ "website": "https://pronhub.com",
+ "description": "Binance Smart Chain ONLY UP TOKEN (AVZilla)",
+ "explorer": "https://bscscan.com/token/0xb8341bbda59b3b1654529f286e94dd2252e8cabe",
+ "type": "BEP20",
+ "symbol": "AVZilla",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xb8341bbda59b3b1654529f286e94dd2252e8cabe"
+}
