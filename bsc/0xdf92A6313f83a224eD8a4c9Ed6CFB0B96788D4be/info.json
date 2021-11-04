@@ -1,0 +1,11 @@
+{
+  "name": "Sheriff Doge",
+  "website": "www.sheriffdoge.com",
+  "description": "Sheriff Doge is a $DOGE rewards token with an unique auto-claim feature.",
+  "explorer": "https://bscscan.com/token/0xdf92A6313f83a224eD8a4c9Ed6CFB0B96788D4be",
+  "type": "BEP20",
+  "symbol": "SFD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdf92A6313f83a224eD8a4c9Ed6CFB0B96788D4be"
+}
