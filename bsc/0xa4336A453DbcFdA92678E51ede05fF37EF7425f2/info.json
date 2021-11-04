@@ -1,0 +1,11 @@
+{ 
+  "name": "CryptoMechaking Token",
+  "website": "http：//www.mechaking.com",
+  "description": " Metaverse game with the theme of Mecha in an apocalyptic wasteland.", 
+  "explorer": "https://bscscan.com/token/0xa4336A453DbcFdA92678E51ede05fF37EF7425f2", 
+  "type": "BEP20",
+  "symbol": " MCK ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa4336A453DbcFdA92678E51ede05fF37EF7425f2"
+  } 
