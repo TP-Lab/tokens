@@ -2,10 +2,10 @@
     "name": "Metaverse Drinks",
     "website": "https://metaversedrinks.org/",
     "description": "DRNK is built as the infrastructure part of drinks in metaverse.",
-    "explorer": "https://bscscan.com/token/0x35771f8261adbb39d70cfdd00a3bf1f5e63b327a",
+    "explorer": "https://bscscan.com/token/0x35771F8261AdbB39d70cFdd00a3bF1f5e63B327A",
     "type": "BEP20",
     "symbol": "DRNK",
     "decimals": 9,
     "status": "active",
-    "id": "0x35771f8261adbb39d70cfdd00a3bf1f5e63b327a"
+    "id": "0x35771F8261AdbB39d70cFdd00a3bF1f5e63B327A"
    }
