@@ -1,0 +1,11 @@
+{
+ "name": "BinamonsterFarm Token",
+ "website": "https://www.binamonsterfarm.finance/",
+ "description": "BinaMonsterFarm is inspired by Pokemon Story, our mission is to build a comprehensive platform of digital monsters that will enable millions of individuals to participate in the NFT and blockchain-based gaming world in a simple, creative, and enjoyable way.",
+ "explorer": "https://bscscan.com/address/0x56148e8b2a743B52ff3735911C1EB0128fD6Ac7F",
+ "type": "BEP20",
+ "symbol": "BMM",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x56148e8b2a743B52ff3735911C1EB0128fD6Ac7F"
+}
