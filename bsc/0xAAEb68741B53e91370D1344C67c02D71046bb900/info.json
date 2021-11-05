@@ -1,0 +1,11 @@
+{
+ "name": "MetaNewYorkZilla",
+ "website": "https://metanewyorkzilla.com",
+ "description": "Aiming to build a meta-universe version or a virtualized New York city, it will realize the functions (socialization, travel, investment, entertainment, shopping, etc.) that the meta-universe world should have step by step, allowing users distributed around the world to experience in the virtual world The charm of New York, an international metropolis.",
+ "explorer": "https://bscscan.com/token/0xAAEb68741B53e91370D1344C67c02D71046bb900",
+ "type": "BEP20",
+ "symbol": "MNYZ",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xAAEb68741B53e91370D1344C67c02D71046bb900"
+}
