@@ -1,9 +1,9 @@
 {
  "name": "HTM",
- "website": "无",
- "description": "无",
+ "website": "-",
+ "description": "-",
  "explorer": "https://hecoinfo.com/token/0xdfd07b2ffe913a87c1db9d81cf63170f6338fdb0",
- "type": "HECO",
+ "type": "HRC-2",
  "symbol": "HTM",
  "decimals": 6,
  "status": "active",
