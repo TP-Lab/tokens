@@ -1,0 +1,11 @@
+{
+ "name": "MilkDoge",
+ "website": "http://www.milkdoge.cc",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x347f745a223B54075e9f36AD4FF84527c27994f3",
+ "type": "BEP20",
+ "symbol": "MilkDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x347f745a223B54075e9f36AD4FF84527c27994f3"
+}
