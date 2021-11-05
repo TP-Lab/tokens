@@ -1,0 +1,11 @@
+{
+ "name": "MCU",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xb117301dcba3312dff012bc7612972f651ba6b3b",
+ "type": "BEP20",
+ "symbol": "MCU",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xb117301DCBA3312dFf012bc7612972f651Ba6b3b"
+}
