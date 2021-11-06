@@ -1,1 +1,12 @@
 
+{
+ "name": "TEZILLA",
+ "website": "https://bscscan.com/token/0x5778a155fa82063c5c1e48771caa44ea4d8a5d7a",
+ "description": "Tezilla will smash all the tokens",
+ "explorer": "https://bscscan.com/token/0x5778a155fa82063c5c1e48771caa44ea4d8a5d7a",
+ "type": "BEP20",
+ "symbol": "TEZILLA",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5778a155fa82063c5c1e48771caa44ea4d8a5d7a"
+}
