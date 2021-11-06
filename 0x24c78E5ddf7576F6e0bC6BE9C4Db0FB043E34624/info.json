@@ -1,0 +1,11 @@
+{
+ "name": "Three-Body",
+ "website": "",
+ "description": "Three-Body is a token on binance smart Chain BSC.",
+ "explorer": "https://bscscan.com/token/0x24c78E5ddf7576F6e0bC6BE9C4Db0FB043E34624",
+ "type": "BEP20",
+ "symbol": "Three-Body",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x24c78E5ddf7576F6e0bC6BE9C4Db0FB043E34624"
+}
