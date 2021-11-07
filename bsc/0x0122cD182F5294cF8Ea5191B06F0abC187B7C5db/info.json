@@ -1,0 +1,11 @@
+{
+ "name": "Holman",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x0122cd182f5294cf8ea5191b06f0abc187b7c5db",
+ "type": "BSC20",
+ "symbol": "HAM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0122cD182F5294cF8Ea5191B06F0abC187B7C5db"
+}

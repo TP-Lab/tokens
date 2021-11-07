@@ -1,0 +1,11 @@
+{
+ "name": "Baby Cat",
+ "website": "http://www.babycat.online",
+ "description": "BABYCAT’s original 8 necklace ecological mechanism, including handling fee burning, dividends, anti-whale, winning, invitation rebate, repurchase, automatic LP and NFT ecological development are all automatically executed by the chain code.",
+ "explorer": "https://bscscan.com/token/0x6B4DF979371C7e53CcB01232eB436f1F361087E3",
+ "type": "BEP20",
+ "symbol": "BABYCAT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6B4DF979371C7e53CcB01232eB436f1F361087E3"
+}

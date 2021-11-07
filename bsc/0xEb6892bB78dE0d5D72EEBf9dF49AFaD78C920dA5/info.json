@@ -1,0 +1,11 @@
+{
+ "name": "Pocket Doge Token",
+ "website": "https:https://www.pocketdogetoken.com/",
+ "description": "Pocket Doge empowers you to choose which coin you want in your pocket. The community has decided we will begin with Binance (BNB), Ethereum, BUSD, USDT, Cardano (ADA) and Cake.",
+ "explorer": "https://bscscan.com/token/0xEb6892bB78dE0d5D72EEBf9dF49AFaD78C920dA5",
+ "type": "BEP20",
+ "symbol": "PDOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEb6892bB78dE0d5D72EEBf9dF49AFaD78C920dA5"
+}

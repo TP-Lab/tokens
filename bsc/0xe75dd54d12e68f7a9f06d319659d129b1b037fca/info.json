@@ -1,0 +1,11 @@
+{
+ "name": "Gucci Token",
+ "website": "https://www.guccitoken.net/",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xe75dd54d12e68f7a9f06d319659d129b1b037fca",
+ "type": "BEP20",
+ "symbol": "Gucci",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xe75dd54d12e68f7a9f06d319659d129b1b037fca"
+}

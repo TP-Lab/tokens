@@ -1,0 +1,11 @@
+{
+ "name": "DOXXED",
+ "website": "https://www.doxxed.org/",
+ "description": "DOXXED is a Binance Smart Chain Startup with a unique ecosystem of multiple utilities & use case, reflection to holders, revenue share and buybacks.",
+ "explorer": "https://bscscan.com/token/0x30ea7c369b87fe261de28a1eefafe806696a738b",
+ "type": "BEP20",
+ "symbol": "DOX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x30ea7c369B87fe261dE28A1eeFafE806696A738B"
+}

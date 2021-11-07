@@ -1,0 +1,11 @@
+{
+    "name": "NinjaDoge",
+    "website": "https://ninjadoge.org",
+    "description": "Ninja Doge is a new cryptocurrency that rewards DOGECOIN to it's holders every 3 days. Ninja Doge also has a Major Mobile Video Game, NFT's, Animated Series, and gives Charitable Donations to local non-profit animal organization around the world.",
+    "explorer": "https://bscscan.com/token/0xe218DcF32F9bb64648D64Ef2AE85cF1C63C5aC74",
+    "type": "BEP20",
+    "symbol": "$NINJADOGE",
+    "decimals": 4,
+    "status": "active",
+    "id": "0xe218DcF32F9bb64648D64Ef2AE85cF1C63C5aC74"
+}
