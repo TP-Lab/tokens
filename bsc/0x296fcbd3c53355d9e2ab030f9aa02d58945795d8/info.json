@@ -1,0 +1,11 @@
+{
+ "name": "ChaosMetaverse",
+ "website": "https://chaosmetaverse.org",
+ "description": "A metaverse project dedicated to mapping the real society to the blockchain.",
+ "explorer": "https://bscscan.com/token/0x296fcbd3c53355d9e2ab030f9aa02d58945795d8",
+ "type": "BEP20",
+ "symbol": "Chaos",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x296fcbd3c53355d9e2ab030f9aa02d58945795d8"
+}
