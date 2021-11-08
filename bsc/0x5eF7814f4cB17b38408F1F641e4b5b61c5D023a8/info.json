@@ -1,0 +1,11 @@
+{
+ "name": "ButterSwap Token",
+ "website": "https://butterswap.me/",
+ "description": "ButterSwap is the leading AMM DEX, yield farming platform, and innovative NFT gaming platform. .",
+ "explorer": "https://bscscan.com/token/0x5eF7814f4cB17b38408F1F641e4b5b61c5D023a8",
+ "type": "BEP20",
+ "symbol": "BUTTER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5eF7814f4cB17b38408F1F641e4b5b61c5D023a8"
+}
