@@ -1,0 +1,11 @@
+{
+    "name": "METADOGE",
+    "website": "https://metadoge.finance",
+    "description": "A token based on the concept of meta universe",
+    "explorer": "https://bscscan.com/address/0xB9c5a94654f6f0a533e084e5c37ff2Fc14A23e6d",
+    "type": "BEP20",
+    "symbol": "META",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB9c5a94654f6f0a533e084e5c37ff2Fc14A23e6d"
+   }
