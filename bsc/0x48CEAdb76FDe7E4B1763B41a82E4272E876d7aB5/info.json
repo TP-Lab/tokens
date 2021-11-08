@@ -1,0 +1,11 @@
+{
+ "name": "The Dogefather",
+ "website": "https://tdftoken.com",
+ "description": "The Dogefather belong to every humankind",
+ "explorer": "https://bscscan.com/token/0x48CEAdb76FDe7E4B1763B41a82E4272E876d7aB5",
+ "type": "BEP20",
+ "symbol": "TDF",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x48CEAdb76FDe7E4B1763B41a82E4272E876d7aB5"
+}
