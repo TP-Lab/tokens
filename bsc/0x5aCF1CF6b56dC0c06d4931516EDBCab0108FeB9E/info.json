@@ -1,0 +1,11 @@
+{
+ "name": "Lorde Edge",
+ "website": "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x5aCF1CF6b56dC0c06d4931516EDBCab0108FeB9E",
+ "description": "Elon Musk New Name Meme coin",
+ "explorer": "https://bscscan.com/token/0x5aCF1CF6b56dC0c06d4931516EDBCab0108FeB9E",
+ "type": "BEP20",
+ "symbol": "LORDE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5aCF1CF6b56dC0c06d4931516EDBCab0108FeB9E"
+}
