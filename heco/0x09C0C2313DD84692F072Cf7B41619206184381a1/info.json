@@ -1,0 +1,11 @@
+{
+ "name": "BUDO Token",
+ "website": "https://budo2.com/",
+ "description": "BUDO II is a girl theme Sci-Fi shooting and love education blockchain game",
+ "explorer": "https://hecoinfo.com/token/0x09C0C2313DD84692F072Cf7B41619206184381a1",
+ "type": "HRC-20",
+ "symbol": "BUDO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x09C0C2313DD84692F072Cf7B41619206184381a1"
+}
