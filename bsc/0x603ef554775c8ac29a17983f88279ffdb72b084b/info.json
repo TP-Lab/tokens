@@ -4,7 +4,7 @@
  "description": "ABC Doge is cute but with a lot of BITE! ",
  "explorer": "https://bscscan.com/address/0x603ef554775c8ac29a17983f88279ffdb72b084b",
  "type": "BEP20",
- "symbol": "ABCDOGE",
+ "symbol": "abcdoge",
  "decimals": 18,
  "status": "active",
  "id": "0x603ef554775c8ac29a17983f88279ffdb72b084b"
