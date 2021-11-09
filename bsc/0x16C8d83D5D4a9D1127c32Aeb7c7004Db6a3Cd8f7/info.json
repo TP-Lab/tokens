@@ -1,1 +1,11 @@
-a
+{
+    "name": "BOT",
+    "website": "https://www.btfinance-nft.com/stake/#/stakePools?ref=0x429aF78E9789C278Ab717a5d97BEdfDD4E89e979",
+    "description": "Global deal with financial integrated business.",
+    "explorer": "https://bscscan.com/token/0x16C8d83D5D4a9D1127c32Aeb7c7004Db6a3Cd8f7",
+    "type": "BEP20",
+    "symbol": "BOT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x16C8d83D5D4a9D1127c32Aeb7c7004Db6a3Cd8f7"
+}
