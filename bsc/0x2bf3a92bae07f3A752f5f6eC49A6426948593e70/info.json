@@ -1,0 +1,11 @@
+{
+ "name": "StarSkyCoin Token",
+ "website": "https://www.starskycoin.com",
+ "description": "SSC Foundation is jointly sponsored by the mining industry at home and abroad, Strong.",
+ "explorer": "https://bscscan.com/token/0x2bf3a92bae07f3a752f5f6ec49a6426948593e70",
+ "type": "BEP20",
+ "symbol": "SSC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2bf3a92bae07f3A752f5f6eC49A6426948593e70"
+}
