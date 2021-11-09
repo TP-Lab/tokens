@@ -1,0 +1,11 @@
+{
+ "name": "LUDOS GAME",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x022a29857810B15d0f85e0932F3794876F48c7E9",
+ "type": "BEP20",
+ "symbol": "LUDO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x022a29857810B15d0f85e0932F3794876F48c7E9"
+}
