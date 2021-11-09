@@ -1,0 +1,11 @@
+{
+ "name": "Mars Project",
+ "website": "https://marp.finance",
+ "description": "MARP is the only token officially issued by the NFT game Mars project.",
+ "explorer": "https://bscscan.com/address/0x1aaaE01446A6fAC29a825FCF3200271A91B259D3",
+ "type": "BEP20",
+ "symbol": "MARP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1aaaE01446A6fAC29a825FCF3200271A91B259D3"
+}
