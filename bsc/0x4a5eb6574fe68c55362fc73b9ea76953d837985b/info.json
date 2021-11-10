@@ -1,0 +1,11 @@
+{
+  "name": "PoorDoge",
+  "website": "https://www.poordoge.org/",
+  "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+  "explorer": "https://bscscan.com/address/0x4a5eb6574fe68c55362fc73b9ea76953d837985b",
+  "type": "BEP20",
+  "symbol": "POORDOGE",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x4a5eb6574Fe68c55362fc73b9EA76953d837985B"
+}
