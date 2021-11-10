@@ -1,11 +1,11 @@
 {
-    "name": "Infinite Token",
-    "website": "https://www.infinitetoken.us",
-    "description": "All our work and dedication has led to one exciting thing: a blockchain project takes on the Infinite possibilities of the digital world -- Infinite Token.",
-    "explorer": "https://bscscan.com/token/0xC9a95620Ce4C976fD6852e29b1FCA239dcd54CfB",
+    "name": "Gamefox Infinity",
+    "website": "https://gamefox.io",
+    "description": "Axie game computing power distribution platform.",
+    "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
     "type": "BEP20",
-    "symbol": "INF",
+    "symbol": "GFI",
     "decimals": 18,
     "status": "active",
-    "id": "0xC9a95620Ce4C976fD6852e29b1FCA239dcd54CfB"
-   }
+    "id": "0xe22af82B48909d57b17eE03286A51106C860F40e"
+}
