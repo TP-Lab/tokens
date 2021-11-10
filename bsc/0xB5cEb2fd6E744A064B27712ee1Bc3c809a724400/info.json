@@ -1,0 +1,11 @@
+{
+ "name": "UCN Token",
+ "website": "https://ucndapp.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/address/0xB5cEb2fd6E744A064B27712ee1Bc3c809a724400",
+ "type": "BEP20",
+ "symbol": "UCN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB5cEb2fd6E744A064B27712ee1Bc3c809a724400"
+}
