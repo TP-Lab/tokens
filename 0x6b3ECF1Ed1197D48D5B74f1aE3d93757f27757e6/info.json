@@ -1,0 +1,12 @@
+{
+ "name": "Meta Baby",
+ "website": "",
+ "description": "Meta Baby token is a new token on Binance Smart Chain network. We want to help animals, forests and humans that be hurt by wildfires.",
+ "explorer": "https://bscscan.com/token/0x6b3ECF1Ed1197D48D5B74f1aE3d93757f27757e6",
+ "type": "BEP20",
+ "symbol": "Meta Baby",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6b3ECF1Ed1197D48D5B74f1aE3d93757f27757e6
+"
+}
