@@ -1,0 +1,12 @@
+{
+ "name": "Shambala Token",
+ "website": "http://shambala.finance",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/address/0x0e5c51ce714bd319a11bfb26bf0e13d8ceed1ebe",
+ "type": "BEP20",
+ "symbol": "CHIP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0E5c51cE714bd319A11BFb26BF0e13D8CEED1Ebe"
+}
+
