@@ -1,11 +1,11 @@
 {
-    "name": "Infinite Token",
-    "website": "https://www.infinitetoken.us",
-    "description": "All our work and dedication has led to one exciting thing: a blockchain project takes on the Infinite possibilities of the digital world -- Infinite Token.",
-    "explorer": "https://bscscan.com/token/0xC9a95620Ce4C976fD6852e29b1FCA239dcd54CfB",
-    "type": "BEP20",
-    "symbol": "INF",
-    "decimals": 18,
-    "status": "active",
-    "id": "0xC9a95620Ce4C976fD6852e29b1FCA239dcd54CfB"
-   }
+ "name": "SKG",
+ "website": "https://bscscan.com/token/0xD29837ce226af9493C85eaf8E2D2ec456375BEc8",
+ "description": "SKG TOKEN .",
+ "explorer": "https://bscscan.com/token/0xD29837ce226af9493C85eaf8E2D2ec456375BEc8",
+ "type": "BEP20",
+ "symbol": "SKG",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xD29837ce226af9493C85eaf8E2D2ec456375BEc8"
+}
