@@ -1,0 +1,11 @@
+{
+ "name": "AVEQ",
+ "website": "http://www.avex.name",
+ "description": "AVEQ是一个由社区驱动的DeFi综合商业体，包括多链矿池，聚合类DEX、DAO治理、机枪池和NFT市场，协议收入属于代币持有人。",
+ "explorer": "https://tronscan.io/#/token20/TJ2jgAk7ZWYkjqh5FPQA6d3bbi6uD5SQtn",
+ "type": "TRC20",
+ "symbol": "Baby pig",
+ "decimals": 6,
+ "status": "active",
+ "id": "TJ2jgAk7ZWYkjqh5FPQA6d3bbi6uD5SQtn"
+}
