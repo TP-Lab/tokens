@@ -1,0 +1,11 @@
+{
+    "name": "Frame",
+    "website": "https://framelab.io/",
+    "description": "FRAME基金会由几位硅谷科技人员、顶级艺术家、收藏家联合发起，致力于建立去中心化自治社区推动NFT行业发展。",
+    "explorer": "https://bscscan.com/token/0xb4c41f17f2fa3a8101ac0928e9298a6bcac76ba9",
+    "type": "BEP20",
+    "symbol": "Frame",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB4C41f17F2fA3a8101aC0928e9298a6BcAC76Ba9"
+   } 
