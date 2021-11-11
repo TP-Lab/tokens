@@ -1,0 +1,11 @@
+{
+ "name": "game player",
+ "website": "http://www.pokerplayergamecoin.us",
+ "description": "gamecoin is a game currency issued by a game poker player based in Las Vegas.",
+ "explorer": "https://bscscan.com/token/0x8597b961a922f29b02e8333726cc4dcb12b21a05",
+ "type": "BEP20",
+ "symbol": "game",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8597b961A922F29b02e8333726cc4DCb12B21a05"
+}
