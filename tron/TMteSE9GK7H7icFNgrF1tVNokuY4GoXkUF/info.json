@@ -1,0 +1,11 @@
+{
+ "name": "CNFS",
+ "website": "https://www.cnfs.tech/",
+ "description": "CNFS is the technology the internet needs to enter the next stage in its evolution.",
+ "explorer": "https://tronscan.io/#/token20/TMteSE9GK7H7icFNgrF1tVNokuY4GoXkUF",
+ "type": "TRC20",
+ "symbol": "CNX",
+ "decimals": 18,
+ "status": "active",
+ "id": "TMteSE9GK7H7icFNgrF1tVNokuY4GoXkUF"
+}
