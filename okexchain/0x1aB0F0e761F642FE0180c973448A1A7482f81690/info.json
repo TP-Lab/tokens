@@ -1,0 +1,11 @@
+{
+ "name": "Blade Egg",
+ "website": "https://www.blade.game",
+ "description": "Blade Warrior is the first metaverse game on OEC, an open blockchain game ecosystem. The team comes from well-known 3A game development companies and well-known international blockchain organizations.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x1aB0F0e761F642FE0180c973448A1A7482f81690",
+ "type": "KIP20",
+ "symbol": "EGG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1aB0F0e761F642FE0180c973448A1A7482f81690"
+}
