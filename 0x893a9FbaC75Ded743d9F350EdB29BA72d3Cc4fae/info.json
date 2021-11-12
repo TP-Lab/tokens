@@ -1,0 +1,11 @@
+{
+ "name": "Ocean Chain",
+ "website": "www.ocean.pro",
+ "description": "OceanChain Gams and Defi.",
+ "explorer": "https://www.bscscan.com/token/0x893a9FbaC75Ded743d9F350EdB29BA72d3Cc4fae",
+ "type": "BEP20",
+ "symbol": "OC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x893a9FbaC75Ded743d9F350EdB29BA72d3Cc4fae"
+}
