@@ -1,0 +1,11 @@
+{
+ "name": "Metaball",
+ "website": "https://www.metaballtoken.com/",
+ "description": "Metaball will improve the diversified metaverse experience and realize the parallel life in the real world in Metaball",
+ "explorer": "https://bscscan.com/token/0x46b29ADB5BBACB967284D1510840FcA61d7F5429",
+ "type": "BEP20",
+ "symbol": "MB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x46b29ADB5BBACB967284D1510840FcA61d7F5429"
+}
