@@ -1,0 +1,11 @@
+{
+ "name": "AVE",
+ "website": "http://www.avex.name",
+ "description": "AVE是一个由社区驱动的DeFi综合商业体，包括多链矿池，聚合类DEX、DAO治理、机枪池和NFT市场，协议收入属于代币持有人。",
+ "explorer": "https://tronscan.io/#/contract/TKpLZd9c9QySrH1QVp3nGM6N86VVFJ2xCu/code",
+ "type": "TRC20",
+ "symbol": "AVE",
+ "decimals": 6,
+ "status": "active",
+ "id": "TKpLZd9c9QySrH1QVp3nGM6N86VVFJ2xCu"
+}
