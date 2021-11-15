@@ -1,0 +1,11 @@
+{
+ "name": "WBT",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0xb9bef7ED25c98f6f36cC763C3A9cd57EF0cBF80e",
+ "type": "BSC20",
+ "symbol": "WBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb9bef7ED25c98f6f36cC763C3A9cd57EF0cBF80e"
+}
