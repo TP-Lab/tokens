@@ -1,0 +1,11 @@
+{
+ "name": "Tower of the sorcerer",
+ "website": "http:// www.tots.games",
+ "description": "Tower of the sorcerer is a tower defense game based on the binary smart chain Binance Smart Chain (BSC) , the next version will be developed into a metaverse game.",
+ "explorer": "https://bscscan.com/token/0xB39C43a3e9716947b428C6A8d4b6F9b39C36cC40",
+ "type": "BEP20",
+ "symbol": "TOTS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB39C43a3e9716947b428C6A8d4b6F9b39C36cC40"
+}
