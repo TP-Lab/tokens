@@ -1,0 +1,11 @@
+{
+ "name": "SQUIDS Token",
+ "website": "http://squidkill.cn",
+ "description": "SQUIDS Token",
+ "explorer": "https://bscscan.com/token/0xA501DAf652e912BA409c94C1427476f7b06EF479",
+ "type": "BEP20",
+ "symbol": "SQUIDS",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xA501DAf652e912BA409c94C1427476f7b06EF479"
+}
