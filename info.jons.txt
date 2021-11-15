@@ -1,9 +1,9 @@
-   "name": "BINANCE-PEGUSD",
-    "website": "https://Binance-peg.bglo.com/BUSDT",
-    "description": "BUSDt is a stablecoin issued by Paxos in partnership with Binance.",
-    "explorer": "https://bscscan.com/token/0xabd33624596948fb1e5f819342fcbc6db735a417",
+   "name": "Tether USDT",
+    "website": "https://TetherUsdt.bglo.com/Usdt",
+    "description": "Usdt is a stablecoin issued by Paxos in partnership with Binance.",
+    "explorer": "https://bscscan.com/token/0x30cb76a764099b7dc4db2c886374a6a9ad5773ee",
     "type": "BEP20",
-    "symbol": "BUSDT",
+    "symbol": "Usdt",
     "decimals": 9,
     "status": "active",
-    "id": "0xabd33624596948fb1e5f819342fcbc6db735a417"
+    "id": "0x30cb76a764099b7dc4db2c886374a6a9ad5773ee"
