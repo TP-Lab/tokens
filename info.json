@@ -1,11 +1,11 @@
 {
-    "name": "Infinite Token",
-    "website": "https://www.infinitetoken.us",
-    "description": "All our work and dedication has led to one exciting thing: a blockchain project takes on the Infinite possibilities of the digital world -- Infinite Token.",
-    "explorer": "https://bscscan.com/token/0xC9a95620Ce4C976fD6852e29b1FCA239dcd54CfB",
-    "type": "BEP20",
-    "symbol": "INF",
-    "decimals": 18,
-    "status": "active",
-    "id": "0xC9a95620Ce4C976fD6852e29b1FCA239dcd54CfB"
-   }
+ "name": "Yyz token",
+ "website": "https://yyz.com",
+ "description": "元宇宙社区股份代币.",
+ "explorer": "https://bscscan.com/token/0x88dfb10a109a95769a8ccfac7fa2990766c90069",
+ "type": "BEP20",
+ "symbol": "YYZ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x88dfb10a109a95769a8ccfac7fa2990766c90069"
+}
