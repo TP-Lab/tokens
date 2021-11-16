@@ -1,0 +1,11 @@
+{
+    "name": "NFTT Token",
+    "website": "https://www.nfttdefi.me/",
+    "description": "Nftt is a decentralized market for creators / artists and collectors. It aims to reduce obstacles for young and promising talents. Our vision is a simple user interface that can be accessed by users, creators and collectors. Users can establish their collections or purchase NFTs in the nftt market. Supported by transparent, reliable and deflationary Tokens: $nftt",
+    "explorer": "https://bscscan.com/token/0x26A031968065Bfa407c615F615e8cb0C9D80f077",
+    "type": "BEP20",
+    "symbol": "NFTT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x26A031968065Bfa407c615F615e8cb0C9D80f077"
+    }
