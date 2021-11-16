@@ -1,0 +1,11 @@
+{
+ "name": "Epochal Cell Coin",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x83bdD5Edce9E4A02A781bdfDB40A390d1091F95d",
+ "type": "BEP20",
+ "symbol": "ECC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x83bdD5Edce9E4A02A781bdfDB40A390d1091F95d"
+}
