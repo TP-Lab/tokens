@@ -1,6 +1,6 @@
 {
  "name": "Coke Dog Coin",
- "website": "https://www.dogecola.finance/",
+ "website": "-",
  "description": "What kind of innovative inspiration will be inspired by the mutual integration of happy cola and popular dogecoin?",
  "explorer": "https://bscscan.com/token/0x2615e7b76af223476c45ef675f003002a8b7672e",
  "type": "BEP20",
