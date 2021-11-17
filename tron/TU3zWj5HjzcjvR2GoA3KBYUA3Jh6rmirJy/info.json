@@ -1,0 +1,12 @@
+{
+ "name": "Interstellar Cloud",
+ "website": "https://tronscan.io/",
+ "description": "Interstellar Cloud(简称ICD)是去中心化游戏平台(以下简称ICD).将游戏和NFT结合,以创建一个免费和边赚边玩的生态系统.ICD的生态包括去中心化游戏,NFT和GameFi等.在ICD元宇宙中,游戏中的所有收益在区块链技术的支持下将实现真正的公开透明.
+",
+ "explorer": "https://tronscan.io/#/token20/TU3zWj5HjzcjvR2GoA3KBYUA3Jh6rmirJy",
+ "type": "TRC20",
+ "symbol": "ICD",
+ "decimals": 18,
+ "status": "active",
+ "id": "TU3zWj5HjzcjvR2GoA3KBYUA3Jh6rmirJy"
+}
