@@ -1,0 +1,11 @@
+{
+  "name": "METATOPIA NFT Token",
+  "website": "http://mtnft.efc.ltd",
+  "description": "Bsc of METATOPIA NFT Token",
+  "explorer": "https://bscscan.com/token/0x7110be696f4712681ae7111e2be25947c42173ce",
+  "type": "BEP20",
+  "symbol": "MTNFT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7110bE696f4712681ae7111e2BE25947C42173cE"
+}
