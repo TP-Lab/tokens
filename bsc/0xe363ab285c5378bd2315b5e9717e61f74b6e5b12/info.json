@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Cloud Coin Token",
+  "website": "http://dragon.efc.ltd",
+  "description": "Bsc of Dragon Cloud Coin Token",
+  "explorer": "https://bscscan.com/token/0xe363ab285c5378bd2315b5e9717e61f74b6e5b12",
+  "type": "BEP20",
+  "symbol": "DCC",
+  "decimals": 8,
+  "status": "active",
+  "id": "0xe363ab285c5378bd2315b5e9717e61f74b6e5b12"
+}
