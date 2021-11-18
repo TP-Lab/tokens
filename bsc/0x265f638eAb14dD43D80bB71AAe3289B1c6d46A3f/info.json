@@ -1,0 +1,11 @@
+﻿{
+ "name": "Binancedog",
+ "website": "https://www.binancedog.net/",
+ "description": "Binance dog 🐶is a deflationary token which is centered by the community and driven by the internal force.",
+ "explorer": "https://bscscan.com/address/0x265f638eAb14dD43D80bB71AAe3289B1c6d46A3f",
+ "type": "BEP20",
+ "symbol": "Bidog",
+ "decimals":9,
+ "status": "active",
+ "id": "0x265f638eAb14dD43D80bB71AAe3289B1c6d46A3f"
+}
