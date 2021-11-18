@@ -1,0 +1,11 @@
+{
+ "name": "Monsta Infinite",
+ "website": "https://monstainfinite.com/",
+ "description": "Monsta Infinite is a decentralized game universe where anyone can earn tokens through playing the game competitively or for leisure.‌",
+ "explorer": "https://bscscan.com/token/0x66FCC681b42369003404b669D310d928911bcE84",
+ "type": "BEP20",
+ "symbol": "MONI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x66FCC681b42369003404b669D310d928911bcE84"
+}
