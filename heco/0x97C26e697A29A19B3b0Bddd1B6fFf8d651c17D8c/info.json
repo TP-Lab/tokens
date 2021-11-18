@@ -1,0 +1,11 @@
+{
+ "name": "BATX",
+ "website": "https://batx.site",
+ "description": "Encrypted assets with their own marketing methods.",
+ "explorer": "https://hecoinfo.com/token/0x97c26e697a29a19b3b0bddd1b6fff8d651c17d8c",
+ "type": "HRC20",
+ "symbol": "BATX",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x97C26e697A29A19B3b0Bddd1B6fFf8d651c17D8c"
+}
