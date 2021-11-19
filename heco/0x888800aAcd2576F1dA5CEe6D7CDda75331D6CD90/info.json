@@ -1,0 +1,11 @@
+{
+ "name": "ETHQ Token",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://hecoinfo.com/token/0x888800aAcd2576F1dA5CEe6D7CDda75331D6CD90",
+ "type": "HRC20",
+ "symbol": "ETHQ",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x888800aAcd2576F1dA5CEe6D7CDda75331D6CD90"
+}
