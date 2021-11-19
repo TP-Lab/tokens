@@ -1,0 +1,11 @@
+{
+  "name": "Afrostar",
+  "website": "https://www.afrostar.io",
+  "description": "Afrostar is the united digital currency of Africa. It aims to be THE digital currency that is trusted and used across the continent, and a top crypto Worldwide.",
+  "explorer": "https://bscscan.com/token/0x2f4e9c97aaffd67d98a640062d90e355b4a1c539",
+  "type": "BEP20",
+  "symbol": "AFRO",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x2f4e9c97aaffd67d98a640062d90e355b4a1c539"
+}
