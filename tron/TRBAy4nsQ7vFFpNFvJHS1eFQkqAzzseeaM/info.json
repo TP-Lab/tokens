@@ -1,0 +1,11 @@
+{
+    "name": "Cartoon",
+    "website": "https://ocartoon.net",
+	"description": "Cartoon (CTN) is a decentralized autonomous organization (DAO), which is used to invest in animation NFT based on blockchain. CTN combines the characteristics of NFT and defi to drive the value of animation works.",
+	"explorer": "https://tronscan.io/#/token20/TRBAy4nsQ7vFFpNFvJHS1eFQkqAzzseeaM",
+    "type": "TRC20",
+    "symbol": "CTN",
+    "decimals": 6,
+    "status": "active",
+    "id": "TRBAy4nsQ7vFFpNFvJHS1eFQkqAzzseeaM"
+}
