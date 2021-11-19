@@ -1,0 +1,11 @@
+{
+ "name": "Cosmic starry Token",
+ "website": "https://cosmic-starry.online/index.htm",
+ "description": "The Cosmic Starry is the first central hub of the Cosmic Starry, based on the BSC",
+ "explorer": "https://bscscan.com/token/0xeab3b6611d95d3f3fbb33bab292ae2ca564b17a9",
+ "type": "BEP20",
+ "symbol": "Cs",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xeab3b6611d95d3f3fbb33bab292ae2ca564b17a9"
+}
