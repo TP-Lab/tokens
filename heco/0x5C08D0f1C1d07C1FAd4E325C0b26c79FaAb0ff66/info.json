@@ -1,0 +1,11 @@
+{
+ "name": "BT Finance",
+ "website": "https://bee-finance.net",
+ "description": "BEE, Maintaining the Highest Standards of Security and Innovation.",
+ "explorer": "https://hecoinfo.com/address/0x5C08D0f1C1d07C1FAd4E325C0b26c79FaAb0ff66",
+ "type": "HRC20",
+ "symbol": "BEE",
+ "decimals": 1,
+ "status": "active",
+ "id": "0x5C08D0f1C1d07C1FAd4E325C0b26c79FaAb0ff66"
+}

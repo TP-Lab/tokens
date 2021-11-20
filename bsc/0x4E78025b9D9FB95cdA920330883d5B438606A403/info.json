@@ -1,0 +1,11 @@
+{
+ "name": "LCL Token",
+ "website": "https://gnfcoin.org/",
+ "description": "LCL chain wallet that supports BSC.",
+ "explorer": "https://bscscan.com/token/0x4E78025b9D9FB95cdA920330883d5B438606A403",
+ "type": "BEP20",
+ "symbol": "LCL",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x4E78025b9D9FB95cdA920330883d5B438606A403"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "JERA",
+ "website": "https://www.jeratoken.org",
+ "description": "JERA allows their community to acquire different products or services through partial or total payments using JERA.",
+ "explorer": "https://bscscan.com/token/0x5dd56af2ac9aac1263155fa8b820bfca27de5d7c",
+ "type": "BEP20",
+ "symbol": "JERA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5Dd56af2AC9AAC1263155fA8B820bFCa27DE5d7C"
+}

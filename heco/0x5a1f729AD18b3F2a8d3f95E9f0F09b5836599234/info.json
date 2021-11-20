@@ -1,0 +1,11 @@
+{
+ "name": "BI token",
+ "website": "https://www.biapp.pro",
+ "description": "Open digital asset exchange network",
+ "explorer": "https://hecoinfo.com/token/0x5a1f729AD18b3F2a8d3f95E9f0F09b5836599234",
+ "type": "HRC-20",
+ "symbol": "BI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5a1f729AD18b3F2a8d3f95E9f0F09b5836599234"
+}

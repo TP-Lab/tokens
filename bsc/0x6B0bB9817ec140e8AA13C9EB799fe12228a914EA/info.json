@@ -1,0 +1,11 @@
+{
+ "name": "Metaverse Token",
+ "website": "-",
+ "description": "Metaverse Token",
+ "explorer": "https://bscscan.com/token/0x6b0bb9817ec140e8aa13c9eb799fe12228a914ea",
+ "type": "BEP20",
+ "symbol": "MTVS",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x6B0bB9817ec140e8AA13C9EB799fe12228a914EA"
+}

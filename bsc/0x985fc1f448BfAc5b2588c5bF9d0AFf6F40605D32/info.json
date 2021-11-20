@@ -1,0 +1,11 @@
+{
+ "name": "ALEC",
+ "website": "https://www.aleca.info",
+ "description": "Alec is the main application of Alec network on the BSC chain to generate tokens. In the Alec pool mechanism, 75% of Alec tokens will flow into the pool. The daily production is 40000 Alec tokens. Every six months is a cycle. When the first cycle ends, the output of the second cycle will decrease by 50%. When Alec is traded, a 1% backflow mechanism will be generated. When the backflow pool reaches a certain ratio, the backflow pool will automatically destroy 50% of the tokens of the backflow pool, and the remaining 50% of the backflow pool will reward the community to contact the workers, effectively ensuring the stability of Alec tokens.",
+ "explorer": "https://bscscan.com/token/0x985fc1f448bfac5b2588c5bf9d0aff6f40605d32",
+ "type": "BEP20",
+ "symbol": "ALEC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x985fc1f448BfAc5b2588c5bF9d0AFf6F40605D32"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Snow wolf Coin",
+ "website": "",
+ "description": "",
+ "explorer": "https://hecoinfo.com/address/0x56557a986911E7e500c42AB9e96CDFdaAeF37bB9",
+ "type": "HRC20",
+ "symbol": "Snow wolf",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x56557a986911E7e500c42AB9e96CDFdaAeF37bB9"
+}

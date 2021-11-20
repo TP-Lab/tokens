@@ -1,0 +1,11 @@
+{
+ "name": "DMT Token",
+ "website": "https://demeter.xyz",
+ "description": "An Advanced, Antitrust And Autostabilization Currency.",
+ "explorer": "https://hecoinfo.com/address/0x57a7bcdfab1631aca9d6e0f39959477182cfae12",
+ "type": "HRC20",
+ "symbol": "DMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x57A7BcdfAb1631ACA9d6E0f39959477182CfAe12"
+}

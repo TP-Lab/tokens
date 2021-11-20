@@ -1,0 +1,11 @@
+{
+ "name": "Van Gogh World",
+ "website": "http://www.vgw.one",
+ "description": "VGW是一个NFT+DeFi协议+DAO社区自治的加密艺术品交流平台支付代币，VGW的诞生为了解决传统艺术品在拍卖、寄售、收藏流通环节的便捷性及支付问题，VGW在加密艺术品领域的应用将产生强大共识。",
+ "explorer": "https://bscscan.com/token/0x715c113e2dC08E7A511967B0B604beF459bF3DBF",
+ "type": "BEP20",
+ "symbol": "VGW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x715c113e2dC08E7A511967B0B604beF459bF3DBF"
+}

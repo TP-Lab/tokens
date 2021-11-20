@@ -1,0 +1,11 @@
+{
+    "name": "ShibZilla",
+    "website": "https://shibzilla.link/",
+    "description": "We are theto incorporate the features Utility、NFT、GameFi ",
+    "explorer": "https://bscscan.com/token/0x206EE9cBE1188b2591B6d6612b594BEAb7FA5aF3",
+    "type": "BEP20",
+    "symbol": "ShibZilla",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x206EE9cBE1188b2591B6d6612b594BEAb7FA5aF3"
+   }

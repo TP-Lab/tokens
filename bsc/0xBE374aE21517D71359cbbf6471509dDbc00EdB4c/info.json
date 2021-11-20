@@ -1,0 +1,11 @@
+{
+ "name": "Ant nest coin",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0xBE374aE21517D71359cbbf6471509dDbc00EdB4c",
+ "type": "BSC20",
+ "symbol": "ANT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xBE374aE21517D71359cbbf6471509dDbc00EdB4c"
+}

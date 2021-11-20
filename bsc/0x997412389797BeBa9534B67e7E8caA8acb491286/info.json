@@ -1,0 +1,11 @@
+{
+ "name": "MoonTigerCoin",
+ "website": "https://moontigercoin.com",
+ "description": "MoonTiger is a hyper-deflationary DeFi token that runs on the Binance Smart Chain.",
+ "explorer": "https://bscscan.com/token/0x997412389797beba9534b67e7e8caa8acb491286",
+ "type": "BEP20",
+ "symbol": "MoonTiger",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x997412389797BeBa9534B67e7E8caA8acb491286"
+}

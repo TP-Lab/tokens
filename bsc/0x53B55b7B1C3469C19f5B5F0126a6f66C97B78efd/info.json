@@ -1,0 +1,11 @@
+{
+ "name": "DZB",
+ "website": "https://bscscan.com/token/0x53B55b7B1C3469C19f5B5F0126a6f66C97B78efd",
+ "description": "DZB is a completely decentralized distributed communication protocol, and the user with the currency address has complete control. It is also a point-to-point transaction protocol, which is completely decentralized, and uses economic incentives to make it more convenient for economies with large transmission capacity and large demand on the Internet, so as to eliminate people's demand for highly reliable central servers. DBZ is composed of countless money holding addresses, identities and data on the Internet - not affected by any centralized organization.",
+ "explorer": "https://bscscan.com/token/0x53B55b7B1C3469C19f5B5F0126a6f66C97B78efd",
+ "type": "BEP20",
+ "symbol": "DZB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x53B55b7B1C3469C19f5B5F0126a6f66C97B78efd"
+}
