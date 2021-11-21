@@ -1,0 +1,13 @@
+@@ -0,0 +1,11 @@
+{
+"name": "KOALABEAR",
+"website": "HTTPS://KOABEAR.NET",
+"description": "BSC TOKEN",
+"explorer": "https://bscscan.com/tokenupdate/0xA1217C0cce65A37E77cF43Af277c0B29D808652c",
+"type": "BSC",
+"symbol": "KOALA",
+"decimals": 9,
+"status": "active",
+"id": "0xA1217C0cce65A37E77cF43Af277c0B29D808652c"
+}
+0 comments on commit cd3cb66
