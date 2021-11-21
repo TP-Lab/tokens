@@ -1,1 +1,11 @@
-
+{
+    "name": "LaFil Mining Token",
+    "website": "https://tokenpocket.pro",
+    "description": "iFIL token is a distributed, high-efficiency, community autonomy, self-incentive, low-cost data hosting and computing power certificate, which solves the needs of Web3.0 users for service security and freedom.",
+    "explorer": "https://hecoinfo.com/token/0x13bcfc68bd0fb90292fc2d078f2220fa490487ed",
+    "type": "HRC20",
+    "symbol": "iFIL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x13bcfc68bd0fb90292fc2d078f2220fa490487ed"
+   }
