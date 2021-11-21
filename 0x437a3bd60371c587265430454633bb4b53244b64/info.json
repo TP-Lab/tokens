@@ -1,0 +1,11 @@
+{
+ "name": "SIMS",
+ "website": "https://simstoken.vip",
+ "description": "Sims - The Sims: it is an open sandbox game. There is no set game goal. What players need to do is to control the virtual characters in the game - Sims and plan a perfect life for them. At the same time, players can also reasonably plan their life for Sims through the synthesis system and professional system in the game, Create a perfect family for simulated citizens.",
+ "explorer": "https://bscscan.com/token/0x437a3bd60371c587265430454633bb4b53244b64",
+ "type": "BEP20",
+ "symbol": "SIMS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x437a3bd60371c587265430454633bb4b53244b64"
+}
