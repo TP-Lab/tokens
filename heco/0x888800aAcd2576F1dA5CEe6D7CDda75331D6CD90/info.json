@@ -1,0 +1,11 @@
+{
+ "name": "ETHQ",
+ "website": "https://ethq.xyz",
+ "description": "Dividend HT in eth Q currency",
+ "explorer": "https://hecoinfo.com/address/0x888800aAcd2576F1dA5CEe6D7CDda75331D6CD90",
+ "type": "HECO",
+ "symbol": "ETHQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x888800aAcd2576F1dA5CEe6D7CDda75331D6CD90"
+}
