@@ -1,10 +1,10 @@
 {
- "name": "TokenPocket Token",
+ "name": "BUILD META VERSE",
  "website": "http://www.imc-chain.com/",
  "description": "In Memory Computing project is developed and launched by Dr. Cairns team of Harvard Lab. The lab members are composed of Blackburn Cloud Technology Lab members, IPFS team members, Stanford University, MIT and other top global technical talents, whose scientific research level, team strength and talent management are in the top position in the industry. In Memory Computing establishes a systematic and integrated digital economy ecology that integrates with the existing blockchain ecosystem and issues its digital pass-through BMV as the infrastructure and connector of the future ecosystem, providing effective collaboration of trust sources, interconnection of data sources, and interoperability of metaverse data. interconnection and interoperability of data sources, and provide a complete underlying technical infrastructure for metaverse data storage services.",
  "explorer": "https://bscscan.com/token/0xf0f1CbF4B14b3A0b4e1aC972029B642ECBBfdc37",
  "type": "BEP20",
- "symbol": "TPT",
+ "symbol": "BMV",
  "decimals": 4,
  "status": "active",
  "id": "0xf0f1CbF4B14b3A0b4e1aC972029B642ECBBfdc37"
