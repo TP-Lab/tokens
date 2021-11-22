@@ -1,0 +1,11 @@
+{
+ "name": "Golden Bean",
+ "website": "https://gbtoken.xyz/",
+ "description": "Let more companies participate and build a consensus world.",
+ "explorer": "https://bscscan.com/address/0x00000a28d0b680fd2953d72b14f354F0c91B9c8E",
+ "type": "BSC",
+ "symbol": "GBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x00000a28d0b680fd2953d72b14f354F0c91B9c8E"
+}
