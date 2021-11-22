@@ -1,11 +1,11 @@
 {
- "name": "GOAT Token",
- "website": "http://www.goatfinance.io",
- "description": "GOAT-Open a new world of metaverse",
- "explorer": "https://bscscan.com/token/0xb1033Fce0bA6415f60FD592f90BE10580bC39830",
+ "name": "MJNetwork",
+ "website": "https://mjnetwork.xyz",
+ "description": "Build a more reasonable digital economy ecology in terms of sustainability and economic feasibility.",
+ "explorer": "https://bscscan.com/token/0x6A144274D3F7a2277f38b2d76e3fb8377799737d",
  "type": "BEP20",
- "symbol": "GOAT",
- "decimals": 8,
+ "symbol": "MJN",
+ "decimals": 4,
  "status": "active",
- "id": "0xb1033Fce0bA6415f60FD592f90BE10580bC39830"
+ "id": "0x6A144274D3F7a2277f38b2d76e3fb8377799737d"
 }
