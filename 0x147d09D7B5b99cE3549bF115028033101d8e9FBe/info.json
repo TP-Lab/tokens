@@ -2,11 +2,11 @@
  "name": "Meta",
  "website": "https://www.metacoin.world/",
  "description": "Meta is the digital integral",
-"explorer": "https://bscscan.com/token/0x147d09D7B5b99cE3549bF115028033101d8e9FBe", 
+ "explorer": "https://bscscan.com/token/0x147d09D7B5b99cE3549bF115028033101d8e9FBe", 
  "type": "BEP20", 
  "symbol": "Meta", 
  "decimals": 18, 
  "status": "active", 
- "id": "0x147d09D7B5b99cE3549bF115028033101d8e9FBe"                            "
+ "id": "0x147d09D7B5b99cE3549bF115028033101d8e9FBe"                            
 }
 
