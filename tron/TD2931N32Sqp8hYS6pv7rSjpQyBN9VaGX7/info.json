@@ -1,0 +1,11 @@
+{
+ "name": "CloudChain",
+ "website": "http://forcloud.cc",
+ "description": "CloudChain will help each shareholder gain financial freedom. Each  holder of CCC can obtain a weighted dividend of 6250 CCC per week for 160 weeks by providing liquidity; You can also continue mining every day through the smart contract until all the assets of all ore pools are excavated, which can be mined for about 40 years.",
+ "explorer": "https://tronscan.org/#/token20/TD2931N32Sqp8hYS6pv7rSjpQyBN9VaGX7",
+ "type": "TRC20",
+ "symbol": "CCC",
+ "decimals": 6,
+ "status": "active",
+ "id": "TD2931N32Sqp8hYS6pv7rSjpQyBN9VaGX7"
+}
