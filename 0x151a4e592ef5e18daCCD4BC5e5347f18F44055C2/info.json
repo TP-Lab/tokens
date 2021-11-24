@@ -1,0 +1,11 @@
+{
+ "name": "Sonic The Hedgehog",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x151a4e592ef5e18daCCD4BC5e5347f18F44055C2",
+ "type": "BEP20",
+ "symbol": "Sonic",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x151a4e592ef5e18daCCD4BC5e5347f18F44055C2"
+}
