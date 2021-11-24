@@ -1,0 +1,11 @@
+{
+  "name": "Mario Infinity Token",
+  "website": "http://www.marioinfinity.com/",
+  "description": "Mi is the platform governance token of Mario World. It uses the whole ecological scenario and will not be given more ecological applications in Mario World.",
+  "explorer": "https://bscscan.com/token/0x940BcB7c878753f2Aa074bDc5D3136E310815a66",
+  "type": "BEP20",
+  "symbol": "MI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x940BcB7c878753f2Aa074bDc5D3136E310815a66"
+}
