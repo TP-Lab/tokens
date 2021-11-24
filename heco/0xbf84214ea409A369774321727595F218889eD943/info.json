@@ -1,0 +1,11 @@
+{
+ "name": "ButterSwap Token",
+ "website": "http://butterswap.me",
+ "description": "The leading AMM and yield farm on Heco Chain.",
+ "explorer": "https://hecoinfo.com/token/0xbf84214ea409A369774321727595F218889eD943",
+ "type": "HRC-20",
+ "symbol": "BUTTER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbf84214ea409A369774321727595F218889eD943"
+}

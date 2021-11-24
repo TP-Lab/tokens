@@ -1,0 +1,11 @@
+{
+ "name": "Trend Art Token",
+ "website": "https://tanft.io",
+ "description": "Officially incorporated in Singapore in 2021, TANFT is a professional foundation backed by the world-renowned public chain Ether, dedicated to NFTing and blockchaining the world's top hipster artworks.",
+ "explorer": "https://bscscan.com/token/0x30ff9d1a35002515a592de64b355bffc4c6e86ae",
+ "type": "BEP20",
+ "symbol": "TANFT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x30ff9d1a35002515a592de64b355bffc4c6e86ae"
+}

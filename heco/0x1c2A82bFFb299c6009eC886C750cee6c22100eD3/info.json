@@ -1,0 +1,11 @@
+{
+ "name": "OKD Token",
+ "website": "https://www.ok-daniel.com",
+ "description": "OKD是OK-Daniel DEFI量化系统的平台代币OK-Daniel DEFI量化系统是在火币生态网络(Huobi ECO Chain)和币安智能链(Binance Smart Chain)上运行的量化复利机枪池。OK-Daniel DEFI量化系统目标宗旨在于为用户提供在DeFi世界徜徉的极致体验。同时，团队更希望致力于为用户严格甄选各条链上最安全、最高收益的流动性挖矿项目，将其中产生的收益不定期复投，并给予用户OKD代币奖励。OKD 代币，没有预挖掘，也没有预售，全部产出公平挖掘。",
+ "explorer": "https://hecoinfo.com/token/0x1c2A82bFFb299c6009eC886C750cee6c22100eD3",
+ "type": "BEP20",
+ "symbol": "OKD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1c2A82bFFb299c6009eC886C750cee6c22100eD3"
+}

@@ -1,0 +1,11 @@
+ {
+    "name": "GDP Token",
+    "website": "http://v0.galaxyswap.world",
+    "description": "GDP TOKEN.",
+    "explorer": "https://bscscan.com/token/0x9a68c9ffbb6f804040dc21eab9746df52f632d83",
+    "type": "BEP20",
+    "symbol": "GDP",
+    "decimals": 4,
+    "status": "active",
+    "id": "0x9a68c9ffbb6f804040dc21eab9746df52f632d83"
+   }

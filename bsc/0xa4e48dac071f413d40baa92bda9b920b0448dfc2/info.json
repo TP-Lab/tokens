@@ -1,0 +1,11 @@
+{
+    "name": "OnlineGameAliance",
+    "website": "https://ogaswap.io",
+    "description": "Strictly Deflationary,BEP-20 Token (OGA) that powers the network. enabling holders to participate in governance decisions and access OnlineGameAliance Services.",
+    "explorer": "https://www.bscscan.com/token/0xa4e48dac071f413d40baa92bda9b920b0448dfc2",
+    "type": "BEP20",
+    "symbol": "OGA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa4e48Dac071F413d40BAa92BDa9B920b0448dFc2"
+   }

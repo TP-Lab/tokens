@@ -1,0 +1,11 @@
+{
+ "name": "Dog King Coin",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x8F5DbEC90C75a6451EC6d114c20e636b5575d81e",
+ "type": "HRC20",
+ "symbol": "DogKing",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8F5DbEC90C75a6451EC6d114c20e636b5575d81e"
+}

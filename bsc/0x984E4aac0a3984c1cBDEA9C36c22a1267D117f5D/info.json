@@ -1,0 +1,11 @@
+{
+"name": "Starbase",
+"website": "http://www.starbase-se.com",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0x984E4aac0a3984c1cBDEA9C36c22a1267D117f5D",
+"type": "BEP20",
+"symbol": "SE",
+"decimals": 18,
+"status": "active",
+"id": "0x984E4aac0a3984c1cBDEA9C36c22a1267D117f5D"
+}

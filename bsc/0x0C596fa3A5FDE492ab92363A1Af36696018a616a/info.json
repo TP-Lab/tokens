@@ -1,0 +1,11 @@
+{
+ "name": "DOGE SHOW",
+ "website": "https://dogeshow.io",
+ "description": "DOGESHOW is a token issued based on coin security. It will never be issued again and will be of great value in the future",
+ "explorer": "https://bscscan.com/address/0x0c596fa3a5fde492ab92363a1af36696018a616a",
+ "type": "BSC20",
+ "symbol": "DOGESHOW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0C596fa3A5FDE492ab92363A1Af36696018a616a"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "HGT Token",
+ "website": "https://newcar.xcar.com.cn/163/",
+ "description": "The total number of tokens is 1000 billion",
+"explorer": "https://tronscan.io/#/token20/TGSEEShQZdQPXY1kRu7FesfLVGRDGWhpPs",
+ "type": "TRC20",
+ "symbol": "HGT",
+ "decimals": 6,
+ "status": "active",
+ "id": "TGSEEShQZdQPXY1kRu7FesfLVGRDGWhpPs"
+}

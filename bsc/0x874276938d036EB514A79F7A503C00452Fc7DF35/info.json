@@ -1,0 +1,11 @@
+{
+ "name": "FCN",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x874276938d036EB514A79F7A503C00452Fc7DF35",
+ "type": "BEP20",
+ "symbol": "FCN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x874276938d036EB514A79F7A503C00452Fc7DF35"
+}

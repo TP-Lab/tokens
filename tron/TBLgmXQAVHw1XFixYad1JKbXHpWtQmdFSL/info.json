@@ -1,0 +1,11 @@
+{
+ "name": "LEASH TOKEN",
+ "website": "https://www.tronleash.com/",
+ "description": "Leash Token community autonomous tokens.",
+ "explorer": "https://tronscan.io/#/contract/TBLgmXQAVHw1XFixYad1JKbXHpWtQmdFSL",
+ "type": "TRC20",
+ "symbol": "LES",
+ "decimals": 6,
+ "status": "active",
+ "id": "TBLgmXQAVHw1XFixYad1JKbXHpWtQmdFSL"
+}

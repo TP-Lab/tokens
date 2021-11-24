@@ -1,0 +1,11 @@
+{
+ "name": "CFF",
+ "website": "https://www.living-aline.net",
+ "description": "CFF (Coin for Future) is a blockchain developed and issued by Yatai (Hong Kong) Holding Group based on the enterprise-level blockchain technology Nexledger Universal launched by Samsung Group SDS, which integrates exchange, encryption token, and sharing mode. ",
+ "explorer": "https://etherscan.io/token/0x7f4ccce0d4046720edd483c0ae09dccd6c3d97fc",
+ "type": "ERC20",
+ "symbol": "CFF",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x7f4ccce0d4046720edd483c0ae09dccd6c3d97fc"
+}

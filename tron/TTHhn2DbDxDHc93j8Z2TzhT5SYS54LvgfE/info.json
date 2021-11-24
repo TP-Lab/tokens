@@ -1,0 +1,11 @@
+{
+ "name": "BTCS",
+ "website": "www.BTCS.com",
+ "description": "BTCS.",
+ "explorer": "https://tronscan.io/#/contract/TTHhn2DbDxDHc93j8Z2TzhT5SYS54LvgfE",
+ "type": "TRC20",
+ "symbol": "BTCS",
+ "decimals": 18,
+ "status": "active",
+ "id": "TTHhn2DbDxDHc93j8Z2TzhT5SYS54LvgfE"
+}

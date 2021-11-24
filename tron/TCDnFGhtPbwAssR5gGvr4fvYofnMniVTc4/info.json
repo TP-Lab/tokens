@@ -1,0 +1,11 @@
+{
+ "name": "LF",
+ "website": "http://47.242.160.180:8055/",
+ "description": "基于区块链技术搭建去中心化、透明、可实现广告挖矿的共享广告平台",
+ "explorer": "https://tronscan.io/#/token20/TCDnFGhtPbwAssR5gGvr4fvYofnMniVTc4",
+ "type": "TRC20",
+ "symbol": "LF",
+ "decimals": 18,
+ "status": "active",
+ "id": "TCDnFGhtPbwAssR5gGvr4fvYofnMniVTc4"
+}

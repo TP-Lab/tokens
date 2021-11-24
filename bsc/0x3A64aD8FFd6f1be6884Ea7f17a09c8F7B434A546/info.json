@@ -1,0 +1,12 @@
+{
+    "name":"GOOFY",
+    "website":"https://bscscan.com/",
+    "description":"GOOFY will soon list the dongle of the BSC Binance ecological chain, which is a decentralized and spontaneous community-building token;
+Total issuance of 10,000 trillion.The PLUTO blockchain NFT product launched simultaneously, people can use GOOFY coins to buy NFT products in GOOFY store, and the purchase of products must be paid with GOOFY",
+  "explorer":"https://bscscan.com/token/0x3356473F97548509CA51036C0CC67a4DFFfB8080",
+    "type":"BEP20",
+    "symbol":"GOOFY",
+    "decimals":9,
+    "status":"active",
+    "id":"0x3356473F97548509CA51036C0CC67a4DFFfB8080"
+}

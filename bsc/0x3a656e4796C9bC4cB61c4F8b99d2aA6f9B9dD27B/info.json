@@ -1,0 +1,11 @@
+﻿{
+ "name": "Gold Rice Token",
+ "website": "http://www.k-star.cc",
+ "description": "Gold Rice Token is a digital token with gold minerals as an anchor, its value is supported by the reserves of gold minerals and the future mining volume of selected gold mines.",
+ "explorer": "https://bscscan.com/token/0x3a656e4796c9bc4cb61c4f8b99d2aa6f9b9dd27b",
+ "type": "BEP20",
+ "symbol": "GDRT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3a656e4796C9bC4cB61c4F8b99d2aA6f9B9dD27B"
+}

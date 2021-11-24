@@ -1,0 +1,11 @@
+{
+    "name": "WIZARD",
+    "website": "https://wizard.financial/",
+    "description": "WIZARD is a first-of-a-kind fantasy token and NFT ecosystem, which lets you explore the benefits of gaming and NFTs. ",
+    "explorer": "https://bscscan.com/token/0x5066c68cae3b9bdacd6a1a37c90f2d1723559d18",
+    "type": "BEP20",
+    "symbol": "WIZARD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5066C68cAe3B9BdaCD6A1A37c90F2d1723559D18"
+   }

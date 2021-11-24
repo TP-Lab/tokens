@@ -1,0 +1,11 @@
+{
+ "name": "GOODcoin",
+ "website": "http://www.goodtoken.cc",
+ "description": "区块链技术解决了长久以来困扰人类的中心化问题，GOOD COIN基于区块链技术，构建基于DEFI及NFT的生态系统，解决传统 金融的困境，打造一个安全、稳定、高效的智能合约，实现完全去 中心化的金融生态。",
+ "explorer": "https://hecoinfo.com/token/0x62B92132eb5078057203a15fCacBa07aaBf809DB",
+ "type": "HRC20",
+ "symbol": "GD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x62B92132eb5078057203a15fCacBa07aaBf809DB"
+}

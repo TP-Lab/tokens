@@ -1,0 +1,11 @@
+{
+  "name": "TAP",
+  "website": "https://21000.one/",
+  "description": "TAP",
+  "explorer": "https://bscscan.com/token/0xd919ADd5b7A56a5635E550572C8a470d7a49922b",
+  "type": "BEP20",
+  "symbol": "TAP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd919ADd5b7A56a5635E550572C8a470d7a49922b"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "PikachuSwap",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xa1E8756f6728Ee23040d3149F7aEb5A4F9c4268a",
+ "type": "BEP-20",
+ "symbol": "PKC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa1E8756f6728Ee23040d3149F7aEb5A4F9c4268a"
+}

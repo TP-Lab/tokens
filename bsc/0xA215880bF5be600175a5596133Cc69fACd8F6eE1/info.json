@@ -1,0 +1,11 @@
+{
+ "name": "LIGHT KOI",
+ "website": "https://www.koi.bio",
+ "description": "Koi.bio is a cross chain NFT collectibles based on the BSC(Binance Smart Chain) and Ethereum ERC721-Polkadot",
+ "explorer": "https://www.bscscan.com/token/0xA215880bF5be600175a5596133Cc69fACd8F6eE1",
+ "type": "BEP20",
+ "symbol": "LKOI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA215880bF5be600175a5596133Cc69fACd8F6eE1"
+}

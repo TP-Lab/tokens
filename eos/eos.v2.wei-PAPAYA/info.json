@@ -1,0 +1,11 @@
+{
+ "name": "Papaya Token",
+ "website": "http://v2.papaya.mobi",
+ "description": "This is a great social practice. It may fail, but once it succeeds it will be amazing! ",
+ "explorer": "https://eosflare.io/token/eos.v2.wei/PAPAYA",
+ "type": "EOS",
+ "symbol": "PAPAYA",
+ "decimals": 4,
+ "status": "active",
+ "id": "eos.v2.wei"
+}

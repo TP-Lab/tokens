@@ -1,0 +1,11 @@
+{
+ "name": "Bulldog",
+ "website": "http://Bulldog.com/",
+ "description": "provides investors with a fair, transparent and open trading environment, and provides an ecological value token.",
+ "explorer": "https://bscscan.com/token/0x8ee6639Ee48936d230F0CA99427FB4683Dca7C22",
+ "type": "BEP20",
+ "symbol": "Bulldog",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8ee6639Ee48936d230F0CA99427FB4683Dca7C22"
+}

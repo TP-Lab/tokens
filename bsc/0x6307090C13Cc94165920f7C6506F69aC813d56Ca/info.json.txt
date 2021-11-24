@@ -1,0 +1,11 @@
+{
+ "name": "Twin Shiba",
+ "website": "https://twinshiba.com/",
+ "description": "First Ever Triple-Burning Deflationary Token.",
+ "explorer": "https://bscscan.com/address/0x6307090C13Cc94165920f7C6506F69aC813d56Ca",
+ "type": "BEP20",
+ "symbol": "TSHIBA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6307090C13Cc94165920f7C6506F69aC813d56Ca"
+}

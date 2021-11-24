@@ -1,0 +1,10 @@
+{
+ "name": "Lion Coin",
+ "website": "-",
+ "explorer": "https://bscscan.com/token/0x4dee35f1f0a2504117ab65d238823f6fa4f9b6b3",
+ "type": "BEP20",
+ "symbol": "LionCoin",
+ "decimals": 18,
+ "status": "-",
+ "id": "0x4dee35f1f0a2504117ab65d238823f6fa4f9b6b3"
+}

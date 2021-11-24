@@ -1,0 +1,11 @@
+{
+ "name": "gcpc",
+ "website": "http://www.gcpctoken.info",
+ "description": "gcpc",
+ "explorer": "https://bscscan.com/token/0xcBAe8fb3f5a01bB3460d48177E675A41a1e21E50",
+ "type": "BEP20",
+ "symbol": "gcpc",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcBAe8fb3f5a01bB3460d48177E675A41a1e21E50"
+}

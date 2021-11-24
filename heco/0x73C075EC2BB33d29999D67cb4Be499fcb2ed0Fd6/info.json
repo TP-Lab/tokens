@@ -1,0 +1,11 @@
+﻿{
+"名称": "TAR Token",
+ "网站": "http://www.ater.one",
+ "描述": "TAR建立在火币生态链网络上去中心化Tokens通缩型持续数字资产.",
+"资源管理器":"https://hecoinfo.com/token/0x73c075ec2bb33d29999d67cb4be499fcb2ed0fd6",
+ "类型": "HRC-20",
+ "符号": "TAR",
+ "小数": 18,
+ "状态": "活动",
+ "id": "0x73C075EC2BB33d29999D67cb4Be499fcb2ed0Fd6"
+}

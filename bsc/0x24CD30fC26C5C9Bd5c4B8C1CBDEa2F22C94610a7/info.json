@@ -1,0 +1,11 @@
+{
+ "name": "VpayCoin",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading  wallet that supports  VpayCoin and so on.",
+ "explorer": "https://bscscan.com/token/0x24CD30fC26C5C9Bd5c4B8C1CBDEa2F22C94610a7",
+ "type": "BEP20",
+ "symbol": "VPC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x24CD30fC26C5C9Bd5c4B8C1CBDEa2F22C94610a7"
+}

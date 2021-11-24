@@ -1,0 +1,11 @@
+{
+ "name": "Knight",
+ "website": "https://www.smartcontract.ink",
+ "description": "Knight (KKC) is a digital asset issued by the Knight Foundation of the United States based on the Ethereum ERC-20 protocol.",
+ "explorer": "https://etherscan.io/token/0x025b66Da9b2fcD96B947e465E7b975D9182322C7",
+ "type": "ERC20",
+ "symbol": "KKC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x025b66Da9b2fcD96B947e465E7b975D9182322C7"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BTCDEFI",
+ "website": "btcdefi.vip",
+ "description": "BTCDEFI",
+ "explorer": "https://hecoinfo.com/token/0x47B6bD10808E109D5bf11Dc7459D11c8fD5d2499",
+ "type": "HRC-2",
+ "symbol": "BTCDEFI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x47B6bD10808E109D5bf11Dc7459D11c8fD5d2499"
+}
