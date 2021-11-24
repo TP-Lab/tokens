@@ -1,0 +1,11 @@
+{
+ "name": "Ready Player One",
+ "website": "http://www.rpotoken.com",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/address/0xe2e590a73b49383dd2dd2df8fd89ed3ac20b688f",
+ "type": "HRC-20",
+ "symbol": " RPO",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xe2e590a73b49383DD2DD2dF8Fd89ED3aC20b688f"
+} 
