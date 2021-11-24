@@ -1,7 +1,7 @@
 {
  "name": "Sauna Token",
- "website": "",
- "description": "A Sauna Token",
+ "website": "https://bscscan.com/token/0xffff06da017bdf62773f2bbfc7252ac3a9664e97",
+ "description": "Sauna Token",
  "explorer": "https://bscscan.com/token/0xffff06da017bdf62773f2bbfc7252ac3a9664e97",
  "type": "BEP20",
  "symbol": "XYC",
