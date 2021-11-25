@@ -1,0 +1,11 @@
+{
+ "name": "Steam Continent",
+ "website": "http://www.steamcontinent.ee/",
+ "description": "SteamChain is a public chain born to build a Steam continent meta-universe chain game platform. It is jointly created by blockchain technology geeks and game developers from all over the world, such as South Korea, the United States, and Southeast Asia.",
+ "explorer": "https://www.bscscan.com/token/0x929ff1bd5ea25e18c9916b6d0c59a380799e2316",
+ "type": "BEP20",
+ "symbol": "SCC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x929ff1bd5ea25e18c9916b6d0c59a380799e2316"
+}
