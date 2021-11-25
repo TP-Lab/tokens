@@ -1,11 +1,12 @@
 {
- "name": "GOAT Token",
- "website": "http://www.goatfinance.io",
- "description": "GOAT-Open a new world of metaverse",
- "explorer": "https://bscscan.com/token/0xb1033Fce0bA6415f60FD592f90BE10580bC39830",
+ "name": "NFLA",
+ "website": "",
+ "description": "NFLA token is a new token on Binance Smart Chain network. We want to help animals, forests and humans that be hurt by wildfires.",
+ "explorer": "https://bscscan.com/token/0x3b9Bac7808a713EFe5e3F48B6058762aef45d9F8",
  "type": "BEP20",
- "symbol": "GOAT",
- "decimals": 8,
+ "symbol": "NFLA",
+ "decimals": 9,
  "status": "active",
- "id": "0xb1033Fce0bA6415f60FD592f90BE10580bC39830"
+ "id": "0x3b9Bac7808a713EFe5e3F48B6058762aef45d9F8
+"
 }
