@@ -1,0 +1,11 @@
+{
+ "name": "CowToken",
+ "website": "cowtoken.io",
+ "description": "CowToken is a community-driven cryptocurrency which aridrops 50% of total circulation to 10 million addresses.",
+ "explorer": "https://bscscan.com/token/0xd81789a7de517b25c09ac9d0f0c0340ce4e70e6e",
+ "type": "BEP20",
+ "symbol": "COW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd81789A7dE517b25C09Ac9D0F0C0340cE4E70e6e"
+}

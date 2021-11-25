@@ -1,0 +1,11 @@
+{
+ "name": "ALD",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0xF29D84b45FEf8b0ab4abD1e0e1E115b5D1d2DDFb",
+ "type": "BSC20",
+ "symbol": "ALD",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xF29D84b45FEf8b0ab4abD1e0e1E115b5D1d2DDFb"
+}

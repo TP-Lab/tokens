@@ -1,0 +1,12 @@
+{
+    "name": "CMPY",
+    "website": "https://cymonpay.com/",
+    "description": "CyMon Pay is an online payment system supported by blockchain. It provides global merchants with an e-commerce blockchain payment platform to realize cross-border real-time payment, fund clearing, query statistics and other functions. To provide global merchants with a more convenient tool for online transactions, and a bridge connecting consumers, merchants and financial institutions.",
+    "explorer": "https://bscscan.com/token/0x7c277c2ABEa65cD4088063F51A74A125cE50724E",
+    "type": "BEP20",
+    "symbol": "CMPY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7c277c2ABEa65cD4088063F51A74A125cE50724E"
+   }
+   

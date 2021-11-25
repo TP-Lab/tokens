@@ -1,0 +1,11 @@
+{
+ "name": "AlvareNet",
+ "website": "https://alvare.net",
+ "description": "Finanz P2P, Vault, SniperBot",
+ "explorer": "https://www.bscscan.com/address/0x2488f8ce316cfaa9d9094c87fff02e4552ac2dbd",
+ "type": "BEP20",
+ "symbol": "ALVN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2488f8ce316cFaa9D9094C87fFf02E4552aC2dbD"
+}
