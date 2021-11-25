@@ -1,0 +1,11 @@
+{
+  "name": "Dogecoin Meta Token",
+  "website": "hhttp://dogecoinmeta.info/",
+  "description": "Dogecoin meta is a large-scale beyond the universe game developed by the original dogcoin technical team. It will be listed on BSC smart chain on November 20, 2021 and can be traded in panckeswap; On February 14, 2022, it will be listed in the top three exchanges.",
+  "explorer": "https://bscscan.com/token/0x81A0d88A60389e244c05aF800d2E4C4507a5b0e6",
+  "type": "BEP20",
+  "symbol": "Dogo",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x81A0d88A60389e244c05aF800d2E4C4507a5b0e6"
+}
