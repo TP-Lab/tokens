@@ -1,0 +1,11 @@
+{
+ "name": "BOHU",
+ "website": "http://www.bpbp.club",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/address/0x7dee02e74b00b1593cd338da03f96dd02888ef26",
+ "type": "BEP20",
+ "symbol": "BOHU",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x7dee02e74b00b1593cd338da03f96dd02888ef26"
+}
