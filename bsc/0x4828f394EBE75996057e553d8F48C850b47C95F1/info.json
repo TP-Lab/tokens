@@ -1,0 +1,11 @@
+{
+ "name": "MetaBaby",
+ "website": "",
+ "description": "MetaBaby token is a new token on Binance Smart Chain network. We want to help animals, forests and humans that be hurt by MetaBaby.",
+ "explorer": "https://bscscan.com/token/0x4828f394EBE75996057e553d8F48C850b47C95F1",
+ "type": "BEP20",
+ "symbol": "MetaBaby",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4828f394EBE75996057e553d8F48C850b47C95F1"
+}
