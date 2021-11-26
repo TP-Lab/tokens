@@ -1,0 +1,11 @@
+{
+    "name": "LuckyBull",
+    "website": "http://luckybull.me",
+    "description": "LuckyBull is an innovative Defi App, fully autonomous by the community. Swapping the token will get crit bonus.",
+    "explorer": "https://bscscan.com/token/0x2faa35df8d0c7345c0809d6f16df8673441e73d5",
+    "type": "BEP20",
+    "symbol": "LuckyBull",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x2Faa35df8d0C7345c0809D6f16Df8673441E73D5"
+}

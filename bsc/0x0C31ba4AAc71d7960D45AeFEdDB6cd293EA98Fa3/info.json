@@ -1,0 +1,11 @@
+﻿{
+"name": "RocketCat",
+"website": "http://www.rocketcatgames.com/",
+"description": "A value token for RocketCat game publishers, liut for launching new games in the NFT field.",
+"explorer":"https://bscscan.com/token/0x0c31ba4aac71d7960d45aefeddb6cd293ea98fa3",
+"type": "BEP20",
+"symbol": "RocketCat",
+"decimals": 18,
+"status": "active",
+"id": "0x0C31ba4AAc71d7960D45AeFEdDB6cd293EA98Fa3"
+}

@@ -1,0 +1,10 @@
+{
+ "name": "Crazy Baby Safe Doge Moon Token",
+ "website": "https://tokenpocket.pro",
+ "description": "Crazy Baby Safe Doge Moon Token.",
+ "explorer": "https://bscscan.com/token/0x5e96779ca50CDE5d7442E198cDDc367a51aD6eBa",
+ "type": "BEP20",
+ "symbol": "CrazyBabySafeDogeMoon",
+ "decimals": 9,
+ "id": "0x5e96779ca50CDE5d7442E198cDDc367a51aD6eBa"
+}

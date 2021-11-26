@@ -1,0 +1,11 @@
+{
+ "name": "SADAI Token",
+ "website": "http://www.sadai.org",
+ "description": "印尼国会审核通过国家冶炼工业发展提案，将沙代工业园区视为邦加勿里洞省最适合开发之工业要地，将园区正式定为“印尼国家产业区块链示范区”，以沙代工业园为背景发行的SADAI币由印尼政府背书，全面建设相关的一系列开发计划及政策",
+ "explorer": "https://hecoinfo.com/token/0x5aadc3524efe110ae699cd4f63e12a92de35e83f",
+ "type": "HECO",
+ "symbol": "SADAI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5AAdc3524Efe110ae699Cd4F63e12A92De35e83f"
+}

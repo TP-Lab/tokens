@@ -1,0 +1,11 @@
+{
+ "name": "Papa Doge Coin",
+ "website": "https://www.papadoge.space",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xbceee918077f63fb1b9e10403f59ca40c7061341",
+ "type": "BEP20",
+ "symbol": "PAPADOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbceee918077f63fb1b9e10403f59ca40c7061341"
+} 

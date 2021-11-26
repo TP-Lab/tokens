@@ -1,0 +1,12 @@
+{
+ "name": "Paragon Token",
+ "website": "https://paragon.cool",
+ "description": "Paragon Protocol——Activate the value of high-quality NFT assets.
+Sharding the NFT through Paragon protocol, allowing people to share the value of liquidity",
+ "explorer": "https://bscscan.com/address/0x1e18355fa6b7151999a836ffa34453b78c2b68ed",
+ "type": "BEP20",
+ "symbol": "PAR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1e18355FA6b7151999A836ffa34453b78c2b68Ed"
+}

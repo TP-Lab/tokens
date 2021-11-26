@@ -1,0 +1,41 @@
+{
+    "name": "Save Ralph", 
+    "website": "https://www.saveralphtoken.com/", 
+    "short_description": "Save Ralph Token is building an ecosystem and helping animals that are being abused and used for experiments.", 
+    "description": "Save Ralph Token is a meme currency created in the Binance Smart Chain network, its main objective is to be an ecosystem where we can have a swap and trade nfts tokens, we also aim to be an intermediary to raise funds to help animals that are being abused and used for experiments.", 
+    "type": "BEP20", 
+    "symbol": "Ralph", 
+    "decimals": 18, 
+    "status": "active", 
+    "socials": [
+        {
+            "name": "Twitter", 
+            "url": "https://twitter.com/RalphToken"
+        }, 
+        {
+            "name": "Medium", 
+            "url": "https://saveralphtoken.medium.com/"
+        }, 
+        {
+            "name": "Telegram", 
+            "url": "https://t.me/Saveralphtoken"
+        }, 
+        {
+            "name": "Reddit", 
+            "url": "https://www.reddit.com/user/saveralphtoken/"
+        }, 
+        {
+            "name": "Github", 
+            "url": "https://github.com/saveralph"
+        }, 
+        {
+            "name": "Discord", 
+            "url": "https://discord.gg/9ZjFH7wA"
+        }, 
+        {
+            "name": "CoinMarketCap", 
+            "url": "https://coinmarketcap.com/currencies/save-ralph/"
+        }
+    ], 
+    "explorer": "https://bscscan.com/token/0x02618C556d075D2C5ACA9021Be2773764969bb51"
+}

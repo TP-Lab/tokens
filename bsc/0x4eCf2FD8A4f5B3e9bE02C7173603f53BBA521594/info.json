@@ -1,0 +1,11 @@
+{
+ "name": "CLASSIC TOM AND JERRY",
+ "website": "http://www.ctjcoin.org",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0x4eCf2FD8A4f5B3e9bE02C7173603f53BBA521594",
+ "type": "BEP20",
+ "symbol": "CTJ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4eCf2FD8A4f5B3e9bE02C7173603f53BBA521594"
+}

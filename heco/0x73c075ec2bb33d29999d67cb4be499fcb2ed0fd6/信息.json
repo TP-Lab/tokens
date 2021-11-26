@@ -1,0 +1,10 @@
+{
+    "name": "TAR Token",
+    "website": "http://www.ater.one",
+    "description":"Tar builds decentralized Tokens, deflation-based, sustainable digital assets on the web of the Huobi eco-chain",
+    "explorer": "https://hecoinfo.com/token/0x73c075ec2bb33d29999d67cb4be499fcb2ed0fd6",
+    "type": "HRC-20",
+    "symbol": "TAR",
+    "decimals":18,
+    "status": "active",
+    "id": "0x73C075EC2BB33d29999D67cb4Be499fcb2ed0Fd6"

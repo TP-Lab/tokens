@@ -1,0 +1,11 @@
+{
+ "name": "DUCK",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x6cAdE144F845358f86ee26E149e133581D455C7D",
+ "type": "ERC20",
+ "symbol": "DUCK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6cAdE144F845358f86ee26E149e133581D455C7D"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "POLYSHIBA INU",
+ "website": "https://tokenpocket.pro",
+ "description": "MATIC(Polygon)",
+ "explorer": "https://polygonscan.com/token/0x6ca4cd8873db45596c915268fc737994933d8a27",
+ "type": "MATIC",
+ "symbol": "POLYSHIB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6ca4cd8873db45596c915268fc737994933d8a27"
+}

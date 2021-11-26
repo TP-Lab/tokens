@@ -1,0 +1,11 @@
+{
+ "name": "English For Commerce",
+ "website": "https://englishthank.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/address/0x877887822ac83a3dc82430d49f679bc8b37c7380",
+ "type": ""HRC-20",
+ "symbol": "EFC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x877887822aC83a3Dc82430D49F679BC8b37C7380"
+}

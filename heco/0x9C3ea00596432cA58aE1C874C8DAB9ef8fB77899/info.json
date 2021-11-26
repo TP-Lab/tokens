@@ -1,0 +1,11 @@
+{
+ "name": "KOK",
+ "website": "https://www.KOK.com",
+ "description": "Kok is a smart contract token issued on the basis of the HECO ecological chain. The goal is to serve as an indicator of the burning cost in the mining ecological chain, making the ecological energy consumption on the whole chain more reference.",
+ "explorer": "https://hecoinfo.com/token/0x9C3ea00596432cA58aE1C874C8DAB9ef8fB77899",
+ "type": "HRC-20",
+ "symbol": "KOK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9C3ea00596432cA58aE1C874C8DAB9ef8fB77899"
+}

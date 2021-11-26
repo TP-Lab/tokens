@@ -1,0 +1,11 @@
+{
+ "name": "Pepe Coin",
+ "website": "https://pepecoin.club",
+ "description": "The sad frog Pepe, hopes to become the new king of meme through a good mechanism, so the number of whales that can purchase is reduced to less than 1%, and each transaction, 4% is used for distribution and 2% used for lottery, 1% is put into Lp, 1% is used for marketing.",
+ "explorer": "https://bscscan.com/token/0xedc8d7383dffaa123812eb3343d8cb7105894989",
+ "type": "BEP20",
+ "symbol": "PEPECOIN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xedc8d7383dffaa123812eb3343d8cb7105894989"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Baby Pig",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x038fb4a177eFd29E468C4a0633f538A4426cE94B",
+ "type": "BEP20",
+ "symbol": "BabyPig",
+ "decimals": 2,
+ "status": "active",
+ "id": "0x038fb4a177eFd29E468C4a0633f538A4426cE94B"
+}

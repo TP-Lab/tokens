@@ -1,0 +1,10 @@
+{
+ "name": "Lucky Cat Token",
+ "website": "https://tokenpocket.pro",
+ "description": "Lucky Cat Token.",
+ "explorer": "https://bscscan.com/token/0xE7bB727BdB5e92210A842f76011eA05C5f24520e",
+ "type": "BEP20",
+ "symbol": "LuckyCat",
+ "decimals": 9,
+ "id": "0xE7bB727BdB5e92210A842f76011eA05C5f24520e"
+}

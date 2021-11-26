@@ -1,0 +1,11 @@
+{
+ "name": "gameX Token",
+ "website": "https://gamex.org.cn",
+ "description": "gameX",
+ "explorer": "https://hecoinfo.com/token/0x6aDB0403B67Afe5453a814AD3B2f35aB3F223191#balances",
+ "type": "HRC-20",
+ "symbol": "GMX",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x6aDB0403B67Afe5453a814AD3B2f35aB3F223191"
+}

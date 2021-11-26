@@ -1,0 +1,11 @@
+{
+ "name": "Munch Token",
+ "website": "https://munchproject.io/",
+ "description": "Munch是一个来自英国的跨链慈善项目，在第一个月就为慈善机构捐赠了270万美元，Munch正在重新定义慈善和筹款。交易手续费5%会重新分配给持币用户，5%捐赠给社区选择的慈善机构。",
+ "explorer": "https://bscscan.com/token/0xC70636a779118e57E1c6fdAfDd1f919Fae912d2f",
+ "type": "BEP20",
+ "symbol": "Munch",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC70636a779118e57E1c6fdAfDd1f919Fae912d2f"
+}

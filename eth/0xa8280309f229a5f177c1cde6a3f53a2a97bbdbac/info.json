@@ -1,0 +1,11 @@
+{
+ "name": "Shiba Shabu",
+ "website": "https://www.shibashabu.com",
+ "description": "Shiba Shabu - project with a product ecosystem to accelerate the adoption of meme tokens and disrupt traditional finance.",
+ "explorer": "https://etherscan.io/token/0xa8280309f229a5f177c1cde6a3f53a2a97bbdbac",
+ "type": "ERC20",
+ "symbol": "SHIBSHABU",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xa8280309f229a5f177c1cde6a3f53a2a97bbdbac"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Power Ball",
+ "website": "https://ampowerball.jp",
+ "description": "this project is want to save the poor world on HECO.",
+ "explorer": "https://hecoinfo.com/token/0x30726a565B63c6b2C4ea6e10897D5F6ba49A7e6B",
+ "type": "HRC-20",
+ "symbol": "PBC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x30726a565B63c6b2C4ea6e10897D5F6ba49A7e6B"
+}

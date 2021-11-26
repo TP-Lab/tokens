@@ -1,0 +1,11 @@
+{
+	 "name": "Wakanium Token",
+	 "website": "https://wakanium.com",
+	 "description": "Wakanium is a DeFi and NFT protocol-based technology focusing on Yield Farming that runs on the BSC and so on.",
+	 "explorer": "https://bscscan.com/token/0xaf36a205Fe0459D243122987FAc5AA56b88E8a04",
+	 "type": "BEP20",
+	 "symbol": "WKI",
+	 "decimals": 18,
+	 "status": "active",
+	 "id": "0xaf36a205Fe0459D243122987FAc5AA56b88E8a04"
+	}

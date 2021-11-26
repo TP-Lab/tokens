@@ -1,0 +1,12 @@
+{
+ "name": "ART Chain",
+ "website": "https://www.artchainnft.com/",
+ "description": "ART is a Chain based on BEP (BSC) network hair completely decentralized community autonomy tokens, pre-sales tokens chips by dispersed in each user's hands, scrip model intelligent written into the contract without zhuang and large manipulation can't tamper with the decision, is a 100% circulation in the market to build the value of tokens by community consensus.
+",
+ "explorer": "https://bscscan.com/token/0xe97364f13Fc8f40B0ab372a51b645a648f091483",
+ "type": "BEP20",
+ "symbol": "ART",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe97364f13Fc8f40B0ab372a51b645a648f091483"
+}

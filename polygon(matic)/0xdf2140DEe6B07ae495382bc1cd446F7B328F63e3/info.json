@@ -1,0 +1,11 @@
+{
+ "name": "Polygon BabyDoge",
+ "website": "https://polybabydoge.online",
+ "description": "We are building strong ecosystem including dencentralized exchange (DEX), NFT market and BSC-Polygon cross-chain bridge.",
+ "explorer": "https://polygonscan.com/token/0xdf2140DEe6B07ae495382bc1cd446F7B328F63e3",
+ "type": "Polygon",
+ "symbol": "PolyBabyDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xdf2140DEe6B07ae495382bc1cd446F7B328F63e3"
+}

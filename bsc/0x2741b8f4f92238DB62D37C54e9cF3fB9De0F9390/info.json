@@ -1,0 +1,11 @@
+{
+ "name": "MiniDoggy",
+ "website": "https://minidoggy.finance",
+ "description": "MiniDoggy, The World's first Auto-Boost, Hyper Deflationary Coin. Every buy gives members more with the auto-boost and hyper deflation system in place.",
+ "explorer": "https://bscscan.com/token/0x2741b8f4f92238DB62D37C54e9cF3fB9De0F9390",
+ "type": "BEP20",
+ "symbol": "MiniDoggy",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2741b8f4f92238DB62D37C54e9cF3fB9De0F9390"
+}

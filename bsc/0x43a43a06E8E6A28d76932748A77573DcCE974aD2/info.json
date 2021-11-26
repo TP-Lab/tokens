@@ -1,0 +1,11 @@
+{
+ "name": "AlbCoin on xDai from xDai",
+ "website": "https://albcoin.org/",
+ "description": "AlbCoin on xDai from xDai is AlbCoin bridged from the xDai Chain to the Binance Smartchain ",
+ "explorer": "https://bscscan.com/token/0x43a43a06e8e6a28d76932748a77573dcce974ad2",
+ "type": "BEP20",
+ "symbol": "ALBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x43a43a06e8e6a28d76932748a77573dcce974ad2"
+}

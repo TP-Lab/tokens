@@ -1,0 +1,11 @@
+{
+ "name": "Decentralized financial bank",
+ "website": "http://www.dfb.org/",
+ "description": "DFB是基于DEFI和NFT的DAO的社区治理代币.",
+ "explorer": "https://tronscan.org/#/token20/TCozMKHZRWyqtmdudgFfEUoUiaWEBQovZe",
+ "type": "TRC20",
+ "symbol": "DFB",
+ "decimals": 6,
+ "status": "active",
+ "id": "TCozMKHZRWyqtmdudgFfEUoUiaWEBQovZe"
+}

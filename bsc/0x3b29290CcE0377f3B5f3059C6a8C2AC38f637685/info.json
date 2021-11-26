@@ -1,0 +1,11 @@
+{
+ "name": "Fighting Chicken",
+ "website": "https://www.fighting-chicken.com/",
+ "description": "Fixing chicken on BSC chain.",
+ "explorer": "https://bscscan.com/token/0x3b29290CcE0377f3B5f3059C6a8C2AC38f637685",
+ "type": "BEP20",
+ "symbol": "FC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3b29290CcE0377f3B5f3059C6a8C2AC38f637685"
+}

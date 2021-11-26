@@ -1,0 +1,11 @@
+{
+ "name": "Wildfire Token",
+ "website": "https://wildfiretoken.xyz",
+ "description": "Wildfire token is a new token on Binance Smart Chain network. We want to help animals, forests and humans that be hurt by wildfires.",
+ "explorer": "https://bscscan.com/token/0xbb58f5c1c7521f6da845b76c75081505254377d7",
+ "type": "BEP20",
+ "symbol": "WILDF",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xbb58f5c1c7521f6da845b76c75081505254377d7"
+}

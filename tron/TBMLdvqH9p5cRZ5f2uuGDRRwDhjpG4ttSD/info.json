@@ -1,0 +1,11 @@
+{
+ "name": "BOT",
+ "website": "无",
+ "description": "BOT是基于波场发行的代币，永不增发，未来价值巨大",
+ "explorer": "https://tronscan.io/#/token20/TBMLdvqH9p5cRZ5f2uuGDRRwDhjpG4ttSD",
+ "type": "TRC20",
+ "symbol": "BOT",
+ "decimals": 6,
+ "status": "active",
+ "id": "TBMLdvqH9p5cRZ5f2uuGDRRwDhjpG4ttSD"
+}

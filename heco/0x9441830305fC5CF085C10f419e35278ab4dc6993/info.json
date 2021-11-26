@@ -1,0 +1,11 @@
+﻿{
+ "name": "Tom and Jerry Coin",
+ "website": "https://weibo.com/u/7624809744",
+ "description": "Tom and Jerry, the world famous game, TJB, is a small token tool for community games.",
+ "explorer": "https://hecoinfo.com/token/0x9441830305fC5CF085C10f419e35278ab4dc6993",
+ "type": "HRC20",
+ "symbol": "TJB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9441830305fC5CF085C10f419e35278ab4dc6993"
+}

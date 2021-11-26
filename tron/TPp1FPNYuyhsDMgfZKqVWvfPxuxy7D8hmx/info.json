@@ -1,0 +1,11 @@
+{
+ "name": "XiangRiKui Token",
+ "website": "https://tronscan.io/",
+ "description": "XRK向日葵是基于波场链发型的新型defi去中心化金融协议通证。以XRK为中心，同时将defi去中心化金融和NFT非同质化代币协议算法、记账权益、链上资产管理等领域实现同步应用.",
+ "explorer": "https://tronscan.io/#/token20/TPp1FPNYuyhsDMgfZKqVWvfPxuxy7D8hmx/code",
+ "type": "TRC20",
+ "symbol": "XRK",
+ "decimals": 6,
+ "status": "active",
+ "id": "TPp1FPNYuyhsDMgfZKqVWvfPxuxy7D8hmx"
+}

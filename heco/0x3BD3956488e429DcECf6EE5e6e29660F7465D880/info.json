@@ -1,0 +1,11 @@
+{
+  "name": "ZBC Token",
+  "website": "https://zbc.la",
+  "description": "A circulation token of the cross-chain ecosystem, based on ETH、BSC、HECO and its mainnet ZBC Chain",
+  "explorer": "https://hecoinfo.com/token/0x3bd3956488e429dcecf6ee5e6e29660f7465d880",
+  "type": "HRC-20",
+  "symbol": "ZBC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3bd3956488e429dcecf6ee5e6e29660f7465d880"
+}

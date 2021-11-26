@@ -1,0 +1,11 @@
+{
+ "name": "Uncle Doge",
+ "website": "https://uncledoge.net",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xd2618bc9c9cdc40ff19e200a7d14a09799c0a152",
+ "type": "BEP20",
+ "symbol": "UDOGE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd2618bc9c9cdc40ff19e200a7d14a09799c0a152"
+} 

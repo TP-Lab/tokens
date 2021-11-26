@@ -1,0 +1,11 @@
+{
+ "name": "LieDowner",
+ "website": "https://liedown.cc",
+ "description": ""Lie Down" is a smart attitude towards life.",
+ "explorer": "https://bscscan.com/token/0xaf2a6b2aac280cd312875132003402f60549ade3",
+ "type": "BEP20",
+ "symbol": "LD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaf2a6b2aac280cd312875132003402f60549ade3"
+}

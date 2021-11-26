@@ -1,0 +1,11 @@
+{
+ "name": "OlympicTorch",
+ "website": "-",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0x7399Ede7449E13b0B0CAD4a95ed3cab9c977b3E6",
+ "type": "BEP20",
+ "symbol": "OlympicTorch",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7399Ede7449E13b0B0CAD4a95ed3cab9c977b3E6"
+}

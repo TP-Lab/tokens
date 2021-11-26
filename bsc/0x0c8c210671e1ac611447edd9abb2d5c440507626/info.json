@@ -1,0 +1,11 @@
+{
+  "name": "Bun",
+  "website": "http://bun-bsc.surge.sh/",
+  "description": "BUN is a great project that only needs to hold BUN to get BNB.",
+  "explorer": "https://bscscan.com/token/0x0c8c210671e1ac611447edd9abb2d5c440507626",
+  "type": "BEP20",
+  "symbol": "bun",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0c8c210671e1ac611447edd9abb2d5c440507626"
+}

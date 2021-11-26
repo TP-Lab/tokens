@@ -1,0 +1,11 @@
+{
+ "name": "BABYUNI",
+ "website": "https://www.babyuni.io/",
+ "description": "The first UNI reflection token on the Binance smart chain.",
+ "explorer": "https://bscscan.com/token/0x4e7f41b1495f024668eff303dcec76389a636da1",
+ "type": "BEP20",
+ "symbol": "BABYUNI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4e7f41b1495f024668eff303dcec76389a636da1"
+}

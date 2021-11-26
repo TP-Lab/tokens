@@ -1,0 +1,11 @@
+{
+ "name": "LUCKY DOGE",
+ "website": "https://www.luckydoge.tk",
+ "description": "This project will be considered, studied and issued by DOGE foreign community,  driven by 100% autonomous community. The project will set up a series of mechanisms such as DOGE prize pool, distribute DOGE token reward holders, and promote LUD and DOGE to land on the moon together",
+ "explorer": "https://bscscan.com/token/0x9c54cd9d50ec8d10974b2e8a9056cfa37f679273",
+ "type": "BEP20",
+ "symbol": "LUD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9C54Cd9D50eC8d10974B2E8a9056CFA37F679273"
+}

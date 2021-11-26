@@ -1,0 +1,11 @@
+{
+ "name": "FarToken",
+ "website": "https://far-portal.live",
+ "description": "FAREcosystem is a blockchain decentralized financial platform. It was first launched on the Binance Smart Chain, and then gradually launched on the HECO, OKENCHAIN and UNISWAP. Finally it will be launched on the self-built FARSWAP.",
+ "explorer": "https://bscscan.com/token/0xa0eCAf5Edf5df69edC7768DA897dCeA7D0c8e526",
+ "type": "BEP20",
+ "symbol": "FAR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa0eCAf5Edf5df69edC7768DA897dCeA7D0c8e526"
+}

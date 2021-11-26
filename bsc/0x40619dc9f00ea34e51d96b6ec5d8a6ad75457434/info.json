@@ -1,0 +1,11 @@
+{
+    "name": "1Doge",
+    "website": "https://1doge.io/",
+    "description": "1Doge is a comprehensive platform with Static reflection and play to earn gaming mechanisms to enable gamers from all over the world experience Gaming and NFT on the blockchain.",
+    "explorer": "https://bscscan.com/token/0x40619dc9f00ea34e51d96b6ec5d8a6ad75457434",
+    "type": "BEP20",
+    "symbol": "1Doge",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x40619dc9f00ea34e51d96b6ec5d8a6ad75457434"
+   }

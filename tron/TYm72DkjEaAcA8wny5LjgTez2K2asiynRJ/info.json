@@ -1,0 +1,11 @@
+{
+ "name": "Scaler token",
+ "website": "https://slrtoken.xyz",
+ "description": "纪念各领域奇迹缔造的先行者 以鼓励人们勇于攀登创造精神",
+ "explorer": "https://tronscan.org/#/token20/TYm72DkjEaAcA8wny5LjgTez2K2asiynRJ",
+ "type": "TRC20",
+ "symbol": "SLR",
+ "decimals": 18,
+ "status": "active",
+ "id": "TYm72DkjEaAcA8wny5LjgTez2K2asiynRJ"
+}

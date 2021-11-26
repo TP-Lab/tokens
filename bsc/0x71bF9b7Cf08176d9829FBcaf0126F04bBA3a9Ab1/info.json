@@ -1,0 +1,11 @@
+{
+ "name": "Santa Dog",
+ "website": "https://santadog.xyz/",
+ "description": "An innovative protocol token that can achieve large purchase rewards and keep transactions always present",
+ "explorer": "https://bscscan.com/token/0x71bF9b7Cf08176d9829FBcaf0126F04bBA3a9Ab1",
+ "type": "BEP20",
+ "symbol": "STG",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x71bF9b7Cf08176d9829FBcaf0126F04bBA3a9Ab1"
+} 

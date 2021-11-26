@@ -1,0 +1,11 @@
+{
+  "name": "Xiongmaoren Token",
+  "website": "http://xiongmaoren.club",
+  "description": "熊猫人行情是国内专注区块链底层数据咨询分析平台，汇集币圈底层的数字资源，提供一级市场的新项目动态，新币种的趋势分析评测等服务，收录国内百家数字社区，提供多维度数据分析。XMB用于整个生态的工作证明机制，xmb将会成为熊猫人行情付费唯一积分。",
+  "explorer": "https://hecoinfo.com/token/0x68Ae8685c6c61c0cBAe6dBcFE1b24f1201e0D595",
+  "type": "HRC-20",
+  "symbol": "XMB",
+  "decimals": 5,
+  "status": "active",
+  "id": "0x68Ae8685c6c61c0cBAe6dBcFE1b24f1201e0D595"
+}

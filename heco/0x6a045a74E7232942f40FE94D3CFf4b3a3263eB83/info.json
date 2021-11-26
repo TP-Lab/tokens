@@ -1,0 +1,11 @@
+{
+ "name": "OX Token",
+ "website": "https://oxtoken.org",
+ "description": "OX is a deflationary coin designed to become scarcer over time.",
+ "explorer": "https://hecoinfo.com/address/0x6a045a74E7232942f40FE94D3CFf4b3a3263eB83",
+ "type": "BEP20",
+ "symbol": "OX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6a045a74E7232942f40FE94D3CFf4b3a3263eB83"
+}

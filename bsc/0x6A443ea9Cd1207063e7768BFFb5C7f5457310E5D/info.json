@@ -1,0 +1,11 @@
+{
+ "name": "Canis",
+ "website": "https://www.canis.cn",
+ "description": "Canis犬.",
+ "explorer": "https://bscscan.com/token/0x6A443ea9Cd1207063e7768BFFb5C7f5457310E5D",
+ "type": "BEP20",
+ "symbol": "Canis",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6A443ea9Cd1207063e7768BFFb5C7f5457310E5D"
+}

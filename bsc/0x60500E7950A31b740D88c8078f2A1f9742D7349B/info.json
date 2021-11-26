@@ -1,0 +1,11 @@
+{
+    "name": "GOD Protocol",
+    "website": "https://g-o-d.money",
+    "description": "GOD Protocol is a fair-launched, hyper-yield DeFi Protocol on BSC focusing on decentralized redistribution, ROI optimization, and anti- mechanisms.",
+    "explorer": "https://bscscan.com/token/0x60500e7950a31b740d88c8078f2a1f9742d7349b",
+    "type": "BEP20",
+    "symbol": "GOD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x60500E7950A31b740D88c8078f2A1f9742D7349B"
+   }

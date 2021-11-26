@@ -1,0 +1,11 @@
+{
+ "name": "FCN Token",
+ "website": "http://www.fcntoken.com/",
+ "description": "FCN是基于BSC生态发行代币 每笔交易销毁百分之一.",
+ "explorer": "https://bscscan.com/token/0xa03706Caf95Daf033eFa98f5E200a7544f81b19D",
+ "type": "BEP20",
+ "symbol": "FCN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa03706Caf95Daf033eFa98f5E200a7544f81b19D"
+}

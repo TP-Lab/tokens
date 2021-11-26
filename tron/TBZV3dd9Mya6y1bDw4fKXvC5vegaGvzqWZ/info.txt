@@ -1,0 +1,11 @@
+{
+ "name": "Synthetize",
+ "website": "https://tronscan.io/",
+ "description": "Synthetize（简称SNZ)是搭建在Polkdot链上去中心化数据的NFT云平台，针对NFT服务数据集成，数据协作进行优化。使用SNZ区块链创建精美文化收藏品NFT，每个SNZ都有一个真正独立的NFT技术支持.",
+ "explorer": "https://tronscan.io/#/token20/TBZV3dd9Mya6y1bDw4fKXvC5vegaGvzqWZ",
+ "type": "TRC20",
+ "symbol": "SNZ",
+ "decimals": 18,
+ "status": "active",
+ "id": "TBZV3dd9Mya6y1bDw4fKXvC5vegaGvzqWZ"
+}

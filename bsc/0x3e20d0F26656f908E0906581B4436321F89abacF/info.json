@@ -1,0 +1,11 @@
+{
+    "name": "SafeCat",
+    "website": "https://safecat.space",
+    "description": "Autonomous yield and liquidity generation protocol. SafeCat has a locked LP, industry standard security and best-in-the-market tokenomics system. Simply HODL and reap the rewards.",
+    "explorer": "https://bscscan.com/token/0x3e20d0f26656f908e0906581b4436321f89abacf",
+    "type": "BEP20",
+    "symbol": "SCAT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3e20d0f26656f908e0906581b4436321f89abacf"
+}

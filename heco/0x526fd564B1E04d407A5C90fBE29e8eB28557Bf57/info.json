@@ -1,0 +1,11 @@
+{
+ "name": "Leeks Token",
+ "website": "http://www.leeks.tech",
+ "description": "leeks为LEEK生态通行证，持有LEEKS可以参与LEEK生态流动性挖矿，幸运游戏，NFT卡牌游戏，SWAP等，同时LEEKS可以参与LEEK生态节点竞选，共享生态红利。",
+ "explorer": "https://hecoinfo.com/token/0x526fd564b1e04d407a5c90fbe29e8eb28557bf57",
+ "type": "HRC20",
+ "symbol": "LEEKS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x526fd564b1e04d407a5c90fbe29e8eb28557bf57"
+}

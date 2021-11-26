@@ -1,0 +1,11 @@
+{
+ "name": "BabyShiba",
+ "website": "https://babyshiba.net/",
+ "description": "Son of $Shiba. Meme that's Hyper deflationary with built in smart staking system, hold, pet, love, & save dogs!",
+ "explorer": "https://bscscan.com/token/0x2302e370E98890BF2eB547286Bf8F8bB318F8e7B",
+ "type": "BEP20",
+ "symbol": "BabyShiba",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x2302e370E98890BF2eB547286Bf8F8bB318F8e7B"
+}

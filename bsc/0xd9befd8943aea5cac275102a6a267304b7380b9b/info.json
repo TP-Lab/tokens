@@ -1,0 +1,11 @@
+{
+ "name": "Muddled Doge",
+ "website": "https://mudoge.top",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/address/0xd9befd8943aea5cac275102a6a267304b7380b9b",
+ "type": "BEP20",
+ "symbol": "MUDOGE",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xd9befd8943aea5cac275102a6a267304b7380b9b"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Poker Token",
+    "website": "https://pokerfi.network",
+    "description": "PokerFi 是新型的区块链项目，通过 NFT 矿机建立去中心化、更环保、更安全的新型类比特币挖矿体系。",
+    "explorer": "https://bscscan.com/token/0x89Aba1453f58aB08056DA973163A67EFed95A432",
+    "type": "BEP20",
+    "symbol": "PK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x89Aba1453f58aB08056DA973163A67EFed95A432"
+}

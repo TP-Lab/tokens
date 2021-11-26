@@ -1,0 +1,11 @@
+{
+  "name": "Double eagle",
+  "website": "https://doubleeagle.io/",
+  "description": "Double Eagle is a protocol on the blockchain. It establishes the money market. It is a token pool with algorithm derivation rate based on the supply-demand relationship of tokens. Double Eagle will use distributed ledger technology, including blockchain, cryptocurrency, smart contract and other technologies to provide services such as loan, financing, stable currency, flash loan and liquidity mining.",
+  "explorer": "https://bscscan.com/token/0x73fC120F51642205acF672A3B6D8D80777c25040",
+  "type": "BEP20",
+  "symbol": "DOE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x73fC120F51642205acF672A3B6D8D80777c25040"
+}

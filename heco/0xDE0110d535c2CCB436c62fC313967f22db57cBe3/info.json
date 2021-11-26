@@ -1,0 +1,11 @@
+{
+ "name": "LUCKY TOKEN",
+ "website": "http://luckyswap.club/",
+ "description": "LUCKY is a decentralized deflationary currency based on the Huobi ecological chain",
+ "explorer": "https://hecoinfo.com/token/0xde0110d535c2ccb436c62fc313967f22db57cbe3",
+ "type": "HRC20",
+ "symbol": "LUCKY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDE0110d535c2CCB436c62fC313967f22db57cBe3"
+}

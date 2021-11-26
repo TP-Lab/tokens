@@ -1,0 +1,11 @@
+{
+ "name": "FOMO 3D",
+ "website": "https://fm3d.me",
+ "description": "FOMO 3D",
+ "explorer": "https://bsccan.com/token/0xe02DD9f57bf3e27cf4B5B436C94C33C37c32F36b",
+ "type": "BEP20",
+ "symbol": "FM3D",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe02DD9f57bf3e27cf4B5B436C94C33C37c32F36b"
+}

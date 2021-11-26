@@ -1,0 +1,11 @@
+{
+ "name": "Pyram Token",
+ "website": "https://www.arenaswap.com",
+ "description": "Pyramid token is related to our gambling game Pyramid. He will be used as money to play and as money to earn. ArenaSwap project aim to be an reference for the gaming in to DeFi.",
+ "explorer": "https://bscscan.com/address/0xedeCfB4801C04F3EB394b89397c6Aafa4ADDa15B",
+ "type": "BEP20",
+ "symbol": "PYRAM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xedeCfB4801C04F3EB394b89397c6Aafa4ADDa15B"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Bishoku Inu",
+ "website": "https://www.bishokuinu.com",
+ "Bishoku Inu, 11% fee for each transaction, of which 3% is used for marketing, 4% is used for repurchase and destory, and 4% is distributed to all holders. The core mechanism is to repurchase and destroy for every additional 1,000 holder addresses.",
+ "explorer": "https://bscscan.com/token/0xe8813e1c7eaf1de10d331ed6c0b210eb36561356",
+ "type": "BEP20",
+ "symbol": "Bishoku",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe8813e1c7eaf1de10d331ed6c0b210eb36561356"
+}

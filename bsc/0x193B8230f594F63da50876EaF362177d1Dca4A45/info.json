@@ -1,0 +1,11 @@
+{
+ "name": "yefi",
+ "website": "https://yefi.one",
+ "description": "Yefi is a BSC-based, unmanaged, open source, interoperable, extensible, crypto asset open financial market protocol stack that aims to become a liquidity provider on the BSC, a fully integrated protocol matrix.",
+ "explorer": "https://bscscan.com/token/0x193B8230f594F63da50876EaF362177d1Dca4A45",
+ "type": "BEP20",
+ "symbol": "YEFI",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x193B8230f594F63da50876EaF362177d1Dca4A45"
+}

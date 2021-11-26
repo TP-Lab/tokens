@@ -1,0 +1,20 @@
+{
+ 
+"name": "Muses",
+ 
+"website": "https://muses.biz",
+ 
+"description": "Muses has new connotations such as open interconnection, user-centric and distributed peer-to-peer sharing",
+ 
+"explorer": "https://bscscan.com/token/0x9298086d982388381b38b1e2f67900fa7bf18f12",
+ "type": "BEP20",
+ 
+"symbol": "MUS",
+ 
+"decimals": 18,
+ 
+"status": "active",
+ 
+"id": "0x9298086d982388381b38b1e2f67900fa7bf18f12"
+
+}

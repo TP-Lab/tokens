@@ -1,0 +1,11 @@
+{
+ "name": "KIDC",
+ "website": "-",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/address/0x4d38084948cBbba798c9a650707157A0bC1B6d70",
+ "type": "BEP20",
+ "symbol": "KIDC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4d38084948cBbba798c9a650707157A0bC1B6d70"
+}

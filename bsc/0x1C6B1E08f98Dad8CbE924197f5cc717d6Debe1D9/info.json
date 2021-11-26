@@ -1,0 +1,11 @@
+{
+ "name": "Whale Shark",
+ "website": "http://www.cbihuanbao.pro",
+ "description": "Supreme.",
+ "explorer": "https://bscscan.com/token/0x1C6B1E08f98Dad8CbE924197f5cc717d6Debe1D9",
+ "type": "BEP20",
+ "symbol": "Whale Shark",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x1C6B1E08f98Dad8CbE924197f5cc717d6Debe1D9"
+}

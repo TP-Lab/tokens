@@ -1,0 +1,11 @@
+{
+ "name": "OFB",
+ "website": "https://www.OFB.com",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0x73F1c75cDBd3496Ec2e25E25425ed777a61072A3",
+ "type": "BEP20",
+ "symbol": "OFB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x73F1c75cDBd3496Ec2e25E25425ed777a61072A3"
+}

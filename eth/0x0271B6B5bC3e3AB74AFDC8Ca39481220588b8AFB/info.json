@@ -1,0 +1,11 @@
+{
+ "name": "BWARELABS",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://etherscan.io/token/0x0271B6B5bC3e3AB74AFDC8Ca39481220588b8AFB",
+ "type": "ERC20",
+ "symbol": "BWARE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0271B6B5bC3e3AB74AFDC8Ca39481220588b8AFB"
+}

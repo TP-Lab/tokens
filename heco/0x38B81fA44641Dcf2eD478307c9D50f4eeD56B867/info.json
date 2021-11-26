@@ -1,0 +1,11 @@
+{
+ "name": "Vendetta",
+ "website": "-",
+ "description": "V币作为去中心化匿名性数字资产，可有效保护隐私，让未来区块链技术可以用于更多的商用化，同时保证个人敏感信息不在区块链上泄露。",
+ "explorer": "https://hecoinfo.com/address/0x38b81fa44641dcf2ed478307c9d50f4eed56b867",
+ "type": "HRC-20",
+ "symbol": "V",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x38B81fA44641Dcf2eD478307c9D50f4eeD56B867"
+}

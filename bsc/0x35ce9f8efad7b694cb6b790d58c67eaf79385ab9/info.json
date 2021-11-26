@@ -1,0 +1,11 @@
+{
+ "name": "Inception",
+ "website": "https://Inception_token.finance",
+ "description": "A community-driven, community-dominated coin.",
+ "explorer": "https://bscscan.com/token/0x35ce9f8efad7b694cb6b790d58c67eaf79385ab9",
+ "type": "BEP20",
+ "symbol": "Inception",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x35ce9f8efad7b694cb6b790d58c67eaf79385ab9"
+}

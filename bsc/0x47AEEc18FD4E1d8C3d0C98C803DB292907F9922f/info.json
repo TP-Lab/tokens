@@ -1,0 +1,11 @@
+{
+ "name": "BnxZilla",
+ "website": "https://bscscan.com/token/0x47AEEc18FD4E1d8C3d0C98C803DB292907F9922f",
+ "description": "BnxZilla",
+ "explorer": "https://bscscan.com/token/0x47AEEc18FD4E1d8C3d0C98C803DB292907F9922f",
+ "type": "BEP20",
+ "symbol": "BnxZilla",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x47AEEc18FD4E1d8C3d0C98C803DB292907F9922f"
+}

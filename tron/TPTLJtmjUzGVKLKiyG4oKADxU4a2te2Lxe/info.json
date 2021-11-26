@@ -1,0 +1,11 @@
+{
+ "name": "WE Token",
+ "website": "http://www.wezone.club",
+ "description": "WE is the first official token and community governance token of WE community.",
+ "explorer": "https://tronscan.io/#/token20/TPTLJtmjUzGVKLKiyG4oKADxU4a2te2Lxe",
+ "type": "TRC20",
+ "symbol": "WE",
+ "decimals": 6,
+ "status": "active",
+ "id": "TPTLJtmjUzGVKLKiyG4oKADxU4a2te2Lxe"
+}

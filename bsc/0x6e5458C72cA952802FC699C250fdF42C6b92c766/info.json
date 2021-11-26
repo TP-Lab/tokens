@@ -1,0 +1,11 @@
+{
+ "name": "sotsport",
+ "website": "http://www.sotsport.com/",
+ "description": "SOT is used to provide fans' tokens for sports and e-sports, such as jointly managing athletes' draft and supporting athletes' voting.",
+ "explorer": "https://bscscan.com/token/0x6e5458c72ca952802fc699c250fdf42c6b92c766",
+ "type": "BEP20",
+ "symbol": "sot",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6e5458c72ca952802fc699c250fdf42c6b92c766"
+}

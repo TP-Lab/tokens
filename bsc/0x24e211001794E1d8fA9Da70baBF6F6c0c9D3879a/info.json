@@ -1,0 +1,11 @@
+{
+ "name": "1stNFT Token",
+ "website": "https://www.1stnft.io",
+ "description": "1stnft.io is a project for minting and auction NFT on BSC",
+ "explorer": "https://bscscan.com/token/0x24e211001794e1d8fa9da70babf6f6c0c9d3879a",
+ "type": "BEP20",
+ "symbol": "1NFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x24e211001794E1d8fA9Da70baBF6F6c0c9D3879a"
+}

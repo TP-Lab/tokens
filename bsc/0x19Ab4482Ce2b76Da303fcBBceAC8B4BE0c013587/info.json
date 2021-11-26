@@ -1,0 +1,11 @@
+{
+  "name": "zeus",
+  "website": "http://www.thorpools.com/",
+  "description": "zeus",
+  "explorer": "https://bscscan.com/token/0x19Ab4482Ce2b76Da303fcBBceAC8B4BE0c013587",
+  "type": "BEP20",
+  "symbol": "zeus",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x19Ab4482Ce2b76Da303fcBBceAC8B4BE0c013587"
+}

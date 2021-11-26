@@ -1,0 +1,11 @@
+{
+ "name": "CoinShop BOX",
+ "website": "https://coinshop.com",
+ "description": "CoinShop-BTC Shopping APP BOX",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x5Ad6FAa8dFFE4710D4C430F78938A804Bb5C74C3",
+ "type": "KIP20",
+ "symbol": "CoinShop",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5Ad6FAa8dFFE4710D4C430F78938A804Bb5C74C3"
+}

@@ -1,0 +1,11 @@
+ {
+  "name": "EthereumTitanium",
+  "website": "https://ettc.vip/",
+  "description": "The ETTC is a one-stop DEFI platform for cross-chain transactions and multi-asset connectivity that will build a decentralized international community.",
+  "explorer": "https://bscscan.com/address/0x164a1E1633Cb781EB4757096Fd3C445a0B7389dE",
+  "type": "BEP20",
+  "symbol": "ETTC",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x164a1E1633Cb781EB4757096Fd3C445a0B7389dE"
+}

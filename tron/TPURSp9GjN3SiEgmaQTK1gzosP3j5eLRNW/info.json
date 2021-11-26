@@ -1,0 +1,11 @@
+{
+ "name": "Shark",
+ "website": "http://www.xywswap.com",
+ "description": "1,鲨鱼思慕定于日晚点结束. 2,思慕的U和TRX除去拨币手续费全部加池子. 3,如有思慕剩余的XY直接打入黑洞销毁！",
+ "explorer": "https://tronscan.io/#/token20/TPURSp9GjN3SiEgmaQTK1gzosP3j5eLRNW",
+ "type": "TRC20",
+ "symbol": "XYW",
+ "decimals": 6,
+ "status": "active",
+ "id": "TPURSp9GjN3SiEgmaQTK1gzosP3j5eLRNW"
+}

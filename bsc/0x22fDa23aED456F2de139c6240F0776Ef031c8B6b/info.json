@@ -1,0 +1,11 @@
+{
+ "name": "DUSD",
+ "website": "https://demeter.xyz",
+ "description": "An Advanced, Antitrust And Autostabilization Currency.",
+ "explorer": "https://bscscan.com/address/0x22fDa23aED456F2de139c6240F0776Ef031c8B6b",
+ "type": "BEP20",
+ "symbol": "DUSD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x22fDa23aED456F2de139c6240F0776Ef031c8B6b"
+}

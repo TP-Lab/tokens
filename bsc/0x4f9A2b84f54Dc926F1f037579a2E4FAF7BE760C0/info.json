@@ -1,0 +1,11 @@
+{
+ "name": "DogheadBattle Token",
+ "website": "http://www.btdog.top",
+ "description": "Dogking is the only token in circulation in doghead battle NFT.",
+ "explorer": "https://bscscan.com/token/0x4f9A2b84f54Dc926F1f037579a2E4FAF7BE760C0",
+ "type": "BEP20",
+ "symbol": "DogKing",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4f9A2b84f54Dc926F1f037579a2E4FAF7BE760C0"
+}

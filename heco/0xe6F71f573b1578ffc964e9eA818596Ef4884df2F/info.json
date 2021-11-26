@@ -1,0 +1,11 @@
+{
+ "name": "GZS TOKEN",
+ "website": "-",
+ "description": "GZS TOKEN",
+ "explorer": "https://hecoinfo.com/token/0xe6F71f573b1578ffc964e9eA818596Ef4884df2F",
+ "type": "HRC-20",
+ "symbol": "GZS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe6F71f573b1578ffc964e9eA818596Ef4884df2F"
+}

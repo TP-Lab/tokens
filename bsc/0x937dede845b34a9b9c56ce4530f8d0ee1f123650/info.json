@@ -1,0 +1,11 @@
+{
+ "name": "Traveler Token",
+ "website": "https://www.TVE-Token.com",
+ "description": "Traveler Token is building a Decentralized Finance (DeFi) money market platform on Binance Smart Chain.",
+ "explorer": "https://bscscan.com/token/0x937dede845b34a9b9c56ce4530f8d0ee1f123650",
+ "type": "BEP20",
+ "symbol": "TVE",
+ "decimals": 10,
+ "status": "active",
+ "id": "0x937dede845b34a9b9c56ce4530f8d0ee1f123650"
+}

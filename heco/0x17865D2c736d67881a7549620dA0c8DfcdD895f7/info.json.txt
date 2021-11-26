@@ -1,0 +1,11 @@
+{
+    "name": "MCD",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://hecoinfo.com/token/0x17865D2c736d67881a7549620dA0c8DfcdD895f7",
+    "type": "HRC20",
+    "symbol": "MCD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x17865D2c736d67881a7549620dA0c8DfcdD895f7"
+}

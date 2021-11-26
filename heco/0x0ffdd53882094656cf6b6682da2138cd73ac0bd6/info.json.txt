@@ -1,0 +1,11 @@
+{
+ "name": "DRAGON",
+ "website": "-",
+ "description": "Dragon Coin",
+ "explorer": "https://hecoinfo.com/token/0x0ffdd53882094656cf6b6682da2138cd73ac0bd6",
+ "type": "HRC-20",
+ "symbol": "DRAGON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0ffdd53882094656cf6b6682da2138cd73ac0bd6 "
+}

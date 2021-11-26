@@ -1,0 +1,11 @@
+{
+ "name": "ShadowBlade",
+ "website": "http://shadowblade.top",
+ "description": "Shadow blade is an adventure game. NFT+GameFi",
+ "explorer": "https://bscscan.com/token/0xD0e65bb9544A94FBB869702f10f45A538149886f",
+ "type": "BEP20",
+ "symbol": "SBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD0e65bb9544A94FBB869702f10f45A538149886f"
+}

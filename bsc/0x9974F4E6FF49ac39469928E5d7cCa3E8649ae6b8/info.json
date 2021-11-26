@@ -1,0 +1,11 @@
+{
+ "name": "PathFund",
+ "website": "https://pathfund.net/",
+ "description": "A pre-audited cryptocurrency token launchpad. A decentralised consulting platform for ICO participants, experts and investors.",
+ "explorer": "https://bscscan.com/token/0x9974f4e6ff49ac39469928e5d7cca3e8649ae6b8",
+ "type": "BEP20",
+ "symbol": "PATH",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9974f4e6ff49ac39469928e5d7cca3e8649ae6b8"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "SpaceX Token",
+ "website": "https://www.iospacex.com",
+ "description": "A Decentralized Oracle Service Network to Boost Blockchain Usability with Real World Data and Computation Power.",
+ "explorer": "https://bscscan.com/token/0x1dC249183178d17c868e955E5E4A69e49417e693",
+ "type": "BEP20",
+ "symbol": "SpaceX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1dC249183178d17c868e955E5E4A69e49417e693"
+}

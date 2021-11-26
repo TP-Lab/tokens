@@ -1,0 +1,11 @@
+{
+ "name": "FortuneCai token",
+ "website": "https://www.fortuneCAI.COM",
+ "description": "FortuneCai（旺财币）是一个伟大的尝试，致力于创造全球文化交流高效碰撞融合共同进步的美好氛围。完全由社区愿景产生、主导和发展.",
+ "explorer": "https://trx.tokenview.com/cn/address/TCr4nSpYdPhe9JbogBoahp7tZnbv4vziE8",
+ "type": "TRC20",
+ "symbol": "FCI",
+ "decimals": 18,
+ "status": "active",
+ "id": "TCr4nSpYdPhe9JbogBoahp7tZnbv4vziE8"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "EthereumMax", 
+    "website": "https://www.ethereummax.org/", 
+    "short_description": "EthereumMax is an ERC20 token launched with a total supply of 2 quadrillion $eMax", 
+    "description": "EthereumMax is an ERC20 token launched with a total supply of 2 quadrillion $eMax. With no pre-sale and none held back for the development team, 100% of the tokens were released on the open market creating a fair and complete distribution of the coins. eMax was created with the purpose of providing the world with an Ethereum based token that gives holders the security and versatility of the Ethereum blockchain while yielding rewards and enhancing the decentralization of digital assets.", 
+    "type": "ERC20", 
+    "symbol": "eMax", 
+    "decimals": 18, 
+    "status": "active", 
+    "socials": [
+        {
+            "name": "Twitter", 
+            "url": "https://twitter.com/ethereum_max"
+        }, 
+        {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/EthereumMax/"
+        },
+        {
+            "name": "Telegram", 
+            "url": "https://t.me/EthereumMax"
+        }, 
+        {
+            "name": "Reddit", 
+            "url": "https://www.reddit.com/r/EthereumMax/"
+        }, 
+		{
+            "name": "Discord", 
+            "url": "https://discord.com/invite/ethereummax"
+        }, 
+        {
+            "name": "CoinGecko", 
+            "url": "https://www.coingecko.com/en/coins/ethereummax/"
+        }, 
+        {
+            "name": "CoinMarketCap", 
+            "url": "https://coinmarketcap.com/currencies/ethereummax/"
+        }
+    ], 
+    "explorer": "https://etherscan.io/token/0x15874d65e649880c2614e7a480cb7c9A55787FF6"
+}

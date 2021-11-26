@@ -1,0 +1,11 @@
+{
+ "name": "HOUND TOKEN",
+ "website": "https://www.houndcoin.net",
+ "description": "Houndcoin uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://hecoinfo.com/token/0x2e9f1f8aa2718f895ba9ac871aa0a1a1bf85dd26",
+ "type": "HRC-20",
+ "symbol": "HOUND",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2e9f1f8aa2718f895ba9ac871aa0a1a1bf85dd26"
+}

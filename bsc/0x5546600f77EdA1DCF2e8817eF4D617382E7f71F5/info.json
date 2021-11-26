@@ -1,0 +1,11 @@
+{
+ "name": "PING",
+ "website": "https://www.sonarplatform.io/",
+ "description": "Ping new technology, new technology, new system .",
+ "explorer": "https://bscscan.com/token/0x5546600f77EdA1DCF2e8817eF4D617382E7f71F5",
+ "type": "BEP20",
+ "symbol": "PING",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5546600f77EdA1DCF2e8817eF4D617382E7f71F5"
+}

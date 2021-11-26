@@ -1,0 +1,11 @@
+{
+ "name": "FoxCoin",
+ "website": "http://foxcoin.top",
+ "description": "The mission of FoxCoin is to provide an environmentally friendly decentralized network for transactions.",
+ "explorer": "https://bscscan.com/token/0xD9756b2b47FE0f6Fc7Be06087a893c123C0b8253",
+ "type": "BEP20",
+ "symbol": "FOX",
+ "decimals": 2,
+ "status": "active",
+ "id": "0xD9756b2b47FE0f6Fc7Be06087a893c123C0b8253"
+}

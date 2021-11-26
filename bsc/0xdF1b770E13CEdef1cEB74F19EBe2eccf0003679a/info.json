@@ -1,0 +1,11 @@
+{
+    "name": "TokenPocket Token",
+    "website": "https://www.dolphinfall.com",
+    "description": "Dolphins fall, everything lives.",
+    "explorer": "https://bscscan.com/token/0xdF1b770E13CEdef1cEB74F19EBe2eccf0003679a",
+    "type": "BEP20",
+    "symbol": "Dolphin",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdF1b770E13CEdef1cEB74F19EBe2eccf0003679a"
+}

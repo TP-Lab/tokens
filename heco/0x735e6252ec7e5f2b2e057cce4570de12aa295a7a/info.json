@@ -1,0 +1,11 @@
+{
+ "name": "heisicoin",
+ "website": "https://lessawp.top",
+ "description": "HECO",
+ "explorer": "https://hecoinfo.com/address/0x735E6252eC7e5f2b2E057CcE4570dE12aA295a7a",
+ "type": "HECO",
+ "symbol": "HSB",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x735E6252eC7e5f2b2E057CcE4570dE12aA295a7a"
+}

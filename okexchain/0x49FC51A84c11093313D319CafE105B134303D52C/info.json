@@ -1,0 +1,11 @@
+{
+ "name": "ZENI",
+ "website": "https://oec.farmhero.io/",
+ "description": "FarmHero is a novel protocol that mixes NFT, gaming and DEFI concepts.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x49FC51A84c11093313D319CafE105B134303D52C",
+ "type": "KIP20",
+ "symbol": "ZENI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x49FC51A84c11093313D319CafE105B134303D52C"
+}

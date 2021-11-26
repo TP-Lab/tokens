@@ -1,0 +1,11 @@
+{
+ "name": "Lucky Pig",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x3a8049345c07473d5466778ccb5bec5d5f50ecda",
+ "type": "BEP20",
+ "symbol": "LuckyPig",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3a8049345c07473d5466778ccb5bec5d5f50ecda"
+}

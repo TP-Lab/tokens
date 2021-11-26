@@ -1,0 +1,11 @@
+{
+ "name": "Baby Husky Coin",
+ "website": "http://www.thehusky.finance/",
+ "description": "Baby Husky Coin",
+ "explorer": "https://bscscan.com/token/0x7fba560575beedcd42d7e88702af7f5c5fa7d8f8",
+ "type": "BEP20",
+ "symbol": "BHC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7fba560575beedcd42d7e88702af7f5c5fa7d8f8"
+}

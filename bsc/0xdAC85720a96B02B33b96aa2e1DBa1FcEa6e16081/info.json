@@ -1,0 +1,11 @@
+{
+ "name": "SM",
+ "website": "https://www.sm.cn",
+ "description": "SM亚文化.",
+ "explorer": "https://bscscan.com/token/0xdAC85720a96B02B33b96aa2e1DBa1FcEa6e16081",
+ "type": "BEP20",
+ "symbol": "SM",
+ "decimals": 0,
+ "status": "active",
+ "id": "0xdAC85720a96B02B33b96aa2e1DBa1FcEa6e16081"
+}

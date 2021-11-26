@@ -1,0 +1,11 @@
+{
+  "name": "Moon Baby",
+  "website": "https://moonbaby.finance",
+  "description": "The Moon Baby Protocol is a community driven DeFi Token. Three built-in mechanisms occur on each trade: Reflection, Burn and Reward.",
+  "explorer": "https://bscscan.com/address/0x1Aac0c297F4aFFe0EB949E6F26159Dc28826A449",
+  "type": "BEP20",
+  "symbol": "MOON",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x1Aac0c297F4aFFe0EB949E6F26159Dc28826A449"
+}

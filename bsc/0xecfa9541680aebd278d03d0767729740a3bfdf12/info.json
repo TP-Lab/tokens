@@ -1,0 +1,11 @@
+{
+ "name": "GreyCoin",
+ "website": "https://www.ethgrey.org/",
+ "description": "Gray is a kind of public chain, which realizes the value connection between blockchains through the innovative multi protocol selection blockchain communication protocol (MPBP). The grey ecosystem uses MPBP consensus, grey axis, grey purse, decentralized mining pool, and grey system.",
+ "explorer": "https://bscscan.com/token/0xecfa9541680aebd278d03d0767729740a3bfdf12",
+ "type": "BEP20",
+ "symbol": "GRB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xecfa9541680aebd278d03d0767729740a3bfdf12"
+}

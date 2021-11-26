@@ -1,0 +1,11 @@
+{
+ "name": "MarvelCinematic",
+ "website": "https://mcu.to",
+ "description": "MarvelCinematic (MCU) combines standard tokens of blockchain technology,which is issued based on smart contracts and SDK, and allows to build decentralized applications (DApps) on the platform.It was initiated by the Global Marvel Universe Fan Club to support NFT auctions of Marvel products, charity and venture capital as a decentralized token.",
+ "explorer": "https://bscscan.com/token/0x3c44f901a44825a13fce4948475a54acddb3ba81",
+ "type": "BEP20",
+ "symbol": "MCU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3c44f901a44825a13fce4948475a54acddb3ba81"
+}

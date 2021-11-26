@@ -1,0 +1,11 @@
+{
+ "name": "Pikachu coin",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xf2f089083c70da177ad16eb84f269c457c6d2b63",
+ "type": "BEP20",
+ "symbol": "Pika",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf2f089083c70da177ad16eb84f269c457c6d2b63"
+} 

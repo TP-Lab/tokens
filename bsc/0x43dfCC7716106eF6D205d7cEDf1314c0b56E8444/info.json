@@ -1,0 +1,11 @@
+{
+ "name": "luckyhare Token",
+ "website": "http://www.luckyharetoken.com/",
+ "description": "luckyhare协议是由lucky团队基于bsc生态链开发的分散式自治项目，并由社区100％去中心化推广.",
+ "explorer": "https://bscscan.com/token/0x43dfCC7716106eF6D205d7cEDf1314c0b56E8444",
+ "type": "BEP20",
+ "symbol": "luckyhare",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x43dfCC7716106eF6D205d7cEDf1314c0b56E8444"
+}

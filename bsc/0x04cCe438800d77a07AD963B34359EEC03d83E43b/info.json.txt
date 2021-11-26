@@ -1,0 +1,11 @@
+{
+ "name": "BCOP Coin",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x04cCe438800d77a07AD963B34359EEC03d83E43b",
+ "type": "BEP20",
+ "symbol": "BCOP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x04cCe438800d77a07AD963B34359EEC03d83E43b"
+} 

@@ -1,0 +1,11 @@
+{
+ "name": "music SHIB",
+ "website": "https://www.musicSHIB.com",
+ "description": "A singing SHIB",
+ "explorer": "https://bscscan.com/token/0x3a3F624E6dC7A1e65F7CCa4C869f93d7169400Fb",
+ "type": "BEP20",
+ "symbol": "MSB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3a3F624E6dC7A1e65F7CCa4C869f93d7169400Fb"
+}

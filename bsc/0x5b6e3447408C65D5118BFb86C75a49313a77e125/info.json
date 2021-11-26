@@ -1,0 +1,11 @@
+{
+    "name": "Ολυμπιακοί Αγώνες Token",
+    "website": "https://oacoinn.com/",
+    "description": "The new crown epidemic has swept the world, and sports activities around the world have been severely affected, but people's sportsmanship has never wavered",
+    "explorer": "https://bscscan.com/token/0x5b6e3447408c65d5118bfb86c75a49313a77e125",
+    "type": "BEP20",
+    "symbol": "OA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5b6e3447408C65D5118BFb86C75a49313a77e125"
+   }

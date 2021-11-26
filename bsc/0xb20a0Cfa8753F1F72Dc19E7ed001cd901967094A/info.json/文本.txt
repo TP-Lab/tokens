@@ -1,0 +1,11 @@
+{
+ "name": "babyrabbit",
+ "website": "-",
+ "description": "bsc.",
+ "explorer": "https://bscscan.com/token/0xb20a0Cfa8753F1F72Dc19E7ed001cd901967094A",
+ "type": "BEP20",
+ "symbol": "babyrabbit",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb20a0Cfa8753F1F72Dc19E7ed001cd901967094A"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Mammoth",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/token/0x95F194f9292E808485b948e9131F8BD9845B11e3",
+ "type": "HECO",
+ "symbol": "MTH",
+ "decimals": 2,
+ "status": "active",
+ "id": "0x95F194f9292E808485b948e9131F8BD9845B11e3"
+}

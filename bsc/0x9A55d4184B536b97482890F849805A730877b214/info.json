@@ -1,0 +1,13 @@
+{
+ "name": "Airdrop of TheMass",
+ "website": "http://themass.eu/",
+ "description": "$Themass, An decentralized, deflationary Defi token that automatically reward BNB. The
+innovative buyback mechanism and community-driven base guarantees the
+long-term benefits of holders.",
+ "explorer": "https://bscscan.com/token/0x9A55d4184B536b97482890F849805A730877b214",
+ "type": "BEP20",
+ "symbol": "aTheMass",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x9A55d4184B536b97482890F849805A730877b214"
+}

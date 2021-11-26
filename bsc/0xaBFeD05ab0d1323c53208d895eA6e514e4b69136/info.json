@@ -1,0 +1,12 @@
+
+{
+    "name": "DogeKing",
+    "website": "https://twitter.com/DogeKing_Global",
+    "description": "$DogeKing is the king of Doge crypto coin with Hyper deflation All the doges are children of the $DogeKing",
+    "explorer": "https://www.bscscan.com/address/0xaBFeD05ab0d1323c53208d895eA6e514e4b69136",
+    "type": "BEP20",
+    "symbol": "DogeKing",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xaBFeD05ab0d1323c53208d895eA6e514e4b69136"
+}

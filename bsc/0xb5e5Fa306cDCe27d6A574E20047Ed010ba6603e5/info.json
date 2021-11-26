@@ -1,0 +1,11 @@
+{
+    "name": "Ins3.Finance Coin",
+    "website": "https://www.ins3.finance",
+    "description": "A fully decentralized, cross-chain insurance and coverage provider for the blockchain industry.",
+    "explorer": "https://bscscan.com/token/0xb5e5fa306cdce27d6a574e20047ed010ba6603e5",
+    "type": "BEP20",
+    "symbol": "ITF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb5e5Fa306cDCe27d6A574E20047Ed010ba6603e5"
+}

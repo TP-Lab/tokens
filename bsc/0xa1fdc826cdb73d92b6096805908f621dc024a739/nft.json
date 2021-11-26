@@ -1,0 +1,11 @@
+{
+ "name": "NIFTIES",
+ "website": "nifties.plus",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xa1fdc826cdb73d92b6096805908f621dc024a739",
+ "type": "BEP20",
+ "symbol": "NIFTIES",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa1fdc826cdb73d92b6096805908f621dc024a739"
+}

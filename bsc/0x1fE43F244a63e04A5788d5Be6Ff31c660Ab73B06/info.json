@@ -1,0 +1,12 @@
+{
+ "name": "
+ Golden retriever",
+ "website": "https://GRDOGE.pro",
+ "description": "A leading multi-chain wallet that supports BSC, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x1fE43F244a63e04A5788d5Be6Ff31c660Ab73B06",
+ "type": "BEP20",
+ "symbol": "GRDOGE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x1fE43F244a63e04A5788d5Be6Ff31c660Ab73B06"
+}

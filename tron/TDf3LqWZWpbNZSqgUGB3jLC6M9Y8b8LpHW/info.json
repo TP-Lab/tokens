@@ -1,0 +1,11 @@
+{
+ "name": "Chinese rural dog",
+ "website": "www.crdog.ink",
+ "description": "中华田园犬币，100%添加资金池，无私募无预售。",
+ "explorer": "https://tronscan.io/#/token20/TDf3LqWZWpbNZSqgUGB3jLC6M9Y8b8LpHW",
+ "type": "TRC20",
+ "symbol": "CRDOG",
+ "decimals": 8,
+ "status": "active",
+ "id": "TDf3LqWZWpbNZSqgUGB3jLC6M9Y8b8LpHW"
+}

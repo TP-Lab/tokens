@@ -1,0 +1,11 @@
+{
+ "name": "RKT",
+ "website": "https://jinuethereum.com/",
+ "description": "In the Japanese Tradition Jomon Inu is believed to be the origin of the Shiba Inu. ",
+ "explorer": "https://hecoinfo.com/address/0x8cbA0384b323E43eD30198e5c2F385300b914f81",
+ "type": "TRC20",
+ "symbol": "RKT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8cbA0384b323E43eD30198e5c2F385300b914f81"
+}

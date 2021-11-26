@@ -1,0 +1,11 @@
+{
+ "name": "HotDog Token",
+ "website": "-",
+ "description": "The HotDog Token is a decentralized token that is completely self-contained by the community.",
+ "explorer": "https://hecoinfo.com/address/0xad094cb9a0ed8b633713253721d3233ae6dfc4a5",
+ "type": "HECO",
+ "symbol": "hotDog",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xaD094CB9a0ED8B633713253721D3233AE6DfC4A5"
+}

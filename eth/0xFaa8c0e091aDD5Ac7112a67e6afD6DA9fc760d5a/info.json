@@ -1,0 +1,11 @@
+{
+ "name": "Bicthir",
+ "website": "none",
+ "description": "To make virtual currency more widespread",
+ "explorer": "https://hecoinfo.com/tx/0x6a2ce35bb661826adad68925a6c038ab615cdd84ea11e570ebcd3254c3c7fb2b",
+ "type": "ERC20",
+ "symbol": "BITI",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xFaa8c0e091aDD5Ac7112a67e6afD6DA9fc760d5a"
+}

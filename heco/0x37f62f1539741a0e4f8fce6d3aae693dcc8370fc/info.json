@@ -1,0 +1,11 @@
+{
+ "name": "Charizard Coin",
+ "website": "",
+ "description": "A community experiment project",
+ "explorer": "https://hecoinfo.com/token/0x37f62f1539741a0e4f8fce6d3aae693dcc8370fc",
+ "type": "HRC20",
+ "symbol": "CRZC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x37F62F1539741A0E4F8fce6d3aAe693DcC8370FC"
+}

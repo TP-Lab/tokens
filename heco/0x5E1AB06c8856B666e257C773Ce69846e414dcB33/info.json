@@ -1,0 +1,11 @@
+﻿{
+ "name": "Lucky Dog Coin",
+ "website": "https://weibo.com/u/7624809744",
+ "description": "Lucky Dog Coin,Luckydog for Everyone.",
+ "explorer": "https://hecoinfo.com/token/0x5e1ab06c8856b666e257c773ce69846e414dcb33#balances",
+ "type": "HRC20",
+ "symbol": "LuckyDog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5E1AB06c8856B666e257C773Ce69846e414dcB33"
+}

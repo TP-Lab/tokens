@@ -1,0 +1,11 @@
+{
+ "name": "BJ-X",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://tronscan.io/#/contract/TP8f1Dtd5fCT9ydFghRDmLd4aegxjh7Vkx",
+ "type": "TRON",
+ "symbol": "BJ-X",
+ "decimals": 6,
+ "status": "active",
+ "id": "TP8f1Dtd5fCT9ydFghRDmLd4aegxjh7Vkx"
+}

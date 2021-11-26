@@ -1,0 +1,11 @@
+﻿{
+ "name": "Visual Xperience Coin",
+ "website": "https://vxc.finance/",
+ "description": "Visual Xperience Coin是一门面向智能合约全新的零代码可视化开发理念和技术，无需懂编程就可以构建去中心化应用，让人人都是智能合约开发者成为可能",
+ "explorer": "https://bscscan.com/token/0x0d8ee473cac6d29dba4d785c60dd91660d5a6238",
+ "type": "BEP20",
+ "symbol": "VXC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0d8EE473CAC6d29dba4d785C60Dd91660d5A6238"
+}

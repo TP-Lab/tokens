@@ -1,0 +1,11 @@
+{
+ "name": "Mermaid",
+ "website": "https://mermaid.finance",
+ "description": "A MEME with Overseas Shopping.",
+ "explorer": "https://bscscan.com/token/0x078680b4CeA9F9cd7F55DcBcB3A56246F132Cc11",
+ "type": "BEP20",
+ "symbol": "MMD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x078680b4CeA9F9cd7F55DcBcB3A56246F132Cc11"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "HT Baby Doge",
+ "website": "https://htbabydoge.mystrikingly.com/",
+ "description": "The best friend of BSC Baby Doge Coin.",
+ "explorer": "https://hecoinfo.com/token/0xcc59499b98592cc9b132e76a6323f8f6d8743392",
+ "type": "HRC20",
+ "symbol": "HTBabyDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcc59499b98592cC9b132E76a6323F8f6D8743392"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "PIB",
+ "website": "https://www.PIB.com",
+ "description": "PIB (PB) is a kind of experimental token in the construction of decentralized community. PIB protocol is community driven. Each wallet address has an opportunity to air drop. Holding tokens can enjoy token benefits. It goes online to pancake swap and is used for incentive measures",
+ "explorer": "https://bscscan.com/token/0x6010A2Ea4Bf9b4B94AA4C44e4c4C451f9a46F5d7",
+ "type": "BEP20",
+ "symbol": "PB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6010A2Ea4Bf9b4B94AA4C44e4c4C451f9a46F5d7"
+}

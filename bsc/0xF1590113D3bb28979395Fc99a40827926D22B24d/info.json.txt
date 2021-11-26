@@ -1,0 +1,21 @@
+{
+
+"name": "Flokishib Token",
+
+"website": "www.flokishib.top",
+
+"description": "Financial tokens based on the BSC chain are used to solve the point-to-point trust problem between finances.",
+
+"explorer": "https://bscscan.com/token/0xf1590113d3bb28979395fc99a40827926d22b24d",
+
+"type": "BEP20",
+
+"symbol": "Flokishib",
+
+"decimals": 18,
+
+"status": "active",
+
+"id": "0xf1590113d3bb28979395fc99a40827926d22b24d"
+
+}

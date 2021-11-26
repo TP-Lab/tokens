@@ -1,0 +1,11 @@
+{
+ "name": "NDEX",
+ "website": "无",
+ "description": "NDEX是基于火币发行的代币，未来价值巨大",
+ "explorer": "https://hecoinfo.com/token/0xD9338938c1F6F49AA435bA4f806b286319Ad59df",
+ "type": "HRC20",
+ "symbol": "NDEX",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xD9338938c1F6F49AA435bA4f806b286319Ad59df"
+}

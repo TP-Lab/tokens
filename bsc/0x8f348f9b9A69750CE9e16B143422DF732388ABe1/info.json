@@ -1,0 +1,11 @@
+{
+ "name": "BAT Token",
+ "website": "https://haowei4032.github.io/bat-token/",
+ "description": "BEP20 of High-quality DeFi tokens with a total supply of 100,000,000",
+ "explorer": "https://bscscan.com/token/0x8f348f9b9A69750CE9e16B143422DF732388ABe1",
+ "type": "BEP20",
+ "symbol": "BAT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8f348f9b9A69750CE9e16B143422DF732388ABe1"
+}

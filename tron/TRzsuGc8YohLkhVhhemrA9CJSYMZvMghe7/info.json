@@ -1,0 +1,11 @@
+{
+ "name": "DGR Coin",
+ "website": "http://www.dgrcoin.com/",
+ "description": "DGR Coin is the pristine token of the Executive economy. Created by Maestro Network, an Elite International group of CEOs",
+ "explorer": "https://tronscan.org/#/token20/TRzsuGc8YohLkhVhhemrA9CJSYMZvMghe7",
+ "type": "TRC20",
+ "symbol": "DGR",
+ "decimals": 8,
+ "status": "active",
+ "id": "TRzsuGc8YohLkhVhhemrA9CJSYMZvMghe7"
+}

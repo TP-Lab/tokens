@@ -1,0 +1,11 @@
+{
+  "name": "BeSelfless",
+  "website": "https://www.be-selfless.net/",
+  "description": "BeSelfless is a deflationary charity token on the BSC ",
+  "explorer": "https://bscscan.com/token/0x32f268fcf458148fa8fff9c9e005ed940dc9abae",
+  "type": "BEP20",
+  "symbol": "SELF",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x32f268fcf458148Fa8fff9c9e005eD940dC9AbAE"
+}

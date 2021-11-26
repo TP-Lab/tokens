@@ -1,0 +1,11 @@
+{
+ "name": "DOODA",
+ "website": "https://dooda.vip",
+ "description": "Dooda - Community driven, fair launched Token. On each trade: Reflection, LP Acquisition and Auto-community rewards.",
+ "explorer": "https://bscscan.com/token/0x20d26eb90f1cc983229b0673e43743fed1fc8d1a",
+ "type": "BEP20",
+ "symbol": "DOODA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x20D26Eb90F1cC983229b0673e43743fed1FC8D1A"
+}

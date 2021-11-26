@@ -1,0 +1,11 @@
+{
+ "name": "BITC",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x1e19142CfeA3eE498069e84e00D7b948ace06d2d",
+ "type": "HRC-20",
+ "symbol": "BITC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x1e19142CfeA3eE498069e84e00D7b948ace06d2d"
+}

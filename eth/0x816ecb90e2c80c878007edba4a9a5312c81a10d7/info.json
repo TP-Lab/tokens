@@ -1,0 +1,11 @@
+{
+    "name": "Project Pluto",
+    "website": "https://www.project-pluto.com/",
+    "description": "Project PLuto want to create a virtual world that integrates games, entertainment, and social interactions.refer to the movie: Ready Player One"
+    "explorer": "https://etherscan.io/token/0x816ecb90e2c80c878007edba4a9a5312c81a10d7",
+    "type": "ERC20",
+    "symbol": "PPC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x816ecb90e2c80c878007edba4a9a5312c81a10d7"
+}

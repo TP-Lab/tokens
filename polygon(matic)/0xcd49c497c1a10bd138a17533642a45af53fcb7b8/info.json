@@ -1,0 +1,11 @@
+{
+ "name": "MTMOON",
+ "website": "https://mtmoon.finance/",
+ "description": "MTMOON is committed to continuously empowering matic, increasing the value of matic tokens, and expanding the overall value of the ETH layer2 matic mainnet.",
+ "explorer": "https://polygonscan.com/address/0xcd49c497c1a10bd138a17533642a45af53fcb7b8",
+ "type": "MATIC",
+ "symbol": "MTMOON",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xcd49c497c1a10bd138a17533642a45af53fcb7b8"
+}

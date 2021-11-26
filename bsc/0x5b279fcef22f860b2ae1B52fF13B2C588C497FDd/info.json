@@ -1,0 +1,11 @@
+{
+ "name": "LittleBaldEagle",
+ "website": "https://littlebaldeaglecry.wixsite.com/home",
+ "description": "little moose , FARMA  brother  same as they, but bigger potential",
+ "explorer": "https://bscscan.com/token/0x5b279fcef22f860b2ae1B52fF13B2C588C497FDd",
+ "type": "BEP20",
+ "symbol": "LBALD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5b279fcef22f860b2ae1B52fF13B2C588C497FDd"
+}

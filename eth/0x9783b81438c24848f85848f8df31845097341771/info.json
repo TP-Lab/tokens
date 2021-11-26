@@ -1,0 +1,11 @@
+{
+ "name": "Dog Collar",
+ "website": "https://www.colartoken.com",
+ "description": "Dog Collar (COLLAR) - A Fully Community-Organized NFT Gaming Experience.",
+ "explorer": "https://etherscan.io/token/0x9783b81438c24848f85848f8df31845097341771",
+ "type": "ERC-20",
+ "symbol": "COLLAR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9783b81438c24848f85848f8df31845097341771"
+}

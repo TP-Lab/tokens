@@ -1,0 +1,11 @@
+{
+ "name": "BabyKraken | t.me/BabyKrakenBSC",
+ "website": "https://www.kraken.baby/",
+ "description": "A better, cuter, stronger EverRise! Now with a fixed buyback mechanism to prevent bots from dumping the buyback fund!",
+ "explorer": "https://bscscan.com/token/0x4D79DA6F390D9E9d475802a693353C3715b7Bd75",
+ "type": "BEP20",
+ "symbol": "KRAKBABY",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4D79DA6F390D9E9d475802a693353C3715b7Bd75"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Hotdog Token",
+  "website": "https://hotdogtoken.io/",
+  "description": "HOTDOG is the most robust DeFi protocol for decentralisation, innovation and multichain interoperability.",
+  "explorer": "https://bscscan.com/token/0xf8381baafc06953242d19d60bed5de4494c9c077",
+  "type": "BEP20",
+  "symbol": "HOTDOG",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xf8381Baafc06953242D19d60bed5De4494c9c077"
+ }

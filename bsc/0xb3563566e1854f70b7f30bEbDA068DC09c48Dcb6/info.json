@@ -1,0 +1,11 @@
+{
+ "name": "SmilingDog",
+ "website": "-",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0xb3563566e1854f70b7f30bEbDA068DC09c48Dcb6",
+ "type": "BEP20",
+ "symbol": "SmilingDog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb3563566e1854f70b7f30bEbDA068DC09c48Dcb6"
+}

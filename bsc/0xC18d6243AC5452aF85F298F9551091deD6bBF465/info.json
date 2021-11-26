@@ -1,0 +1,11 @@
+{
+ "name": "ShibBro",
+ "website": "https://www.shibbro.com",
+ "description": "SHIBBRO is a community autonomous value currency created by SHIB's large holders.",
+ "explorer": "https://bscscan.com/token/0xc18d6243ac5452af85f298f9551091ded6bbf465",
+ "type": "BEP20",
+ "symbol": "SHIBBRO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC18d6243AC5452aF85F298F9551091deD6bBF465"
+}

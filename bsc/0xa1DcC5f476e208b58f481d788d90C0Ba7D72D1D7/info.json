@@ -1,0 +1,11 @@
+{
+ "name": "GOODDOG Token",
+ "website": "http://gooddog.finance",
+ "description": "GOODDOG want to create an innovative defi economic ecology and build a strong consensus community",
+ "explorer": "https://bscscan.com/token/0xa1DcC5f476e208b58f481d788d90C0Ba7D72D1D7",
+ "type": "BEP20",
+ "symbol": "GOODDOG",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xa1DcC5f476e208b58f481d788d90C0Ba7D72D1D7"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "UP",
+    "website": "https://up.fan",
+    "description": "Up.fan is a DeFi aggregation revenue platform. The automatic market maker mechanism Automated Market Maker (AMM) earns transaction fees, reinvests the proceeds regularly, and rewards participants with UP tokens, making it the best and most stable machine gun pool , To always earn the most stable income, we are building the Upswap exchange to create the highest quality DeFi investment ecology.",
+    "explorer": "https://hecoinfo.com/token/0xCa178C8cAd89EC63DD67a6bBb91250d9EeB5A1c5",
+    "type": "HRC20",
+    "symbol": "UP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xCa178C8cAd89EC63DD67a6bBb91250d9EeB5A1c5"
+}

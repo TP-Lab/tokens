@@ -1,0 +1,11 @@
+{
+ "name": "EarthThreebodyOrganization",
+ "website": "http://eto333.xyz/eto.html",
+ "description": "Eliminate human tyranny!The world belongs to Trisolaris!",
+ "explorer": "https://bscscan.com/token/0x2405dc7E34027d61d9e486d9027d80E0B13f02a0",
+ "type": "BEP20",
+ "symbol": "ETO",
+ "decimals": 3,
+ "status": "active",
+ "id": "0x2405dc7E34027d61d9e486d9027d80E0B13f02a0"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "iPanda",
+ "website": "https://ipanda.finance",
+ "description": "A revolutionised token with newly design features, ensure holders for safe moon landing.",
+ "explorer": "https://bscscan.com/token/0x803c27c2ce80c3e18d1d0e74542bf4ac8a008c60",
+ "type": "BEP20",
+ "symbol": "iPanda",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x803C27c2cE80C3e18D1D0E74542bf4Ac8a008c60"
+}

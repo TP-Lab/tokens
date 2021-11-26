@@ -1,0 +1,12 @@
+{
+ "name": "BUgatti",
+ "website": "https://tronscan.org/#/contract/TGSUCsTpyUPCx9ZHZsNHxmYbdRiRh1o8eqcode
+",
+ "description": "BJD是基于TRC20发行的通证代币一个开源的去中心化借贷协议，为用户提供存款和借贷服务 .",
+ "explorer": "https://tronscan.io/#/contract/TGSUCsTpyUPCx9ZHZsNHxmYbdRiRh1o8eq",
+ "type": "TRC20",
+ "symbol": "BJD",
+ "decimals": 18,
+ "status": "active",
+ "id": "TGSUCsTpyUPCx9ZHZsNHxmYbdRiRh1o8eq"
+}

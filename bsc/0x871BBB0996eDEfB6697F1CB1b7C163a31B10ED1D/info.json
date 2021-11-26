@@ -1,0 +1,11 @@
+{
+ "name": "AIBinance",
+ "website": "https://www.alibinance.cn",
+ "description": "AIBinance.",
+ "explorer": "https://bscscan.com/token/0x871bbb0996edefb6697f1cb1b7c163a31b10ed1d",
+ "type": "BEP20",
+ "symbol": " AIB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x871BBB0996eDEfB6697F1CB1b7C163a31B10ED1D"
+}

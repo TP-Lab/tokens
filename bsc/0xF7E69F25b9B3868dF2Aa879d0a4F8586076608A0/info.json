@@ -1,0 +1,11 @@
+{
+ "name": "ABROPAD Token",
+ "website": "https://abropad.com",
+ "description": "Abropad is a native Ido distribution platform, built on BSC, dedicated to secure project launch.",
+ "explorer": "https://bscscan.com/token/0xF7E69F25b9B3868dF2Aa879d0a4F8586076608A0",
+ "type": "BEP20",
+ "symbol": "ABRO",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xF7E69F25b9B3868dF2Aa879d0a4F8586076608A0"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "HLD Token",
+ "website": "https://www.hldtoken.com",
+ "description": "HLD Token是基于HECO火币生态链的去中心化数字资产，链上每笔转账交易都将自动销毁每笔交易的千分之一以进行通货紧缩。",
+ "explorer": "https://hecoinfo.com/token/0x7fc9da6f02c65575bf8aadc30ae0533058c2b727",
+ "type": "HRC-20",
+ "symbol": "HLD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7fc9da6f02c65575bf8aadc30ae0533058c2b727"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "屠狗社区 (屠狗社区)",
+    "website": "https://tokenpocket.pro",
+    "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+    "explorer": "https://bscscan.com/token/0x84a4485b6edAE7fc606772E15108709B7A74CdD4",
+    "type": "BEP20",
+    "symbol": "屠狗社区",
+    "decimals": 0,
+    "status": "active",
+    "id": "0x84a4485b6edAE7fc606772E15108709B7A74CdD4"
+}

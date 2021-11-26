@@ -1,0 +1,11 @@
+{
+ "name": "TOLA",
+ "website": "https://tola.finance",
+ "description": "基于区块链+游戏垂直赛道的项目",
+ "explorer": "https://hecoinfo.com/address/0xfee95a0c50f910a5b36ae7893fbca882c7bc7fa0",
+ "type": "HRC20",
+ "symbol": "TOLA",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xfEE95a0c50F910a5B36aE7893fBcA882C7BC7fa0"
+}

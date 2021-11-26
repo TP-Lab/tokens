@@ -1,0 +1,11 @@
+{
+ "name": "Yang Mao",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/token/0xe8570dD01c8d711E6AF84417725e24496BDf7792",
+ "type": "HECO",
+ "symbol": "YM",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xe8570dD01c8d711E6AF84417725e24496BDf7792"
+}

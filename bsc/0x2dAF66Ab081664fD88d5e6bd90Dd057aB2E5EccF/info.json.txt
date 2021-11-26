@@ -1,0 +1,10 @@
+{
+ "name": "SWM Token",
+ "website": "www.swarmswap.top",
+ "description":" Financial tokens based on the bsc chain are used to solve the point-to-point trust problem between finances.",
+ "explorer": "https://bscscan.com/token/0x2daf66ab081664fd88d5e6bd90dd057ab2e5eccf",
+ "type": "BEP20",
+ "symbol": "SWM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2daf66ab081664fd88d5e6bd90dd057ab2e5eccf"

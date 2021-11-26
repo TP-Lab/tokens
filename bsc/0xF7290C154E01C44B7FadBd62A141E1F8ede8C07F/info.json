@@ -1,0 +1,11 @@
+{
+    "name": "lying down token",
+    "website": "http://ldtclub.com/",
+    "description": "LDT is a token with landing application.",
+    "explorer": "https://bscscan.com/token/0xF7290C154E01C44B7FadBd62A141E1F8ede8C07F",
+    "type": "BEP20",
+    "symbol": "LDT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xF7290C154E01C44B7FadBd62A141E1F8ede8C07F"
+}

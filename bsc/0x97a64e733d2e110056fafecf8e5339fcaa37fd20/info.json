@@ -1,0 +1,11 @@
+{
+ "name": "Cute Panda Token",
+ "website": "https://tokenpocket.pro",
+ "description": "Cute Panda Token ($CPT) is a community-focused, decentralized cryptocurrency with a special self-drived cell-division mechanism.",
+ "explorer": "https://bscscan.com/token/0x97a64e733d2e110056fafecf8e5339fcaa37fd20",
+ "type": "BEP20",
+ "symbol": "CutePanda",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x97a64e733d2e110056fafecf8e5339fcaa37fd20"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "NFTG",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x223CE1008184746c20c2C1aa58381724E0f8F941",
+ "type": "BSC20",
+ "symbol": "NFTG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x223CE1008184746c20c2C1aa58381724E0f8F941"
+}

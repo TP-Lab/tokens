@@ -1,0 +1,11 @@
+{
+ "name": "RocketDog",
+ "website": "https://rocketdog.finance",
+ "description": "ROCKET DOG is completely decentralized and all decisions are made by a community poll.",
+ "explorer": "https://bscscan.com/token/0x9EB6293b509EDeDC2AE20666fc9BB242FA44A050",
+ "type": "BEP20",
+ "symbol": "RDOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9EB6293b509EDeDC2AE20666fc9BB242FA44A050"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "hitoken",
+    "website": "none",
+    "description": "hi is using blockchain technology to build non-profit and community-based services.",
+    "explorer": "https://etherscan.io/address/0xC3164DFf80E8B8A8d5b80D79d5E9a6af039F3500",
+    "type": "ERC20",
+    "symbol": "HI",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xC3164DFf80E8B8A8d5b80D79d5E9a6af039F3500"
+   }

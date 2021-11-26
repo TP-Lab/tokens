@@ -1,0 +1,11 @@
+{
+    "name": "KBB",
+    "website": "http://kbb.finance",
+    "description": "KBB is a decentralized computing network extension based on BSC chain.",
+    "explorer": "https://bscscan.com/token/0xC2f7F9F71A7aDeDc020056edbacFE23dB1516941",
+    "type": "BEP20",
+    "symbol": "KBB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC2f7F9F71A7aDeDc020056edbacFE23dB1516941"
+}

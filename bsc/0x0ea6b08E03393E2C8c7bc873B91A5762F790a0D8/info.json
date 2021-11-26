@@ -1,0 +1,11 @@
+{
+ "name": " PAPADOGE",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x0ea6b08E03393E2C8c7bc873B91A5762F790a0D8",
+ "type": "BEP20",
+ "symbol": "PD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0ea6b08E03393E2C8c7bc873B91A5762F790a0D8"
+}

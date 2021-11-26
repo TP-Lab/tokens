@@ -1,0 +1,11 @@
+{
+ "name": "TIME",
+ "website": "无",
+ "description": "TIME是基于火币发行的代币，永不增发，未来价值巨大",
+ "explorer": "https://hecoinfo.com/token/0x83022b5ebb244d17ad68e27c128e610e032258ed",
+ "type": "HRC20",
+ "symbol": "TIME",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x83022b5ebb244D17AD68e27C128E610e032258ED"
+}

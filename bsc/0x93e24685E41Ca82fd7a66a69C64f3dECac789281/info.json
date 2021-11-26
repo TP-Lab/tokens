@@ -1,0 +1,12 @@
+{
+"name": "Cheecoin",
+"website": "https://www.cheecoin.com",
+"description": "CHEECOIN is Luxury NFTs and High Design.",
+"explorer": "https://bscscan.com/token/0x93e24685e41ca82fd7a66a69c64f3decac789281",
+"type": "BEP20",
+"symbol": "CHEE",
+"decimals": 9,
+"status": "active",
+"id": "0x93e24685E41Ca82fd7a66a69C64f3dECac789281"
+}
+

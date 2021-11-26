@@ -1,0 +1,11 @@
+{
+ "name": "NIGHTELVES Token",
+ "website": "https://www.nightelves.finance",
+ "description": "BSC chain NIGHTELVES Token",
+ "explorer": "https://bscscan.com/token/0x092632846E64Ae5450f11E5F5D519645DD64ee4C",
+ "type": "BEP20",
+ "symbol": "NIGHTELVES",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x092632846E64Ae5450f11E5F5D519645DD64ee4C"
+}

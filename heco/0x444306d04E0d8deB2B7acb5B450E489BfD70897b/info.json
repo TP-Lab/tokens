@@ -1,0 +1,11 @@
+{
+ "name": "Zeus Deity",
+ "website": "无",
+ "description": "ZDB是基于火币发行的代币，永不增发",
+ "explorer": "https://hecoinfo.com/token/0x444306d04E0d8deB2B7acb5B450E489BfD70897b",
+ "type": "HRC20",
+ "symbol": "ZDB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x444306d04E0d8deB2B7acb5B450E489BfD70897b"
+} 

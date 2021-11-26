@@ -1,0 +1,11 @@
+{
+    "name": Dig Doge",
+    "website": "-",
+    "description": "Dig Doge",
+    "explorer": "https://bscscan.com/token/0xdf2877F27cD8e3DE7Cf4459a8420D974F7A8c1BE",
+    "type": "BEP20",
+    "symbol": "DDOGE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdf2877F27cD8e3DE7Cf4459a8420D974F7A8c1BE"
+}
