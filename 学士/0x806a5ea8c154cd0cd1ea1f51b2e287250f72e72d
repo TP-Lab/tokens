@@ -1,0 +1,11 @@
+{
+"name": "BUF",
+"website": "http://www.bufferdao.com/",
+"description": "-",
+"explorer": "https://bscscan.com/token/0x806a5ea8c154cd0cd1ea1f51b2e287250f72e72d",
+"type": "BEP20",
+"symbol": "BUF",
+"decimals": 18,
+"status": "active",
+"id": "0x806a5ea8c154cd0cd1ea1f51b2e287250f72e72d"
+}
