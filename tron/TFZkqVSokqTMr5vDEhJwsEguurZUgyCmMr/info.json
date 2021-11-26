@@ -1,0 +1,11 @@
+{
+	"name": "SuperConsensus",
+	"website": "https://www.upsswap.com/",
+	"description": "Super uninterrupted consensus, consensus wins the future.",
+	"explorer": "https://tronscan.org/#/token20/TFZkqVSokqTMr5vDEhJwsEguurZUgyCmMr",
+	"type": "TRC20",
+	"symbol": "UPS",
+	"decimals": 9,
+	"status": "active",
+	"id": "TFZkqVSokqTMr5vDEhJwsEguurZUgyCmMr"
+}
