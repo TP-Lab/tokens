@@ -1,0 +1,11 @@
+{
+    "name": "SHIBV2 INU ",
+    "website": "https://www.shibv2.com",
+    "description": "A competitive Gaming Ecosystem Platform focusing on the metaverse blockchain gaming",
+    "explorer": "https://bscscan.com/token/0x36fb77228EA1A75C9F356FAB97520D061F7AcFD8",
+    "type": "BEP20",
+    "symbol": "SHIBV2",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x36fb77228EA1A75C9F356FAB97520D061F7AcFD8"
+}
