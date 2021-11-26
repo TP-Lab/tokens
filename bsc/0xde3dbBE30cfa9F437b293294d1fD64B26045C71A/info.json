@@ -1,0 +1,11 @@
+﻿{
+ "name": "NFTB Token",
+ "website": "https://nftb.io/",
+ "description": "NFTb是一个面向社区的完整多链NFT和DeFi平台，我们的最终目标是为任何地方的任何人构建一个具有最佳用户体验的NFT和DeFi平台。",
+ "explorer": "https://bscscan.com/token/0xde3dbBE30cfa9F437b293294d1fD64B26045C71A",
+ "type": "BEP20",
+ "symbol": "NFTB",
+ "decimals":18,
+ "status": "active",
+ "id": "0xde3dbBE30cfa9F437b293294d1fD64B26045C71A"
+}
