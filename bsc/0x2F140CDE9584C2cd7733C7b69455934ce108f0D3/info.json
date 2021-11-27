@@ -1,0 +1,11 @@
+{
+ "name": "COC",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x2F140CDE9584C2cd7733C7b69455934ce108f0D3",
+ "type": "BEP20",
+ "symbol": "COC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2F140CDE9584C2cd7733C7b69455934ce108f0D3"
+}
