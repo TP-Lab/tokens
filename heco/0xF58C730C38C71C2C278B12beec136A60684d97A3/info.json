@@ -1,0 +1,11 @@
+{
+ "name": "Shopping Coin",
+ "website": "https://heavenly.org/",
+ "description": "Coconut home army sent together Shopping Coin",
+ "explorer": "https://hecoinfo.com/token/0xF58C730C38C71C2C278B12beec136A60684d97A3",
+ "type": "HRC-20",
+ "symbol": "GC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF58C730C38C71C2C278B12beec136A60684d97A3"
+}
