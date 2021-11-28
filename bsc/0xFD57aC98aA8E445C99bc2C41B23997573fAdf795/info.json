@@ -1,0 +1,11 @@
+{
+    "name": "ForthBox Coin",
+    "website": "https://forthbox.io",
+    "description": "WEB3.0 GAMEFI AGGREGATION PLATFORM SERVICE PROVIDER",
+    "explorer": "https://bscscan.com/token/0xFD57aC98aA8E445C99bc2C41B23997573fAdf795",
+    "type": "BEP20",
+    "symbol": "FBX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFD57aC98aA8E445C99bc2C41B23997573fAdf795"
+}
