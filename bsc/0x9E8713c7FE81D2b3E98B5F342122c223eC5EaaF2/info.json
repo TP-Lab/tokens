@@ -1,0 +1,11 @@
+{
+ "name": "Face Metaverse Near",
+ "website": "http://www.fmn.finance",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x9E8713c7FE81D2b3E98B5F342122c223eC5EaaF2",
+ "type": "BEP20",
+ "symbol": "FMN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9E8713c7FE81D2b3E98B5F342122c223eC5EaaF2"
+}
