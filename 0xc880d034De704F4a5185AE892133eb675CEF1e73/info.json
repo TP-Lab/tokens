@@ -1,0 +1,11 @@
+{
+ "name": "GD",
+ "website": "http://www.i-want.top/",
+ "description": "Block game of bsc chain",
+ "explorer": "https://bscscan.com/token/0xc880d034De704F4a5185AE892133eb675CEF1e73",
+ "type": "BEP20",
+ "symbol": "GD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc880d034De704F4a5185AE892133eb675CEF1e73"
+}
