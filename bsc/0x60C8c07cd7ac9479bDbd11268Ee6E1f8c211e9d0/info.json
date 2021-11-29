@@ -1,0 +1,11 @@
+{
+ "name": "CACA",
+ "website": "www.cacapay.shop",
+ "description": "Create a new payment chain.",
+ "explorer": "https://www.bscscan.com/token/0x60C8c07cd7ac9479bDbd11268Ee6E1f8c211e9d0",
+ "type": "BEP20",
+ "symbol": "CACA",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x60C8c07cd7ac9479bDbd11268Ee6E1f8c211e9d0"
+}
