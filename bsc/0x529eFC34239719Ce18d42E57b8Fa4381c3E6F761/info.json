@@ -1,0 +1,11 @@
+{
+ "name": "CheersLand CHEERS",
+ "website": "https://bscscan.com/token/0x529eFC34239719Ce18d42E57b8Fa4381c3E6F761",
+ "description": "CHEERS TOKEN",
+ "explorer": "https://bscscan.com/token/0x529eFC34239719Ce18d42E57b8Fa4381c3E6F761",
+ "type": "BEP20",
+ "symbol": "CHEERS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x529eFC34239719Ce18d42E57b8Fa4381c3E6F761"
+}
