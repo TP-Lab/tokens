@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ChecksumFile Version="1.0">
+  <Settings>
+    <LastUsedScanPath>C:\Users\Administrator\Desktop\0x379857074aaaae3e817c5e21a6bc514350984340\0x379857074aaaae3e817c5e21a6bc514350984340</LastUsedScanPath>
+    <CheckSumFileLastUpdated>2021-12-01T03:23:43+08:00</CheckSumFileLastUpdated>
+    <UsedHashAlgorithm>MD5</UsedHashAlgorithm>
+    <IgnoreFilePatterns />
+  </Settings>
+  <Entries>
+    <Entry>
+      <Name>info.json</Name>
+      <Checksum>3f23b9f33674515258e8b55391af087b</Checksum>
+      <TimeLastChanged>2021-09-16T00:07:18+08:00</TimeLastChanged>
+      <Size>365</Size>
+    </Entry>
+    <Entry>
+      <Name>logo.png</Name>
+      <Checksum>d73131acb823b98362e7c4899f68b7d6</Checksum>
+      <TimeLastChanged>2021-11-28T19:26:38+08:00</TimeLastChanged>
+      <Size>1899</Size>
+    </Entry>
+  </Entries>
+</ChecksumFile>
