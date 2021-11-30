@@ -1,0 +1,11 @@
+{
+ "name": "FaxChain",
+ "website": "faxchain.org",
+ "description": "FaxChain是一个高效、安全、无限扩展的区块链基础设施项目，通过对FaxChain、FaxMax和FaxSpace的逻辑解耦以及独立 实现，为去中心化应用提供可无限扩展的算力、数据存储能力。",
+ "explorer": "http://faxscan.org",
+ "type": "FRC20",
+ "symbol": "FAX",
+ "decimals": 18,
+ "status": "active",
+ "id": ""
+}
