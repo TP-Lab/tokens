@@ -1,0 +1,11 @@
+{
+ "name": "PitBulls Token",
+ "website": "https://pitbullsamerica.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x6867b0CA29aF2206ECb3e5074c052e69a5350ea4",
+ "type": "BEP20",
+ "symbol": "PitBulls",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x6867b0CA29aF2206ECb3e5074c052e69a5350ea4"
+}

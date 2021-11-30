@@ -1,0 +1,11 @@
+{
+ "name": "ZombieCake",
+ "website": "https://www.zombiecake.xyz/",
+ "description": "ZombieCake is one of the most fearless and fast-spreading reflection-based projects on the Binance Smart Chain.",
+ "explorer": "https://bscscan.com/token/0xda2db94ff2df63d7c2fae24ee7931498f6622ed7",
+ "type": "BEP20",
+ "symbol": "ZC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xda2dB94fF2df63d7C2Fae24Ee7931498f6622ed7"
+}
