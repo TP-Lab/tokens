@@ -1,0 +1,11 @@
+{
+ "name": "NINJA BNB",
+ "website": "https://NINJA-BNB.COM",
+ "description": "Ninja BNB ($NBNB) is a metaverse game based on the BSC chain. Players can earn high BNB rewards ",
+ "explorer": "https://bscscan.com/token/0xae222f8ac864d51de5a67d5eb1aa267d776fd493",
+ "type": "BEP20",
+ "symbol": " NBNB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xae222f8ac864d51DE5a67D5Eb1aA267D776fD493"
+}
