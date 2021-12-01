@@ -1,0 +1,11 @@
+{
+    "name": "GMP",
+    "website": "https://gmp.cash/",
+    "description": "GMP Token",
+    "explorer": "https://bscscan.com/token/0x2829FA4F71dEBC4253BCAFeC588C51670CCC66Dd",
+    "type": "BEP20",
+    "symbol": "GMP",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x2829FA4F71dEBC4253BCAFeC588C51670CCC66Dd"
+}
