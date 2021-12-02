@@ -1,0 +1,11 @@
+{
+    "name": "Metatopia Coin",
+    "website": "https://www.metatopia.pro",
+    "description": "Metatopia will create a decentralized Topian meta-universe world. In its meta-universe, there is a Metatopia system that searches and attracts users. Coin (MTC for short) is Metatopia's ecological tokens, ecological planets. In the past week, with the continuous increase of users and continuous changes in development, Metatopia’s early moments will also be richly rewarded.",
+    "explorer": "https://bscscan.com/token/0xd42d3b98cbb266F7df96cce412588b7c7e941113",
+    "type": "BEP20",
+    "symbol": "MTC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd42d3b98cbb266F7df96cce412588b7c7e941113"
+}
