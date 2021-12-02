@@ -1,0 +1,11 @@
+{
+ "name": "EMP",
+ "website": "http://www.empnftmarket.com/",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x4018bf468d25edecdfcc228bf77a2d7cfa8e4a1d",
+ "type": "BEP20",
+ "symbol": "EMP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4018bf468d25edecdfcc228bf77a2d7cfa8e4a1d"
+}
