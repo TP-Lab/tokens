@@ -1,0 +1,11 @@
+{
+ "name": "HT Club",
+ "website": "https://HTClub.WORLD",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/token/0xb666ccf557d2a61addb07d3b9df1607ca9418b8f",
+ "type": "HECO20",
+ "symbol": "HT Club",
+ "decimals": 6,
+ "status": "active",
+ "0xb666ccf557d2a61addb07d3b9df1607ca9418b8f"
+}
