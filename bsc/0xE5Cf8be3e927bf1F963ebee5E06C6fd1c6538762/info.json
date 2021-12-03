@@ -1,0 +1,11 @@
+{
+ "name": "Genesis Island Crystal",
+ "website": "https://genesisisland.org",
+ "description": "Genesis Island is a Metaverse BlockChain game. the hunting grounds will provide you with sufficient crystal,which will be necessities witnessing your conquest of the enesis Island.",
+ "explorer": "https://bscscan.com/token/0xE5Cf8be3e927bf1F963ebee5E06C6fd1c6538762",
+ "type": "BEP20",
+ "symbol": "GIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE5Cf8be3e927bf1F963ebee5E06C6fd1c6538762"
+}
