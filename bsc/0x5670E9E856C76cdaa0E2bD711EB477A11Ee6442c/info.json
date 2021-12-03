@@ -1,0 +1,11 @@
+{
+ "name": "Genesis Island Iron",
+ "website": "https://genesisisland.org",
+ "description": "Genesis Island is a Metaverse BlockChain game. the hunting grounds will provide you with sufficient iron,which will be necessities witnessing your conquest of the Genesis Island.",
+ "explorer": "https://bscscan.com/token/0x5670E9E856C76cdaa0E2bD711EB477A11Ee6442c",
+ "type": "BEP20",
+ "symbol": "GII",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5670E9E856C76cdaa0E2bD711EB477A11Ee6442c"
+}
