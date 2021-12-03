@@ -1,0 +1,11 @@
+{
+ "name": "AIOT Network",
+ "website": "-",
+ "description": "AIOT Network (AIOT) is a highly autonomous, decentralized, fair and just ecological community.",
+ "explorer": "https://bscscan.com/token/0x6ba9F4f2AeA401DE25905eBcB4BA7e951a8Ea2aa",
+ "type": "BEP20",
+ "symbol": "AIOT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6ba9F4f2AeA401DE25905eBcB4BA7e951a8Ea2aa"
+}
