@@ -1,0 +1,11 @@
+{
+ "name": "Genesis Island Meat",
+ "website": "https://genesisisland.org",
+ "description": "Genesis Island is a Metaverse BlockChain game. the hunting grounds will provide you with sufficient meat,which will be necessities witnessing your conquest of the Genesis Island.",
+ "explorer": "https://bscscan.com/token/0x9070e43631D55c904c7bb0Aab2F84a50aA46247d",
+ "type": "BEP20",
+ "symbol": "GIM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9070e43631D55c904c7bb0Aab2F84a50aA46247d"
+}
