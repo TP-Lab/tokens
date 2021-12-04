@@ -1,0 +1,11 @@
+{
+ "name": "DMT Token",
+ "website": "https://demeter.xyz",
+ "description": "An Advanced, Antitrust And Autostabilization Currency.",
+ "explorer": "https://bscscan.com/address/0x3Eb05a201817F87C198930B86F40C6829340b4B7",
+ "type": "BEP20",
+ "symbol": "DMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3Eb05a201817F87C198930B86F40C6829340b4B7"
+}

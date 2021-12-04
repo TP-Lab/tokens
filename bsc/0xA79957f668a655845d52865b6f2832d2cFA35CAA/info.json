@@ -1,0 +1,11 @@
+{
+    "name": "LC Electronic Payment Token",
+    "website": "winpay.link",
+    "description": "LCEP是联创集团子公司海南盈联商盟区块链技术有限公司推出的支付消费赚取LCEP（英文Lian Chuang electronic payment，简称LCEP）第三方支付工具不在是消费而是增值品，不同的用户在不同的时间地点产生不同且唯一的消费信息，将这些唯一信息生成区块，采用工作量共识机制，通过计算节点奖励LCEP，LCEP的产出过程即是消费挖矿的过程。",
+    "explorer": "https://bscscan.com/address/0xa79957f668a655845d52865b6f2832d2cfa35caa",
+    "type": "BEP20",
+    "symbol": "LCEP",
+    "decimals": 4,
+    "status": "active",
+    "id": "0xA79957f668a655845d52865b6f2832d2cFA35CAA"
+}

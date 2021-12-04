@@ -1,0 +1,11 @@
+{
+ "name": "MELI",
+ "website": "https://meli.games/",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xaD04AC36791d923DeB082dA4f91Ab71675dD18fB",
+ "type": "BEP20",
+ "symbol": "MELI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaD04AC36791d923DeB082dA4f91Ab71675dD18fB"
+}

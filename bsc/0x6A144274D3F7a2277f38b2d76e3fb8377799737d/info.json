@@ -1,0 +1,11 @@
+{
+ "name": "MJNetwork",
+ "website": "https://mjnetwork.xyz",
+ "description": "Build a more reasonable digital economy ecology in terms of sustainability and economic feasibility.",
+ "explorer": "https://bscscan.com/token/0x6A144274D3F7a2277f38b2d76e3fb8377799737d",
+ "type": "BEP20",
+ "symbol": "MJN",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x6A144274D3F7a2277f38b2d76e3fb8377799737d"
+}

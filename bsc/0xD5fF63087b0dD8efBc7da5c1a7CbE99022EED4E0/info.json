@@ -1,0 +1,11 @@
+{
+ "name": "GenshinZilla",
+ "website": "https://bscscan.com/token/0xD5fF63087b0dD8efBc7da5c1a7CbE99022EED4E0",
+ "description": "GenshinZilla TOKEN.",
+ "explorer": "https://bscscan.com/token/0xD5fF63087b0dD8efBc7da5c1a7CbE99022EED4E0",
+ "type": "BEP20",
+ "symbol": "GSZL",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xD5fF63087b0dD8efBc7da5c1a7CbE99022EED4E0"
+}
