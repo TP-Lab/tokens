@@ -1,0 +1,11 @@
+{
+ "name": "BlockWarrior",
+ "website": "https://www.blockwarrior.io",
+ "description": " Dedicated to providing fun and profitable NFT treats for BlockWarrior players.",
+ "explorer": "https://bscscan.com/token/0x5c7C45E7C8Febb2a16092FE32Bc465e88d4389Eb",
+ "type": "BEP20",
+ "symbol": "BLWA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5c7C45E7C8Febb2a16092FE32Bc465e88d4389Eb"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "AOCODS",
+ "website": "http://www.aocotoken.info",
+ "description": "AOCODS is a sub-token of AOCO which is responsible for ecological and environmental protection",
+ "explorer": "https://bscscan.com/token/0x42f0932B85D6E54C568B9A75D914B4Ce89f07773",
+ "type": "BEP20",
+ "symbol": "AOCODS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x42f0932B85D6E54C568B9A75D914B4Ce89f07773"
+}
