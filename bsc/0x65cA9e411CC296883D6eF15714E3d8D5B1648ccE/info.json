@@ -1,0 +1,11 @@
+{
+ "name": "WASP",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x65cA9e411CC296883D6eF15714E3d8D5B1648ccE",
+ "type": "BEP20",
+ "symbol": "WASP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x65cA9e411CC296883D6eF15714E3d8D5B1648ccE"
+}
