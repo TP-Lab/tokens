@@ -1,0 +1,11 @@
+{
+    "name": "FORTH",
+    "website": "https://www.ampleforth.org",
+    "description": "FORTH is Ampleforth's (AMPL) governance token. FORTH holders can vote on proposed changes to the Ampleforth protocol or delegate their votes to representatives who vote on their behalf.",
+    "explorer": "https://bscscan.com/token/0xC979C4B8193C22eA0FD685395E504f407d3aB887",
+    "type": "BEP20",
+    "symbol": "FORTH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC979C4B8193C22eA0FD685395E504f407d3aB887"
+}
