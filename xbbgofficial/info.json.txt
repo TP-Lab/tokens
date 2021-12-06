@@ -1,0 +1,11 @@
+{
+ "name": "bbgame",
+ "website": "https://bbgame.io",
+ "description": "BB coin is governence/utility coin of playing BB game",
+ "explorer": "https://bloks.io/tokens/BBG-eos-xbbgofficial",
+ "type": "EOS",
+ "symbol": "BBG",
+ "decimals": 4,
+ "status": "active",
+ "id": "https://bloks.io/tokens/BBG-eos-xbbgofficial"
+} 
