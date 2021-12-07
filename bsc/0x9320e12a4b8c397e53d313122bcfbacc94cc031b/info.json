@@ -1,0 +1,11 @@
+{
+ "name": "YFS",
+ "website": "https://yfs.world",
+ "description": "Highly decentralized and charity DeFi platform.",
+ "explorer": "https://bscscan.com/address/0x9320e12a4B8c397E53D313122bCfbacc94Cc031b",
+ "type": "BEP20",
+ "symbol": "YFS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9320e12a4B8c397E53D313122bCfbacc94Cc031b"
+}
