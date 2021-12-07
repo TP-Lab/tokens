@@ -1,0 +1,13 @@
+
+   
+{
+ "name": "SETCoin Token",
+ "website": "https://metaer.market",
+ "description": "The SETCoin Token is the platform token of meter.market. It can be used to pay for NFT casting fees, etc.",
+ "explorer": "https://bscscan.com/token/0x0c18d1bE6777Dc66Ee5BA80fa9c3Be1dD71d2169",
+ "type": "BEP20",
+ "symbol": "SET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0c18d1bE6777Dc66Ee5BA80fa9c3Be1dD71d2169"
+}
