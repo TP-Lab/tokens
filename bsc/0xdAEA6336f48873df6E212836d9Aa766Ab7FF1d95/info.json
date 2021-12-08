@@ -1,0 +1,11 @@
+{
+   "name":"ConeGame",
+   "website":"https://game.coin.one/",
+   "description":"CONEGAME, an alleviating mining game, allows players to obtain all kinds of captivating NFTs & items to assist them in catching more creatures, attaining more NFTs and earning more CONEGAME.",
+   "explorer":"https://bscscan.com/address/0xdaea6336f48873df6e212836d9aa766ab7ff1d95",
+   "type":"BEP20",
+   "symbol":"CONEGAME",
+   "decimals":9,
+   "status":"active",
+   "id":"0xdAEA6336f48873df6E212836d9Aa766Ab7FF1d95"
+}
