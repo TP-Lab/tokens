@@ -1,11 +1,11 @@
 {
- "name": "Psychodoge Token",
- "website": "https://psychodoge.io/",
- "description": "$PSYCHODOGE is a hyper-deflationary Binance Smart Chain BEP-20 token dragging you from the screaming depths of memecoin hell and misery and rocketing you to smiling your ass off all the way to the moon and beyond! No “buy-back” bullshit, no “rewards in BNB”, no fancy fuckery…",
- "explorer": "https://bscscan.com/token/0xD4cdBd31f55c6F06B267809b5eca0f0C257c8A6A",
+ "name": "REPE",
+ "website": "http://www.repe.info",
+ "description": ""Reiki Pet" is a world full of unique pets and a sense of player autonomy, where all players can earn wealth through skilled gameplay and contributions to the ecosystem",
+ "explorer": "https://bscscan.com/token/0x123646F2eba15760666b976B4B399D712efffFeA",
  "type": "BEP20",
- "symbol": "PSYCHODOGE",
+ "symbol": "REPE",
  "decimals": 18,
  "status": "active",
- "id": "0xD4cdBd31f55c6F06B267809b5eca0f0C257c8A6A"
+ "id": "0x123646F2eba15760666b976B4B399D712efffFeA"
 }

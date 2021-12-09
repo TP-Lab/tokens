@@ -1,0 +1,11 @@
+{
+ "name": "Tribal War",
+ "website": "http://www.tribalwar.games",
+ "description": "Tribal War is a tribal war-themed GameFi project based on the BSC chain developed by Finnish game company Supercell and Tribal War Foundation.It is also a real meta-universe game project and will be gradually deployed in the future to support EVM ( Multi-chain operation on the public chain (such as HECO, MATIC, Sonal, OkexChain) of the Ethereum Virtual Machine. At the same time, in the future Tribal War will develop virtual reality scenes and is committed to creating the Tribal War meta-universe",
+ "explorer": "https://bscscan.com/token/0x1B952b4fe104da4ddA7d5F23703fD8cB936435f7",
+ "type": "BEP20",
+ "symbol": "TBW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1B952b4fe104da4ddA7d5F23703fD8cB936435f7"
+}
