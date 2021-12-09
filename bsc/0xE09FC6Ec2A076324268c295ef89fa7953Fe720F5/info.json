@@ -1,0 +1,11 @@
+{
+ "name": "Dragon Token",
+ "website": "https://bsc-dragon.com/",
+ "description": "Dragon is a meta-universe platform focused on building a community-wide autonomy on Binance Chain! Mainly carry out NFT assets and games, release, and link the world-renowned meta-universe project at the same time!",
+ "explorer": "https://bscscan.com/token/0xE09FC6Ec2A076324268c295ef89fa7953Fe720F5",
+ "type": "BEP20",
+ "symbol": "DRAGON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE09FC6Ec2A076324268c295ef89fa7953Fe720F5"
+}
