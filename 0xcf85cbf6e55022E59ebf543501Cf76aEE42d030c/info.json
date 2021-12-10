@@ -1,0 +1,11 @@
+{
+  "name": "OK Fly",
+  "website": "https://www.okfly.me",
+  "description": "我们致力为每一个项目建立属于自己生态圈，在okfly上，任何一个项目都可以借助okfly的技术快速实现应用落地，完成生态建设与发展，并且以okfly为枢纽平台，与所有项目完成链接真正做到生态元宇宙概念。",
+  "explorer": "https://bscscan.com/token/0xcf85cbf6e55022E59ebf543501Cf76aEE42d030c",
+  "type": "BEP20",
+  "symbol": "OKFly",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcf85cbf6e55022E59ebf543501Cf76aEE42d030c"
+}
