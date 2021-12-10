@@ -1,0 +1,11 @@
+{
+    "name": "METAZOON TOKEN",
+    "website": "https://metazoon.io",
+    "description": "The decentralized Meme coin grows into MetaZoon's game Metaverse. MetaZoon devotes to build a bridge between the the P2E game and players and make the game not only for fun but also can make money!",
+    "explorer": "https://bscscan.com/tx/0xc279f34489ee397a39b642228163f2e53deae0419a76030782fc2a5e7a4216ca",
+    "type": "BEP20",
+    "symbol": "MEZ",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x60e9129dCF1D2e235eA0b572fdDc2bfbBbE9c0bc"
+}
