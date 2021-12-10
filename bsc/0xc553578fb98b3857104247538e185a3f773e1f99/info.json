@@ -1,0 +1,11 @@
+{
+ "name": "MWD Token",
+ "website": "https://bscscan.com/token/0xc553578fb98b3857104247538e185a3f773e1f99",
+ "description": "MWD TOKEN.",
+ "explorer": "https://bscscan.com/token/0xc553578fb98b3857104247538e185a3f773e1f99",
+ "type": "BEP20",
+ "symbol": "MWD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc553578fb98b3857104247538e185a3f773e1f99"
+}
