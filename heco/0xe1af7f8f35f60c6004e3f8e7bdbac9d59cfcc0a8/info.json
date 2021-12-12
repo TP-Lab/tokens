@@ -1,0 +1,11 @@
+{
+ "name": "bmt Token",
+ "website": "https://hecoinfo.com/token/0xe1af7f8f35f60c6004e3f8e7bdbac9d59cfcc0a8",
+ "description": "bmt TOKEN.",
+ "explorer": "https://hecoinfo.com/token/0xe1af7f8f35f60c6004e3f8e7bdbac9d59cfcc0a8",
+ "type": "HRC-20",
+ "symbol": "bmt",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe1af7f8f35f60c6004e3f8e7bdbac9d59cfcc0a8"
+}
