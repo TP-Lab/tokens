@@ -1,0 +1,11 @@
+{
+“name”: “Ultraman”,
+“website”: “-”,
+“description”: “Ultraman is a meta-universe platform focused on building a community-wide autonomy on Binance Chain. Mainly carry out NFT assets and games, release, and link the world-renowned meta-universe project at the same time.”,
+“explorer”: “https://bscscan.com/token/0x0e1eb48e7386eefcc91f72fa610f744e27726b67”,
+“type”: “BEP20”,
+“symbol”: “Ultraman”,
+“decimals”: 9,
+“status”: “active”,
+“id”: “0x0e1eb48e7386eefcc91f72fa610f744e27726b67”
+}
