@@ -1,11 +1,21 @@
 {
- "name": "Curtis Sword Coin",
- "website": "https://www.curtisswords.xyz",
- "description": "Curtis Sword is the first 3D NFT ARPG Mobile GameFi on BSC blockchain.",
- "explorer": "https://bscscan.com/token/0x2d60acafa914f7620b0b3f50ad14abd71f765183",
+
+ "name": “Curtis Sword Coin”,
+
+ "website": "https://www.curtisswords.xyz/“,
+
+ "description": “CSC is the first 3D NFT ARPG Mobile GameFi on BSC.”,
+
+ "explorer": "https://bscscan.com/token/0x2d60aCAFa914f7620b0B3F50ad14aBD71F765183",
+
  "type": "BEP20",
- "symbol": "CSC",
+
+ "symbol": "CSC”,
+
  "decimals": 18,
+
  "status": "active",
- "id": "0x2d60acafa914f7620b0b3f50ad14abd71f765183"
+
+ "id": "0x2d60aCAFa914f7620b0B3F50ad14aBD71F765183"
+
 }
