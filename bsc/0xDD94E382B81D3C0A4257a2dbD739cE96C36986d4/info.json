@@ -1,0 +1,11 @@
+{
+ "name": "sandddd",
+ "website": "https://bscscan.com/token/0xDD94E382B81D3C0A4257a2dbD739cE96C36986d4",
+ "description": "Sandddd是基于Bsc链上发行的生态代币，创始团队是Sand的早期参与组织为感谢Sand对加密生态做出的巨大贡献，特此该团队仿照Sand的生态创建了Sandddd代币，同时该团队也热衷于去中心化组织的建设与发展。目前已经获得了Marbury的支持，同时在线下已经开启推广",
+ "explorer": "https://bscscan.com/token/0xDD94E382B81D3C0A4257a2dbD739cE96C36986d4",
+ "type": "BEP20",
+ "symbol": "sandddd",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xDD94E382B81D3C0A4257a2dbD739cE96C36986d4"
+}
