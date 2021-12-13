@@ -1,0 +1,11 @@
+{
+ "name": "CXB",
+ "website": "https://cxbapp.xyz",
+ "description": "Community token for a social experiment.",
+ "explorer": "https://bscscan.com/token/0xd96cee5c37f6d4add020c4f5f35fc4171097a2e8",
+ "type": "BEP20",
+ "symbol": "CXB",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xd96cEE5C37F6d4adD020c4f5F35FC4171097a2e8"
+}
