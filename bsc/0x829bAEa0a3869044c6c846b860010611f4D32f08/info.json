@@ -1,0 +1,11 @@
+{
+    "name": "Bet Token",
+    "website": "https://bet.binance8.finance",
+    "description": "BET token is a bargaining chip in table games",
+    "explorer": "https://bscscan.com/token/0x829bAEa0a3869044c6c846b860010611f4D32f08",
+    "type": "BEP20",
+    "symbol": "BET",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x829bAEa0a3869044c6c846b860010611f4D32f08"
+   }
