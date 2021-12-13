@@ -1,0 +1,11 @@
+{
+  "name": "DBTC",
+  "website": "https://www.dbtc.ac.cn",
+  "description": "-",
+  "explorer": "https://bscscan.com/token/0xbe180306f37cda1CDEf13a4d0206B5da45eF0180",
+  "type": "BEP20",
+  "symbol": "DBTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbe180306f37cda1CDEf13a4d0206B5da45eF0180"
+}
