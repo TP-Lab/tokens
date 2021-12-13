@@ -1,0 +1,11 @@
+{
+  "name": "Uncp",
+  "website": "https://metaspaceunicorn.com",
+  "description": "Uncp is the game currency in the chain game unicorn. When users start to fight monsters, they need to consume Uncp, And the corresponding income will be issued in the economic benefit link of the game.",
+  "explorer": "https://bscscan.com/token/0x41c68247eae9E29AA2be01E56A28C8864aa5AF09",
+  "type": "BEP20",
+  "symbol": "Uncp",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x41c68247eae9E29AA2be01E56A28C8864aa5AF09"
+}

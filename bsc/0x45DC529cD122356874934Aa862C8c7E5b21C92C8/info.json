@@ -1,0 +1,11 @@
+{
+  "name": "Uncm",
+  "website": "https://metaspaceunicorn.com",
+  "description": "Uncm is the game currency in the chain game Unicorn. When users purchase mounts, they need to pay Uncm, And the corresponding income will be issued in the economic benefit link of the game.",
+  "explorer": "https://bscscan.com/token/0x45DC529cD122356874934Aa862C8c7E5b21C92C8",
+  "type": "BEP20",
+  "symbol": "Uncm",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x45DC529cD122356874934Aa862C8c7E5b21C92C8"
+}
