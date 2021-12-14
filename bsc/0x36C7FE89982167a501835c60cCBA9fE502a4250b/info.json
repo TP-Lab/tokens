@@ -1,0 +1,11 @@
+{
+    "name": "ZS Token",
+    "website": "https://cc.8slb.com",
+    "description": "Global Digital Token application scenario service platform",
+    "explorer": "https://bscscan.com/token/0x36C7FE89982167a501835c60cCBA9fE502a4250b",
+    "type": "BEP20",
+    "symbol": "ZSDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x36C7FE89982167a501835c60cCBA9fE502a4250b"
+   } 
