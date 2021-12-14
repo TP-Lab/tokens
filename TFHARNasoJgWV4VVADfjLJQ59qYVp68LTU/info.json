@@ -1,0 +1,11 @@
+{
+ "name": "HTU66 token",
+ "website": "https://www.hongtucheng.com/",
+ "description": "The HTU is a community-centered decentralized NFT+DEFI cloud platform built on the TRX wave field public chain.",
+ "explorer": "https://tronscan.io/#/token20/TFHARNasoJgWV4VVADfjLJQ59qYVp68LTU",
+ "type": "TRC20",
+ "symbol": "HTU66",
+ "decimals": 6,
+ "status": "active",
+ "id": "TFHARNasoJgWV4VVADfjLJQ59qYVp68LTU"
+}
