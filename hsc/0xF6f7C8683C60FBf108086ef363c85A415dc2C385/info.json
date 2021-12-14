@@ -1,0 +1,11 @@
+{
+ "name": "Carbon Neutral Token",
+ "website": "-",
+ "description": "CNT is a cryptographic verification token for carbon neutrality and international carbon trading.",
+ "explorer": "https://bscscan.com/address/0xF6f7C8683C60FBf108086ef363c85A415dc2C385",
+ "type": "BEP20",
+ "symbol": "CNT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF6f7C8683C60FBf108086ef363c85A415dc2C385"
+}
