@@ -1,21 +1,11 @@
 {
- 
-"name": "GODBTC Token",
- 
-"website": "https://godbtctoken.org",
- 
-"description": "GBTC will be the best token for web3.",
-
+ "name": "GODBTC Token",
+ "website": "https://godbtctoken.org",
+ "description": "GBTC will be the best token for web3.",
  "explorer": "https://bscscan.com/token/0xac7734130734280aa81551274bf4dd6b5611a623",
-
  "type": "BEP20",
- 
-"symbol": "GBTC",
- 
-"decimals": 9,
-
+ "symbol": "GBTC",
+ "decimals": 9,
  "status": "active",
-
  "id": "0xAC7734130734280Aa81551274bF4DD6B5611a623"
-
 }
