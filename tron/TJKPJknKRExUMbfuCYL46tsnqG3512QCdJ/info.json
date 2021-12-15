@@ -1,0 +1,11 @@
+{
+ "name": "New FIST Coin",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://tronscan.io/#/token20/TJKPJknKRExUMbfuCYL46tsnqG3512QCdJ",
+ "type": "TRC20",
+ "symbol": "FIST",
+ "decimals": 18,
+ "status": "active",
+ "id": "TJKPJknKRExUMbfuCYL46tsnqG3512QCdJ"
+}
