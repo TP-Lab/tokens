@@ -1,0 +1,13 @@
+{
+ "name": "NEZ",
+ "website": "https://www.neztoken.com/",
+ "description": "The NEZ Token is a product of Nexzone Global, a parent company with various crypto - based projects such as NFT, DEX, CEX. NEZ is a payment gateway that facilitates P2P commission payment.
+
+",
+ "explorer": "https://tronscan.io/#/token20/TAMomNPo2LfnSm2KELWphm9iP5TQELuvuY",
+ "type": "TRC20",
+ "symbol": "NEZ",
+ "decimals": 8,
+ "status": "active",
+ "id": "TAMomNPo2LfnSm2KELWphm9iP5TQELuvuY"
+}
