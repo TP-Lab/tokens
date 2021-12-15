@@ -1,0 +1,11 @@
+{
+ "name": "MagicOfUniverse",
+ "website": "https://www.magicofuniverse.games/",
+ "description": "Magic Universe is a simulated business + battle chain game based on the cryptoasset Play-To-Earn mode. In the early stage, it is based on the BSC public chain, and in the following, it will open multi-chain playing methods and cross-chain applications such as BSC and ETH.",
+ "explorer": "https://bscscan.com/token/0x78ec4c365a7b05824bd61c59d4aebb38feebad10",
+ "type": "BEP20",
+ "symbol": "MGC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x78eC4c365A7B05824Bd61C59D4AEBb38feebad10"
+}
