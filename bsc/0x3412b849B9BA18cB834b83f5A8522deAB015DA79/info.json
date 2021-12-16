@@ -1,0 +1,11 @@
+{
+ "name": "Zerus of Fire Element",
+ "website": "https://www.zerus.org",
+ "description": "Mechanics, as the core of the group, play the critical role of gathering the Fire Elements, which also play an important part in other professions’ upgrades.",
+ "explorer": "https://bscscan.com/token/0x3412b849B9BA18cB834b83f5A8522deAB015DA79",
+ "type": "BEP20",
+ "symbol": "ZFE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3412b849B9BA18cB834b83f5A8522deAB015DA79"
+}
