@@ -1,0 +1,11 @@
+{
+ "name": "CheckDot",
+ "website": "https://checkdot.io/",
+ "description": "CheckDot平台是确保任何加密货币项目得到验证的一个重要检查点。",
+ "explorer": "https://bscscan.com/token/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE",
+ "type": "BEP20",
+ "symbol": "CDT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE"
+}
