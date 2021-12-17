@@ -1,0 +1,11 @@
+{
+ "name": "Metaverse Tikets",
+ "website": "http://mvtvip.com",
+ "description": "A ticket to the Metaverse.",
+ "explorer": "https://bscscan.com/token/0x1f48ccb475ab42235e1faaadb0743cadfdd27c35",
+ "type": "BEP20",
+ "symbol": "MVT",
+ "decimals": 18	,
+ "status": "active",
+ "id": "0x1F48ccB475ab42235E1FAaaDb0743cADFdD27C35"
+}
