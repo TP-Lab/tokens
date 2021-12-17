@@ -1,0 +1,11 @@
+{
+ "name": "Jumbo",
+ "website": "https://bscscan.com/token/0x44c098782990966Ec3aD27a7fA43947358EeB2C3",
+ "description": "JUMBO TOKEN.",
+ "explorer": "https://bscscan.com/token/0x44c098782990966Ec3aD27a7fA43947358EeB2C3",
+ "type": "BEP20",
+ "symbol": "JUB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x44c098782990966Ec3aD27a7fA43947358EeB2C3"
+}
