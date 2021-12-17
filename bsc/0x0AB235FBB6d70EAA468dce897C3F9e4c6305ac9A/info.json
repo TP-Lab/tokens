@@ -1,0 +1,11 @@
+{
+ "name": "TB Token",
+ "website": "https://www.starwarstb.com/",
+ "description": "TB is a platform token for nft games, which mainly has the functions of blind box opening, competition, and mining.",
+ "explorer": "https://bscscan.com/token/0x0AB235FBB6d70EAA468dce897C3F9e4c6305ac9A",
+ "type": "BEP20",
+ "symbol": "TP",
+ "decimals": 18,
+ "status": "active",
+ "id": "00x0AB235FBB6d70EAA468dce897C3F9e4c6305ac9A"
+}
