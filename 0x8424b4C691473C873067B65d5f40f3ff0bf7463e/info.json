@@ -1,0 +1,11 @@
+{
+ "name": "SHIBKING INU",
+ "website": "https://shibkinginu.com/",
+ "description": "Shibking is a hyper-deflationary DeFi token that runs on the Binance Smart Chain. TCM has a benign ecological pillar, where high-quality digital currency assets can be obtained and a new diversified decentralized transaction network has been established.",
+ "explorer": "https://bscscan.com/token/0x8424b4C691473C873067B65d5f40f3ff0bf7463e",
+ "type": "BEP20",
+ "symbol": "Shibking",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8424b4C691473C873067B65d5f40f3ff0bf7463e"
+}
