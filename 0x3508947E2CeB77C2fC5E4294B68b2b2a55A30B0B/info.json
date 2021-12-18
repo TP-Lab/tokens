@@ -1,0 +1,11 @@
+{
+"name": "CMPY",
+"website": "https://www.cmpy.me/",
+"description": "-",
+"explorer": "https://bscscan.com/token/0x3508947E2CeB77C2fC5E4294B68b2b2a55A30B0B",
+"type": "BEP20",
+"symbol": "CMPY",
+"decimals": 18,
+"status": "active",
+"id": "0x3508947E2CeB77C2fC5E4294B68b2b2a55A30B0B"
+} 
