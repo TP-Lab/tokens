@@ -1,0 +1,11 @@
+{
+ "name": "TokenPocket Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x0D6a45b00E1cD72f1f597d92A00d1AB56773768b",
+ "type": "BEP20",
+ "symbol": "Mars SHIBA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0D6a45b00E1cD72f1f597d92A00d1AB56773768b"
+}
