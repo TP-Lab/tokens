@@ -1,11 +1,11 @@
 {
- "name": "GOAT Token",
- "website": "http://www.goatfinance.io",
- "description": "GOAT-Open a new world of metaverse",
- "explorer": "https://bscscan.com/token/0xb1033Fce0bA6415f60FD592f90BE10580bC39830",
+ "name": "Barbecue",
+ "website": "https://barbecuetoken.com",
+ "description": "BBQ is an innovative payment network,It is an innovative idea based on Dao.",
+ "explorer": "https://bscscan.com/token/0xd34df83916a09731d5233c1594a53c2fa52a0b0c",
  "type": "BEP20",
- "symbol": "GOAT",
- "decimals": 8,
+ "symbol": "BBQ",
+ "decimals": 18,
  "status": "active",
- "id": "0xb1033Fce0bA6415f60FD592f90BE10580bC39830"
+ "id": "0xd34dF83916A09731D5233C1594A53c2fA52A0b0c"
 }
