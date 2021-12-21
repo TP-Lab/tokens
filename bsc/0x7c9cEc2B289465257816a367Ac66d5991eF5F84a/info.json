@@ -1,0 +1,12 @@
+{
+ "name": "SB",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x7c9cEc2B289465257816a367Ac66d5991eF5F84a",
+ "type": "BEP20",
+ "symbol": "SB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7c9cEc2B289465257816a367Ac66d5991eF5F84a
+"
+}
