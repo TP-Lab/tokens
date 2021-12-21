@@ -1,0 +1,11 @@
+{
+ "name": "BlueMarketToken",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x46F7ECbB7C3b4929aAf00BC4696ccA804Ff2fF7e",
+ "type": "BEP20",
+ "symbol": "BMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x46F7ECbB7C3b4929aAf00BC4696ccA804Ff2fF7e"
+}
