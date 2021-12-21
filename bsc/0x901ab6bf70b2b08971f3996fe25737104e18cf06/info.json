@@ -1,0 +1,11 @@
+{ 
+"name": "ANTPARK TOKEN",
+"website": "https://www.antpark.io/",
+"description": "Ant Park is an aggregated meta universe cultivation game based on BSC Smart Chain. It uses blockchain technology to create a meta universe ecological game that can break common problems in the industry. In Ant Park, all players will enter a new world, everything is new, waiting for players everywhere to unify the world. Ant Park adopts the community voting system. In the future, every player may become a rule maker and the founder of the country. All players can have a real immersive experience virtual space.",
+"explorer": "https://bscscan.com/token/0x901ab6bf70b2b08971f3996fe25737104e18cf06",
+"type": "BEP20",
+"symbol": "APT",
+"decimals": 18,
+"status": "active",
+"id": "0x901ab6bf70b2b08971f3996fe25737104e18cf06"
+}
