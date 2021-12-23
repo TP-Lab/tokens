@@ -1,0 +1,11 @@
+{
+    "name": "X Factor BNB",
+    "website": "https://xfactorbnb.github.io",
+    "description": "The BNB emergency fund issued by the BNBDAO organization",
+    "explorer": "https://bscscan.com/token/0x3BdcC258Cc829792f7918341AE164C5E07613eab",
+    "type": "BEP20",
+    "symbol": "XBNB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3BdcC258Cc829792f7918341AE164C5E07613eab"
+}
