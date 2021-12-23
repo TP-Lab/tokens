@@ -1,0 +1,11 @@
+{
+ "name": "ZDE131 Token",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0xD9096512E70B33963ce84440487fD1Fb46941C81",
+ "type": "BSC20",
+ "symbol": "ZDE131",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD9096512E70B33963ce84440487fD1Fb46941C81"
+}
