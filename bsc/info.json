@@ -1,11 +1,29 @@
 {
- "name": "Lighthouse Token",
- "website": "http://www.lighthousestrategy.vip/office/#/",
- "description": "LIG  Is based onThe customized pass of lighthouse community games opens up new markets for entrepreneurs and makes the circulation value of lighthouse NFT Token",
- "explorer": "https://bscscan.com/token/0x3D18B7c59529E2f9d6E81A9126270FcfbB87E6fb",
+
+ "name": "Dimensional space Token",
+
+ "website": "https://www.metaspaced.app",
+
+ "description": "DLC is the Token of Dimensional Space in the game ecology. Players get DLC in the game.",
+
+ "explorer": "https://bscscan.com/token/0xdc6b06cbcCB2bbdC9A6f50FaD3182c081E7b5D83",
+
  "type": "BEP20",
- "symbol": "LIG",
- "decimals": 9,
+
+ "symbol": "DLC",
+
+ "decimals": 18,
+
+ "id": "0xdc6b06cbcCB2bbdC9A6f50FaD3182c081E7b5D83"
+
  "status": "active",
- "id": "0x3D18B7c59529E2f9d6E81A9126270FcfbB87E6fb"
+
+ "name": "Twitter", 
+
+ "url": "https://twitter.com/RalphToken"
+
+ "name": "Telegram", 
+
+ "url": "https://t.me/+tIzTnU7xhGs2NGRl"
+
 }
