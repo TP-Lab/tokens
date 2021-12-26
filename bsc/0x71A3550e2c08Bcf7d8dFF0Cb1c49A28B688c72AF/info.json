@@ -1,0 +1,11 @@
+{
+ "name": "BTC",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x71A3550e2c08Bcf7d8dFF0Cb1c49A28B688c72AF",
+ "type": "HRC-2",
+ "symbol": "BTC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x71A3550e2c08Bcf7d8dFF0Cb1c49A28B688c72AF"
+}
