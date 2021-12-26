@@ -1,0 +1,22 @@
+1 {
+
+2 "name": "Fist Token",
+
+3 "website": "https://app.fstswap.vip
+",
+
+4 "description": BSC, 
+
+5 "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+
+6 "type": "BEP20",
+
+7 "symbol": "FIST",
+
+8 "decimals": 6,
+
+9 "status": "active",
+
+10 "id":"0xC9882dEF23bc42D53895b8361D0b1EDC7570Bc6A"
+
+11 }
