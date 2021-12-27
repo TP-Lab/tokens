@@ -1,0 +1,11 @@
+{
+ "name": "KTS",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/address/0x04394fCfDb939F3c04391aC39A3EA9f1C75BD0F2",
+ "type": "HRC-20",
+ "symbol": "KTS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x04394fCfDb939F3c04391aC39A3EA9f1C75BD0F2"
+} 
