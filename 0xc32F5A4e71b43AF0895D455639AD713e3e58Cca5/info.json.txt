@@ -1,0 +1,11 @@
+{
+ "name": "Perfect World Coin",
+ "website": "http://pw-block.cn/",
+ "description": "Perfect World brings together GameFi, NFT, and pledge. The excitement starts here.",
+ "explorer": "https://bscscan.com/token/0xc32F5A4e71b43AF0895D455639AD713e3e58Cca5",
+ "type": "BEP20",
+ "symbol": PWC",
+ "decimals": 13",
+ "status": "active",
+ "id": "0xc32F5A4e71b43AF0895D455639AD713e3e58Cca5"
+}
