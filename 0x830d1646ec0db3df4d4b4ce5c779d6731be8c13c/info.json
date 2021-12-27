@@ -1,0 +1,11 @@
+{
+“name”: “KittyFamily”,
+“website”: “kittyfamilycoin.wixsite.com/kittyfamily”,
+“description”: “This is a meme coin, full community autonomy.”,
+“explorer”: “https://bscscan.com/token/0x830d1646ec0db3df4d4b4ce5c779d6731be8c13c”,
+“type”: “BEP20”,
+“symbol”: “KittyFamily”,
+“decimals”: 9,
+“status”: “active”,
+“id”: “0x830D1646Ec0dB3Df4d4b4CE5C779d6731Be8c13c”
+}
