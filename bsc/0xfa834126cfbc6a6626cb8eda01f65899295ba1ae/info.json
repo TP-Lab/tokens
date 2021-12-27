@@ -1,0 +1,11 @@
+{
+ "name": "New Year",
+ "website": "http://NewYear.com/",
+ "description": "It aims to create an immersive interstellar city game experience for blockchain players.",
+ "explorer": "https://bscscan.com/token/0xfa834126cfbc6a6626cb8eda01f65899295ba1ae",
+ "type": "BEP20",
+ "symbol": "NY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfa834126cfbc6a6626cb8eda01f65899295ba1ae"
+}
