@@ -1,0 +1,11 @@
+{ 
+"name": "Dog Boss",
+"website": "http://dogboss.info/",
+"description": "Dog Boss is a yield-generating deflationary charitable cryptocurrency that runs on Binance Smart Chain. It rewards holders through reflections by taxing transactions. ",
+"explorer": "https://bscscan.com/token/0xD4824Ac8B00419d7cEB03FE3dd3908e6ecf27061",
+"type": "BEP20",
+"symbol": "Dog Boss",
+"decimals": 9,
+"status": "active",
+"id": "0xD4824Ac8B00419d7cEB03FE3dd3908e6ecf27061"
+}
