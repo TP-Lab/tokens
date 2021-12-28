@@ -1,0 +1,11 @@
+{
+ "name": "Meet",
+ "website": "-",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0xf3F4e590708adB0eAA46F8565ecBc6025C17DB09",
+ "type": "BEP20",
+ "symbol": "Meet",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf3F4e590708adB0eAA46F8565ecBc6025C17DB09"
+}
