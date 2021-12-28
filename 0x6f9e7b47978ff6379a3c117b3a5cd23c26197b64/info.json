@@ -1,0 +1,11 @@
+{
+ "name": "Very Small Coin",
+ "website": "https://tokenpocket.pro",
+ "description": "Nope.",
+ "explorer": "https://ropsten.etherscan.io/0x6f9e7b47978ff6379a3c117b3a5cd23c26197b64",
+ "type": "BEP20",
+ "symbol": "VSC",
+ "decimals": 5,
+ "status": "active",
+ "id": "0x6f9e7b47978ff6379a3c117b3a5cd23c26197b64"
+}
