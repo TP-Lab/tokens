@@ -1,0 +1,10 @@
+{
+  "name": "FILPRO",
+  "website": "http://filpro.net",
+  "description": "",
+  "explorer": "https://bscscan.com/token/0xD8918bf23976B7ced3858fcB46B0Dd28E8f53db7",
+  "type": "BEP20",
+  "symbol": "FILPRO",
+  "decimals": 8,
+  "id": "0xD8918bf23976B7ced3858fcB46B0Dd28E8f53db7"
+}
