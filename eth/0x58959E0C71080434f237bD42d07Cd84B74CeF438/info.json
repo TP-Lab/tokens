@@ -1,0 +1,11 @@
+{
+    "name": "Tesra AI Supernet",
+    "website": "https://tesra.io/",
+    "description": "TESRA 1.0 is a community-based shared computing network. Based on off-chain computing proofs, it forms a decentralized scheduling system and computing network by extending the consensus on the chain. It combines artificial intelligence and the Internet of Things to build a computing value layer for the future open business system. . TESRA meta universe is the abbreviation of the ecological scene where TESRA 2.0 builds meta universe. As a sub-universe in the meta-universe ecology, TESRA meta-universe also has six technical pillars and five basic characteristics. It is not only a new world brought about by the era of technological explosion, but also a new way of life in the future, whether it is entertainment, consumption, Social or work can be combined with it. In the future, TESRA aspires to become a global and infinitely scalable supercomputing network, gathering global blockchain developers and enthusiasts to build an open community, encouraging participants’ free innovation, collaboration and value creation, and advocating data privacy and security , To build the computational intelligence of a fully programmable society in the future.",
+    "explorer": "https://etherscan.io/token/0x58959e0c71080434f237bd42d07cd84b74cef438",
+    "type": "ERC20",
+    "symbol": "TSR",
+    "decimals": 5,
+    "status": "active",
+    "id": "0x58959E0C71080434f237bD42d07Cd84B74CeF438"
+   }
