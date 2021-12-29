@@ -1,0 +1,11 @@
+{
+ "name": "PETToken",
+ "website": "https://www.multiversedao.org",
+ "description": "It is the mission of MultiverseDao that everyone owns land and houses in the metaverse.",
+ "explorer": "https://polygonscan.com/token/0xb1163002C7cB1892D8B188580E9B7E92dc140A49",
+ "type": "Polygon",
+ "symbol": "PET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb1163002C7cB1892D8B188580E9B7E92dc140A49"
+}
