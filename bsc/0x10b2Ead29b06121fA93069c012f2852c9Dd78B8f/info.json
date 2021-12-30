@@ -1,0 +1,11 @@
+{
+ "name": "STAR META",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/address/0x10b2Ead29b06121fA93069c012f2852c9Dd78B8f",
+ "type": "BEP20",
+ "symbol": "STARZ",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x10b2Ead29b06121fA93069c012f2852c9Dd78B8f"
+}
