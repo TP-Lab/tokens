@@ -1,0 +1,11 @@
+{
+    "name": "EB",
+    "website": "https://ebgame.io",
+    "description": "Endless Battlefield is a military strategy and exploration sandbox metaverse built on UE engine. Using planets as the map, it provides multiple modes to fulfill the needs of different players. The game can be played in FPS mode for hardcore players. Casual players also can find various activities to start their adventure including hunting, fishing, and building. Players will be rewarded by collecting materials, constructing sites and winning battles.",
+    "explorer": "https://www.oklink.com/zh-cn/oec/address/0xECb38bb9c34AAd567B3Ec578c7Ef5BD7CA0DfbCb",
+    "type": "KIP20",
+    "symbol": "EB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xECb38bb9c34AAd567B3Ec578c7Ef5BD7CA0DfbCb"
+   }

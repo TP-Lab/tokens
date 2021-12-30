@@ -1,0 +1,11 @@
+{
+ "name": "MetaversePro sMeta",
+ "website": "https://metaverse.pro/",
+ "description": "sMeta is an asset that automatically increases in value (the number automatically increases).When Meta is staked, you receive sMeta (staked Meta).When you unstake your sMeta, you are given that amount of sMeta back in Meta.",
+ "explorer": "https://bscscan.com/token/0x09f33EC33052Cd253Db79fFA883E9c12Eb578309",
+ "type": "BEP20",
+ "symbol": "sMeta",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x09f33EC33052Cd253Db79fFA883E9c12Eb578309"
+}
