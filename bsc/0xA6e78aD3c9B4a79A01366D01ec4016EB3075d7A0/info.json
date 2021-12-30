@@ -1,0 +1,11 @@
+{
+ "name": "Hashland Coin",
+ "website": "https://hashland.com/",
+ "description": "A Synthesizer of Digital Ownership and Foundational Assets",
+ "explorer": "https://bscscan.com/token/0xA6e78aD3c9B4a79A01366D01ec4016EB3075d7A0",
+ "type": "BEP20",
+ "symbol": "HC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA6e78aD3c9B4a79A01366D01ec4016EB3075d7A0"
+}
