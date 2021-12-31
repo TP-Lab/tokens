@@ -1,0 +1,11 @@
+{undefined
+ "name": "Soul Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/address/0xefeebfe1e8537f0585a88d6d071b7e294a118127",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xEfEebFE1E8537f0585A88d6d071b7E294A118127"
+}
