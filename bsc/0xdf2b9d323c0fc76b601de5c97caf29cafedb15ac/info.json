@@ -1,0 +1,11 @@
+{
+ "name": "sosmoon",
+ "website": "http://www.sosmoon.space/",
+ "description": "The sosmoon is for metaverse.It can only be obtained by pledge libra mining",
+ "explorer": "https://bscscan.com/token/0xdf2b9d323c0fc76b601de5c97caf29cafedb15ac",
+ "type": "BEP20",
+ "symbol": "sosmoon",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xdf2b9d323c0fc76b601de5c97caf29cafedb15ac"
+}
