@@ -1,0 +1,11 @@
+{
+ "name": "AE86",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x0ea686D5582DbaAba0217dDC76ceC5d1E332C66A",
+ "type": "BEP20",
+ "symbol": "AE86",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0ea686D5582DbaAba0217dDC76ceC5d1E332C66A"
+}
