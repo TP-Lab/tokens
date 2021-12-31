@@ -1,0 +1,11 @@
+{
+    "name": "NoodleDoge",
+    "website": "https://www.noodledoge.com",
+    "description": "Noodle Doge is a project on the BSC chain based off skinny dogs with heads shaped like bicycle seats - AKA hounds.",
+    "explorer": "https://bscscan.com/token/0xc26214df74bbc4f524fece68a7b2b7309601edf5",
+    "type": "BEP20",
+    "symbol": "NOODLE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc26214df74bbc4f524fece68a7b2b7309601edf5"
+   }
