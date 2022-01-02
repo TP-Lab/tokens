@@ -1,0 +1,11 @@
+{
+ "name": "BabyHelloKitty",
+ "website": "http://www.babyhellokitty.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xccab95c821bcfa8b53951b40a0580256c769cb29",
+ "type": "BEP20",
+ "symbol": "BabyHelloKitty",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xccab95c821bcfa8b53951b40a0580256c769cb29"
+}
