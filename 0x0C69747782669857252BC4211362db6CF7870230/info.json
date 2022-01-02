@@ -1,0 +1,11 @@
+{
+ "name": "Jewellery",
+ "website": "http://dapp.jewellery.games",
+ "description": "The world's most investment value business platform",
+ "explorer": "https://bscscan.com/token/0x0c69747782669857252bc4211362db6cf7870230",
+ "type": "BEP20",
+ "symbol": "JEW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0C69747782669857252BC4211362db6CF7870230"
+}
