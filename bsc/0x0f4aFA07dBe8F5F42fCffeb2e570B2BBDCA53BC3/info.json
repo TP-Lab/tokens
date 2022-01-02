@@ -1,0 +1,11 @@
+{
+ "name": "Conqueror",
+ "website": "https://www.conqueror.game/",
+ "description": " Conqueror is a simulation business battle expansion game, which combines the block chain mechanism. ",
+ "explorer": "https://bscscan.com/token/0x0f4aFA07dBe8F5F42fCffeb2e570B2BBDCA53BC3",
+ "type": "BEP20",
+ "symbol": "CONQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0f4aFA07dBe8F5F42fCffeb2e570B2BBDCA53BC3"
+}
