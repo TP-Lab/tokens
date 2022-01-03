@@ -1,0 +1,11 @@
+{
+ "name": "RichMoon",
+ "website": "https://richmoonus.com",
+ "description": "A public welfare environmental protection project, will build its own DAO, is doing GameFi, NFT project and donating Taineng power station and wind power station",
+ "explorer": "https://bscscan.com/token/0xC275DDdBD0AA7d8Be23D98992a5B7819c3115917",
+ "type": "BEP20",
+ "symbol": "RichMoon",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xC275DDdBD0AA7d8Be23D98992a5B7819c3115917"
+}
