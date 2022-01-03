@@ -1,0 +1,11 @@
+{
+ "name": "Star Culture Coin",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/address/0x092b1a318EC1d9933B905703D56267baC0703cC3",
+ "type": "BEP20",
+ "symbol": "SCC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x092b1a318EC1d9933B905703D56267baC0703cC3"
+} 
