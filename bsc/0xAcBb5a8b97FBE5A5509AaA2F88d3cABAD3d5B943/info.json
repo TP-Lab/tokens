@@ -1,0 +1,11 @@
+{
+ "name": "Metaworld ISW",
+ "website": "https://www.meta-world.game",
+ "description": " This is Metaworld wood token",
+ "explorer": "https://bscscan.com/token/0xAcBb5a8b97FBE5A5509AaA2F88d3cABAD3d5B943",
+ "type": "BEP20",
+ "symbol": "ISW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAcBb5a8b97FBE5A5509AaA2F88d3cABAD3d5B943"
+}
