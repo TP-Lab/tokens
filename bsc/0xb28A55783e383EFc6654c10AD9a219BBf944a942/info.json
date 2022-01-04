@@ -1,0 +1,11 @@
+{
+ "name": "Metaworld ISF",
+ "website": "https://www.meta-world.game",
+ "description": " This is Metaworld food token.",
+ "explorer": "https://bscscan.com/token/0xb28A55783e383EFc6654c10AD9a219BBf944a942",
+ "type": "BEP20",
+ "symbol": "ISF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb28A55783e383EFc6654c10AD9a219BBf944a942"
+}
