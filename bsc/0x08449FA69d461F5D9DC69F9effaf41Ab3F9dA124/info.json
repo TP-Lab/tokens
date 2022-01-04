@@ -1,0 +1,11 @@
+{
+ "name": "Slime Token",
+ "website": "https://slime.pet",
+ "description": "SLM is the governance token of NFT game Slime Pet. Support applications in the market and other scenarios.",
+ "explorer": "https://bscscan.com/address/0x08449FA69d461F5D9DC69F9effaf41Ab3F9dA124",
+ "type": "BEP20",
+ "symbol": "SLM",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x08449FA69d461F5D9DC69F9effaf41Ab3F9dA124"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MOBA",
+ "website": "https://gloryallstar.io/",
+ "description": "Glory All Stars" is the first blockchain 5V5 team fair competition game, MOBA chain game masterpiece! 5V5 is a fair game.",
+ "explorer": "https://bscscan.com/token/0x50ae32d9b8a0db3a3eca34ff75417b60ba2d6720",
+ "type": "BEP20",
+ "symbol": "MOBA",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x50ae32d9B8a0Db3a3EcA34ff75417b60BA2D6720"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "dotc.pro token",
+ "website": "https://www.dotc.pro",
+ "description": "DOTC, as the first ever decentralized digital asset OTC trading platform , official website www.dotc.pro (www.dotc.exchange) provides global users with secure, open and transparent OTC services.",
+ "explorer": "https://bscscan.com/token/0xc0748cf90e231b8f21f75b7ad69732f19c76b751",
+ "type": "BEP20",
+ "symbol": "DOTC",
+ "decimals": 12,
+ "status": "active",
+ "id": "0xc0748CF90e231b8f21F75b7AD69732F19C76B751"
+}
