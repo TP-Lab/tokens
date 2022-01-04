@@ -2,7 +2,7 @@
  "name": "HappyDoge",
  "website": "https://anty.me/doge.html",
  "description": "HappyDoge is the governance token of issued on Binance Smart Chain. It's the game ecotoken which opens the metasverse game !",
- "explorer": "https://bscscan.com/address/0xc0d181fcfc9787940650e1b96807c70992e78ec6s",
+ "explorer": "https://bscscan.com/address/0xc0d181fcfc9787940650e1b96807c70992e78ec6",
  "type": "BEP20",
  "symbol": "HappyDoge",
  "decimals": 9,
