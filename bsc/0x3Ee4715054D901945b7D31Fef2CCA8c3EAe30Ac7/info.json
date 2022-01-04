@@ -1,0 +1,11 @@
+{
+ "name": "Metaworld ISO",
+ "website": "https://www.meta-world.game",
+ "description": "This is Metaworld ore token",
+ "explorer": "https://bscscan.com/token/0x3Ee4715054D901945b7D31Fef2CCA8c3EAe30Ac7",
+ "type": "BEP20",
+ "symbol": "ISO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3Ee4715054D901945b7D31Fef2CCA8c3EAe30Ac7"
+}
