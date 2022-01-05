@@ -1,0 +1,11 @@
+{
+ "name": “DiDi Inu Coin",
+ "website": "https://www.didiinucoin.com",
+ "description": "we are DiDi Inu Coin",
+ "explorer": "https://bscscan.com/token/0x4e69e8490e70782b65dea29752c325a04e861b6e",
+ "type": "BEP20",
+ "symbol": “DiDi”,
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4e69e8490e70782b65dea29752c325a04e861b6e"
+} 
