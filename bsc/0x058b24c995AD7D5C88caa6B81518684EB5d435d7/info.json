@@ -1,0 +1,11 @@
+{
+ "name": "Athena Token",
+ "website": "",
+ "description": "The Athena Token as the gamefi play-to-earn token",
+ "explorer": "https://bscscan.com/token/0x058b24c995AD7D5C88caa6B81518684EB5d435d7",
+ "type": "BEP20",
+ "symbol": "atna",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x058b24c995AD7D5C88caa6B81518684EB5d435d7"
+}
