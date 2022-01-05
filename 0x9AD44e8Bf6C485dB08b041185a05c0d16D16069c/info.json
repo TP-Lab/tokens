@@ -1,0 +1,11 @@
+{
+ "name": "Galaxy Heroes Earn",
+ "website": "https://galaxyheroescoin.com/",
+ "description": "Galaxy Heroes Earn (GHE) is a community driven bsc coin. If you're interested in super heroes, you will love GHE.",
+ "explorer": "https://bscscan.com/token/0x9AD44e8Bf6C485dB08b041185a05c0d16D16069c",
+ "type": "BEP20",
+ "symbol": "GHE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9AD44e8Bf6C485dB08b041185a05c0d16D16069c"
+}
