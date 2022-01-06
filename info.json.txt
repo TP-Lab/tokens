@@ -1,0 +1,10 @@
+{
+ "name": "520",
+ "website": "www.520.com.cn",
+ "description": "520 digital assets to spread the consensus of love.",
+ "explorer": "https://bscscan.com/token/0xbb6A5Ed522e1f8C3abe6064A9B5998F737ebe6df",
+ "type": "BEP20",
+ "symbol": "520",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xbb6A5Ed522e1f8C3abe6064A9B5998F737ebe6df"
