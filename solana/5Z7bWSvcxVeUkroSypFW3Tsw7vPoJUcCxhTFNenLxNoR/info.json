@@ -1,0 +1,11 @@
+{
+ "name": "Mysterious Point Token",
+ "website": "https://mspfi.github.io/",
+ "description": "Mysterious Point brings the speed and convenience of centralized exchanges to DeFi while remaining fully trustless and transparent.",
+ "explorer": "https://explorer.solana.com/address/5Z7bWSvcxVeUkroSypFW3Tsw7vPoJUcCxhTFNenLxNoR",
+ "type": "SPL",
+ "symbol": "MSP",
+ "decimals": 9,
+ "status": "active",
+ "id": "5Z7bWSvcxVeUkroSypFW3Tsw7vPoJUcCxhTFNenLxNoR"
+}

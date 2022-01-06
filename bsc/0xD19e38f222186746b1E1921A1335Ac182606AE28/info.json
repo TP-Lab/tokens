@@ -1,0 +1,11 @@
+{
+ "name": "Azeroth",
+ "website": "https://twitter.com/BlzcAzeroth",
+ "description": "Azeroth is a Play to Earn platform. The variety of NFT card gameplay and super high returns will surprise you.",
+ "explorer": "https://bscscan.com/address/0xD19e38f222186746b1E1921A1335Ac182606AE28",
+ "type": "BEP20",
+ "symbol": "BLZC",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xD19e38f222186746b1E1921A1335Ac182606AE28"
+}

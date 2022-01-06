@@ -1,0 +1,11 @@
+{
+    "name": "Super Swap",
+    "website": "https://spe.123231.xyz",
+    "description": "Super-swap -- system to create air drop mining, liquidity mining (single currency, multi-currency) and other mining ecology, game ecology, video live ecology, mall ecology, financial ecology, the underlying open source and a series of ecological circles. The platform is mainly divided into mainstream coin mining machine area and creating its own platform ecological chain liquidity mining pool area.",
+    "explorer": "https://bscscan.com/token/0xeb8cd3557f42686c9e858c84e52a18ef9eccbd6b",
+    "type": "BEP20",
+    "symbol": "SPE",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xeB8Cd3557F42686c9e858c84E52a18EF9eCcBd6B"
+}
