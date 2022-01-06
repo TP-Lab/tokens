@@ -1,0 +1,11 @@
+{
+  "name": "DolphinSwap",
+  "website": "https://eosv2.finance",
+  "description": "A better swap on EOS: DolphinSwap is an N-dimensional automated marketing protocol with a more flexible market-making capital.",
+  "explorer": "https://bloks.io/tokens/DOP-eos-dop.efi",
+  "type": "EOS",
+  "symbol": "DOP",
+  "decimals": 4,
+  "status": "active",
+  "id": "dop.efi"
+}
