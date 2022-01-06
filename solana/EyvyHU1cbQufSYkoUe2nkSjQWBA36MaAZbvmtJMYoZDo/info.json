@@ -1,0 +1,11 @@
+{
+ "name": "MSP platform token",
+ "website": "https://mspfi.github.io/",
+ "description": "MSP platform token for exchange between mysterious point ecosystem and traffic community.",
+ "explorer": "https://explorer.solana.com/address/EyvyHU1cbQufSYkoUe2nkSjQWBA36MaAZbvmtJMYoZDo",
+ "type": "SPL",
+ "symbol": "AVT",
+ "decimals": 9,
+ "status": "active",
+ "id": "EyvyHU1cbQufSYkoUe2nkSjQWBA36MaAZbvmtJMYoZDo"
+}
