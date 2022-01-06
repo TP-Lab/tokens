@@ -1,0 +1,11 @@
+{
+ "name": "Tornoth of Strength Element",
+ "website": "https://fightfortornoth.com",
+ "description": "A breathtaking land known as Tornoth,a place filled with mystical powers.",
+ "explorer": "https://bscscan.com/token/0x0541600b6170Ff2AA0A6b5004Df4b4B89c30fB1b",
+ "type": "BEP20",
+ "symbol": "TSE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0541600b6170Ff2AA0A6b5004Df4b4B89c30fB1b"
+}
