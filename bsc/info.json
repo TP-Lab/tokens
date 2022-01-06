@@ -1,11 +1,11 @@
 {
- "name": "GOAT Token",
- "website": "http://www.goatfinance.io",
- "description": "GOAT-Open a new world of metaverse",
- "explorer": "https://bscscan.com/token/0xb1033Fce0bA6415f60FD592f90BE10580bC39830",
+ "name": "LAAS TOKEN",
+ "website": "https://www.laas.com",
+ "description": "Autonomous token for a community.",
+ "explorer": "https://bscscan.com/token/0x4ea6e9ba1d893178f4eff5f1a76b225f957d07fe",
  "type": "BEP20",
- "symbol": "GOAT",
- "decimals": 8,
+ "symbol": "LAAS",
+ "decimals": 18,
  "status": "active",
- "id": "0xb1033Fce0bA6415f60FD592f90BE10580bC39830"
+ "id": "0x4ea6e9ba1d893178f4eff5f1a76b225f957d07fe"
 }
