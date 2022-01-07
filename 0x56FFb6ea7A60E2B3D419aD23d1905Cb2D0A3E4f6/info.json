@@ -1,0 +1,11 @@
+{
+ "name": "BabyTiger Inu",
+ "website": "https://twitter.com/BabyTiger2022",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x56FFb6ea7A60E2B3D419aD23d1905Cb2D0A3E4f6",
+ "type": "BEP20",
+ "symbol": "BabyTiger",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x56FFb6ea7A60E2B3D419aD23d1905Cb2D0A3E4f6"
+}
