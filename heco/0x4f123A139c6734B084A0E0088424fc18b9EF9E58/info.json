@@ -1,0 +1,11 @@
+{
+    "name": "Heavenly Book Y",
+    "website": "https://heavenly.org",
+    "description": "Heavenly Book Y",
+    "explorer": "https://hecoinfo.com/address/0x4f123A139c6734B084A0E0088424fc18b9EF9E58",
+    "type": "HRC20",
+    "symbol": "HBKY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4f123A139c6734B084A0E0088424fc18b9EF9E58"
+}
