@@ -1,0 +1,11 @@
+{
+  "name": "chain petNFT",
+  "symbol": "NPET",
+  "type": "BEP-721",
+  "decimals": 8,
+  "description": "Chain pet has the perfect combination of GAME+NFT+DEFI to achieve the goal of multiple benefits for users.",
+  "website": "http://web.chainpet.com/",
+  "explorer": "https://bscscan.com/address/0xfb1458B3FD2fbf76475058040740E25cB840C95C",
+  "status": "active",
+  "id": "0xfb1458B3FD2fbf76475058040740E25cB840C95C"
+}

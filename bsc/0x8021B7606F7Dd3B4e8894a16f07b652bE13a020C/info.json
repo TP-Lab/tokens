@@ -1,0 +1,11 @@
+{
+ "name": "NFTMON",
+ "website": "https://nftmon.pro",
+ "description": "NFTMON is a decentralized integrated currency on the BSC chain.",
+ "explorer": "https://bscscan.com/token/0x8021b7606f7dd3b4e8894a16f07b652be13a020c",
+ "type": "BEP20",
+ "symbol": "NFTMON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8021B7606F7Dd3B4e8894a16f07b652bE13a020C"
+}

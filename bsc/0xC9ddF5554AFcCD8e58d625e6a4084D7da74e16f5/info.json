@@ -1,0 +1,11 @@
+{
+ "name": "Myth Token",
+ "website": "https://bscscan.com/token/0xc9ddf5554afccd8e58d625e6a4084d7da74e16f5",
+ "description": "Myth Token",
+ "explorer": "https://bscscan.com/token/0xc9ddf5554afccd8e58d625e6a4084d7da74e16f5",
+ "type": "BEP20",
+ "symbol": "Myth",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC9ddF5554AFcCD8e58d625e6a4084D7da74e16f5"
+}
