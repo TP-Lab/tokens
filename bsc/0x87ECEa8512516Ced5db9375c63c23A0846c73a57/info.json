@@ -1,0 +1,11 @@
+{
+ "name": "EpiK Protocol (EPK)",
+ "website": "https://epik-protocol.io",
+ "description": "EpiK Protocol is the world's first decentralized protocol for AI data construction, storage and sharing",
+ "explorer": "https://bscscan.com/token/0x87ecea8512516ced5db9375c63c23a0846c73a57",
+ "type": "BEP20",
+ "symbol": "BSC-EPK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x87ECEa8512516Ced5db9375c63c23A0846c73a57"
+}
