@@ -1,11 +1,11 @@
 {
-  "name": "meer (bsc)",
+  "name": "Meer (bsc)",
   "website": "https://www.qitmeer.io",
   "description": "Qitmeer is the next generation public chain based on BlockDAG which is dedicated to serving the ecosystem of Islamic Finance, ethical finance, and socially responsible investment, thereby enhancing financial inclusion and creating social impact.",
-  "explorer": "https://bscscan.com/token/0x7D92983f7567E1e9C850371753618a9d1A0ABea1",
+  "explorer": "https://bscscan.com/token/0xbA552586eA573Eaa3436f04027ff4effd0c0abbb",
   "type": "BEP20",
   "symbol": "Meer",
   "decimals": 8,
   "status": "active",
-  "id": "0x7D92983f7567E1e9C850371753618a9d1A0ABea1"
+  "id": "0xbA552586eA573Eaa3436f04027ff4effd0c0abbb"
 }
