@@ -1,0 +1,11 @@
+{
+ "name": "Zombie Game",
+ "website": "",
+ "description": "At ZGM, we are unleashing the potential of the NFT meta-universe for all users.",
+ "explorer": "https://bscscan.com/address/0x3508947E2CeB77C2fC5E4294B68b2b2a55A30B0B",
+ "type": "BEP-20",
+ "symbol": "ZGM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2e5cF2237852604447E41FE10c30F1b61a021f5C"
+}
