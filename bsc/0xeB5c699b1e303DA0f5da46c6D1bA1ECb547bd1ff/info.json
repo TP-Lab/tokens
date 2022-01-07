@@ -1,0 +1,11 @@
+{
+  "name": "NKT Coin",
+  "website": "https://www.nktcoin.org",
+  "description": "The NKT project issued by the NKI team is a token for the future decentralized social chain jointly developed by talents in the computer science field graduated from various famous university in the world.",
+  "explorer": "https://bscscan.com/address/0xeB5c699b1e303DA0f5da46c6D1bA1ECb547bd1ff",
+  "type": "BEP20",
+  "symbol": "NKT",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xeB5c699b1e303DA0f5da46c6D1bA1ECb547bd1ff"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "KFR30",
+ "website": "http://kfr-plus.xyz/",
+ "description": "KFR30 diversified development, shopping all return to the mall and as the only pass of Kefir.",
+ "explorer": "https://bscscan.com/token/0x76d42ca00dc92Eb304366f5Ded6C2519423a0e1E",
+ "type": "BEP-20",
+ "symbol": "KFR30",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x76d42ca00dc92Eb304366f5Ded6C2519423a0e1E"
+}

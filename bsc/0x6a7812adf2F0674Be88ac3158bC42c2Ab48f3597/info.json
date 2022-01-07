@@ -1,0 +1,11 @@
+{
+ "name": "BNBDAO",
+ "website": "http://bnbdao.club/",
+ "description": "BNBDAO",
+ "explorer": "https://bscscan.com/token/0x6a7812adf2f0674be88ac3158bc42c2ab48f3597",
+ "type": "BEP20",
+ "symbol": "BNBDAO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6a7812adf2F0674Be88ac3158bC42c2Ab48f3597"
+}

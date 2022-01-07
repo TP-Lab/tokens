@@ -1,0 +1,11 @@
+{
+ "name": "MetaDeliverable",
+ "website": "https://bscscan.com/token/0x9848E15ec23FB8615B62563dD79ddB8282cC042d",
+ "description": "MetaDeliverable",
+ "explorer": "https://bscscan.com/token/0x9848E15ec23FB8615B62563dD79ddB8282cC042d",
+ "type": "BEP20",
+ "symbol": "MTD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9848E15ec23FB8615B62563dD79ddB8282cC042d"
+}
