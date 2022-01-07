@@ -1,0 +1,11 @@
+{
+    "name": "SCP",
+    "website": "https://scp.org",
+    "description": "scp token",
+    "explorer": "https://hecoinfo.com/address/0x61D0f978561e66ABc374B79941E540a28DC99eB1",
+    "type": "HRC20",
+    "symbol": "SCP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x61D0f978561e66ABc374B79941E540a28DC99eB1"
+}
