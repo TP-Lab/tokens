@@ -1,0 +1,11 @@
+{
+    "name": "AURA",
+    "webiste": "https://web.aurapro.co/",
+    "description": "Five X World is a decentralized game project integrating blockchain technology and Jianghu metaphysics. Through the dual blessing of blockchain technology and the ancient Chinese magical five-element array, players can experience modern technology encrypted numbers and ancient metaphysics at the same time. The stimulus of colliding with each other. AURA is the main token of Five X World, players can get more AURA by playing Five X World.",
+    "explorer": "https://bscscan.com/token/0xADB1Ab0912C8ead567fC40753aa7062ea897c745",
+    "type": "BEP20",
+    "symbol": "AURA",
+    "decimals": "4",
+    "status": "active",
+    "id": "0xADB1Ab0912C8ead567fC40753aa7062ea897c745"
+}
