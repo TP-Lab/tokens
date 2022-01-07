@@ -1,0 +1,11 @@
+{
+"name": "Brothers wine Token"
+ "website"： "https://www.anhem.top"
+ "description": "brothers wine,ANHEM WINE JOINT STOCK COMPANY"
+ "explorer": "https://bscscan.com/token/0x4D18f01C2E92CAf08E1bdBfDaA3437d6C715c68b"
+ "type": "BEP20"
+ "symbol": "ANHEM" 
+ "decimals":18
+ "status": "active"
+"id": "0x4D18f01C2E92CAf08E1bdBfDaA3437d6C715c68b"
+ }
