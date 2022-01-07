@@ -1,0 +1,11 @@
+{
+ "name": "WHITE COW",
+ "website": "https://www.whitecowtoken.com/",
+ "description": "WHITE COW is a decentralized token beP-20 developed based on binyan intelligent chain, with 1% in circulation and 99% permanently locked decentralized mining pool, circulating in DAPP.",
+ "explorer": "https://bscscan.com/token/0x122f4e71fa9e80ac54fe8189c91a6943f1fa3053",
+ "type": "BEP20",
+ "symbol": "WHIT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x122f4E71FA9e80aC54Fe8189C91A6943F1fa3053"
+} 

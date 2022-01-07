@@ -1,0 +1,11 @@
+{
+ "name": "TNTT",
+ "website": "https://bscscan.com/token/0xb2E1ff6e750c366Ba4d4aCC0397068C1728678eE",
+ "description": "TNTT TOKEN.",
+ "explorer": "https://bscscan.com/token/0xb2E1ff6e750c366Ba4d4aCC0397068C1728678eE",
+ "type": "BEP20",
+ "symbol": "TNTT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xb2E1ff6e750c366Ba4d4aCC0397068C1728678eE"
+}

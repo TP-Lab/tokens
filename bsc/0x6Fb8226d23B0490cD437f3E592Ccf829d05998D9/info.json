@@ -1,0 +1,11 @@
+{
+ "name": "MAYA Token",
+ "website": "https://bscscan.com/token/0x6Fb8226d23B0490cD437f3E592Ccf829d05998D9",
+ "description": "MAYA Token.",
+ "explorer": "https://bscscan.com/token/0x6Fb8226d23B0490cD437f3E592Ccf829d05998D9",
+ "type": "BEP20",
+ "symbol": "MAT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6Fb8226d23B0490cD437f3E592Ccf829d05998D9"
+}
