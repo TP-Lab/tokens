@@ -1,0 +1,11 @@
+{
+ "name": "MTC",
+ "website": "https://imetacoin.eth.link/",
+ "description": "https://imetacoin.eth.link/",
+ "explorer": "https://bscscan.com/token/0x715bF703caE4555b24ABd87dd06B00c15C615d08",
+ "type": "BEP20",
+ "symbol": "MTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x715bF703caE4555b24ABd87dd06B00c15C615d08"
+}
