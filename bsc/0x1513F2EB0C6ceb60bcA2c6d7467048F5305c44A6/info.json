@@ -1,0 +1,11 @@
+{
+ "name": "BFSCoin",
+ "website": "http://www.bfscoin.org",
+ "description": "BFScoin is an innovative encrypted digital currency.",
+ "explorer": "https://bscscan.com/token/0x1513F2EB0C6ceb60bcA2c6d7467048F5305c44A6",
+ "type": "BEP20",
+ "symbol": "BFS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1513F2EB0C6ceb60bcA2c6d7467048F5305c44A6"
+}
