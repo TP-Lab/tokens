@@ -1,0 +1,12 @@
+{
+ "name": "Space Dog",
+ "website": "http://www.dogz.vip/",
+ "description": "The origin of the space dog's name is to spread its influence to the universe, so it is named space dog.",
+ "explorer": "https://bscscan.com/token/0x23513ab519caebdaee5e8030ccfbdc5037346e3c",
+ "type": "BEP20",
+ "symbol": "DOGZ",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x23513aB519CaEBdaEe5e8030CcFbDC5037346e3C
+"
+}
