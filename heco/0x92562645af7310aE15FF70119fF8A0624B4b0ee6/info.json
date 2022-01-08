@@ -1,0 +1,11 @@
+{
+ "name": "BTC Pi",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://hecoinfo.com/token/0x92562645af7310aE15FF70119fF8A0624B4b0ee6",
+ "type": "HRC20",
+ "symbol": "BTPi",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x92562645af7310aE15FF70119fF8A0624B4b0ee6"
+}
