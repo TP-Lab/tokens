@@ -1,0 +1,11 @@
+{
+ "name": "BEAN",
+ "website": "http://magicbeanss.com",
+ "description": "Bean打造集DEFI 、NFT、游戏为一体的去中心化聚合元宇宙交易平台，致力于打造一个去中心化联动生态，最终实现DeFi+NFT链游+元宇宙完美融合。",
+ "explorer": "https://bscscan.com/token/0xcfD08d4c41845018B2EE0a182De5A11664696359",
+ "type": "BSC20",
+ "symbol": "BEAN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcfD08d4c41845018B2EE0a182De5A11664696359"
+}
