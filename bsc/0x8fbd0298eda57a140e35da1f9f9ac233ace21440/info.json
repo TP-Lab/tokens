@@ -1,0 +1,11 @@
+{ 
+"name": "VOLCANO UNI,
+"website": "https://volcanouni.com/",
+"description": "Volcano Uni is a fresh and innovative ecosystem that aims to bring accessibility to the world of cryptocurrencies. Volcano is a token that was created with binance’s BEP20 blockchain, our project focuses on collaborating with recycling environmental care companies and Metaverso technology 🚀 ",
+"explorer": "https://bscscan.com/token/0x8fbd0298eda57a140e35da1f9f9ac233ace21440",
+"type": "BEP20",
+"symbol": "VCL”,
+"decimals": 8,
+"status": "active",
+"id": "0x8fbd0298eda57a140e35da1f9f9ac233ace21440"
+}
