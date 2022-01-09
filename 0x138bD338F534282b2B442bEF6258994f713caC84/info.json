@@ -2,7 +2,7 @@
  "name": "logo",
  "website": "https://tokenpocket.pro",
  "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
- "explorer": "https://bscscan.com/token/0x0C8d705086c3394Df7E488e7c30b75De2e92Dbd1",
+ "explorer": "https://bscscan.com/token/0x138bD338F534282b2B442bEF6258994f713caC84",
  "type": "BEP20",
  "symbol": "logo",
  "decimals": 18,
