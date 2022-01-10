@@ -1,0 +1,11 @@
+{
+ "name": "Crypto Spider",
+ "website": "https://spider-game.com/",
+ "description": "P2E&PVP is supported by token SPIDER as the only currencyandit is a play-to-earn game with super highrewards in SPIDER",
+ "explorer": "https://bscscan.com/token/0xA523dF6454113b0Fdd9C6De6FC540baA7C01a62B",
+ "type": "BEP20",
+ "symbol": "Spider",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xA523dF6454113b0Fdd9C6De6FC540baA7C01a62B"
+}
