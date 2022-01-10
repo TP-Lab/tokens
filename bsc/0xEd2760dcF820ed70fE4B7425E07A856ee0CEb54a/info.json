@@ -1,0 +1,11 @@
+{
+ "name": "usdt",
+ "website": "https://tokenpocket.pro",
+ "description": "bsc token.",
+ "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+ "type": "BEP20",
+ "symbol": "usdt",
+ "decimals": 18,
+ "status": "",
+ "id": "0xECa41281c24451168a37211F0bc2b8645AF45092"
+}
