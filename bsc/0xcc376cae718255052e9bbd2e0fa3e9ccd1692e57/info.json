@@ -1,0 +1,11 @@
+{
+ "name": "Et Rade",
+ "website": "https://Etradedao.io",
+ "description": "Et Rade是新一代区块链电子贸易平台的交易工作量证明。集区块链游戏娱乐、合约投资、数字加密资产交易和聚合借贷理财于一体的区块链创新平台生态。运用四维一体不断更新迭代。打造万亿级别的区块链智能应用电子贸易生态。",
+ "explorer": "https://bscscan.com/token/0xcc376cae718255052e9bbd2e0fa3e9ccd1692e57",
+ "type": "BEP20",
+ "symbol": "ETR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcc376cae718255052e9bbd2e0fa3e9ccd1692e57"
+}
