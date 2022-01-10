@@ -1,0 +1,11 @@
+{
+ "name": "TokenPocket Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A Bianane Smart Chain Token.",
+ "explorer": "https://bscscan.com/token/0xEd2760dcF820ed70fE4B7425E07A856ee0CEb54a",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEd2760dcF820ed70fE4B7425E07A856ee0CEb54a"
+}
