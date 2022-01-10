@@ -1,0 +1,11 @@
+{
+ "name": "KingFeg",
+ "website": "https://KingFeg.com",
+ "description": KingFeg will eventually stand on the top of the gods.",
+ "explorer": "https://bscscan.com/token/0x2a6d8e023446c69025f6c2353ebed69dc709e66b#balances",
+ "type": "BEP20",
+ "symbol": "KingFeg",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2a6d8e023446c69025f6c2353ebed69dc709e66b"
+}
