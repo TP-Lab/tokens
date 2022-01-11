@@ -1,0 +1,11 @@
+{
+ "name": "Tornoth of Thunder Element",
+ "website": "https://fightfortornoth.com",
+ "description": "A breathtaking land known as Tornoth,a place filled with mystical powers.",
+ "explorer": "https://bscscan.com/token/0x6c3251B915d72fEF6FE2fA8C731b4694F76488f5",
+ "type": "BEP20",
+ "symbol": "TTE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6c3251B915d72fEF6FE2fA8C731b4694F76488f5"
+}
