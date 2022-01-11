@@ -1,0 +1,11 @@
+{
+    "name": "MetaSwap",
+    "website": "https://metaswap.cx",
+    "description": "Using MetaSwap, you can exchange your NFT and cryptocurrency safely and easily.",
+    "explorer": "https://bscscan.com/token/0xFB28abd38eFeFDf4F003182c298529526B27Cc82",
+    "type": "BEP20",
+    "symbol": "MSC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x579f3e253b98fc938f0e09c2d2039141c0e2fe2a8af22eee6804455672fc034c"
+   }
