@@ -1,11 +1,11 @@
 {
- "name": "GOAT Token",
- "website": "http://www.goatfinance.io",
- "description": "GOAT-Open a new world of metaverse",
- "explorer": "https://bscscan.com/token/0xb1033Fce0bA6415f60FD592f90BE10580bC39830",
+ "name": "Logan Network",
+ "website": " https://www.logan.network/",
+ "description": "An infrastructure connecting crypto assets and web3.0",
+ "explorer": "https://bscscan.com/address/0x108017b9e3379e9d125e45b096c2727ebf0b8c30",
  "type": "BEP20",
- "symbol": "GOAT",
- "decimals": 8,
+ "symbol": "Logan",
+ "decimals": 18,
  "status": "active",
- "id": "0xb1033Fce0bA6415f60FD592f90BE10580bC39830"
+ "id": "0x108017b9e3379e9d125e45b096c2727ebf0b8c30"
 }
