@@ -1,0 +1,11 @@
+{
+ "name": "NFT-Unicorn",
+ "website": "https://https://www.nft-unicorn.com",
+ "description": "The Largest NFT Artist Community and Community-Driven Decentralized Traffic Service Provider On Bsc network",
+ "explorer": "https://bscscan.com/token/0x906be52c59b91975f972b3ab81b1941d22311fcc",
+ "type": "BEP20",
+ "symbol": "NFTU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x906bE52c59b91975f972B3Ab81B1941D22311FCc"
+}
