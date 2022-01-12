@@ -1,0 +1,10 @@
+{
+ "name": "FISTS YFI",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x5EfD0b376c50B6C9f67549c9b37Ca24B5920C2D3",
+ "type": "BEP20",
+ "symbol": "FISTS YFI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5EfD0b376c50B6C9f67549c9b37Ca24B5920C2D3"
