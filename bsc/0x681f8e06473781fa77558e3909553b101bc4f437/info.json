@@ -1,0 +1,11 @@
+{
+ "name": "Rebirth Coin",
+ "website": "-",
+ "description": "Rebirth Coin (RBC) is a highly autonomous, decentralized, fair and just ecological community.",
+ "explorer": "https://bscscan.com/token/0x777D763916ed3FfD8ff7194554a612b070A5EC72",
+ "type": "BEP20",
+ "symbol": "RBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x777D763916ed3FfD8ff7194554a612b070A5EC72"
+}
