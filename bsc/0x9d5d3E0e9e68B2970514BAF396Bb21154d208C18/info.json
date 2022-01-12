@@ -1,11 +1,11 @@
 {
-"name": "MSP",
-"website": "http://metaverseswap.cc",
-"description": "Metaverse swap redistributes value within the ecosystem, and uses metaverse swap to pay part of asset transaction fees and service fees, which are then added to the community Treasury.",
-"explorer": "https://bscscan.com/token/0x9d5d3E0e9e68B2970514BAF396Bb21154d208C18",
-"type": "BEP20",
-"symbol": "MSP",
-"decimals": 18,
-"status": "active",
-"id": "0x9d5d3E0e9e68B2970514BAF396Bb21154d208C18"
+ "name": "MSP Token",
+ "website": "https://bscscan.com/token/0x9d5d3E0e9e68B2970514BAF396Bb21154d208C18",
+ "description": "MSP TOKEN.",
+ "explorer": "https://bscscan.com/token/0x9d5d3E0e9e68B2970514BAF396Bb21154d208C18",
+ "type": "BEP20",
+ "symbol": "MSP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9d5d3E0e9e68B2970514BAF396Bb21154d208C18"
 }
