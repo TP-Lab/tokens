@@ -1,0 +1,11 @@
+{
+ "name": "SB",
+ "website": "http://www.sbtoken.cn/",
+ "description": "Sb "someone" is independently developed by the Singapore foundation. It will successively complete three products, namely "destruction mining", Sb incubator and "liquidity mining", and provide users with real use scenarios of defi £¬ through the three products.",
+ "explorer": "https://bscscan.com/token/0x71c3D7b75E9dfFeE2cF702D178978aade42e3fba",
+ "type": "BEP20",
+ "symbol": "SB",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x71c3D7b75E9dfFeE2cF702D178978aade42e3fba"
+}
