@@ -1,0 +1,11 @@
+{
+ "name": "ATM",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x7a397Cf434C131438981AC91BCD63EcA893eD89e",
+ "type": "BSC20",
+ "symbol": "ATM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7a397Cf434C131438981AC91BCD63EcA893eD89e"
+}
