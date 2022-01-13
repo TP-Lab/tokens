@@ -1,0 +1,11 @@
+{
+ "name": "TokenPocket Token",
+ "website": "Doomsday Redemption",
+ "description": "",
+ "explorer": "",
+ "type": "BEP20",
+ "symbol": "DRU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x00fC7C3FF2d518DBB12f5A70Adc11Fe0e93d80ae"
+}
