@@ -1,0 +1,11 @@
+{ 
+ "name": "ppDAO", 
+ "website": " https://twitter.com/peopledao_?s=05", 
+ "description": "Born for the people cheated in the field of encryption! Pure people's autonomy token! Pioneer experiment to promote "Web3"!.", 
+ "explorer": "https://bscscan.com/token/0x0a77a8d8c54aa0e275408d6b194784f5a0e9b0a4", 
+ "type": "BEP20", 
+ "symbol": "ppDAO", 
+ "decimals": 18, 
+ "status": "active", 
+ "id": "0x0a77a8d8c54aa0e275408d6b194784f5a0e9b0a4" 
+ } 
