@@ -1,11 +1,11 @@
-{
- "name": "Logan Network",
- "website": " https://www.logan.network/",
- "description": "An infrastructure connecting crypto assets and web3.0",
- "explorer": "https://bscscan.com/address/0x108017b9e3379e9d125e45b096c2727ebf0b8c30",
- "type": "BEP20",
- "symbol": "Logan",
- "decimals": 18,
- "status": "active",
- "id": "0x108017b9e3379e9d125e45b096c2727ebf0b8c30"
+{ 
+"name"." DRU",
+"website": "https://www.doomsdays.link/".
+"description": "Doom Salvation is a mining game for the NFT platform. Players need to choose mineral-rich locations to set up base camps in the environment of the ruined planet of Doom and hire mining cars to collect metal ores and transport gas ores." ,
+"explorer": "https://bscscan.com/token/0x00fc7c3ff2d518dbb12f5a70adc11fe0e93d80ae",
+"Type": "BEP20".
+"symbol": "DRU",
+"Decimal": 18,
+"status": "active",
+"id": "0x00fC7C3FF2d518DBB12f5A70Adc11Fe0e93d80ae"
 }
