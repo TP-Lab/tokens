@@ -1,0 +1,11 @@
+{
+ "name": "CNT",
+ "website": "http://cnt.pro",
+ "description": "CNT will change the world.",
+ "explorer": "https://bscscan.com/token/0x3026a1de886363937111ec212531ce48d8b90289",
+ "type": "ERC20",
+ "symbol": "CNT",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x3026a1de886363937111ec212531ce48d8b90289"
+}
