@@ -1,0 +1,11 @@
+{
+ "name": "ENEToken",
+ "website": "https://bscscan.com/token/0x18c2fDA7E6c48cd5DF1b6496288C5e586F5B5873",
+ "description": "ENE是Energy Planet元宇宙的流通代币，是打造一个基于Defi，DAO，NFT，元宇宙游戏的开放型生态！让玩家在虚拟与现实之间体验元宇宙的乐趣！！",
+ "explorer": "https://bscscan.com/token/0x18c2fDA7E6c48cd5DF1b6496288C5e586F5B5873",
+ "type": "BEP20",
+ "symbol": "ENE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x18c2fDA7E6c48cd5DF1b6496288C5e586F5B5873"
+}
