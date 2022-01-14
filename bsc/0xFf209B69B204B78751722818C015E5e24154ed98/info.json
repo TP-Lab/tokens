@@ -1,0 +1,11 @@
+{
+ "name": "Singularity HME",
+ "website": "https://www.singularity.gold",
+ "description": "Singularity is a metaverse gaming world of universe exploration and adventure.",
+ "explorer": "https://bscscan.com/token/0xFf209B69B204B78751722818C015E5e24154ed98",
+ "type": "BEP20",
+ "symbol": "HME",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFf209B69B204B78751722818C015E5e24154ed98"
+}
