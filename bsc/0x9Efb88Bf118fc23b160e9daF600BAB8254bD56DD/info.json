@@ -1,0 +1,11 @@
+{
+ "name": "HOLD",
+ "website": "https://holdcoin.app/",
+ "description": "HOLD is powered by the Binance Smart Chain . The platform utilizes a governance token, that gives its users voting powers to shape the future of the platform. No centralized organization OR regulatory body to interfere.",
+ "explorer": "https://bscscan.com/address/0x9Efb88Bf118fc23b160e9daF600BAB8254bD56DD",
+ "type": "BEP-20",
+ "symbol": "HOLD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9Efb88Bf118fc23b160e9daF600BAB8254bD56DD"
+}
