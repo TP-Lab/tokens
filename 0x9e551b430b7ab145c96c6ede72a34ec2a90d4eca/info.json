@@ -1,0 +1,11 @@
+{
+"name": "Scout Doge Token",
+"website": "https://bscscan.com/token/0x9e551b430b7ab145c96c6ede72a34ec2a90d4eca",
+"description": "Scout Doge TOKEN.",
+"explorer": "https://bscscan.com/token/0x9e551b430b7ab145c96c6ede72a34ec2a90d4eca",
+"type": "BEP20",
+"symbol": "SDOGE",
+"decimals": 9,
+"status": "active",
+"id": "0x9e551b430b7ab145c96c6ede72a34ec2a90d4eca"
+}
