@@ -1,11 +1,11 @@
 {
- "name": "Logan Network",
- "website": " https://www.logan.network/",
- "description": "An infrastructure connecting crypto assets and web3.0",
- "explorer": "https://bscscan.com/address/0x108017b9e3379e9d125e45b096c2727ebf0b8c30",
- "type": "BEP20",
- "symbol": "Logan",
- "decimals": 18,
- "status": "active",
- "id": "0x108017b9e3379e9d125e45b096c2727ebf0b8c30"
-}
+    "name": "GoldkeyCoin",
+    "website": "https://www.gkc.one",
+    "description": "GKC是以社区驱动（DAO）打造的隐私保护匿名智能链，采用DPOS机制，于2015年开始开发，2019年主网上线，是一个开发、包容，充满想象力和开拓进取精神的 新一代去中心化公链平台。",
+    "explorer": "https://bscscan.com/token/0x875DBac041105f5ae89Ba7F7f62dE8770Cf7065a",
+    "type": "BEP20",
+    "symbol": "GKC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x875DBac041105f5ae89Ba7F7f62dE8770Cf7065a"
+   }
