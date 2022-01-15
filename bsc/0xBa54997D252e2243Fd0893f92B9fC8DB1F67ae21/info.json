@@ -1,0 +1,11 @@
+{
+ "name": "SuperHare ",
+ "website": "http://superharecoin.com",
+ "description": "SuperHare will be the best coin ",
+ "explorer": "https://bscscan.com/token/0xBa54997D252e2243Fd0893f92B9fC8DB1F67ae21",
+ "type": "BEP20",
+ "symbol": "SuperHare",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xBa54997D252e2243Fd0893f92B9fC8DB1F67ae21"
+}
