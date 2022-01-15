@@ -1,0 +1,11 @@
+{
+    "name": "BRT",
+    "website": "https://barty.cc/",
+    "description": "BRT Token",
+    "explorer": "https://bscscan.com/token/0xFEac25E0e6A4546afa13Dbc8e294F63b83261Bf6",
+    "type": "BEP20",
+    "symbol": "BRT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xFEac25E0e6A4546afa13Dbc8e294F63b83261Bf6"
+   }

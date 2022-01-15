@@ -1,0 +1,11 @@
+{
+ "name": "Steam Exchange",
+ "website": "https://steamexchange.ca",
+ "description": "An upcoming global hybrid digital asset trading platform. Your one stop shop for all things crypto. A culmination of learning, innovation, & scalable digital asset solutions",
+ "explorer": "https://bscscan.com/address/0xc0924edefb2c0c303de2d0c21bff07ab763163b5",
+ "type": "BEP20",
+ "symbol": "SteamX",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xc0924EDEFB2C0C303de2d0c21BfF07ab763163B5"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Fuelcoin",
+    "website": "",
+    "description": "ＦＵＣ作为未来元宇宙商业联盟中通用的通证之一，各商业社区可根据各自商业发展应用各自发行的通证与ＦＵＣ自由兑换。",
+    "explorer": "https://bscscan.com/token/0x71D288C40cE3c51192fdED9344948d318EfF3688",
+    "type": "BEP20",
+    "symbol": "FUC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x71D288C40cE3c51192fdED9344948d318EfF3688"
+   }

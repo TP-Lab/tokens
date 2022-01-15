@@ -1,0 +1,11 @@
+{
+    "name": "christmasdog",
+    "website": "http://www.christmasdog.top",
+    "description": "Have a nice dog for Christmas Day!",
+    "explorer": "https://bscscan.com/token/0xEf34Bbe14081271799939511d56F2ED6e3b97390",
+    "type": "BEP20",
+    "symbol": "Dogc",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xEf34Bbe14081271799939511d56F2ED6e3b97390"
+}

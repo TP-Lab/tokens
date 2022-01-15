@@ -1,0 +1,11 @@
+{
+ "name": "MartianHome",
+ "website": "http://martianhome.top/",
+ "description": "Martian Home is a decentralized virtual reality #metaverse platform. In the future, human beings will go to Mars to build new home and build a new civilization by blockchain users. Players can set their own names and avatars in the game. With the support of blockchain technology, lands owned by users will have entertainment and economic value. Let’s create a civilization which belongs to us!",
+ "explorer": "https://bscscan.com/address/0xb8f6F623ae0C991c4cBB359113B8D2Af0AC8E397",
+ "type": "BEP-20",
+ "symbol": "MTHM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb8f6F623ae0C991c4cBB359113B8D2Af0AC8E397"
+}

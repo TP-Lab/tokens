@@ -1,0 +1,11 @@
+{
+ "name": "GinzaToken",
+ "website": "www.ginzaeternity.com",
+ "description": "BSC GameFi Game",
+ "explorer": "https://bscscan.com/token/0x32d7DA6a7cf25eD1B86E1B0Ee9a62B0252D46B16",
+ "type": "BEP20",
+ "symbol": "GINZA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x32d7DA6a7cf25eD1B86E1B0Ee9a62B0252D46B16"
+}

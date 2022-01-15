@@ -1,0 +1,13 @@
+{
+ 
+"name": "Gray wolf cion",
+ 
+"website": "http://www.gwcoin.net",
+"description": "GWC is to let more people with consensus participate and let them get rich first.",
+"explorer": "https://hecoinfo.com/address/0x1c25277bbae7f525af6b898a6ef2a1747b6e5209",
+"type": "HECO",
+"symbol": "GWC",
+"decimals": 6,
+"status": "active",
+"id": "0x1C25277BBAe7F525aF6b898A6EF2A1747B6e5209"
+}

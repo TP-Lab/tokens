@@ -1,0 +1,11 @@
+{
+ "name": "Education Token",
+ "website": "http://gw.huaxi.pro",
+ "description": "ET (global general points for distributed Ecology) is the only point based on blockchain issuance and management.",
+ "explorer": "https://hecoinfo.com/token/0x9bD0726f4924E6DeaD48aD82D876ea2c9f00fB81",
+ "type": "HECO",
+ "symbol": "ET",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x9bD0726f4924E6DeaD48aD82D876ea2c9f00fB81"
+}

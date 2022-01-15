@@ -1,0 +1,11 @@
+{
+ "name": "CGOCEAN COIN",
+ "website": "https://cgocean.net/",
+ "description": "CGO is a professional for independent game makers block chain content of service platform.",
+ "explorer": "https://https://bscscan.com/address/0xD7b10B6411Cf673378F886267f4ebCABD0f1d168",
+ "type": "BEP20",
+ "symbol": "CGO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD7b10B6411Cf673378F886267f4ebCABD0f1d168"
+}

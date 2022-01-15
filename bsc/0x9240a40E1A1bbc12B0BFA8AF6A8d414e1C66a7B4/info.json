@@ -1,0 +1,11 @@
+{
+ "name": "Gavin",
+ "website": "https://bscscan.com/token/0x9240a40E1A1bbc12B0BFA8AF6A8d414e1C66a7B4",
+ "description": "Gavin：假笑男孩!",
+ "explorer": "https://bscscan.com/token/0x9240a40E1A1bbc12B0BFA8AF6A8d414e1C66a7B4",
+ "type": "BEP20",
+ "symbol": "Gavin",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9240a40E1A1bbc12B0BFA8AF6A8d414e1C66a7B4"
+}

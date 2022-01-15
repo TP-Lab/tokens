@@ -1,0 +1,11 @@
+{
+ "name": "Energy Guardian",
+ "website": "https://EnergyGuardian.com",
+ "description": "Energy Guardian.",
+ "explorer": "https://bscscan.com/address/0x3ed321cb427b204936408ff835b5cb8ec0c31b96",
+ "type": "BEP20",
+ "symbol": "EG",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x3ED321cB427B204936408ff835B5cB8EC0c31b96"
+}

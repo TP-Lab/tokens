@@ -1,0 +1,11 @@
+{
+ "name": "lobster",
+ "website": "https://bsc.butterswap.me/launchpad",
+ "description": " Launch Pad is a platform for new crypto project launching with various charming features",
+ "explorer": "https://bscscan.com/address/0x7e8Ce4437B1438B299cE9113eaAD0E19800AB276",
+ "type": "BEP20",
+ "symbol": "LB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7e8Ce4437B1438B299cE9113eaAD0E19800AB276"
+}

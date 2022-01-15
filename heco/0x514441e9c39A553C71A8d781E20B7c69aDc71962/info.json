@@ -1,0 +1,11 @@
+{
+ "name": "Maseratii",
+ "website": "https://Maseratii.WORLD",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/token/0x514441e9c39a553c71a8d781e20b7c69adc71962",
+ "type": "HECO20",
+ "symbol": "Maseratii ",
+ "decimals": 6,
+ "status": "active",
+ "0x514441e9c39a553c71a8d781e20b7c69adc71962"
+}

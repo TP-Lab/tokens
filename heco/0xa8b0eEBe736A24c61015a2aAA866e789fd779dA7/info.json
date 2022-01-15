@@ -1,0 +1,11 @@
+{
+ "name": "Single Dog",
+ "website": "https://www.singledog.org.cn",
+ "description": "Single Dog(简称:SGDOG，中文:单身狗)是由一群志同道合热爱币圈的单身人士自发组建的一个社区自治联盟(Single Dog Union)匿名发行的基于火币生态链去中心化极速通缩型货币。其极速通缩模式使SGDOG链上每笔转账交易都将扣税5%打入黑洞地址，其中3%添加到MDEX资金池提供流动性，2%实时投入里洞地址，2%实时分配给黑洞地址外的其他持有者。另外最高9%推广机制分红。",
+ "explorer": "https://hecoinfo.com/token/0xa8b0eEBe736A24c61015a2aAA866e789fd779dA7",
+ "type": "HRC20",
+ "symbol": "SGDOG",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xa8b0eEBe736A24c61015a2aAA866e789fd779dA7"
+}

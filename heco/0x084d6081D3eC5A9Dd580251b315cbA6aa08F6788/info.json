@@ -1,0 +1,11 @@
+{
+ "name": "Pandora Token",
+ "website": "http://Pandoratoken.top",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/token/0x084d6081D3eC5A9Dd580251b315cbA6aa08F6788",
+ "type": "HECO",
+ "symbol": "Pandora",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x084d6081D3eC5A9Dd580251b315cbA6aa08F6788"
+}
