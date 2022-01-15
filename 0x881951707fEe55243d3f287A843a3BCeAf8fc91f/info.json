@@ -1,0 +1,11 @@
+{
+ "name": "metaverse DAO",
+ "website": "",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x881951707fEe55243d3f287A843a3BCeAf8fc91f",
+ "type": "BEP20",
+ "symbol": "META",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x881951707fEe55243d3f287A843a3BCeAf8fc91f"
+}
