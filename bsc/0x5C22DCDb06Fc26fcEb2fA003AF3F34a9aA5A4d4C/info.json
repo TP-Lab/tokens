@@ -1,0 +1,11 @@
+{
+ "name": "MetaSango Token",
+ "website": "https://www.metasango.com",
+ "description": "Players can achieve diversified gameplay in Metasango.",
+ "explorer": "https://bscscan.com/token/0x5C22DCDb06Fc26fcEb2fA003AF3F34a9aA5A4d4C",
+ "type": "BEP20",
+ "symbol": "MVSG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5C22DCDb06Fc26fcEb2fA003AF3F34a9aA5A4d4C"
+}
