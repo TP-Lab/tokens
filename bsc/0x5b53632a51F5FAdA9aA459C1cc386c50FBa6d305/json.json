@@ -1,0 +1,11 @@
+{
+ "name": "Hash Park Token",
+ "website": "https://www.hashpark.cc",
+ "description": "Hash Park is a decentralized platform with highly integrated DeFi, GameFi, NFT triple play and blockchain technology.",
+ "explorer": "https://bscscan.com/token/0x5b53632a51f5fada9aa459c1cc386c50fba6d305",
+ "type": "BEP20",
+ "symbol": "HPC",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x5b53632a51f5fada9aa459c1cc386c50fba6d305"
+}
