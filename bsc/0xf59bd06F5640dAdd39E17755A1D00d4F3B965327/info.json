@@ -1,0 +1,11 @@
+{
+ "name": "Xelectron",
+ "website": "https://xelectron.org/",
+ "description": "A Binance Smart Chain Token.",
+ "explorer": "https://bscscan.com/token/0xf59bd06F5640dAdd39E17755A1D00d4F3B965327",
+ "type": "BEP20",
+ "symbol": "Xelectron",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf59bd06F5640dAdd39E17755A1D00d4F3B965327"
+}
