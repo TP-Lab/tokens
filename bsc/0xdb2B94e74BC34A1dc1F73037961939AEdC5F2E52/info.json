@@ -1,0 +1,11 @@
+{
+ "name": "Sedna",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xdb2B94e74BC34A1dc1F73037961939AEdC5F2E52",
+ "type": "BSC20",
+ "symbol": "Sedna",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdb2B94e74BC34A1dc1F73037961939AEdC5F2E52"
+}
