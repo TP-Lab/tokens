@@ -1,0 +1,20 @@
+{
+ 
+"name": "BLEE Token",
+
+ "website": "www.cmmcoin.net",
+ 
+"description": "A Bruce Lee commemorative token developed on BSC smart chain.",
+ "explorer":"https://bscscan.com/token/0x94A9bDCbC49D772FB523a2Fd3c5eB14e30f9Ab92",
+
+ "type": "BEP20",
+ 
+"symbol": "BLEE",
+
+ "decimals": 9,
+ 
+"status": "active",
+
+ "id": "0x94A9bDCbC49D772FB523a2Fd3c5eB14e30f9Ab92"
+
+}
