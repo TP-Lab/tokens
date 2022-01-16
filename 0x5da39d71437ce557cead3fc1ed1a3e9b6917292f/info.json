@@ -1,0 +1,11 @@
+{
+ "name": "Secret Social DeFi",
+ "website": "https://bscscan.com/token/0x5da39d71437ce557cead3fc1ed1a3e9b6917292f",
+ "description": "The full name of SECR is Secret Social DeFi. It is a financial token of the Secret community. It has complete DAO autonomy and recruits 30,000 community members from all over the world to become project shareholders. The community mainly conducts encrypted social software promotion and blockchain industry knowledge learning.",
+ "explorer": "https://bscscan.com/token/0x5da39d71437ce557cead3fc1ed1a3e9b6917292f",
+ "type": "BEP20",
+ "symbol": "SECR",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x5da39d71437ce557cead3fc1ed1a3e9b6917292f"
+}
