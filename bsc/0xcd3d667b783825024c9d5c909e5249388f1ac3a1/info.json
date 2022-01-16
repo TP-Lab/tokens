@@ -1,0 +1,11 @@
+{
+ "name": "MUSK DEER",
+ "website": "www.muwkdeer.org",
+ "description": "MuskDeer 是一个基于 NFT 的元界区块链生态游戏网络，它建立在 BSC 标准之上，由 Westwood 工作室和 MDR 基金会发起。MuskDeer的Token名称为MDR。MDR为8亿，无增发，全国平等。希望能促进gamefi社区的发展。目前，MDR支持多币种流动性挖矿、去中心化Dao社区治理、去中心化defi协议、去中心化虚拟资产、去中心化游戏、去中心化存储、去中心化同质代币、去中心化跨链互通等。",
+ "explorer": "https://bscscan.com/token/0xcd3d667b783825024c9d5c909e5249388f1ac3a1",
+ "type": "BEP20",
+ "symbol": "MDR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcd3d667b783825024c9d5c909e5249388f1ac3a1"
+}
