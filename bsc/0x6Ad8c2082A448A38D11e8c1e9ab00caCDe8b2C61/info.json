@@ -1,0 +1,11 @@
+{
+ "name": "SuperDoge ",
+ "website": "http://superdogecoins.com",
+ "description": "SuperDoge will be the best coin in 2022 year ",
+ "explorer": "https://bscscan.com/token/0x6Ad8c2082A448A38D11e8c1e9ab00caCDe8b2C61",
+ "type": "BEP20",
+ "symbol": "SuperDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6Ad8c2082A448A38D11e8c1e9ab00caCDe8b2C61"
+}
