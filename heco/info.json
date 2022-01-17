@@ -1,11 +1,11 @@
 {
- "name": AA",
- "website": "https://www.AATOKEN.uk",
- "description": "AA.",
- "explorer": "https://hecoinfo.com/token/0x55b5eA37eE084598A69157759c33A18FA411b3DD",
- "type": "HRC-20",
- "symbol": "AA",
+ "name": "BTC Pi Token",
+ "website": "https://nymtechs.com/",
+ "description": "BTC Pi比特派",
+ "explorer": "https://hecoinfo.com/token/0x92562645af7310aE15FF70119fF8A0624B4b0ee6",
+ "type": "HRC20",
+ "symbol": "BTPi",
  "decimals": 9,
  "status": "active",
- "id": "0x55b5eA37eE084598A69157759c33A18FA411b3DD"
+ "id": "0x92562645af7310aE15FF70119fF8A0624B4b0ee6"
 }
