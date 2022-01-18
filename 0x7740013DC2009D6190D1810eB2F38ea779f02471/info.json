@@ -1,0 +1,11 @@
+{
+ "name": "Optimus Prime",
+ "website": "http://qtz.plus",
+ "description": "Decentralized finance through DeFi creates a strong consensus and realizes carbon neutrality and stable ecological application, which will reshape the blockchain DeFi field",
+ "explorer": "https://www.bscscan.com/token/0x7740013DC2009D6190D1810eB2F38ea779f02471",
+ "type": "BEP20",
+ "symbol": "QTZ",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x7740013DC2009D6190D1810eB2F38ea779f02471"
+}
