@@ -1,0 +1,11 @@
+{ 
+"name": "FlyDoge",
+"website": "https://www.FlyDoge.com",
+"description": "FlyDoge is a yield-generating deflationary charitable cryptocurrency that runs on Binance Smart Chain. It rewards holders through reflections by taxing transactions. ",
+"explorer": "https://bscscan.com/token/0x612502391f1f2D170dE3aA25E6f376f41Da56AFB",
+"type": "BEP20",
+"symbol": "FlyDoge",
+"decimals": 9,
+"status": "active",
+"id": "0x612502391f1f2D170dE3aA25E6f376f41Da56AFB"
+}
