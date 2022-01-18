@@ -1,0 +1,11 @@
+{
+ "name": "SPOOKYSHIBA Token",
+ "website": "https://www.spookyshibabsc.com",
+ "description": "The #1 Horror genre Memecoin on the Binance Smart Chain.",
+ "explorer": "https://bscscan.com/token/0xed74bc5dc139356e08de28143996f5ef6e4334a4",
+ "type": "BEP20",
+ "symbol": "SPOOKYSHIBA",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xed74bc5dc139356e08de28143996f5ef6e4334a4"
+}
