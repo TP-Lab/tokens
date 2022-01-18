@@ -1,0 +1,11 @@
+{
+ "name": "JXC",
+ "website": "https://www.jxc-token.io",
+ "description": "吉祥币总量3168枚,开盘4美金上线，1月8日20点准时上线 31位核心机构共同倾力打造多个地推团队宣发，励志将吉祥币打造2022年第一神币",
+ "explorer": "https://tronscan.io/#/token20/TGbDp4r8qRcTqf1M49Z5WQXgth7E3FBFBk",
+ "type": "TRC20",
+ "symbol": "JXC",
+ "decimals": 6,
+ "status": "active",
+ "id": "TGbDp4r8qRcTqf1M49Z5WQXgth7E3FBFBk"
+}
