@@ -1,0 +1,11 @@
+{
+ "name": "ELVES",
+ "website": "https://www.elvescentury.com/",
+ "description": "Elves Century is an adventure game connected with our NFT Platform Train your own elf heroes explore worlds and discover all the secret of the mysterious elfic world.",
+ "explorer": "https://bscscan.com/address/0x9587cec6EDDa767D68bf5ed5A3114e414A9008B0",
+ "type": "BEP-20",
+ "symbol": "ELVES",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9587cec6EDDa767D68bf5ed5A3114e414A9008B0"
+}
