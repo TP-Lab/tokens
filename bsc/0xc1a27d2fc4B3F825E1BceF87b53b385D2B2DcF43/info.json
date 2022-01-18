@@ -1,0 +1,11 @@
+{
+ "name": "Horizon",
+ "website": "https://bscscan.com/",
+ "description": "A pledge generates income",
+ "explorer": "https://bscscan.com/token/0xc1a27d2fc4B3F825E1BceF87b53b385D2B2DcF43",
+ "type": "BEP20",
+ "symbol": "WOL",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xc1a27d2fc4B3F825E1BceF87b53b385D2B2DcF43"
+}
