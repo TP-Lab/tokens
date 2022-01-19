@@ -1,0 +1,10 @@
+{
+ "name": "FUC Coin",
+ "website": "https://oasismeta.io",
+ "explorer": "https://www.bscscan.com/token/0xCBFfaCB134a4b1B617Be92F61BA621dD2aDB6b44",
+ "type": "BEP20",
+ "symbol": "FUC",
+ "decimals": 6,
+ "status": "-",
+ "id": "0xCBFfaCB134a4b1B617Be92F61BA621dD2aDB6b44"
+}
