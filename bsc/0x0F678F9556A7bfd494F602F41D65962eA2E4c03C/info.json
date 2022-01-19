@@ -1,0 +1,11 @@
+{
+ "name": "FISH",
+ "website": "http://www.fishculb.com",
+ "description": "Fish perfect rare fish is a comprehensive platform integrating farm, NFT market, NFT blind box, game find and metaverse",
+ "explorer": "https://bscscan.com/token/0x0F678F9556A7bfd494F602F41D65962eA2E4c03C",
+ "type": "BEP20",
+ "symbol": "FISH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0F678F9556A7bfd494F602F41D65962eA2E4c03C"
+}
