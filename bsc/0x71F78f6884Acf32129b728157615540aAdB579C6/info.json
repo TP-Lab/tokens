@@ -1,0 +1,11 @@
+{
+ "name": "Milk",
+ "website": "https://www.justcows.info",
+ "description": "Multi chain aggregation defi platform",
+ "explorer": "https://www.bscscan.com/address/0x71f78f6884acf32129b728157615540aadb579c6",
+ "type": "BEP20",
+ "symbol": "MILK",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x71F78f6884Acf32129b728157615540aAdB579C6"
+}
