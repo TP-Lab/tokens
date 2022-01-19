@@ -1,0 +1,11 @@
+{ 
+  "name": "FistZilla",
+  "website": "https://www.fistzilla.io",
+  "description": "FistZilla is a yield-generating deflationary charitable cryptocurrency that runs on Binance Smart Chain. ",
+  "explorer": "https://bscscan.com/token/0x54f051bC44446c52b787BD4914DeccC8B6f20fFD",
+  "type": "BEP20",
+  "symbol": "FistZilla",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x54f051bC44446c52b787BD4914DeccC8B6f20fFD"
+}
