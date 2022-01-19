@@ -1,0 +1,11 @@
+{
+ "name": "HAYFEVER",
+ "website": "https://hayfever.games/",
+ "description": "P2E informational HUB for the crypto-gaming community to support, advertise, and promote.",
+ "explorer": "https://etherscan.io/token/0xf6269e2e0c271fb6af35e7f8a539ebc7155e33bb",
+ "type": "ERC20",
+ "symbol": "HAY",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xF6269e2e0C271fb6AF35E7f8a539EbC7155E33bb"
+}
