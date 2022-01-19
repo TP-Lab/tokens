@@ -1,0 +1,11 @@
+{
+ "name": "JayChouDAO",
+ "website": "",
+ "description": "JayChouDAO token",
+ "explorer": "https://www.bscscan.com/token/0xD3bD43577192e2185DF7561DbB5e2B10Bf0aa4DF",
+ "type": "BEP20",
+ "symbol": "JayChouDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD3bD43577192e2185DF7561DbB5e2B10Bf0aa4DF"
+}
