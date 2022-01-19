@@ -1,0 +1,11 @@
+{
+ "name": "Doomsday Redemption",
+ "website": "https://www.doomsdays.link/",
+ "description": "Doom Salvation is a mining game for the NFT platform. Players need to choose mineral-rich locations to set up base camps in the environment of the ruined planet of Doom and hire mining cars to collect metal ores and transport gas ores.",
+ "explorer": "https://bscscan.com/token/0x00fC7C3FF2d518DBB12f5A70Adc11Fe0e93d80ae",
+ "type": "BEP20",
+ "symbol": "DRU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x00fC7C3FF2d518DBB12f5A70Adc11Fe0e93d80ae"
+}
