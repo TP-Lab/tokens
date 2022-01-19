@@ -1,0 +1,11 @@
+{
+ "name": "STARZ",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/address/0x9060d2E0a075E0fBbA972DC27d59D5e4308Dca10",
+ "type": "BEP20",
+ "symbol": "STARZ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9060d2E0a075E0fBbA972DC27d59D5e4308Dca10"
+}
