@@ -1,0 +1,11 @@
+{
+    "name": "DOGEFOOD",
+    "website": "https://dogefoodbsc.com",
+    "description": "Dogefood is a metaverse token with Swap,GameFi,NFTs and charity.",
+    "explorer": "https://bscscan.com/address/0x1bec41a36356d5574aeb068b599ab7e48dd008b8",
+    "type": "BEP20",
+    "symbol": "DOGEFOOD",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x1bEc41a36356D5574Aeb068B599Ab7e48dD008b8"
+   } 
