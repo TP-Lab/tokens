@@ -1,0 +1,11 @@
+{undefined
+ "name": "FBBCoin",
+ "website": "https://fbu.fcttt.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x0a523b383705B74019dD91800C424AbBA6421a00",
+ "type": "BEP20",
+ "symbol": "FCC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0a523b383705B74019dD91800C424AbBA6421a00"
+}
