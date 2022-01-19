@@ -1,0 +1,11 @@
+{
+    "name": "Btoken",
+    "website": "https://btgame.info",
+    "description": "Cloud chain game combines the application of metauniverse + Chain Game + Dao + DEX + defi + NFT + gamefi in the ecosystem to create decentralized autonomous management (DAO).",
+    "explorer": "https://bscscan.com/token/0x34a79838a51a0800a39784356b202f53b56d6fb3",
+    "type": "BEP20",
+    "symbol": "BT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x34A79838A51A0800a39784356B202F53b56D6Fb3"
+}
