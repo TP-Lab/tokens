@@ -1,0 +1,11 @@
+{
+ "name": "Metacap",
+ "website": "нч",
+ "description": "нч",
+ "explorer": "https://bscscan.com/token/0x326a05Bd4390b873D59D080565c97BB4fC9F3B59",
+ "type": "BEP20",
+ "symbol": "Metacap",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x326a05Bd4390b873D59D080565c97BB4fC9F3B59"
+} 
