@@ -1,0 +1,11 @@
+{
+ "name": "DMM",
+ "website": "https://ugwdmm.com",
+ "description": "A blockchain game token",
+ "explorer": "https://bscscan.com/token/0x49feF5EaCf0De82D94ca84d5abC18142cD499e9f",
+ "type": "BEP20",
+ "symbol": "DMM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x49feF5EaCf0De82D94ca84d5abC18142cD499e9f"
+}
