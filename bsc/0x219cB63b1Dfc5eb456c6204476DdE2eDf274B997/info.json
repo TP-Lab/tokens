@@ -1,0 +1,11 @@
+{
+ "name": "MAMMON",
+ "website": "https://mammon.dev/",
+ "description": "Mammon is a project that forces every holder to get rich",
+ "explorer": "https://bscscan.com/token/0x219cb63b1dfc5eb456c6204476dde2edf274b997",
+ "type": "BEP20",
+ "symbol": "MAMMON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x219cB63b1Dfc5eb456c6204476DdE2eDf274B997"
+}
