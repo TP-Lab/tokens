@@ -1,0 +1,11 @@
+{
+    "name": "CQB",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://hecoinfo.com/token/0xcb5aa9e9E531759C482096597a69408538704b82",
+    "type": "HRC-20",
+    "symbol": "CQB",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xcb5aa9e9E531759C482096597a69408538704b82"
+   }
