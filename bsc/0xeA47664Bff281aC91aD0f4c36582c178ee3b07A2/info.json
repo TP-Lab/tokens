@@ -1,0 +1,11 @@
+{
+    "name": "DLC",
+    "website": "https://dao-launcher.com",
+    "description": "DaoLauncher token",
+    "explorer": "https://bscscan.com/token/0xeA47664Bff281aC91aD0f4c36582c178ee3b07A2",
+    "type": "BEP20",
+    "symbol": "DLC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xeA47664Bff281aC91aD0f4c36582c178ee3b07A2"
+}
