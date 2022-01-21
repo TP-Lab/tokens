@@ -1,0 +1,11 @@
+{
+ "name": "APENFT",
+ "website": "https://www.apenft.org/",
+ "description": "As a governance token officially issued by apenft foundation, NFT is a decentralized digital asset developed based on bep-20 protocol.",
+ "explorer": "https://bscscan.com/token/0x0E69f1751623A418ABC881dc60955BC6A81E3888",
+ "type": "BEP20",
+ "symbol": "NFT",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x0E69f1751623A418ABC881dc60955BC6A81E3888"
+}
