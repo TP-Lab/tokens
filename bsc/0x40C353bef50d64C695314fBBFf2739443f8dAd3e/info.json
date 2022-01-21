@@ -1,0 +1,11 @@
+{
+ "name": "WINWINToken",
+ "website": "https://bscscan.com/token/0x40C353bef50d64C695314fBBFf2739443f8dAd3e",
+ "description": "WIN-WIN （开启元宇宙DAO组织之DEFI2.0时代）",
+ "explorer": "https://bscscan.com/token/0x40C353bef50d64C695314fBBFf2739443f8dAd3e",
+ "type": "BEP20",
+ "symbol": "WIN-WIN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x40C353bef50d64C695314fBBFf2739443f8dAd3e"
+}
