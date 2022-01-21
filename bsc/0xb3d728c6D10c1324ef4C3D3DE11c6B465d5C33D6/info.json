@@ -1,0 +1,11 @@
+{
+"name": "Shen Nong Token",
+"website": "-",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0xb3d728c6D10c1324ef4C3D3DE11c6B465d5C33D6",
+"type": "BEP20",
+"symbol": "SN",
+"decimals": 18,
+"status": "active",
+"id": "0xb3d728c6D10c1324ef4C3D3DE11c6B465d5C33D6"
+}
