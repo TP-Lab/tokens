@@ -1,0 +1,11 @@
+{
+    "name": "Bond DLC",
+    "website": "https://dao-launcher.com",
+    "description": "DLC community Bond",
+    "explorer": "https://bscscan.com/token/0x8d377D778c7092cc6E33313AF1f2fc748a5CBE99",
+    "type": "BEP20",
+    "symbol": "BDC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8d377D778c7092cc6E33313AF1f2fc748a5CBE99"
+}
