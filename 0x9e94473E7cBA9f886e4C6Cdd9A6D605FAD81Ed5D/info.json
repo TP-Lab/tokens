@@ -1,0 +1,11 @@
+{
+ "name": "TMETA",
+ "website": "https://www.tmeta.city",
+ "description": "The Metaverse entrance",
+ "explorer":"https://www.bscscan.com/token/0x9e94473E7cBA9f886e4C6Cdd9A6D605FAD81Ed5D",
+ "type": "BEP20",
+ "symbol": "TMT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9e94473E7cBA9f886e4C6Cdd9A6D605FAD81Ed5D"
+}
