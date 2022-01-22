@@ -1,0 +1,11 @@
+{
+ "name": "Gold Coin",
+ "website": "https://tapfantasy.io/",
+ "description": "GOLD is a stable coin in the game, which can be obtained by exchange to USDT. 1 USDT: 10 GOLD for in-game trading market’s token circulation.",
+ "explorer": "https://bscscan.com/token/0xbf3BF5975B6da4eb5DA78C3796b64eDd19E8c92b",
+ "type": "BEP20",
+ "symbol": "GOLD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbf3BF5975B6da4eb5DA78C3796b64eDd19E8c92b"
+}

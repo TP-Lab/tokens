@@ -1,0 +1,11 @@
+{
+ "name": "Magic Crystal Coin",
+ "website": "https://tapfantasy.io/",
+ "description": "MC is a Token produced in the game's treasure area. It is similar to Axie’s SLP. And it is also an important item for upgrading NFT to increase players’ CE.",
+ "explorer": "https://bscscan.com/token/0x59C49B54D4425C7fF1E49f40958a14d48cC87c26",
+ "type": "BEP20",
+ "symbol": "MC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x59C49B54D4425C7fF1E49f40958a14d48cC87c26"
+}

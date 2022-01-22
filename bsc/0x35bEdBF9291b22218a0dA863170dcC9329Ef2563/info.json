@@ -1,0 +1,11 @@
+{
+ "name": "TAP Coin",
+ "website": "https://tapfantasy.io/",
+ "description": "Tap Fantasy is an MMORPG blockchain game Building the big Play2Earn NFT game on BSC.",
+ "explorer": "https://bscscan.com/token/0x35bEdBF9291b22218a0dA863170dcC9329Ef2563",
+ "type": "BEP20",
+ "symbol": "TAP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x35bEdBF9291b22218a0dA863170dcC9329Ef2563"
+}
