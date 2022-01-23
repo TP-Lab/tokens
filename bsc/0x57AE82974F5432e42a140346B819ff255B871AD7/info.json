@@ -1,0 +1,11 @@
+{
+    "name": "OSK",
+    "website": "",
+    "description": "A token formed by fans of $OSK. LP locked,no rugpull, just pump.",
+    "explorer": "https://bscscan.com/address/0x57AE82974F5432e42a140346B819ff255B871AD7",
+    "type": "BEP20",
+    "symbol": "OSK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x57AE82974F5432e42a140346B819ff255B871AD7"
+   } 
