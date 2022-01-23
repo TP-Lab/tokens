@@ -1,0 +1,11 @@
+{
+"name": "FistToken",
+"website": "-",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0xC9882dEF23bc42D53895b8361D0b1EDC7570Bc6A",
+"type": "BEP20",
+"symbol": "FIST",
+"decimals": 6,
+"status": "active",
+"id": "0xC9882dEF23bc42D53895b8361D0b1EDC7570Bc6A"
+}
