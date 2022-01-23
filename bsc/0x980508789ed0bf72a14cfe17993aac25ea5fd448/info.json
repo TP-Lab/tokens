@@ -1,0 +1,11 @@
+{
+ "name": "DIAOS",
+ "website": "http://diaosglobal.com",
+ "description": "DIAOS，一个由IBM工程师 玛丽领衔的技术团队推出的一个名为《太空新人类》的元宇宙3D链游流通通证.",
+ "explorer": "https://bscscan.com/token/0x980508789ed0bf72a14cfe17993aac25ea5fd448",
+ "type": "BEP20",
+ "symbol": "DIAOS",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x980508789ed0bf72a14cfe17993aac25ea5fd448"
+}
