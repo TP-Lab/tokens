@@ -1,0 +1,12 @@
+  
+{
+ "name": "doctor buddha ",
+ "website": "https://www.games.com/",
+ "description": "charitable currency",
+ "explorer": "https://scan.hecochain.com/tx/0xc36d15d3d8ea8787a22fbf0bedaecbbf76995fca96338725415920f13d0a935c",
+ "type": "BEP20",
+ "symbol": "Buddha Dr",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x96d337ba9100975835eb6f5da772012d115a7331"
+}
