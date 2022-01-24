@@ -1,0 +1,11 @@
+{
+ "name": "TetherMoon",
+ "website": "https://tethermoon.net/",
+ "description": "Hold TetherMoon and earn passiveT income paid in USDT.",
+ "explorer": "https://bscscan.com/token/0xc50516327dCAB0ceA4e8e6Ccf3502D985401CD24",
+ "type": "BEP20",
+ "symbol": "TetherMoon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc50516327dCAB0ceA4e8e6Ccf3502D985401CD24"
+}
