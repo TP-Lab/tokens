@@ -1,0 +1,11 @@
+{
+ "name": "Penguin Dao",
+ "website": "http://www.penguin-dao.me/",
+ "description": "Penguin DAO Communty. Committed to becoming a high-quality NFT collection DAO.",
+ "explorer": "https://bscscan.com/token/0x1dda18CDa631A07f154c9e366B12aa57a81d471C",
+ "type": "BEP20",
+ "symbol": "PND",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x1dda18CDa631A07f154c9e366B12aa57a81d471C"
+}
