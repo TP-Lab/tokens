@@ -1,0 +1,11 @@
+{
+ "name": "Avengers",
+ "website": "https://avengers.network",
+ "description": "Marvel is Avengers developed in collaboration.",
+ "explorer": "https://bscscan.com/token/0x32De0e703bF404CD0f16Cac183D417d48e47558b",
+ "type": "BEP20",
+ "symbol": "AWP",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x32De0e703bF404CD0f16Cac183D417d48e47558b"
+}
