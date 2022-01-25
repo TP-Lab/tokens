@@ -1,0 +1,11 @@
+{
+ "name": "SpaceDoge Coin",
+ "website": "https://www.spacedogecoin.io",
+ "description": "SpaceDoge is a new generation of meme token, which is committed to helping humans immigrate to Mars and Metaverse.",
+ "explorer": "https://bscscan.com/token/0x03c90cbbeb51e90ff47dcd4976da5d6bf3b1b597",
+ "type": "BEP20",
+ "symbol": "SpaceDoge",
+ "decimals": 2,
+ "status": "active",
+ "id": "0x03C90CbbEB51e90Ff47dcd4976dA5D6bF3b1B597"
+}
