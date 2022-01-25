@@ -1,0 +1,11 @@
+{
+ "name": "YAFA",
+ "website": "http://fwbmyhome.com/",
+ "description": "YAFA",
+ "explorer": "https://bscscan.com/token/0x7d9E1D0788A0eB37601c7E205A6E726778bBFaD3",
+ "type": "BEP20",
+ "symbol": "YAFA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7d9E1D0788A0eB37601c7E205A6E726778bBFaD3"
+}
