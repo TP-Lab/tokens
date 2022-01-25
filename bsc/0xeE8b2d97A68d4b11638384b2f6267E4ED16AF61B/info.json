@@ -1,0 +1,12 @@
+{
+    "name": "Quark Metaverse",
+    "website": "https://www.myquark.net/",
+    "description": "Quark Metaverse is a comprehensive ecosystem including Wallet, Gamefi, Quark Network Applications and Cloud Mining.",
+    "explorer": "https://bscscan.com/token/0xeE8b2d97A68d4b11638384b2f6267E4ED16AF61B",
+    "type": "BEP20",
+    "symbol": "QM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xeE8b2d97A68d4b11638384b2f6267E4ED16AF61B"
+}
+   
