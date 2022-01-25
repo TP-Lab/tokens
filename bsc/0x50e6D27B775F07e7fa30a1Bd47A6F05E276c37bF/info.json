@@ -1,0 +1,11 @@
+{
+ "name": "BFIC COIN",
+ "website": "https://www.bfictoken.com/",
+ "description": "A new cryptocurrency created by fans of the BFIC online community. He is the reward holder of super deflation and static reflection. BFIC is the fastest decentralized network of the time that let anyone make easier and secure payment processing.",
+ "explorer": "https://bscscan.com/token/0x50e6D27B775F07e7fa30a1Bd47A6F05E276c37bF",
+ "type": "BEP20",
+ "symbol": "BFIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x50e6D27B775F07e7fa30a1Bd47A6F05E276c37bF"
+}
