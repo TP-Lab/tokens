@@ -1,0 +1,11 @@
+{
+ "name": "TIGER",
+ "website": "https://www.tigercoin.vip",
+ "description": "老虎币，基于币安智能链，带有极致通缩极致的MEME代币。",
+ "explorer": "https://bscscan.com/token/0x54feba7d585cb3a1f344c042b344453949b98767",
+ "type": "BEP20",
+ "symbol": "TIGER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x54Feba7D585Cb3a1f344c042B344453949b98767"
+}
