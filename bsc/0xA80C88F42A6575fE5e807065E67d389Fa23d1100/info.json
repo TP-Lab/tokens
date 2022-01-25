@@ -1,0 +1,11 @@
+{
+    "name": "Kylin",
+    "website": "https://www.kylinfist.com/",
+    "description": "Pangu created the world, Kylin led the way.",
+    "explorer": "https://bscscan.com/token/0xA80C88F42A6575fE5e807065E67d389Fa23d1100",
+    "type": "BEP20",
+    "symbol": "Kylin",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA80C88F42A6575fE5e807065E67d389Fa23d1100"
+   }
