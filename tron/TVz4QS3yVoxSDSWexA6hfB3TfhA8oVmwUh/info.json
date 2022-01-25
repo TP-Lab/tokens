@@ -1,0 +1,11 @@
+{
+  "name": "ZHNS token",
+  "website": "zcsq.shop",
+  "description": "众乐购商城支付链 中文:【智慧男神】 英文:【ZHNS】 发行总量4100万枚 交易，转账、撤流动资金池，每一次都按照10%销毁。 剩余总量41万枚！公开，公正，透明、不可篡改，人人可查询！",
+  "explorer": "https://tronscan.org/#/token20/TVz4QS3yVoxSDSWexA6hfB3TfhA8oVmwUh",
+  "type": "TRC20",
+  "symbol": "ZHNS",
+  "decimals": 13,
+  "status": "active",
+  "id": "TVz4QS3yVoxSDSWexA6hfB3TfhA8oVmwUh"
+}
