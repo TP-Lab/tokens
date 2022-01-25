@@ -1,0 +1,11 @@
+{
+ "name": "FZT",
+ "website": ".",
+ "description": "FZT为元宇宙提供底层开发协议",
+ "explorer": "https://bscscan.com/token/0x05e74b49b062da5Faa7575Ab7F0C13A25FfA566d",
+ "type": "BSC20",
+ "symbol": "FZT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x05e74b49b062da5Faa7575Ab7F0C13A25FfA566d"
+}
