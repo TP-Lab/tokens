@@ -2,7 +2,7 @@
  "name": "MetaSwap",
  "website": "https://metaswap.cx",
  "description": "Using MetaSwap, you can exchange your NFT and cryptocurrency safely and easily.",
- "explorer": "https://bscscan.com/token/0xFB28abd38eFeFDf4F003182c298529526B27Cc82",
+ "explorer": "https://bscscan.com/address/0x5341fbD14314237Dc8c78AFe7F8100D6A9A26734",
  "type": "BEP20",
  "symbol": "MSC",
  "decimals": 18,
