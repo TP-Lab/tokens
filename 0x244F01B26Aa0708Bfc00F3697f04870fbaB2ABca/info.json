@@ -1,11 +1,11 @@
-{undefined
- "name": "TokenPocket Token",
- "website": "https://tokenpocket.pro",
+{
+ "name": "ÔªÓîÖæ",
+ "website": "https://yne.mystrikingly.com/",
  "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
- "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+ "explorer": "https://bscscan.com/token/0x244F01B26Aa0708Bfc00F3697f04870fbaB2ABca",
  "type": "BEP20",
- "symbol": "TPT",
+ "symbol": "YNE",
  "decimals": 4,
- "status": "active",
- "id": "0xECa41281c24451168a37211F0bc2b8645AF45092"
+ "status": "»î¶¯",
+ "id": "0x244F01B26Aa0708Bfc00F3697f04870fbaB2ABca"
 }
