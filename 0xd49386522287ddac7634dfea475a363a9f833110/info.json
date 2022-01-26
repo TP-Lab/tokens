@@ -1,0 +1,11 @@
+{
+ "name": "Pixel Tiger",
+ "website": "нч",
+ "description": "A meme token on BSC.",
+ "explorer": "https://bscscan.com/token/0xd49386522287ddac7634dfea475a363a9f833110",
+ "type": "BEP20",
+ "symbol": "PTIGER",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xd49386522287ddac7634dfea475a363a9f833110"
+}
