@@ -1,0 +1,11 @@
+{
+ "name": "ETERNAL WAR",
+ "website": "https://www.eternalwartoken.com/",
+ "description": "EternalWar is a war-themed card game with a new style and a wide range of game modes. With over three years of mobile game development experience, we have created a brand new card game and linked the blockchain, where each card is a unique Nft that plays a specific role in the game.",
+ "explorer": "https://bscscan.com/token/0x15DF22E1F1d6dB1B5957871e1441FBF3Fd70be2E",
+ "type": "BEP20",
+ "symbol": "ETW",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x15DF22E1F1d6dB1B5957871e1441FBF3Fd70be2E"
+}
