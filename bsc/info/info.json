@@ -1,0 +1,11 @@
+{
+ "name": "TPT",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/address/0xb8f6F623ae0C991c4cBB359113B8D2Af0AC8E397",
+ "type": "BEP-20",
+ "symbol": "TPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb8f6F623ae0C991c4cBB359113B8D2Af0AC8E397"
+}
