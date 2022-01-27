@@ -2,10 +2,10 @@
  "name": "ジャイアン",
  "website（网站）": "-",
  "description（描述）": " FAT was initiated by animation enthusiasts such as Japan, Hong Kong and the United States. This is a Token based on Heco chain",
-"explorer（探查）": "https://hecoinfo.com/token/0x5cD495Ac94768ad572Dca832637FFcca9B0A0058
+"explorer（探查）": "https://hecoinfo.com/token/0x5cD495Ac94768ad572Dca832637FFcca9B0A0058",
  "type（类型）": "HECO",
  "symbol（符号）": "FAT",
  "decimals（小数）": 18,
  "status": "active",
-"id":0x5cD495Ac94768ad572Dca832637FFcca9B0A0058",
+"id":“0x5cD495Ac94768ad572Dca832637FFcca9B0A0058",
 }
