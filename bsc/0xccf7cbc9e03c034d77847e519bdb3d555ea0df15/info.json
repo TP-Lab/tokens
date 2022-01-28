@@ -1,0 +1,11 @@
+{
+ "name": "FishingLife Token",
+ "website": "https://fishinglife.games/",
+ "description": "FLB token.",
+ "explorer": "https://bscscan.com/token/0xcCF7cBc9E03C034D77847e519bDB3d555eA0Df15",
+ "type": "BEP20",
+ "symbol": "FLB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcCF7cBc9E03C034D77847e519bDB3d555eA0Df15"
+}
