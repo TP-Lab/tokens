@@ -1,0 +1,11 @@
+﻿{
+ "name": "BabyGrimace",
+ "website": "https://grimacecoin.xyz",
+ "description": "In order to commemorate the global war epidemic in 2022, the anti-epidemic actions of the future world, and the inaction of the main body in power, those who survived the raging virus set up BabyGrimace.",
+ "explorer": "https://www.bscscan.com/token/0xc82e6de92014cd9a90104983c06276ea0ecc4512",
+ "type": "BEP20",
+ "symbol": "BabyGrimace",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xc82E6dE92014Cd9a90104983C06276ea0ECC4512"
+}
