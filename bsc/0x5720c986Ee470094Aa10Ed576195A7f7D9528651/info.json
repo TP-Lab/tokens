@@ -1,0 +1,11 @@
+{
+ "name": "SEENER",
+ "website": "http://seener999.com",
+ "description": "Seener serves the future cryptographic digital economy society.",
+ "explorer": "https://bscscan.com/token/0x5720c986Ee470094Aa10Ed576195A7f7D9528651",
+ "type": "BEP20",
+ "symbol": "SEE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5720c986Ee470094Aa10Ed576195A7f7D9528651"
+}
