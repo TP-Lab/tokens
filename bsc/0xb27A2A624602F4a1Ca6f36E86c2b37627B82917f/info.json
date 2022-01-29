@@ -1,0 +1,12 @@
+
+{
+ "name": "SwitchDAO",
+ "website": "https://SwitchDAO.io",
+ "description": "Founded by a group of encryption enthusiasts, it is hoped that every community participant can participate in the full Dao project in the progress of the project",
+ "explorer": "https://bscscan.com/token/0xb27A2A624602F4a1Ca6f36E86c2b37627B82917f",
+ "type": "BEP20",
+ "symbol": "SWD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb27A2A624602F4a1Ca6f36E86c2b37627B82917f"
+}
