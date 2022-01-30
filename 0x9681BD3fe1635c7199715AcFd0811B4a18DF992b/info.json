@@ -1,0 +1,11 @@
+{
+ "name": "Super Fist",
+ "website": "https://superfist.pro",
+ "description": "Super fist, issued a total of 888 BSC tokens.",
+ "explorer": "https://bscscan.com/token/0x9681BD3fe1635c7199715AcFd0811B4a18DF992b",
+ "type": "BEP20",
+ "symbol": "SFIS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9681BD3fe1635c7199715AcFd0811B4a18DF992b"
+}
