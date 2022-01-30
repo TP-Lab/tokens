@@ -1,11 +1,11 @@
 {
- "name": "ジャイアン",
+ "name": "FatTiger",
  "website（网站）": "-",
- "description（描述）": " FAT was initiated by animation enthusiasts such as Japan, Hong Kong and the United States. This is a Token based on Heco chain",
-"explorer（探查）": "https://hecoinfo.com/token/0x5cD495Ac94768ad572Dca832637FFcca9B0A0058",
+ "description（描述）": " FatTiger was initiated by animation enthusiasts such as Japan, Hong Kong and the United States. This is a Token based on Heco chain",
+"explorer（探查）": "https://hecoinfo.com/token/0xB884E64f021001FFD212a358d7d00f41dF6fa880",
  "type（类型）": "HECO",
- "symbol（符号）": "FAT",
+ "symbol（符号）": "FatTiger",
  "decimals（小数）": 18,
  "status": "active",
-"id":"0x5cD495Ac94768ad572Dca832637FFcca9B0A0058",
+ "id": "0xB884E64f021001FFD212a358d7d00f41dF6fa880",
 }
