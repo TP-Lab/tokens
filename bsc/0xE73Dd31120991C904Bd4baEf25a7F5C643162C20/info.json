@@ -1,0 +1,12 @@
+
+{
+"name": "year",
+"website": "-",
+"description": "-",
+"explorer": "https://bscscan.com/address/0xe73dd31120991c904bd4baef25a7f5c643162c20",
+"type": "BEP20",
+"symbol": "year",
+"decimals": 18,
+"status": "active",
+"id": "0xE73Dd31120991C904Bd4baEf25a7F5C643162C20"
+}
