@@ -1,0 +1,12 @@
+﻿{
+ "name": "WM Token",
+ "website": "http://samsungchaton.com.cn/",
+ "description": "WMB is jointly owned by WM community fans, In the future, we will combine the meta-universe to make players the creators and holders of virtual worlds, and NFT+ meta-universe to create their own kingdoms.",
+ "explorer": 
+"https://www.oklink.com/zh-cn/oec/address/0x5d5cdcd581d16cd856189bc3519dd82ccb70cc29",
+ "type": "KIP20",
+ "symbol": "WMB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5D5CdCd581d16cD856189bc3519Dd82cCb70cc29"
+}
