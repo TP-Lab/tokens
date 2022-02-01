@@ -1,0 +1,11 @@
+{
+"name": "FistFome Token",
+"website": "-",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0x9EfaFAA23Ce61C389854Db226DB36d28f8891E30",
+"type": "BEP20",
+"symbol": "FistFome",
+"decimals": 18,
+"status": "active",
+"id": "0x9EfaFAA23Ce61C389854Db226DB36d28f8891E30"
+}
