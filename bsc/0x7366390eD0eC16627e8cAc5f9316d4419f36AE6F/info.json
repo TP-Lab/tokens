@@ -1,0 +1,11 @@
+{
+ "name": "MARSTIGERINU",
+ "website": "-",
+ "description": "MARSTIGER",
+ "explorer": "https://bscscan.com/address/0x7366390eD0eC16627e8cAc5f9316d4419f36AE6F",
+ "type": "BEP20",
+ "symbol": "MARSTIGER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7366390eD0eC16627e8cAc5f9316d4419f36AE6F"
+}
