@@ -1,0 +1,11 @@
+{
+ "name": "kittyking",
+ "website": ".",
+ "description": "kittyking由国内社区打造，目的是打造第一猫类分红meme币",
+ "explorer": "https://bscscan.com/token/0x601eABDa862a0b8DA1a3db436cc62793470Db891",
+ "type": "BSC20",
+ "symbol": "kittyking",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x601eABDa862a0b8DA1a3db436cc62793470Db891"
+}
