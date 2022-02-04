@@ -1,0 +1,11 @@
+{
+ "name": "Super Moon",
+ "website": "https://www.supermoon.life/",
+ "description": "SuperMoon is a Dao homemade token. DAO will technically introduce blockchain smart contracts, and the rules and governance of each DAO are encoded on the blockchain and cannot be easily changed unless voted on by DAO members.",
+ "explorer": "https://bscscan.com/address/0x40a9f2e51978b2f9b5b79885c187368cc8c4a2d0",
+ "type": "BEP20",
+ "symbol": "SM",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x40a9f2E51978b2f9b5b79885c187368CC8C4A2D0"
+}
