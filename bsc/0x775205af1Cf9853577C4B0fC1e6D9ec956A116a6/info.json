@@ -1,0 +1,11 @@
+{
+ "name": "BingDwenDwen",
+ "website": "http://www.bingdwendwen.live",
+ "description": "The ice in the name of the mascot, Bing Dun Dun, symbolizes purity and strength, which are the characteristics of the Winter Olympics.",
+ "explorer": "https://bscscan.com/token/0x775205af1cf9853577c4b0fc1e6d9ec956a116a6",
+ "type": "BEP20",
+ "symbol": "BingDwenDwen",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x775205af1Cf9853577C4B0fC1e6D9ec956A116a6"
+}
