@@ -1,0 +1,11 @@
+{
+    "name": "ShenTeng",
+    "website": "https://app.cyberconnect.me",
+    "description": "dogeking's father",
+    "explorer": "https://bscscan.com/token/0x7e7e61e5ba62a8e0ab371a20b117dd8e7205718a",
+    "type": "BEP20",
+    "symbol": "ShenTeng",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x7e7e61e5ba62a8e0ab371a20b117dd8e7205718a"
+   }
