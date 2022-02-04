@@ -1,0 +1,11 @@
+{
+    "name": "Virtual Treasure Coin",
+    "website": "VTC.IO",
+    "description": " Virtual Treasure Coin",
+    "explorer": "https://bscscan.com/token/0x25f4cC4573395746915100993ce0393f3b5f4387",
+    "type": "BEP20",
+    "symbol": "VTC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x25f4cC4573395746915100993ce0393f3b5f4387"
+} 
