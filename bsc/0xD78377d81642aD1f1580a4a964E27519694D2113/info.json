@@ -1,0 +1,11 @@
+{
+ "name": "ChinaHW",
+ "website": ".",
+ "description": "ChinaHW基于币安链发行代币，仅有2022枚",
+ "explorer": "https://bscscan.com/token/0xD78377d81642aD1f1580a4a964E27519694D2113",
+ "type": "BSC20",
+ "symbol": "ChinaHW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD78377d81642aD1f1580a4a964E27519694D2113"
+}
