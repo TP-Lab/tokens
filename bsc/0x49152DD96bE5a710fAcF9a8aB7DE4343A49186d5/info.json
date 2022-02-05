@@ -1,0 +1,11 @@
+{
+ "name": "DART Inu",
+ "website": "https://dartinu.com",
+ "description": "DART Inu is a Metaverse token which supports the vision of NASA DART.",
+ "explorer": "https://bscscan.com/token/0x49152DD96bE5a710fAcF9a8aB7DE4343A49186d5",
+ "type": "BEP20",
+ "symbol": "DART",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x49152DD96bE5a710fAcF9a8aB7DE4343A49186d5"
+}

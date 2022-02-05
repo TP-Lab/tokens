@@ -1,0 +1,11 @@
+{
+ "name": "Fox Token",
+ "website": "https://fox-bit.com",
+ "description": "Fox-Bit Finance is the best automated market maker (AMM) on Huobi ECO Chain (HECO) with the best yield farms in DeFi.",
+ "explorer": "https://hecoinfo.com/token/0x8DE38F0ff776c4Df2B17BC5B9974bCC9b9667D81",
+ "type": "HRC20",
+ "symbol": "Fox",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8DE38F0ff776c4Df2B17BC5B9974bCC9b9667D81"
+}

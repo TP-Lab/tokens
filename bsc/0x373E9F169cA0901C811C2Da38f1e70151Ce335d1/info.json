@@ -1,0 +1,11 @@
+{
+ "name": "Angel Token",
+ "website": "https://www.angel-token.finance/",
+ "description": "Angel investment is the pioneer of venture capital. Belief people empower Angel, Angel gives wealth to the belief.",
+ "explorer": "https://bscscan.com/token/0x373E9F169cA0901C811C2Da38f1e70151Ce335d1",
+ "type": "BEP20",
+ "symbol": "ANGEL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x373E9F169cA0901C811C2Da38f1e70151Ce335d1"
+}

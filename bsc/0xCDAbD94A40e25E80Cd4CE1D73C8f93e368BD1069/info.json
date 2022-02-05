@@ -1,0 +1,11 @@
+{
+ "name": "EPT",
+ "website": "https://eptswap.com",
+ "description": "EPT, the full name of Environment Protection Token, means environmental protection. Our vision is using blockchain technology to promote the development of environmental protection, waste classification and environmental pollution reduction.",
+ "explorer": "https://bscscan.com/address/0xCDAbD94A40e25E80Cd4CE1D73C8f93e368BD1069",
+ "type": "BEP20",
+ "symbol": "EPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCDAbD94A40e25E80Cd4CE1D73C8f93e368BD1069"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "HoneyDoge",
+ "website": "https://honeydogegroup.com/",
+ "description": "HoneyDoge is a blockchain-based dogs feeding, upgrading, dating, and fertility game.",
+ "explorer": "https://bscscan.com/token/0xFf417A88585c209a44f25F93Fe7c29c5ED3c1370",
+ "type": "BEP20",
+ "symbol": "HDOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFf417A88585c209a44f25F93Fe7c29c5ED3c1370"
+}

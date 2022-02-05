@@ -1,0 +1,11 @@
+ {
+ "name": "Loser Coin",
+ "website": "https://losercoin.org/",
+ "description": "Losercoin (ticker symbol: $LOWB) is a project initiated by two poor guys from China, one is a father of two kids from a village, the other one is a coder living a miserable life by working 60 hours a week. Two founders first heard about Bitcoin in 2017 and had lost a ton of money by trading cryptocurrencies. They started this project as an open journey and were fully prepared to lose everything. The two founders have added their whole life savings into the liquidity pool. It is guaranteed that the project team will not pump the price of $LOWB due to lack of capital, and no rug pull.",
+ "explorer": "https://www.oklink.com/okexchain/address/0x08963db742ab159f27518d1d12188f69aa7387fb",
+ "type": "KIP20",
+ "symbol": "LOWB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x08963Db742Ab159F27518D1D12188f69AA7387FB"
+}

@@ -1,0 +1,11 @@
+﻿{
+ "name": "LD",
+ "website": "https://nftld.io",
+ "description": "NFTLD, referred to as LD, is a meta-universe game ecological application based on HECO.",
+ "explorer": "https://hecoinfo.com/address/0xefeddc9e188248a1bca6c20a30a6ff6afd4ef288",
+ "type": "HRC-20",
+ "symbol": "LD",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xEFEddc9e188248A1bCA6C20a30a6Ff6AfD4eF288"
+}

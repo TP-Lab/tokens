@@ -1,0 +1,11 @@
+﻿{
+  "name": "Golden West Coast",
+  "website": "https://www.gwcswap.pro",
+  "description": "GWC是GwcSwap去中心化交易平台通证。",
+  "explorer": "https://bscscan.com/token/0x4a66Be9541AFc2D373e818c16fd4844D8484787a",
+  "type": "BEP20",
+  "symbol": "GWC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4a66Be9541AFc2D373e818c16fd4844D8484787a"
+}

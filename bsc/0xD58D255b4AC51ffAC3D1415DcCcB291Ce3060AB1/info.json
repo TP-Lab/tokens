@@ -1,0 +1,11 @@
+{
+ "name": "Stray Dogs",
+ "website": "http://teamstraydogs.com",
+ "description": "Stray Dogs（流浪狗）是一个公平启动，完全靠社区驱动的Meme代币，建立在币安智能链BSC上。每笔交易中都有三个功能：持币分红、LP池子获取以及销毁。STRAY为BSC生态系统带来了最具革命性的机制。持有STRAT代币就可以参与流动性挖矿。",
+ "explorer": "https://bscscan.com/token/0xD58D255b4AC51ffAC3D1415DcCcB291Ce3060AB1",
+ "type": "BEP20",
+ "symbol": "STRAY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD58D255b4AC51ffAC3D1415DcCcB291Ce3060AB1"
+}

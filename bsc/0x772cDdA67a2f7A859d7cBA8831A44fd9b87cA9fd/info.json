@@ -1,0 +1,11 @@
+{
+ "name": "CRYPTO WEST",
+ "website": "https://www.cryptowest.io",
+ "description": "CryptoWest Encrypted Westward Journey is an RPG card NFT game with the theme of Journey to the West released on the BSC network",
+ "explorer": "https://www.bscscan.com/token/0x772cDdA67a2f7A859d7cBA8831A44fd9b87cA9fd",
+ "type": "BEP20",
+ "symbol": "WEST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x772cDdA67a2f7A859d7cBA8831A44fd9b87cA9fd"
+}

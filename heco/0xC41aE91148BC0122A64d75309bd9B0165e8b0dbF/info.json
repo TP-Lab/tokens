@@ -1,0 +1,11 @@
+{
+ "name": "Ocean place coin",
+ "website": "",
+ "description": "HECO TOKEN",
+ "explorer": "https://hecoinfo.com/token/0xC41aE91148BC0122A64d75309bd9B0165e8b0dbF",
+ "type": "HECO",
+ "symbol": "OPC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC41aE91148BC0122A64d75309bd9B0165e8b0dbF"
+}

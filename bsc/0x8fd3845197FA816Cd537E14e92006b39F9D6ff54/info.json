@@ -1,0 +1,11 @@
+{
+ "name": "Harry",
+ "website": "http://bsc.castlesky.vip",
+ "description": "Castle Sky is a NFT cultivation game based on BSC smart chain.",
+ "explorer": "https://bscscan.com/token/0x8fd3845197FA816Cd537E14e92006b39F9D6ff54",
+ "type": "BEP20",
+ "symbol": "HARRY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8fd3845197FA816Cd537E14e92006b39F9D6ff54"
+}

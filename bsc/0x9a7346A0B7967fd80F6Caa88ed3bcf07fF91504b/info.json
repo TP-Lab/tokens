@@ -1,0 +1,11 @@
+{
+ "name": "icoin",
+ "website": "https://www.icncity.com",
+ "description": "一个把短视频和照片做成NFT的网站",
+ "explorer": "https://bscscan.com/token/0x9a7346A0B7967fd80F6Caa88ed3bcf07fF91504b",
+ "type": "BEP20",
+ "symbol": "icn",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x9a7346A0B7967fd80F6Caa88ed3bcf07fF91504b"
+}

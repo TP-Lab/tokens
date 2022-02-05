@@ -1,0 +1,11 @@
+{
+ "name": "Artdog Token",
+ "website": "www.artdogenft.com",
+ "description": "A new paradigm that provides a market for limited-edition shopping malls.",
+ "explorer": "https://bscscan.com/token/0x134BAc29A8F954BcB8650e7C3e45569476532eE8",
+ "type": "BEP20",
+ "symbol": "Artdog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x134BAc29A8F954BcB8650e7C3e45569476532eE8"
+}

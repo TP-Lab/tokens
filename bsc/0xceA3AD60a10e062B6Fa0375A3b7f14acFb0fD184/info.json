@@ -1,0 +1,11 @@
+{
+ "name": "LoveDog",
+ "website": "http://lovedog.io",
+ "description": "爱心狗狗币因爱而生，它带着使命而来；它的诞生是希望在现实世界和虚拟世界中借助自己加密货币的身份搭起一道桥梁，而后能给现实世界和加密世界带来一些积极的甚至是革命性的影响和改变，从而回馈社区，造富社区，奉献社会。",
+ "explorer": "https://bscscan.com/token/0xceA3AD60a10e062B6Fa0375A3b7f14acFb0fD184",
+ "type": "BEP20",
+ "symbol": "LoveDog",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xceA3AD60a10e062B6Fa0375A3b7f14acFb0fD184"
+}

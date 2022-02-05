@@ -1,0 +1,11 @@
+{
+ "name": "Ginza Eternity Coin",
+ "website": "https://ginza.tech",
+ "description": "A reward token of Ginza Eternity GameFi that always play to earn",
+ "explorer": "https://bscscan.com/token/0x99fc76cfe2940f40677d85e654b4a8cb5e39330d",
+ "type": "BEP20",
+ "symbol": "GEC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x99fc76CfE2940F40677d85E654b4A8CB5E39330D"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Original Generation",
+  "website": "https://ogbtoken.com/",
+  "description": "The world's most innovative token",
+  "explorer": "https://hecoinfo.com/tx/0xa0f428435c368f54dd302a1049c4c86182cc516542e1e16d534647e162bbefa3",
+  "type": "BEP20",
+  "symbol": "OGB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7580e3019e7E8b88284D672048034c42C38254C4"
+}

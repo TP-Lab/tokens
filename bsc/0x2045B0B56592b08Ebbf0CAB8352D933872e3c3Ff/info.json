@@ -1,0 +1,11 @@
+{
+ "name": "Happy Doge Coin",
+ "website": "https://happydogecoin.com",
+ "description": "Happy Doge致力于传播快乐，为拥有梦想的人提供资金帮助，涉及艺术、体育、教育和发明等领域。被Happy Doge社区帮助过的人实现梦想之后再反馈成果到社区，从而使得Happy Doge社区形成造梦和圆梦的快乐家园。",
+ "explorer": "https://bscscan.com/token/0x2045b0b56592b08ebbf0cab8352d933872e3c3ff",
+ "type": "BEP20",
+ "symbol": "HappyDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2045B0B56592b08Ebbf0CAB8352D933872e3c3Ff"
+}

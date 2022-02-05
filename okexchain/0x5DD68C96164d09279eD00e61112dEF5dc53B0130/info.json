@@ -1,0 +1,11 @@
+{
+ "name": "HOTDOG",
+ "website": "http://ok-hotdog.com/",
+ "description": "Hold $HotDog tokens, earn USDT. ",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x5dd68c96164d09279ed00e61112def5dc53b0130",
+ "type": "KIP20",
+ "symbol": "HOTDOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5DD68C96164d09279eD00e61112dEF5dc53B0130"
+}

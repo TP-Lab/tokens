@@ -1,0 +1,11 @@
+{
+ "name": "Falling Star",
+ "website": "http://fallingstarcoin.com/",
+ "description": "Falling Star is a smart deflation token based on OKExChain",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x42efC9Cd30893ab9680e70BaeaDae38723b3A2cd",
+ "type": "KIP20",
+ "symbol": "FS",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x42efC9Cd30893ab9680e70BaeaDae38723b3A2cd"
+}

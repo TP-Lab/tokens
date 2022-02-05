@@ -1,0 +1,11 @@
+{
+ "name": "Golden Car",
+ "website": "-",
+ "description": "This is the golden car.",
+ "explorer": "https://bscscan.com/token/0xbace0C3AC22877E0d6894386222Ac08F10EE5D53",
+ "type": "BEP20",
+ "symbol": "GCAR",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xbace0C3AC22877E0d6894386222Ac08F10EE5D53"
+}

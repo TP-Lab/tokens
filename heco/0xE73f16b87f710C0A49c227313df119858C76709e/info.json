@@ -1,0 +1,11 @@
+{
+ "name": "SuperFcn Token",
+ "website": "http://www.fcntoken.com/index.html",
+ "description": "The total number of tokens is 100 million",
+ "explorer": "https://hecoinfo.com/token/0xE73f16b87f710C0A49c227313df119858C76709e",
+ "type": "HECO",
+ "symbol": "SuperFcn",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE73f16b87f710C0A49c227313df119858C76709e"
+}

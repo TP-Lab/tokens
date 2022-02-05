@@ -1,0 +1,11 @@
+{
+ "name": "Psyduck",
+ "website": "http://psyduck.defispace.online/",
+ "description": "The Reach Duck Protocol is a deflationary cryptocurrency running on the Binance Smart Chain. It enables participants to obtain benefits through taxation of transactions and community NFT auctions.",
+ "explorer": "https://bscscan.com/token/0x1239ef810ec34e2c0ded2433ab7e36afd6f92c41",
+ "type": "BEP20",
+ "symbol": "Psyduck",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1239eF810ec34e2c0DeD2433ab7e36AFd6F92c41"
+}

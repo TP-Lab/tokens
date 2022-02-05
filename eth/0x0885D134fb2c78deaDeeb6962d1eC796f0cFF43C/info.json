@@ -1,0 +1,11 @@
+{
+ "name": "Bodi Inu",
+ "website": "http://www.bodiinu.com/",
+ "description": "Bodi Inu is in it for the long haul. The decentralized community is fostering long-term development of the ecosystem which will result in real use cases, greater rewards and a popularity beyond any temporary trends. ",
+ "explorer": "https://etherscan.io/address/0x0885D134fb2c78deaDeeb6962d1eC796f0cFF43C",
+ "type": "ERC20",
+ "symbol": "BODI",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0885D134fb2c78deaDeeb6962d1eC796f0cFF43C"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "CryptoZoon",
+    "website": "https://cryptozoon.io/",
+    "description": "CryptoZoon is inspired by Pokemon Story, our mission is to build a comprehensive platform of digital monsters that will enable millions of individuals to participate in the NFT and blockchain-based gaming world in a simple, creative, and enjoyable way.",
+    "explorer": "https://bscscan.com/address/0x9D173E6c594f479B4d47001F8E6A95A7aDDa42bC",
+    "type": "BEP20",
+    "symbol": "ZOON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9D173E6c594f479B4d47001F8E6A95A7aDDa42bC"
+}

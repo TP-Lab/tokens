@@ -1,0 +1,11 @@
+{
+ "name": "Future star",
+ "website": "https://futurestartoken.club/",
+ "description": "Future Star is a Web 3.0 Decentralized Storage, Verifiable Computation, and Measurable Bandwidth Network Infrastructure.",
+ "explorer": "https://bscscan.com/token/0x6f8F7FD4C1C07dA8FA5C4D4e59AfbFD7b47d39C4",
+ "type": "BEP20",
+ "symbol": "FStar",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6f8F7FD4C1C07dA8FA5C4D4e59AfbFD7b47d39C4"
+}

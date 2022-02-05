@@ -1,0 +1,11 @@
+{
+ "name": "StrongerDoge ",
+ "website": "https://StrongerDoge.me",
+ "description": "StrongerDoge is an BEP-20 token with steroids, it is packed with the best of modern cryptocurrencies features including DeFi dApps, NFT marketplace, payments gateway, and also a buyback program and token burning to reduce progressively the cirtulating supply, becoming the first deflationary meme coin!",
+ "explorer": "https://bscscan.com/token/0xaE1e1203b5659F179160EA1cfa9F79228e1E927E",
+ "type": "BEP-20",
+ "symbol": "StrongerDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xaE1e1203b5659F179160EA1cfa9F79228e1E927E"
+}

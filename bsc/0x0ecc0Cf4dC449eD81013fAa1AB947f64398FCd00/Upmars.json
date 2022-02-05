@@ -1,0 +1,11 @@
+{
+ "name": "Upmars",
+ "website": "-",
+ "description": "Each user who contributes to the community will receive a random community management reward, encouraging everyone to maintain and expand the community. ",
+ "explorer": "https://bscscan.com/token/0x0ecc0cf4dc449ed81013faa1ab947f64398fcd00",
+ "type": "BEP20",
+ "symbol": "Upmars",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0ecc0cf4dc449ed81013faa1ab947f64398fcd00"
+}

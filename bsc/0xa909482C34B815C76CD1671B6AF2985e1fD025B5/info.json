@@ -1,0 +1,11 @@
+﻿{
+ "name": "Privacy Computing Network Token",
+ "website": "https://www.pcntk.com",
+ "description": "Privacy computing network, to solve the enterprise personal data privacy protection fragmentation storage.",
+ "explorer": "https://bscscan.com/token/0xa909482C34B815C76CD1671B6AF2985e1fD025B5",
+ "type": "BEP20",
+ "symbol": "PCN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa909482C34B815C76CD1671B6AF2985e1fD025B5"
+}

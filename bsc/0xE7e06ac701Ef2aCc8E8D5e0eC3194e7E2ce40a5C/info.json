@@ -1,0 +1,11 @@
+{
+ "name": "Phoenixsiv Token",
+ "website": "https://www.phoenixsiv.org/",
+ "description": "Evolution of the ecosystem that recognizes that trade is directly related to female productivity in the world.",
+ "explorer": "https://bscscan.com/token/0xe7e06ac701ef2acc8e8d5e0ec3194e7e2ce40a5c",
+ "type": "BEP20",
+ "symbol": "PSIVT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE7e06ac701Ef2aCc8E8D5e0eC3194e7E2ce40a5C"
+}

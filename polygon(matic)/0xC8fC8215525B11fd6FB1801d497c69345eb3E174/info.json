@@ -1,0 +1,11 @@
+{
+    "name": "Sparta Token",
+    "website": "http://sparta.cash",
+    "description": "A decentralized organization focused on aggregating a variety of decentralized applications",
+    "explorer": "https://polygonscan.com/token/0xC8fC8215525B11fd6FB1801d497c69345eb3E174",
+    "type": "MATIC",
+    "symbol": "SPT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC8fC8215525B11fd6FB1801d497c69345eb3E174"
+}

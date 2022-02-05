@@ -1,0 +1,11 @@
+{
+ "name": "ETHST Governance Token",
+ "website": "https://ethst.io",
+ "description": "ET is the governance token of the first global perpetual Ethereum-based standard hashrate token ETHST. As the only governance token of the ETHST ecosystem, ET holders will enjoy privileges such as community voting and project governance.",
+ "explorer": "https://bscscan.com/token/0x18b2978D7E4EAc4A00c66Ab00d68bA7E77141A79",
+ "type": "BEP20",
+ "symbol": "ET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x18b2978D7E4EAc4A00c66Ab00d68bA7E77141A79"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "DAMN Token",
+ "website": "https://damncool.io",
+ "description": "DAMNCool is a revolutionary AI-powered DeFi ecosystem, to help users manage their on-chain cryptoassets at ease, and get high yield returns through our intelligent AI yield aggregator.",
+ "explorer": "https://bscscan.com/token/0xb4aa0cd9faceb466db69b825dc666edaf3293d28",
+ "type": "BEP20",
+ "symbol": "DAMN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB4AA0CD9FACeB466DB69b825DC666EdAF3293d28"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "KOI SHIBA",
+    "website": "https://www.koishiba.com/",
+    "description": "KoiShiba is a new dog meme coin inspired by Shiba Inu.",
+    "explorer": "https://bscscan.com/token/0x6F90aFE76F4bcD44CF6f93B4Bb5c20DEFC653375",
+    "type": "BEP20",
+    "symbol": "KSHIB",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x6F90aFE76F4bcD44CF6f93B4Bb5c20DEFC653375"
+}

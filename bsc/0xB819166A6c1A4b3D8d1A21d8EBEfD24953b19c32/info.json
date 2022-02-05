@@ -1,0 +1,11 @@
+{
+ "name": "DiamondDoge plus",
+ "website": "https://www.dmdogeplus.tk/",
+ "description": "DiamondDoge plus",
+ "explorer": "https://bscscan.com/token/0xB819166A6c1A4b3D8d1A21d8EBEfD24953b19c32",
+ "type": "BEP20",
+ "symbol": "DMDOGE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xB819166A6c1A4b3D8d1A21d8EBEfD24953b19c32"
+}

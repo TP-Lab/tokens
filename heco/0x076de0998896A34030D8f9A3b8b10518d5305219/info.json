@@ -1,0 +1,11 @@
+{
+ "name": "BeeKing",
+ "website": "http://www.beeking.top",
+ "description": "A little bee full of love is collecting flower honey",
+ "explorer": "https://hecoinfo.com/token/0x076de0998896a34030d8f9a3b8b10518d5305219",
+ "type": "HRC-20",
+ "symbol": "BeeKing",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x076de0998896A34030D8f9A3b8b10518d5305219"
+}

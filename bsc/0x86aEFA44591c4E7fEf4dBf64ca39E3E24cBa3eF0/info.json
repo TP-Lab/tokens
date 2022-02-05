@@ -1,0 +1,11 @@
+{
+ "name": "Pangolin",
+ "website": "https://pangolinswap.net",
+ "description": "Pangolin Good",
+ "explorer": "https://bscscan.com/token/0x86aEFA44591c4E7fEf4dBf64ca39E3E24cBa3eF0",
+ "type": "BEP20",
+ "symbol": "Pangolin",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x86aEFA44591c4E7fEf4dBf64ca39E3E24cBa3eF0"
+}

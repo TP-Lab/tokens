@@ -1,0 +1,11 @@
+{
+ "name": "OFI",
+ "website": "https://ofi.cash",
+ "description": "reinvest platform",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x2e2f982c3e66db8604b0a99862dd97d31ed740b3",
+ "type": "KIP20",
+ "symbol": "OFI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2e2f982c3e66db8604b0a99862dd97d31ed740b3"
+}

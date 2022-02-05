@@ -1,0 +1,11 @@
+{
+ "name": "KingSize Token",
+ "website": "http://www.kingsize.vip/",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xde097feb7ecc559bf71375ca9c4ab2ea1e3c58bb",
+ "type": "BEP20",
+ "symbol": "KGS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xde097feb7ecc559bf71375ca9c4ab2ea1e3c58bb"
+}

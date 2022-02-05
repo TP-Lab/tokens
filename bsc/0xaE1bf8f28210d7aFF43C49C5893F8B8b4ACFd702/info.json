@@ -1,0 +1,11 @@
+{
+ "name": "RBK Tiger Token",
+ "website": "https://www.RBK Tiger.com",
+ "description": "Fully decentralized tokens",
+ "explorer": "https://bscscan.com/token/0xae1bf8f28210d7aff43c49c5893f8b8b4acfd702",
+ "type": "BEP20",
+ "symbol": "RBK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaE1bf8f28210d7aFF43C49C5893F8B8b4ACFd702"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "GNFT",
+  "website": "https://www.grloves.club",
+  "description": "-",
+  "explorer": "https://bscscan.com/token/0x03a763E3eA25246E3CD878a2eb3c8633481351D0",
+  "type": "BEP20",
+  "symbol": "GNFT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x03a763E3eA25246E3CD878a2eb3c8633481351D0"
+ }

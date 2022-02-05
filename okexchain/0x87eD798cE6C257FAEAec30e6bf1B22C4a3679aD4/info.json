@@ -1,0 +1,11 @@
+{
+ "name": "Milk",
+ "website": "https://www.justcows.info",
+ "description": "Multi chain aggregation defi platform",
+ "explorer": "https://www.oklink.com/oec/address/0x87ed798ce6c257faeaec30e6bf1b22c4a3679ad4",
+ "type": "KIP20",
+ "symbol": "MILK",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x87eD798cE6C257FAEAec30e6bf1B22C4a3679aD4"
+}

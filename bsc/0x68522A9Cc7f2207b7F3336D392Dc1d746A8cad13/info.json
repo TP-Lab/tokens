@@ -1,0 +1,11 @@
+{
+ "name": "Red Perpetual Motion Machine",
+ "website": "https://www.redpmm.buzz",
+ "description": "REDPMM is a fair launch of a new type of cryptocurrency with periodic high repurchase, and an innovative automatic pull function.",
+ "explorer": "https://bscscan.com/token/0x68522a9cc7f2207b7f3336d392dc1d746a8cad13",
+ "type": "BEP20",
+ "symbol": "REDPMM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x68522A9Cc7f2207b7F3336D392Dc1d746A8cad13"
+}

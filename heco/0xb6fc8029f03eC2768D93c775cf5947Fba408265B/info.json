@@ -1,0 +1,11 @@
+{
+ "name": "Moon Cake",
+ "website": "",
+ "description": "HECO TOKEN",
+ "explorer": "https://hecoinfo.com/token/0xb6fc8029f03eC2768D93c775cf5947Fba408265B",
+ "type": "HECO",
+ "symbol": "MC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb6fc8029f03eC2768D93c775cf5947Fba408265B"
+}

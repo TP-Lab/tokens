@@ -1,0 +1,11 @@
+{
+ "name": "DeFi YFI6",
+ "website": "无",
+ "description": "YFI6旨在为用户提供完整的去中心化金融基础，核心思想是开放的智能设施、操作其辐射",
+ "explorer": "https://bscscan.com/token/0x8e57812521D8A895404d8Fe4F13223592ec1f606",
+ "type": "BEP20",
+ "symbol": "YFI6",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8e57812521D8A895404d8Fe4F13223592ec1f606"
+}

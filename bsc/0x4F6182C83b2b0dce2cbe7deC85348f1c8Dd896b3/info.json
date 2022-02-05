@@ -1,0 +1,11 @@
+{
+  "name": "Zoo Reward",
+  "website": "https://zbc.la",
+  "description": "Zoor是zooswap发行的平台币，用于奖励生态建设。",
+  "explorer": "https://bscscan.com/token/0x4f6182c83b2b0dce2cbe7dec85348f1c8dd896b3",
+  "type": "BEP20",
+  "symbol": "ZooR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4F6182C83b2b0dce2cbe7deC85348f1c8Dd896b3"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Binance8",
+    "website": "https://binance8.finance",
+    "description": "B8 will be the bargaining chip of this game. You can use it to place bets and win more assets, which can be BTC, ETH or more. Each game will destroy part of B8, and B8 will be more valuable.",
+    "explorer": "https://www.bscscan.com/token/0xf62a6268e3164926f8435de771706082c73bebd9",
+    "type": "BEP20",
+    "symbol": "B8",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf62A6268e3164926f8435dE771706082C73BEBd9"
+}

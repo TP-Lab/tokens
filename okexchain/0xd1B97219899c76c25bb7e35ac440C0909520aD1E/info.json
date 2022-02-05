@@ -1,0 +1,11 @@
+{
+ "name": "Magic Bird",
+ "website": "http://www.magicbird.io",
+ "description": "Magic Bird is a token on the OkChain that offers features like auto burns, auto-liquidity generating mechanism, and static rewards on every transaction.",
+ "explorer": "https://www.oklink.com/okexchain/address/0xd1b97219899c76c25bb7e35ac440c0909520ad1e",
+ "type": "KIP20",
+ "symbol": "MGB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd1B97219899c76c25bb7e35ac440C0909520aD1E"
+}

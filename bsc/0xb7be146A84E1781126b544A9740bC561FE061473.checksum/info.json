@@ -1,0 +1,11 @@
+{  
+ "name": "BOXBIT TOKEN", 
+ "website": "http://coinbox.info", 
+ "description": "The Chinese name of BXB is treasure box coin. In the later stage, more currency treasure box lucky draw and physical lucky draw functions will be launched. At the same time, it will connect with a variety of "Yuan universe" games as a special lucky draw token for the game to build BXB into a dark horse currency with practical value!", 
+ "explorer": "https://bscscan.com/address/0xb7be146A84E1781126b544A9740bC561FE061473", 
+ "type": "BEP20", 
+ "symbol": "BXB", 
+ "decimals": 18, 
+ "status": "active", 
+ "id": "0xb7be146A84E1781126b544A9740bC561FE061473" 
+ } 

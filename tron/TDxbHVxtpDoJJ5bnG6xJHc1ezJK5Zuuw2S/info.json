@@ -1,0 +1,11 @@
+{
+    "name": "PN",
+    "website": "https://ndw-defi.com/",
+    "description": "PAEONIA, abbreviated as PN in English. It is the core instrument currency for liquid betting and an important part of the NDW asset aggregator ecology",
+    "explorer": "https://tronscan.io/#/token20/TDxbHVxtpDoJJ5bnG6xJHc1ezJK5Zuuw2S",
+    "type": "TRC20",
+    "symbol": "PN",
+    "decimals":8,
+    "status": "active",
+    "id": "TDxbHVxtpDoJJ5bnG6xJHc1ezJK5Zuuw2S"
+   }

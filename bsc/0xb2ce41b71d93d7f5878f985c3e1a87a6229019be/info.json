@@ -1,0 +1,11 @@
+{
+    "name": "BabyMatic",
+    "website": "https://babymatic.io/",
+    "description": "BabyMatic is giving Matic as rewards to holders.",
+    "explorer": "https://bscscan.com/address/0xB2ce41B71D93D7f5878F985C3e1A87A6229019BE",
+    "type": "BEP20",
+    "symbol": "BabyMatic",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB2ce41B71D93D7f5878F985C3e1A87A6229019BE"
+}

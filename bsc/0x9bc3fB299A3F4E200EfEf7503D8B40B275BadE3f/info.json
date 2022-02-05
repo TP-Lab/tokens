@@ -1,0 +1,11 @@
+{
+ "name": "BTCDeFi",
+ "website": "http://www.btcdefitoken.info",
+ "description": "BTCDEFI",
+ "explorer": "https://bscscan.com/token/0x9bc3fB299A3F4E200EfEf7503D8B40B275BadE3f",
+ "type": "BEP20",
+ "symbol": "BTCDeFi",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9bc3fB299A3F4E200EfEf7503D8B40B275BadE3f"
+}

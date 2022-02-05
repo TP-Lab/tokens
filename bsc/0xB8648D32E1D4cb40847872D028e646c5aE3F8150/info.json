@@ -1,0 +1,11 @@
+{
+ "name": "RobotDoge",
+ "website": "http://www.robotdogetoken.com",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xB8648D32E1D4cb40847872D028e646c5aE3F8150",
+ "type": "BEP20",
+ "symbol": "RobotDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB8648D32E1D4cb40847872D028e646c5aE3F8150"
+}

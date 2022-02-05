@@ -1,0 +1,11 @@
+{
+ "name": "Synthetic Protocol",
+ "website": "无",
+ "description": "Synthetic-Protocol Is the first multi-chain DPOS dual-mining protocol based on Tron.",
+ "explorer": "https://tronscan.io/#/token20/TMe8rP6EyXp1u5CkCf8mnh8LJjFPbdHxm5",
+ "type": "TRC20",
+ "symbol": "SYN",
+ "decimals": 6,
+ "status": "active",
+ "id": "TMe8rP6EyXp1u5CkCf8mnh8LJjFPbdHxm5"
+}

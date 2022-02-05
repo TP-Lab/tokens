@@ -1,0 +1,11 @@
+{
+  "name": "BDX",
+  "website": "https://the-Big-Dipper.com/",
+  "description": "The Big Dipper (BDX) is a decentralized digital store of value",
+  "explorer": "https://tronscan.io/#/contract/TBuR6gKF4ad7dVzLBesstQYyfUU1QeQE2N",
+  "type": "TRC20",
+  "symbol": "BDX",
+  "decimals": 9,
+  "status": "active",
+  "id": "TBuR6gKF4ad7dVzLBesstQYyfUU1QeQE2N"
+} 

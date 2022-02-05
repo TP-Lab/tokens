@@ -1,0 +1,12 @@
+{
+ "name": "Ethereum3.0",
+ "website": "http://eth-3.com/",
+ "description": "Firecoin chain ether square three.",
+ "explorer": "https://hecoinfo.com/token/0xf8e69a4189D71E121BAb33385D329bb038C656f6",
+ "type": "HECO",
+ "symbol": "ETH3",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf8e69a4189d71e121bab33385d329bb038c656f6"
+}
+

@@ -1,0 +1,11 @@
+{
+ "name": "VISwap",
+ "website": "https://viswap.io",
+ "description": "VISwap is a liquid mining DEX released on Heco, after which the community governance voted to successively launch the tokens of innovative blockchain projects. At the same time, VI Lab will complete its own cross-chain bridge technology in the third quarter, connecting Binance BSC, Ethereum and other public chains through the cross-chain bridge, and tokens on various chains can be listed on VISwap to provide different On-chain liquidity mortgage mining.",
+ "explorer": "https://hecoinfo.com/token/0x381A519d9962f51a13C85Af74cc7F5dC2d844200",
+ "type": "HRC20",
+ "symbol": "VIT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x381A519d9962f51a13C85Af74cc7F5dC2d844200"
+}

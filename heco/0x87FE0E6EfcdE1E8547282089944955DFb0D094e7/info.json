@@ -1,0 +1,11 @@
+{
+ "name": "ShibBro",
+ "website": "https://www.shibbro.com",
+ "description": "SHIBBRO is a community autonomous value currency created by SHIB's large holders.",
+ "explorer": "https://hecoinfo.com/token/0x87fe0e6efcde1e8547282089944955dfb0d094e7",
+ "type": "HRC20",
+ "symbol": "SHIBBRO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x87FE0E6EfcdE1E8547282089944955DFb0D094e7"
+}

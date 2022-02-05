@@ -1,0 +1,11 @@
+{
+ "name": "SFB Token",
+ "website": "https://sfb.zone/",
+ "description": "交易手续费双向各1.5%，其中1%按持币比例均分给所有添加流动池的用户。1%进入资金池。1%进入黑洞销毁。",
+ "explorer": "https://tronscan.io/#/token20/TXa9L8vmA3qvMcCbCbxSDz5JAN3bZg9kdZ",
+ "type": "TRC20",
+ "symbol": "SFB",
+ "decimals": 8,
+ "status": "active",
+ "id": "TXa9L8vmA3qvMcCbCbxSDz5JAN3bZg9kdZ"
+}

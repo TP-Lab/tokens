@@ -1,0 +1,11 @@
+{
+ "name": "RedSun",
+ "website": "http://redsuntoken.com/",
+ "description": "RedSun Token.",
+ "explorer": "https://www.bscscan.com/token/0xBF38ae857024262B4D035BAB391C1Ee291DAf356",
+ "type": "BEP20",
+ "symbol": "RedSun",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBF38ae857024262B4D035BAB391C1Ee291DAf356"
+}

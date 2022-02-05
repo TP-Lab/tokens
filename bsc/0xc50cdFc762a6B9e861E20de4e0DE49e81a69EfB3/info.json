@@ -1,0 +1,11 @@
+{
+ "name": "BCG",
+ "website": "https://bscscan.com/token/0xc50cdFc762a6B9e861E20de4e0DE49e81a69EfB3",
+ "description": "BCG是币云交易所旗下专为网络游戏生态打造的一款“游戏币”。该游戏币可实现从多链向多生态进行赋能，亦可实现多游戏互冲，互提包括游戏引擎改进的一个代币。",
+ "explorer": "https://bscscan.com/token/0xc50cdFc762a6B9e861E20de4e0DE49e81a69EfB3",
+ "type": "BEP20",
+ "symbol": "BCG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc50cdFc762a6B9e861E20de4e0DE49e81a69EfB3"
+}

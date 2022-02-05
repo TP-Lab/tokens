@@ -1,0 +1,11 @@
+{
+ "name": "AAA",
+ "website": "https://hecoinfo.com/",
+ "description": "AAA是基于火币生态链的去中心化通缩型分红代币，以共识机制进入DEFI市场的社区代币.",
+ "explorer": "https://hecoinfo.com/token/0xf026c0ae5a6cd4acbb39f2ecb421f6a510dbd5e1",
+ "type": "HRC-20",
+ "symbol": "AAA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF026C0ae5A6Cd4aCbb39F2ECB421f6a510DbD5e1"
+}

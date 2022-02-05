@@ -1,0 +1,11 @@
+{
+    "name": "Pinecone Token",
+    "website": "https://pinecone.finance/",
+    "description": "Yield Optimizer offering dual rewards in both BNB and our native token PCT! ",
+    "explorer": "https://bscscan.com/token/0x4631d9D8b34f51B82958a19453bdc9eA0C4E49FC",
+    "type": "BEP20",
+    "symbol": "PCT",
+    "decimals": 4,
+    "status": "active",
+    "id": "0x4631d9D8b34f51B82958a19453bdc9eA0C4E49FC"
+}

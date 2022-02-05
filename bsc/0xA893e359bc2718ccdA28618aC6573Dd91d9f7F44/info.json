@@ -1,0 +1,11 @@
+{
+ "name": "pizza",
+ "website": "没有",
+ "description": "pizza，每个人心中的大饼",
+ "explorer": "https://bscscan.com/token/0xa893e359bc2718ccda28618ac6573dd91d9f7f44",
+ "type": "BEP20",
+ "symbol": "PIZ",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xA893e359bc2718ccdA28618aC6573Dd91d9f7F44"
+}

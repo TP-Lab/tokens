@@ -1,0 +1,11 @@
+{
+  "name": "DreamlandWorld Token",
+  "website": "http://dream-land.world",
+  "description": "A Play To Earn Mobile Platform",
+  "explorer": "https://bscscan.com/token/0xE1243779979966383fA88199B76b8B936BafE029",
+  "type": "BEP20",
+  "symbol": "DLW",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xE1243779979966383fA88199B76b8B936BafE029"
+}

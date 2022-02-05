@@ -1,0 +1,11 @@
+{
+ "name": "Cherrydoge",
+ "website": "https://cherrydoge.gitbook.io/cherrydoge/",
+ "description": "An OKCHAIN token with dividend CHE",
+ "explorer": "https://www.oklink.com/okexchain/address/0xb75dfcb9ad15946a8f4ebe98745749d11ed98b5b",
+ "type": "KIP20",
+ "symbol": "Cherrydoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb75dfcb9ad15946a8f4ebe98745749d11ed98b5b"
+}

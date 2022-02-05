@@ -1,0 +1,11 @@
+{
+ "name": "O3hacker",
+ "website": "http://www.03hacker.com",
+ "description": "03Hacker是根据Shib之后，继03黑客事件衍生的去中心化通证，该模式的82％黑客持仓与销毁机制，会促进价格稳定上涨。",
+ "explorer": "https://bscscan.com/token/0x5B321324791a65Dc3759AbbC3AF031E98eCd47Cf",
+ "type": "BEP20",
+ "symbol": "O3hacker",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5B321324791a65Dc3759AbbC3AF031E98eCd47Cf"
+}

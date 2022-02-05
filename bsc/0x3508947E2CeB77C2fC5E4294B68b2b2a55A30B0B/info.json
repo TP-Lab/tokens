@@ -1,0 +1,11 @@
+{
+ "name": "CyMon Pay",
+ "website": " https://www.cmpy.me/",
+ "description": "Cymon pay will also strive to build an open and comprehensive blockchain 4.0 payment ecosystem.",
+ "explorer": "https://bscscan.com/address/0x3508947E2CeB77C2fC5E4294B68b2b2a55A30B0B",
+ "type": "BEP-20",
+ "symbol": "CMPY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3508947E2CeB77C2fC5E4294B68b2b2a55A30B0B"
+}

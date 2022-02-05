@@ -1,0 +1,11 @@
+{
+ "name": "FLOWER",
+ "website": "https://flowercoin.com",
+ "description": "FLOWER是基于币安生态链的去中心化通货紧缩型货币，流动性矿池被锁定，每笔转账既交易都有9%的销毁。其中4%自动销毁。持币享受每笔交易的5%分红，完全由社区自治。",
+ "explorer": "https://bscscan.com/token/0xc659DBe93BeB133BD3a378C2aa742D1CdC4f30FA",
+ "type": "BEP20",
+ "symbol": "FLOWER",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xc659DBe93BeB133BD3a378C2aa742D1CdC4f30FA"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "CoinShop BOX",
+ "website": "https://coinshop.com",
+ "description": "CoinShop-BTC Shopping APP BOX",
+ "explorer": "https://hecoinfo.com/token/0xD064A7795a8ce6a20acFAa8f46D7796E43297669",
+ "type": "HRC20",
+ "symbol": "CoinShop",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD064A7795a8ce6a20acFAa8f46D7796E43297669"
+}

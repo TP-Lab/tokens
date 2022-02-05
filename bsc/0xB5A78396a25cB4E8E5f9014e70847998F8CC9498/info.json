@@ -1,0 +1,11 @@
+{  
+ "name": "CoinBank",  
+ "website": "-",  
+ "description": "-",  
+ "explorer": "https://bscscan.com/token/0xB5A78396a25cB4E8E5f9014e70847998F8CC9498",  
+ "type": "BEP20",  
+ "symbol": "CB",  
+ "decimals": 18,  
+ "status": "active",  
+ "id": "0xB5A78396a25cB4E8E5f9014e70847998F8CC9498"  
+ } 

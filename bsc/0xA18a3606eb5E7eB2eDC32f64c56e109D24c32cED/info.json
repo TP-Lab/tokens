@@ -1,0 +1,11 @@
+{
+ "name": "Bulldogs",
+ "website": "http://bulldogscoin.com",
+ "description": "Bulldogs coin will change the world",
+ "explorer": "https://bscscan.com/token/0xA18a3606eb5E7eB2eDC32f64c56e109D24c32cED",
+ "type": "BEP20",
+ "symbol": "Bulldogs",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA18a3606eb5E7eB2eDC32f64c56e109D24c32cED"
+}

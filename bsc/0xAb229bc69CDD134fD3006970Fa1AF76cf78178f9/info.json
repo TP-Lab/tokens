@@ -1,0 +1,11 @@
+{
+ "name": "SilkSwap Token",
+ "website": "https://silkswap.net",
+ "description": "SLK is an application token issued by SilkSwap.",
+ "explorer": "https://bscscan.com/token/0xAb229bc69CDD134fD3006970Fa1AF76cf78178f9",
+ "type": "BEP20",
+ "symbol": "SLK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAb229bc69CDD134fD3006970Fa1AF76cf78178f9"
+}

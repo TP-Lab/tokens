@@ -1,0 +1,11 @@
+{
+ "name": "PokemonGO",
+ "website": "http://www.pgo.farm/",
+ "description": "PGO is the first light gamified Defi app on OKExChian, which integrates the gameplay of collection and exchange, upgrade and evolution, attributes and skills, field encounter and PVP. In the future, we will combine the meta-universe to make players the creators and holders of virtual worlds, and NFT+ meta-universe to create their own kingdoms. ",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/ex1st8zh7tjnkfdtd42xsp3k8rudr8q4k4ey6ap40",
+ "type": "KIP20",
+ "symbol": "PGO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x82Ce2bF9729d92D5B6aa34031B1C7c68CE0adab9"
+}

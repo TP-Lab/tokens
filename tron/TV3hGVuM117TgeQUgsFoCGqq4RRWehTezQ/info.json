@@ -1,0 +1,11 @@
+{
+ "name": "UranusCoin",
+ "website": "www.UNCswap.com",
+ "description": "天王星，总量10000枚！代码开源，永不增发！",
+ "explorer": "https://tronscan.io/#/contract/TV3hGVuM117TgeQUgsFoCGqq4RRWehTezQ",
+ "type": "TRC20",
+ "symbol": "UNC",
+ "decimals": 18,
+ "status": "active",
+ "id": "TV3hGVuM117TgeQUgsFoCGqq4RRWehTezQ"
+} 
