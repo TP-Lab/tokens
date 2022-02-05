@@ -1,0 +1,11 @@
+{
+ "name": "DogeKing",
+ "website": "",
+ "description": "DogeKing will love",
+ "explorer": "https://bscscan.com/token/0x027df6643642994B5D867c997524AC6A0A08d88B",
+ "type": "BEP20",
+ "symbol": "DogeKing",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x027df6643642994B5D867c997524AC6A0A08d88B"
+}
