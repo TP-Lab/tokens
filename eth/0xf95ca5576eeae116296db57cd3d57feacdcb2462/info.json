@@ -1,0 +1,11 @@
+{
+    "name": "Calvin Coin",
+     "website":"https://calvincoin.com/",
+    "description": "Calvin Coin(CLVC) is a decentralized community-based token with lots of significant work dreams with full transparency.",
+    "explorer": "https://etherscan.io/token/0xf95ca5576eeae116296db57cd3d57feacdcb2462",
+    "type": "ERC20",
+    "symbol": "CLVC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf95ca5576eeae116296db57cd3d57feacdcb2462"
+    }
