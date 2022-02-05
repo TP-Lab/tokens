@@ -1,0 +1,11 @@
+{ 
+"name": "KINGDOGE",
+"website": "http://kingdoge.fi/",
+"description": "The KingDoge is the emperor of Doge Coin. KingDoge this new Coin originated from Doge Coin community fans. ",
+"explorer": "https://bscscan.com/token/0xBD3034dD8929B8a62e68F05A9BE27377b696ed88",
+"type": "BEP20",
+"symbol": "kingdoge",
+"decimals": 18,
+"status": "active",
+"id": "0xBD3034dD8929B8a62e68F05A9BE27377b696ed88"
+}
