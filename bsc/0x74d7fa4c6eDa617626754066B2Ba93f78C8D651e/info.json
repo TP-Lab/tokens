@@ -1,0 +1,11 @@
+{
+  "name": "DogKing",
+  "website": "https://www.dogking.tv",
+  "description": "DogKing aims to improve the quality of life, standards and health of people in the community. DogKing's primary focus is to provide practical assistance to the disadvantaged in the community, such as providing them with equipment, projects, program start-up capital, storage or office space, or even our professionals. Many of our community partners have not only received financial help from DogKing, but more importantly, they have received charitable donations and acts of charity raised by DogKing from the DogKing Kindness project. - Workplace giving projects receive regular salary donations from DogKing.",
+  "explorer": "https://bscscan.com/token/0x74d7fa4c6eDa617626754066B2Ba93f78C8D651e",
+  "type": "BEP20",
+  "symbol": "DogKing",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x74d7fa4c6eDa617626754066B2Ba93f78C8D651e"
+}
