@@ -1,0 +1,10 @@
+{
+    "name": "Hyper",
+    "description": "Hypercoin is made for gaming and buying nfts ",
+    "explorer": "https://polygonscan.com/token/0xae357ff86777bb3b45ffce43241c8390df6b06ca",
+    "type": "polygon",
+    "symbol": "HYPE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xae357ff86777bb3b45ffce43241c8390df6b06ca"
+   }
