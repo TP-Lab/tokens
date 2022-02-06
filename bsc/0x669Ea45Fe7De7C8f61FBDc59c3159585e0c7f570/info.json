@@ -1,0 +1,11 @@
+{
+ "name": "Google",
+ "website": "https://bscscan.com/token/0x669Ea45Fe7De7C8f61FBDc59c3159585e0c7f570",
+ "description": "googleswap是硅谷极客团队打造的一个去中心化交易平台。google代币是google元宇宙。google链游，googleswap的平台通用货币。会员持有google代币可以分红。可以交易，可以升值，可以推广应用赚钱。",
+ "explorer": "https://bscscan.com/token/0x669Ea45Fe7De7C8f61FBDc59c3159585e0c7f570",
+ "type": "BEP20",
+ "symbol": "Google",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x669Ea45Fe7De7C8f61FBDc59c3159585e0c7f570"
+}
