@@ -1,0 +1,11 @@
+{
+ "name": "THX",
+ "website":"coming soon",
+ "description": "Thx is the first experiment of socialFi &Dao.Thanks crypto.",
+ "explorer": "https://bscscan.com/token/0x39c81cecDb9a8e21A94a2543b51b8c87186537b0",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x39c81cecDb9a8e21A94a2543b51b8c87186537b0"
+}
