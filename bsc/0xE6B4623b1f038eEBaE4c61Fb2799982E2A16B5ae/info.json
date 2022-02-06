@@ -1,0 +1,11 @@
+{ 
+"name": "TELE",
+"website": "https://www.telegramdao.io/",
+"description": "This is a token belonging to anyone who makes a free contribution in a telegram.It is used to create a new generation of metaverse media to share it",
+"explorer": "https://bscscan.com/token/0xE6B4623b1f038eEBaE4c61Fb2799982E2A16B5ae",
+"type": "BEP20",
+"symbol": "TELE",
+"decimals": 6,
+"status": "active",
+"id": "0xE6B4623b1f038eEBaE4c61Fb2799982E2A16B5ae"
+}
