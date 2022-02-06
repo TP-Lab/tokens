@@ -1,0 +1,11 @@
+{
+ "name": "DogeZillaKing",
+ "website": "https://www.dogezillaking.com",
+ "description": "DogeZillaKing is a Dao homemade token. DAO will technically introduce blockchain smart contracts.",
+ "explorer": "https://bscscan.com/token/0x15ec6c8eb2f8b0672576f242c7831e465058a556",
+ "type": "BEP20",
+ "symbol": "DogeZillaKing",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x15EC6C8Eb2F8B0672576f242C7831e465058a556"
+}
