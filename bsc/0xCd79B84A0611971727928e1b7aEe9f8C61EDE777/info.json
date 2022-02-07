@@ -1,0 +1,11 @@
+{
+ "name": "ShibKing Pro",
+ "website": "https://www.shibkingpro.com",
+ "description": "COMMUNITY-DRIVEN DAO ECOSYSTEM POWERED BY SHIBKING PRO'S SKP TOKEN",
+ "explorer": "https://bscscan.com/address/0xcd79b84a0611971727928e1b7aee9f8c61ede777",
+ "type": "BEP20",
+ "symbol": "SKP",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xCd79B84A0611971727928e1b7aEe9f8C61EDE777"
+}
