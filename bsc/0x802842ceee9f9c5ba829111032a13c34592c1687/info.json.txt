@@ -1,0 +1,11 @@
+{
+ "name": "BTCking",
+ "website": "https://t.me/BTCKING688",
+ "description": "真正分红万币之王BTC ——— 比特币之王（BTCking）真正的比特币矿机来了！比特王（BTCking）是在BSC链上发行，以分红BTC为特色的meme代币随着king模式火热，一战成名出圈BTCking要走向全球DAO自治化，共同邀请全球比特币和加密货币信仰爱好者，共同搭建BTCkingDAO自治社区和对接合作发展！",
+ "explorer": "https://bscscan.com/token/0x802842ceee9f9c5ba829111032a13c34592c1687",
+ "type": "BEP20",
+ "symbol": "BTCking",
+ "decimals": 2,
+ "status": "active",
+ "id": "0x802842ceee9f9c5ba829111032a13c34592c1687"
+}
