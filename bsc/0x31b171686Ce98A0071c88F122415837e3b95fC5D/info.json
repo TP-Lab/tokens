@@ -1,0 +1,11 @@
+{
+ "name": "AiMi",
+ "website": "https://www.aimi.us",
+ "description": "Aimi.",
+ "explorer": "https://www.bscscan.com/token/0x31b171686Ce98A0071c88F122415837e3b95fC5D",
+ "type": "BEP20",
+ "symbol": "AiMi",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x31b171686Ce98A0071c88F122415837e3b95fC5D"
+}
