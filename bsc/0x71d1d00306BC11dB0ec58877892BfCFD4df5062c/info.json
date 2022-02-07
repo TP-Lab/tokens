@@ -1,0 +1,11 @@
+{
+ "name": "Daoking",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x71d1d00306BC11dB0ec58877892BfCFD4df5062c",
+ "type": "BEP20",
+ "symbol": "Daoking",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x71d1d00306BC11dB0ec58877892BfCFD4df5062c"
+}
