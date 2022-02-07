@@ -1,0 +1,11 @@
+{ 
+"name": "RMB",
+"website": "https://www.rmb-coin.top",
+"description": "rmb is a large scale multiplayer online simulation game ",
+"explorer": "https://bscscan.com/token/0x1e046436d64594304e7e3334d41922b7821b50fd",
+"type": "BEP20",
+"symbol": "RMB",
+"decimals": 18,
+"status": "active",
+"id": "0x1e046436d64594304e7e3334d41922b7821b50fd"
+}
