@@ -1,0 +1,11 @@
+{
+"name": "Big Mouth Monster Token",
+"website": "https://www.bmmgame.io/",
+"description": "Big Mouth Monster Token",
+"explorer": "https://bscscan.com/address/0xe45fB6F2D975d6D92fFe2ddB5136312938Fe9252",
+"type": "BEP20",
+"symbol": "BMM",
+"decimals": 18,
+"status": "active",
+"id": "0xe45fB6F2D975d6D92fFe2ddB5136312938Fe9252"
+}
