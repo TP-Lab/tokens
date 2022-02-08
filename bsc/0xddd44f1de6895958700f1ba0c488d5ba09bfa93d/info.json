@@ -1,0 +1,11 @@
+{
+ "name": "Cats World Water",
+ "website": "https://catsworld.io/",
+ "description": "Here is the Cat's World, a creative P2E game based on BSC and powerful economic mechanism.",
+ "explorer": "https://bscscan.com/token/0xddd44f1de6895958700f1ba0c488d5ba09bfa93d",
+ "type": "BEP20",
+ "symbol": "CWW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xddd44f1de6895958700f1ba0c488d5ba09bfa93d"
+}
