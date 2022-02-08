@@ -1,0 +1,11 @@
+{
+ "name": "Doomsday Redemption",
+ "website": "https://www.doomsdays.link/",
+ "description": "Doomsday redemption is a mining game for NFT platform.",
+ "explorer": "https://bscscan.com/tx/0x1a4ae0060485b58ce57b197a94bb39b09b2934d8e88c43fab1381e65e8acfad7",
+ "type": "BEP20",
+ "symbol": "DUR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x00fC7C3FF2d518DBB12f5A70Adc11Fe0e93d80ae"
+}
