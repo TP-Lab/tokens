@@ -1,0 +1,11 @@
+{
+  "name": "BOHOF",
+  "website": "https://pangolinswap.net/",
+  "description": "BOHOF",
+  "explorer": "https://bscscan.com/token/0xE51Ce5123b4326f98B6408640fea215Bc33c4F43",
+  "type": "BEP20",
+  "symbol": "BOHOF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xE51Ce5123b4326f98B6408640fea215Bc33c4F43"
+}
