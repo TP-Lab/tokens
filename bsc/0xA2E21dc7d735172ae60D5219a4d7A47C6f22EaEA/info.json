@@ -1,0 +1,11 @@
+{ 
+"name": "DoDKing TOKEN",
+"website": "http://dodking.xyz",
+"description": "DoDKing is a community-driven experimental project of de-zeroing. After the issuance, all coins are added to the fund pool, and the pool is locked. After the opening of the purchase restriction for three days, after the chips are scattered, the purchase restriction is lifted, the contract authority is lost, and community autonomy is realized. ",
+"explorer": "https://bscscan.com/token/0xA2E21dc7d735172ae60D5219a4d7A47C6f22EaEA",
+"type": "BEP20",
+"symbol": "DoDKing",
+"decimals": 18,
+"status": "active",
+"id": "0xA2E21dc7d735172ae60D5219a4d7A47C6f22EaEA"
+}
