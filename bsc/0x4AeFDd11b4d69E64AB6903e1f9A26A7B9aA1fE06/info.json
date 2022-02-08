@@ -1,0 +1,11 @@
+{
+ "name": "METADOGE",
+ "website": " ",
+ "description": " ",
+ "explorer": "https://bscscan.com/token/0x4aefdd11b4d69e64ab6903e1f9a26a7b9aa1fe06",
+ "type": "BEP20",
+ "symbol": "METADOGE",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x4AeFDd11b4d69E64AB6903e1f9A26A7B9aA1fE06"
+}
