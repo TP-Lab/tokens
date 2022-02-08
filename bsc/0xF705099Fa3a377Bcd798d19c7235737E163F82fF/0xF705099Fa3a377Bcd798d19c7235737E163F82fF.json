@@ -1,0 +1,11 @@
+{
+ "name": "FiFaWorldCup2022",
+ "website": "www.fifa2022.fund",
+ "description": "Tokens for global sports enthusiasts",
+ "explorer": "https://bscscan.com/token/0xF705099Fa3a377Bcd798d19c7235737E163F82fF",
+ "type": "BEP20",
+ "symbol": "WorldCup",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF705099Fa3a377Bcd798d19c7235737E163F82fF"
+}
