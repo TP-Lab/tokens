@@ -3,7 +3,7 @@
  "website": "https://www.uninft.info/",
  "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
  "explorer": "https://hecoinfo.com/token/0xf0a161cc3d8e6453cbe6d62bc266089e3fbad7f4",
- "type": "ERC20",
+ "type": "HECO",
  "symbol": "ENB",
  "decimals": 16,
  "status": "active",
