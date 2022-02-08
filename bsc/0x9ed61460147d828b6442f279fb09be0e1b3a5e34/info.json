@@ -1,0 +1,11 @@
+{
+ "name": "DogeMuskMars",
+ "website": "https://www.dogemuskmars.com/",
+ "description": "Can be exchanged on Binance Smart Chain. Speed, low fees, and allows anyone to participate ‧DogeMuskMars aims to become the No. 1 liquidity provider on the Binance Smart Chain and the birthplace of innovative gamified farming mechanisms, promoting its mechanism into other chains and other fields, and providing partial benefits To help disadvantaged groups and stray animals, create a world full of love.",
+ "explorer": "https://bscscan.com/token/0x9ed61460147d828b6442f279fb09be0e1b3a5e34",
+ "type": "BEP20",
+ "symbol": "DMM",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x9ed61460147d828b6442f279fb09be0e1b3a5e34"
+}
