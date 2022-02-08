@@ -1,0 +1,11 @@
+{
+ "name": "DogeMM",
+ "website": "https://DogeMM.top",
+ "description": "memecoin",
+ "explorer": "https://bscscan.com/token/0xb36d06d1bc29e00cdc33cdffd037f8ab8c094863",
+ "type": "BEP20",
+ "symbol": "DogeMM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB36d06D1bc29E00CDc33CdfFd037f8aB8C094863"
+}
