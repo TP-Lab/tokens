@@ -1,0 +1,11 @@
+{ 
+"name": "CPB",
+"website": "https://www.cpb-coin.top",
+"description": "cpb is a large scale multiplayer online simulation game ",
+"explorer": "https://bscscan.com/token/0x057d2610069e40366c0e6a34ceaf2ca20e96e6ae",
+"type": "BEP20",
+"symbol": "CPB",
+"decimals": 18,
+"status": "active",
+"id": "0x057d2610069e40366c0e6a34ceaf2ca20e96e6ae"
+}
