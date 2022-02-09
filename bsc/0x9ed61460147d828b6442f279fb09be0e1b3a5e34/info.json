@@ -5,7 +5,7 @@
  "explorer": "https://bscscan.com/token/0x9ed61460147d828b6442f279fb09be0e1b3a5e34",
  "type": "BEP20",
  "symbol": "DMM",
- "decimals": 4,
+ "decimals": 18,
  "status": "active",
  "id": "0x9ed61460147d828b6442f279fb09be0e1b3a5e34"
 }
