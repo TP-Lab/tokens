@@ -1,0 +1,11 @@
+{
+ "name": "JXRY Token",
+"website":"https://bscscan.com/token/0xC39E306019da43d8eD5fDE90F1C448d735055122",
+ "description": "JXRY is a decentralized protocol based on Automated Market Maker (AMM)",
+ "explorer": "https://bscscan.com/token/0xC39E306019da43d8eD5fDE90F1C448d735055122",
+ "type": "BEP20",
+ "symbol": "JXRY",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xC39E306019da43d8eD5fDE90F1C448d735055122"
+}
