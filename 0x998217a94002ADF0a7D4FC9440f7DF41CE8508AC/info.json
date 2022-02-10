@@ -1,0 +1,11 @@
+{
+ "name": "SweetDumpling",
+ "website": "https://SweetDumpling.com",
+ "description": "The only authentic yuanxiao.",
+ "explorer": "https://bscscan.com/token/0x998217a94002adf0a7d4fc9440f7df41ce8508ac",
+ "type": "BEP20",
+ "symbol": "SweetDumpling",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x998217a94002ADF0a7D4FC9440f7DF41CE8508AC"
+}
