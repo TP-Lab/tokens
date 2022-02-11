@@ -1,0 +1,11 @@
+{
+  "name": "UnicornCharacter",
+  "website": "https://metaspaceunicorn.com",
+  "description": "Unicorn is a game developed based on the underlying protocol of the Meta Space platform on Bscscan; game props include characters, mounts, weapons, potions, etc. The props can be purchased using Unicorn tokens UNC or blind boxes. After forming a complete set package, enter the game and participate in game tasks to obtain corresponding benefits. There is also a chance to get treasure chests in the process of fighting monsters and leveling. The treasure chest contains gold coins and weapon fragments. Characters, mounts, weapons, and weapon fragments are all private assets of players, which can be traded through NFT exchanges and decentralized exchanges.",
+  "explorer": "https://bscscan.com/token/0xd350b4f8322eA54b3bB317C42548fB1933C2fB76",
+  "type": "ERC721",
+  "symbol": "UnicornCharacter",
+  "decimals": 0,
+  "status": "active",
+  "id": "0xd350b4f8322eA54b3bB317C42548fB1933C2fB76"
+}
