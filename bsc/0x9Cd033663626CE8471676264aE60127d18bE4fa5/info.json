@@ -1,0 +1,11 @@
+{ 
+"name": "Fire",
+"website": "https://www.fires.run/",
+"description": "Destroy Deflation and Create Asymmetric Capital Pools. One Coin and Two Pools Permanent Bullet Train Mode ",
+"explorer": "https://bscscan.com/token/0x9Cd033663626CE8471676264aE60127d18bE4fa5",
+"type": "BEP20",
+"symbol": "Fire",
+"decimals": 18,
+"status": "active",
+"id": "0x9Cd033663626CE8471676264aE60127d18bE4fa5"
+}
