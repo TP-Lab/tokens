@@ -1,0 +1,11 @@
+{
+  "name": "FILW",
+  "website": "https://www.filw.site",
+  "description": "FILW is a public chain that encourages developers to use IPFS to store and provide application specifications.",
+  "explorer": "https://bscscan.com/token/0x4Fcf5805FfD04f53c1e3d04a2Eac69960A740961",
+  "type": "BEP20",
+  "symbol": "FILW",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4Fcf5805FfD04f53c1e3d04a2Eac69960A740961"
+}
