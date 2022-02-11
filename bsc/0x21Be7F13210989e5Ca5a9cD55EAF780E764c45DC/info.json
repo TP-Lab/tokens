@@ -1,0 +1,11 @@
+{
+  "name": "Unca",
+  "website": "https://metaspaceunicorn.com",
+  "description": "Unca is the game currency in the chain game Unicorn. Users need to pay Unca when purchasing weapons and equipment, And the corresponding income will be issued in the economic benefit link of the game.",
+  "explorer": "https://bscscan.com/token/0x21Be7F13210989e5Ca5a9cD55EAF780E764c45DC",
+  "type": "BEP20",
+  "symbol": "Unca",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x21Be7F13210989e5Ca5a9cD55EAF780E764c45DC"
+}
