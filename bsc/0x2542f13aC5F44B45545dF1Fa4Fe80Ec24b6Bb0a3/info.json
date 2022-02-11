@@ -1,0 +1,11 @@
+{
+  "name": "Unicorn",
+  "website": "https://metaspaceunicorn.com",
+  "description": "The full name of UNC is Unicorn, which is a Role-playing game GameFi that uses BSC underlying technology in Meta space.",
+  "explorer": "https://bscscan.com/token/0x2542f13aC5F44B45545dF1Fa4Fe80Ec24b6Bb0a3",
+  "type": "BEP20",
+  "symbol": "UNC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2542f13aC5F44B45545dF1Fa4Fe80Ec24b6Bb0a3"
+}
