@@ -1,0 +1,11 @@
+{
+  "name": "GOC",
+  "website": "https://giiio.io",
+  "description": "The essential assets of the GIIO Metaverse are the only token in circulation in the GIIO Planet Game!",
+  "explorer": "https://bscscan.com/token/0x94cB38a11386BC8966E33a74C9D3434e3C43D1ba",
+  "type": "BEP20",
+  "symbol": "GOC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x94cB38a11386BC8966E33a74C9D3434e3C43D1ba"
+}
