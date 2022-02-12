@@ -1,0 +1,11 @@
+{
+    "name": "WWE",
+    "website": "http://wwe.ink",
+    "description": "WWE is an international financial agreement based on decentralized DeFi.",
+    "explorer": "https://bscscan.com/token/0x8CB15D7FA6287F4bdDe88CDDf95286EaFaA1e72A",
+    "type": "BEP20",
+    "symbol": "WWE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8CB15D7FA6287F4bdDe88CDDf95286EaFaA1e72A"
+}
