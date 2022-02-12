@@ -1,0 +1,11 @@
+{
+ "name": "eli Token",
+ "website": "nothing",
+ "description": "Eli puts all tokens into the initial flow pool, and the initiator does not hold coins at all. Solve the possibility that the project party smashes the plate and runs away, which may bring losses to the players. In the later stage, we will invest in the initial flow pool of the new coin circle project to obtain income to provide the possibility of sustainable development for tokens.",
+ "explorer": "https://bscscan.com/token/0x84dc7EFB5d44Ccf45D31000f5a72308745B9cC8e",
+ "type": "BEP20",
+ "symbol": "eli",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x84dc7EFB5d44Ccf45D31000f5a72308745B9cC8e"
+}
