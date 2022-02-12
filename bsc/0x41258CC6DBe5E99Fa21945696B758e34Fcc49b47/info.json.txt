@@ -1,0 +1,11 @@
+{
+ "name": "XR",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/address/0x41258cc6dbe5e99fa21945696b758e34fcc49b47",
+ "type": "BEP20",
+ "symbol": "XR",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x41258CC6DBe5E99Fa21945696B758e34Fcc49b47"
+} 
