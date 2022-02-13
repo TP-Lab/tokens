@@ -1,0 +1,11 @@
+{
+"name": "dogking",
+"website": "https://dogkingdao.net/zh.html#",
+"description": "It is a dogkingdao organization that crypto players jointly govern and has a strong consensus, leading memecoin",
+"explorer": "https://bscscan.com/address/0x9B90cAf3fFd164e0c3d4e3454f8b12A385be7c92",
+"type": "BEP20",
+"symbol": "dogking",
+"decimals": 18,
+"status": "active",
+"id": "0x9B90cAf3fFd164e0c3d4e3454f8b12A385be7c92"
+}
