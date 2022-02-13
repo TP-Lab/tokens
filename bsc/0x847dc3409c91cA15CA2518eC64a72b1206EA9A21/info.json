@@ -1,0 +1,11 @@
+{
+ "name": "TOT",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x847dc3409c91cA15CA2518eC64a72b1206EA9A21",
+ "type": "BEP20",
+ "symbol": "TOT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x847dc3409c91cA15CA2518eC64a72b1206EA9A21"
+}
