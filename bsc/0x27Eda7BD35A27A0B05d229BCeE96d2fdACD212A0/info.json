@@ -1,0 +1,11 @@
+{
+ "name": "FST Token",
+ "website": "http://www.mmp-allinltd.com/",
+ "description": "和氏璧FST中文代号：和氏璧。和氏璧应用区块链底层技术结合共享经济潮流，打造全新的分布式金融应用生态体系。去中心化金融（“DeFi”），也称为开放式金融，是加密生态备受关注的加密货币之一。从较高的层面上来讲，和氏璧的目的是创建许多今天我们现有的金融系统（比如，借贷和衍生品），但是以一种自动化的方式，并且不再需要中间方的存在。",
+ "explorer": "https://bscscan.com/token/0x27Eda7BD35A27A0B05d229BCeE96d2fdACD212A0",
+ "type": "BEP20",
+ "symbol": "FST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x27Eda7BD35A27A0B05d229BCeE96d2fdACD212A0"
+}
