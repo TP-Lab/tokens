@@ -1,0 +1,11 @@
+{
+    "name": "FLOKI",
+    "website": "https://www.floki.com/",
+    "description": "FLOKI is cross-chain and available on both the Ethereum blockchain and the Binance Smart Chain",
+    "explorer": "https://etherscan.io/token/0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+    "type": "ERC20",
+    "symbol": "FLOKI",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E"
+   }
