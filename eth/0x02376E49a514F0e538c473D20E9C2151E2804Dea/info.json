@@ -1,0 +1,11 @@
+{
+ "name": "HelloDao Vote Token",
+ "website": "https://www.hellodao.world",
+ "description": "Hello DAO is a metaverse simulation game, the initial version is completely free and fair. By establishing an interstellar protocol, users are allowed to enter the era of cosmic economy in advance.",
+ "explorer": "https://etherscan.io/token/0x02376E49a514F0e538c473D20E9C2151E2804Dea",
+ "type": "ERC20",
+ "symbol": "DAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x02376E49a514F0e538c473D20E9C2151E2804Dea"
+}
