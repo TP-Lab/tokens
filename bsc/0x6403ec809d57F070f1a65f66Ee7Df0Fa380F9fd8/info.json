@@ -1,0 +1,11 @@
+{
+ "name": "MetaDogeKing",
+ "website": "http://metaking.win/",
+ "description": "MetaKing是基于币安链发行的标准代币",
+ "explorer": "https://bscscan.com/token/0x6403ec809d57F070f1a65f66Ee7Df0Fa380F9fd8",
+ "type": "BSC20",
+ "symbol": "MetaKing",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x6403ec809d57F070f1a65f66Ee7Df0Fa380F9fd8"
+}
