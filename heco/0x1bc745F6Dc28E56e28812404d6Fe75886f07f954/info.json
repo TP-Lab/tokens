@@ -1,0 +1,11 @@
+{
+ "name": "BDDmascots",
+ "website": "-",
+ "description": "BDDmascots is a token with deflationary function on the fire coin chain, with a total amount of 100 million yuan. After deducting the handling fee, 5% of the transaction will add liquidity, 3% of all coin holding addresses will pay dividends, and 2% will be broken into the black hole and permanently destroyed",
+ "explorer": "https://hecoinfo.com/token/0x1bc745F6Dc28E56e28812404d6Fe75886f07f954",
+ "type": "HRC20",
+ "symbol": "BDD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x1bc745F6Dc28E56e28812404d6Fe75886f07f954"
+}
