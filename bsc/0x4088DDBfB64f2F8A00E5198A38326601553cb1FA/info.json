@@ -1,0 +1,11 @@
+{
+ "name": "HuHuSW Token",
+ "website": "https://huhuswdao.org/",
+ "description": "HuHuSW(虎虎生威)是一个100%由中文社区发起的DAO项目",
+ "explorer": "https://www.bscscan.com/token/0x4088ddbfb64f2f8a00e5198a38326601553cb1fa",
+ "type": "BEP20",
+ "symbol": "HuHuSW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4088DDBfB64f2F8A00E5198A38326601553cb1FA"
+}
