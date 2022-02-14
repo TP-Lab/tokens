@@ -1,0 +1,11 @@
+{
+    "name": "BKing",
+    "website": "https://btgame.info",
+    "description": "Cloud chain game combines the application of metauniverse + Chain Game + Dao + DEX + defi + NFT + gamefi in the ecosystem to create decentralized autonomous management (DAO).",
+    "explorer": "https://bscscan.com/token/0x7a92942D8d35241E8ea07379Cd2240C861E5f907",
+    "type": "BEP20",
+    "symbol": "BKing",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7a92942D8d35241E8ea07379Cd2240C861E5f907"
+}
