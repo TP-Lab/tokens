@@ -1,0 +1,11 @@
+{
+ "name": "GopherWood organization Chain plus",
+ "website": "https://github.com/GopherWoodOrganization/gocp",
+ "description": "GOCP是一条基于区块链底层开发的完全去中心化,高安全,高吞吐量,可扩展的公有链。",
+ "explorer": "https://www.bscscan.com/token/0x1236e49e30C59e06B9ba78425Ac84fDC5B1Ec5f0",
+ "type": "BEP20",
+ "symbol": "GOCP",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x1236e49e30C59e06B9ba78425Ac84fDC5B1Ec5f0"
+}
