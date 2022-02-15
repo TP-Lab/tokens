@@ -1,0 +1,11 @@
+{
+ "name": "SER",
+ "website": "http://serchats.com",
+ "description": "An unstoppable economy enabled by decentralized assets, decentralized technologies, and decentralized organizations.",
+ "explorer": "https://bscscan.com/token/0xE416b8680d5934B1f466586A50839D05FbeA1030",
+ "type": "BEP20",
+ "symbol": "SER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE416b8680d5934B1f466586A50839D05FbeA1030"
+}
