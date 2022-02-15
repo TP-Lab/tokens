@@ -1,0 +1,11 @@
+{
+    "name": "HoYoverse",
+    "website": "https://bscscan.com/token/0x96590cFFaC3853bcfa20B4D0F43710072BBD4E33",
+    "description": "HoYoverse, begins a new venture",
+    "explorer": "https://bscscan.com/token/0x96590cFFaC3853bcfa20B4D0F43710072BBD4E33",
+    "type": "BEP20",
+    "symbol": "HoYoverse",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x96590cFFaC3853bcfa20B4D0F43710072BBD4E33"
+}
