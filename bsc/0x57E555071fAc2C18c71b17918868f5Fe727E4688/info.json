@@ -1,0 +1,11 @@
+{
+  "name": "MoonCake",
+  "website": "https://mooncaketoken.xyz",
+  "description": "A meme coin to celebrate the Mid-Autumn Festival.",
+  "explorer": "https://bscscan.com/address/0x57E555071fAc2C18c71b17918868f5Fe727E4688",
+  "type": "BEP20",
+  "symbol": "MoonCake",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x57E555071fAc2C18c71b17918868f5Fe727E4688"
+}
