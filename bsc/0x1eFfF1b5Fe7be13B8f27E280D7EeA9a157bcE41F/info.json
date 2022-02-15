@@ -1,0 +1,11 @@
+{
+    "name":"Gold Shovel Token",
+    "website":"http://www.goldshovel.xyz/",
+    "description":"A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+    "explorer":"https://www.bscscan.com/token/0x1efff1b5fe7be13b8f27e280d7eea9a157bce41f",
+    "type":"BEP20",
+    "symbol":"Gold Shovel",
+    "decimals":18,
+    "status":"active",
+    "id":"0x1efff1b5fe7be13b8f27e280d7eea9a157bce41f"
+}
