@@ -1,0 +1,11 @@
+{
+ "name": "POODLEA",
+ "website": "https://nfts-shop.co",
+ "description": "POODLEA is committed to a consumer token in the BSC network.",
+ "explorer": "https://bscscan.com/token/0x24A17936CE22da3Bf502FdA5c615cdC0B6170C13",
+ "type": "BEP20",
+ "symbol": "POODLEA",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x24A17936CE22da3Bf502FdA5c615cdC0B6170C13"
+}
