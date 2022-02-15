@@ -1,0 +1,11 @@
+{
+ "name": "PanDAO Token",
+ "website": "nothing",
+ "description": "As a common coin issued by the people's Bank of China, the panda coin with China's national treasure panda as the main picture is hereby issued, which is also a landmark coin in the history of Panda Coin.",
+ "explorer": "https://bscscan.com/token/0x569b1dfc4D9c9a4901C80CE7d2b16a580F0ee4EF",
+ "type": "BEP20",
+ "symbol": "PanDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x569b1dfc4D9c9a4901C80CE7d2b16a580F0ee4EF"
+}
