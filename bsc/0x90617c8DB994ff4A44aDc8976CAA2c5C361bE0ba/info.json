@@ -4,5 +4,8 @@
     "description": "Five X World is a decentralized game project integrating blockchain technology and Jianghu metaphysics. Through the dual blessing of blockchain technology and the ancient Chinese magical five-element array, players can experience modern technology encrypted numbers and ancient metaphysics at the same time. The stimulus of colliding with each other. PNC is the sceond token of Five X World, players can get more PNC in FWX Market.",
     "explorer": "https://bscscan.com/token/0x90617c8DB994ff4A44aDc8976CAA2c5C361bE0ba",
     "type": "BEP20",
-    "symbol": "PNC"
+    "symbol": "PNC",
+    "decimals": "4",
+    "status": "active",
+    "id": "0x90617c8DB994ff4A44aDc8976CAA2c5C361bE0ba"
 }
