@@ -1,0 +1,11 @@
+ {
+ "name": "Virtualized Process",
+ "website": " ",
+ "description": "Virtualized Process",
+ "explorer": "https://www.bscscan.com/address/0x54dbcca1039e9a3b5d6d652c00c37e3ddde1a21f",
+ "type": "BEP20",
+ "symbol": "VPS",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x54DbCCA1039e9A3b5d6D652C00C37e3DddE1A21f"
+}
