@@ -1,0 +1,11 @@
+{
+    "name": "PartyBoard(BSC)",
+    "website": "https://www.partyboard.org/",
+    "description": "PartyBoard is a Multi-chain Web3 SocialFi Protocol, Web3 Metaverse&NFT Social network",
+    "explorer": "https://bscscan.com/token/0xd6311f9a6bd3a802263f4cd92e2729bc2c31ed23",
+    "type": "BEP20",
+    "symbol": "PAB(BSC)",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xd6311f9a6bd3a802263f4cd92e2729bc2c31ed23"
+}
