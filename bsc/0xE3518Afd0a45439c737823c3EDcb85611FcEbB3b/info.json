@@ -1,0 +1,11 @@
+{
+ "name": "BY DK TOKEN",
+ "website": "http://www.bydk.net",
+ "description": "The BY DK Token is for metaverse.",
+ "explorer": "https://bscscan.com/address/0xE3518Afd0a45439c737823c3EDcb85611FcEbB3b",
+ "type": "BEP20",
+ "symbol": "BYDK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE3518Afd0a45439c737823c3EDcb85611FcEbB3b"
+}

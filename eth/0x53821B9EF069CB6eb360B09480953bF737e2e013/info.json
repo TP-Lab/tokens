@@ -1,0 +1,11 @@
+{
+ "name": "MultiPlanetary Inus",
+ "website": "https://www.multiplanetaryinus.com/",
+ "description": "INUS is a platform token. The platform provides audit and insurance compensation services. The project settled on the platform must pay the corresponding deposit, so as to prevent and reduce fraud in the field of encryption.",
+ "explorer": "https://etherscan.io/token/0x53821B9EF069CB6eb360B09480953bF737e2e013",
+ "type": "ERC20",
+ "symbol": "INUS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x53821B9EF069CB6eb360B09480953bF737e2e013"
+}
