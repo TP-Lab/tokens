@@ -1,0 +1,11 @@
+{
+ "name": "CNFT",
+ "website": "http://rstmeta.com/",
+ "description": "CNFT is the login token of the RstMeta creation game, holding CNFT can directly log in to the game, and obtain the NFT casting rights and ownership rights of game skins and items.",
+ "explorer": "https://bscscan.com/token/0xffdd1C2dE9Cc0b70B51ba478d46809ecc3E505eA",
+ "type": "BEP721",
+ "symbol": "CNFT",
+ "decimals": 0,
+ "status": "active",
+ "id": "0xffdd1C2dE9Cc0b70B51ba478d46809ecc3E505eA"
+}

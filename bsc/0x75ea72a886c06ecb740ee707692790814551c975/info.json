@@ -1,0 +1,11 @@
+{
+ "name": "Cats World Crystal",
+ "website": "https://catsworld.io/",
+ "description": "Here is the Cat's World, a creative P2E game based on BSC and powerful economic mechanism.",
+ "explorer": "https://bscscan.com/token/0x75ea72a886c06ecb740ee707692790814551c975",
+ "type": "BEP20",
+ "symbol": "CWC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x75ea72a886c06ecb740ee707692790814551c975"
+}
