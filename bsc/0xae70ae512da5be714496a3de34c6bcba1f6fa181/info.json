@@ -1,0 +1,11 @@
+{
+ "name": "PPS",
+ "website": "http://www.pps.tw/",
+ "description": "PPSswap打造一个人人是股东的新金融Defi平台，PPS作为平台的唯一通证应用。",
+ "explorer": "https://bscscan.com/token/0xae70ae512da5be714496a3de34c6bcba1f6fa181",
+ "type": "BEP20",
+ "symbol": "PPS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xae70ae512da5be714496a3de34c6bcba1f6fa181"
+}
