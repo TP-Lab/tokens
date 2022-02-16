@@ -1,0 +1,11 @@
+{
+ "name": "ETHX",
+ "website": "https://www.ethxtoken.com/",
+ "description": "ETHX is co-promoted by countless ETH fans. Currently, there are about 200 million ETH holders worldwide",
+ "explorer": "https://bscscan.com/token/0x8EB902AFB5288138b3a1cc018AF93514DE47C4AF",
+ "type": "BSC20",
+ "symbol": "ETHX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8EB902AFB5288138b3a1cc018AF93514DE47C4AF"
+}
