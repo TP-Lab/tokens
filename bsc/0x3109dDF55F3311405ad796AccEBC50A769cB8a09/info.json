@@ -1,0 +1,11 @@
+{
+ "name": "TTS DAO",
+ "website": ".",
+ "description": "TTS1是TTS团队的社区治理代币",
+ "explorer": "https://bscscan.com/token/0x3109dDF55F3311405ad796AccEBC50A769cB8a09",
+ "type": "BSC20",
+ "symbol": "TTS1",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3109dDF55F3311405ad796AccEBC50A769cB8a09"
+}
