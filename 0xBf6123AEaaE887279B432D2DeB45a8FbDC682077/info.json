@@ -1,0 +1,21 @@
+{
+
+ "name": "Dream Fouder Token",
+
+ "website": "https://dreamfouder.finance/",
+ 
+"description": "Dream founder swap in view of the uniformity of market promotion, DF was born, integrating pledge mining, lucky draw, NFT metauniverse, Ido and launch. Let the ecology develop in an all-round way",
+
+ "explorer": "https://bscscan.com/token/0xBf6123AEaaE887279B432D2DeB45a8FbDC682077",
+
+ "type": "BEP20",
+
+ "symbol": "DF",
+ 
+"decimals": 18,
+ 
+"status": "active",
+ 
+"id": "0xBf6123AEaaE887279B432D2DeB45a8FbDC682077"
+
+}
