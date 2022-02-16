@@ -1,0 +1,11 @@
+{
+ "name": "VEILL",
+ "website": "https://veil-project.com/",
+ "description": "With best-in-class anonymity technology, the Veil project aims to be the first cryptocurrency to never compromise on user privacy. offering unprecedented permanent private anonymity, Veil coin combines zero-coin and RingCT technology to provide total privacy. veil coin is the first cryptocurrency where holders hold shares anonymously.",
+ "explorer": "https://bscscan.com/token/0xCD9ECBaA64110Ede387C831B7B6b7Ba8AbdDa6e7",
+ "type": "BEP20",
+ "symbol": "VEILL",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xCD9ECBaA64110Ede387C831B7B6b7Ba8AbdDa6e7"
+}
