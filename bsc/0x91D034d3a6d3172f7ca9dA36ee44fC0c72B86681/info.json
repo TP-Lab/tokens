@@ -1,0 +1,11 @@
+{
+ "name": "Fisttiger",
+ "website": ".",
+ "description": "FISTIG是基于BSC网络发行的社区通证，完全由社区自治",
+ "explorer": "https://bscscan.com/token/0x91D034d3a6d3172f7ca9dA36ee44fC0c72B86681",
+ "type": "BSC20",
+ "symbol": "FISTIG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x91D034d3a6d3172f7ca9dA36ee44fC0c72B86681"
+}
