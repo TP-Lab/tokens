@@ -1,0 +1,31 @@
+{\rtf1\ansi\ansicpg936\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \{\
+2\
+"name": "ZEUS\'94,\
+3\
+"website": "https://zeus.io,\
+4\
+"description": \'93A Dao ecology token.\'94,\
+5\
+"explorer": "https://bscscan.com/token/0x5531dff7ac98cb45789474fd94edb5374db96e57",\
+6\
+"type": "BEP20",\
+7\
+"symbol": "\outl0\strokewidth0 ZEUS\outl0\strokewidth0 \strokec2 ",\
+8\
+"decimals": 9,\
+9\
+"status": "active",\
+10\
+"id": "0x5531DfF7aC98CB45789474Fd94EDb5374DB96e57"\
+11\
+\}\
+}
