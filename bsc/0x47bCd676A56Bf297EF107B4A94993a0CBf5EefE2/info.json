@@ -1,0 +1,11 @@
+{
+ "name": "LOVE",
+ "website": "",
+ "description": "LOVE come in",
+ "explorer": "https://bscscan.com/token/0x47bCd676A56Bf297EF107B4A94993a0CBf5EefE2",
+ "type": "BEP20",
+ "symbol": "LOVE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x47bCd676A56Bf297EF107B4A94993a0CBf5EefE2"
+} 
