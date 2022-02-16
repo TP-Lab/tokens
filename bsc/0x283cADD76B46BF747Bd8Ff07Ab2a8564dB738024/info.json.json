@@ -1,0 +1,11 @@
+{
+ "name": "Lacarra Token",
+ "website": "https://lacarra.cc/",
+ "description": "Lacarra (Lacarra) is a cryptocurrency, deployed on Binance Smart Chain(BSC BEP-20)",
+ "explorer": "https://bscscan.com/token/0x283cADD76B46BF747Bd8Ff07Ab2a8564dB738024",
+ "type": "BEP20",
+ "symbol": "Lacarra",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x283cADD76B46BF747Bd8Ff07Ab2a8564dB738024"
+}
