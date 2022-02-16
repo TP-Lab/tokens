@@ -1,0 +1,11 @@
+{
+ "name": "DADA",
+ "website": "https://www.dadaswap.org",
+ "description": "DADA是基于币安链发行的代币，未来将会转化成公链，潜力巨大",
+ "explorer": "https://bscscan.com/token/0x8CF6666202E55A1B9C5A6d6Af1470F74e736ECaD",
+ "type": "BSC20",
+ "symbol": "DADA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8CF6666202E55A1B9C5A6d6Af1470F74e736ECaD"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "TIP",
+    "website": "http://web.tipppe.com/",
+    "description": "Tip is a community driven and fairly issued meme token.",
+    "explorer": "https://bscscan.com/token/0xC0Ff5EaB9909E78b7391539fa43e9688DD0b9e31",
+    "type": "BEP20",
+    "symbol": "TIP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC0Ff5EaB9909E78b7391539fa43e9688DD0b9e31"
+   }
