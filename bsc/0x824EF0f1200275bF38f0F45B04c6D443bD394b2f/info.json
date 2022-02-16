@@ -1,0 +1,11 @@
+{
+ "name": "Mercenary Token",
+ "website": "0",
+ "description": "0",
+ "explorer": "https://bscscan.com/token/0x824ef0f1200275bf38f0f45b04c6d443bd394b2f",
+ "type": "BEP20",
+ "symbol": "Mercenary",
+ "decimals": 18,
+ "status": "active",
+ "id": 0x824EF0f1200275bF38f0F45B04c6D443bD394b2f"
+}
