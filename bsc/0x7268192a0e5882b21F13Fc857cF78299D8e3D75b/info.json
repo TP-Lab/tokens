@@ -1,0 +1,11 @@
+{
+ "name": "IONZ",
+ "website": "www.metanebulas.com",
+ "description": "IONZ is the main token circulating within the META NEBULAS metaverse D-App; contributing to a new ecosystem combining GameFi, DeFi, SocialFi & NFT",
+ "explorer": "https://bscscan.com/address/0x7268192a0e5882b21F13Fc857cF78299D8e3D75b",
+ "type": "BEP20",
+ "symbol": "IONZ",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x7268192a0e5882b21F13Fc857cF78299D8e3D75b"
+}

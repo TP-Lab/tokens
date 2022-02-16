@@ -1,0 +1,11 @@
+{
+ "name": "CIH Token",
+ "website": "https://cih.finance/",
+ "description": "Chain Happy (CIH) is a completely decentralized game platform. It creates a completely fair and transparent game platform by leveraging the non-tamperable and data transparent characteristics of the blockchain, plus the uniqueness of NFT and the autonomy of DAO.",
+ "explorer": "https://bscscan.com/token/0x1Dfc4E1057E088b66B7e09EE9cE72Ebc17EFf788",
+ "type": "BEP20",
+ "symbol": "CIH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1Dfc4E1057E088b66B7e09EE9cE72Ebc17EFf788"
+}

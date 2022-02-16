@@ -1,0 +1,11 @@
+{ 
+"name": "FBUMeta",
+"website": "https://www.fbu.one",
+"description": "World first MaaS(Meta as a Service),been incubating by its people, a self-evolution meta for developing an ideal mirror to mankind, FBU coin- for its people.",
+"explorer": "https://bscscan.com/address/0xa7d101FC5C82C07E8F4FDbee34125C4b0906A675",
+"type": "BEP20",
+"symbol": "FBU",
+"decimals": 18,
+"status": "active",
+"id": "0xa7d101FC5C82C07E8F4FDbee34125C4b0906A675"
+}

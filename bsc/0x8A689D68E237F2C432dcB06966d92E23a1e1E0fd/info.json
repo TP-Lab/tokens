@@ -1,0 +1,21 @@
+{
+ 
+ "name": "DNFT",
+ 
+ "website": "www.dnftfinance.com",
+
+ "description": "Dnft protocol is an NFT for Web 3.0, which allows users to cast and trade across blocks to manage their NFT assets. Encrypted NFT games and meta universe assets are presented through the concept of dnft. Anyone can obtain token rewards through their contribution to the ecosystem.",
+ 
+ "explorer":"https://bscscan.com/token/0x8a689d68e237f2c432dcb06966d92e23a1e1e0fd",
+ 
+"type": "BEP20",
+ 
+"symbol": "DNFT",
+ 
+"decimals": 18,
+
+ "status": "active",
+ 
+"id": "0x8a689d68e237f2c432dcb06966d92e23a1e1e0fd"
+
+}

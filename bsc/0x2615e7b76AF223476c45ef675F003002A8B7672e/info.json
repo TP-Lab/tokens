@@ -1,0 +1,11 @@
+{
+ "name": "Coke Dog Coin",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x2615e7b76AF223476c45ef675F003002A8B7672e",
+ "type": "BSC20",
+ "symbol": "Coke Dog",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2615e7b76AF223476c45ef675F003002A8B7672e"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Fantasy Space Iron",
+ "website": "https://fantasyspace.io",
+ "description": "Fantasy Space is a Metaverse BlockChain game. the hunting grounds will provide you with sufficient iron,which will be necessities witnessing your conquest of the Fantasy Space.",
+ "explorer": "https://bscscan.com/token/0x7317466550586f1eeC20Fcbe3c0C68A570111786",
+ "type": "BEP20",
+ "symbol": "FSI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7317466550586f1eeC20Fcbe3c0C68A570111786"
+}

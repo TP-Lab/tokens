@@ -1,0 +1,11 @@
+{
+ "name": "Vortex Protocol",
+ "website": "http://torah.ink",
+ "description": "Nodes in the Torah network can rent storage space to each other.",
+ "explorer": "https://bscscan.com/token/0xdfff7b414efd6e2d29669d157423c00c98699b8a",
+ "type": "BEP20",
+ "symbol": "VP",
+ "decimals": 11,
+ "status": "active",
+ "id": "0xDfff7b414eFd6e2d29669D157423C00c98699b8A"
+}

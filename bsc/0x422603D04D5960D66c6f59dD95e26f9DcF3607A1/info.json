@@ -1,0 +1,11 @@
+{
+  "name": "BinaHunter",
+  "website": "https://www.binahunter.com/",
+  "description": "The Binahunter ecosystem must be a full De-Game-Fi platform. Users make profits while having fun. The comprehensive ecosystem comprises Binahunter RPG game,NFT Farming, and Marketplace. More than a game,Binahunter also has a strong community helping players on investing activites to earn money from game.",
+  "explorer": "https://bscscan.com/token/0x422603D04D5960D66c6f59dD95e26f9DcF3607A1",
+  "type": "BEP20",
+  "symbol": "BHUNT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x422603D04D5960D66c6f59dD95e26f9DcF3607A1"
+}

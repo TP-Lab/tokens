@@ -1,0 +1,11 @@
+{
+ "name": "BtMiracles",
+ "website": "https://btmiracles.com/",
+ "description": " Dedicated to providing fun and profitable NFT treats for BtMiracles players.",
+ "explorer": "https://bscscan.com/token/0x3De90aac2dE63981b441Ba84F48BD063C158e566",
+ "type": "BEP20",
+ "symbol": "BM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3De90aac2dE63981b441Ba84F48BD063C158e566"
+}

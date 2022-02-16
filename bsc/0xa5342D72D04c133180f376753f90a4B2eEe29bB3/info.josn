@@ -1,0 +1,11 @@
+{
+ "name": "Decentralized Mining Coin",
+ "website": "https://www.dmex.finance/#/",
+ "description": "DMEX (Decentralized Mining Exchange) is a decentralized crypto mining service platform.",
+ "explorer": "https://bscscan.com/token/0xa5342D72D04c133180f376753f90a4B2eEe29bB3",
+ "type": "BEP20",
+ "symbol": "DMC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa5342D72D04c133180f376753f90a4B2eEe29bB3"
+}

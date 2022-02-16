@@ -1,0 +1,11 @@
+{
+ "name": "star星球币",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0xBA460466Dd8e6d5Ea54D661115F454983C5A07b4",
+ "type": "BSC20",
+ "symbol": "STR",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xBA460466Dd8e6d5Ea54D661115F454983C5A07b4"
+}

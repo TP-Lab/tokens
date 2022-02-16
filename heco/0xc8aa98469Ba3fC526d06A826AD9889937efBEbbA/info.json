@@ -1,0 +1,11 @@
+{
+    "name": "HTS Token",
+    "website": "https://safemars.fi/",
+    "description": "HTS, Maintaining the Highest Standards of Security and Innovation.",
+    "explorer": "https://hecoinfo.com/token/0xc8aa98469ba3fc526d06a826ad9889937efbebba",
+    "type": "HRC-20",
+    "symbol": "HTS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc8aa98469Ba3fC526d06A826AD9889937efBEbbA"
+}

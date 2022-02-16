@@ -1,0 +1,11 @@
+{
+ "name": "Meta Box Token",
+ "website": "https://meta-box.app",
+ "description": "BNB Mbt is an NFT Metaverse game ecological gathering platform  focusing on the ecology of the game competition of the Metaverse card game sector",
+ "explorer": "https://bscscan.com/token/0x073B0246662E3615116868A95A9Af6F486512Fde",
+ "type": "BEP20",
+ "symbol": "MBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x073B0246662E3615116868A95A9Af6F486512Fde"
+}

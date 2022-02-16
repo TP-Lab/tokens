@@ -1,0 +1,11 @@
+{
+ "name": "Red Bull",
+ "website": "http://www.redbull.top/",
+ "description": "Red Bull Token is a decentralized token released on BSC. After it goes online, the Dapp application will be released synchronously.",
+ "explorer": "https://bscscan.com/token/0x156B07F3D4a58272b7ce537C5F3100262c590cE7",
+ "type": "BEP20",
+ "symbol": "R B",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x156B07F3D4a58272b7ce537C5F3100262c590cE7"
+}

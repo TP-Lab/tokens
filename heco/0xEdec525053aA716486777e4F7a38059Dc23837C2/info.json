@@ -1,0 +1,11 @@
+{
+ "name": "Gold Chain",
+ "website": "http://www.gincoin.xyz",
+ "description": "Gin Digital Gold is co-sponsored by Singapore Gin Fund and global Community Alliance",
+ "explorer": "https://hecoinfo.com/token/0xEdec525053aA716486777e4F7a38059Dc23837C2",
+ "type": "HRC-20",
+ "symbol": "Gin",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEdec525053aA716486777e4F7a38059Dc23837C2"
+}

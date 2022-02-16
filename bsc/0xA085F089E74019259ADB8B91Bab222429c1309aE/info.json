@@ -1,0 +1,11 @@
+{
+ "name": "GameFi",
+ "website": "https://gamefishiba.io",
+ "description": "GameFi Shiba is a  game like Axie Infinity，play to earn for free！Players can through battles and tasks to get \"GameFi\"",
+ "explorer": "https://bscscan.com/token/0xA085F089E74019259ADB8B91Bab222429c1309aE",
+ "type": "BEP20",
+ "symbol": "GAMEFI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA085F089E74019259ADB8B91Bab222429c1309aE"
+}

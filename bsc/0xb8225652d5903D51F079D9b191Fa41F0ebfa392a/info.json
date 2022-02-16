@@ -1,0 +1,11 @@
+{
+ "name": "X10Legend",
+ "website": "https://xtlegends.com/",
+ "description": "X10 Legends uses a cutting edge technology called Blockchain to rewards players for their engagement.Each Legend is a unique NFT and can be traded freely in the market place.",
+ "explorer": "https://bscscan.com/token/0xb8225652d5903d51f079d9b191fa41f0ebfa392a",
+ "type": "BEP20",
+ "symbol": "XTL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb8225652d5903D51F079D9b191Fa41F0ebfa392a"
+}

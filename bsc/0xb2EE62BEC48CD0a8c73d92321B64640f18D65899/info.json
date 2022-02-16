@@ -1,0 +1,11 @@
+{
+ "name": "Pizza",
+ "website": "https://bscscan.com/token/0xb2EE62BEC48CD0a8c73d92321B64640f18D65899",
+ "description": "Pizza Token.",
+ "explorer": "https://bscscan.com/token/0xb2EE62BEC48CD0a8c73d92321B64640f18D65899",
+ "type": "BEP20",
+ "symbol": "Pizza",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb2EE62BEC48CD0a8c73d92321B64640f18D65899"
+}
