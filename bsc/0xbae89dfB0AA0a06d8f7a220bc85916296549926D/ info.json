@@ -1,0 +1,11 @@
+{
+ "name": "Apple Mini",
+ "website": "https://applemini.org",
+ "description": "Apple Mini is a DeFi comprehensive application platform on the BSC chain. The ecological basic token is Apple Mini, the symbol is APL, and the total circulation is 1.2 billion.",
+ "explorer": "https://bscscan.com/token/0xbae89dfb0aa0a06d8f7a220bc85916296549926d",
+ "type": "BEP20",
+ "symbol": "APL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbae89dfB0AA0a06d8f7a220bc85916296549926D"
+}
