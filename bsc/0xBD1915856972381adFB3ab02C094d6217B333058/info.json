@@ -1,0 +1,11 @@
+{
+ "name": "LOVE",
+ "website": "https://www.lovetoken.ink/",
+ "description": "LOVE",
+ "explorer": "https://bscscan.com/token/0xBD1915856972381adFB3ab02C094d6217B333058",
+ "type": "BEP20",
+ "symbol": "LOVE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xBD1915856972381adFB3ab02C094d6217B333058"
+}
