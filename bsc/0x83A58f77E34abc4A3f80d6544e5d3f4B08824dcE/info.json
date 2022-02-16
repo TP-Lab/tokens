@@ -1,0 +1,11 @@
+{
+ "name": "Fast Racing",
+ "website": "https://www.fastracing.io",
+ "description": "Fastracing is the world's first meta-universe racing game, a deep sense of experience of the game.",
+ "explorer": "https://bscscan.com/token/0x83A58f77E34abc4A3f80d6544e5d3f4B08824dcE",
+ "type": "BEP20",
+ "symbol": "F1",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x83A58f77E34abc4A3f80d6544e5d3f4B08824dcE"
+}
