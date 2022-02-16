@@ -1,0 +1,11 @@
+{
+  "name": "LuckyDoge",
+  "website": "https://luckydogecoin.com",
+  "description": "LuckyDoge is a community-focused, decentralized cryptocurrency with instant rewards thanks to active users!",
+  "explorer": "https://bscscan.com/address/0xeb9d312dfa237aa8d01dd521cc9d92873d7d8998",
+  "type": "BEP20",
+  "symbol": "LuckyDoge",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xEB9D312DfA237AA8D01dd521CC9D92873D7D8998"
+}
