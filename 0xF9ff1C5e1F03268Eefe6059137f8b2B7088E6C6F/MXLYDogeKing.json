@@ -1,0 +1,11 @@
+{
+ "name": "MXLY-DogeKing",
+ "website": "https://www.mxlydreamland.io/",
+ "description": "MXLY is a Meta place where you can do everything!",
+ "explorer": "https://bscscan.com/token/0xF9ff1C5e1F03268Eefe6059137f8b2B7088E6C6F",
+ "type": "BEP20",
+ "symbol": "MXLY-DogeKing",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xF9ff1C5e1F03268Eefe6059137f8b2B7088E6C6F"
+}
