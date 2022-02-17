@@ -1,0 +1,11 @@
+{
+ "name": "coolpeople",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xBFC9B01E8F4026CF9C118A5e8385C98b49dd3047",
+ "type": "BEP20",
+ "symbol": "coolpeople",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBFC9B01E8F4026CF9C118A5e8385C98b49dd3047"
+} 
