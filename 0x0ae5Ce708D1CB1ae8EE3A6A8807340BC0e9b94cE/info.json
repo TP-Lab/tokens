@@ -1,0 +1,11 @@
+{ 
+"name": "ODIN",
+"website": ""https://bscscan.com/token/0x0ae5Ce708D1CB1ae8EE3A6A8807340BC0e9b94cE",
+"description": "odin is a large scale multiplayer online simulation game ",
+"explorer": "https://bscscan.com/token/0x0ae5Ce708D1CB1ae8EE3A6A8807340BC0e9b94cE",
+"type": "BEP20",
+"symbol": "ODIN",
+"decimals": 9,
+"status": "active",
+"id": "0x0ae5Ce708D1CB1ae8EE3A6A8807340BC0e9b94cE"
+}
