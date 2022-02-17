@@ -1,0 +1,11 @@
+{
+ "name": "DogeFather",
+ "website": "https://dogefat.com",
+ "description": "DogeFather is a community owned Meme token, which aims to build a completely decentralized ecosystem.",
+ "explorer": "https://bscscan.com/token/0x15E2BFF3AB5dcF1F7b5b854636939F3649ce3cf8",
+ "type": "BEP20",
+ "symbol": "FATHER",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x15E2BFF3AB5dcF1F7b5b854636939F3649ce3cf8"
+}
