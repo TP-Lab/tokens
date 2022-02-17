@@ -1,0 +1,11 @@
+{
+ "name": "SmartRocks",
+ "website": "http://smartrocks.app",
+ "description": "A smart token based on the SD2.0 protocol has an infinitely rising base price pool, and the transaction can make its base price continue to rise, and it also has a loan agreement.",
+ "explorer": "https://bscscan.com/token/0xE6A2de529CE13753e83F7C1aaCAb5653276D99EA",
+ "type": "BEP20",
+ "symbol": "SRS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xE6A2de529CE13753e83F7C1aaCAb5653276D99EA"
+}
