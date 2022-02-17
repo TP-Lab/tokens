@@ -1,0 +1,11 @@
+{
+ "name": "peopledao",
+ "website": "http://peopledao.niunyx.cn/ ",
+ "description": "People DAO将平凡的人聚集在一起，把权力回归给社区成员，大家为共同的目标付出一份力量，从而实现强大共识，打造一个没有输家的DAO组织。peopledao代币是整个生态的平台币，也是第一个母币。发行总量稀少，总共一百万个，并且永不增发",
+ "explorer": "https://bscscan.com/token/0xAac485467044bD3391decDB6352F4F3eBB24Eb23",
+ "type": "BEP20",
+ "symbol": "PPDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAac485467044bD3391decDB6352F4F3eBB24Eb23"
+}
