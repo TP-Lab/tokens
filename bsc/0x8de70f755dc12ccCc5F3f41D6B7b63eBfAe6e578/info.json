@@ -1,0 +1,11 @@
+{
+    "name":"Catking Token",
+    "website":"https://realcatking.com",
+    "description":"A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+    "explorer":"https://bscscan.com/token/0x8de70f755dc12ccCc5F3f41D6B7b63eBfAe6e578",
+    "type":"BEP20",
+    "symbol":"Catking",
+    "decimals":4,
+    "status":"active",
+    "id":"0x8de70f755dc12ccCc5F3f41D6B7b63eBfAe6e578"
+}
