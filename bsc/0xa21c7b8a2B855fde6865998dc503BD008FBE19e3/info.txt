@@ -1,0 +1,11 @@
+{
+ "name": "The Dinosaur Doge",
+ "website": "",
+ "description": "Animal coin Mesozoic Super Mutant dog, the only species in Pangea, dinosaur dog",
+ "explorer": "https://bscscan.com/token/0xa21c7b8a2B855fde6865998dc503BD008FBE19e3",
+ "type": "BEP20",
+ "symbol": "TDD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xa21c7b8a2B855fde6865998dc503BD008FBE19e3"
+}
