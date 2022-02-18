@@ -1,0 +1,11 @@
+{
+ "name": "Grand Alliance",
+ "website": "https://www.grandleague.pro",
+ "description": "SDLM is based on the DEFI protocol token issued on BSC and initiated by the Shanda Legend Games Alliance. The ultimate deflation mechanism, creating a completely decentralized DAO platform, and developing multi-chain ecological layouts such as on-chain NFT, chain games, and metaverse in the future!",
+ "explorer": "https://bscscan.com/address/0x612940dfCa2B312e453Adf5D2b7a5fb5cc0C3096",
+ "type": "BEP20",
+ "symbol": "SDLM",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x612940dfCa2B312e453Adf5D2b7a5fb5cc0C3096"
+}
