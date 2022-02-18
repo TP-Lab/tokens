@@ -1,0 +1,11 @@
+{
+ "name": "CHE",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://hecoinfo.com/token/0x6f8460476BaCB3125d4726B7670b65A69900948C",
+ "type": "HRC20",
+ "symbol": "CHE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6f8460476BaCB3125d4726B7670b65A69900948C"
+}
