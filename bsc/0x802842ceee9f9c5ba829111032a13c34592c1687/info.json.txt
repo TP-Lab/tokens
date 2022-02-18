@@ -1,6 +1,6 @@
 {
  "name": "BTCking",
- "website": "https://t.me/BTCKING688",
+ "website": "https://bscscan.com/token/0x802842ceee9f9c5ba829111032a13c34592c1687",
  "description": "Bitking pays 10% real-time dividends to BTC! Cash dividends!Btcking (King of bitcoin) dividends BTC!!!
 
 Bitcoin can't afford bitcoin, so it's great to buy a bitcoin miner that pays dividends on bitcoin, produce bitcoin every hour, and lie down every day to earn bitcoin",
