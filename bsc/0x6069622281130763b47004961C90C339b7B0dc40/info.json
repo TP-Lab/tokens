@@ -1,0 +1,11 @@
+{
+    "name": "BULLA Token",
+    "website": "https://bscscan.com/address/0x6069622281130763b47004961C90C339b7B0dc40",
+    "description": "BULLA TOKEN.",
+    "explorer": "https://bscscan.com/address/0x6069622281130763b47004961C90C339b7B0dc40",
+    "type": "BEP20",
+    "symbol": "BULLA",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x6069622281130763b47004961C90C339b7B0dc40"
+   }
