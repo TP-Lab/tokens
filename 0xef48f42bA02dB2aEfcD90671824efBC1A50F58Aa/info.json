@@ -1,0 +1,11 @@
+{
+ "name": "BNBDOGECOIN",
+ "website": "https://www.bnbdogecoin.com",
+ "description": "BNBDOGE will open new markets.",
+ "explorer": "https://bscscan.com/token/0xef48f42bA02dB2aEfcD90671824efBC1A50F58Aa",
+ "type": "BEP20",
+ "symbol": "BNBDOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xef48f42bA02dB2aEfcD90671824efBC1A50F58Aa"
+}
