@@ -1,0 +1,11 @@
+{
+ "name": "MetaDoge V2",
+ "website": "https://metadoge.uk/",
+ "description": "xperience The Most Exciting Metaverse Journey With MetaDoge & His Friends.",
+ "explorer": "https://bscscan.com/token/0x9953170dcaac530ad7d6949c7295207c6ec5669d",
+ "type": "BEP20",
+ "symbol": "METADOGEV2",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9953170dcAac530AD7D6949c7295207c6ec5669D"
+}
