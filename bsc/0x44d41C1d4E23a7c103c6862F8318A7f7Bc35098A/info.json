@@ -1,0 +1,11 @@
+{
+  "name": "BSC East Data Cloud",
+  "website": "http://meng-li-fang.com/",
+  "description": "BSC East Data Cloud",
+  "explorer": "https://bscscan.com/address/0x44d41C1d4E23a7c103c6862F8318A7f7Bc35098A",
+  "type": "BEP20",
+  "symbol": "BEDC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x44d41C1d4E23a7c103c6862F8318A7f7Bc35098A"
+}
