@@ -1,0 +1,11 @@
+{
+ "name": "Redheart",
+ "website": "https://www.redheart.top/",
+ "description": "Redheart is a community coin. The total amount is 1688 pieces, and each person can only hold 5 pieces, which cannot be changed!",
+ "explorer": "https://bscscan.com/address/0xa8137f2bd5b4b7d35602025d8877d6ca3fa3c196",
+ "type": "BEP20",
+ "symbol": "💝",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xA8137f2BD5B4b7D35602025d8877d6cA3FA3c196"
+}
