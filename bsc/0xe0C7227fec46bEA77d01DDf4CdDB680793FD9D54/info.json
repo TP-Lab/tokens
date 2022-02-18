@@ -1,0 +1,11 @@
+{
+  "name": "My Kingdom",
+  "website": "https://www.mykingdom.io",
+  "description": "MYKINGDOM is a free P2E game that will send players searching for lost NFTs in an ancient virtual world of great civilizations, combining blockchain's new play-to-earn gaming model, gorgeous visuals, and advanced character customization in an expansive 3D fantasy world, where players can earn crypto as they delve into the Mysteries of the Ancient World.\n\n \n\nThe MYKINGDOM Metaverse's thriving economy is supported by a variety of assets (NFTs). In order to fully enjoy the game experience, players are encouraged to stake their MYK tokens and NFTs. Anyone can earn tokens in the Ancient World-inspired cosmos by playing skilfully and contributing to the ecology. Players can use NFTs to fight, explore, gather, stake, buy, and sell land, treasures, cards, and other in-game commodities. The open-world metaverse will let players to create their own kingdoms, decorate them, and invite other players to visit them. With breathtaking visuals, adrenaline-fueled battles, fascinating objectives, and advanced character advancement and customization, the goal is to take P2E gaming to new heights.",
+  "explorer": "https://bscscan.com/token/0xe0C7227fec46bEA77d01DDf4CdDB680793FD9D54",
+  "type": "BEP20",
+  "symbol": "MYK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe0C7227fec46bEA77d01DDf4CdDB680793FD9D54"
+}
