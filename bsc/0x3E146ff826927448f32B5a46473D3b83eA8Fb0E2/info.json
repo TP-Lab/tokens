@@ -1,0 +1,11 @@
+{
+"name": "SolarCity",
+"website": "-",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0x3E146ff826927448f32B5a46473D3b83eA8Fb0E2",
+"type": "BEP20",
+"symbol": "SOLT",
+"decimals": 18,
+"status": "active",
+"id": "0x3E146ff826927448f32B5a46473D3b83eA8Fb0E2"
+}

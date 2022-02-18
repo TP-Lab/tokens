@@ -1,0 +1,11 @@
+{
+ "name": "World NFT  ",
+ "website": "https://www.uninft.info",
+ "description": "Let more people participate in WNFT.",
+ "explorer": "https://bscscan.com/address/0xf31A8B35508553FF5b9E995d08D912991223890E",
+ "type": "BEP20",
+ "symbol": "WNFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf31A8B35508553FF5b9E995d08D912991223890E"
+}

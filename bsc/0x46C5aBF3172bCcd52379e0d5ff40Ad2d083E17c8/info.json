@@ -1,0 +1,11 @@
+{
+ "name": "DAO King",
+ "website": "https://daoking.org",
+ "description": "In order to commemorate the global war epidemic in 2021, the anti-epidemic actions of the future world, and the inaction of the main body in power, those who survived the raging virus set up DAOKing.",
+ "explorer": "https://bscscan.com/token/0x46C5aBF3172bCcd52379e0d5ff40Ad2d083E17c8",
+ "type": "BEP20",
+ "symbol": "DAOKing",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x46C5aBF3172bCcd52379e0d5ff40Ad2d083E17c8"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Perpetual Motion",
+ "website": "https://www.ppmtoken.com/",
+ "description": "PPM TOKEN is the governance, incentive and application TOKEN of perpetual motion machines.",
+ "explorer": "https://bscscan.com/token/0x20202a82ba52d40b4db0ac224c16b03ad04f46d2",
+ "type": "BEP20",
+ "symbol": "PPM",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x20202a82ba52D40b4db0Ac224c16b03AD04f46D2"
+}
