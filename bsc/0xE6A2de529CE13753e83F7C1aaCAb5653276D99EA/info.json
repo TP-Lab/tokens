@@ -1,0 +1,11 @@
+{
+ "name": "SMARTDeFi",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xe6a2de529ce13753e83f7c1aacab5653276d99ea",
+ "type": "BSC20",
+ "symbol": "SRS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xE6A2de529CE13753e83F7C1aaCAb5653276D99EA"
+}
