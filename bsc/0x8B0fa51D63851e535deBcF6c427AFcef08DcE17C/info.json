@@ -7,5 +7,32 @@
     "symbol": "LIFE",
     "decimals": 18,
     "status": "active",
-    "id": "0x8B0fa51D63851e535deBcF6c427AFcef08DcE17C"
+    "id": "0x8B0fa51D63851e535deBcF6c427AFcef08DcE17C",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/LifeInfinity_io"
+        },
+         {
+            "name": "telegram group",
+            "url": "https://t.me/LIFEINFINITYMETAVERSE"
+        },
+         {
+            "name": "telegram channel",
+            "url": "https://t.me/lifeinfinity_news"
+        },
+         {
+            "name": "discord",
+            "url": "https://discord.gg/2N3PDXJFb4"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@lifeinfinity_team"
+        },
+         {
+            "name": "White paper",
+            "url": "https://www.lifeinfinity.io/static/media/Life_Infinity_WP(EN)_v3.0.012ad41e.pdf"
+        }
+    ],
+    "tags": ["Metaverse","Gamefi","NFT","Game","DAO","BSC","BNB Chain","Cross Chain"]
 }
