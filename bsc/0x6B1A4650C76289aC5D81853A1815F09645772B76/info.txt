@@ -1,0 +1,12 @@
+
+{ 
+"name": "FuckStarbucks",
+"website": "https://bscscan.com/token/0x6B1A4650C76289aC5D81853A1815F09645772B76",
+"description": "Don't like Starbucks ",
+"explorer": "https://bscscan.com/token/0x6B1A4650C76289aC5D81853A1815F09645772B76",
+"type": "BEP20",
+"symbol": "FuckStarbucks",
+"decimals": 9,
+"status": "active",
+"id": "0x6B1A4650C76289aC5D81853A1815F09645772B76"
+}
