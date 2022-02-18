@@ -1,0 +1,11 @@
+{
+ "name": "JESUS",
+ "website": "https://panguyesu.com",
+ "description": "JESUS是FstSwap首个股东奖励机制项目,由盘古社区核心成员组成。",
+ "explorer": "https://bscscan.com/token/0x83a516b768672866b223BE40dca276C302d110C1",
+ "type": "BEP20",
+ "symbol": "JESUS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x83a516b768672866b223BE40dca276C302d110C1"
+}
