@@ -1,0 +1,11 @@
+{
+ "name": "Super Fist King",
+ "website": "https://FistKing.vip",
+ "description": "Super Fist King",
+ "explorer": "https://bscscan.com/address/0x4e26900410b27D8fDE5c5c79a5139Ec720cd82Da",
+ "type": "BEP20",
+ "symbol": "Fist King",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4e26900410b27D8fDE5c5c79a5139Ec720cd82Da"
+}
