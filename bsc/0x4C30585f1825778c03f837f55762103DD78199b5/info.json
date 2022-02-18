@@ -1,0 +1,11 @@
+{
+ "name": "DEM",
+ "website": "https://www.crazyfarm.net/",
+ "description": "CrazyFarm is a chain game platform based on a decentralized income farm. Its contracts are deployed on Binance Smart Chain and aim to combine games and digital collectibles to build a high-performance composite Metaverse ecosystem. In CrazyFarm, players can combine entertainment and profitability through pet battles and farm farming, raising pets, or growing farmland. Each NFT pet in Crazy Farm has a unique identity and is highly collectible. EDM is Crazy Farm's governance token. Holders of DEM and DEC earn DEM rewards by staking tokens.",
+ "explorer": "https://bscscan.com/address/0x4C30585f1825778c03f837f55762103DD78199b5",
+ "type": "BEP20",
+ "symbol": "DEM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4C30585f1825778c03f837f55762103DD78199b5"
+}
