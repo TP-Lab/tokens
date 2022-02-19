@@ -1,0 +1,11 @@
+{
+ "name": "GMC ",
+"website": "https://bscscan.com/token/0x706cD9d172295E584d9867954b3cAE12FBc21fA3",
+ "description": " BSC, GMC",
+ "explorer": "https://bscscan.com/token/0x706cD9d172295E584d9867954b3cAE12FBc21fA3",
+ "type": "BEP20",
+ "symbol": "GMC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x706cD9d172295E584d9867954b3cAE12FBc21fA3"
+}
