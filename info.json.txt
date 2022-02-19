@@ -1,0 +1,11 @@
+{
+ "name": "FIStsp",
+ "website": "https://www.fistsp.com",
+ "description": "Fist Shenquan series first, Pangu community to make tokens.",
+ "explorer": "https://bscscan.com/token/0x470aae2db7eb523136dd01a55f2dfcfe7c1d4d59",
+ "type": "BEP20",
+ "symbol": "FISTSQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x470AaE2dB7Eb523136dD01a55f2dfCfE7C1D4D59"
+}
