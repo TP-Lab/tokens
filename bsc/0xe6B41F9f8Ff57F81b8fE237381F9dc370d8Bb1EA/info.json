@@ -1,0 +1,11 @@
+{
+ "name": "PIPA",
+ "website": "https://www.mucnft.io",
+ "description": "PIPA是MUCNFT音乐社区唯一治理令牌，总量10000枚，无预留无私募，100%流动性产出。",
+ "explorer": "https://bscscan.com/token/0xe6B41F9f8Ff57F81b8fE237381F9dc370d8Bb1EA",
+ "type": "BEP20",
+ "symbol": "PIPA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe6B41F9f8Ff57F81b8fE237381F9dc370d8Bb1EA"
+}
