@@ -1,0 +1,11 @@
+{
+ "name": "OKFI Token",
+ "website": "https://okfi.cc",
+ "description": "OKFI the most secure and efficient integrated financial services platform",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x55DcFa00AbCC38F0cCC09cdbB34968169D5232ca",
+ "type": "KIP20",
+ "symbol": "OFI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x55DcFa00AbCC38F0cCC09cdbB34968169D5232ca"
+}

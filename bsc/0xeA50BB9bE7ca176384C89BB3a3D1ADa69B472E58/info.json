@@ -1,0 +1,11 @@
+{
+ "name": "Alien",
+ "website": "www.alientoken.vip",
+ "description": "BSC TOKEN",
+ "explorer": "https://bscscan.com/token/0xeA50BB9bE7ca176384C89BB3a3D1ADa69B472E58",
+ "type": "BSC",
+ "symbol": "Alien",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xeA50BB9bE7ca176384C89BB3a3D1ADa69B472E58"
+}

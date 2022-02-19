@@ -1,0 +1,11 @@
+{
+ "name": "Legend Of Gods",
+ "website": "https://nft-gods.com",
+ "description": "The first decentralization TCG Dapp with global gods culture.",
+ "explorer": "https://bscscan.com/token/0x503464B0F3b4074cde40D532419cE0a779538fBf",
+ "type": "BEP20",
+ "symbol": "LG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x503464B0F3b4074cde40D532419cE0a779538fBf"
+}

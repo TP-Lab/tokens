@@ -1,0 +1,11 @@
+{
+ "name": "Heluim-3",
+ "website": "https://helium-3.io",
+ "description": "ESG is the virtual space meta-universe + GameFi chain game platform token running on Binance Chain. Heluim-3 It has rich gameplay, Hash quiz, NFT auction, aggregate virtual spacecraft, etc., allowing players to experience meta-universe immersively and explore the future.",
+ "explorer": "https://bscscan.com/token/0x25F971c76593d0b9dA578777675828c3880C32E3",
+ "type": "BEP20",
+ "symbol": "ESG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x25F971c76593d0b9dA578777675828c3880C32E3"
+}

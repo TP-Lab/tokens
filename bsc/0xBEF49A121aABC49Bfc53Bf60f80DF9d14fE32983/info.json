@@ -1,0 +1,11 @@
+{
+    "name": "Rlink Token",
+    "website": "https://rlink.link/#/",
+    "description": "RLT，全称RLink Token,是RLink唯一的权益代币。Rlink是全球首个完全去中心化的推荐关系和返佣的预言机。",
+    "explorer":"https://bscscan.com/token/0xBEF49A121aABC49Bfc53Bf60f80DF9d14fE32983",
+    "type": "BEP20",
+    "symbol": "RLT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBEF49A121aABC49Bfc53Bf60f80DF9d14fE32983"
+}

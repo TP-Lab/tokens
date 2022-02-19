@@ -1,0 +1,11 @@
+{
+ "name": "Super Bounty",
+ "website": "-",
+ "description": "Super Bounty(SUB) is a highly autonomous, decentralized, fair and just ecological community.",
+ "explorer": "https://bscscan.com/token/0x35FECF1908B7BB8Dc751e8D4641D3Ee92FA50A0c",
+ "type": "BEP20",
+ "symbol": "SUB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x35FECF1908B7BB8Dc751e8D4641D3Ee92FA50A0c"
+}

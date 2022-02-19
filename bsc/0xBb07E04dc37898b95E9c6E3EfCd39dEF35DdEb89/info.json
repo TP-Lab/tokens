@@ -1,0 +1,11 @@
+{
+  "name": "TUB",
+  "website": "http://21000.one/",
+  "description": "TUB",
+  "explorer": "https://bscscan.com/token/0xBb07E04dc37898b95E9c6E3EfCd39dEF35DdEb89",
+  "type": "BEP20",
+  "symbol": "TUB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xBb07E04dc37898b95E9c6E3EfCd39dEF35DdEb89"
+}

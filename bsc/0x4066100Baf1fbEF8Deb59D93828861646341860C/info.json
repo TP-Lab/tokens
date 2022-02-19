@@ -1,0 +1,11 @@
+{
+ "name": "Great Diggings Coalition",
+ "website": "http://www.gdccoin.xyz/",
+ "description": "GDC is a decentralized deflationary currency based on the Binance ecological chain. Every transfer transaction will be tax deducted by 5%, 3% will be destroyed, and 2% will be distributed to all holders. It is fully autonomous by the community.",
+ "explorer": "https://bscscan.com/token/0x4066100baf1fbef8deb59d93828861646341860c",
+ "type": "BEP20",
+ "symbol": "GDC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4066100Baf1fbEF8Deb59D93828861646341860C"
+}

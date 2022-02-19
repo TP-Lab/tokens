@@ -1,0 +1,11 @@
+{
+ "name": "NewOriginToken",
+ "website": "http://noctoken.com",
+ "description": "New Origin combining the two major blockchain categories of NFT and Metaverse, aims to build a decentralized online virtual reality game platform, integrating characters, props and life storylines into virtual social networking, and players can buy weapons, war armor and prop gems in the virtual world.Participate in different collection, cultivation, virtual life, action and other games.",
+ "explorer": "https://bscscan.com/token/0x0e6457233baA6477F660666624Dc29d8e88d9fdf",
+ "type": "ERC20",
+ "symbol": "NOC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0e6457233baA6477F660666624Dc29d8e88d9fdf"
+}

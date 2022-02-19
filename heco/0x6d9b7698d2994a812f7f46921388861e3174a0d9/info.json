@@ -1,0 +1,11 @@
+{
+ "name": "China Usual Coin",
+ "website": "https://www.cuctoken.cn",
+ "description": "CUC is a representative masterpiece of NFT market, which is mainly used in intellectual property, art and other fields.",
+ "explorer": "https://hecoinfo.com/token/0x6d9b7698d2994a812f7f46921388861e3174a0d9",
+ "type": "HECO",
+ "symbol": "CUC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6d9b7698d2994a812f7f46921388861e3174a0d9"
+} 

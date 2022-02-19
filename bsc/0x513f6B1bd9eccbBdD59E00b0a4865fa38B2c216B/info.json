@@ -1,0 +1,11 @@
+{
+ "name": "Stinky Cobbler",
+ "website": "https://sctoken.pro",
+ "description": "SC is the leading decentralized community autonomy token that solves various pain points of the Difi project.",
+ "explorer": "https://bscscan.com/token/0x513f6b1bd9eccbbdd59e00b0a4865fa38b2c216b",
+ "type": "BEP20",
+ "symbol": "SC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x513f6B1bd9eccbBdD59E00b0a4865fa38B2c216B"
+}

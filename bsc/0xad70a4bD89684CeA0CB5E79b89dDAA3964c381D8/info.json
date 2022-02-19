@@ -1,0 +1,11 @@
+{
+ "name": "NFTORCH Active Token",
+ "website": "nftorch-defi.net",
+ "description": "A leading decentralized mining protocol",
+ "explorer": "https://bscscan.com/token/0xad70a4bD89684CeA0CB5E79b89dDAA3964c381D8",
+ "type": "BEP20",
+ "symbol": "ACT_NFTORCH",
+ "decimals": 0,
+ "status": "active",
+ "id": "0xad70a4bD89684CeA0CB5E79b89dDAA3964c381D8"
+}

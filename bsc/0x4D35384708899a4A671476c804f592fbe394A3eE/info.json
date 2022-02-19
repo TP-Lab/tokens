@@ -1,0 +1,11 @@
+{
+ "name": "CoinShop",
+ "website": "https://coinshop.com",
+ "description": "CoinShop-BTC Shopping APP",
+ "explorer": "https://www.bscscan.com/token/0x4D35384708899a4A671476c804f592fbe394A3eE",
+ "type": "BEP20",
+ "symbol": "SHOP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4D35384708899a4A671476c804f592fbe394A3eE"
+}

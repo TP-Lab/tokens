@@ -1,0 +1,11 @@
+{
+ "name": "TITANIUM",
+ "website": "www.cosmicsource.io",
+ "description": "宇宙源是一款科幻游戏，旨在为用户提供有趣宇宙探索的游戏，通过收集工人和飞船在宇宙中旅行，寻找TIT，这种矿物可以让他们多活一天，并在途中获得一些利润。TIT的原生货币",
+ "explorer": "https://bscscan.com/token/0xC82B02C661a0e38bAF0A890Cf020ed97F09FBfEF",
+ "type": "BSC20",
+ "symbol": "TIT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xC82B02C661a0e38bAF0A890Cf020ed97F09FBfEF"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "King of Kings",
+    "website": "http://koro.fund/",
+    "description": "King of Kings，burning King",
+    "explorer": "https://bscscan.com/address/0xdc4f60d5ff7840b47798d853ef634353e2da6bdf",
+    "type": "BEP20",
+    "symbol": "KOK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xDc4F60D5ff7840B47798D853eF634353e2da6BdF"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Super Minesweeper",
+ "website": "https://smcoin.info",
+ "description": "Blockchain version of Super Minesweeper. It integrates NFT and DeFi gameplay.",
+ "explorer": "https://bscscan.com/token/0x119f095a45df2a77337042bcc4f2e52fa6e7e881",
+ "type": "BEP20",
+ "symbol": "SM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x119f095a45df2a77337042bcc4f2e52fA6e7e881"
+}

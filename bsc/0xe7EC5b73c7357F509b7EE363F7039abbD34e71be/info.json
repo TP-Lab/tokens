@@ -1,0 +1,11 @@
+{
+ "name": "Emerald Oculus",
+ "website": "https://www.emeoculus.com",
+ "description": "EME designed to increase the capital of Binance Smart Chain-based decentralized projects.",
+ "explorer": "https://bscscan.com/token/0xe7EC5b73c7357F509b7EE363F7039abbD34e71be",
+ "type": "BEP20",
+ "symbol": "EME",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe7EC5b73c7357F509b7EE363F7039abbD34e71be"
+}

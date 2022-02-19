@@ -1,0 +1,11 @@
+{
+ "name": "HOLL Token",
+ "website": "https://bscscan.com/token/0x8F59508ba90A24A5eeaa5C68499e8B5D3bA9ae3e",
+ "description": "HOLL TOKEN",
+ "explorer": "https://bscscan.com/token/0x8F59508ba90A24A5eeaa5C68499e8B5D3bA9ae3e",
+ "type": "BEP20",
+ "symbol": "HOLL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8F59508ba90A24A5eeaa5C68499e8B5D3bA9ae3e"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Yj 00081000",
+ "website": "http://yijingbi.xyz/",
+ "description": "A BSC token about the Chinese I Ching culture",
+ "explorer": "https://bscscan.com/token/0xc7551b05ed2540FDe821064cdd945eB7b72a6363",
+ "type": "BEP20",
+ "symbol": "YJ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc7551b05ed2540FDe821064cdd945eB7b72a6363"
+}

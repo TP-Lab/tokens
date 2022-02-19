@@ -1,0 +1,13 @@
+{
+{
+ "name": "Pitayaswap",
+ "website": "https://pitayaswap.org/",
+ "description": "Pitayaswap is the explorer of defi 2.0, which is a decentralized exchange protocol based on OK public chain to gradually realize multi chain and cross chain aggregation",
+ "explorer": "https://www.oklink.com/okexchain/address/0x935aC027f9FBe97777bC1E1Ca9D5c238774744e4",
+ "type": "KIP20",
+ "symbol": "PTY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x935aC027f9FBe97777bC1E1Ca9D5c238774744e4"
+}
+}

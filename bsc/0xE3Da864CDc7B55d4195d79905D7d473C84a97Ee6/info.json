@@ -1,0 +1,11 @@
+{
+    "name": "JoinswapToken",
+    "website": "http://bsc.joinswap.me/",
+    "description": "JOINSWAP在BSC+HECO团队的支持下，致力于打造全球首个“会员制去中心化交易所”。以NFT技术实现“身份通证化”，从而形成全民合伙共创、共享、共赢的机制。",
+    "explorer": "https://bscscan.com/address/0xE3Da864CDc7B55d4195d79905D7d473C84a97Ee6",
+    "type": "BEP20",
+    "symbol": "JOIN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE3Da864CDc7B55d4195d79905D7d473C84a97Ee6"
+}

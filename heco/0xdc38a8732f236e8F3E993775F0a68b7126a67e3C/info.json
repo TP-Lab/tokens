@@ -1,0 +1,11 @@
+{
+    "name": "Meta-StarDream Along RainBow",
+    "website": "https://www.rainbowblock.cn",
+    "description": "星梦区块(DreamStar)成立于2018年初，是国内最年轻的区块链组织，核心成员来自国内多所高校。团队在应用上致力于行业生态与现实产业的结合，技术上则将眼光放至多技术间的联合应新，以此推动技术发展，打造星梦主生态。DSME，中文名:星梦元，为星梦生态链上通证。当下我们将以突破行业瓶颈和解决现实产业问题为目标，创新开拓星梦生态。在星梦主网上线之后我们将围绕着区块链底层技术与链上生态，实现精彩联动！",
+    "explorer": "https://hecoinfo.com/token/0xdc38a8732f236e8f3e993775f0a68b7126a67e3c",
+    "type": "HRC20",
+    "symbol": "DSME",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdc38a8732f236e8F3E993775F0a68b7126a67e3C"
+   }

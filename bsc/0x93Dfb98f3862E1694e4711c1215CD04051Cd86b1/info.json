@@ -1,0 +1,11 @@
+{
+ "name": "SGC",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x93Dfb98f3862E1694e4711c1215CD04051Cd86b1",
+ "type": "BSC20",
+ "symbol": "SGC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x93Dfb98f3862E1694e4711c1215CD04051Cd86b1"
+}

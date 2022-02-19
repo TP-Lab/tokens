@@ -1,0 +1,11 @@
+{
+ "name": "ZhanShen",
+ "website": "https://zhanshen.finance",
+ "description": "ZS 中文名战神，它是基于波场TRON链上的社区生态治理代币，总量仅10万枚，其旨利用DEFI去中心化模式打造万倍生态，后期搭建DEFI金融借贷及DAPP质押挖矿生态应用，促进TRON生态链和ZS的价值流通。",
+ "explorer": "https://tronscan.io/#/token20/TFFKmKpcXbUNXdEqTP1raJPyWB4wZUh7Wj",
+ "type": "TRC20",
+ "symbol": "ZS",
+ "decimals": 18,
+ "status": "active",
+ "id": "TFFKmKpcXbUNXdEqTP1raJPyWB4wZUh7Wj"
+}

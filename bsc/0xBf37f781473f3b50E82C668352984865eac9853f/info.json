@@ -1,0 +1,11 @@
+{
+"name": "The Crypto You",
+"website": "https://thecryptoyou.io",
+"description": "The first Baby Metaverse blockchain game based on Binance Smart Chain. Players can summon characters, complete daily mining missions, conquer the Dark Force, loot rare items to play and earn.",
+"explorer": "https://bscscan.com/token/0xBf37f781473f3b50E82C668352984865eac9853f",
+"type": "BEP20",
+"symbol": "MILK",
+"decimals": 18,
+"status": "active",
+"id": "0xBf37f781473f3b50E82C668352984865eac9853f"
+}

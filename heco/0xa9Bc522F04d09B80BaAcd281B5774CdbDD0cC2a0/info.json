@@ -1,0 +1,11 @@
+{
+ "name": "HuoHong Token",
+ "website": "https://huohongtoken.top",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/token/0xa9bc522f04d09b80baacd281b5774cdbdd0cc2a0",
+ "type": "HECO",
+ "symbol": "OSD",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xa9Bc522F04d09B80BaAcd281B5774CdbDD0cC2a0"
+}

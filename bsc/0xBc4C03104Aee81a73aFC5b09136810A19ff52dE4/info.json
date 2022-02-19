@@ -1,0 +1,11 @@
+{
+ "name": "Pocket Token",
+ "website": "https://www.pocketpckt.com/",
+ "description": "Pocket Doge is not just a coin, but a vision. At Pocket Doge, we are committed to transparency and innovation, dedicated to creating a space in the cryptosphere that reflects these core values. The Pocket Doge ecosystem is broad and inclusive, with visions of future projects that support and develop artists as well as giving back to communities in need.",
+ "explorer": "https://bscscan.com/token/0xBc4C03104Aee81a73aFC5b09136810A19ff52dE4",
+ "type": "BEP20",
+ "symbol": "PCKT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBc4C03104Aee81a73aFC5b09136810A19ff52dE4"
+}

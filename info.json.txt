@@ -1,0 +1,31 @@
+1{
+
+2
+"name": "GMRToken",
+
+3
+"website": "https://gmr.center",
+
+4
+"description": "A leading multi-chain wallet that supports BSC",
+
+5
+"explorer": "https://bscscan.com/token/0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884",
+
+6
+"type": "BEP20",
+
+7
+"symbol": "GMR",
+
+8
+"decimals": 18,
+
+9
+"status": "active",
+
+10
+"id": "0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884"
+
+11
+}

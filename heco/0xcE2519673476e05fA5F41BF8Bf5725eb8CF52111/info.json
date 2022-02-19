@@ -1,0 +1,11 @@
+{
+ "name": "wwcs Token",
+ "website": "http://www.wwcstoken.com/",
+ "description": "wwcs是基于火币链发行代币,总量1000万亿,10%的销毁分配比例为5%回流矿池,3%销毁,2%分给所有wwcs的持有者.",
+ "explorer": "https://hecoinfo.com/token/0xcE2519673476e05fA5F41BF8Bf5725eb8CF52111",
+ "type": "HRC20",
+ "symbol": "wwcs",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcE2519673476e05fA5F41BF8Bf5725eb8CF52111"
+}

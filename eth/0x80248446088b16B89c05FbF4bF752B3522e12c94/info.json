@@ -1,0 +1,11 @@
+{
+    "name": "ZTH",
+    "website": "https://www.id-fund.com",
+    "description": "ZTH is an ERC20 asset issued by Intellectual Day Financial Group.",
+    "explorer": "https://etherscan.io/token/0x80248446088b16B89c05FbF4bF752B3522e12c94",
+    "type": "ERC20",
+    "symbol": "ZTH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x80248446088b16B89c05FbF4bF752B3522e12c94"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Red Birb",
+ "website": "https://redbirb.co",
+ "description": "A deflationary token designed to become scarcer over time, whenever there is a trade within the Red Birb ecosystem, a percentage of that trade is taken to purchase $BIRB and redistribute it to our holders based on how much they hold.",
+ "explorer": "https://bscscan.com/address/0x0ed3ab9bd31cd062b2c0db2c8f2608fe544c385f",
+ "type": "BEP20",
+ "symbol": "Red Birb",
+ "decimals": 14,
+ "status": "active",
+ "id": "0x0Ed3aB9bD31cd062b2C0dB2c8f2608fe544C385F"
+}

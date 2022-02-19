@@ -1,0 +1,11 @@
+{
+ "name": "Upay_Token",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0xc376299783113Fca1E0C3CDD6acfD42941b15457",
+ "type": "BSC20",
+ "symbol": "Upay",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xc376299783113Fca1E0C3CDD6acfD42941b15457"
+}

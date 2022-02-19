@@ -1,0 +1,11 @@
+{
+ "name": "DeFiFox Coin",
+ "website": "https://defifox.io",
+ "description": "DeFiFox is a leveraged income aggregator focusing on the DeFi ecosystem, committed to building a complete ecological infrastructure of the public chain, allowing users to more conveniently use leverage to obtain higher returns.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x3aA2CECE4FD9B45a12c032871178A9d1C9694F07",
+ "type": "KIP20",
+ "symbol": "DFOX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3aA2CECE4FD9B45a12c032871178A9d1C9694F07"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "STG",
+ "website": "https://stgntf.com",
+ "description": "STG是基於BNB幣安生熊鏈建設的首個隋唐题材NFT项目，STG将成為BNB幣安生熊網絡上最具特色的NFT",
+ "explorer": "https://bscscan.com/token/0xb120fa40c09c0c38e61c5950650bbab45c46d017",
+ "type": "BEP20",
+ "symbol": "STG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb120fA40C09c0c38E61C5950650bbaB45C46D017"
+}

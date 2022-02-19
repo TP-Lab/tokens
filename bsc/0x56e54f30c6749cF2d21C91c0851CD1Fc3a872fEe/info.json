@@ -1,0 +1,11 @@
+{
+    "name": "Utopia",
+    "website": "http://unft.one/",
+    "description": "Hold $Utopia tokens, earn USDT.",
+    "explorer": "https://bscscan.com/token/0x56e54f30c6749cf2d21c91c0851cd1fc3a872fee",
+    "type": "BEP20",
+    "symbol": "UTP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x56e54f30c6749cF2d21C91c0851CD1Fc3a872fEe"
+   }

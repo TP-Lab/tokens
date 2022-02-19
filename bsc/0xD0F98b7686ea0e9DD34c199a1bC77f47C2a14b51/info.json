@@ -1,0 +1,11 @@
+{
+ "name": "Neuralink",
+ "website": "http://neuralinktoken.org/",
+ "description": "Neuralink 由社区驱动、公平启动的代币。公平开始，无团队保留，完全去中心化，完全社区自治。将陆续推出线上商店、NFT产品、在线游戏丰富使用场景。",
+ "explorer": "https://bscscan.com/address/0xd0f98b7686ea0e9dd34c199a1bc77f47c2a14b51",
+ "type": "BEP20",
+ "symbol": "Neuralink",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xd0f98b7686ea0e9dd34c199a1bc77f47c2a14b51"
+}

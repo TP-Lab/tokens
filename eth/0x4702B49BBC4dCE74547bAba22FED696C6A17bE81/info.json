@@ -1,0 +1,11 @@
+{
+ "name": "YFINSWAP",
+ "website": "https://yfinswap.com/",
+ "description": "YFINSWAP is the fork of Yearn Finance that open to everyone for staking, Liquidity mining, Yield Farming and many more!",
+ "explorer": "https://etherscan.io/token/0x4702b49bbc4dce74547baba22fed696c6a17be81",
+ "type": "ERC20",
+ "symbol": "YFIN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4702B49BBC4dCE74547bAba22FED696C6A17bE81"
+}

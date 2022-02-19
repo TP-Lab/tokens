@@ -1,0 +1,11 @@
+{
+ "name": "League of Legends",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x60fb50E4f4803199929B2b64A5d784FbcAb84CA6",
+ "type": "BSC20",
+ "symbol": "LOL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x60fb50E4f4803199929B2b64A5d784FbcAb84CA6"
+}

@@ -1,0 +1,11 @@
+ {
+  "name": "Etheric GOD",
+  "website": "https://egd.finance/",
+  "description": "EGD is a standalone financial system that combines models of decentralized financial instruments into a single infrastructure based on public blockchain and smart contracts.",
+  "explorer": "https://bscscan.com/token/0x8454C7aA69758344a0A2e18e00Ac65366e517Dc9",
+  "type": "BEP20",
+  "symbol": "EGD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8454C7aA69758344a0A2e18e00Ac65366e517Dc9"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "瑞达币",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x9F6b2Bb4738280fa66855A97E4F0CD77d142C682",
+ "type": "BSC20",
+ "symbol": "Ride",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x9F6b2Bb4738280fa66855A97E4F0CD77d142C682"
+}

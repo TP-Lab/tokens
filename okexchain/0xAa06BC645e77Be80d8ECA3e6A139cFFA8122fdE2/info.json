@@ -1,0 +1,11 @@
+{
+ "name": "Dematrix Token",
+ "website": "https://dematrix.info/",
+ "description": "Dematrix is a matrix of decentralized products based on digital encryption and blockchain.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xaa06bc645e77be80d8eca3e6a139cffa8122fde2",
+ "type": "KIP20",
+ "symbol": "DMX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAa06BC645e77Be80d8ECA3e6A139cFFA8122fdE2"
+}

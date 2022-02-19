@@ -1,0 +1,11 @@
+{
+ "name": "MVP Coin",
+ "website": "https://mvp-coin.com/",
+ "description": "MVP Coin is a decentralized rendering caravan and related service. Thailand’s First Travel Service Token Utilized.",
+ "explorer": "https://bscscan.com/token/0x3379a0bdf5a5cb566127c421782686ba0f80490a",
+ "type": "BEP20",
+ "symbol": "MVP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3379a0bdf5a5cb566127c421782686ba0f80490a"
+}

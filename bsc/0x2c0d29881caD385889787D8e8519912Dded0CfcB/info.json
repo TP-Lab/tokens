@@ -1,0 +1,11 @@
+{
+ "name": "AirCarCoin",
+ "website": "https://aircar.club",
+ "description": "Future City Transportation.",
+ "explorer": "https://bscscan.com/token/0x2c0d29881cad385889787d8e8519912dded0cfcb",
+ "type": "BEP20",
+ "symbol": "AC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x2c0d29881cad385889787d8e8519912dded0cfcb"
+}

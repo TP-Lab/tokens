@@ -1,0 +1,11 @@
+{
+    "name": "SUNS Token",
+    "website": "www.sunsbi.com",
+    "description": "SUNS is a community driven, Fair launched MeMe Token, No Team Allocation, 100% decentralized liquidity pool, No one own contract key. SUNS aims to establish a DeFi protocol of wealth redistribution",
+    "explorer": "https://hecoinfo.com/token/0xef517180a64cdbf7d5842db117007ce7c5bc2c53",
+    "type": "HRC20",
+    "symbol": "SUNS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xEF517180A64cDBF7D5842Db117007ce7C5BC2c53"
+}

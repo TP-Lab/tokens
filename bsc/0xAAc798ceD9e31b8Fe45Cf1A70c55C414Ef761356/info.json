@@ -1,0 +1,11 @@
+{
+ "name": "Binance universe",
+ "website": "www.BNV.com",
+ "description": "Binance Universe (BNV) is a community initiative that inspires and anchors BNB.",
+ "explorer": "https://bscscan.com/address/0xAAc798ceD9e31b8Fe45Cf1A70c55C414Ef761356",
+ "type": "BEP20",
+ "symbol": "BNV",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xAAc798ceD9e31b8Fe45Cf1A70c55C414Ef761356"
+}

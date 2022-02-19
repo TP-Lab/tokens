@@ -1,0 +1,11 @@
+{
+ "name": "DCPC",
+ "website": "https://bscscan.com/token/0x7c1CBC0Ea5D7E747bc0eA10C23B0E91dF2f85A0b",
+ "description": "DCPC is a kind of encrypted digital currency of copyright blockchain. It is composed of a system that provides rights and interests of content producers or institutions, communication monitoring, electronic forensics and digital content trading. An open cryptocurrency that can be distributed throughout the market and benefit content developers, users, publishers and disseminators. It will become a digital currency that meets the target market direction of content producers and markets. ",
+ "explorer": "https://bscscan.com/token/0x7c1CBC0Ea5D7E747bc0eA10C23B0E91dF2f85A0b",
+ "type": "BEP20",
+ "symbol": "DCPC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7c1CBC0Ea5D7E747bc0eA10C23B0E91dF2f85A0b"
+}

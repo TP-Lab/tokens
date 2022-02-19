@@ -1,0 +1,11 @@
+{
+ "name": "DigitalFund",
+ "website": "http://dgf.dgf.asia/default.html",
+ "description": "Digital Fund (DGF) is the world's first blockchain project that deeply integrates Metaverse, DeFi, and NFT. It is also a blockchain 3.0 super application project, creating the world's first Metaverse naked eye 3D game ecology. The DGF meta universe is very large in scale, consisting of 365 planet games, named after 365 "Feng Shen", and finally integrated the completed DGF universe community to create a virtual parallel world.",
+ "explorer": "https://bscscan.com/token/0xB13ED91A09342EC887F44e2D3E557efdaeE824cD",
+ "type": "BEP20",
+ "symbol": "DGF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB13ED91A09342EC887F44e2D3E557efdaeE824cD"
+}

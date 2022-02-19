@@ -1,0 +1,11 @@
+{
+ "name": "BabyDoge",
+ "website": "https://babydogecoin.com/",
+ "description": "Baby Doge has learned a few tricks and lessons from his father,DogeCoin.Baby Doge seeks to impress",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/ex1jagna966075swtrjeykcqq9smwgtzc79dl4zhs",
+ "type": "KIP20",
+ "symbol": "BabyDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x97513e975a7fa9072c72c92d8000b0db90b163c5"
+}

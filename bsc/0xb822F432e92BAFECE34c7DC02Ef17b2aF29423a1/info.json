@@ -1,0 +1,11 @@
+{
+ "name": "World Finance Equity Coin",
+ "website": "https://wfex.finance",
+ "description": "Decentralized exchanges",
+ "explorer": "https://bscscan.com/token/0xb822F432e92BAFECE34c7DC02Ef17b2aF29423a1",
+ "type": "BEP20",
+ "symbol": "WFEC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xb822F432e92BAFECE34c7DC02Ef17b2aF29423a1"
+}

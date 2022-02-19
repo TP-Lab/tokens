@@ -1,0 +1,11 @@
+{
+ "name": "Peace Dove Coin",
+ "website": "http://www.PeaceDoveCoin.com",
+ "description": "PDC Peace Dove is promoted by the community consensus of members of the World Peace Foundation and the Wall Street Finance team.use blockchain technology to build a decentralized public welfare and charity financial ecology.",
+ "explorer": "https://bscscan.com/token/0xA879B0a9d2C8be524490702013e0e882F5F55Ff8",
+ "type": "BEP20",
+ "symbol": "PDC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA879B0a9d2C8be524490702013e0e882F5F55Ff8"
+}

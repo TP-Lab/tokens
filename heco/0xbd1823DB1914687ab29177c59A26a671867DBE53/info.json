@@ -1,0 +1,11 @@
+{
+ "name": "Rui",
+ "website": "https://www.houndcoin.net",
+ "description": "Rui uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://hecoinfo.com/token/0xbd1823DB1914687ab29177c59A26a671867DBE53",
+ "type": "HRC20",
+ "symbol": "Rui",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbd1823DB1914687ab29177c59A26a671867DBE53"
+}

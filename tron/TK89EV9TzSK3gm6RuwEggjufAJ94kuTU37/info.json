@@ -1,0 +1,11 @@
+{
+ "name": "HiHorse",
+ "website": "https://www.hi.horse",
+ "description": "HiH is a Token of platform that provides anti-hash and anti-option type of trading.(HiH是一个提供反向哈希和逆向期权类交易服务平台的Token)",
+ "explorer": "https://tronscan.io/#/token20/TK89EV9TzSK3gm6RuwEggjufAJ94kuTU37",
+ "type": "TRC20",
+ "symbol": "HiH",
+ "decimals": 6,
+ "status": "active",
+ "id": "TK89EV9TzSK3gm6RuwEggjufAJ94kuTU37"
+}

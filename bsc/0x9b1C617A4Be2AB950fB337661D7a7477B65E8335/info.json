@@ -1,0 +1,11 @@
+{
+  "name": "AIS TOKEN",
+  "website": "https://www.aismetaverse.com",
+  "description": "AIS creates a new model, which combines the popularity of community users and blockchain technology.",
+  "explorer": "https://www.bscscan.com/token/0x9b1C617A4Be2AB950fB337661D7a7477B65E8335",
+  "type": "BEP20",
+  "symbol": "AIS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9b1C617A4Be2AB950fB337661D7a7477B65E8335"
+}

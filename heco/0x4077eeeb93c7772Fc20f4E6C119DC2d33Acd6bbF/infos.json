@@ -1,0 +1,11 @@
+{
+    "name": "ManagerZBC",
+    "website": "https://zbc.la",
+    "description": "MZBC, the international blockchain settlement currency.",
+    "explorer": "https://hecoinfo.com/address/0x4077eeeb93c7772fc20f4e6c119dc2d33acd6bbf",
+    "type": "HRC-20",
+    "symbol": "MZBC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4077eeeb93c7772fc20f4e6c119dc2d33acd6bbf"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "PoliesTokenHeco",
+ "website": "http://polies.store/#/webServe/index",
+ "description": "Poly is a decentralized protocol based on blockchain. The main markets of the poly agreement are composed of the poly money market, the poly ETF market and the poly fund market",
+ "explorer": "https://hecoinfo.com/token/0x210643140977b0c7Ff3cDd2b37D351b897874591",
+ "type": "Heco",
+ "symbol": "PTH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x210643140977b0c7Ff3cDd2b37D351b897874591"
+}

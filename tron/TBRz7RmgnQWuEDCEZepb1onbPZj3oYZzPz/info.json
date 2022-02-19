@@ -1,0 +1,11 @@
+{
+ "name": "CSB",
+ "website": "WWW.CSB.COM",
+ "description": "CSB.",
+ "explorer": "https://tronscan.io/#/contract/TBRz7RmgnQWuEDCEZepb1onbPZj3oYZzPz",
+ "type": "TRC20",
+ "symbol": "CSB",
+ "decimals": 18,
+ "status": "active",
+ "id": "TBRz7RmgnQWuEDCEZepb1onbPZj3oYZzPz"
+}

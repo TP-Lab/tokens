@@ -1,0 +1,11 @@
+{
+ "name": "MineCraft",
+ "website": "-",
+ "description": "MCC是由MCC股东团队与韩国基金会发起MCC技术团队开发由币安智能链支持的非托管算法稳定币。是一个基于加密原生的算法稳定币，根据以前流动性挖矿和弹性稳定币的经验，从而设计出新的稳定币机制。.",
+ "explorer": "https://bscscan.com/token/0xd81fc9746f4fce5dd2930f5a9ae066edc4f4fffd",
+ "type": "BEP20",
+ "symbol": "MCC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xd81fc9746f4fce5dd2930f5a9ae066edc4f4fffd"
+}

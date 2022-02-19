@@ -1,0 +1,11 @@
+{
+ "name": "Mars Doge",
+ "website": "https://marsdogetoken.com",
+ "description": "Mars Doge is a deflationary reflection token deployed on the Binance Smart Chain that allows users to earn a passive income simply by holding Mars Doge.",
+ "explorer": "https://bscscan.com/address/0xd76f84a1D7B9628280f9e9C6910866CECDc7f3A5",
+ "type": "BEP20",
+ "symbol": "MarsDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd76f84a1D7B9628280f9e9C6910866CECDc7f3A5"
+}

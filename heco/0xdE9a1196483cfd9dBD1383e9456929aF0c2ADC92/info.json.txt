@@ -1,0 +1,11 @@
+{
+    "name": "Qvd",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://hecoinfo.com/token/0xdE9a1196483cfd9dBD1383e9456929aF0c2ADC92",
+    "type": "HRC20",
+    "symbol": "Qvd",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdE9a1196483cfd9dBD1383e9456929aF0c2ADC92"
+   }

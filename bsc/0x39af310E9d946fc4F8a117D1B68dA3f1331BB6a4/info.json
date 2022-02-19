@@ -1,0 +1,11 @@
+{
+ "name": "CoinInstitute",
+ "website": "http://coininstitute.top/",
+ "description": "Cit token is a value platform currency of Binance Smart Chain",
+ "explorer": "https://bscscan.com/token/0x39af310E9d946fc4F8a117D1B68dA3f1331BB6a4",
+ "type": "BEP20",
+ "symbol": "Cit",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x39af310E9d946fc4F8a117D1B68dA3f1331BB6a4"
+}

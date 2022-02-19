@@ -1,0 +1,11 @@
+{
+ "name": "StarShip DOGE",
+ "website": "https://www.starshipdoge.net/",
+ "description": "A BSC token that can distribute DOGECOIN.",
+ "explorer": "https://bscscan.com/token/0x05e32c7bd02af25ce990ca750a3ab3158fc97bb3",
+ "type": "BEP20",
+ "symbol": "SSDOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x05e32c7bd02af25ce990ca750a3ab3158fc97bb3"
+}

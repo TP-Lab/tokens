@@ -1,0 +1,11 @@
+{
+ "name": "Grok",
+ "website": "https://www.grok.earth",
+ "description": "Grok's primary goal is to build a decentralized, open Web3 gaming ecosystem and ultimately complete DAO community governance. ",
+ "explorer": "https://etherscan.io/token/0x21d486f6b7eb7b556978c5a0c96c79a08eb841de",
+ "type": "ERC20",
+ "symbol": "GROK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x21d486F6B7EB7B556978c5A0C96c79A08Eb841De"
+}

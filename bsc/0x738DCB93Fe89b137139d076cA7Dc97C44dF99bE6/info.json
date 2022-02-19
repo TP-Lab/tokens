@@ -1,0 +1,11 @@
+{
+ "name": "StrangePlanet Token",
+ "website": "https://dapp.StrangePlanet.pro",
+ "description": "Strange Planet is a pioneer of a new generation of shared network system ecosystem, which is an efficient, blockchain network system",
+ "explorer": "https://bscscan.com/token/0x738DCB93Fe89b137139d076cA7Dc97C44dF99bE6",
+ "type": "BEP20",
+ "symbol": "SPT",
+ "decimals": 18,
+ "status": "formal",
+ "id": "0x738DCB93Fe89b137139d076cA7Dc97C44dF99bE6"
+}

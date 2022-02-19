@@ -1,0 +1,11 @@
+{
+  "name": "TOP",
+  "website": "http://www.thorpools.com/",
+  "description": "TOP",
+  "explorer": "https://bscscan.com/token/0x39b87f36Ed03DEF69D1e96C7151dC95643997Cd8",
+  "type": "BEP20",
+  "symbol": "TOP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x39b87f36Ed03DEF69D1e96C7151dC95643997Cd8"
+}

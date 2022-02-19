@@ -1,0 +1,11 @@
+{
+ "name": "Peach Energy",
+ "website": "http://peach.energy",
+ "description": "Peach. Energy family bucket is the first DeFi tool revenue aggregator.Including cross-chain, mixed pool, lending, and DEX aggregated DeFi tool revenue aggregator.",
+ "explorer": "https://bscscan.com/token/0xF5C4f08DbDE1cE4b594366CAA0f89ac85f7c59C3",
+ "type": "BEP20",
+ "symbol": "PEACH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF5C4f08DbDE1cE4b594366CAA0f89ac85f7c59C3"
+}

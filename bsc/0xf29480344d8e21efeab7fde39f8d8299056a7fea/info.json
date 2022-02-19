@@ -1,0 +1,11 @@
+{
+ "name": "TBCC v2",
+ "website": "https://www.tbcc.com/",
+ "description": "Trade cryptocurrency easily and comfortably.",
+ "explorer": "https://bscscan.com/token/0xf29480344d8e21efeab7fde39f8d8299056a7fea",
+ "type": "BEP20",
+ "symbol": "TBCC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf29480344d8e21efeab7fde39f8d8299056a7fea"
+}
