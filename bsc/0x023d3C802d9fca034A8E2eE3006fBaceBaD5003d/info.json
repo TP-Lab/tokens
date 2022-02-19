@@ -1,0 +1,11 @@
+{
+ "name": "FX",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x023d3C802d9fca034A8E2eE3006fBaceBaD5003d",
+ "type": "BSC20",
+ "symbol": "FX",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x023d3C802d9fca034A8E2eE3006fBaceBaD5003d"
+}
