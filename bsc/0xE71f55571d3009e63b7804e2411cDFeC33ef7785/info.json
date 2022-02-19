@@ -1,0 +1,11 @@
+{
+    "name": "Kitty King",
+    "website": "http://kittyking.club",
+    "description": "We Are $Kittyking. The king of all the Kitty tokens.",
+    "explorer": "https://bscscan.com/token/0xE71f55571d3009e63b7804e2411cDFeC33ef7785",
+    "type": "BEP20",
+    "symbol": "Kittyking",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE71f55571d3009e63b7804e2411cDFeC33ef7785"
+   }

@@ -1,0 +1,11 @@
+{
+    "name": "PosDao",
+    "website": "https://posdao.net",
+    "description": "POS is a DAO governance token that empowers token holders to vote on posdao's future actions",
+    "explorer": "https://bscscan.com/token/0x4Ce8e618A5bB79316037CDC5558811679c095baF",
+    "type": "BEP20",
+    "symbol": "POS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x4Ce8e618A5bB79316037CDC5558811679c095baF"
+   }
