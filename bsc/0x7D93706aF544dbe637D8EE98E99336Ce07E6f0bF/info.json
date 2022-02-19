@@ -1,0 +1,11 @@
+{
+ "name": "SER",
+ "website": "http://servchats.com",
+ "description": "SER CHAT is connecting people around the world personally, financially, privately and securely.",
+ "explorer": "https://bscscan.com/token/0x7D93706aF544dbe637D8EE98E99336Ce07E6f0bF",
+ "type": "BEP20",
+ "symbol": "SER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7D93706aF544dbe637D8EE98E99336Ce07E6f0bF"
+}
