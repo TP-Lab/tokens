@@ -1,0 +1,11 @@
+{
+ "name": "Rich Coin",
+ "website": "null",
+ "description": "Rich coin is a Dao token issued by Rich community",
+ "explorer": "https://bscscan.com/token/0xc6478316e09be53829c4dcb6d239e3bd07db6097",
+ "type": "BEP20",
+ "symbol": "Rich",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc6478316E09BE53829c4dCb6D239e3bd07Db6097"
+}
