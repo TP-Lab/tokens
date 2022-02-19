@@ -1,0 +1,11 @@
+{
+ "name": "fireflamechain",
+ "website": "http://www.fireflamechain.com/",
+ "description": "FFC is a platform token. The platform provides audit and insurance compensation services. The project settled on the platform must pay the corresponding deposit, so as to prevent and reduce fraud in the field of encryption.",
+ "explorer": "https://bscscan.com/token/0x05587943D03F0f7a238560FB5A3081d8eb415ec0",
+ "type": "BEP20",
+ "symbol": "FFC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x05587943D03F0f7a238560FB5A3081d8eb415ec0"
+}
