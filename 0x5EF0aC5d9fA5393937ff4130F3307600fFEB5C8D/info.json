@@ -1,0 +1,11 @@
+﻿{
+ "name": "LAD",
+ "website": "http://www.chbswap.com/",
+ "description": "Leader's City专注于用户的实践与理论相结合，让Chb-Lad通过各种丰富的竞技赛，在多元化的角色与空间里，获得自治收益，让用户拥有更多的支配权，并创造更多潜在的能力和流动性效益。",
+ "explorer": "https://bscscan.com/token/0x5EF0aC5d9fA5393937ff4130F3307600fFEB5C8D",
+ "type": "BEP20",
+ "symbol": "LAD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5EF0aC5d9fA5393937ff4130F3307600fFEB5C8D"
+}
