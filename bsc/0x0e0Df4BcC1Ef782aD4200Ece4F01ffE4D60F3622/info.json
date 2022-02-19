@@ -1,0 +1,11 @@
+{
+ "name": "MetaPanda Token",
+ "website": "http://www.metapandagames.com/",
+ "description": "MTXM is the governance token of the MetaPanda world, and holders have voting rights to define the future of MetaPanda together with the community and developers.",
+ "explorer": "https://bscscan.com/token/0x0e0Df4BcC1Ef782aD4200Ece4F01ffE4D60F3622",
+ "type": "BEP20",
+ "symbol": "MTXM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0e0Df4BcC1Ef782aD4200Ece4F01ffE4D60F3622"
+}
