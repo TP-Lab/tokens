@@ -1,0 +1,11 @@
+{
+ "name": "ENE",
+ "website": "https://bscscan.com/token/0x24B1FcF505e4c148fe44942A48c5d636009F8407",
+ "description": "ENE TOKEN.",
+ "explorer": "https://bscscan.com/token/0x24B1FcF505e4c148fe44942A48c5d636009F8407",
+ "type": "BEP20",
+ "symbol": "ENE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x24B1FcF505e4c148fe44942A48c5d636009F8407"
+}
