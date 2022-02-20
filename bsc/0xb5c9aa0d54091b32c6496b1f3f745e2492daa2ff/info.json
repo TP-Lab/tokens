@@ -1,0 +1,11 @@
+{
+ "name": "Timerr Token",
+ "website": "https://timerr.io/",
+ "description": "Timerr is Crypto Freelance Marketplac on BSC.",
+ "explorer": "https://bscscan.com/token/0xb5c9aa0d54091b32c6496b1f3f745e2492daa2ff",
+ "type": "BEP20",
+ "symbol": "TIMERR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb5c9Aa0d54091b32c6496b1F3F745e2492daa2fF"
+}
