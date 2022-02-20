@@ -1,0 +1,11 @@
+{
+ "name": "Juicebox",
+ "website": "http://juicebox.fun",
+ "description": "JuiceboxDAO is a donation platform dedicated to building the first full-featured platform on the Binance Smart Chain.",
+ "explorer": "https://bscscan.com/token/0x3b1e5838a754b7c8b8f645dca697cfd41ac83559",
+ "type": "BEP20",
+ "symbol": "JBX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3b1E5838a754B7c8b8F645Dca697CFD41Ac83559"
+}
