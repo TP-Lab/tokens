@@ -1,0 +1,11 @@
+{
+ "name": "FLL",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/address/0xcb91e4c4a08e61759ce63c2dad1312fc9c2d28ee",
+ "type": "BEP20",
+ "symbol": "FLL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcb91e4c4a08e61759ce63c2dad1312fc9c2d28ee"
+} 
