@@ -1,0 +1,11 @@
+{
+ "name": "FutureVerse Token",
+ "website": "https://futureverse.io/",
+ "description": "FutureVerse, the metaverse launch platform dedicated to launching metaverse related cryptocurrencies! Also launched FV Tokens and will bring a variety of related applications!",
+ "explorer": "https://bscscan.com/address/0x6b718ab61be5e52422367c9a3d269751349b9ea7",
+ "type": "BEP20",
+ "symbol": FV,
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6b718ab61be5e52422367c9a3d269751349b9ea7"
+}
