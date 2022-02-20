@@ -1,0 +1,11 @@
+{
+ "name": "Future  racing  players",
+ "website": "http://www.futurerider.cn",
+ "description": "Future racing players (FRP) is a racing game pass on the BSC chain",
+ "explorer": "https://bscscan.com/token/0xeA134836F8fB1C5211C6A0E44ECf2D8d5797626D",
+ "type": "BEP20",
+ "symbol": "FRP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xeA134836F8fB1C5211C6A0E44ECf2D8d5797626D"
+}
