@@ -1,0 +1,11 @@
+{
+ "name": "TokenPocket Token",
+ "website": "https://kingkong.co",
+ "description": "King Kong came out, KINGKONG World (King Kong World) is based on the BSC chain and integrates the latest NFT and GameFil blockchain technology, allowing King Kong Alliance to enter the gate of the metaverse. Players can participate in this game through King Kong Token or NFT as a ticket.",
+ "explorer": "https://bscscan.com/token/0xf0C8e344d28A96b3B7906c1D5cFd9d84fE1d1fF9",
+ "type": "BEP20",
+ "symbol": "KingKong",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf0C8e344d28A96b3B7906c1D5cFd9d84fE1d1fF9"
+}
