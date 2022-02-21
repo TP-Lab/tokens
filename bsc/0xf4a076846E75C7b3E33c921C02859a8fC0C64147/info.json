@@ -1,0 +1,11 @@
+{
+  "name": "SINSFEG",
+  "website": "",
+  "description": "the best token in the world",
+  "explorer": "https://bscscan.com/token/0xf4a076846E75C7b3E33c921C02859a8fC0C64147",
+  "type": "BEP20",
+  "symbol": "SINSFEG",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xf4a076846E75C7b3E33c921C02859a8fC0C64147"
+ }
