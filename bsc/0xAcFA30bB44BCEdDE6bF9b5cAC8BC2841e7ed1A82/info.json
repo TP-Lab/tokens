@@ -1,0 +1,11 @@
+{
+    "name": "BENZ",
+    "website": "https://bscscan.com/token/0xAcFA30bB44BCEdDE6bF9b5cAC8BC2841e7ed1A82",
+    "description": "BENZ Token",
+    "explorer": "https://bscscan.com/token/0xAcFA30bB44BCEdDE6bF9b5cAC8BC2841e7ed1A82",
+    "type": "BEP20",
+    "symbol": "BENZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xAcFA30bB44BCEdDE6bF9b5cAC8BC2841e7ed1A82"
+   } 
