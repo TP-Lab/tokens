@@ -1,0 +1,11 @@
+{
+  "name": "Binance Wormhole",
+  "website": "https://www.wohswap.com",
+  "description": "WOH issued a total of 30 million, deflated to 300,000, is a DeFi2.0-based bridged token that intersects in metaverse and Web3.0. The aim is to become a fully decentralized, community - driven token that forms an ecosystem of guided DAOs.",
+  "explorer": "https://bscscan.com/token/0x6aD8F34d91Ec7fa785Dcdd24C2D57d486aA4E51A",
+  "type": "BEP20",
+  "symbol": "WOH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6aD8F34d91Ec7fa785Dcdd24C2D57d486aA4E51A"
+}
