@@ -1,0 +1,11 @@
+{
+ "name": "Money Printing Machine",
+ "website": "https://bscscan.com/",
+ "description": "MPM是基于币安智能链的去中心化代币.",
+ "explorer": "https://bscscan.com/token/0x43cbaec4a5a132fad00d64627adcd9351e139c9d",
+ "type": "BEP20",
+ "symbol": "MPM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x43CBaEc4A5a132fad00d64627aDCD9351e139C9D"
+}
