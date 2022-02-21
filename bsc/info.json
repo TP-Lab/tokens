@@ -1,11 +1,11 @@
 {
- "name": "Knowledge Graph Coin",
- "website": "http://www.gzaiengine.com",
- "description": "World culture and multi universe knowledge base, KGC is used for knowledge payment and cultural reward.",
- "explorer": "https://bscscan.com/token/0x4f58674f9eA4541A55fa96DFD3FFbF1e9e77c4de",
+ "name": "Infinite world",
+ "website": "http://www.ifw.one",
+ "description": "Infinite World is an application game focused on exchanging goods.",
+ "explorer": "https://bscscan.com/token/0xcd4e9f4c8b3c50fdd5bfc4e3683d0ba35ca2dcf3",
  "type": "BEP20",
- "symbol": "kgc",
- "decimals": 8,
+ "symbol": "IFW",
+ "decimals": 9,
  "status": "active",
- "id": "0x4f58674f9eA4541A55fa96DFD3FFbF1e9e77c4de"
+ "id": "0xcd4e9f4c8b3c50fdd5bfc4e3683d0ba35ca2dcf3"
 }
