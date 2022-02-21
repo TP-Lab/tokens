@@ -1,0 +1,11 @@
+{
+ "name": "DMToken",
+ "website": "https://www.doomsdayguardian.com",
+ "description": "DoomsdayGuardian game is a doomsday-themed NFT card meta-universe game based on Binance Chain.",
+ "explorer": "https://bscscan.com/address/0x38BEB47bd44edFDACaB16cB068Ef31fEe3Ab2677",
+ "type": "BEP20",
+ "symbol": "DM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x38BEB47bd44edFDACaB16cB068Ef31fEe3Ab2677"
+}
