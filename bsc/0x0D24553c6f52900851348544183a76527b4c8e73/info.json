@@ -1,0 +1,11 @@
+{
+ "name": "TC",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://www.bscscan.com/token/0x0D24553c6f52900851348544183a76527b4c8e73",
+ "type": "BEP20",
+ "symbol": "TC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x0D24553c6f52900851348544183a76527b4c8e73"
+}
