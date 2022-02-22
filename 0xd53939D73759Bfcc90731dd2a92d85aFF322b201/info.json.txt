@@ -1,0 +1,11 @@
+{
+ "name": "ADC ",
+"website": "https://bscscan.com/token/0xd53939D73759Bfcc90731dd2a92d85aFF322b201",
+ "description": " BSC, ADC",
+ "explorer": "https://bscscan.com/token/0xd53939D73759Bfcc90731dd2a92d85aFF322b201",
+ "type": "BEP20",
+ "symbol": "ADC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd53939D73759Bfcc90731dd2a92d85aFF322b201"
+}
