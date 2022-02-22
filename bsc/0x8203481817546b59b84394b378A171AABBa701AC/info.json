@@ -1,0 +1,11 @@
+{
+ "name": "Idle Assets",
+ "website": "https://www.idleasset.net/",
+ "description": "Idle Assets takes the blockchain as the core, arranges the whole scene payment, and realizes the borderless and barrier free asset circulation of digital currency. ",
+ "explorer": "https://bscscan.com/token/0x8203481817546b59b84394b378A171AABBa701AC",
+ "type": "BEP20",
+ "symbol": "IA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8203481817546b59b84394b378A171AABBa701AC"
+} 
