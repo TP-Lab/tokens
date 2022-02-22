@@ -1,0 +1,11 @@
+{
+ "name": "SpacePi",
+ "website": "https://space-pi.com",
+ "description": "SpacePi is preparing to develop Pi Metaverse, PiNFT, PiSwap and other ecosystems and issue token SpacePi.",
+ "explorer": "https://bscscan.com/token/0x259a5F830f71E22717d02C529ec62fFa248087B9",
+ "type": "BEP20",
+ "symbol": "SpacePi",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x259a5F830f71E22717d02C529ec62fFa248087B9"
+}
