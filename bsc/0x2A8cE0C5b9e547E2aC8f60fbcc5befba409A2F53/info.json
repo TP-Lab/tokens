@@ -1,0 +1,11 @@
+{
+ "name": "QBT",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x2a8ce0c5b9e547e2ac8f60fbcc5befba409a2f53",
+ "type": "BEP20",
+ "symbol": "QBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2a8ce0c5b9e547e2ac8f60fbcc5befba409a2f53"
+}
