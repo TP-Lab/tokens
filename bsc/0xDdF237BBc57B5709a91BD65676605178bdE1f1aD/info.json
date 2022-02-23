@@ -1,0 +1,11 @@
+{
+  "name": "Lost ark",
+  "website": "https://gacube.finance/",
+  "description": "Lost ark.",
+  "explorer": "https://bscscan.com/token/0xDdF237BBc57B5709a91BD65676605178bdE1f1aD",
+  "type": "BEP20",
+  "symbol": "LA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xDdF237BBc57B5709a91BD65676605178bdE1f1aD"
+}
