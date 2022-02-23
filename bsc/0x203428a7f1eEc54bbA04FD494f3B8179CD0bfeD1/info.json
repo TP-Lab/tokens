@@ -1,0 +1,11 @@
+{
+ "name": "ValorGame",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x203428a7f1eEc54bbA04FD494f3B8179CD0bfeD1",
+ "type": "BSC20",
+ "symbol": "VALOR",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x203428a7f1eEc54bbA04FD494f3B8179CD0bfeD1"
+}

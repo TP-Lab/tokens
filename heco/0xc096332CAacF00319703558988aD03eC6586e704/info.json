@@ -1,0 +1,11 @@
+{
+  "name": "Daoswap",
+  "website": "https://www.daoswap.cc",
+  "description": "Daoswap is a Decentralized exchange platform based on Ethereum、HECO、BSC, applied an AMM algorithm rather than orderbook to provide traders a new way to aquire Liquidity.",
+  "explorer": "https://hecoinfo.com/token/0xc096332CAacF00319703558988aD03eC6586e704",
+  "type": "HRC20",
+  "symbol": "DAO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc096332CAacF00319703558988aD03eC6586e704"
+ }

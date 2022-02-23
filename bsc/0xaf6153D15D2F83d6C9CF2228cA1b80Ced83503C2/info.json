@@ -1,0 +1,11 @@
+{
+ "name": "DogeMaster",
+ "website": "dogemaster.org",
+ "description": "Holders of DogeMaster will get a dividend reward of $Doge Token.The more DogeMaster you HODL,the more Doge you get.",
+ "explorer": "https://bscscan.com/address/0xaf6153d15d2f83d6c9cf2228ca1b80ced83503c2",
+ "type": "BEP20",
+ "symbol": "DogeMaster",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaf6153D15D2F83d6C9CF2228cA1b80Ced83503C2"
+}
