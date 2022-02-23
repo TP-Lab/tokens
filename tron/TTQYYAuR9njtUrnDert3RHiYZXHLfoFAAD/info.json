@@ -1,0 +1,11 @@
+{
+ "name": "FTD",
+ "website": "FTD",
+ "description": "FTD.",
+ "explorer": "https://tronscan.io/#/contract/TTQYYAuR9njtUrnDert3RHiYZXHLfoFAAD",
+ "type": "TRC20",
+ "symbol": "FTD",
+ "decimals": 18,
+ "status": "active",
+ "id": "TTQYYAuR9njtUrnDert3RHiYZXHLfoFAAD"
+}
