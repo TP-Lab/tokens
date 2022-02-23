@@ -1,0 +1,22 @@
+{
+
+ "name": "SUNGOD Token",
+
+ "website": "www.tidegallery.com",
+
+ "description": "A leading NFT token that reward holders with NFTs and Fist tokens.",
+
+ "explorer": "https://bscscan.com/token/0x799667fc4bbb3688992a19d04759b4031726b237",
+
+ "type": "BEP20",
+
+ "symbol": "SUNGOD",
+
+ "decimals": 18,
+
+ "status": "active",
+
+ "id": "0x799667fC4BBb3688992a19d04759b4031726B237"
+
+}
+
