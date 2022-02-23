@@ -1,8 +1,8 @@
 { 
 "name": "WOLFILAND",
-"website": "https://wolfiland.wolfible.com",
+"website": "https://wolfible.com",
 "description": "Smart DeFi Wolfiland is the official token of the Wolfiland platform where you can work without limits.",
-"explorer": "https://bscscan.com/address/0x61AF471DF5c3889de136fA0a17dA651FEDA83A88",
+"explorer": "https://bscscan.com/token/0x61AF471DF5c3889de136fA0a17dA651FEDA83A88",
 "type": "BEP20",
 "symbol": "WOLFILAND",
 "decimals": 9,
