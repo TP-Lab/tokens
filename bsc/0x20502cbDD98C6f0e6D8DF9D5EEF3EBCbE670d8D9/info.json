@@ -1,0 +1,11 @@
+{
+ "name": "YNF",
+ "website": ".",
+ "description": "元域(YNF)是NFT聚合流量平台代币",
+ "explorer": "https://bscscan.com/token/0x20502cbdd98c6f0e6d8df9d5eef3ebcbe670d8d9",
+ "type": "BEP20",
+ "symbol": "YNF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x20502cbDD98C6f0e6D8DF9D5EEF3EBCbE670d8D9"
+}
