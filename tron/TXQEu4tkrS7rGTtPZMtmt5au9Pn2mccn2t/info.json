@@ -1,0 +1,11 @@
+{
+ "name": "SWD",
+ "website": "www.SWD.com",
+ "description": "SWD.",
+ "explorer": "https://tronscan.io/#/contract/TXQEu4tkrS7rGTtPZMtmt5au9Pn2mccn2t",
+ "type": "TRC20",
+ "symbol": "SWD",
+ "decimals": 18,
+ "status": "active",
+ "id": "TXQEu4tkrS7rGTtPZMtmt5au9Pn2mccn2t"
+}
