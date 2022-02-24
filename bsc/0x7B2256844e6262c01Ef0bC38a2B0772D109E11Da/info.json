@@ -1,0 +1,11 @@
+{
+ "name": "Stars Express",
+ "website": "https://starseps.com",
+ "description": "Stars Express is a crypto game on Binance Chain. At the same time, ChainGame revolves around the blockchain + reality field, a comprehensive O2O + DAO + Game + DEFI + an on-chain game in the metaverse. The game can be connected to brand advertisements and can realize O2O interoperability and cooperation.",
+ "explorer": "https://bscscan.com/token/0x7B2256844e6262c01Ef0bC38a2B0772D109E11Da",
+ "type": "BEP20",
+ "symbol": "SEPS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7B2256844e6262c01Ef0bC38a2B0772D109E11Da"
+}
