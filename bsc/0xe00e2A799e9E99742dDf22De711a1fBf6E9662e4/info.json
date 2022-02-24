@@ -1,0 +1,11 @@
+{
+ "name": "WE Token",
+ "website": "http://www.weme.games",
+ "description": "WE Token is the Governance Token of We Metaverse. We Metaverse is the first full 3D mode game built by WE on BSC, in which We Metaverse combines GameFi, DeFi, SocialFi, NFT and DAO to create a rich immersive gaming experience for players.",
+ "explorer": "https://bscscan.com/address/0xe00e2A799e9E99742dDf22De711a1fBf6E9662e4",
+ "type": "BEP20",
+ "symbol": "WE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe00e2A799e9E99742dDf22De711a1fBf6E9662e4"
+}
