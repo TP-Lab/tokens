@@ -1,0 +1,12 @@
+{ 
+ "name": "KingMao", 
+ "website": "нч", 
+ "description": "KingMao", 
+ "explorer":
+"https://polygonscan.com/token/0x754f2ed85993B3fb87051d6A90890D207Cc1e76d", 
+ "type": "Polygon", 
+ "symbol": "KM", 
+ "decimals": 18, 
+ "status": "active", 
+ "id": "0x754f2ed85993B3fb87051d6A90890D207Cc1e76d" 
+ } 
