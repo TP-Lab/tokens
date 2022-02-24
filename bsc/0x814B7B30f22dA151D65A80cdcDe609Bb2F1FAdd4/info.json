@@ -1,0 +1,11 @@
+{
+ "name": "AK",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x814b7b30f22da151d65a80cdcde609bb2f1fadd4",
+ "type": "BEP20",
+ "symbol": "AK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x814B7B30f22dA151D65A80cdcDe609Bb2F1FAdd4"
+}
