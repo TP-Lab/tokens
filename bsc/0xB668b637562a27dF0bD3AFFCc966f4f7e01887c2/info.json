@@ -1,0 +1,11 @@
+{
+ "name": "BY blockchain space ",
+ "website": "-",
+ "description": "The BBS Token is a decentralized token that is completely self-contained by the community.",
+ "explorer": "https://bscscan.com/token/0xB668b637562a27dF0bD3AFFCc966f4f7e01887c2",
+ "type": "BEP20",
+ "symbol": "BBS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB668b637562a27dF0bD3AFFCc966f4f7e01887c2"
+}
