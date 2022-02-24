@@ -1,0 +1,11 @@
+{
+ "name": "HD",
+ "website": "",
+ "description": "HD is the HDSwap decentralized exchange platform token.",
+ "explorer": "https://bscscan.com/token/0xD3d4E3085Af8aF6B7EF5bB9387FC9e0bFCB868AD",
+ "type": "BEP-20",
+ "symbol": "HD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD3d4E3085Af8aF6B7EF5bB9387FC9e0bFCB868AD"
+}
