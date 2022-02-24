@@ -2,8 +2,7 @@
  "name": "KingMao", 
  "website": "无", 
  "description": "KingMao", 
- "explorer":
-"https://polygonscan.com/token/0x754f2ed85993B3fb87051d6A90890D207Cc1e76d", 
+ "explorer":"https://polygonscan.com/token/0x754f2ed85993B3fb87051d6A90890D207Cc1e76d", 
  "type": "Polygon", 
  "symbol": "KM", 
  "decimals": 18, 
