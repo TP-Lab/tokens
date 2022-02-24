@@ -1,0 +1,11 @@
+{ 
+"name": "lianlian",
+"website": "https://www.lianlian.in",
+"description": "Lianlian is a massively multiplayer online simulation game (MMOSLG) , set in interstellar space and themed in Cyberpunk’s style. The game offers a host of galaxies, home to a variety of planets. ",
+"explorer": "https://bscscan.com/token/0xDF59f302B2611916a1C7C91A0a2554229D60445e",
+"type": "BEP20",
+"symbol": "lianlian",
+"decimals": 18,
+"status": "active",
+"id": "0xDF59f302B2611916a1C7C91A0a2554229D60445e"
+}
