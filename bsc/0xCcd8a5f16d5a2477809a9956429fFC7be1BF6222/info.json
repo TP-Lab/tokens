@@ -1,0 +1,11 @@
+{
+ "name": "DOG",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xCcd8a5f16d5a2477809a9956429fFC7be1BF6222",
+ "type": "BSC20",
+ "symbol": "DOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCcd8a5f16d5a2477809a9956429fFC7be1BF6222"
+}
