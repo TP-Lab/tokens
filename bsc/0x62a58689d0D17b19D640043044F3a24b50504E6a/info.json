@@ -1,0 +1,11 @@
+{
+ "name": "Fist Token",
+ "website": "https://fistcoin.info",
+ "description": "Fist issued a total of 188 pieces, at least one of 10000USDT",
+ "explorer": "https://bscscan.com/token/0x62a58689d0d17b19d640043044f3a24b50504e6a",
+ "type": "BEP20",
+ "symbol": "Fist",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x62a58689d0D17b19D640043044F3a24b50504E6a"
+}
