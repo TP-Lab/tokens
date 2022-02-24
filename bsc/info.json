@@ -1,11 +1,11 @@
-{
- "name": "Knowledge Graph Coin",
- "website": "http://www.gzaiengine.com",
- "description": "World culture and multi universe knowledge base, KGC is used for knowledge payment and cultural reward.",
- "explorer": "https://bscscan.com/token/0x4f58674f9eA4541A55fa96DFD3FFbF1e9e77c4de",
- "type": "BEP20",
- "symbol": "kgc",
- "decimals": 8,
- "status": "active",
- "id": "0x4f58674f9eA4541A55fa96DFD3FFbF1e9e77c4de"
+{ 
+"name": "lianlian",
+"website": "https://www.lianlian.in",
+"description": "Lianlian is a massively multiplayer online simulation game (MMOSLG) , set in interstellar space and themed in Cyberpunk’s style. The game offers a host of galaxies, home to a variety of planets. ",
+"explorer": "https://bscscan.com/token/0xDF59f302B2611916a1C7C91A0a2554229D60445e",
+"type": "BEP20",
+"symbol": "lianlian",
+"decimals": 18,
+"status": "active",
+"id": "0xDF59f302B2611916a1C7C91A0a2554229D60445e"
 }
