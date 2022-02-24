@@ -1,0 +1,11 @@
+{
+ "name": "Star Token",
+ "website": "None",
+ "description": "STAR is an innovative defi token",
+ "explorer": "https://bscscan.com/token/0x7621A823BeC8D6ED3e8fa976dd0003AE27dcbabC",
+ "type": "BEP20",
+ "symbol": "STAR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7621A823BeC8D6ED3e8fa976dd0003AE27dcbabC"
+}
