@@ -1,0 +1,11 @@
+{
+"name": "Sonic",
+"website": "-",
+"description": "-",
+"explorer": "https://bscscan.com/token/0x1784FE238E34dDCCb3870f34162F34d41e19e0A6",
+"type": "BEP20",
+"symbol": "Sonic",
+"decimals": 18,
+"status": "active",
+"id": "0x1784FE238E34dDCCb3870f34162F34d41e19e0A6"
+}
