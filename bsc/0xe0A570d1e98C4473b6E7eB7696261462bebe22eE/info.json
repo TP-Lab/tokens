@@ -1,0 +1,11 @@
+{
+ "name": "cheems doge",
+ "website": "",
+ "description": "cheems doge is a platform token. The platform provides audit and insurance compensation services. The project settled on the platform must pay the corresponding deposit, so as to prevent and reduce fraud in the field of encryption.",
+ "explorer": "https://bscscan.com/token/0xe0A570d1e98C4473b6E7eB7696261462bebe22eE",
+ "type": "BEP20",
+ "symbol": "cheems doge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe0A570d1e98C4473b6E7eB7696261462bebe22eE"
+}
