@@ -1,0 +1,11 @@
+{
+ "name": "TIANHU",
+ "website": "-",
+ "description": "A token with unlimited potential.",
+ "explorer": "https://bscscan.com/token/0xBB353b525f46CB6a67FE456ac34852b8f43894E5",
+ "type": "BEP20",
+ "symbol": "THB",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xBB353b525f46CB6a67FE456ac34852b8f43894E5"
+}
