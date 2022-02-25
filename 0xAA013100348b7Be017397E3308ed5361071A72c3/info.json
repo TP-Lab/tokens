@@ -1,0 +1,11 @@
+{
+ "name": "DogeHonor",
+ "website": "https://bscscan.com/token/0xaa013100348b7be017397e3308ed5361071a72c3",
+ "description": "DogeHonor is the native consensus pass in the community DAO, as well as the most important pass in the community DAO.",
+ "explorer": "https://bscscan.com/token/0xaa013100348b7be017397e3308ed5361071a72c3",
+ "type": "BEP20",
+ "symbol": "DogeHonor",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaa013100348b7be017397e3308ed5361071a72c3"
+}
