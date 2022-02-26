@@ -1,0 +1,11 @@
+{
+  "name": "Puffcake",
+  "website": "https://puffcakeswap.finance",
+  "description": "Puffcake is carried out on the decentralized platform to promote its mechanism to integrate into other chains and other fields.",
+  "explorer": "https://tronscan.org/#/contract/TD1EEDcm1PVSXrFXtC1KmscmMvdndmA6KD",
+  "type": "TRC20",
+  "symbol": "PUFF",
+  "decimals": 18,
+  "status": "active",
+  "id": "TD1EEDcm1PVSXrFXtC1KmscmMvdndmA6KD"
+} 
