@@ -1,0 +1,11 @@
+{
+"name": "Freedom convoy",
+"website": "https://www.freedomconvoy.pro",
+"description": "The Adopt-a-Trucker initiative was born in the Ottawa region to support the overwhelming amount of trucks arriving in the city. We provide all the local services from First Aid, to room and board. We are not supported by the Freedom Convoy's GoFundMe or GiveSendGo donations as it has always been designated to the fuel trucks and vehicle logistics. We source our own volunteers and funding.",
+"explorer": "https://bscscan.com/token/0x9C960E60AF4801E8393A075b60c8E9Ce508BF167",
+"type": "BEP-20",
+"symbol": "Freedom",
+"decimals": 18,
+"status": "active",
+"id": "0x9C960E60AF4801E8393A075b60c8E9Ce508BF167"
+}
