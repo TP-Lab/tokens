@@ -1,0 +1,11 @@
+{
+ "name": "Uber Taxi",
+ "website": "http://ubertaxi.vip/",
+ "description": "Uber taxi is a virtual game world based on BSC chain. Through the functional token taxi, players can create and have different game experiences, obtain rewards from them, and establish a creative game platform created and owned by players to play and earn!",
+ "explorer": "https://bscscan.com/token/0xe49bF5687c195D1dC8A85C7c582c430FA74917B1",
+ "type": "BEP20",
+ "symbol": "TAXI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe49bF5687c195D1dC8A85C7c582c430FA74917B1"
+}
