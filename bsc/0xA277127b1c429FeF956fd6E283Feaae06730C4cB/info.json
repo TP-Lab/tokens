@@ -1,0 +1,12 @@
+
+{ 
+"name": "TotoroKitty",
+"website": "https://totorokitty.com",
+"description": "TotoroKitty is a yield-generating deflationary charitable cryptocurrency that runs on Binance Smart Chain. It rewards holders through reflections by taxing transactions. ",
+"explorer": "https://bscscan.com/token/0xA277127b1c429FeF956fd6E283Feaae06730C4cB",
+"type": "TotoroKitty",
+"symbol": "TotoroKitty",
+"decimals": 9,
+"status": "active",
+"id": "0xA277127b1c429FeF956fd6E283Feaae06730C4cB"
+}
