@@ -1,0 +1,11 @@
+{
+ "name": "HBOB",
+ "website": "http://hbob88.top/",
+ "description": "HBOB每笔交易1%销毁，0.2%进流动池，0.2%持币分红",
+ "explorer": "https://hecoinfo.com/token/0x05Cf203c7f541b8cBC4d0BB9880Bc903a92d9Ab4",
+ "type": "HRC20",
+ "symbol": "HBOB",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x05Cf203c7f541b8cBC4d0BB9880Bc903a92d9Ab4"
+}
