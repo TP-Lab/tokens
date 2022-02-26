@@ -1,0 +1,11 @@
+{
+ "name": "Dream Health Chain",
+ "website": "..",
+ "description": "Standard bep20 token",
+ "explorer": "https://bscscan.com/token/0x743F15f4d2481774d970f286f0EbAD9C3Daed6E9",
+ "type": "BEP20",
+ "symbol": "DHC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x743F15f4d2481774d970f286f0EbAD9C3Daed6E9"
+}
