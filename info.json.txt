@@ -1,0 +1,11 @@
+{
+ "name": "Lu Ching Huei",
+ "website": "https://m.facebook.com/Lusconatural/",
+ "description": "It can be used as a member's discount points to exchange courses or treatments. In the TekenPocket wallet.",
+ "explorer": "https://bscscan.com/token/0x494a2b22603EB0FB613b10150D28E75b41806910",
+ "type": "BEP20",
+ "symbol": "LCH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x494a2b22603EB0FB613b10150D28E75b41806910"
+}
