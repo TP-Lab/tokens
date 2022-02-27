@@ -1,0 +1,11 @@
+﻿{
+ "name": "Ragdoll",
+ "website": "https://Ragdoll.io",
+ "description": "A cat that everyone likes.",
+ "explorer": "https://bscscan.com/token/0x421FB3F544c255cAB85686Ff7659bCe7d23a67be",
+ "type": "BEP20",
+ "symbol": "Ragdoll",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x421FB3F544c255cAB85686Ff7659bCe7d23a67be"
+}
