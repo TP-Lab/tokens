@@ -1,0 +1,11 @@
+{ 
+"name": "Little King Kong",
+"website": "https://www.mosaicfantasy.io",
+"description": "MF (MosaicFantasy) is a massive blockchain game based on BSC (Binance Smart Chain) which allows the gamers to “Play to Earn”. With self-operating ecological economy, MF creates an independent and sophisticated virtual world in which lives various fantastic creatures holding superpower-Mosaic. In this amazing world, players are able to obtain and upgrade different kinds of Mosaic by taking part in the adventure, battles and other ecological contribution. Besides, players can earn relevant cryptocurrency and MF tokens as well.",
+"explorer": "https://www.bscscan.com/address/0xb28D389f751f669fe5e5539aE905d37C24C4c17C",
+"type": "BEP20",
+"symbol": "LKK",
+"decimals": 18,
+"status": "active",
+"id": "0xb28D389f751f669fe5e5539aE905d37C24C4c17C"
+}
