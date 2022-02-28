@@ -1,0 +1,11 @@
+{
+    "name": "HDO COIN",
+    "website": "http://www.hyperdao.us/",
+    "description": "HyperDAO ecological community incentive token. A total of 10,000 tokens are issued, of which 9,375 tokens are produced through liquidity mining, and the remaining 625 tokens are used for DAO autonomy rewards. HDO is an extremely scarce token in the HyperDAO ecosystem. The main purpose of the issue is to give HyperDAO long-term loyal users more rewards , incentivizing HyperDAO for a stronger consensus. The scarcity of HDO will create extremely high value.",
+    "explorer": "https://bscscan.com/address/0x6BA3589BDdDa4E588740701B195DBD20Cf630030",
+    "type": "BEP20",
+    "symbol": "HDO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6BA3589BDdDa4E588740701B195DBD20Cf630030"
+   }
