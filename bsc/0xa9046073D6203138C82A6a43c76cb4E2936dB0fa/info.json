@@ -1,0 +1,11 @@
+{
+ "name": "Creator Pad",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xa9046073D6203138C82A6a43c76cb4E2936dB0fa",
+ "type": "BSC20",
+ "symbol": "CPD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa9046073D6203138C82A6a43c76cb4E2936dB0fa"
+}
