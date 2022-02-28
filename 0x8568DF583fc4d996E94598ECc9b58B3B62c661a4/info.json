@@ -1,0 +1,11 @@
+{ 
+"name": "MYEScoin",
+"website": "https://myes.io/",
+"description": "Our only aim is to produce constant innovations, to reach heights that was never attained. ",
+"explorer": "https://bscscan.com/address/0x8568DF583fc4d996E94598ECc9b58B3B62c661a4",
+"type": "BEP20",
+"symbol": "MYES",
+"decimals": 18,
+"status": "active",
+"id": "0x8568DF583fc4d996E94598ECc9b58B3B62c661a4"
+}
