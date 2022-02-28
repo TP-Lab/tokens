@@ -1,0 +1,11 @@
+{
+ "name": "DMT"
+ "website": "-",
+ "description": "DMT is a decentralized autonomous community.",
+ "explorer": "https://bscscan.com/token/0xdFDd34eF556422E6568DBb552831C8968a0C81c3",
+ "type": "BEP20",
+ "symbol": "DMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdFDd34eF556422E6568DBb552831C8968a0C81c3"
+} 
