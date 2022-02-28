@@ -1,0 +1,11 @@
+{
+ "name": "Tesla",
+ "website": "",
+ "description": "Tesla is a community autonomous token",
+ "explorer": "https://bscscan.com/token/0x0a22405cbed9c9f4f5c1f2b75274534db56fd407",
+ "type": "BEP20",
+ "symbol": "Tesla",
+ "decimals": 2,
+ "status": "active",
+ "id": "0x0a22405Cbed9c9f4F5c1F2b75274534DB56fD407"
+}
