@@ -1,0 +1,11 @@
+{
+    "name": "ArmedSquirrel Token",
+    "website": "http://www.armedsquirrel.com",
+    "description": "Armed Squirrel is a smart contract with token trading, NFT trading, NFT pledge mining, meta-universe gaming.",
+    "explorer": "https://bscscan.com/token/0xA5852c1C00AE9D7596bc13526e6Ca096c681E3c8",
+    "type": "BEP20",
+    "symbol": "ASC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA5852c1C00AE9D7596bc13526e6Ca096c681E3c8"
+   }
