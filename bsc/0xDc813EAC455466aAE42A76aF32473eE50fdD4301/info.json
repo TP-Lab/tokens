@@ -1,0 +1,11 @@
+{
+ "name": "SafeFist",
+ "website": "-",
+ "description": "SafeFist is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xDc813EAC455466aAE42A76aF32473eE50fdD4301",
+ "type": "BEP20",
+ "symbol": "SafeFist",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDc813EAC455466aAE42A76aF32473eE50fdD4301"
+}
