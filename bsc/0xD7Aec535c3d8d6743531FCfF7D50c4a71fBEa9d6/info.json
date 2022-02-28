@@ -1,0 +1,11 @@
+{
+ "name": "BingDwenDwen",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xD7Aec535c3d8d6743531FCfF7D50c4a71fBEa9d6",
+ "type": "BSC20",
+ "symbol": "BingDwenDwen",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD7Aec535c3d8d6743531FCfF7D50c4a71fBEa9d6"
+}
