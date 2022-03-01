@@ -1,0 +1,11 @@
+{
+ "name": " Dogkingson ",
+ "website": "http://dogekingcoins.com",
+ "description": "DogKingson is a derivative token of the doge king project. ",
+ "explorer": "https://bscscan.com/token/0x3d54c13e996a1eee91b2261200d6f6d7a267af45",
+ "type": "BEP20",
+ "symbol": " Dogkingson ",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3d54c13e996a1eee91b2261200d6f6d7a267af45"
+}
