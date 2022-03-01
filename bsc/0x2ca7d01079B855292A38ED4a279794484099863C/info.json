@@ -1,0 +1,11 @@
+{
+ "name": "FFQ",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x2ca7d01079B855292A38ED4a279794484099863C",
+ "type": "BEP20",
+ "symbol": "FFQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2ca7d01079B855292A38ED4a279794484099863C"
+}
