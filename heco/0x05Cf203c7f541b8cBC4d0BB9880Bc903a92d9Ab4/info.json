@@ -1,0 +1,11 @@
+{
+ "name": "HBOB",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://hecoinfo.com/token/0x05cf203c7f541b8cbc4d0bb9880bc903a92d9ab4",
+ "type": "HRC20",
+ "symbol": "HBOB",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x05Cf203c7f541b8cBC4d0BB9880Bc903a92d9Ab4"
+}
