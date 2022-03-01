@@ -1,0 +1,11 @@
+{
+  "name": "Speed Racer coin",
+  "website": "http://meng-li-fang.com/",
+  "description": "Speed Racer coin",
+  "explorer": "https://bscscan.com/address/0xAb8f300a34c2935849efa8989e908f1982ebB6ee",
+  "type": "BEP20",
+  "symbol": "SRC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xAb8f300a34c2935849efa8989e908f1982ebB6ee"
+}
