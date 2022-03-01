@@ -1,0 +1,11 @@
+{
+ "name": "dreamdog",
+ "website": "",
+ "description": "dreamdog is a platform token. The platform provides audit and insurance compensation services. The project settled on the platform must pay the corresponding deposit, so as to prevent and reduce fraud in the field of encryption.",
+ "explorer": "https://bscscan.com/token/0x134C76c16AbCE599cBf1710812Ed9D6577b6eEbB",
+ "type": "BEP20",
+ "symbol": "dreamdog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x134C76c16AbCE599cBf1710812Ed9D6577b6eEbB"
+}
