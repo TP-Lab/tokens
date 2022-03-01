@@ -1,0 +1,11 @@
+{
+ "name": "StarLinkChat",
+ "website": "https://starlink-chat.com",
+ "description": "Social communication tools using AR technology, including Difi, DEX, Metaverse, Games, NFT.",
+"explorer":"https://bscscan.com/token/0x47126e57BAA0aB8ae1F7A667283edCD1081b355C",
+ "type": "BEP20",
+ "symbol": "SLC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x47126e57BAA0aB8ae1F7A667283edCD1081b355C"
+} 
