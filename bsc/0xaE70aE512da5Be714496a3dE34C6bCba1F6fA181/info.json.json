@@ -1,0 +1,11 @@
+{
+ "name": "People Swap",
+ "website": "http://www.pps.tw/",
+ "description": "Only PPS has a future! Through our efforts, we can have sustainable income by earning PPS for the trading volume.",
+ "explorer": "https://bscscan.com/token/0xae70ae512da5be714496a3de34c6bcba1f6fa181",
+ "type": "BEP20",
+ "symbol": "PPS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaE70aE512da5Be714496a3dE34C6bCba1F6fA181"
+}
