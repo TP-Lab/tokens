@@ -1,0 +1,11 @@
+{
+ "name": "Warm Dog",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x53a6100dB0872BDcf9F6479fF870Be34d72BfD43",
+ "type": "BEP20",
+ "symbol": "WarmDog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x53a6100dB0872BDcf9F6479fF870Be34d72BfD43"
+}
