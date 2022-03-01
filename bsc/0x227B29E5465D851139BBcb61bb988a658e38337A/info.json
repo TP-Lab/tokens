@@ -1,0 +1,11 @@
+{
+ "name": "DiamondHands",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x227B29E5465D851139BBcb61bb988a658e38337A",
+ "type": "BSC20",
+ "symbol": "DiamondHands",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x227B29E5465D851139BBcb61bb988a658e38337A"
+}
