@@ -1,0 +1,11 @@
+{
+  "name": "NLP",
+  "website": "http://nlpdefi.pro/",
+  "description": "NLP是一款基于币安智能链（BSC）的P2E NFT 游戏。旨在通过普选NLP中收集NFT英雄，在不断与时空怪兽斗争的过程，灵智不断觉醒，不断提升并实现涅槃重生的过程。打造一个多元化，充满活力和包容性的，且高度自治的生态系统和社区。",
+  "explorer": "https://bscscan.com/token/0x90934fee7a274225d3e8864da725f13b3cd11aab",
+  "type": "BEP20",
+  "symbol": "NLP",
+  "decimals": 8,
+  "status": "active",
+  "id": "0x90934FeE7a274225d3e8864dA725F13b3cD11Aab"
+}
