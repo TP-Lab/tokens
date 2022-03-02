@@ -1,0 +1,11 @@
+{
+ "name": "Super Fist",
+ "website": "http://www.superfis.club",
+ "description": "The TOKEN issued by Super Fist based on the BSC chain.",
+ "explorer": "https://www.bscscan.com/address/0x9681BD3fe1635c7199715AcFd0811B4a18DF992b",
+ "type": "BEP20",
+ "symbol": "SFIS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9681BD3fe1635c7199715AcFd0811B4a18DF992b"
+}
