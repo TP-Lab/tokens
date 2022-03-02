@@ -1,0 +1,11 @@
+{
+ "name": "KunPeng Token",
+ "website": "https://bscscan.com/token/0xf8adcab4e750fc1d4092aea48b4bd3d6d11216a5",
+ "description": "KunPeng Token has DeFi extreme deflation mechanism, KunPeng Token issued 19,999!",
+ "explorer": "https://bscscan.com/token/0xf8adcab4e750fc1d4092aea48b4bd3d6d11216a5",
+ "type": "BEP20",
+ "symbol": "KP",
+ "decimals": "9",
+ "status": "active",
+ "id": "0xf8adcab4e750fc1d4092aea48b4bd3d6d11216a5"
+}
