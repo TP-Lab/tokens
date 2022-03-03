@@ -1,0 +1,11 @@
+﻿{
+ "name": "wohpeDao",
+ "website": "http://wohpedao.org",
+ "description": "WohpeDAO is a cross-border organization with no political leanings, driven by holders of $PEACE governance tokens.",
+ "explorer": "https://bscscan.com/token/0x86fDB97dFaCd6DdD9c397DC204712A43B1ee6150",
+ "type": "BEP20",
+ "symbol": "PEACE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x86fDB97dFaCd6DdD9c397DC204712A43B1ee6150"
+}
