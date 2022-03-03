@@ -1,0 +1,11 @@
+{
+ "name": "UNT",
+"website": "https://bscscan.com/token/0x894Fc0A04899F9156556EC0BE1Ee1fEa700aAacC",
+ "description": " BSC, UNT",
+ "explorer": "https://bscscan.com/token/0x894Fc0A04899F9156556EC0BE1Ee1fEa700aAacC",
+ "type": "BEP20",
+ "symbol": "UNT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x894Fc0A04899F9156556EC0BE1Ee1fEa700aAacC"
+}
