@@ -1,0 +1,11 @@
+{
+ "name": "DWT",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xce47bda1013dd613dfdeb9101fece9e931ea9624",
+ "type": "BEP20",
+ "symbol": "DWT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCe47bda1013dd613DfDEB9101fecE9e931Ea9624"
+}
