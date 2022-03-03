@@ -1,0 +1,11 @@
+{
+ "name": "CDOGE",
+ "website": "https://charitydoge.org",
+ "description": "CharityDoge, referred to as CDOGE, It's a charity token based on BSC..",
+ "explorer": "https://bscscan.com/address/0xcc615eCb1464F28C8ac64643D815600f3266BCFe",
+ "type": "BEP20",
+ "symbol": "CDOGE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xcc615eCb1464F28C8ac64643D815600f3266BCFe"
+}
