@@ -1,0 +1,11 @@
+{
+ "name": "CF",
+ "website": "",
+ "description": "CF is a Dao token issued by CF",
+ "explorer": "https://bscscan.com/token/0xF50770160340A6Ccb77fA504B848CE7B78332023",
+ "type": "BEP20",
+ "symbol": "CF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF50770160340A6Ccb77fA504B848CE7B78332023"
+}
