@@ -1,0 +1,11 @@
+{
+ "name": "JF HASH TOKEN",
+ "website": "https://app.jswap.finance/",
+ "description": "Burning Mining  Exchange 100 Hash with 1 JF (the expended JF will automatically burn).",
+ "explorer": "https://bscscan.com/token/0x3aBA0F7d7759D7B789F57E2a2d3F8290a7EC36c1",
+ "type": "BEP20",
+ "symbol": "JHT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3aBA0F7d7759D7B789F57E2a2d3F8290a7EC36c1"
+}
