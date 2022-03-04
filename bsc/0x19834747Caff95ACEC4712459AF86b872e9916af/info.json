@@ -1,0 +1,11 @@
+{
+ "name": "SERa",
+ "website": "http://serachat.com",
+ "description": "SER CHAT is connecting people around the world personally, financially, privately and securely.",
+ "explorer": "https://bscscan.com/token/0x19834747Caff95ACEC4712459AF86b872e9916af",
+ "type": "BEP20",
+ "symbol": "SERa",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x19834747Caff95ACEC4712459AF86b872e9916af"
+}
