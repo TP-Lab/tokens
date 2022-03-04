@@ -1,0 +1,11 @@
+{
+  "name": "Puffcake",
+  "website": "https://puffcakeswap.finance",
+  "description": "Puffcake is carried out on the decentralized platform of BSC chain, which mainly promotes the integration of its mechanism into other chains and other fields, with a total issuance of 200 million pieces.",
+  "explorer": "https://bscscan.com/address/0xe63c5ac4415f64fccefb31ed39605e7463b1f5e2",
+  "type": "BEP20",
+  "symbol": "PUFF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xE63C5Ac4415F64FCcefb31ed39605e7463B1f5E2"
+} 
