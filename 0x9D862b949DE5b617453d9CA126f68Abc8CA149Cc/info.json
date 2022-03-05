@@ -1,0 +1,11 @@
+{ 
+"name": "PikaVerse",
+"website": "https://pika-verse.com",
+"description": "Pikaverse is a Pokemon based metaverse. With NFT, Pokémon and other content trading.",
+"explorer": "https://bscscan.com/token/0x9D862b949DE5b617453d9CA126f68Abc8CA149Cc",
+"type": "BEP20",
+"symbol": "Pika",
+"decimals": 9,
+"status": "active",
+"id": "0x9D862b949DE5b617453d9CA126f68Abc8CA149Cc"
+} 
