@@ -1,0 +1,11 @@
+{
+    "name": "SpaceXDoge Coin",
+    "website": "https://spacexdoge.link",
+    "description": "Anyone can use SpaceXDoge to make convenient interstellar payments on StarLink, meta-universe games, starship fuel, NFT and so on.",
+    "explorer": "https://bscscan.com/token/0xbd0ee81b31fdc30892ca32a094fd548f7d1a6119",
+    "type": "BEP20",
+    "symbol": "SpaceXDoge",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xBD0eE81b31FDc30892Ca32A094fD548f7D1a6119"
+}

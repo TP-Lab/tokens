@@ -1,0 +1,11 @@
+{
+ "name": "YFA",
+ "website": "http://stake.syfadefi.com/",
+ "description": "Create a decentralized DEFI financial ecosystem, stake SYFA to earn more YFA",
+ "explorer": "https://tronscan.org/#/token20/TFrZRLFUw7e16XhgeNLTkGvrTm7rKWYcNv",
+ "type": "TRC20",
+ "symbol": "YFA",
+ "decimals": 18,
+ "status": "active",
+ "id": "TFrZRLFUw7e16XhgeNLTkGvrTm7rKWYcNv"
+}

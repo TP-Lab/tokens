@@ -1,0 +1,11 @@
+{
+ "name": "LokiBone",
+ "website": "http://www.lokidoge.com",
+ "description": "Lokibone is a subsidiary token of lokidoge.",
+ "explorer": "https://hecoinfo.com/token/0xd168e553552502ABbB3E343541804dd88eA0A22b",
+ "type": "HRC-20",
+ "symbol": "LBone",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd168e553552502ABbB3E343541804dd88eA0A22b"
+}

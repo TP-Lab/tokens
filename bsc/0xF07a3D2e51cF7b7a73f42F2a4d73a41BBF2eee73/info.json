@@ -1,0 +1,11 @@
+{
+ "name": "Trillionaire",
+ "website": "http://trillionaire.pro",
+ "description": "TRILLIONAIRE is a community driven, Fair launched MeMe Token, No Team Allocation, 100% decentralized liquidity pool.",
+ "explorer": "https://bscscan.com/token/0xF07a3D2e51cF7b7a73f42F2a4d73a41BBF2eee73",
+ "type": "BEP20",
+ "symbol": "TNAE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xF07a3D2e51cF7b7a73f42F2a4d73a41BBF2eee73"
+}

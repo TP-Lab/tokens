@@ -1,0 +1,11 @@
+{
+ "name": "Spark Token",
+ "website": "http://pc.sparkchaintoken.com/",
+ "description": "The purpose of SPK is to create a third-party authoritative voting governance token in the DEFI field",
+ "explorer": "https://bscscan.com/token/0xbe6EeF2027Bd9C7De56bbe10c12cA77dCf856c2c",
+ "type": "BEP20",
+ "symbol": "SPK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbe6EeF2027Bd9C7De56bbe10c12cA77dCf856c2c"
+}

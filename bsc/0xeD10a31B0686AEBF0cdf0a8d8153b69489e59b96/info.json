@@ -1,0 +1,11 @@
+{
+ "name": "MetaverseKIDDOGE",
+ "website": "https://kid.finance",
+ "description": "BSC TOKEN",
+ "explorer": "https://bscscan.com/token/0xeD10a31B0686AEBF0cdf0a8d8153b69489e59b96",
+ "type": "BSC",
+ "symbol": "KIDDOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xeD10a31B0686AEBF0cdf0a8d8153b69489e59b96"
+}

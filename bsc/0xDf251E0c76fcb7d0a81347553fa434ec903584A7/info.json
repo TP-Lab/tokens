@@ -1,0 +1,11 @@
+{
+ "name": "Financialmodel",
+ "website": "fmlpro.com",
+ "description": "A financial model test token.",
+ "explorer": "https://bscscan.com/token/0xDf251E0c76fcb7d0a81347553fa434ec903584A7",
+ "type": "BEP20",
+ "symbol": "FML",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xDf251E0c76fcb7d0a81347553fa434ec903584A7"
+}

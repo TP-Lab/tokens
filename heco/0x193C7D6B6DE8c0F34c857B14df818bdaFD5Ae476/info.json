@@ -1,0 +1,11 @@
+{
+ "name": "Watermelonchain?Token",
+ "website": "-",
+ "description": "WLC每笔转账交易均扣税8%，5%回归流动性矿池，1%销毁，2%分配给全体持有者。",
+ "explorer": "https://hecoinfo.com/address/0x193C7D6B6DE8c0F34c857B14df818bdaFD5Ae476",
+ "type": "HRC-20",
+ "symbol": "WLC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x193C7D6B6DE8c0F34c857B14df818bdaFD5Ae476"
+}

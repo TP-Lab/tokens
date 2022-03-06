@@ -1,0 +1,11 @@
+{
+ "name": "BianLieYan Token",
+ "website": "https://bianlieyan.pro",
+ "description": "Flame Community issued BALY token based on BSC chain in November 2021. The total circulation is 10000000000 and will not be increased. The Flame Community will develop an MMO 3D planet meta universe game with a style similar to decentraland, and we have a real 3D planet that can be scaled up and down like a planet. This feature is the first to be demonstrated in the global game market.",
+ "explorer": "https://bscscan.com/token/0x377e875985275C9c551Be72D57D98A85385ea076",
+ "type": "BEP20",
+ "symbol": "BALY",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x377e875985275C9c551Be72D57D98A85385ea076"
+}

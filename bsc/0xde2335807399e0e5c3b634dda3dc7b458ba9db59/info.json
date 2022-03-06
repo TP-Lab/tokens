@@ -1,0 +1,11 @@
+{
+ "name": "Rocket Floki Coin",
+ "website": "https://www.rocketfloki.info",
+ "description": "Rocket Floki Coin.",
+ "explorer": "https://bscscan.com/token/0xde2335807399e0e5c3b634dda3dc7b458ba9db59",
+ "type": "BEP20",
+ "symbol": "Rocket Floki",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xde2335807399e0e5c3b634dda3dc7b458ba9db59"
+}

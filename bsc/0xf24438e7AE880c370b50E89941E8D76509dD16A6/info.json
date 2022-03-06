@@ -1,0 +1,11 @@
+{
+ "name": "TikTok Token",
+ "website": "https://www.tiktoktokenweb.com",
+ "description": "Content creation community governance token",
+ "explorer": "https://bscscan.com/token/0xf24438e7ae880c370b50e89941e8d76509dd16a6",
+ "type": "BEP20",
+ "symbol": "TKKT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf24438e7AE880c370b50E89941E8D76509dD16A6"
+}

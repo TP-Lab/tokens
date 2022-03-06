@@ -1,0 +1,11 @@
+{
+ "name": "XBC",
+ "website": "http://XBC.club/",
+ "description": "XBC.",
+ "explorer": "https://hecoinfo.com/token/0x781647733650A313436Ec8fE0c89f1f843879C10",
+ "type": "HRC-2",
+ "symbol": "XBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x781647733650A313436Ec8fE0c89f1f843879C10"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "DOG DAD",
+ "website": "",
+ "description": "DOG DAD FLY",
+ "explorer": "https://bscscan.com/token/0x53667c68AD685b582c829F476E2Ad07f5754c7D1",
+ "type": "BEP20",
+ "symbol": "DOG DAD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x53667c68AD685b582c829F476E2Ad07f5754c7D1"
+}

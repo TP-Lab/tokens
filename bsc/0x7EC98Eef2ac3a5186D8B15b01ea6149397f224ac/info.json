@@ -1,0 +1,11 @@
+{
+ "name": "GDF",
+ "website": "https://www.gdftoken.com",
+ "description": "GDF was marketed by Fidelity lnvestments. Totally supply:1000 trillion.",
+ "explorer": "https://bscscan.com/token/0x7ec98eef2ac3a5186d8b15b01ea6149397f224ac",
+ "type": "BEP20",
+ "symbol": "GDF",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x7ec98eef2ac3a5186d8b15b01ea6149397f224ac"
+}

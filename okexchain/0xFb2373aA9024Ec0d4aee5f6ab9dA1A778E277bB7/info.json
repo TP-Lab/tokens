@@ -1,0 +1,11 @@
+{
+ "name": "HMD",
+ "website": "https://hmd.finance/",
+ "description": "共享OKT挖矿红利，HiveMind Finance 打造DeFi生态一站式多链收益聚合协议。",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xfb2373aa9024ec0d4aee5f6ab9da1a778e277bb7",
+ "type": "KIP20",
+ "symbol": "HMD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xfb2373aa9024ec0d4aee5f6ab9da1a778e277bb7"
+}

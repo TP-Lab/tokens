@@ -1,0 +1,11 @@
+{
+ "name": "CACToken",
+ "website": "https://cfalab.pro",
+ "description": "A truly valuable space mine token.",
+ "explorer": "https://bscscan.com/address/0x644ada741ff058aF529E3380b3645f224e3700cC",
+ "type": "BEP20",
+ "symbol": "CAC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x644ada741ff058aF529E3380b3645f224e3700cC"
+}

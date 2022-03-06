@@ -1,0 +1,11 @@
+{
+  "name": "NewBet Token",
+  "website": "http://newbet.vip",
+  "description": "NewBet is a next-generation game platform based on BSC chain startup and will be deployed cross-chains in the future.",
+  "explorer": "https://bscscan.com/token/0x1845e52fa43F717aBE126eF5d59e96431997301c",
+  "type": "BEP20",
+  "symbol": "NB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1845e52fa43F717aBE126eF5d59e96431997301c"
+}

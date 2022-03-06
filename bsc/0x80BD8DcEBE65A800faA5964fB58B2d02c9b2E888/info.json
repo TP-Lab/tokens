@@ -1,0 +1,11 @@
+{
+ "name": "ANTY",
+ "website": "https://anty.me",
+ "description": "The world’s strongest ecological consensus token!",
+ "explorer": "https://bscscan.com/address/0x80bd8dcebe65a800faa5964fb58b2d02c9b2e888",
+ "type": "BEP20",
+ "symbol": "ANTY",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x80BD8DcEBE65A800faA5964fB58B2d02c9b2E888"
+}

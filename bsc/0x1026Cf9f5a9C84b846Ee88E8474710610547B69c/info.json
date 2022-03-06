@@ -1,0 +1,11 @@
+{
+ "name": "PER Token",
+ "website": "http://www.diemper.com",
+ "description": "PER Token，美国知名数字货币交易所Diemword发行，交易所已经取得美国交易所牌照。Per Token总发行量3亿，70%为质押挖矿，10%流动池，10%战略合作，5%技术线性释放，5%天使社区线性释放。",
+ "explorer": "https://bscscan.com/token/0x1026Cf9f5a9C84b846Ee88E8474710610547B69c",
+ "type": "BEP20",
+ "symbol": "PER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1026Cf9f5a9C84b846Ee88E8474710610547B69c"
+}

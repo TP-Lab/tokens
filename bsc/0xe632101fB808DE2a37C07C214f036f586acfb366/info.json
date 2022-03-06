@@ -1,0 +1,11 @@
+{
+ "name": "Cruise",
+ "website": "https://www.crefi.finance",
+ "description": "CREFI",
+ "explorer": "https://bscscan.com/token/0xe632101fb808de2a37c07c214f036f586acfb366",
+ "type": "BEP20",
+ "symbol": "CRE",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xe632101fB808DE2a37C07C214f036f586acfb366"
+}

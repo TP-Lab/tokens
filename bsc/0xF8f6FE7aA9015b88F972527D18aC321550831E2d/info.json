@@ -1,0 +1,11 @@
+{
+ "name": "NMN Token",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xF8f6FE7aA9015b88F972527D18aC321550831E2d",
+ "type": "BSC20",
+ "symbol": "NMN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF8f6FE7aA9015b88F972527D18aC321550831E2d"
+}

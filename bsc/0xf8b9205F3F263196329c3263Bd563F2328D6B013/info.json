@@ -1,0 +1,11 @@
+{
+    "name": "Trevi Fountain",
+    "website": "https://www.trevif.com/",
+    "description": "It's a lottery token.Every time you buy can have a chance to win BNB in the lottery pool.",
+    "type": "BEP20",
+     "symbol": "TreviF",
+     "decimals": 9,
+     "status": "active",
+     "id": "0xf8b9205F3F263196329c3263Bd563F2328D6B013",
+     "explorer": "https://bscscan.com/token/0xf8b9205F3F263196329c3263Bd563F2328D6B013"
+}

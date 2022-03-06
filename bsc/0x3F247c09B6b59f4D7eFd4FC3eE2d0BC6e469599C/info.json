@@ -1,0 +1,11 @@
+{
+ "name": "Champion Token",
+ "website": "http://www.chmptoken.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x3F247c09B6b59f4D7eFd4FC3eE2d0BC6e469599C",
+ "type": "BEP20",
+ "symbol": "CHMP",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x3F247c09B6b59f4D7eFd4FC3eE2d0BC6e469599C"
+}

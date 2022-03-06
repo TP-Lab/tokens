@@ -1,0 +1,11 @@
+{
+ "name": "Alva",
+ "website": "https://www.houndcoin.net",
+ "description": "MLSEX uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://hecoinfo.com/token/0x24c59471740D3299a3D4baE416dAFd3e39e55D80",
+ "type": "HRC20",
+ "symbol": "Alva",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x24c59471740D3299a3D4baE416dAFd3e39e55D80"
+}

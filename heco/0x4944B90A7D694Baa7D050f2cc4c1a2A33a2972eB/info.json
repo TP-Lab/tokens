@@ -1,0 +1,11 @@
+{
+    "name": "Heccoicoin",
+    "website": "https://www.hecc.club/",
+    "description": "Unique network management platform on HECO.",
+    "explorer": "https://hecoinfo.com/token/0x4944b90a7d694baa7d050f2cc4c1a2a33a2972eb",
+    "type": "HRC-20",
+    "symbol": "HECC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4944b90a7d694baa7d050f2cc4c1a2a33a2972eb"
+   }

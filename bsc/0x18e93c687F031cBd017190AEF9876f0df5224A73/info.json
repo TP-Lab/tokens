@@ -1,0 +1,11 @@
+{
+ "name": "NLCV2",
+ "website": "https://bscscan.com/address/0x18e93c687F031cBd017190AEF9876f0df5224A73",
+ "description": "NLC is community-driven and publicly and fairly issues tokens on the BSC network. No reservations, no team assignments. 100% decentralization, the flow pool is permanently locked.",
+ "explorer": "https://bscscan.com/address/0x18e93c687F031cBd017190AEF9876f0df5224A73",
+ "type": "BEP20",
+ "symbol": "NLCV2",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x18e93c687F031cBd017190AEF9876f0df5224A73"
+}

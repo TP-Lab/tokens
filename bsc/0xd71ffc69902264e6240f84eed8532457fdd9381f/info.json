@@ -1,0 +1,11 @@
+{
+ "name": "Gamesquare Esports Inc",
+ "website": "https://www.gamesquare.com/",
+ "description": "Currency information introduction: Gamesquare helps brands and esports play together.",
+ "explorer": "https://bscscan.com/token/0xd71ffc69902264e6240f84eed8532457fdd9381f ",
+ "type": "BEP20",
+ "symbol": "GSQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD71fFc69902264E6240f84EEd8532457fdD9381F"
+}

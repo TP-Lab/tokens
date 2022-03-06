@@ -1,0 +1,13 @@
+{
+ "name": "LittleTiger Token",
+ "website": "https://littletigercoin.com",
+ "description": "LittleTiger is an innovative new type of cryptocurrency initiated by blockchain technicians and little tiger enthusiasts. Token
+80% were burned and only 20% circulated, aiming to become more scarce over time. Every transaction in the network (purchase
+In or out), 5% of the transaction will be allocated to existing holders.",
+ "explorer": "https://bscscan.com/token/0x6C8BF92362e9E3D7aFcb51f86720a577A269c982",
+ "type": "BEP20",
+ "symbol": "LittleTiger",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6C8BF92362e9E3D7aFcb51f86720a577A269c982"
+}

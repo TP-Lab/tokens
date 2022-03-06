@@ -1,0 +1,11 @@
+{
+"name": "FDEX",
+"website": "http://www.fdex.co",
+"description": "FDex是一个完全去中心化的永续合约交易协议。FDex的所有的参与者，开发运营团队、投资人、LP做市商以及普通交易者都是这个系统的共同合伙人，无二无别，任何一方都只能参与其中，且无层级高下之分。而整个智能合约系统自我成长的红利，将自动按照合约代码逻辑，合理回馈给所有参与者。主体合约一旦上线，永不宕机，无需维护，任何人也没有权限去修改合约规则。",
+"explorer": "https://hecoinfo.com/address/0xBB3266A46d2D128E09eAbfD6364a3d9de5cC2152",
+"type": "HRC20",
+"symbol": "FDEX",
+"decimals": 18,
+"status": "active",
+"id": "0xbb3266a46d2d128e09eabfd6364a3d9de5cc2152"
+}

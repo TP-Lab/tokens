@@ -1,0 +1,11 @@
+{
+  "name": "WINNER",
+  "website": "https://bscwinner.com",
+  "description": "Winner is a decentralized cross-chain oracle network that defines and implements a brand new scheme for generating on-chain prices on the blockchain.",
+  "explorer": "https://bscscan.com/token/0xBB8f075b11c9298F6f702DFEB3CBc8EA1499e4f6",
+  "type": "BEP20",
+  "symbol": "WINNER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xBB8f075b11c9298F6f702DFEB3CBc8EA1499e4f6"
+}

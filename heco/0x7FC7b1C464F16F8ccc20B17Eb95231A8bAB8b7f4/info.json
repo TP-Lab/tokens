@@ -1,0 +1,11 @@
+{
+ "name": "HN Token",
+ "website": "http://hncoin.cc",
+ "description": "HN是火币链DEFI项目，极速通缩型去中心化代币.",
+ "explorer": "https://hecoinfo.com/token/0x7fc7b1c464f16f8ccc20b17eb95231a8bab8b7f4",
+ "type": "HRC20",
+ "symbol": "HN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7fc7b1c464f16f8ccc20b17eb95231a8bab8b7f4"
+}

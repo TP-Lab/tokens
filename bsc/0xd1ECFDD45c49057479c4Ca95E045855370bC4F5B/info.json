@@ -1,0 +1,11 @@
+{
+    "name": "Griffin Art",
+    "website": "https://www.griffinart.finance",
+    "description": "A new NFT marketplace platform that builds a universal ground for various types of different talented artists who can showcase their talent and thus also bridging the gap between Mainstream and niche digital artists.",
+    "explorer": "https://bscscan.com/token/0xd1ECFDD45c49057479c4Ca95E045855370bC4F5B",
+    "type": "BEP20",
+    "symbol": "GART",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xd1ECFDD45c49057479c4Ca95E045855370bC4F5B"
+}

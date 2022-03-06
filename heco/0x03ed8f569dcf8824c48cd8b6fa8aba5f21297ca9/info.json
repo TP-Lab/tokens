@@ -1,0 +1,11 @@
+{
+ "name": "SHIBA INU MOTHER",
+ "website": "https://www.shibmtoken.com",
+ "description": "Shiba Inu Mother (SHIBM) is a decentralized and perpetual deflation token issued on the Huobi Smart Chain.",
+ "explorer": "https://hecoinfo.com/token/0x03ed8f569dcf8824c48cd8b6fa8aba5f21297ca9",
+ "type": "HRC20",
+ "symbol": "SHIBM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x03ed8f569dcf8824c48cd8b6fa8aba5f21297ca9"
+}

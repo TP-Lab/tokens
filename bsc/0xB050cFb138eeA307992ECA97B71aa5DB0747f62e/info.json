@@ -1,0 +1,11 @@
+{
+ "name": "ZOS",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/address/0xb050cfb138eea307992eca97b71aa5db0747f62e",
+ "type": "BEP20",
+ "symbol": "ZOS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xB050cFb138eeA307992ECA97B71aa5DB0747f62e"
+}

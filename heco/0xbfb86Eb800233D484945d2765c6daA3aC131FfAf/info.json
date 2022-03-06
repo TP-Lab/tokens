@@ -1,0 +1,11 @@
+{
+ "name": "YYC-TOKEN",
+ "website": "http://www.cryptometaverse.xyz",
+ "description": "The fish pond (YYC) is a new type of animal breeding coin initiated by the community who loves fishing. It has no team shares and no private placement. 70% is distributed to the community by airdrops, 5% is distributed to community volunteers based on contributions, and 25% is used Create an initial transaction liquidity pool and destroy the private key.",
+ "explorer": "https://hecoinfo.com/token/0xbfb86Eb800233D484945d2765c6daA3aC131FfAf",
+ "type": "HRC20",
+ "symbol": "YYC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbfb86Eb800233D484945d2765c6daA3aC131FfAf"
+}

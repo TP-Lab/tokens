@@ -1,0 +1,11 @@
+{
+ "name": "MARST Project",
+ "website": "https://marstproject.com",
+ "description": "It is a purely motion and fluidity agreement, and it is frictionless, and it can be used for continuous motion and fluidity.",
+ "explorer": "https://bscscan.com/token/0x500b59ae41c140cb508efd8320e4c92df450f4e3",
+ "type": "BEP20",
+ "symbol": "MARST",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x500b59ae41c140cb508efd8320e4c92df450f4e3"
+}

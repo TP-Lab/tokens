@@ -1,0 +1,11 @@
+{
+ "name": "SUN Token",
+ "website": "https://www.100SunGlobal.io",
+ "description": "Realize the integration of all ecological rights and interests of 100sunglobal platform, make the platform ecology decentralized, open, transparent and standardized in the form of token from generation to use to value transmission under the unified rights and interests system, and adopt PSS smart contract algorithm + physical proof algorithm to realize the value logic that participants are contributors;",
+ "explorer": "https://cn.etherscan.com/token/0x820fdda87a6fae864d3da0c2d9819b9e50a87fc9",
+ "type": "ERC20",
+ "symbol": "SUNT",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x820fDDA87A6fAe864d3da0C2D9819B9e50a87fc9"
+}

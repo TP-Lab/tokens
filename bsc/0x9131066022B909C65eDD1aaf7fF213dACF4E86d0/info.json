@@ -1,0 +1,11 @@
+{ 
+"name": "META-UTOPIA LAND",
+"website": "https://meta-utopia.co/app/",
+"description": "Meta-Utopia is a MetaFi project driven by community consensus to build an ideal world, an Utopia in the Metaverse. Cultivation of land and population growth sets the foundation of the Meta-Utopia before building and development of the island commence. The target of the Meta-Utopia is to realize a sustainable virtual ecosystem and create a peaceful environment for all its citizens.",
+"explorer": "https://bscscan.com/token/0x9131066022B909C65eDD1aaf7fF213dACF4E86d0",
+"type": "BEP20",
+"symbol": "LAND",
+"decimals": 18,
+"status": "active",
+"id": "0x9131066022B909C65eDD1aaf7fF213dACF4E86d0"
+}

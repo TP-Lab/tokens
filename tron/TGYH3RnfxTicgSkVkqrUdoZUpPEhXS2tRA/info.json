@@ -1,0 +1,11 @@
+{
+    "name": "XiangRiKui",
+    "website": "https://www.susyangguang.io",
+    "description": "Sun coin (SUS) is issued based on the wave field chain TRX, with a total amount of 9999. It will never be added. It is jointly launched by the nine communities, and the alliance is flame community. It builds community consensus from many aspects. The word "community consensus" actually integrates many factors. The main purpose is to use the strong consensus of the nine communities to promote the progress of the blockchain industry, which is the global community dream of sunshine coin. Based on the strength of the nine communities, we can accelerate the progress of the whole blockchain industry. Nine community alliances, democratic autonomy, free consensus.",
+    "explorer": "https://tronscan.io/#/contract/TGYH3RnfxTicgSkVkqrUdoZUpPEhXS2tRA/transactions",
+    "type": "TRC20",
+    "symbol": "SUS",
+    "decimals": 8,
+    "status": "active",
+    "id": "TGYH3RnfxTicgSkVkqrUdoZUpPEhXS2tRA"
+   }

@@ -1,0 +1,11 @@
+{
+ "name": "Good Shield",
+ "website": "https://sd.epwdefi.com",
+ "description": "Good shield (SD) is a highly open and autonomous community. Each holder can participate in community development and construction.",
+ "explorer": "https://bscscan.com/token/0xCda06Cd0acB76C4E4386cb27e8F5112Ba5912025",
+ "type": "BEP20",
+ "symbol": "SD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCda06Cd0acB76C4E4386cb27e8F5112Ba5912025"
+}

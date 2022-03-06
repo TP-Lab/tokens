@@ -1,0 +1,11 @@
+{
+    "name": "Doo",
+    "website": "https://www.dootoken.info/",
+    "description": "A community-based blockchain token devoted to save children suffering from illness and disablity.",
+    "explorer": "https://bscscan.com/token/0xa62C9b8B63d2713C3cece3b2c764491fB40F5f9a",
+    "type": "BEP20",
+    "symbol": "Doo",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa62C9b8B63d2713C3cece3b2c764491fB40F5f9a"
+   }

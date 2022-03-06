@@ -1,0 +1,11 @@
+{
+ "name": "ATLANTIS ORIGIN",
+ "website": "https://atlantis-origin.com",
+ "description": "Atlantis origin is a meta universe game, which virtualizes the survival and development in the real world.",
+ "explorer": "https://bscscan.com/token/0x7625b10b5279DF46A09ea23889c1861284ae4a2F",
+ "type": "BEP20",
+ "symbol": "ATS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7625b10b5279DF46A09ea23889c1861284ae4a2F"
+}

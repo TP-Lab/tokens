@@ -1,0 +1,11 @@
+{
+ "name": "NFLA",
+ "website": "",
+ "description": "NFLA token is a new token on Binance Smart Chain network. We want to help animals, forests and humans that be hurt by NFLA.",
+ "explorer": "https://bscscan.com/token/0xE69285256B614231D61479D307Ab67d40D80Bc94",
+ "type": "BEP20",
+ "symbol": "NFLA",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xE69285256B614231D61479D307Ab67d40D80Bc94"
+}

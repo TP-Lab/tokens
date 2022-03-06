@@ -1,0 +1,11 @@
+{
+ "name": "BabyKangaroo",
+ "website": "https://babykangaroo.fun",
+ "description": "Hey! I am redefining the crypto space, move aside baby doge, I am coming through!",
+ "explorer": "https://bscscan.com/token/0xd510222e24c83d7e77efed2c949ad358c537376d",
+ "type": "BEP20",
+ "symbol": "BKO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd510222e24c83d7e77efed2c949ad358c537376d"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BORT Token",
+ "website": "http://www.borttoken.com",
+ "description": "BORT是一个集DeFi、SWAP为一体的火币链（HECO），具有极致通缩和社区自制型的生态系统.",
+ "explorer": "https://hecoinfo.com/address/0x553e00F34ACB1219728474E71ea3D465Bf7Bc785",
+ "type": "HRC-20",
+ "symbol": "BORT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x553e00F34ACB1219728474E71ea3D465Bf7Bc785"
+}

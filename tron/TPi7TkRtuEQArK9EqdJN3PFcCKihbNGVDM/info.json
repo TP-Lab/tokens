@@ -1,0 +1,11 @@
+{
+ "name": "HXBToken",
+ "website": "https://tronscan.io/",
+ "description": "恒星币",
+ "explorer": "https://tronscan.io/#/token20/TMFRTVuoHxkstVSNFfu4SKQQ6TsSDZssKB",
+ "type": "TRC20",
+ "symbol": "HXB",
+ "decimals": 6,
+ "status": "active",
+ "id": "TPi7TkRtuEQArK9EqdJN3PFcCKihbNGVDM"
+}

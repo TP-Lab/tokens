@@ -1,0 +1,11 @@
+{
+ "name": "GBT",
+ "website": "http://gbt.cool/",
+ "description": "GBT代幣支持GameBox 區塊鏈遊戲，如NFT卡牌，經營策略，飛行射擊，休閒娛樂，ARPG，塔防，DAO治理等。 GBT 代表著未來區塊鏈世界裏，區塊鏈GameBox 的股東權益。",
+ "explorer": "https://tronscan.org/#/token20/TLVkRDryKyb7uu6RLie8pcgUs4oWCM48FF",
+ "type": "TRC20",
+ "symbol": "GBT",
+ "decimals": 8,
+ "status": "active",
+ "id": "TLVkRDryKyb7uu6RLie8pcgUs4oWCM48FF"
+}

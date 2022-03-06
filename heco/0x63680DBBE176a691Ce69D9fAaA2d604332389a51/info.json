@@ -1,0 +1,11 @@
+{
+ "name": "LUCKS SWAP",
+ "website": "http://luckyswap.club/",
+ "description": "Luks swap is a decentralized deflationary currency based on the fire coin ecological chain, with a total amount of 30000. 1% of each transfer transaction will be destroyed, and 2% will be allocated to all holders, which is completely autonomous by the community. unt.",
+ "explorer": "https://hecoinfo.com/token/0x63680DBBE176a691Ce69D9fAaA2d604332389a51",
+ "type": "HRC-2",
+ "symbol": "LUCKS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x63680DBBE176a691Ce69D9fAaA2d604332389a51"
+}

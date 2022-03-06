@@ -1,0 +1,10 @@
+{
+ "name": "ICU.Finance",
+ "website": "https://icu.finance/",
+ "description": "A yielding farming protocol ICU aims to save those projects attacked by the market crash.",
+ "explorer": "https://https://bscscan.com/token/0x47C665fe1045CB4d9B6f036C8d15b17ac7BB8117",
+ "type": "BEP20",
+ "symbol": "ICU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x47C665fe1045CB4d9B6f036C8d15b17ac7BB8117"

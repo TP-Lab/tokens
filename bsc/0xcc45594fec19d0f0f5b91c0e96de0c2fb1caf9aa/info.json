@@ -1,0 +1,11 @@
+{
+ "name": "Bitstamp Pro Token",
+ "website": "https://www.bspc.vip",
+ "description": " Bitstamp Pro BSPC, every coin is precious. BSPC is fairly launched with 100% supply added to Pancakeswap liquidity and locked for 10 years.",
+ "explorer": "https://bscscan.com/token/0xcc45594fec19d0f0f5b91c0e96de0c2fb1caf9aa",
+ "type": "BEP20",
+ "symbol": "BSPC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xcC45594fec19D0F0f5B91c0E96DE0C2Fb1cAf9AA"
+}

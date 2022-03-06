@@ -1,0 +1,11 @@
+{
+ "name": "Dogfood",
+ "website": "https://dogfoodcoin.org",
+ "description": "Dogfood is a deflationary coin designed to become scarcer over time.",
+ "explorer": "https://bscscan.com/address/0x9B482a1Dc4F90498E1506E3355637e44921805da",
+ "type": "BEP20",
+ "symbol": "Dogfood",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9B482a1Dc4F90498E1506E3355637e44921805da"
+}

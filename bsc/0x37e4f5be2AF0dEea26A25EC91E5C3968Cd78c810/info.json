@@ -1,0 +1,11 @@
+{
+ "name": "Hachi Coin",
+ "website": "https://hachicoin.app",
+ "description": "Hachi Coin忠犬八公.",
+ "explorer": "https://bscscan.com/token/0x37e4f5be2AF0dEea26A25EC91E5C3968Cd78c810",
+ "type": "BEP20",
+ "symbol": "Hachi",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x37e4f5be2AF0dEea26A25EC91E5C3968Cd78c810"
+}

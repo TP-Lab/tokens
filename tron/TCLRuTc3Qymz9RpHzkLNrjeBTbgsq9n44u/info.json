@@ -1,0 +1,11 @@
+{
+ "name": "pinetwork",
+ "website": "https://www.piinetwork.net/",
+ "description": "PiNetwork起始于2019年3月14日，这也是项目名称的由来，圆周率几。Pi的核心团队由两名斯坦福大学博士和一名斯坦福大学MBA带领，他们都曾帮助建立斯坦福大学的区块链社区。PI是一个旨在建立一个由日常人员保护和运营的加密货币和智能合约平台，加推PI币期货的总量，PI币的发行量将进行通缩，获取PI币期货将变难，这将极大有益于未来主网上线后整个网络的安全和治理上的去中心化。",
+ "explorer": "https://tronscan.io/#/token20/TCLRuTc3Qymz9RpHzkLNrjeBTbgsq9n44u",
+ "type": "TRC20",
+ "symbol": "Pi",
+ "decimals": 18,
+ "status": "active",
+ "id": "TCLRuTc3Qymz9RpHzkLNrjeBTbgsq9n44u"
+}

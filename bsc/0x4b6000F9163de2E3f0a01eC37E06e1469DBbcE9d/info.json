@@ -1,0 +1,11 @@
+{
+    "name": "KEYFI",
+    "website": "https://keyfi.com",
+    "description": "KeyFi provides intelligent tools for managing your DeFi portfolio, from basic DApp functions like tracking, swapping, and staking, to more advanced tools like custom strategy builders, yield projection, and advanced research dashboards. We seek to solve DeFi user challenges such as juggling multiple wallets/platforms/chains, manually comparing yield, and the lack of historical data. Manage multiple assets, across multiple chains, and across multiple platforms and protocols such as Compound, Aave, 1inch, and more, all from one convenient application.",
+    "explorer": "https://bscscan.com/token/0x4b6000F9163de2E3f0a01eC37E06e1469DBbcE9d",
+    "type": "BEP20",
+    "symbol": "KEYFI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4b6000F9163de2E3f0a01eC37E06e1469DBbcE9d"
+}

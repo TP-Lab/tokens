@@ -1,0 +1,11 @@
+{
+ "name": "TokenPocket Token",
+ "website": "http://www.gocp.xyz",
+ "description": "GOCP BlockChain is a public chain based on the underlying technology of the blockchain. Through a decentralized structure, the real economy is connected to the blockchain to create an application ecology. GOCP is committed to empowering the transformation and upgrading of the real economy and providing top-level business model design for entities , Token economic model design, corporate commercial value reshaping, blockchain technology development and scenario application and other overall chain reform services, realize corporate value interconnection, and build a new economic ecology with consensus and trust.",
+ "explorer": "https://hecoinfo.com/token/0x47dd08ac01fE7924d834B53757420bACa97B16dB",
+ "type": "HECO",
+ "symbol": "GOCP",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x47dd08ac01fE7924d834B53757420bACa97B16dB"
+}

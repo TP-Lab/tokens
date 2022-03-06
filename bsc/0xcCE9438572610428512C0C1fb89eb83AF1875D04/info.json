@@ -1,0 +1,10 @@
+{
+ "name": "BabyPanda Coin",
+ "website": "https://tokenpocket.pro",
+ "explorer": "https://bscscan.com/token/0xcCE9438572610428512C0C1fb89eb83AF1875D04",
+ "type": "BEP20",
+ "symbol": "BabyPanda",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcCE9438572610428512C0C1fb89eb83AF1875D04"
+}

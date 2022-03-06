@@ -1,0 +1,11 @@
+{
+ "name": "DogeBTC",
+ "website": "https://www.dogebtc.finance/",
+ "description": "This marks a new era in the Doge Hype! Earning BTC with Holding DogeBTC. Yes, our distribution is BITCOIN! 10% will be re-distributed among our community! ",
+ "explorer": "https://bscscan.com/token/0xb3fa62eD37e885e3F6b98F1Bf9EAa724BB9afF39",
+ "type": "BEP20",
+ "symbol": "DogeBTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb3fa62eD37e885e3F6b98F1Bf9EAa724BB9afF39"
+}

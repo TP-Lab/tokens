@@ -1,0 +1,11 @@
+{
+ "name": "HotDog Token",
+ "website": "https://www.hotdogcoin.org/",
+ "description": "HotDog will be deployed on multiple public chains (the first BSC Binance smart chain), with features such as security, low transaction costs and fast speed.",
+ "explorer": "https://bscscan.com/token/0x82248D8AAaAA115AFfF29A7046Dbb8bFCe25141e",
+ "type": "BEP20",
+ "symbol": "HotDog",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x82248D8AAaAA115AFfF29A7046Dbb8bFCe25141e"
+}

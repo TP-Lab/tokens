@@ -1,0 +1,11 @@
+{
+ "name": "Gicta Token",
+ "website": "https://www.gictatoken.com",
+ "description": "Gicta Token",
+ "explorer": "https://bscscan.com/token/0x2f03Fd229502fd78B9dB617C96D09A32ED109CCf",
+ "type": "BEP20",
+ "symbol": "Gicta",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2f03Fd229502fd78B9dB617C96D09A32ED109CCf"
+} 

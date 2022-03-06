@@ -1,0 +1,11 @@
+{
+ "name": "StepHero",
+ "website": "https://stephero.io/",
+ "description": "The lucrative NFT fantasy-themed RPG Game on BSC and Polygon",
+ "explorer": "https://bscscan.com/token/0x17A6b9D8F63b1132adD324dd9173Fc5063fA97aA",
+ "type": "BEP20",
+ "symbol": "StepHero",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x17A6b9D8F63b1132adD324dd9173Fc5063fA97aA"
+}

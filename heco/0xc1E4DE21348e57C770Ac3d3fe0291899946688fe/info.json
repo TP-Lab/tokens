@@ -1,0 +1,11 @@
+{
+ "name": "agswap Token",
+ "website": "http://www.agswap.xyz",
+ "description": "The world's first decentralized trading platform for transaction deflation mining, AGSwap, realizes multi-chain sharing of digital assets by constructing a multi-chain ecological deployment system. AGSwap provides multiple public chains and cross-chain aggregate transaction functions, which integrates cross-chain liquidity , To realize the intelligent scene of multiple public chains, and to create a seamless exchange and interoperability application of multi-chain native assets.",
+ "explorer": "https://hecoinfo.com/token/0xc1E4DE21348e57C770Ac3d3fe0291899946688fe",
+ "type": "HECO",
+ "symbol": "AG",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xc1E4DE21348e57C770Ac3d3fe0291899946688fe"
+}

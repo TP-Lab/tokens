@@ -1,0 +1,11 @@
+{
+ "name": "DM5-COIN",
+ "website": "https://bscscan.com/token/0xB26F540B3bf89C60409F96730F5D7dfD849d79Ef",
+ "description": "DM5 TOKEN.",
+ "explorer": "https://bscscan.com/token/0xB26F540B3bf89C60409F96730F5D7dfD849d79Ef",
+ "type": "BEP20",
+ "symbol": "DM5",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB26F540B3bf89C60409F96730F5D7dfD849d79Ef"
+}

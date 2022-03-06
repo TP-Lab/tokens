@@ -1,0 +1,11 @@
+{
+ "name": "NOEL FINANCE",
+ "website": "https://noel_finance@outlook.com",
+ "description": "Noel Finance is a decentralized fund platform which providing global users with a decentralized financial infrastructure.",
+ "explorer": "https://bscscan.com/token/0x8F98eF7B541Ddfe300Dbb5F33C98F322BBdc120D",
+ "type": "BEP20",
+ "symbol": "NTFI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8F98eF7B541Ddfe300Dbb5F33C98F322BBdc120D"
+}

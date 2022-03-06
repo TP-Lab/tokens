@@ -1,0 +1,11 @@
+{
+ "name": "French Bulldog",
+ "website": "https://www.French Bulldog.com",
+ "description": "French Bulldog",
+ "explorer": "https://bscscan.com/token/0x52377Bd73BE79DB90324F1A951A13A02e640B57a",
+ "type": "BEP20",
+ "symbol": "FBDOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x52377Bd73BE79DB90324F1A951A13A02e640B57a"
+}

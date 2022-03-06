@@ -1,0 +1,11 @@
+{
+ "name": "Smellybaby",
+ "website": "www.Smellybaby.top",
+ "description": "A rebase token with Baby Doge dividend",
+ "explorer": "https://bscscan.com/address/0x1AbcCeE1CAC8fB24638bE565C800c3233DeDC06a",
+ "type": "BEP20",
+ "symbol": "Smellybaby",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1AbcCeE1CAC8fB24638bE565C800c3233DeDC06a"
+}

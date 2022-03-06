@@ -1,0 +1,11 @@
+{
+ "name": "PEACH",
+ "website": "https://peachhub.finance/",
+ "description": "A token that can be held to watch movies.",
+ "explorer": "https://bscscan.com/token/0x0705D731eCc481142E734450B38c894386F0ae3C",
+ "type": "BEP20",
+ "symbol": "PEACH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0705D731eCc481142E734450B38c894386F0ae3C"
+}

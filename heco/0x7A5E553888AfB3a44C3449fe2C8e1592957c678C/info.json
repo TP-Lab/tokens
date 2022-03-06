@@ -1,0 +1,11 @@
+{
+    "name": "Chocolate Cash",
+    "website": "https://chocolatecash.org",
+    "description": "A algorithm stable coin",
+    "explorer": "https://hecoinfo.com/address/0x7a5e553888afb3a44c3449fe2c8e1592957c678c",
+    "type": "HRC20",
+    "symbol": "CHC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7A5E553888AfB3a44C3449fe2C8e1592957c678C"
+   }

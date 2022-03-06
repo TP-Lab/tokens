@@ -1,0 +1,11 @@
+{
+    "name": "TIMES",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://hecoinfo.com/token/0x2F462fe879B699897b2ef3c870bFEB24eD7Ba492",
+    "type": "HRC-20",
+    "symbol": "TIMES",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2F462fe879B699897b2ef3c870bFEB24eD7Ba492"
+   }

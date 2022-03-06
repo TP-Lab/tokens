@@ -1,0 +1,11 @@
+{
+ "name": "CHANEL",
+ "website": "www.CHANEL.com",
+ "description": "Based on the more efficient, convenient and extensive TRX wave field intelligent protocol, it aims to create a fair and open financial channel for people to participate in, produce Chanel token through the characteristics of liquidity mining, create the original technical means of automatic liquidity addition and automatic destruction, improve the value of the token itself, and provide high returns for participants with AMA automatic market opportunity system.",
+ "explorer": "https://tronscan.io/#/contract/TCPyoHdtSafYNFqD5iUxs8r6fYPAE3TdLz",
+ "type": "TRC20",
+ "symbol": "CHANEL",
+ "decimals": 18,
+ "status": "active",
+ "id": "TCPyoHdtSafYNFqD5iUxs8r6fYPAE3TdLz"
+}

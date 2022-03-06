@@ -1,0 +1,11 @@
+{
+  "name": "FSCToken",
+  "website": "-",
+  "description": "FSC",
+  "explorer": "https://hecoinfo.com/token/0xCD47d18A9E63F99fbb6faABDd48aD75bDB035e55",
+  "type": "HRC-20",
+  "symbol": "FSC",
+  "decimals": 6,
+  "status": "active",
+  "id": "0xCD47d18A9E63F99fbb6faABDd48aD75bDB035e55"
+ }

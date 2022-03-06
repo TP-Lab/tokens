@@ -1,0 +1,11 @@
+{
+ "name": "Ancient Doge Token",
+ "website": "http://www.AncientDoge.com",
+ "description": "An ancient fierce small dog",
+ "explorer": "https://hecoinfo.com/address/0x4753204bda4f3304a7d20b4f0fc09639cf139fff",
+ "type": "HRC-20",
+ "symbol": "ANCIENT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4753204bdA4F3304A7d20B4F0fc09639CF139FfF"
+}

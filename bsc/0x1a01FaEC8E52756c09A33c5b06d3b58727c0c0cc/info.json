@@ -1,0 +1,11 @@
+{
+ "name": "hbg token",
+ "website": "",
+ "description": "hbg token",
+ "explorer": "https://www.bscscan.com/token/0x1a01faec8e52756c09a33c5b06d3b58727c0c0cc",
+ "type": "BEP20",
+ "symbol": "HBG",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x1a01FaEC8E52756c09A33c5b06d3b58727c0c0cc"
+}

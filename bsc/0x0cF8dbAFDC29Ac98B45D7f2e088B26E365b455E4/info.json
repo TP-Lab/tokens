@@ -1,0 +1,11 @@
+{
+ "name": "CPU",
+ "website": "http://cpuswap.io",
+ "description": "cpu swap",
+ "explorer": "https://bscscan.com/token/0x0cF8dbAFDC29Ac98B45D7f2e088B26E365b455E4",
+ "type": "BEP20",
+ "symbol": "CPU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0cF8dbAFDC29Ac98B45D7f2e088B26E365b455E4"
+} 

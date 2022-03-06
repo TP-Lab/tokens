@@ -1,0 +1,11 @@
+{
+ "name": "Apple",
+ "website": "https://app-token.com/",
+ "description": "The total number of Apple tokens issued is 88,888,888. Apple tokens were originally used as reward coins for the YouTube media live broadcast platform. Apple tokens will gradually be used in payment passes for major consumer applications in mobile apps. Apple tokens are cooperating with major online websites at the same time. Apple tokens will become a convenient payment method and will also be used in daily life shopping, travel, hotel reservations, etc., for practical applications.",
+ "explorer": "https://bscscan.com/token/0x5940479698386fcBDfef382767a90b31850C86f0",
+ "type": "BEP20",
+ "symbol": "APP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5940479698386fcbdfef382767a90b31850c86f0"
+}

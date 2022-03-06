@@ -1,0 +1,11 @@
+{
+ "name": "FGDOGO token",
+ "website": "https://tronscan.org/#/contract/TKy6rdJxPPXbWQLGWUAovGJ7u43dNJnWmj",
+ "description": "A meme token based on tron net.",
+ "explorer": "https://tronscan.org/#/contract/TKy6rdJxPPXbWQLGWUAovGJ7u43dNJnWmj",
+ "type": "TRC20",
+ "symbol": "FGDOGO",
+ "decimals": 6,
+ "status": "active",
+ "id": "TKy6rdJxPPXbWQLGWUAovGJ7u43dNJnWmj"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BITNEY",
+ "website": "https://bitneyfansclub.com",
+ "description": "Bitney Foundation is a leading community blockchain centred around a growing ecosystem of businesses.",
+ "explorer": "https://bscscan.com/address/0xe41ccf516ecb31c4d106d0cebe12bb751ce8c57a",
+ "type": "BEP20",
+ "symbol": "BNY",
+ "decimals": 10,
+ "status": "active",
+ "id": "0xE41CCF516EcB31c4d106d0cEBE12Bb751Ce8C57a"
+}

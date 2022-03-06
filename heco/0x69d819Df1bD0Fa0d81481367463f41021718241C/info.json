@@ -1,0 +1,11 @@
+{
+ "name": "HTChat Token",
+ "website": "",
+ "description": "An App which decentralized encrypted chat software based on HECO",
+ "explorer": "https://hecoinfo.com/token/0x69d819df1bd0fa0d81481367463f41021718241c",
+ "type": "BEP20",
+ "symbol": "HTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x69d819Df1bD0Fa0d81481367463f41021718241C"
+}

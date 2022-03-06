@@ -1,0 +1,11 @@
+{
+ "name": "TOB",
+ "website": "https://bscscan.com/token/0x0A3Fa4e5c37E5fD94b875028164C1839429CB4F7",
+ "description": "TOB TOKEN.",
+ "explorer": "https://bscscan.com/token/0x0A3Fa4e5c37E5fD94b875028164C1839429CB4F7",
+ "type": "BEP20",
+ "symbol": "TOB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0A3Fa4e5c37E5fD94b875028164C1839429CB4F7"
+}

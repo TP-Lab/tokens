@@ -1,0 +1,11 @@
+{
+ "name": "BeggarCoin",
+ "website": "https://beggarcoin.cc",
+ "description": "丐帮乃天下第一大帮，怎奈丐帮江湖势微，虎落平阳，现招募天下英雄豪杰，加入丐帮，成为丐帮弟子，丐帮其他弟子会施与你援助；丐帮有独特的施舍机制，赠人玫瑰，手留余香，施与和被施与人都会受益；期待你的加入，壮大我丐帮，重振丐帮武林雄风。",
+ "explorer": "https://bscscan.com/token/0x8d5774e8e84bebabdbecccc5af14e56fcbb99f10",
+ "type": "BEP20",
+ "symbol": "BGAR",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8d5774E8E84BebaBDbEcCCc5AF14E56fCBb99F10"
+}

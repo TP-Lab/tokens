@@ -1,0 +1,11 @@
+{
+    "name": "ATOMBTC Token",
+    "website": "-",
+    "description": "ATOMBTC is a project initiated around the global community and ultimately",
+    "explorer": "https://bscscan.com/token/0xE82DE02C852c2944A1715b235f06F30D346d72eD",
+    "type": "BEP20",
+    "symbol": "ATOMBTC",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xE82DE02C852c2944A1715b235f06F30D346d72eD"
+}

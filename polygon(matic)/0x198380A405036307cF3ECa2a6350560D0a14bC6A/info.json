@@ -1,0 +1,11 @@
+{
+	"name": "INFINITE",
+	"website": "https://ifntgame.com",
+	"description": "INFINITE是以恢弘的加密宇宙為背景，在高度融合科幻元素和區塊鏈技術的基礎上所打造的以策略模擬和資產運營為核心的硬核遊戲。結合OMNIVERSE技術，INFINITE將在豐富策略的基礎上打造出一個基於VR+AR的真實數字宇宙。",
+	"explorer": "https://polygonscan.com/token/0x198380A405036307cF3ECa2a6350560D0a14bC6A",
+	"type": "ERC20",
+	"symbol": "IFNT",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x198380A405036307cF3ECa2a6350560D0a14bC6A"
+}

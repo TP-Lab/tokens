@@ -1,0 +1,12 @@
+{
+ "name": "PigMoon PigMoon",
+ "website": "http://pigmoon.site",
+ "description": "A New coin that supports BSC.",
+ "explorer": "https://bscscan.com/token/0xce56ac473a9431a41192e77a7b701d09ede534fd",
+ "type": "BEP20",
+ "symbol": "PigMoon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcE56ac473a9431A41192e77a7B701D09edE534FD"
+}
+}

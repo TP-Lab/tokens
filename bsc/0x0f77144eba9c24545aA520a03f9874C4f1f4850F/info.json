@@ -1,0 +1,11 @@
+{
+ "name": "Eater Address Defi",
+ "website": "https://eatadd.com",
+ "description": "Eater Address Scanning Cross-chain Asset Reinforcement Platform,",
+ "explorer": "https://bscscan.com/token/0x0f77144eba9c24545aA520a03f9874C4f1f4850F",
+ "type": "BEP20",
+ "symbol": "EAT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0f77144eba9c24545aA520a03f9874C4f1f4850F"
+}

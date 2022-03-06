@@ -1,0 +1,11 @@
+{
+ "name": "Diamond Classic",
+ "website": "www.diamondclassic.cc",
+ "description": "Diamond Classic（简称DMCC）秉承去中心化为核心理念，构建一个以Defi核心价值尺度和经济模型为基础，基于价值创造与价值分配原则的数字生态平台，将区块链应用与商业模型完美结合，融合趣味元素金融属性，以绝对的社区共识实施DMCC钻石经典计划，建立以机制信任与价值观共识为基石的区块链数字资产金融生态。",
+ "explorer": "https://hecoinfo.com/token/00x819FA2420fDA59D635D1986e81c38e9BFE894A4d#balances",
+ "type": "HRC20",
+ "symbol": "DMCC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x819FA2420fDA59D635D1986e81c38e9BFE894A4d"
+}

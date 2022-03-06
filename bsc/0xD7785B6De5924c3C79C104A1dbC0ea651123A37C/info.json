@@ -1,0 +1,20 @@
+{
+
+ "name": "ABA Project",
+
+ "website": "http://www.abaproject.pw",
+
+ "description": "Ecological and web construction of ABAecology main network.",
+
+ "explorer": "https://bscscan.com/token/0xD7785B6De5924c3C79C104A1dbC0ea651123A37C",
+
+ "type": "BEP20",
+
+ "symbol": "ABA",
+
+ "decimals": 18,
+
+ "status": "active",
+
+ "id": "0xD7785B6De5924c3C79C104A1dbC0ea651123A37C"
+}

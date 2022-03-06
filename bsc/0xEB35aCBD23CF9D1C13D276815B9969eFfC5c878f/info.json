@@ -1,0 +1,11 @@
+{
+    "name": "MiniShibaInu",
+    "website": "https://www.minishibatoken.com",
+    "description": "MiniShiba is built by a strong team of crypto experts that aim to build a sustainable token for the long run. Join MiniShiba now and become part of this revolution.",
+    "explorer": "https://bscscan.com/token/0xEB35aCBD23CF9D1C13D276815B9969eFfC5c878f",
+    "type": "BEP20",
+    "symbol": "MiniSHIBA",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xEB35aCBD23CF9D1C13D276815B9969eFfC5c878f"
+}

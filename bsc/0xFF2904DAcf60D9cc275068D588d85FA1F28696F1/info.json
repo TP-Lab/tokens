@@ -1,0 +1,11 @@
+{
+ "name": "hbgt token",
+ "website": "",
+ "description": "hbgt token",
+ "explorer": "https://www.bscscan.com/token/0xFF2904DAcf60D9cc275068D588d85FA1F28696F1",
+ "type": "BEP20",
+ "symbol": "HBGT",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xFF2904DAcf60D9cc275068D588d85FA1F28696F1"
+}

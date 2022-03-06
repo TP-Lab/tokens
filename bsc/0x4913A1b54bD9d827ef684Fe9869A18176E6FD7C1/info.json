@@ -1,0 +1,11 @@
+{
+    "name": "DVT",
+    "website": "https://www.dpta.io",
+    "description": "DVT Token",
+    "explorer": "https://bscscan.com/address/0x4913A1b54bD9d827ef684Fe9869A18176E6FD7C1",
+    "type": "BEP20",
+    "symbol": "DVT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x4913A1b54bD9d827ef684Fe9869A18176E6FD7C1"
+   }
