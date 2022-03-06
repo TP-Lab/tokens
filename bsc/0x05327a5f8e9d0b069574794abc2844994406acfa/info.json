@@ -1,0 +1,11 @@
+{
+ "name": "SafeMoon",
+ "website": "-",
+ "description": "Security month requires security tokens to solve",
+ "explorer": "https://https://bscscan.com/token/0x05327a5f8e9d0b069574794abc2844994406acfa",
+ "type": "BEP-20",
+ "symbol": "SafeMoon",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x05327a5f8e9d0b069574794abc2844994406acfa"
+}
