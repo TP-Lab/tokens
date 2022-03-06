@@ -1,0 +1,11 @@
+{
+ "OSK": "OSK Token",
+ "website": "https://oskdefi.com",
+ "description": "OSK Oscar decentralized defi film and television financial ecology",
+ "explorer": "https://bscscan.com/token/0x04fA9Eb295266d9d4650EDCB879da204887Dc3Da",
+ "type": "BEP20",
+ "symbol": "OSK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x04fA9Eb295266d9d4650EDCB879da204887Dc3Da"
+}
