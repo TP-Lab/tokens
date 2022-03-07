@@ -1,0 +1,11 @@
+{
+ "name": "USD Insurance Token",
+ "website": "https://www.gtinsurance.ch/general-5-1",
+ "description": "The insurance stablecoin USDIT is issued by GT Insurance. It has created a new era of digital insurance clearing digital tokens. As a disruptor of the traditional financial system and a pioneer in the digital use of traditional currencies. The insurance stablecoin USDIT supports and empowers growth companies and innovations in the entire blockchain insurance field. Insurance Stablecoins Drive the Future of Insurance Clearing as Digital Insurance Presence Built on Multiple Blockchains",
+ "explorer": "https://bscscan.com/token/0xBE259B24bd5c31ce86570e964CaF203a0b1aF393",
+ "type": "ERC20",
+ "symbol": "USDIT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBE259B24bd5c31ce86570e964CaF203a0b1aF393"
+}
