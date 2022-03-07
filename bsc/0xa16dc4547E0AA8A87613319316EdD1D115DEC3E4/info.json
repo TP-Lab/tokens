@@ -1,0 +1,11 @@
+{
+ "name": "Insurance Token",
+ "website": "https://www.gtinsurance.ch/",
+ "description": "The policy currency GBIT is issued by GT Insurance. It ushered in a new era of digital tokens for digital insurance policies. As a disruptor of the traditional financial system and a pioneer in the digital use of traditional currencies. Policy Coin GBIT supports and empowers growth companies and innovations across the blockchain insurance industry. Policy currency facilitates smart insurance claims. Dividends, all smart contracts are executed, open, transparent and decentralized",
+ "explorer": "https://bscscan.com/token/0xa16dc4547E0AA8A87613319316EdD1D115DEC3E4",
+ "type": "ERC20",
+ "symbol": "GBIT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa16dc4547E0AA8A87613319316EdD1D115DEC3E4"
+}
