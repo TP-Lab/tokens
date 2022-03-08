@@ -1,0 +1,11 @@
+{ 
+"name": "FoolsShib",
+"website": "http://www.shiblnucash.com/",
+"description": "FoolsShib is a community-driven and reflection token on Binance Smart Chain.",
+"explorer": "https://bscscan.com/token/0x4b2B558bB6B02cfF564d904bD25749b9Dd999633",
+"type": "BEP20",
+"symbol": "FoolsShib",
+"decimals": 9,
+"status": "active",
+"id": "0x4b2B558bB6B02cfF564d904bD25749b9Dd999633"
+}
