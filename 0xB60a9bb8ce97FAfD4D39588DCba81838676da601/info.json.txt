@@ -1,0 +1,11 @@
+1 {
+2  "name": "MTC",
+3  "website": "https://www.metatopia.pro",
+4  "description": "Metatopia Utopia Ecological Alliance focuses on building a new world linking virtual and reality, allowing more people to understand the metaverse, create wealth through it, obtain fair labor rights and have a better future.",
+5  "explorer": "https://bscscan.com/token/0xB60a9bb8ce97FAfD4D39588DCba81838676da601",
+6  "type": "BEP20",
+7  "symbol": "MTC",
+8  "decimals": 18,
+9  "status": "active",
+10 "id": "0xB60a9bb8ce97FAfD4D39588DCba81838676da601"
+11 }
