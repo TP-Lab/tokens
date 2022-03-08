@@ -1,0 +1,11 @@
+{
+    "name": "MARS",
+    "website": "https://www.hzsccc.net/",
+    "description": "Derived from the concept of 'Musker Mars Immigrant', the game development team has been upgraded to Chinese, integrated with Chinese elements, and expanded the virtual cyberspace open experience platform. MARS token is the only value application token in the game.",
+    "explorer": "https://bscscan.com/token/0x66d50aA488580AfC28AF21B2FCdec105380a00Ab",
+    "type": "BEP20",
+    "symbol": "MARS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x66d50aA488580AfC28AF21B2FCdec105380a00Ab"
+   }
