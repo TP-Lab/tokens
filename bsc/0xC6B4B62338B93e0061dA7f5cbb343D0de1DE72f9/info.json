@@ -1,0 +1,11 @@
+{
+ "name": "TEST",
+ "website": "http://ytlds.fzrtcz.com/h5/#/",
+ "description": "亚特兰蒂斯测试币",
+ "explorer": "https://bscscan.com/token/0xc6b4b62338b93e0061da7f5cbb343d0de1de72f9",
+ "type": "BEP20",
+ "symbol": "TEST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC6B4B62338B93e0061dA7f5cbb343D0de1DE72f9"
+}
