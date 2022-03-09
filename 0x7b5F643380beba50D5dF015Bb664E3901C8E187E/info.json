@@ -1,0 +1,11 @@
+{
+ "name": "PMMT Token",
+ "website": "https://us700.cn",
+ "description": "PMMT is a token issued on Binance Smart Chain, with a total amount of 210 million. Users who hold 5000 PMMT will enjoy automatic transaction fee dividends and BMM dividends. PMMT has an automatic transaction destruction mechanism, and each transaction will destroy PMMT. Until there are 5,000,000 left.",
+ "explorer": "https://bscscan.com/address/0x7b5F643380beba50D5dF015Bb664E3901C8E187E",
+ "type": "BEP20",
+ "symbol": "PMMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7b5F643380beba50D5dF015Bb664E3901C8E187E"
+}
