@@ -1,0 +1,11 @@
+{
+    "name": "ROD TOKEN",
+    "website": "http://rodcoins.com/",
+    "description": "Remember Our Dreams",
+    "explorer": "https://bscscan.com/token/0x9a829d93b956193bb3c28182e72d1052f3ec4893",
+    "type": "BEP20",
+    "symbol": "ROD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9a829d93b956193bb3c28182e72d1052f3ec4893"
+   }
