@@ -1,0 +1,11 @@
+{
+    "name": "Bovine Verse Game",
+    "website": "https://www.bovine-verse.games",
+    "description": "A genesis Fi+ metaverse gaming platform under Web 3.0.",
+    "explorer": "https://bscscan.com/token/0x96cB0Ade2e254c598b12179503C00b007EeB7861",
+    "type": "BEP20",
+    "symbol": "BVG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x96cB0Ade2e254c598b12179503C00b007EeB7861"
+}
