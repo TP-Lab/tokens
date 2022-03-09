@@ -1,0 +1,11 @@
+{
+ "name": "CONI token",
+ "website": "https://coni.is/",
+ "description": "CONI is an all-purpose money market ranking, voting and tabulating platform. We have a coin voting function, you can easily vote for your favorite coins, CMC and DEX tools combined to provide users with the latest currency and data.",
+ "explorer": "https://bscscan.com/token/0x8F093cBBbEE91C8B9F7C3F892497c8bae5196495",
+ "type": "BEP20",
+ "symbol": "CONI",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8F093cBBbEE91C8B9F7C3F892497c8bae5196495"
+} 
