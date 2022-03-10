@@ -1,0 +1,11 @@
+{
+ "name": "ALDChain Token",
+ "website": "https://aldchain.net",
+ "description": "Next-generation algorithmic trading platform and NFT.",
+ "explorer": "https://bscscan.com/token/0x0d7Da8Aaa889BB39F54D9e366E5A19972a887485",
+ "type": "BEP20",
+ "symbol": "ALD",
+ "decimals": 10,
+ "status": "active",
+ "id": "0x0d7Da8Aaa889BB39F54D9e366E5A19972a887485"
+}
