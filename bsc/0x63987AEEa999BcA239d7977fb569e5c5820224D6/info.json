@@ -1,0 +1,11 @@
+{
+ "name": "BabyCat",
+ "website": "http://www.babycatnft.com/",
+ "description": "We plan to launch the  DreamSwap and NFT in the future+Web 3.0..",
+ "explorer": "https://bscscan.com/token/0x63987AEEa999BcA239d7977fb569e5c5820224D6",
+ "type": "BEP20",
+ "symbol": "BabyCat",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x63987AEEa999BcA239d7977fb569e5c5820224D6"
+}
