@@ -1,11 +1,11 @@
-{
- "name": "Knowledge Graph Coin",
- "website": "http://www.gzaiengine.com",
- "description": "World culture and multi universe knowledge base, KGC is used for knowledge payment and cultural reward.",
- "explorer": "https://bscscan.com/token/0x4f58674f9eA4541A55fa96DFD3FFbF1e9e77c4de",
- "type": "BEP20",
- "symbol": "kgc",
- "decimals": 8,
- "status": "active",
- "id": "0x4f58674f9eA4541A55fa96DFD3FFbF1e9e77c4de"
+{ 
+"name": "BraveMetaWorld",
+"website": "https://bravemeta.world",
+"description": "BraveMetaWorld is a decentralized organization (DAO) run by global Internet people, financial experts, and car enthusiasts who all share a common vision to create a new virtual world of beautiful personal sovereignty.  ",
+"explorer": "https://bscscan.com/token/0x7aFD272Be3fE0ba434377b33A66Da881C1BddB8F",
+"type": "BEP20",
+"symbol": "BMW",
+"decimals": 18,
+"status": "active",
+"id": "0x7aFD272Be3fE0ba434377b33A66Da881C1BddB8F"
 }
