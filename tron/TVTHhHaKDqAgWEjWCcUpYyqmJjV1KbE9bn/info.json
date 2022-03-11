@@ -1,0 +1,11 @@
+{
+ "name": "Tang Token",
+ "website": "https://www.gifts-am.com",
+ "description": "TANG-A is the only voucher for exchanging TANG Technologies Advanced for the Next Generation, referred to as TANG for short, is a Web3 platform based on blockchain technology.",
+ "explorer": "https://tronscan.org/#/token20/TVTHhHaKDqAgWEjWCcUpYyqmJjV1KbE9bn",
+ "type": "TRC20",
+ "symbol": "TANG-A",
+ "decimals": 18,
+ "status": "active",
+ "id": "TVTHhHaKDqAgWEjWCcUpYyqmJjV1KbE9bn"
+}
