@@ -1,0 +1,11 @@
+{
+ "name": "Odin",
+ "website": "https://odinking.com/",
+ "description": "A meme token that goes to the world.",
+ "explorer": "https://bscscan.com/token/0x9d231ed09d7b5a76c8c66a56e3479971f542868e",
+ "type": "BEP20",
+ "symbol": "Odin",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9d231ED09d7B5a76C8C66A56E3479971f542868E"
+}
