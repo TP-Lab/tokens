@@ -1,0 +1,11 @@
+{
+ "name": "CONI",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x8F093cBBbEE91C8B9F7C3F892497c8bae5196495",
+ "type": "BSC20",
+ "symbol": "CONI",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8F093cBBbEE91C8B9F7C3F892497c8bae5196495"
+}
