@@ -1,11 +1,11 @@
 {
- "name": "Merace (MER)",
- "website": "https://merace.info/",
- "description": "Metaverse Game VR Application Chain Game ",
- "explorer": "https://bscscan.com/token/0x7dd8ad9a21d57c441c2fe787ac47ea56226f0653",
- "type": "BEP20",
- "symbol": "MER",
- "decimals": 18,
- "status": "active",
- "id": "0x7Dd8AD9a21D57C441c2fE787ac47ea56226f0653"
-}
+    "name": "Merace (MER)",
+    "website": "https://merace.info/",
+    "description": "Metaverse Game VR Application Chain Game ",
+    "explorer": "https://bscscan.com/token/0x7dd8ad9a21d57c441c2fe787ac47ea56226f0653",
+    "type": "BEP20",
+    "symbol": "MER",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7Dd8AD9a21D57C441c2fE787ac47ea56226f0653"
+   } 
