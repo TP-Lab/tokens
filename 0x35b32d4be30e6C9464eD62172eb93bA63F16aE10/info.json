@@ -1,0 +1,11 @@
+{
+ "name": "Star Universe（SU）",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x35b32d4be30e6C9464eD62172eb93bA63F16aE10",
+ "type": "BEP20",
+ "symbol": "SU ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x35b32d4be30e6C9464eD62172eb93bA63F16aE10"
+}
