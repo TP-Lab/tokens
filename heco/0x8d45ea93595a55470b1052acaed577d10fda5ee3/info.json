@@ -1,0 +1,11 @@
+{
+ "name": "UTC Token",
+ "website": "https://www.UTCDEX.com/",
+ "description": "gamefi on heco.",
+ "explorer": "https://hecoinfo.com/token/0x8d45ea93595a55470b1052acaed577d10fda5ee3",
+ "type": "HRC20",
+ "symbol": "uvs",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8d45Ea93595A55470b1052aCaEd577d10fdA5eE3"
+}
