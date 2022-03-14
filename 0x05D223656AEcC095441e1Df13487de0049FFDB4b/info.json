@@ -1,0 +1,11 @@
+{
+ "name": "CdhMetaverse Token",
+ "website": "https://www.cdhmetaverse.space/",
+ "description": "CDH Metaverse is a virtual meta space + NFT ecological network based on blockchain, which is initiated by cdhm foundation. Its vision is to build a next-generation virtual + reality ecological interconnected meta universe. It combines a series of advanced technologies such as blockchain, XR (Ar + VR + MR) and decentralized finance, aiming to bring users better virtual reality experience and economic incentive effect.",
+ "explorer": "https://bscscan.com/token/0x05D223656AEcC095441e1Df13487de0049FFDB4b",
+ "type": "BEP20",
+ "symbol": "CDH",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x05D223656AEcC095441e1Df13487de0049FFDB4b"
+}
