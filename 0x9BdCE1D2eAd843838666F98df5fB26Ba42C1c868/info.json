@@ -1,0 +1,11 @@
+{
+ "name": "ACat",
+ "website": "null",
+ "description": "ACat is a DAO token issued by ACat community",
+ "explorer": "https://bscscan.com/address/0x9BdCE1D2eAd843838666F98df5fB26Ba42C1c868",
+ "type": "BEP20",
+ "symbol": "ACat",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9BdCE1D2eAd843838666F98df5fB26Ba42C1c868"
+}
