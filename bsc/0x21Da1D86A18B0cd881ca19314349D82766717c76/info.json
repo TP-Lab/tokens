@@ -1,0 +1,11 @@
+{
+ "name": "Gem box",
+ "website": "https://www.gboxlink.info",
+ "description": "Gem box",
+ "explorer": "https://bscscan.com/token/0x21Da1D86A18B0cd881ca19314349D82766717c76",
+ "type": "BEP20",
+ "symbol": "GBOX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x21Da1D86A18B0cd881ca19314349D82766717c76"
+}
