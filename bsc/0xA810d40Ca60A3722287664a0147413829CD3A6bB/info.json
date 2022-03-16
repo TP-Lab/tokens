@@ -1,0 +1,11 @@
+{
+ "name": "Tigger",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xA810d40Ca60A3722287664a0147413829CD3A6bB",
+ "type": "BEP20",
+ "symbol": "TGG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA810d40Ca60A3722287664a0147413829CD3A6bB"
+}
