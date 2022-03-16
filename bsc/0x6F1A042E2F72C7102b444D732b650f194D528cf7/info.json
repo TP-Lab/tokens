@@ -1,0 +1,11 @@
+{
+ "name": "FlashMiner",
+ "website": "https://www.flashminer.io/",
+ "description": " FlashMiner is a Play-to-Earn game on the Binance Smart Chain that involves generating the best possible computing power. ",
+ "explorer": "https://bscscan.com/token/0x6F1A042E2F72C7102b444D732b650f194D528cf7",
+ "type": "BEP20",
+ "symbol": "GGW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6F1A042E2F72C7102b444D732b650f194D528cf7"
+}
