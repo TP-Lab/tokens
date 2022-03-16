@@ -1,0 +1,11 @@
+{
+ "name": "GRIV",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xb250D31b8DD064FB85b30567d2877E43831Ed5c0",
+ "type": "BEP20",
+ "symbol": "GRIV",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb250D31b8DD064FB85b30567d2877E43831Ed5c0"
+}
