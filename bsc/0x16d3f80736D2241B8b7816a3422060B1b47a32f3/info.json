@@ -1,0 +1,11 @@
+{
+ "name": "CoolDoge",
+ "website": "https://www.cooldogenft.com/",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/ 0x16d3f80736D2241B8b7816a3422060B1b47a32f3",
+ "type": "BEP20",
+ "symbol": "CDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x16d3f80736D2241B8b7816a3422060B1b47a32f3"
+}
