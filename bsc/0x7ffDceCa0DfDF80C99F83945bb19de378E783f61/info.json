@@ -1,0 +1,11 @@
+{
+ "name": "Mirror USDT",
+ "website": "https://app.misswap.pro/#/",
+ "description": "USDT on Mirrorswap Eco. MirrorSwap is a multichain DEX that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+ "type": "BEP20",
+ "symbol": "USDT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x7ffDceCa0DfDF80C99F83945bb19de378E783f61"
+}
