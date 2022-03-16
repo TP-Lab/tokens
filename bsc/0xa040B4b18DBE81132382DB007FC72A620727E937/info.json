@@ -1,0 +1,11 @@
+{
+    "name": "ALDC",
+    "website": "https://aldchain.net",
+    "description": "Next-generation algorithmic trading platform and NFT.",
+    "explorer": "https://bscscan.com/0xa040B4b18DBE81132382DB007FC72A620727E937",
+    "type": "BEP20",
+    "symbol": "ALDC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa040B4b18DBE81132382DB007FC72A620727E937"
+}
