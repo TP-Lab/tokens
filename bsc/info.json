@@ -1,11 +1,11 @@
-{
- "name": "Nuclear Bomb",
- "website": "http://www.nuclearbomb.vip",
- "description": "Nuclear Bomb is an utility token, holders can use various on-chain tools for free.",
- "explorer": "https://bscscan.com/token/0xE3eA20E0FeB48a8523e83B425D0425522ef240D6",
+﻿{
+ "name": "DoubleKill",
+ "website": "http://DoubleKill.io",
+ "description": "A great project that makes unremitting efforts to realize idealism.",
+ "explorer": "https://bscscan.com/token/0xc7a1e105bd7e5aae3cecfd1a36244553d3bc1008",
  "type": "BEP20",
- "symbol": "NB",
- "decimals": 18,
+ "symbol": "DK",
+ "decimals": 3,
  "status": "active",
- "id": "0xE3eA20E0FeB48a8523e83B425D0425522ef240D6"
+ "id": "0xc7a1e105bd7e5aae3cecfd1a36244553d3bc1008"
 }
