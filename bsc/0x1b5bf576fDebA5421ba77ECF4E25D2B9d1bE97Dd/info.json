@@ -1,1 +1,11 @@
-123
+{
+ "name": "Victory",
+ "website": "https://www.vicdao.net",
+ "description": "In order to welcome the launch of the V mainnet, create a core community currency, and welcome all the ground communities of the V system to enter the V network, the token VIC is hereby issued.\nVIC is the first commemorative coin of the V main network. It carries the expectations of the V system family for many years, and is also a bridge between the V network and the external network.\nThe mission of VIC is to let users know about the V main network, the core operating currency of the cross-chain bridge",
+ "explorer": "https://bscscan.com/token/0x1b5bf576fDebA5421ba77ECF4E25D2B9d1bE97Dd",
+ "type": "BEP20",
+ "symbol": "VIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1b5bf576fDebA5421ba77ECF4E25D2B9d1bE97Dd"
+}
