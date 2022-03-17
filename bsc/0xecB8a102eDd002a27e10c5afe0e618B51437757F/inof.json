@@ -1,0 +1,9 @@
+{
+ "name": "SnowCrash",
+ "explorer": "https://bscscan.com/token/0xecb8a102edd002a27e10c5afe0e618b51437757f",
+ "type": "BEP20",
+ "symbol": "SnowCrash",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xecB8a102eDd002a27e10c5afe0e618B51437757F"
+}
