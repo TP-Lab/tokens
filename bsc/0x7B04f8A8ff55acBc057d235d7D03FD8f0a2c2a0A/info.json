@@ -2,10 +2,10 @@
     "name": "COSMIC MISSION",
     "website": "https://cosmic-mission.com/",
     "description": "BUILDING A WEB3.0 OPEN FINANCIAL DISTRIBUTED AUTONOMOUS ORGANIZATION (DAO)",
-    "explorer": "https://bscscan.com/token/0x7B04f8A8ff55acBc057d235d7D03FD8f0a2c2a0A",
+    "explorer": "https://bscscan.com/token/0xAaAaBD9ec5544A6D0Bc65D80a23d564AA143A517",
     "type": "BEP20",
     "symbol": "CM",
-    "decimals": 6,
+    "decimals": 18,
     "status": "active",
-    "id": "0x7B04f8A8ff55acBc057d235d7D03FD8f0a2c2a0A"
+    "id": "0xAaAaBD9ec5544A6D0Bc65D80a23d564AA143A517"
    }
