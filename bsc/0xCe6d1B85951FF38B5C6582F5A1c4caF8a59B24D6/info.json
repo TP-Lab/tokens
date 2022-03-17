@@ -1,0 +1,11 @@
+{
+ "name": "Bitrentech",
+ "website": "https:/www.bitrentech.com",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xCe6d1B85951FF38B5C6582F5A1c4caF8a59B24D6",
+ "type": "BEP20",
+ "symbol": "BRT",
+ "decimals": 18,
+ "status": "Did not open",
+ "id": "0xCe6d1B85951FF38B5C6582F5A1c4caF8a59B24D6"
+}
