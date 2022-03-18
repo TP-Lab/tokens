@@ -1,0 +1,11 @@
+{
+ "name": "KingDoge",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x92b33e4A93ba4AFF568B63A1183FE18357481950",
+ "type": "BEP20",
+ "symbol": "18",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x92b33e4A93ba4AFF568B63A1183FE18357481950"
+}
