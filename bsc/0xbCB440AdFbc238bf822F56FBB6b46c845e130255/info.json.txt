@@ -1,0 +1,11 @@
+{
+ "name": "ALDC",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xbCB440AdFbc238bf822F56FBB6b46c845e130255",
+ "type": "BEP20",
+ "symbol": "ALDC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbCB440AdFbc238bf822F56FBB6b46c845e130255"
+} 
