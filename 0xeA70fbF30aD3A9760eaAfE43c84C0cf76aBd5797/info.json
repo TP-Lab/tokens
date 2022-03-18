@@ -1,0 +1,11 @@
+{
+  "name": "WIFI",
+  "website": "http://wifi.finance/",
+  "description": "Wifi coins belong to completely decentralized autonomous organizations. Wifi Coins have a strong DAO and SWAP that allows wifi coins to circulate within their own ecosystem. At the same time, the number of wifi coins is decreasing, and every wifi coin is precious.",
+  ",explorer": "https://bscscan.com/token/0xeA70fbF30aD3A9760eaAfE43c84C0cf76aBd5797",
+  "type": "BEP20",
+  "symbol": "WIFI",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xeA70fbF30aD3A9760eaAfE43c84C0cf76aBd5797"
+}
