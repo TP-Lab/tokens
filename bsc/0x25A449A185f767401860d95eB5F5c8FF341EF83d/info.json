@@ -1,0 +1,11 @@
+{
+    "name": "MGET",
+    "webiste": "http://metaversegoldenempire.com",
+    "description": "MGE (Metaverse Golden Empire) is a project jointly launched by Singapore HJW FOUNDATION LTD and Germany's blackamoor blockchain laboratory. Token: 'Metaverse Golden Empire token' is issued on BSC, abbreviated as: MGET, the total circulation is: 10 billion, the main token is mined by the game. Metaverse Golden Empire is a blockchain simulation economic game that truly belongs to players. It is a deep integration of NFT and is open to all players. Players can earn MGET (Metaverse Golden Empire token) through mining.",
+    "explorer": "https://bscscan.com/token/0x25A449A185f767401860d95eB5F5c8FF341EF83d",
+    "type": "BEP20",
+    "symbol": "MGET",
+    "decimals": "18",
+    "status": "active",
+    "id": "0x25A449A185f767401860d95eB5F5c8FF341EF83d"
+}
