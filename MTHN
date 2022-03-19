@@ -1,0 +1,11 @@
+{
+ "name": "MTHN",
+ "website": "https://www.mthnetwork.io/",
+ "description": "MTH Network is the platform to Buy & Sell digital assets with crypto currency. The intersection of crypto, community, and creativity.",
+ "explorer": "https://tronscan.org/#/token20/TYy8qHY1HHu81TJMydkAroLe67sbMv9nLa",
+ "type": "TRC20",
+ "symbol": "MTHN",
+ "decimals": 18,
+ "status": "active",
+ "id": "TYy8qHY1HHu81TJMydkAroLe67sbMv9nLa"
+}
