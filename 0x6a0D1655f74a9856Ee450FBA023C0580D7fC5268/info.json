@@ -1,0 +1,11 @@
+{
+ "name": "ABEL DAO",
+ "website": "http://www.adfarm.vip/",
+ "description": "Connect DEFI market full of dreams and creativity, connect high value community tokens",
+ "explorer": "https://bscscan.com/token/0x6a0D1655f74a9856Ee450FBA023C0580D7fC5268",
+ "type": "BEP20",
+ "symbol": "AD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6a0D1655f74a9856Ee450FBA023C0580D7fC5268"
+}
