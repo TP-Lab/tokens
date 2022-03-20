@@ -1,0 +1,11 @@
+{
+    "name": "META X DAO",
+    "website": "metaxdao.net",
+    "description": "Owned and managed by the XDAO token holder, the platform token holder can distribute META XDAO's revenue and financial system claims. It also grants the holder the right to use a set of services and advanced features in a decentralized application in the future, with ecological development functions only performed after the proposal and vote are successful.",
+    "explorer": "https://bscscan.com/token/0xfBe5c35aE60Bf96bb91de653f32741840a582321",
+    "type": "BEP20",
+    "symbol": "XDAO",
+    "decimals": 15,
+    "status": "active",
+    "id": "0xfBe5c35aE60Bf96bb91de653f32741840a582321"
+   }
