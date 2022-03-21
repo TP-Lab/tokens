@@ -1,0 +1,11 @@
+{
+ "name": "UDI",
+ "website": "http://www.the-udi.com",
+ "description": "UDI is a comprehensive GameFi ecosystem",
+ "explorer": "https://bscscan.com/token/0xaa3B29437457cf9d995cffD06c45E0b2B37cF171",
+ "type": "BEP20",
+ "symbol": "UDI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaa3B29437457cf9d995cffD06c45E0b2B37cF171"
+}
