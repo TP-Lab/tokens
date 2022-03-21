@@ -1,0 +1,28 @@
+{
+    "name": "peace",
+    "type": "BEP20",
+    "symbol": "peace",
+    "decimals": 18,
+    "website": "https://peacedao.co/",
+    "description": "Initiated by a group of peace-loving blockchain technology punks, it is autonomously organized by peace enthusiasts who participate in PeaceDAO around the world.",
+    "explorer": "https://bscscan.com/token/0x85973C97919c999E5D3d8832290152a3ACdf8a6E",
+    "status": "active",
+    "id": "0x85973C97919c999E5D3d8832290152a3ACdf8a6E",
+    "tags": [
+		"defi"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/PeaceDAO/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GlobalPeaceDAO"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/GlobalPeaceDAO"
+        }
+    ]
+}
