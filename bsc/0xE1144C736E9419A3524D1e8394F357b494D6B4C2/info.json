@@ -1,0 +1,11 @@
+{
+ "name": "Data Base Generator",
+ "website": "https://www.dabiaoge.club/",
+ "description": "Build a fully communized ecosystem on the chain",
+ "explorer": "https://bscscan.com/address/0xE1144C736E9419A3524D1e8394F357b494D6B4C2",
+ "type": "BEP20",
+ "symbol": "DBG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE1144C736E9419A3524D1e8394F357b494D6B4C2"
+}
