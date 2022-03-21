@@ -1,0 +1,11 @@
+{
+ "name": "DFX TOKEN",
+ "website": "https://dfx.bet/",
+ "description": "DFX is committed to building a DEFI aggregation platform that integrates market K-line, multi-chain aggregation DEX, and cross-chain exchange. Users can view TOKEN information, buy and sell Tokens, and exchange DEX with one click without jumping back and forth in various platforms. The trading pair adds liquidity and opens the era of one-stop DEX service for users!",
+ "explorer": "https://bscscan.com/address/0x103172cf329D33935d77fA4A26Cbdb76b5823DD2",
+ "type": "BEP20",
+ "symbol": "DFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x103172cf329D33935d77fA4A26Cbdb76b5823DD2"
+}
