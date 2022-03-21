@@ -1,11 +1,11 @@
 ﻿{
- "name": "DoubleKill",
- "website": "http://DoubleKill.io",
- "description": "A great project that makes unremitting efforts to realize idealism.",
- "explorer": "https://bscscan.com/token/0xc7a1e105bd7e5aae3cecfd1a36244553d3bc1008",
+ "name": "explorer",
+ "website": "http://explorer.io",
+ "description": "Dare to explore and take the first step in the pursuit of wealth.",
+ "explorer": "https://bscscan.com/token/0x34e7b8f2d42c7d39a54437a30795030d0b9e5485",
  "type": "BEP20",
- "symbol": "DK",
- "decimals": 3,
+ "symbol": "EXP",
+ "decimals": 6,
  "status": "active",
- "id": "0xc7a1e105bd7e5aae3cecfd1a36244553d3bc1008"
+ "id": "0x34e7b8f2d42c7d39a54437a30795030d0b9e5485"
 }
