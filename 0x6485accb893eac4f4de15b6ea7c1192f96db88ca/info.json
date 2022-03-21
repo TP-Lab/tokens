@@ -1,0 +1,11 @@
+{
+    "name": "ALLES Token",
+    "website": "http://alles.finance/#/",
+    "description": "Delivering more efficient, secure, and stable returns to make decentralized finance accessible to everyone.",
+    "explorer": "https://bscscan.com/token/0x6485accb893eac4f4de15b6ea7c1192f96db88ca",
+    "type": "BEP20",
+    "symbol": "AES",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6485accb893eac4f4de15b6ea7c1192f96db88ca"
+   }
