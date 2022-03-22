@@ -1,0 +1,11 @@
+{
+ "name": "OCEANBLUEDAO",
+ "website": "https://oceanbluedao.io",
+ "description": "BLUE is OceanBlueDAO's community governance token",
+ "explorer": "https://bscscan.com/token/0xFd0fDc8A674E1EA88E2D83b04C7c8BE5cD1719c4",
+ "type": "BEP20",
+ "symbol": "Blue",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFd0fDc8A674E1EA88E2D83b04C7c8BE5cD1719c4"
+}
