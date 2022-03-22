@@ -1,0 +1,11 @@
+{
+ "name": "Soul Reborn Token",
+ "website": "https://soulreborngame.com",
+ "description": "Soul Reborn, a new P2E MMORPG game, combines the concepts of DeFi&NFT. originating from the famous online Soul Worker.",
+ "explorer": "https://bscscan.com/token/0x95183a41ED3A3a1eBAC3493EdB407E9Ea2f0501f",
+ "type": "BEP20",
+ "symbol": "SRN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x95183a41ED3A3a1eBAC3493EdB407E9Ea2f0501f"
+}
