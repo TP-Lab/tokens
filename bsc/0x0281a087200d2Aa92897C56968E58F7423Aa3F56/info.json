@@ -1,0 +1,11 @@
+{ 
+"name": "YFSX",
+"website": "http://wws.yfsx.life/",
+"description": "YFSX is an open source decentralized DEFI project designed to build decentralized products.",
+"explorer": "https://bscscan.com/token/0x0281a087200d2Aa92897C56968E58F7423Aa3F56",
+"type": "BEP20",
+"symbol": "YFSX",
+"decimals": 18,
+"status": "active",
+"id": "0x0281a087200d2Aa92897C56968E58F7423Aa3F56"
+}
