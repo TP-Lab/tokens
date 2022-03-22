@@ -1,0 +1,11 @@
+{
+ "name": "MCF",
+ "website": "https://www.mcfamily.cc",
+ "description": "MCF is a decentralized smart contract underlying platform between the next generation of metaverse and the real world.",
+ "explorer": "https://bscscan.com/token/0x7873d4e4dBD50644d753e8EBF4cB5E30bF43531e",
+ "type": "BEP20",
+ "symbol": "MCF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7873d4e4dBD50644d753e8EBF4cB5E30bF43531e"
+}
