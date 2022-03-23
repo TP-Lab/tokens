@@ -1,0 +1,11 @@
+{
+ "name": "FA.CASH",
+ "website": "https://fa.cash",
+ "description": "New Decentralized Autonomous Organization. Hold to earn, liquidity as farming",
+ "explorer": "https://bscscan.com/address/0x5ad04ad0fdb383fe0e939690d8ce9fcbbe0e3ca8",
+ "type": "BEP20",
+ "symbol": "FA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5Ad04Ad0fDB383fe0e939690D8ce9fCbBE0E3CA8"
+}
