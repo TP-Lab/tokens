@@ -1,0 +1,11 @@
+{
+ "name": "MJ",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xD7575Dbf1efE45286d6866473738DA139dA617A2",
+ "type": "BEP20",
+ "symbol": "MJ",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xD7575Dbf1efE45286d6866473738DA139dA617A2"
+}
