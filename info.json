@@ -1,0 +1,11 @@
+{
+   "name":"Ekta Token",
+   "website":"https://www.ekta.io/",
+   "description":"$EKTA is a BEP-20 digital currency, allows to participate directly in the Ekta ecosystem.",
+   "explorer":"https://bscscan.com/token/0x45808ce43eb2d7685ff0242631f0feb6f3d8701a",
+   "type":"BEP20",
+   "symbol":"EKTA",
+   "decimals":18,
+   "status":"active",
+   "id":"0x45808ce43eb2d7685ff0242631f0feb6f3d8701a"
+}
