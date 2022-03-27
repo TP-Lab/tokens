@@ -1,0 +1,11 @@
+{
+ "name": "Koubek Token",
+ "website": "https://koubektoken.com/",
+ "description": "Asia’s 1st Education Metaverse Coin. ",
+ "explorer": "https://bscscan.com/address/0x6e9a1428798ff011e2cf369b129630f686232784",
+ "type": "BEP-20",
+ "symbol": "Koubek Token",
+ "decimals": 15,
+ "status": "active",
+ "id": "0x6e9a1428798ff011e2cf369b129630f686232784"
+}
