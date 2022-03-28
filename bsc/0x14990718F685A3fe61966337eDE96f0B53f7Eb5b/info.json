@@ -1,0 +1,11 @@
+{
+ "name": "Peseta DAO",
+ "website": "NA",
+ "description": "PTD is the management token of Peseta DAO",
+ "explorer": "https://bscscan.com/token/0x14990718F685A3fe61966337eDE96f0B53f7Eb5b",
+ "type": "BEP20",
+ "symbol": "PTD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x14990718F685A3fe61966337eDE96f0B53f7Eb5b"
+}
