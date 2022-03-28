@@ -1,0 +1,11 @@
+{
+ "name": "SEA  WORLD",
+ "website": "https://sea.network",
+ "description": "SEA World is an ecosystem token created by combining DeFi, Nft, Metaverse, and Seaswap!",
+ "explorer": "https://bscscan.com/address/0x5edfb26e2f54c43c3839afa3a0d217b300996a74",
+ "type": "BEP20",
+ "symbol": "SEA",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x5edfb26e2f54c43c3839afa3a0d217b300996a74"
+}
