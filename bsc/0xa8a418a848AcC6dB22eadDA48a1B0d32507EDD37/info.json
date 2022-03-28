@@ -1,0 +1,11 @@
+{
+ "name": "SUN",
+ "website": "https://www.miraclemetauniverse.com",
+ "description": "奇迹世界是一个通过NFT卡牌、DAO自治和质押挖矿等模式的应用打造去中心化+NFT通证经济体系，是全球第一款元宇宙AR实景寻宝游戏，同时又是NFT卡牌收藏的去中心化平台，为玩家和道具收藏者提供一个多平台环境互动和分享独家游戏内容的市场。",
+ "explorer": "https://bscscan.com/token/0xa8a418a848AcC6dB22eadDA48a1B0d32507EDD37",
+ "type": "BEP20",
+ "symbol": "SUN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa8a418a848AcC6dB22eadDA48a1B0d32507EDD37"
+}
