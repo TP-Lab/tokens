@@ -1,0 +1,11 @@
+{
+ "name": "BEM PRO",
+ "website": "https://beminfo.io",
+ "description": "The BEM Foundation owns an ecosystem.NFT Market, Games, payment, exchange and launchpad.BEMT PRO is the main token.",
+ "explorer": "https://bscscan.com/token/0xca73dd90e445afdf18afbba8b6d70033836d470b",
+ "type": "BEP20",
+ "symbol": "BEM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCA73DD90E445afDF18afBbA8B6d70033836D470B"
+}
