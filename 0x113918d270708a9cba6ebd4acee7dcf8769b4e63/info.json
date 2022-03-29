@@ -1,0 +1,11 @@
+{
+  "name": "Open Star Swapcoin",
+  "website": "http://os.openstarex.com/",
+  "description": "Open Star Swapcoin",
+  "explorer": "https://hecoinfo.com/token/0x113918d270708a9cba6ebd4acee7dcf8769b4e63",
+  "type": "BEP20",
+  "symbol": "OSS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x113918d270708a9cba6ebd4acee7dcf8769b4e63"
+}
