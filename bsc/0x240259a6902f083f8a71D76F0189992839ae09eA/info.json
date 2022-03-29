@@ -1,0 +1,11 @@
+{
+  "name": "CLUB",
+  "website": "https://flowbox.club/",
+  "description": "CLUB",
+  "explorer": "https://bscscan.com/address/0x240259a6902f083f8a71D76F0189992839ae09eA",
+  "type": "BEP20",
+  "symbol": "CLUB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x240259a6902f083f8a71D76F0189992839ae09eA"
+}
