@@ -1,0 +1,11 @@
+{
+ "name": "Constellation Doge",
+ "website": "https://csdoge.finance",
+ "description": "Swap, lend & borrow, stable coin, mixed with GameFi as an ecosystem, providing a brand new meme community.",
+ "explorer": "https://bscscan.com/token/0x1642C5E36822Ad371bDba3aF81F9840a456A0969",
+ "type": "BEP20",
+ "symbol": "CsDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1642C5E36822Ad371bDba3aF81F9840a456A0969"
+}
