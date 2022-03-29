@@ -1,0 +1,11 @@
+{
+ "name": "Hrecoin",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://tronscan.io/#/contract/TFiN25tzwwW8WQEWbckohqmxd7Jd1nynFa",
+ "type": "TRC20",
+ "symbol": "HRE",
+ "decimals": 18,
+ "status": "active",
+ "id": "TFiN25tzwwW8WQEWbckohqmxd7Jd1nynFa"
+}
