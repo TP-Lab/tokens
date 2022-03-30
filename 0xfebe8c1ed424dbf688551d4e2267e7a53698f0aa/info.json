@@ -1,0 +1,11 @@
+{
+ "name": "Vita Inu",
+ "website": "https://vitainu.org",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0xfebe8c1ed424dbf688551d4e2267e7a53698f0aa",
+ "type": "BEP20",
+ "symbol": "VINU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfebe8c1ed424dbf688551d4e2267e7a53698f0aa"
+}
