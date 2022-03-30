@@ -1,0 +1,11 @@
+{
+ "name": "GOLD DOGE",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x0985a96D489b184BE05Fd13e017365e4E1d87395",
+ "type": "BEP20",
+ "symbol": "GOLDDOGE",
+ "decimals": 8,
+ "status": "not open",
+ "id": "0x0985a96D489b184BE05Fd13e017365e4E1d87395"
+}
