@@ -1,0 +1,11 @@
+{ 
+"name": " FT CLUB Token",
+"website": "https://bscscan.com/token/0x934D186DE3937D69452bC5Dd061f51EC4Ce42B71",
+"description": "FT CLUB Token (FT)",
+"explorer": "https://bscscan.com/token/0x934D186DE3937D69452bC5Dd061f51EC4Ce42B71",
+"type": "BEP20",
+"symbol": "FT",
+"decimals": 8,
+"status": "active",
+"id": "0x934D186DE3937D69452bC5Dd061f51EC4Ce42B71"
+}
