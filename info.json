@@ -1,0 +1,11 @@
+{
+ "name": "OverSquid",
+ "website": "https://oversquid.mystrikingly.com/",
+ "description": " OverSquid is a community token that will find its utility with the development of an NFT , DEX and Squid GameFI."
+ "explorer": "https://bscscan.com/token/0x8af53f3bcbd87645025e9128197c2e02d5711223",
+ "type": "BEP20",
+ "symbol": "OverSquid",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8aF53f3BcBD87645025e9128197C2e02d5711223"
+}
