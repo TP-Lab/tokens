@@ -1,11 +1,11 @@
 ﻿{
- "name": "LightCap",
- "website": "https://lightcap.cc/",
- "description": "Dare to explore and take the first step in the pursuit of wealth.",
- "explorer": "https://bscscan.com/token/0xB2350547c6CbdD4831c12f5a7695fC3840bB8768",
+ "name": "MonoPoly",
+ "website": "https://MonoPoly.cc/",
+ "description": "#MP will make more people rich with a new mechanism!",
+ "explorer": "https://bscscan.com/token/0x406f214f2D63C30a4632b2F55aE6826517F02521",
  "type": "BEP20",
- "symbol": "LCP",
+ "symbol": "MP",
  "decimals": 18,
  "status": "active",
- "id": "0xB2350547c6CbdD4831c12f5a7695fC3840bB8768"
+ "id": "0x406f214f2D63C30a4632b2F55aE6826517F02521"
 }
