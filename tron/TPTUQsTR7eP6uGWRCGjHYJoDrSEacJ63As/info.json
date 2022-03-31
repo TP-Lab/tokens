@@ -1,0 +1,11 @@
+{
+ "name": "Global Casino",
+ "website": "https://hashbet.casino",
+ "description": "GC is the official token issued by global casinos on the TRON network",
+ "explorer": "https://tronscan.io/#/token20/TPTUQsTR7eP6uGWRCGjHYJoDrSEacJ63As",
+ "type": "TRC20",
+ "symbol": "CG",
+ "decimals": 6,
+ "status": "active",
+ "id": "TA1BQnkoDp5eSCazhavx6rFCqFB4iod4n2"
+}
