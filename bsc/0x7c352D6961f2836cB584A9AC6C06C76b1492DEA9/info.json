@@ -1,0 +1,11 @@
+{
+ "name": "whm",
+ "website": "https://www.whmeta.info/#/home",
+ "description": "Win Hash Meta打造的是一个基于Binance Smart Chain (BSC)上的去中心化的元宇宙生态。",
+ "explorer": "https://bscscan.com/token/0x7c352D6961f2836cB584A9AC6C06C76b1492DEA9",
+ "type": "BEP20",
+ "symbol": "whm",
+ "decimals": 18,
+ "status": "not open",
+ "id": "0x7c352D6961f2836cB584A9AC6C06C76b1492DEA9"
+}
