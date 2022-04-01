@@ -1,0 +1,11 @@
+{
+ "name": "CDN",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xaC992DF476e89BEE14Ce123c7327408676e223e5",
+ "type": "BEP20",
+ "symbol": "CDN",
+ "decimals": 5,
+ "status": "active",
+ "id": "0xaC992DF476e89BEE14Ce123c7327408676e223e5"
+}
