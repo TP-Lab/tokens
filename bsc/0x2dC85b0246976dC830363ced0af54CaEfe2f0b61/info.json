@@ -1,0 +1,11 @@
+{
+    "name": "OPENGATE",
+    "website": "https://www.opengatenft.com",
+    "description": "Opengate is an innovative global NFT trading platform based on the Filecoin ecosystem. It is committed to building a NFT market that securely and permanently stores NFT data and is truly decentralized, creating value through exchange and returning profits to the community. And launched a continuous equity incentive ecological model, such as: providing investors with guaranteed repurchase and pledge services, providing rewards for global creators and project teams, etc.",
+    "explorer": "https://bscscan.com/token/0x2dC85b0246976dC830363ced0af54CaEfe2f0b61",
+    "type": "ERC721",
+    "symbol": "OPENGATE",
+    "decimals": 0,
+    "status": "active",
+    "id": "0x2dC85b0246976dC830363ced0af54CaEfe2f0b61"
+}
