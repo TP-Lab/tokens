@@ -1,0 +1,11 @@
+{
+ "name": "DAO",
+ "website": "https://dao.tronweb.top",
+ "description": "Money safety chain Web3 0 super eco Dao,Dao adopts the combination of two cutting-edge mechanisms: Dao governance mode + defi, and all community citizens participate in autonomy.",
+ "explorer": "https://bscscan.com/token/0xF1563F494D03753fdDB066882A2b2DfFd0be5B47",
+ "type": "BEP20",
+ "symbol": "DAO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xF1563F494D03753fdDB066882A2b2DfFd0be5B47"
+}
