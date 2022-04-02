@@ -1,0 +1,11 @@
+ {
+    "name": "Meta",
+    "website": "https://swap.metaswapstar.com",
+    "description": "Solving old financial system frauds with blockchain technology. Allowing anyone to participate in this financial revolution.",
+    "explorer": "https://bscscan.com/token/0x99d38FFf30a6AC599a3A69E907d55C7EAA6ad061",
+    "type": "BEP20",
+    "symbol": "MT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x99d38FFf30a6AC599a3A69E907d55C7EAA6ad061"
+}
