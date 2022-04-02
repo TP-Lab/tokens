@@ -1,0 +1,11 @@
+{ 
+"name": " worldnft",
+"website": "http://v2.uninft.vip/#/",
+"description": "worldnft (WNFT)",
+"explorer": "https://bscscan.com/token/0x4BE0Bf93Bd643E2Fd188FC9660959EE43b342DC0",
+"type": "BEP20",
+"symbol": "WNFT",
+"decimals": 8,
+"status": "active",
+"id": "0x4BE0Bf93Bd643E2Fd188FC9660959EE43b342DC0"
+}
