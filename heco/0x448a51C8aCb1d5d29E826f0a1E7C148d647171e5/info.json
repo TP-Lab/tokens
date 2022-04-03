@@ -1,0 +1,11 @@
+{
+    "name": "WP",
+    "website": "https://wp.org",
+    "description": "wp token",
+    "explorer": "https://hecoinfo.com/address/0x448a51C8aCb1d5d29E826f0a1E7C148d647171e5",
+    "type": "HRC20",
+    "symbol": "WP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x448a51C8aCb1d5d29E826f0a1E7C148d647171e5"
+}
