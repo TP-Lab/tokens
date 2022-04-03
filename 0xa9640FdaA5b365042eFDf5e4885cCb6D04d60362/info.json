@@ -1,0 +1,11 @@
+{
+ "name": "FDAOS Token",
+ "website": "https://fdaos.pro",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xa9640FdaA5b365042eFDf5e4885cCb6D04d60362",
+ "type": "BEP20",
+ "symbol": "FDAOS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa9640FdaA5b365042eFDf5e4885cCb6D04d60362"
+}
