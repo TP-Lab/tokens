@@ -1,0 +1,11 @@
+{
+ "name": "Cyber Rodeo Coin",
+ "website": "-",
+ "description": "The Cyber Rodeo Coin has all the advantages of Bitcoin, and it has the characteristics of anonymity, security, Immutability, and payment without borders.",
+ "explorer": "https://bscscan.com/token/0x1117279111DC5F3b8EA703989eCbFe00195BDa03",
+ "type": "BEP20",
+ "symbol": "CYBERRODEO",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x1117279111DC5F3b8EA703989eCbFe00195BDa03"
+}
