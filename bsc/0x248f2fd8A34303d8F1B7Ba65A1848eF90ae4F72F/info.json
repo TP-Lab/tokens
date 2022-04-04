@@ -1,0 +1,143 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/trust wallet logo 256x256 png.png",
+    "baseName": "trust wallet logo 256x256 png.png",
+    "format": "PNG",
+    "formatDescription": "PNG",
+    "mimeType": "image/png",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColorAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 262144,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 153.026,
+        "median": 186.75,
+        "standardDeviation": 13845.6,
+        "kurtosis": -1.78059,
+        "skewness": -0.262342,
+        "entropy": 0.53184
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 255,
+        "mean": 255,
+        "median": 255,
+        "standardDeviation": 0,
+        "kurtosis": 8.192e+51,
+        "skewness": 1e+36,
+        "entropy": 0
+      },
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 170.966,
+        "median": 254,
+        "standardDeviation": 25108.4,
+        "kurtosis": -1.67665,
+        "skewness": -0.464606,
+        "entropy": 0.612751
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 156.906,
+        "median": 216,
+        "standardDeviation": 22795.9,
+        "kurtosis": -1.66455,
+        "skewness": -0.392003,
+        "entropy": 0.725153
+      },
+      "blue": {
+        "min": 0,
+        "max": 110,
+        "mean": 29.2328,
+        "median": 22,
+        "standardDeviation": 7478.11,
+        "kurtosis": 0.102157,
+        "skewness": 0.934301,
+        "entropy": 0.789454
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.45455,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 256,
+      "height": 256,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Zip",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2022-04-04T10:13:06+00:00",
+      "date:modify": "2022-04-04T10:13:06+00:00",
+      "png:cHRM": "chunk was found (see Chromaticity, above)",
+      "png:gAMA": "gamma=0.45455 (See Gamma, above)",
+      "png:IHDR.bit-depth-orig": "8",
+      "png:IHDR.bit_depth": "8",
+      "png:IHDR.color-type-orig": "6",
+      "png:IHDR.color_type": "6 (RGBA)",
+      "png:IHDR.interlace_method": "0 (Not interlaced)",
+      "png:IHDR.width,height": "256, 256",
+      "png:sRGB": "intent=0 (Perceptual Intent)",
+      "signature": "f545c021bfdacad0da64f8ccc253955d0db3ee40a15cc95d3963670d234e5398"
+    },
+    "tainted": false,
+    "filesize": "83432B",
+    "numberPixels": "65536",
+    "pixelsPerSecond": "6994990B",
+    "userTime": "0.000u",
+    "elapsedTime": "0:01.009",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
