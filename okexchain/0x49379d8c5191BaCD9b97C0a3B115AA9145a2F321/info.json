@@ -1,0 +1,13 @@
+{
+ "name": "U2U",
+ "website": "https://www.u2utoken.com/",
+ "description": "U2U是新加坡U2U基金会发行，公司正在开发的2U各种应用平台，这些平台包括商业、娱乐、教育、健康、金融、区块链、人工智能、服务、社交、技术开发和慈善等，还包括2U新能源，大健康等高科技领域。通过投资以获得2U平台设置的慈善、绿色和和平基金的回报并进行这些方面基金的运营。
+新加坡U2U  Foundation Ltd 和塞舌尔 Brighsun Ltd公司双方达成共识以同等价值进行U2U与2UT的币币交易。
+U2U币的发行总量和STO的2UT之和不超过100亿枚，本次在OKX的OEC链的KSwap去中心化交易所中，总发行量为0.91亿，将用于DeFi及未来的NFT、GameFi等拓展业务，稀缺和强大共识是优质明星产品的坚实基础。",
+ "explorer": "https://www.oklink.com/zh-cn/okc/address/0x49379d8c5191bacd9b97c0a3b115aa9145a2f321",
+ "type": "KIP20",
+ "symbol": "U2U",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x49379d8c5191BaCD9b97C0a3B115AA9145a2F321"
+}
