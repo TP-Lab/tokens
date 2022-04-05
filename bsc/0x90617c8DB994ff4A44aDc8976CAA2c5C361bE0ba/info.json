@@ -1,0 +1,11 @@
+{
+    "name": "PNC",
+    "webiste": "https://fivexw.com/",
+    "description": "As the utility token of Five X World, PNC is a decentralized fully usable asset that can be used as a currency and a medium of exchange. PNC is minted through gameplay. As an incentive or reward for players by playing the game, it can pay for various services provided inside and outside the Five X World ecosystem, such as NFT transactions, purchase of game items, etc. The total amount of coins issued is 10 billion.",
+    "explorer": "https://bscscan.com/token/0x90617c8DB994ff4A44aDc8976CAA2c5C361bE0ba",
+    "type": "BEP20",
+    "symbol": "PNC",
+    "decimals": "18",
+    "status": "active",
+    "id": "0x90617c8DB994ff4A44aDc8976CAA2c5C361bE0ba"
+}
