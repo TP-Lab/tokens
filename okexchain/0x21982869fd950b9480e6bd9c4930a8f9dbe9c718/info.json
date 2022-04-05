@@ -1,0 +1,11 @@
+﻿{
+ "name": "OKking",
+ "website": "http://okking.cc/",
+ "description": "A project that really makes everyone on okexchain rich.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x21982869fd950B9480e6Bd9c4930a8F9DBe9c718",
+ "type": "KIP20",
+ "symbol": "OKking",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x21982869fd950B9480e6Bd9c4930a8F9DBe9c718"
+}
