@@ -1,0 +1,11 @@
+{
+ "name": "CoexistDAO",
+ "website": "http://www.coexistdao.com",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x2307dEeE7e7b135FFdAA5DC260A180c06Ffe98eb",
+ "type": "BEP20",
+ "symbol": "COES",
+ "decimals": 18,
+ "status": "not open",
+ "id": "0x2307dEeE7e7b135FFdAA5DC260A180c06Ffe98eb"
+}
