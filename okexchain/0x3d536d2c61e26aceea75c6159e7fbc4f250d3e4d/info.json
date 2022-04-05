@@ -1,0 +1,11 @@
+﻿{
+ "name": "SHIB",
+ "website": "http://okshib.cc/",
+ "description": "A fascinating dog on okexchain.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x3d536d2c61e26aceea75c6159e7fbc4f250d3e4d",
+ "type": "KIP20",
+ "symbol": "SHIB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3d536d2c61e26aceea75c6159e7fbc4f250d3e4d"
+}
