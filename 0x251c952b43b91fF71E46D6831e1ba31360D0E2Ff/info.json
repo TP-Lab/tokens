@@ -1,0 +1,11 @@
+{
+ "name": "BabyETH",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x251c952b43b91fF71E46D6831e1ba31360D0E2Ff ",
+ "type": "BEP20",
+ "symbol": "BabyETH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x251c952b43b91fF71E46D6831e1ba31360D0E2Ff "
+}
