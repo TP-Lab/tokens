@@ -1,0 +1,11 @@
+{
+ "name": "Crew4",
+ "website": "https://www.spacex.com/",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xC867e9d64549978FCc6DD3Cd1C38AbE014A94C4B",
+ "type": "BEP20",
+ "symbol": "Crew4",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC867e9d64549978FCc6DD3Cd1C38AbE014A94C4B"
+}
