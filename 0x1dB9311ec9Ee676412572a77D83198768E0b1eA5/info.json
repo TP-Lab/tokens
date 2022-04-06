@@ -1,0 +1,21 @@
+{
+
+"name": "Rise Fist",
+
+"website": "https://www.risefist.vip",
+
+"description": "The geek group from Fsit, which strongly advocates the rise of Pancake",
+
+"explorer": "https://bscscan.com/token/0x1dB9311ec9Ee676412572a77D83198768E0b1eA5",
+
+"type": "BEP20",
+
+"symbol": "RFist",
+
+"decimals": 6,
+
+"status": "active",
+
+"id": "0x1dB9311ec9Ee676412572a77D83198768E0b1eA5"
+
+}
