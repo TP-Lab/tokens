@@ -1,0 +1,11 @@
+{
+ "name": "ShremHouse",
+ "website": "https://www.shrem.io/",
+ "description": "A decentralized venture based on DAO; Focus on Metaverse and Web3.0.",
+ "explorer": "https://bscscan.com/token/0x0dd0dd3c4ac3739697b6e698329a96b9c47c9abf",
+ "type": "BEP20",
+ "symbol": "SHE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0Dd0Dd3C4AC3739697B6e698329A96b9C47c9abf"
+}
