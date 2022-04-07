@@ -1,0 +1,11 @@
+{
+"name": "OKXDuck Token",
+"website": "OKXDuck.com",
+"description": "OKExChain",
+"explorer": "httpswww.oklink.comzh-cnokcaddress0x11b28c3d64693453df5a3c99a1fb6f117dd7b0ee",
+"type": "OKExChain",
+"symbol": "OKXDuck ",
+"decimals": 18,
+"status": "active",
+"id": "0x11b28c3d64693453df5a3c99a1fb6f117dd7b0ee"
+} 
