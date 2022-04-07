@@ -1,0 +1,19 @@
+{
+"name": "Lemon Tiger",
+
+"website": "https://www.lemontiger.finance/",
+
+"description": "Lemon Tiger is a new WBNB charitable token.",
+
+"explorer": "https://bscscan.com/token/0x2db591a227ff3f05bc889b5d1c39fc116bb8289d",
+
+"type": "BEP20",
+
+"symbol": "Lemon Tiger",
+
+"decimals": 18,
+
+"status": "active",
+
+"id": "0x2db591a227ff3f05bc889b5d1c39fc116bb8289d"
+}
