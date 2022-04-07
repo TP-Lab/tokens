@@ -1,0 +1,11 @@
+{
+ "name": "OK cat",
+ "website": "https://www.cryptoplayer.capital",
+ "description": "OK catfly",
+ "explorer": "https://www.oklink.com/zh-cn/okc/address/0x9d560fb294f62915a8cb2395d73266387781888d",
+ "type": "OKExChain",
+ "symbol": "OK cat",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9d560FB294f62915A8cB2395d73266387781888D"
+}
