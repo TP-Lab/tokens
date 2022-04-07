@@ -1,0 +1,11 @@
+{
+ "name": "NFTSwap Token",
+ "website": "http://www.bscn.io",
+ "description": "NFTSwap, covering NFT issuance, auction, exchange, cross-chain, Launchpad ,It is mainly used in GameFi, art collections, copyrights, music works and other fields, and has the characteristics of lower transaction fees, faster concurrency, stronger scalability, usability.",
+ "explorer": "https://bscscan.com/token/0x602940f3e043fef5647783a8cf1639028620166b",
+ "type": "BEP20",
+ "symbol": "BSCN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x602940F3e043Fef5647783a8cF1639028620166b"
+}
