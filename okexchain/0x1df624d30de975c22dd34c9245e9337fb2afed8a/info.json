@@ -1,0 +1,11 @@
+{
+ "name": "JFDoge",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://www.oklink.com/en/okc/tokenAddr/ex1rhmzf5cda96uytwnfjfyt6fn07e2lmv2srlgrz",
+ "type": "KIP20",
+ "symbol": "JFDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1df624d30de975c22dd34c9245e9337fb2afed8a"
+}
