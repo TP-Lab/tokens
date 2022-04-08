@@ -1,0 +1,11 @@
+{
+ "name": "CRYPTO",
+ "website": "https://cryptomoney.bet",
+ "description": "crypto is a permissionless and community managed crypto fundraising democratization that allows",
+ "explorer": "https://bscscan.com/address/0x807f7d3db25b4d4e2f799340d74ed6de9aa4d97d”,
+ "type": "BEP20",
+ "symbol": "CRYPTO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x807f7d3db25b4d4e2f799340d74ed6de9aa4d97d"
+}
