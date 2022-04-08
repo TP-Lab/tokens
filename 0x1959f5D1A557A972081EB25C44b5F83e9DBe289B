@@ -1,0 +1,11 @@
+{
+ "name": "GalaxyGuardians",
+ "website": "https://galaxyguardians.online/",
+ "description": "By Combining The Power Of Memes With Real Utility And Charitability",
+ "explorer": "https://bscscan.com/token/0x1959f5D1A557A972081EB25C44b5F83e9DBe289B",
+ "type": "BEP20",
+ "symbol": "GGUARDIAN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1959f5D1A557A972081EB25C44b5F83e9DBe289B"
+}
