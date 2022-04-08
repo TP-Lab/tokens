@@ -1,0 +1,11 @@
+{
+ "name": "GEE",
+ "website": "https://metafreecity.com/",
+ "description": "GEE is a consumable resource token for the Meta Freecity platform that can be acquired interactively in the Freecity application scenario. It has deflationary and inflationary configurable mechanisms with a DeFi active siphoning growth engine..",
+ "explorer": "https://bscscan.com/token/0x8701a911c93c417ffdbd058138ae086742f50413",
+ "type": "BEP20",
+ "symbol": "GEE",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x8701a911c93c417ffdbd058138ae086742f50413"
+}
