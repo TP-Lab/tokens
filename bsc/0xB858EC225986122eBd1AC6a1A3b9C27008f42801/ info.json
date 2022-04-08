@@ -1,0 +1,11 @@
+{
+ "name": "KuGouToken",
+ "website": "https://www.kugouex.cc/cn/KGT.html",
+ "description": "KuGouToken(KGT) is the only platform and community governance points issued by KuGouEX. Holders enjoy community business voting, team elections and priority participation in various activities.",
+ "explorer": "https://bscscan.com/token/0xB858EC225986122eBd1AC6a1A3b9C27008f42801",
+ "type": "BEP20",
+ "symbol": "KGT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB858EC225986122eBd1AC6a1A3b9C27008f42801"
+}
