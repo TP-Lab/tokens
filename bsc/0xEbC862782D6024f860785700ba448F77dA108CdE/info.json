@@ -1,0 +1,11 @@
+{
+ "name": "BCL",
+ "website": "http://www.bcl.world/#/",
+ "description": "no",
+ "explorer": "https://bscscan.com/0xEbC862782D6024f860785700ba448F77dA108CdE",
+ "type": "BEP20",
+ "symbol": "BCL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEbC862782D6024f860785700ba448F77dA108CdE"
+}
