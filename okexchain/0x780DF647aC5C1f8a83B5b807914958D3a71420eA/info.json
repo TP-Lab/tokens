@@ -1,0 +1,11 @@
+{
+ "name": "OSKY",
+ "website": "https://www.osky.network",
+ "description": "OSKY is the application token of the SKY game management community on WEB3",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x780DF647aC5C1f8a83B5b807914958D3a71420eA",
+ "type": "KIP20",
+ "symbol": "OSKY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x780DF647aC5C1f8a83B5b807914958D3a71420eA"
+}
