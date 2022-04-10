@@ -1,0 +1,11 @@
+{
+ "name": "Grizzlies",
+ "website": "http://grizzlies.vip/",
+ "description": "It aims to create an immersive interstellar city game experience for blockchain players.",
+ "explorer": "https://bscscan.com/token/0x78432853fd084bd958d154629f9a9b5c5808ff63",
+ "type": "BEP20",
+ "symbol": "GRZ",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x78432853Fd084bd958d154629F9a9B5c5808fF63"
+}
