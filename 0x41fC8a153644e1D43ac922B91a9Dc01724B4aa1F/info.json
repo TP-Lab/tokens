@@ -1,0 +1,11 @@
+{
+ "name": "PiKing",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x41fC8a153644e1D43ac922B91a9Dc01724B4aa1F",
+ "type": "BEP20",
+ "symbol": "PiKing",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x41fC8a153644e1D43ac922B91a9Dc01724B4aa1F"
+}
