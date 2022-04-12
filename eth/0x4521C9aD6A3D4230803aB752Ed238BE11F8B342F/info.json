@@ -1,0 +1,11 @@
+{
+ "name": "Sanin Inu",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://cn.etherscan.com/token/0x4521c9ad6a3d4230803ab752ed238be11f8b342f",
+ "type": "ERC20",
+ "symbol": "SANI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4521C9aD6A3D4230803aB752Ed238BE11F8B342F"
+}
