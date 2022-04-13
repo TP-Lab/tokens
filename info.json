@@ -1,11 +1,11 @@
-{ 
-"name": "BigDoge",
-"website": "http://bigdoge.info/",
-"description": "Bigdoge is a fully decentralized token issued on the etheric chain.",
-"explorer": "https://etherscan.io/token/0x61955b6d6fd039Ca35208905C8c7b6f0BD42DC60",
-"type": "ERC20",
-"symbol": "BigDoge",
-"decimals": 8,
-"status": "active",
-"id": "0x61955b6d6fd039Ca35208905C8c7b6f0BD42DC60"
+{
+ "name": "MarsCity Token",
+ "website": "http://marscity.ca/",
+ "description": "MarsCity Token will be the foundation of social credit system after human beings build MarsCity.",
+ "explorer": "https://bscscan.com/token/0xbdf9d58511CC04d108D101F4fB9b2a788Ed85Ef1",
+ "type": "BEP20",
+ "symbol": "MCT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xbdf9d58511CC04d108D101F4fB9b2a788Ed85Ef1"
 }
