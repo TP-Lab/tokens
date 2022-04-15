@@ -1,0 +1,11 @@
+{
+  "name": "Aladdin Token",
+  "website": "https://cdc.lamp-plan.net/h5/index.html",
+  "description": "Aladdin是神燈計劃的平臺通證，神燈計劃是集超額借貸，聚合理財，聚合消費，NFT鑄造，元宇宙，GAMEFI等多功能平臺，旨在將傳統金融上鏈的鏈上金融平臺。",
+  "explorer": "https://bscscan.com/token/0x6596D4514CF2B5e5d76ca69ebe20276EF1d238e8",
+  "type": "BEP20",
+  "symbol": "ALD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6596D4514CF2B5e5d76ca69ebe20276EF1d238e8"
+}

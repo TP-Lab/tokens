@@ -1,0 +1,11 @@
+{
+ "name": "OKXHero",
+ "website": "-",
+ "description": "OKExChain",
+ "explorer": "https://www.oklink.com/en/okc/tokenAddr/ex1qew6wed4z30zn3rafg22hkv4s2p77sms0we5as",
+ "type": "KIP20",
+ "symbol": "OKXHero",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x065dA765b5145E29c47d4A14abD9958283eF4370"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CITY OF DREAM",
+  "website": "https://cod.social/",
+  "description": "CITY OF DREAM",
+  "explorer": "https://bscscan.com/address/0x73Eb6947D72ED1979e6A935F516212A7f593bC44",
+  "type": "BEP20",
+  "symbol": "COD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x73Eb6947D72ED1979e6A935F516212A7f593bC44"
+}

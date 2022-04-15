@@ -1,0 +1,11 @@
+{
+ "name": "SPACE AGE",
+ "website": "-",
+ "description": "SPACE AGE Tokenis an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x81cAd0ab645A1792F585cE93c5f955Ff3eCC3951",
+ "type": "BEP20",
+ "symbol": "SPAC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x81cAd0ab645A1792F585cE93c5f955Ff3eCC3951"
+}
