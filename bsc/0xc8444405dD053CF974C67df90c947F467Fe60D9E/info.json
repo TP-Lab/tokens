@@ -1,0 +1,11 @@
+{
+ "name": "BFSCoin",
+ "website": "https://f.bfs2020.club/dist/#/home/index",
+ "description": "Liquidity integration of asset income platform and pledged assets.",
+ "explorer": "https://bscscan.com/token/0xc8444405dD053CF974C67df90c947F467Fe60D9E",
+ "type": "BEP20",
+ "symbol": "BFS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc8444405dD053CF974C67df90c947F467Fe60D9E"
+}
