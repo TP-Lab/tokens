@@ -1,0 +1,11 @@
+{
+ "name": "ALLY",
+ "website": "-",
+ "description": "ALLY platform pass,Through the continuous application of empowerment and consensus,Build the leading public chain of community autonomy"
+ "explorer": "https://bscscan.com/token/0x2946fA58036B0127327Eab6a474F9Cd4DBE6e6E0",
+ "type": "BEP20",
+ "symbol": "ALLY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2946fA58036B0127327Eab6a474F9Cd4DBE6e6E0"
+}
