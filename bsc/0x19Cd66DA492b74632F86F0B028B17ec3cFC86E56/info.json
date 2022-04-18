@@ -1,0 +1,11 @@
+{ 
+"name": "Falcon9ToKen",
+"website": "https://www.falcon9.online/",
+"description": "Falcon9 is the continuation of the space series, with a more perfect mechanism. The official website, twitter, Telegraph and earth push teams are complete. There are audit reports from well-known institutions before the launch, and the dual-c fast track after the launch. Mechanism: Fair launch, no private placement, pre-sale, black-and-white list, 5% tax on sales, 1% destruction of local currency, bonus from pool, 1% BNB, 2% marketing, and 1% return to spacedoge bottom pool.",
+"explorer": "https://bscscan.com/token/0x19cd66da492b74632f86f0b028b17ec3cfc86e56",
+"type": "BEP20",
+"symbol": "Falcon9",
+"decimals": 18,
+"status": "active",
+"id": "0x19Cd66DA492b74632F86F0B028B17ec3cFC86E56"
+}
