@@ -1,0 +1,11 @@
+{
+ "name": "worldnft ",
+ "website": "-",
+ "description": "worldnft  is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x4BE0Bf93Bd643E2Fd188FC9660959EE43b342DC0",
+ "type": "BEP20",
+ "symbol": "WNFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4BE0Bf93Bd643E2Fd188FC9660959EE43b342DC0"
+}
