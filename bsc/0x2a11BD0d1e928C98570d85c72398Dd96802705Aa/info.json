@@ -1,0 +1,11 @@
+{
+    "name": "LuckyDoge",
+    "website": "https://www.luckydogebsc.org/",
+    "description": "Living in the Doge universe, LuckyDoge is the most representative of luckiness in the doge universe.",
+    "explorer": "https://bscscan.com/token/0x2a11BD0d1e928C98570d85c72398Dd96802705Aa",
+    "type": "BEP20",
+    "symbol": "LuckyDoge",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2a11BD0d1e928C98570d85c72398Dd96802705Aa"
+}
