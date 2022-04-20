@@ -1,0 +1,11 @@
+{
+ "name": "MetaverseAvatarToken",
+ "website": "",
+ "description": "MetaverseAvatarToken is a platform token. The platform provides audit and insurance compensation services. The project settled on the platform must pay the corresponding deposit, so as to prevent and reduce fraud in the field of encryption.",
+ "explorer": "https://bscscan.com/token/0xeF973E0AA901F65f181bA6c44A12CFf15E132e4a",
+ "type": "BEP20",
+ "symbol": "MATR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xeF973E0AA901F65f181bA6c44A12CFf15E132e4a"
+}
