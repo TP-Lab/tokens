@@ -1,0 +1,11 @@
+{
+ "name": "Little Ether Coin",
+ "website": "http://www.lecoin.com.cn/",
+ "description": "A DEFI decentralized financial protocol token issued on binance smart chain",
+ "explorer": "https://bscscan.com/token/0x0ec8bc5C89357CB2508d0Dc5AE730d3Ba8cF62f2",
+ "type": "BEP20",
+ "symbol": "LE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0ec8bc5C89357CB2508d0Dc5AE730d3Ba8cF62f2"
+}
