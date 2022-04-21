@@ -1,0 +1,11 @@
+{
+ "name": "J8",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xe43373e9874231a717223959d864df2ea8c2b4fa",
+ "type": "BEP20",
+ "symbol": "J8",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe43373e9874231a717223959d864df2ea8c2b4fa"
+}
