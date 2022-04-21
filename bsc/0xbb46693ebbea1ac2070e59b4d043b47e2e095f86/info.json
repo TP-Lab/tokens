@@ -1,0 +1,11 @@
+{ 
+"name": "BFG Token",
+"website": "https://betfury.io/",
+"description": "BFG is the internal token of the BetFury platform launched on BSC. BFG’s unique mining solution, by placing bets, and Staking opportunity became a hallmark of the BetFury project. Once you’ve got and start holding BFG tokens on BetFury you can receive a part of the platform's profit from the Staking pool.",
+"explorer": "https://bscscan.com/token/0xbb46693ebbea1ac2070e59b4d043b47e2e095f86",
+"type": "BEP20",
+"symbol": "BFG",
+"decimals": 18,
+"status": "active",
+"id": "0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86"
+}
