@@ -1,0 +1,11 @@
+{
+ "name": "MBUS",
+ "website": "https://www.mbuslab.com",
+ "description": "MBUS由加拿大MBUS Lab实验室联合国际技术团队DAO自治社区发起，MBUS是一个高度自治的网络社区，随着世界各地的加密爱好者预测DAO将成为加密web3运动的“下一波浪潮”。",
+ "explorer": "https://bscscan.com/token/0xBb52045D74f0A4DbcFB5ec967c3c621949f865F6",
+ "type": "BEP20",
+ "symbol": "MBUS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBb52045D74f0A4DbcFB5ec967c3c621949f865F6"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Tao Tie Token",
+ "website": "..",
+ "description": "..",
+ "explorer": "https://bscscan.com/token/0x8A788984C2774d141C2EE01dbe9dF3605584A42f",
+ "type": "BEP20",
+ "symbol": "TTT ",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x8A788984C2774d141C2EE01dbe9dF3605584A42f"
+}

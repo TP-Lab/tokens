@@ -1,0 +1,11 @@
+{
+ "name": "CHT ",
+ "website": "..",
+ "description": "Bep20 token issued on BSC chain..",
+ "explorer": "https://bscscan.com/token/0xeE4B99A0154FFE8fbE4f577178128F45B3055B8b",
+ "type": "BEP20",
+ "symbol": "CHT ",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xeE4B99A0154FFE8fbE4f577178128F45B3055B8b"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Legend Doge",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x348Ff99f1F01Ef638bbD70DDD217b7c1d4Ee67b3",
+ "type": "BEP20",
+ "symbol": "Legend Doge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x348Ff99f1F01Ef638bbD70DDD217b7c1d4Ee67b3"
+}

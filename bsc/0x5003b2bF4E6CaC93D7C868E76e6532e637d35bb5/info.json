@@ -1,0 +1,11 @@
+{
+ "name": "DBTC Token",
+ "website": "https://www.DbtcCoin.com",
+ "description": "A fully decentralized community autonomy token.",
+ "explorer": "https://www.bscscan.com/token/0x5003b2bF4E6CaC93D7C868E76e6532e637d35bb5",
+ "type": "BEP20",
+ "symbol": "DBTC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x5003b2bF4E6CaC93D7C868E76e6532e637d35bb5"
+}

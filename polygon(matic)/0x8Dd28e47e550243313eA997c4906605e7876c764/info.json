@@ -1,0 +1,11 @@
+{
+ "name": "GameFiBox Token",
+ "website": "https://gamefibox.club",
+ "description": "The GameFiBox platform is the first Game platform to support the Layer 2 side chain Polygan of the Ethereum network.",
+ "explorer": "https://polygonscan.com/address/0x8Dd28e47e550243313eA997c4906605e7876c764",
+ "type": "ERC20",
+ "symbol": "GFB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8Dd28e47e550243313eA997c4906605e7876c764"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Break zero",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x168b20f4d6b4d41fd554d11260d5cea70a62dbf9",
+ "type": "BEP20",
+ "symbol": "BO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x168b20f4d6b4d41fd554d11260d5cea70a62dbf9"
+}

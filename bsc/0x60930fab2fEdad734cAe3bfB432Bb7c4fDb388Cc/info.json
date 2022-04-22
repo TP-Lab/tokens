@@ -1,0 +1,11 @@
+{
+ "name": "DOGE PROF",
+ "website": "www.dogeprof.com",
+ "description": "DOEG PROF is a token without any mechanism. Its handling fee is 0",
+ "explorer": "https://bscscan.com/token/0x60930fab2fEdad734cAe3bfB432Bb7c4fDb388Cc",
+ "type": "BEP20",
+ "symbol": "DOGE PROF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x60930fab2fEdad734cAe3bfB432Bb7c4fDb388Cc"
+}

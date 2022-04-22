@@ -1,0 +1,11 @@
+{
+ "name": "GACUBE",
+ "website": "https://gacube.finance",
+ "description": "GAC is the native token of the Gacube platform and it's total supply is 1 billion",
+ "explorer": "https://bscscan.com/token/0x38C3E4cD2bFB89a57495acadE0c49e49C3Db8dC8",
+ "type": "BEP20",
+ "symbol": "GAC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x38C3E4cD2bFB89a57495acadE0c49e49C3Db8dC8"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BrainDance",
+ "website": "https://braindance.vip",
+ "description": "A DAO governance experiment for VR/AR content creators and fans alike.",
+ "explorer": "https://bscscan.com/token/0x570c6e047f8084634763fc582df568ebcaf08bb4",
+ "type": "BEP20",
+ "symbol": "BD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x570C6e047F8084634763fC582DF568ebCAF08bB4"
+}

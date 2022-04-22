@@ -1,0 +1,11 @@
+{
+  "name": "WigoSwap",
+  "website": "https://wigoswap.io",
+  "description": "DeFi hub with LIFETIME farming earnings powered by Gamified Burning Mechanism (GBM)",
+  "explorer": "https://ftmscan.com/address/0xE992bEAb6659BFF447893641A378FbbF031C5bD6",
+  "type": "ERC20",
+  "symbol": "WIGO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xE992bEAb6659BFF447893641A378FbbF031C5bD6"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "IPFS",
+ "website": "https://www.ipfs.com/",
+ "description": "Hold IPFS Interstellar File Coin Dividend Super Explosive Dividend FIL",
+ "explorer": "https://bscscan.com/token/0x6F0967E1a8e8F30660955D7D9969BFd76bFe749E",
+ "type": "BEP20",
+ "symbol": "IPFS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6F0967E1a8e8F30660955D7D9969BFd76bFe749E"
+}

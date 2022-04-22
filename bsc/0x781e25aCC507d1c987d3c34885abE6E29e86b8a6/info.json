@@ -1,0 +1,11 @@
+{
+ "name": "Agl Token",
+ "website": "https://www.angel-token.finance/",
+ "description": "Angel investment is the pioneer of venture capital. Belief people empower Angel, Angel gives wealth to the belief.",
+ "explorer": "https://bscscan.com/token/0x781e25aCC507d1c987d3c34885abE6E29e86b8a6",
+ "type": "BEP20",
+ "symbol": "AGL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x781e25aCC507d1c987d3c34885abE6E29e86b8a6"
+}

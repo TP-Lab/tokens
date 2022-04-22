@@ -1,0 +1,11 @@
+{
+"name": "ZXTS Token ",
+"website": "https://xtsworld.com",
+"description": "ZXTS and XTS together form the dual token mechanism of the angel system. ZXTS Token is abbreviated as ZX, which is a value tool for global network operations. ZX has added a black hole combustion mechanism, with a total issuance of 100 million, and each transaction burns 5%",
+"explorer": "https://bscscan.com/token/0x318e46864b0cc0603ce736ea4800f2418e0777bc",
+"type": "BEP20",
+"symbol": "ZXTS",
+"decimals": 4,
+"status": "active",
+"id": "0x318e46864B0CC0603CE736ea4800F2418e0777bc"
+}

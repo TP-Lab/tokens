@@ -1,0 +1,11 @@
+{
+ "name": "bwnft",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://hecoinfo.com/token/0x36568CB3DfA91Ae02A782A7B4c25bb367E4ADCA5",
+ "type": "HRC20",
+ "symbol": "bwnft",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x36568CB3DfA91Ae02A782A7B4c25bb367E4ADCA5"
+}

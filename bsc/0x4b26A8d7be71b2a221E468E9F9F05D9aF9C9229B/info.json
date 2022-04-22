@@ -1,0 +1,11 @@
+{
+ "name": "Cosmic journey",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x4b26a8d7be71b2a221e468e9f9f05d9af9c9229b",
+ "type": "BEP20",
+ "symbol": "CUSE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4b26A8d7be71b2a221E468E9F9F05D9aF9C9229B"
+}

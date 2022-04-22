@@ -1,0 +1,11 @@
+{
+ "name": "Great Voyage Coin",
+ "website": "https://bscscan.com/token/0xDB95FBc5532eEb43DeEd56c8dc050c930e31017e",
+ "description": "Great Voyage Coin.",
+ "explorer": "https://bscscan.com/token/0xDB95FBc5532eEb43DeEd56c8dc050c930e31017e",
+ "type": "BEP20",
+ "symbol": "GVC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDB95FBc5532eEb43DeEd56c8dc050c930e31017e"
+}

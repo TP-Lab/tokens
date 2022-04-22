@@ -1,0 +1,11 @@
+{
+ "name": "Bounty Coins",
+ "website": "https://www.bountybhc.com",
+ "description": "Bounty Hunter is Web3 0, based on defi2 With 0 + Dao + gamefi + metaverse as the core, it is a new ecological platform across chains, industries, regions and languages.",
+ "explorer": "https://bscscan.com/token/0xdCD5F3cDB93249b6AEfCd6d85Ef8B924C7923ac7",
+ "type": "BEP20",
+ "symbol": "BHC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdCD5F3cDB93249b6AEfCd6d85Ef8B924C7923ac7"
+}

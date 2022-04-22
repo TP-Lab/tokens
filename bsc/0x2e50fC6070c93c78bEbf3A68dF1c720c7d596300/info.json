@@ -1,0 +1,11 @@
+{
+ "name": "ATHENA",
+ "website": "-",
+ "description": "Athena is a decentralized aggregation ecological platform that integrates DeFi + NFT ten element universe + chain tour, and Ath is currently the only pass for Athena Ecology.",
+ "explorer": "https://bscscan.com/token/0x2e50fC6070c93c78bEbf3A68dF1c720c7d596300",
+ "type": "BEP20",
+ "symbol": "ATH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2e50fC6070c93c78bEbf3A68dF1c720c7d596300"
+}

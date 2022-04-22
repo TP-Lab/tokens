@@ -1,0 +1,11 @@
+{
+ "name": "BIFA",
+ "website": "www.bifameta.com",
+ "description": "BiFA was founded in Spain in 2014 as a professional online football guessing company. It is headquartered in Valencia",
+ "explorer": "https://bscscan.com/token/0x873A5DFD10aF54e54DF6E2d646190aC6B5F62736",
+ "type": "BSC20",
+ "symbol": "BIFA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x873A5DFD10aF54e54DF6E2d646190aC6B5F62736"
+}

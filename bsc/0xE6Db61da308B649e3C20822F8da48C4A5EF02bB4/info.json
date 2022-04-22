@@ -1,0 +1,11 @@
+{
+ "name": "Constellation Coin",
+ "website": "https://www.gameficstc.com/",
+ "description": "CSTC serves as a limited reward token for lottery games. Whether it is for community autonomy, or 10% of the game flow will be used to continuously buy back and destroy the value-added potential of CSTC, it will provide you with long-term value. ",
+ "explorer": "https://bscscan.com/token/0xE6Db61da308B649e3C20822F8da48C4A5EF02bB4",
+ "type": "BEP20",
+ "symbol": "CSTC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xE6Db61da308B649e3C20822F8da48C4A5EF02bB4"
+}

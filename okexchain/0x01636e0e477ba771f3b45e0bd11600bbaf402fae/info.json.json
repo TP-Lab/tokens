@@ -1,0 +1,11 @@
+{
+ "name": "OKDOGE",
+ "website": "https://www.okdoge.org/",
+ "description": "OKDOGE is the first cross-chain and blockchain-agnostic NFT platform.",
+ "explorer": "https://www.oklink.com/en/okc/tokenAddr/ex1q93kurj80wnhrua5tc9az9sqhwh5qtawrsnncv",
+ "type": "KIP20",
+ "symbol": "OKDOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x01636e0e477ba771f3b45e0bd11600bbaf402fae"
+}

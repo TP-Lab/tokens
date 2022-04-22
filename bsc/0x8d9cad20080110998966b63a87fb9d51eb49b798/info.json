@@ -1,0 +1,11 @@
+{
+ "name": "secret Foundation  coin",
+ "website": "https://secretdex.net",
+ "description": "SFC是 Secret foundation社区的治理通证，基于币安智能生态链开发，SFC将DeFi与企业区块链改革理念相融合，由黑客松技术联盟开发并发布于暗网，开发人员和 Secret Foundation前期无预留通证，合约代码已由多方专业机构审计，100%去中心化，完全去中心化运作。",
+ "explorer": "https://bscscan.com/token/0x8d9cad20080110998966b63a87fb9d51eb49b798",
+ "type": "BEP20",
+ "symbol": "SFC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x8d9cad20080110998966b63a87fb9d51eb49b798"
+}

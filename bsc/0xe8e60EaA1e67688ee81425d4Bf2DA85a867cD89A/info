@@ -1,0 +1,11 @@
+{
+"name": "NiceShib",
+"website": "-",
+"description": "NiceShib",
+"explorer": "https://bscscan.com/address/0xe8e60eaa1e67688ee81425d4bf2da85a867cd89a",
+"type": "BEP20",
+"symbol": "NiceShib",
+"decimals": 18,
+"status": "active",
+"id": "0xe8e60EaA1e67688ee81425d4Bf2DA85a867cD89A"
+}

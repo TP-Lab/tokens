@@ -1,0 +1,11 @@
+{ 
+"name": "MetaverseCrypto",
+"website": "https://metaversecrypto.cash",
+"description": "Metaversecrypto is automatic dividend USDT, just hold it, USDT automatically to YOUR wallet",
+"explorer": "https://bscscan.com/token/0x2D996A77A979337bf2b28027252d29cDcB742e1b",
+"type": "BEP20",
+"symbol": "META",
+"decimals": 18,
+"status": "active",
+"id": "0x2D996A77A979337bf2b28027252d29cDcB742e1b"
+}

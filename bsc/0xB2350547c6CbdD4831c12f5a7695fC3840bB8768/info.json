@@ -1,0 +1,11 @@
+﻿{
+ "name": "LightCap",
+ "website": "https://lightcap.cc/",
+ "description": "Dare to explore and take the first step in the pursuit of wealth.",
+ "explorer": "https://bscscan.com/token/0xB2350547c6CbdD4831c12f5a7695fC3840bB8768",
+ "type": "BEP20",
+ "symbol": "LCP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB2350547c6CbdD4831c12f5a7695fC3840bB8768"
+}

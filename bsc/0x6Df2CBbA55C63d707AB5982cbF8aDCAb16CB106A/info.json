@@ -1,0 +1,11 @@
+{
+ "name": " MISSION ",
+ "website": "https://peacedefi.org",
+ "description": "Mission is a certificate of liquidity mining, adding liquidity will automatically get WBNB token, WBNB and MSN add liquidity free fee.",
+ "explorer": "https://bscscan.com/token/0x6Df2CBbA55C63d707AB5982cbF8aDCAb16CB106A",
+ "type": "BEP20",
+ "symbol": "MSN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6Df2CBbA55C63d707AB5982cbF8aDCAb16CB106A"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MetaversePro",
+ "website": "https://metaverse.pro/",
+ "description": "MetaversePRO is the reserve currency for GameFi and the Metaverse, and is building the infrastructure for the future.",
+ "explorer": "https://bscscan.com/token/0x0a2046C7fAa5a5F2b38C0599dEB4310AB781CC83",
+ "type": "BEP20",
+ "symbol": "Meta",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0a2046C7fAa5a5F2b38C0599dEB4310AB781CC83"
+}

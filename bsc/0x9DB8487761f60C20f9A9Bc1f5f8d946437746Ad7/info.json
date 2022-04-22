@@ -1,0 +1,11 @@
+{
+    "name": "solomondao",
+    "website": "https://sld.123231.xyz",
+    "description": "Solomon help more people around the world to know BTC, understand BTC and invest BTC",
+    "explorer": "https://bscscan.com/token/0x9DB8487761f60C20f9A9Bc1f5f8d946437746Ad7",
+    "type": "BEP20",
+    "symbol": "SLD",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x9DB8487761f60C20f9A9Bc1f5f8d946437746Ad7"
+}

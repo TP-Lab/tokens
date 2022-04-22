@@ -1,0 +1,11 @@
+{
+ "name": "undo zero",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x836C6Efc774a0FE45Bd972625541CAf1C516Fc94",
+ "type": "BEP20",
+ "symbol": "U0",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x836C6Efc774a0FE45Bd972625541CAf1C516Fc94"
+}

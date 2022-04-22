@@ -1,0 +1,11 @@
+{
+ "name": "Brick Token",
+ "website": "https://bz.brickcoin.xyz",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0xc4893fea8547fb1a4d860518285af6655424645f",
+ "type": "BEP20",
+ "symbol": "Brick",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc4893fEa8547Fb1A4D860518285AF6655424645f"
+}

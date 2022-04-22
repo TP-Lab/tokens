@@ -1,0 +1,11 @@
+{
+ "name": "DCT",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0x587f594635ACD348Fc45cCFA5BA79926003785d4",
+ "type": "BEP20",
+ "symbol": "DCT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x587f594635ACD348Fc45cCFA5BA79926003785d4"
+}

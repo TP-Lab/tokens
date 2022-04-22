@@ -1,0 +1,11 @@
+{
+ "name": "Buffed Shiba",
+ "website": "https://www.buffedshiba.com/",
+ "description": "A community driven token that empowers small and non-private investors to build a stronger portfolio. Buffed Shiba is the only Shiba Inu inspired token that lifts.",
+ "explorer": "https://bscscan.com/token/0xd8f61cdeca41def1a7923f308a042f678109f54b",
+ "type": "BEP20",
+ "symbol": "BSHIB",
+ "decimals": 19,
+ "status": "active",
+ "id": "0xd8f61cdeca41def1a7923f308a042f678109f54b"
+}

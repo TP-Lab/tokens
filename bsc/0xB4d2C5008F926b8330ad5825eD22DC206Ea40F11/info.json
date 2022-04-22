@@ -1,0 +1,11 @@
+{
+  "name": "MarsHome",
+  "website": "https://marshome.co",
+  "description": "MarsHome The mission and vision is to establish an ecological community that realizes all-round community autonomy and consensus on mining, payment, staking, and trading.",
+  "explorer": "https://bscscan.com/token/0xB4d2C5008F926b8330ad5825eD22DC206Ea40F11",
+  "type": "BEP20",
+  "symbol": "MarsHome",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xB4d2C5008F926b8330ad5825eD22DC206Ea40F11"
+}

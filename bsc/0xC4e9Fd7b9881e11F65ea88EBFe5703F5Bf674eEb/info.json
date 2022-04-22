@@ -1,0 +1,11 @@
+{
+    "name": "ZGNZ",
+    "website": "www.zgnztoken.com",
+    "description": "ZGNZ is the only real Chinese woman's soccer team contract on the BSC chain",
+    "explorer": "https://bscscan.com/token/0xC4e9Fd7b9881e11F65ea88EBFe5703F5Bf674eEb",
+    "type": "BEP-20",
+    "symbol": "ZGNZ",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xC4e9Fd7b9881e11F65ea88EBFe5703F5Bf674eEb"
+}

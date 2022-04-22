@@ -1,0 +1,11 @@
+{
+ "name": "The third space",
+ "website": "http://www.tts-pace.com/",
+ "description": "TTS CONSTANT ISSUE: 100 billion, 14% deflation, 5% backflow, 2% cash dividend, 2% marketing, 1% fund pool, 1% contract bonus, 3% .",
+ "explorer": "https://bscscan.com/token/0x28c8d3150C4dD42F59564F61D2891481ED5dE42F",
+ "type": "BEP20",
+ "symbol": "TTS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x28c8d3150C4dD42F59564F61D2891481ED5dE42F"
+}

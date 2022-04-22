@@ -1,0 +1,11 @@
+{
+ "name": "Raicoin Token",
+ "website": "https://raicoin.org",
+ "description": "Raicoin is a high performance DDPoS blockchain.",
+ "explorer": "https://bscscan.com/token/0x64EF755D5A2627538CAA3Eb62ee07f96f9B608E4",
+ "type": "BEP20",
+ "symbol": "RAI",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x64EF755D5A2627538CAA3Eb62ee07f96f9B608E4"
+}

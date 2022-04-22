@@ -1,0 +1,11 @@
+{
+    "name": "FISTTK",
+    "website": "http://www.fisttk.com/",
+    "description": "DAO Autonomy, Dividends FIST",
+    "explorer": "https://bscscan.com/address/0xa4A031b87C2D6Dc00422da9478DdE24334E219AA",
+    "type": "BEP20",
+    "symbol": "FISTTK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa4A031b87C2D6Dc00422da9478DdE24334E219AA"
+   } 

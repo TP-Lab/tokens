@@ -1,0 +1,11 @@
+{
+ "name": "UMG Gold",
+ "website": "https://www.underminegold.com",
+ "description": "UnderMineGold project will become a platform, which includes NFT, De-Fi and game.",
+ "explorer": "https://bscscan.com/token/0xfa93787c6B70Ae71043Ff2eda76892849f3e78DD",
+ "type": "BEP20",
+ "symbol": "Gold",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xfa93787c6B70Ae71043Ff2eda76892849f3e78DD"
+}

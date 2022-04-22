@@ -1,0 +1,11 @@
+{
+    "name": "DissDAO",
+    "website": "https://bscscan.com/token/0xd19cf815d0A7322C080171C53C4E63Ba6d96465A",
+    "description": "Diss Everything",
+    "explorer": "https://bscscan.com/token/0xd19cf815d0A7322C080171C53C4E63Ba6d96465A",
+    "type": "BEP20",
+    "symbol": "DISS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xd19cf815d0A7322C080171C53C4E63Ba6d96465A"
+}

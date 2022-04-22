@@ -1,0 +1,11 @@
+{
+ "name": "PoortravelMeta",
+ "website": "https://www.poortravelmeta.com/",
+ "description": "A new decentralized meta universe game platform Support BSC",
+ "explorer": "https://www.bscscan.com/token/0xe33F6009921842b99884Eadd82900E34367b5eA0",
+ "type": "BEP20",
+ "symbol": "PTM",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe33F6009921842b99884Eadd82900E34367b5eA0"
+}

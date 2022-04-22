@@ -1,0 +1,11 @@
+{
+ "name": "JDC Token",
+ "website": "",
+ "description": "we are JDC Coin.",
+ "explorer": "",
+ "type": "BEP20",
+ "symbol": "JDC",
+ "decimals": 5,
+ "status": "active",
+ "id": "0x434638a54ea35d4f12a09b6E3B653C9072856295"
+}

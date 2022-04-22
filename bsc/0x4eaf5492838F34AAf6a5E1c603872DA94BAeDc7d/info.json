@@ -1,0 +1,11 @@
+{ 
+"name": "WOW",
+"website": "https://www.wowmetanft.io/",
+"description": "WoW is a tower defense meta-universe with the theme of Play to earn, supports PVE and PVP player battles, and adds a rune bonus system and a guild reward system.  ",
+"explorer": "https://bscscan.com/token/0x4eaf5492838F34AAf6a5E1c603872DA94BAeDc7d",
+"type": "BEP20",
+"symbol": "WOW",
+"decimals": 18,
+"status": "active",
+"id": "0x4eaf5492838F34AAf6a5E1c603872DA94BAeDc7d"
+}

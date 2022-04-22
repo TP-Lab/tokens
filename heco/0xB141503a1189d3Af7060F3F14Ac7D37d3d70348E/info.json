@@ -1,0 +1,11 @@
+{
+ "name": "T3 COIN",
+ "website": "https://www.t3coin.one/",
+ "description": "T3 is an easy-to-use and high-performance cloud collaboration infrastructure for Web3.0. It connects storage, computing, bandwidth and other distributed network resources in a verifiable way, and is managed and traded efficiently by the free market. In this process, T3 has practiced a large number of blockchain extension technologies, such as state channel, state fragmentation, verifiable storage and computational verification, to achieve high scalability of composition and layering, so as to provide multi-party trust and support unlimited transaction, storage and download requirements. At the same time, it also supports zero knowledge proof and secure multi-party computing technology, and realizes multi-party collaborative cognitive computing while protecting user data privacy.",
+ "explorer": "https://hecoinfo.com/token/0xb141503a1189d3af7060f3f14ac7d37d3d70348e",
+ "type": "HRC-20",
+ "symbol": "T3",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB141503a1189d3Af7060F3F14Ac7D37d3d70348E"
+}

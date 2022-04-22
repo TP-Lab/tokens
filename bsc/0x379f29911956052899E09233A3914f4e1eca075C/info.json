@@ -1,0 +1,11 @@
+{
+    "name": "MetaSwapToken",
+    "website": "https://metaswap.name/",
+    "description": "MetaSwap began to think about a new decentralized STO model. Through decentralized smart agreement and DAO governance, it eliminates centralized supervision restrictions, greatly reduces issuance costs, and leaves it to token holders for democracy decision making.",
+    "explorer": "https://bscscan.com/token/0x379f29911956052899E09233A3914f4e1eca075C",
+    "type": "BEP20",
+    "symbol": "Meta",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x379f29911956052899E09233A3914f4e1eca075C"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "DNFT Protocol Token",
+ "website": "https://dnft.world/",
+ "description": "A decentralized cross-chain NFT network for Web3",
+ "explorer": "https://bscscan.com/token/0x018f49822d593f88843777e0956af74c87012219",
+ "type": "BEP20",
+ "symbol": "DNF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x018F49822d593f88843777e0956Af74C87012219"
+}

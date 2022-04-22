@@ -1,0 +1,11 @@
+{
+ "name": "Zuki Moba Token",
+ "website": "https://zukimoba.com/",
+ "description": "ZUKI TOKEN is Zuki Moba main ingame currency which can be achieved by playing game modes and participating in many other activities.",
+ "explorer": "https://bscscan.com/address/0xE81257d932280AE440B17AFc5f07C8A110D21432",
+ "type": "BEP20",
+ "symbol": "ZUKI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE81257d932280AE440B17AFc5f07C8A110D21432 "
+}

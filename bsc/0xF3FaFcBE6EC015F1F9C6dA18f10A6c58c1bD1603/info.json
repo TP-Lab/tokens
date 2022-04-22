@@ -1,0 +1,11 @@
+{
+ "name": "AIec",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xF3FaFcBE6EC015F1F9C6dA18f10A6c58c1bD1603",
+ "type": "BEP20",
+ "symbol": "AIec",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF3FaFcBE6EC015F1F9C6dA18f10A6c58c1bD1603"
+}

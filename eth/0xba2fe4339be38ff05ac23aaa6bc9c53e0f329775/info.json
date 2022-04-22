@@ -1,0 +1,11 @@
+{
+ "name": "YBI TOKEN",
+ "website": "http://weiyizl.cn/h5/#/",
+ "description": "YBI TOKEN(YBI) is a digital asset issued by the Symbiont of the United States based on the Ethereum ERC-20 protocol.",
+ "explorer": "https://etherscan.io/token/0xbA2fE4339be38FF05ac23aAA6bC9C53E0f329775",
+ "type": "ERC20",
+ "symbol": "YBI",
+ "decimals": 1,
+ "status": "active",
+ "id": "0xbA2fE4339be38FF05ac23aAA6bC9C53E0f329775"
+}
