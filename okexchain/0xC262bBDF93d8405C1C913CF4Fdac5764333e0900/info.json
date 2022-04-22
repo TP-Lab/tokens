@@ -1,0 +1,11 @@
+{
+ "name": "XSM",
+ "website": "",
+ "description": ".",
+ "explorer": "https://www.oklink.com/zh-cn/okc/address/0xC262bBDF93d8405C1C913CF4Fdac5764333e0900",
+ "type": "KIP20",
+ "symbol": "XSM",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC262bBDF93d8405C1C913CF4Fdac5764333e0900"
+}
