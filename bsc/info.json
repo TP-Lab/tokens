@@ -1,11 +1,11 @@
 {
- "name": "MarsCity Token",
- "website": "http://marscity.ca/",
- "description": "MarsCity Token will be the foundation of social credit system after human beings build MarsCity.",
- "explorer": "https://bscscan.com/token/0xbdf9d58511CC04d108D101F4fB9b2a788Ed85Ef1",
+ "name": "CharityDao Token",
+ "website": "https://charitydao.co",
+ "description": "Charity DAO is a decentralized charitable organization that aims to make charity simple and more efficient without political interference and geographic restrictions. Currently Charity DAO has established partnership with about 50 countries and districts’ charitable organizations around the world, and they made their first cryptocurrency donation to Ukrainian Red Cross Society for humanitarian assistance. ",
+ "explorer": "https://bscscan.com/token/0xb4CD493f14eDAaE27FdaaB87072F3D55d9289A18",
  "type": "BEP20",
- "symbol": "MCT",
- "decimals": 9,
+ "symbol": "CHD",
+ "decimals": 18,
  "status": "active",
- "id": "0xbdf9d58511CC04d108D101F4fB9b2a788Ed85Ef1"
+ "id": "0xb4CD493f14eDAaE27FdaaB87072F3D55d9289A18"
 }
