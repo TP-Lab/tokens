@@ -1,0 +1,11 @@
+{
+  "name": "WEB3D",
+  "website": "https://web3dplus.github.io/",
+  "description": "With Web3D, things are both easy-to-use and trustless! Upload any data via our API or our web UI for free.",
+  "explorer": "https://bscscan.com/address/0x8B847d376B5E0FA078AA0B6e7779930ff42c44b8",
+  "type": "BEP20",
+  "symbol": "W3D",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8B847d376B5E0FA078AA0B6e7779930ff42c44b8"
+ }
