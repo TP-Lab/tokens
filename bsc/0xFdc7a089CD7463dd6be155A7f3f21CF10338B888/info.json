@@ -1,0 +1,11 @@
+{
+ "name": "CF Token",
+ "website": "https://avta.io",
+ "description": "Miracle Global Community Alliance Ecological Token, Miracle Alliance is a community platform jointly built by global blockchain enthusiasts, DeFI enthusiasts and meta-universe enthusiasts. The eco token can participate in all the sectors involved in the ecosystem, including sociofi, gamfi, nftfi, and all sectors that will be launched in the future",
+ "explorer": "https://bscscan.com/token/0xFdc7a089CD7463dd6be155A7f3f21CF10338B888",
+ "type": "BEP20",
+ "symbol": "CF",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xFdc7a089CD7463dd6be155A7f3f21CF10338B888"
+}
