@@ -1,0 +1,11 @@
+{
+ "name": "Hero Awaken Token V2",
+ "website": "-",
+ "description": "Hero Awaken is an NFT based GameFi based on an existing game which our team has released in App Store and Google Play. As the Hero Awaken MetaVerse adopts the Play-to-Earn mode, players may collect the items rewarded by playing and trade them on the marketplace and NFT items.",
+ "explorer": "https://bscscan.com/token/0x86b4D331F9FB5D184459BF0683B1e6dAa5934BF5",
+ "type": "BEP20",
+ "symbol": "HAT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x86b4D331F9FB5D184459BF0683B1e6dAa5934BF5"
+}
