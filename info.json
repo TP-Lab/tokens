@@ -1,11 +1,11 @@
 {
- "name": "SOLDAO",
- "website": "https://solanadao.link",
- "description": "SOLDAO will boost Solana's development in BSC, and expand Solana's technical advantages and development potential.",
- "explorer": "https://bscscan.com/token/0x234EDaF20BD60f246bd926ed8547837D75141988",
+ "name": "OVO Token",
+ "website": "",
+ "description": "Decentralized governance token for a carbon neutral platform.",
+ "explorer": "https://bscscan.com/token/0xcd433Fc3e9d8B7B6aC5316CDedF1e4da48d244ae",
  "type": "BEP20",
- "symbol": "SOLDAO",
+ "symbol": "OVO",
  "decimals": 18,
  "status": "active",
- "id": "0x234EDaF20BD60f246bd926ed8547837D75141988"
+ "id": "0xcd433Fc3e9d8B7B6aC5316CDedF1e4da48d244ae"
 }
