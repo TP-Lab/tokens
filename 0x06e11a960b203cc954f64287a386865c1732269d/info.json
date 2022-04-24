@@ -1,0 +1,11 @@
+{
+ "name": "BTC2.0",
+ "website": "https://btc2.online/",
+ "description": "I AM NO.1",
+ "explorer": "https://hecoinfo.com/token/0x06e11a960b203cc954f64287a386865c1732269d",
+ "type": "bsc",
+ "symbol": "BTC2.0",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x06e11a960b203cc954f64287a386865c1732269d"
+}
