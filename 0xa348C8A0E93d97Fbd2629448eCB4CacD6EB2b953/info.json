@@ -1,0 +1,11 @@
+{
+"name": "Combine Coin",
+"website": "https://www.cbc-combine.com/",
+"description": "Combine Coin is a composite index token",
+"explorer": "https://bscscan.com/token/0xa348C8A0E93d97Fbd2629448eCB4CacD6EB2b953",
+"type": "BEP20",
+"symbol": "CBC",
+"decimals": 18,
+"status": "active",
+"id": "0xa348C8A0E93d97Fbd2629448eCB4CacD6EB2b953"
+}
