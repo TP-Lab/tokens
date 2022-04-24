@@ -1,0 +1,11 @@
+{
+"name": "JETCoin",
+"website": "https://github.com/JETNFT/JETNFT",
+"description": "JET NFT是一个开放性的NFT质押平台，为流动性匮乏的资产提供了有效的价值释放。JET NFT平台类似传统的DeFi平台，不同之处在于平台的质押资产由FT资产变为NFT资产。JET NFT允许NFT资产持有者将 NFT作为质押品以赚取质押奖励及其它特权，NFT持有者在享有NFT所有权的同时，还能赚取被动收入。充当质押品的NFT前期仅支持JET NFT指定系列的NFT资产，后续将由JET DAO投票决定是否增减指定的NFT资产。",
+"explorer": "https://bscscan.com/token/0x666661228151a1cbdc4469dcccbac139bae12911",
+"type": "BEP20",
+"symbol": "JETCoin",
+"decimals": 18,
+"status": "active",
+"id": "0x666661228151a1cbdc4469dcccbac139bae12911"
+}
