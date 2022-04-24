@@ -1,0 +1,11 @@
+{
+    "name": "DUCATO",
+    "website": "https://www.ducatoven.com",
+    "description": "The DUCATO VEN is a sign that identifies Venetian citizens as they had been identified in the past by the Ducato of Venice",
+    "explorer": "https://polygonscan.com/token/0x985e9558c48a66e9a526ee1e106dcb95e9a4cc05",
+    "type": "ERC20",
+    "symbol": "VEN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x985e9558c48a66e9a526ee1e106dcb95e9a4cc05"
+} 
