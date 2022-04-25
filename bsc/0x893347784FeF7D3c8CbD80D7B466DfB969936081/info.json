@@ -1,0 +1,10 @@
+{
+  "name": "ES",
+  "website": "http://dapp.cybers.group/elv",
+  "description": "ES",
+  "explorer": "https://bscscan.com/token/0x893347784FeF7D3c8CbD80D7B466DfB969936081",
+  "type": "BEP20",
+  "symbol": "ES",
+  "decimals": 8,
+  "id": "0x893347784FeF7D3c8CbD80D7B466DfB969936081"
+}
