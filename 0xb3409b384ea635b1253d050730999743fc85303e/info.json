@@ -1,0 +1,11 @@
+{
+ "name": "Miracle light",
+"website":"http://www.07073.com/qjzg/xinwen/",
+ "description": "ML is a decentralized protocol based on Automated Market Maker (AMM)",
+ "explorer": "https://bscscan.com/token/0xb3409b384ea635b1253d050730999743fc85303e",
+ "type": "BEP20",
+ "symbol": "ML",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb3409b384ea635b1253d050730999743fc85303e"
+}
