@@ -1,0 +1,11 @@
+{
+ "name": "OverDogmoon",
+ "website": "Www.OverDogmoon.pw",
+ "description": "OverDogmoon is initiated and led by the original Dogmoon team with the capital operation team in HECO. It gathers all the big names of Dogmoon before and is bound to surpass the 10,000,000 times myth of last year again!",
+ "explorer": "https://hecoinfo.com/token/0xb641bd3be5864b13f31331dadd511cc4bf1876da",
+ "type": "HRC20",
+ "symbol": "OverDogmoon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb641BD3bE5864B13f31331dadD511CC4bf1876dA"
+}
