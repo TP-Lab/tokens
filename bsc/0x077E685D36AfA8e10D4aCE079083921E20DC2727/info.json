@@ -1,0 +1,11 @@
+{ 
+"name": "WU KONG",
+"website": "https://wu-kong.vip",
+"description": "",
+"explorer": "https://bscscan.com/token/0x077e685d36afa8e10d4ace079083921e20dc2727",
+"type": "BEP20",
+"symbol": "WK",
+"decimals": 8,
+"status": "active",
+"id": "0x077e685d36afa8e10d4ace079083921e20dc2727"
+}
