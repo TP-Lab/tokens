@@ -1,0 +1,11 @@
+{
+ "name": "MP Token",
+ "website": "https://www.metapirate.world/",
+ "description": "MetaPirate is a fantasy open-world MMORPG adventure game built on the BSC Chain.",
+ "explorer": "https://bscscan.com/token/0xBa623dC020C7B993031a1A126eF6603E9e15742f",
+ "type": "BEP20",
+ "symbol": "MP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBa623dC020C7B993031a1A126eF6603E9e15742f"
+}
