@@ -1,0 +1,21 @@
+{
+
+ "name": "CTX",
+
+ "website": "-",
+
+ "description": "",
+
+ "explorer": "https://bscscan.com/token/0xdf0825e5f9b37b9c2c560c0771a0a2118f8d14b7",
+
+ "type": "BEP20",
+
+ "symbol": "CTX",
+
+ "decimals": 18,
+
+ "status": "not open",
+
+ "id": "0xdf0825e5f9b37b9c2c560c0771a0a2118f8d14b7"
+
+} 
