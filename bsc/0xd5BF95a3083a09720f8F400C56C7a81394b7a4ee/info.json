@@ -1,0 +1,11 @@
+{
+ "name": "Unique",
+ "website": "https://www.unaique.co",
+ "description": "Una uses cross chain technology, NFT, metauniverse, etc. It will realize a completely decentralized chain asset.",
+ "explorer": "https://bscscan.com/token/0xd5bf95a3083a09720f8f400c56c7a81394b7a4ee",
+ "type": "BEP20",
+ "symbol": "UNA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd5BF95a3083a09720f8F400C56C7a81394b7a4ee"
+}
