@@ -1,0 +1,11 @@
+{
+  "name": "LaborDoge",
+  "website": "https://ladordoge.com/",
+  "description": "LadorDoge salutes the labourer, who finally receives the fruit.",
+  "explorer": "https://bscscan.com/token/0xad9ee6a3c50509ea7ad476d627700335483ce880",
+  "type": "BEP20",
+  "symbol": "LaborDoge",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xad9EE6A3C50509eA7Ad476d627700335483CE880"
+}
