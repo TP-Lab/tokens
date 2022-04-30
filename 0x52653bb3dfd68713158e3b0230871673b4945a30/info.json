@@ -1,0 +1,11 @@
+{
+ "name": "Meta space MUT",
+ "website": "http://metas.tech/website/",
+ "description": "Metaspace MUT，简称:MUT，发行量:1亿",
+ "explorer": "https://bscscan.com/token/0x52653bb3dfd68713158e3b0230871673b4945a30",
+ "type": "BEP20",
+ "symbol": "MUT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x52653bb3dfd68713158e3b0230871673b4945a30"
+}
