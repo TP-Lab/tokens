@@ -1,0 +1,11 @@
+{
+ "name": "crown token",
+ "website": "",
+ "description": "crown medals of chess games and contests",
+ "explorer": "https://bscscan.com/token/0xB2566f80d781516A3D70F76F7BeA388D1abb4917",
+ "type": "BEP20",
+ "symbol": "CROWN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB2566f80d781516A3D70F76F7BeA388D1abb4917"
+}
