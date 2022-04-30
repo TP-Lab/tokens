@@ -1,0 +1,11 @@
+{
+ "name": "Big White",
+ "website": "https://bigwhite.info/",
+ "description": "Tribute to who",
+ "explorer": "https://bscscan.com/token/0x19Bb52B87a214D74731E7F8Bc07646FF209BF057",
+ "type": "bsc",
+ "symbol": "BigWhite",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x19Bb52B87a214D74731E7F8Bc07646FF209BF057"
+}
