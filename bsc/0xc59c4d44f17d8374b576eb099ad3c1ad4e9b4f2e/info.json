@@ -1,0 +1,11 @@
+{
+ "name": "Electromagnetic pole",
+ "website": "http://metas.tech/website/",
+ "description": "Electromagnetic pole简称MEP，发行量：60000",
+ "explorer": "https://bscscan.com/token/0xc59c4d44f17d8374b576eb099ad3c1ad4e9b4f2e",
+ "type": "BEP20",
+ "symbol": "MEP",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xc59c4d44f17d8374b576eb099ad3c1ad4e9b4f2e"
+}
