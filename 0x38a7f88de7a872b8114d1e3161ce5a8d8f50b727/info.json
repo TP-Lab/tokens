@@ -1,0 +1,11 @@
+{
+ "name": "MeTa space",
+ "website": "http://metas.tech/website/",
+ "description": "MeTa space名称：能量石， 简称MES，发行量：2000000",
+ "explorer": "https://bscscan.com/token/0x38a7f88de7a872b8114d1e3161ce5a8d8f50b727",
+ "type": "BEP20",
+ "symbol": "MES",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x38a7f88de7a872b8114d1e3161ce5a8d8f50b727"
+}
