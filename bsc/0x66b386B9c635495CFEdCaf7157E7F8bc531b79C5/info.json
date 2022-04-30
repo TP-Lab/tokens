@@ -1,0 +1,11 @@
+{
+ "name": "NobodyLa Token",
+ "website": "nobody.la",
+ "description": "NobodyLa将作为社区生态应用的重要通证、具有社区自治投票权、为NobodyLa提供流动性的投资者将会获得一定数量的USDT分红、和生态应用部分福利.",
+ "explorer": "https://bscscan.com/address/0x66b386B9c635495CFEdCaf7157E7F8bc531b79C5",
+ "type": "BEP20",
+ "symbol": "NobodyLa",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x66b386B9c635495CFEdCaf7157E7F8bc531b79C5"
+}
