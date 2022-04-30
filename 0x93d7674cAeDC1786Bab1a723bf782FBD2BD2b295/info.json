@@ -1,0 +1,11 @@
+{
+ "name": "Nucleus",
+ "website": "http://metas.tech/website/",
+ "description": "Nucleus， 简称MN，发行量：6000",
+ "explorer": "https://bscscan.com/token/0x93d7674cAeDC1786Bab1a723bf782FBD2BD2b295",
+ "type": "BEP20",
+ "symbol": "MN",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x93d7674cAeDC1786Bab1a723bf782FBD2BD2b295"
+}
