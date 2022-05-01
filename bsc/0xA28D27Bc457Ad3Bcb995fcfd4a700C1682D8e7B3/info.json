@@ -1,0 +1,11 @@
+{
+ "name": "Superman Swap",
+ "website": "http://superman-swap.org",
+ "description": "SMS is the equity token of the new DeFi decentralized finance and NFT non-fungible token exchange Superman swap platform issued based on the BSC smart chain",
+ "explorer": "https://bscscan.com/token/0xA28D27Bc457Ad3Bcb995fcfd4a700C1682D8e7B3",
+ "type": "BEP20",
+ "symbol": "SMS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xA28D27Bc457Ad3Bcb995fcfd4a700C1682D8e7B3"
+}
