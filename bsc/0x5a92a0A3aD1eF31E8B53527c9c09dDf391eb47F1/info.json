@@ -1,0 +1,11 @@
+{
+"name": "Meta",
+"website": "-",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0x5a92a0A3aD1eF31E8B53527c9c09dDf391eb47F1",
+"type": "BEP20",
+"symbol": "META",
+"decimals": 18,
+"status": "active",
+"id": "0x5a92a0A3aD1eF31E8B53527c9c09dDf391eb47F1"
+}
