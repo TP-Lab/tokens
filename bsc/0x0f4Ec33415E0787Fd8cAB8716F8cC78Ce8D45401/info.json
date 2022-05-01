@@ -1,0 +1,11 @@
+{
+    "name": "YDS",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0x0f4Ec33415E0787Fd8cAB8716F8cC78Ce8D45401",
+    "type": "BEP20",
+    "symbol": "YDS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x0f4Ec33415E0787Fd8cAB8716F8cC78Ce8D45401"
+} 
