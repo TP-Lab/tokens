@@ -1,0 +1,11 @@
+{
+ "name": "Antimatter",
+ "website": "http://metas.tech/website/",
+ "description": "Antimatter， 简称MANT，发行量：600",
+ "explorer": "https://hecoinfo.com/token/0xEA13E8ADEC4BAf706833241bAEC462c648097D15",
+ "type": "HRC20",
+ "symbol": "MANT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xEA13E8ADEC4BAf706833241bAEC462c648097D15"
+}
