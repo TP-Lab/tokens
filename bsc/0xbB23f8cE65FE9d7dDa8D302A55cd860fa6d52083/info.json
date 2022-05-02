@@ -1,0 +1,11 @@
+{
+ "name": "UNIC",
+ "website": "https://bscscan.com/token/0xbB23f8cE65FE9d7dDa8D302A55cd860fa6d52083",
+ "description": "UNIC TOKEN.",
+ "explorer": "https://bscscan.com/token/0xbB23f8cE65FE9d7dDa8D302A55cd860fa6d52083",
+ "type": "BEP20",
+ "symbol": "UNIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbB23f8cE65FE9d7dDa8D302A55cd860fa6d52083"
+}
