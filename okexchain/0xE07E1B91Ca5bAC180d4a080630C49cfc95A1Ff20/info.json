@@ -1,0 +1,11 @@
+{
+ "name": "Nucleus",
+ "website": "http://metas.tech/website/",
+ "description": "Nucleus， 简称MN，发行量：6000",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xE07E1B91Ca5bAC180d4a080630C49cfc95A1Ff20",
+ "type": "KIP20",
+ "symbol": "MN",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xE07E1B91Ca5bAC180d4a080630C49cfc95A1Ff20"
+}
