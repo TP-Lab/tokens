@@ -1,0 +1,11 @@
+{
+ "name": "Electromagnetic pole",
+ "website": "http://metas.tech/website/",
+ "description": "Electromagnetic pole简称MEP，发行量：60000",
+ "explorer": "https://hecoinfo.com/token/0x1702DCaA972f1b913AC2F57B1b20cb41dda209a3",
+ "type": "HRC20",
+ "symbol": "MEP",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x1702DCaA972f1b913AC2F57B1b20cb41dda209a3"
+}
