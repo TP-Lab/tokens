@@ -1,0 +1,11 @@
+{
+ "name": "Nucleus",
+ "website": "http://metas.tech/website/",
+ "description": "Nucleus， 简称MN，发行量：6000",
+ "explorer": "https://hecoinfo.com/token/0x42a302f3cAFb93F48442B8d4D96d65eEb4F5d87C",
+ "type": "HRC20",
+ "symbol": "MN",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x42a302f3cAFb93F48442B8d4D96d65eEb4F5d87C"
+}
