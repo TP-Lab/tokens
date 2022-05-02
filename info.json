@@ -1,0 +1,11 @@
+﻿{
+ "name": "DogePi",
+ "website": "http://DogePi.cc/",
+ "description": "DogePi will combine with the existing blockchain mode and move towards the top-level mode! ",
+ "explorer": "https://bscscan.com/address/0x64b5140f1bbcaeb6128c895ee33b8cfb9dbc7a0f",
+ "type": "BEP20",
+ "symbol": "DogePi",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x64b5140f1bbcaeb6128c895ee33b8cfb9dbc7a0f"
+}
