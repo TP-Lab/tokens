@@ -1,0 +1,11 @@
+{
+ "name": "Meta space MUT",
+ "website": "http://metas.tech/website/",
+ "description": "Metaspace MUT，简称:MUT，发行量:1亿",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xE9736D56D86F738e243af094f55e54E7eDcDa4ac",
+ "type": "KIP20",
+ "symbol": "MUT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xE9736D56D86F738e243af094f55e54E7eDcDa4ac"
+}
