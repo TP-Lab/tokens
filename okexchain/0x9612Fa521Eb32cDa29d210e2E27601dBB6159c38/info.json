@@ -1,0 +1,11 @@
+{
+ "name": "Antimatter",
+ "website": "http://metas.tech/website/",
+ "description": "Antimatter， 简称MANT，发行量：600",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x9612Fa521Eb32cDa29d210e2E27601dBB6159c38",
+ "type": "KIP20",
+ "symbol": "MANT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x9612Fa521Eb32cDa29d210e2E27601dBB6159c38"
+}
