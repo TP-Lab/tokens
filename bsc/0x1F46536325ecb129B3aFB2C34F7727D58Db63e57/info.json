@@ -1,0 +1,11 @@
+{
+ "name": "FUTURE",
+ "website": "https://ure.hzada.com",
+ "description": "FUT will build a global open blockchain platform, integrate 5G, AI, cloud computing, big data and other emerging technologies, make FUT's on-chain transactions more functional and extensible, and create a leading effect of technology.?",
+ "explorer": "https://bscscan.com/token/0x1F46536325ecb129B3aFB2C34F7727D58Db63e57",
+ "type": "BEP20",
+ "symbol": "FUT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1F46536325ecb129B3aFB2C34F7727D58Db63e57"
+}
