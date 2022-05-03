@@ -1,0 +1,11 @@
+{
+ "name": "WaterfallDao",
+ "website": "https://waterfall.gold",
+ "description": "Waterfall Protocol is a Decentralized Structured Fund.",
+ "explorer": "https://bscscan.com/token/0xe95a5167F9E48A0151d1A2CBAf6C82b2D91C581f",
+ "type": "BEP20",
+ "symbol": "WTF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe95a5167F9E48A0151d1A2CBAf6C82b2D91C581f"
+}
