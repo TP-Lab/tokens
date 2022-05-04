@@ -1,0 +1,11 @@
+{
+ "name": "VulgarTycoon",
+"website": "https://VulgarTycoon.xyz",
+ "description": "VulgarTycoon Coin",
+ "explorer": "https://bscscan.com/token/0x85E43bF8faAF04ceDdcD03d6C07438b72606a988",
+ "type": "BEP20",
+ "symbol": "VIN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x85E43bF8faAF04ceDdcD03d6C07438b72606a988"
+}
