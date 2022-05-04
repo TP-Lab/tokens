@@ -1,0 +1,11 @@
+{
+ "name": "Arche Token",
+ "website": "https://arche.fun",
+ "description": "Arche Based on the issue of coin security smart chain, it is traded by pancakeswap exchange. It is a Web3 0 + Dao + LP dividend mechanism",
+ "explorer": "https://bscscan.com/address/0x874c21759E46FB8506670744e0AAe687ED0eDCDC",
+ "type": "BEP20",
+ "symbol": "Arche",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x874c21759E46FB8506670744e0AAe687ED0eDCDC"
+}
