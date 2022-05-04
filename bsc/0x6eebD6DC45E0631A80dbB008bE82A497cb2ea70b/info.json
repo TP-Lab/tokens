@@ -1,0 +1,11 @@
+{
+ "name": "ADH Token",
+ "website": "-",
+ "description": "ADH Token is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x6eebD6DC45E0631A80dbB008bE82A497cb2ea70b",
+ "type": "BEP20",
+ "symbol": "ADH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6eebD6DC45E0631A80dbB008bE82A497cb2ea70b"
+}
