@@ -1,0 +1,11 @@
+{
+ "name": "LUBAN Token",
+ "website": "https://luban87.vip",
+ "description": "Luban (LB) is a Pangu ecological token jointly founded by a group of partners in the consensus Pangu community",
+ "explorer": "https://bscscan.com/token/0x8f9b5c019d8612bd60f6e0df835ae29dcd7df8ea",
+ "type": "BEP20",
+ "symbol": "LB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8f9b5c019d8612bd60f6e0df835ae29dcd7df8ea"
+}
