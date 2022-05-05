@@ -1,0 +1,10 @@
+{
+ "name": "STARNFT",
+ "website": "https://starglobal.info/",
+ "description": "STARNFT is a community autonomy NFT privilege token issued by STAR Ecology. It has 2% dividend right of ecological construction, voting right of STAR community governance and priority privilege of whole ecology. Based on the limited edition NFT, STAR will gather core consensus enabling industrial ecology, link satellite network, decentralized social system, DAO concept decentralized autonomous organization, chain travel aggregation ecosystem to form an integrated meta-universe industry matrix.",
+ "explorer": "https://bscscan.com/token/0x2e363Ee71835e4445F8C9C161971FeF43f78F341",
+ "type": "ERC721",
+ "symbol": "STARNFT",
+ "status": "active",
+ "id": "0x2e363Ee71835e4445F8C9C161971FeF43f78F341"
+}
