@@ -1,0 +1,11 @@
+{
+ "name": "dogeball Token",
+ "website": "https://www.dogeball.games",
+ "description": "Dogball is a football game",
+ "explorer": "https://bscscan.com/token/0xfe10fb3526894190f12017e5079005c96dbcd39f",
+ "type": "BEP20",
+ "symbol": "DGB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFE10FB3526894190f12017E5079005c96DbCD39f"
+}
