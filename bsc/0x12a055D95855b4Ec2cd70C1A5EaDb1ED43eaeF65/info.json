@@ -1,0 +1,11 @@
+{
+"name": "Fonvity Token",
+"website": "-",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0x12a055D95855b4Ec2cd70C1A5EaDb1ED43eaeF65",
+"type": "BEP20",
+"symbol": "FON",
+"decimals": 18,
+"status": "active",
+"id": "0x12a055D95855b4Ec2cd70C1A5EaDb1ED43eaeF65"
+}
