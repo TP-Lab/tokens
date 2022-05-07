@@ -1,0 +1,11 @@
+{
+ "name": "ETH2.0",
+ "website": "https://bscscan.com/token/0xafA48b0AEbade0B59d1C3376fc9D4FCbf871a97c",
+ "description": "ETH2.0 TOKEN.",
+ "explorer": "https://bscscan.com/token/0xafA48b0AEbade0B59d1C3376fc9D4FCbf871a97c",
+ "type": "BEP20",
+ "symbol": "ETH2.0",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xafA48b0AEbade0B59d1C3376fc9D4FCbf871a97c"
+}
