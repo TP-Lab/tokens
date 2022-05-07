@@ -1,0 +1,11 @@
+{
+ "name": "Metaverse OZ",
+ "website": "http://www.metaversoz.me/",
+ "description": "Build consensus on initial traffic: create Dao and Genesis guild through the fairness of DAPP + defi + LP",
+ "explorer": "https://bscscan.com/token/0x72cd94217f80a0a3c91fdd2aea8cf74d48cef212",
+ "type": "BEP20",
+ "symbol": "MOZ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x72Cd94217f80a0A3C91Fdd2Aea8CF74d48cEF212"
+}
