@@ -1,0 +1,11 @@
+{
+    "name": "ArrCity",
+    "website": "https://arrcity.cn/",
+    "description": "ArrCity的AVATAR LOGIN ID概念是对传统STEAM web2.0邮箱和密码登录方式的升级。我们正在为我们的GameFi目录使用可自定义的钱包头像登录ID彻底改变登录方式。用户必须创建一个可定制的随机头像 NFT, 这将是他们的 ID 或显示图片。我们开发了一个系统来跟踪他们在游戏中的进度 NFT ID, 如每日收入、行为和资产 NFT 设备等, 针对各个游戏.",
+    "explorer": "https://bscscan.com/token/0xB17759bEa3BA242b512656D3c31e39e63303d056",
+    "type": "BEP20",
+    "symbol": "ACY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB17759bEa3BA242b512656D3c31e39e63303d056"
+}
