@@ -1,0 +1,11 @@
+{
+ "name": "liquid",
+ "website": "http://www.liquid-lab.org",
+ "description": "Liquidity Network is an unregulated financial intermediary that provides payment and exchange services.",
+ "explorer": "https://bscscan.com/Token/0x0071e229767bb76Db6904f434aE87617779b560e",
+ "type": "BEP20",
+ "symbol": "LQD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0071e229767bb76Db6904f434aE87617779b560e"
+}
