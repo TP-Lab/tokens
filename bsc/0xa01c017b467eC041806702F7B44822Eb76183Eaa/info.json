@@ -1,0 +1,11 @@
+{
+  "name": "NeorderDAO",
+  "website": "https://neorder.io/",
+  "description": "N3DR is a governance token for NeorderDAO that will provide DAO governance functions and capture all the value of NeorderDAO in establishing web3 discourse and traffic distribution",
+  "explorer": "https://bscscan.com/token/0xa01c017b467ec041806702f7b44822eb76183eaa",
+  "type": "BEP20",
+  "symbol": "N3DR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa01c017b467eC041806702F7B44822Eb76183Eaa"
+}
