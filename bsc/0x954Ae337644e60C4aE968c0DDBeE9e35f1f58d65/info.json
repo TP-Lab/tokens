@@ -1,0 +1,11 @@
+{
+ "name": "Social Contact Payment",
+ "website": "http://smncoin.net/zh/",
+ "description": "SMN Evangelist - the world's first digital industry and blockchain application ecological evangelist self-organization, was jointly initiated by Singapore Huayun Fund and the global blockchain community. The content covers: new social + new payment + new retail. It is a community-based comprehensive service platform for encrypted asset transactions and smart life applications.",
+ "explorer": "https://bscscan.com/token/0x954Ae337644e60C4aE968c0DDBeE9e35f1f58d65",
+ "type": "BEP20",
+ "symbol": "SMN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x954Ae337644e60C4aE968c0DDBeE9e35f1f58d65"
+}
