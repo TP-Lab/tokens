@@ -1,0 +1,11 @@
+{
+ "name": "TEA TOKEN",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://www.bscscan.com/token/0xecfab867b80686dd7d5852bb5d64c3279b6759f0",
+ "type": "BEP20",
+ "symbol": "TEA",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xECfab867b80686dd7D5852bB5d64c3279B6759F0"
+}
