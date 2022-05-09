@@ -1,0 +1,11 @@
+{
+ "name": "FLASH",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x6ecde45eB12516c90c4b9e2D93AD17C317feD92A",
+ "type": "BEP20",
+ "symbol": "FLASH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6ecde45eB12516c90c4b9e2D93AD17C317feD92A"
+}
