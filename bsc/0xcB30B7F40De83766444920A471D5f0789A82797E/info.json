@@ -1,0 +1,11 @@
+{
+    "name": "Kob Coin",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xcB30B7F40De83766444920A471D5f0789A82797E",
+    "type": "BEP20",
+    "symbol": "KOB",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xcB30B7F40De83766444920A471D5f0789A82797E"
+} 
