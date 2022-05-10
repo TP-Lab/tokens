@@ -1,11 +1,11 @@
 {
- "name": "MarsCity Token",
- "website": "http://marscity.ca/",
- "description": "MarsCity Token will be the foundation of social credit system after human beings build MarsCity.",
- "explorer": "https://bscscan.com/token/0xbdf9d58511CC04d108D101F4fB9b2a788Ed85Ef1",
+ "name": "TRUTH",
+ "website": "https://tokenpocket.pro",
+ "description": "The original intention of the TRUTH DAO autonomous community was to build a free, democratic and decentralized DAO organization.",
+ "explorer": "https://bscscan.com/token/0xffD3dD4B28836f799c70A1C9347e9F4A216225e0",
  "type": "BEP20",
- "symbol": "MCT",
- "decimals": 9,
+ "symbol": "TRUTH",
+ "decimals": 18,
  "status": "active",
- "id": "0xbdf9d58511CC04d108D101F4fB9b2a788Ed85Ef1"
+ "id": "0xffD3dD4B28836f799c70A1C9347e9F4A216225e0"
 }
