@@ -1,0 +1,11 @@
+{
+ "name": "TRUTH",
+ "website": "https://tokenpocket.pro",
+ "description": "The original intention of the TRUTH DAO autonomous community was to build a free, democratic and decentralized DAO organization.",
+ "explorer": "https://bscscan.com/token/0xffD3dD4B28836f799c70A1C9347e9F4A216225e0",
+ "type": "BEP20",
+ "symbol": "TRUTH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xffD3dD4B28836f799c70A1C9347e9F4A216225e0"
+}
