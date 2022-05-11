@@ -1,0 +1,11 @@
+{ 
+"name": "CFD token",
+"website": "https://www.ascywt.com/",
+"description": "CFD DAO CITY OF FREEDDOM is a project completely led by autonomous community. Under the leadership OF DAO, it achieves complete decentralization and high community consensus. The new decentralized autonomous organization initiated by CITY OF FREEDDOM belongs to the category OF dedicated DAO. The community has a strong consensus and 100% OF the community manages by itself. Once the project goes live, the community will vote to develop its own decentralized apps and DApps.",
+"explorer": "https://bscscan.com/address/0x1B2CFffF75ffE0b5B26806E95154c7078E3d341e",
+"type": "BEP20",
+"symbol": "CFD",
+"decimals": 18,
+"status": "active",
+"id": "0x1B2CFffF75ffE0b5B26806E95154c7078E3d341e"
+}
