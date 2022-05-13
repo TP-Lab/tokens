@@ -1,0 +1,11 @@
+{
+  "name": "TripSmall",
+  "website": "http://www.tripsmall.com",
+  "description": "TripSmall It's a traveler's metauniverse network, Let travelers enter Web3.0 lifestyle.",
+  "explorer": "https://bscscan.com/token/0xA9ef15CF0D72Bf6ae5e408967fa9A03A8e21129f",
+  "type": "BEP20",
+  "symbol": "TMT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xA9ef15CF0D72Bf6ae5e408967fa9A03A8e21129f"
+}
