@@ -1,0 +1,11 @@
+{
+ "name": "Universal Token",
+ "website": "https://www.fantaverse.io",
+ "description": "Universal Token (UT) is the token used in FantaVerse metaverse game. It can be used for character breeding, purchase of epic equipment, game gold coins, etc.",
+ "explorer": "https://bscscan.com/token/0x39dC1F91fee49C03a0Db558254707116101518bf",
+ "type": "BEP20",
+ "symbol": "UT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x39dC1F91fee49C03a0Db558254707116101518bf"
+}
