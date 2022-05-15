@@ -1,0 +1,12 @@
+﻿{
+ "name": "Olink",
+ "website": "https://open-link.co/",
+ "description": "The goal of OpenLink is to connect the world on and off the chain. It adopts the modular design concept to simplify its upgrading and Optimization in the future. OpenLink is also a black box, which allows the determined smart contract to respond to the uncertain external world. It is the only way for the smart contract to interact with the external data, and it is also the interface between the blockchain and the real world.
+Olink carries the historical mission of OpenLink Dao: for Web3 0 provides high-performance infrastructure services to accelerate Web3 0 era.",
+ "explorer": "https://bscscan.com/address/0xf3bef262e70d200080ae795f41261756058d289a",
+ "type": "BEP20",
+ "symbol": "Olink",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xf3bef262e70d200080ae795f41261756058d289a"
+}
