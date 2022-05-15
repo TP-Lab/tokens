@@ -1,0 +1,11 @@
+{
+ "name": "URE",
+ "website": "http://ure.cxlw.net/mobile/NFTCP_URE.html",
+ "description": "URE will build a global open blockchain platform, integrate 5G, AI, cloud computing, big data and other emerging technologies, make URE's on-chain transactions more functional and extensible, and create a leading effect of technology.",
+ "explorer": "https://bscscan.com/token/0x89C7Bd161e4C20f863C84CaC687B72C6A873EE1d",
+ "type": "BEP20",
+ "symbol": "URE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x89C7Bd161e4C20f863C84CaC687B72C6A873EE1d"
+}
