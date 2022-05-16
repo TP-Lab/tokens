@@ -1,0 +1,11 @@
+﻿{
+ "name": "Olink",
+ "website": "https://open-link.co/",
+ "description": "The goal of OpenLink is to connect the world on and off the chain.",
+ "explorer": "https://bscscan.com/address/0xf3bef262e70d200080ae795f41261756058d289a",
+ "type": "BEP20",
+ "symbol": "Olink",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xf3bef262e70d200080ae795f41261756058d289a"
+}
