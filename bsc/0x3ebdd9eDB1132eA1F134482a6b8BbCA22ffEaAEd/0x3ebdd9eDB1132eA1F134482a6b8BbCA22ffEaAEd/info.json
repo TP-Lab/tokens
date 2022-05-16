@@ -1,0 +1,11 @@
+{
+ "name": "Aptos",
+ "website": "https://www.aptosc.com/",
+ "description": "Aptos starts with the development and construction of decentralized communities and the deployment of a safe, scalable and scalable intelligent ecological environment.",
+ "explorer": "https://bscscan.com/address/0x3ebdd9eDB1132eA1F134482a6b8BbCA22ffEaAEd",
+ "type": "BEP20",
+ "symbol": "Aptos",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3ebdd9eDB1132eA1F134482a6b8BbCA22ffEaAEd"
+}
