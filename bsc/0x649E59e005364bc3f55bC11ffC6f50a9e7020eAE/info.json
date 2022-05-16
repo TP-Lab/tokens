@@ -1,0 +1,11 @@
+{
+ "name": "Puffcake",
+ "website": "https://puffcakeswap.finance",
+ "description": "Puffcake是在去中心化平台进行的，推动其机制融入其它链和其他领域",
+ "explorer": "https://bscscan.com/token/0x649E59e005364bc3f55bC11ffC6f50a9e7020eAE",
+ "type": "BSC20",
+ "symbol": "PUFF",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x649E59e005364bc3f55bC11ffC6f50a9e7020eAE"
+}

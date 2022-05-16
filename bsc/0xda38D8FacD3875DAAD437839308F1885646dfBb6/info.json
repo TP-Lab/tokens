@@ -1,0 +1,11 @@
+{
+    "name": "LEO Token",
+    "website": "https://www.leocoin.finance",
+    "description": "A new type of unlimited mining token",
+    "explorer": "https://bscscan.com/token/0xda38D8FacD3875DAAD437839308F1885646dfBb6",
+    "type": "BEP20",
+    "symbol": "LEO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xda38D8FacD3875DAAD437839308F1885646dfBb6"
+   }

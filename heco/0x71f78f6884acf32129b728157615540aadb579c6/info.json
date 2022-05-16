@@ -1,0 +1,18 @@
+{
+ 
+"name": "Milk Token",
+
+"website": "https://www.justcows.info",
+"description": "Multi chain aggregation defi platform",
+
+"explorer": "https://hecoinfo.com/token/0x71f78f6884acf32129b728157615540aadb579c6",
+
+"type": "HRC-20",
+"symbol": "MilK",
+
+"decimals": 6,
+"status": "active",
+
+"id": "0x71f78f6884acf32129b728157615540aadb579c6"
+
+}

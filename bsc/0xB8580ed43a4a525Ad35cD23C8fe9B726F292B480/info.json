@@ -1,0 +1,11 @@
+{ 
+"name": "SpaceX",
+"website": "http://spacedoge.online",
+"description": "SpaceX was jointly released by SpaceX and SpaceDoge. It is the first project to buy back and destroy the SpaceDoge, which will help the SpaceDoge take off again. In order to further prosper the ecological development of the community, SpaceX was jointly released for the first time to build common prosperity!",
+"explorer": "https://bscscan.com/token/0xB8580ed43a4a525Ad35cD23C8fe9B726F292B480",
+"type": "BEP20",
+"symbol": "SpaceX",
+"decimals": 18,
+"status": "active",
+"id": "0xB8580ed43a4a525Ad35cD23C8fe9B726F292B480"
+}

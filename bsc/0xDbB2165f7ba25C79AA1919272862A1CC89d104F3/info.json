@@ -1,0 +1,11 @@
+{
+ "name": "Water Token",
+ "website": "",
+ "description": "water is life, please cherish water resources.",
+ "explorer": "https://bscscan.com/token/0xdbb2165f7ba25c79aa1919272862a1cc89d104f3",
+ "type": "BEP20",
+ "symbol": "WT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xDbB2165f7ba25C79AA1919272862A1CC89d104F3"
+}

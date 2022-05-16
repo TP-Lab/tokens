@@ -1,0 +1,11 @@
+{
+ "name": "BNBRich",
+ "website": "https://bnbrich.vip/",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xBac682AD754aD54Beab3eBd05665fA4e5ddA69A3",
+ "type": "BEP20",
+ "symbol": "BRich",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBac682AD754aD54Beab3eBd05665fA4e5ddA69A3"
+}

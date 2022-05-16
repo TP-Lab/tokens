@@ -1,0 +1,10 @@
+{
+"name": "Genesis Dao",
+"description": "An excellent project jointly initiated by a group of believers in philanthropy and blockchain technology. The team adheres to the essence of blockchain, uses the underlying logic of blockchain as the basis, and combines community ecology to realize the combination of real community and blockchain.",
+"explorer": "https://bscscan.com/address/0x12AED1022F52D03B139FA3D6afB02Fc095668C0B",
+"type": "BEP20",
+"symbol": "GNSC",
+"decimals": 18,
+"status": "active",
+"id": "0x12AED1022F52D03B139FA3D6afB02Fc095668C0B"
+}

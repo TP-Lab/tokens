@@ -1,0 +1,11 @@
+{
+ "name": "Assasssin.screed",
+ "website": "assassinsss.com",
+ "description": "Assassin's Creed 由育碧集团新加坡工作室基于 BSC 公链打造的全球首个元宇宙链游生态系统",
+ "explorer": "https://bscscan.com/token/0x3ACc7013419AcED9CB8b090E3889d6C4E9e54c62",
+ "type": "BEP20",
+ "symbol": "ACE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3ACc7013419AcED9CB8b090E3889d6C4E9e54c62"
+}

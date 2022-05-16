@@ -1,0 +1,11 @@
+{
+ "name": "MSD",
+ "website": "http://www.msdao.io/",
+ "description": "MS.DAO is a web3 ecological economic protocol covering the DAO organizational model of decentralized social, Swap, ido, and IP creator economic integration.",
+ "explorer": "https://bscscan.com/token/0x0d2532E9e6EDA734f41bAdF9522A22C2DB5955D9",
+ "type": "BEP-20",
+ "symbol": "MSD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0d2532E9e6EDA734f41bAdF9522A22C2DB5955D9"
+}

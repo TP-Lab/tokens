@@ -1,0 +1,11 @@
+{
+ "name": "Sweetbaby Token",
+ "website": "https://bestsweetbaby.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x9282dA07b725ba8c6f18c80Ef39C637CDA92D1F0",
+ "type": "BEP20",
+ "symbol": "STB",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x9282dA07b725ba8c6f18c80Ef39C637CDA92D1F0"
+}

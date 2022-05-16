@@ -1,0 +1,11 @@
+{ 
+"name": "GBOX Token",
+"website": "https://gbox.games",
+"description": "GBOX为GameBox DAO代币。GameBox独家上线Gate.io GameFi平台。",
+"explorer": "https://bscscan.com/address/0x87b212D654B90B31699f42ab73058d48F37a6492",
+"type": "BEP20",
+"symbol": "GBOX",
+"decimals": 18,
+"status": "active",
+"id": "0x87b212D654B90B31699f42ab73058d48F37a6492"
+}

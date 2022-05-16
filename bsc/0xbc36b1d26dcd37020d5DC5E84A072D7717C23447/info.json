@@ -1,0 +1,11 @@
+{
+  "name": "GrassRoots",
+  "website": "http://www.grassroots.vip",
+  "description": "GrassRoots是全网第一个真正实现LP自动分红和LP自动抽奖的DEFI项目，组建一个大于0.5的Cake_LP即可获得自动分红权限和赢取“50抽2”大奖。GrassRoots由50位联创共同众筹流动性底池、共同发起、公平发射。",
+  "explorer": "https://www.bscscan.com/address/0xbc36b1d26dcd37020d5DC5E84A072D7717C23447",
+  "type": "BEP20",
+  "symbol": "GR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbc36b1d26dcd37020d5DC5E84A072D7717C23447"
+}

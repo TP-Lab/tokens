@@ -1,0 +1,11 @@
+{
+ "name": "CBD token",
+ "website": "http://www.cbd-btc.com/",
+ "description": "The new DAO organization spontaneous community autonomy coin, full community autonomy, zero private placement, all airdropped to the community, CBD Foundation awards all community contributors, issued a total amount of 580,000, economic model.",
+ "explorer": "https://bscscan.com/token/0x9471379b4e0Fc0F840cA9d926B9A5C6327678dC5",
+ "type": "BEP20",
+ "symbol": "CBD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9471379b4e0Fc0F840cA9d926B9A5C6327678dC5"
+}

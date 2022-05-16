@@ -1,0 +1,11 @@
+{
+ "name": ChinaZilla",
+ "website": "http://chinazilla.net",
+ "description": "A token issued by a group of blockchain enthusiasts with the goal of surpassing Shib.",
+ "explorer": "https://bscscan.com/token/0x7fb4ed1b35d8f8638056913bece78b8cd624ca0d",
+ "type": "BEP20",
+ "symbol": "ChinaZilla",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x7Fb4ED1B35d8F8638056913BeCe78B8Cd624ca0D"
+}

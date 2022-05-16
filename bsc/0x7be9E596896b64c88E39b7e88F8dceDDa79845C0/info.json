@@ -1,0 +1,12 @@
+{
+ "name": "BOHR",
+ "website": "https://bohrweb.org/",
+ "description": "BOHR is a decentralized blockchain system that facilitates transactions and development through powerful applications. Solve the bottleneck of the large-scale implementation of the blockchain industry, break technical barriers with fast smart contracts, and open up market interactions with a multi-dimensional ecological structure.
+Taking the defi ecology as the starting point, it alleviates the development bottleneck faced by the public chain market and enables a decentralized management ecology.",
+ "explorer": "https://bscscan.com/token/0x7be9e596896b64c88e39b7e88f8dcedda79845c0",
+ "type": "BEP20",
+ "symbol": "BR",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x7be9E596896b64c88E39b7e88F8dceDDa79845C0"
+}

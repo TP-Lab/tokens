@@ -1,0 +1,11 @@
+{
+  "name": "xDRAC",
+  "website": "https://dracarys.network",
+  "description": "XDRAC is the governance token of DRACARYS! XDARC holders have proposal voting rights",
+  "explorer": "https://bscscan.com/token/0xF32df8e6fad632D45ff1BCc436f808F2ED3AC5ff",
+  "type": "BEP20",
+  "symbol": "xDRAC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xF32df8e6fad632D45ff1BCc436f808F2ED3AC5ff"
+}

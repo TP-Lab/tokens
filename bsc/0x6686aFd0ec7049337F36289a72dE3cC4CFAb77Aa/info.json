@@ -1,0 +1,11 @@
+{
+ "name": "Decentralized Tower Defense",
+ "website": "https://towerdefense.finance/",
+ "description": "Decentralized Tower Defense is an epic defense game based on the BNB chain. Players can mint or purchase the tower NFTs to fight against monsters, defend their territories and win fragment NFT which can be synthesized into rare NFTs.",
+ "explorer": "https://bscscan.com/token/0x6686aFd0ec7049337F36289a72dE3cC4CFAb77Aa",
+ "type": "BEP20",
+ "symbol": "DTD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6686aFd0ec7049337F36289a72dE3cC4CFAb77Aa"
+}

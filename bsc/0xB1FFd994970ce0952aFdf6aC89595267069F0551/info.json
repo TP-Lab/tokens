@@ -1,0 +1,11 @@
+{
+ "name": "IMAUToken",
+ "website": "https://imau.club/",
+ "description": "A metaverse community governance token.",
+ "explorer": "https://www.bscscan.com/token/0xb1ffd994970ce0952afdf6ac89595267069f0551",
+ "type": "BEP20",
+ "symbol": "IMAU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB1FFd994970ce0952aFdf6aC89595267069F0551"
+}

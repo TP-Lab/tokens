@@ -1,0 +1,11 @@
+{
+ "name": "SnowKing",
+ "website": "http://snowking.info",
+ "description": "SnowKing has a high DOGE reflex. There is no need to claim that we can all go to the moon.",
+ "explorer": "https://bscscan.com/token/0x7185fc499ee5486b290b5e90e33abd3bcc0aebe6",
+ "type": "BEP20",
+ "symbol": "SnowKing",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7185Fc499Ee5486b290B5e90e33abd3BcC0aeBE6"
+}

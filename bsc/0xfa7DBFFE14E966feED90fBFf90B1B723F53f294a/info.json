@@ -1,0 +1,11 @@
+{
+    "name": "LICENSE",
+    "website": "https://www.daofarmer.com",
+    "description": "DAO Farmer is a Play-to-Earn Metaverse GameFi that combines blockchain technology with traditional gaming connotations.",
+    "explorer": "https://bscscan.com/token/0xfa7DBFFE14E966feED90fBFf90B1B723F53f294a",
+    "type": "BEP20",
+    "symbol": "LICENSE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xfa7DBFFE14E966feED90fBFf90B1B723F53f294a"
+}

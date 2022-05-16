@@ -1,0 +1,11 @@
+{
+ "name": "BabyTiger ",
+ "website": "http://babytiger.site",
+ "description": "Missed BabyDoge？ Love BabyTige",
+ "explorer": "https://bscscan.com/token/0x6EBe2736387C481bf0Fde9Fd6bbA034A3D216e06",
+ "type": "BEP20",
+ "symbol": "BabyTiger",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6EBe2736387C481bf0Fde9Fd6bbA034A3D216e06"
+}

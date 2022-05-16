@@ -1,0 +1,11 @@
+{
+ "name": "HTDoge",
+ "website": "..",
+ "description": "",
+ "explorer": "https://hecoinfo.com/token/0xd3eAEb47817BeE86Aaa1c71a6CA18cAB91609c86",
+ "type": "HRC-20",
+ "symbol": "HTDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd3eAEb47817BeE86Aaa1c71a6CA18cAB91609c86"
+}

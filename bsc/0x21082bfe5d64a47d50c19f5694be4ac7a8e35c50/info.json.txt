@@ -1,0 +1,11 @@
+{
+ "name": "JFKing",
+ "website": "https://jfking.top",
+ "description": "JFKing is the first pilot project of jswap. JF promotes the drainage and creates the meme myth of Binance Smart Chain. Super high score red JF.JFKing is composed of Dao + NFT + gaming. The form of community can bring broader development.",
+ "explorer": "https://bscscan.com/token/0x21082bfE5D64A47d50C19f5694bE4AC7A8E35c50",
+ "type": "BEP20",
+ "symbol": "JFKing",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x21082bfE5D64A47d50C19f5694bE4AC7A8E35c50"
+}

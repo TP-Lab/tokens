@@ -1,0 +1,11 @@
+{
+ "name": "WX Token",
+ "website": "https://bscscan.com/address/0x79D31412db49F8Edc25f6Db26C2544f1e2bFCd51",
+ "description": "WX TOKEN",
+ "explorer": "https://bscscan.com/address/0x79D31412db49F8Edc25f6Db26C2544f1e2bFCd51",
+ "type": "BEP20",
+ "symbol": "WX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x79D31412db49F8Edc25f6Db26C2544f1e2bFCd51"
+}

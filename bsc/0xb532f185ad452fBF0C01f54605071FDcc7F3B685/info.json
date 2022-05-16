@@ -1,0 +1,12 @@
+{
+ "name": "BabyDoge",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xb532f185ad452fBF0C01f54605071FDcc7F3B685",
+ "type": "BEP20",
+ "symbol": "BabyDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb532f185ad452fBF0C01f54605071FDcc7F3B685
+"
+}

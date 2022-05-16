@@ -1,0 +1,11 @@
+{
+ "name": "Marbleheroes Token",
+ "website": "https://www.marbleheroes.co",
+ "description": "Marble Heroes is known as the European version of Axie Infinity and is also a play to earn game.",
+ "explorer": "https://bscscan.com/token/0x9D9F777D0f9c1dC2851606611822ba002665E0BF",
+ "type": "BEP20",
+ "symbol": "MBH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9D9F777D0f9c1dC2851606611822ba002665E0BF"
+} 

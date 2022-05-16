@@ -1,0 +1,11 @@
+{
+ "name": "Goog Right AI",
+ "website": "no",
+ "description": " no",
+ "explorer": "https://bscscan.com/0x35c5eca4436d64203219598d44e8a7e4f5152132",
+ "type": "BEP20",
+ "symbol": "GRA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x35c5eca4436d64203219598d44e8a7e4f5152132"
+}

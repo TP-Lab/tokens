@@ -1,0 +1,11 @@
+{
+ "name": "PeaceDoge",
+ "website": "https://www.peacedoge.com/",
+ "description": "PeaceDoge is a platform token. The platform provides audit and insurance compensation services. The project settled on the platform must pay the corresponding deposit, so as to prevent and reduce fraud in the field of encryption.",
+ "explorer": "https://bscscan.com/token/0x02891418ca1c6c9b31c351b3e9a023ad63a1ebe7",
+ "type": "BEP20",
+ "symbol": "PeaceDoge",
+ "decimals": 9,
+ "status": "PeaceDoge",
+ "id": "0x02891418ca1c6c9b31c351b3e9a023ad63a1ebe7"
+}

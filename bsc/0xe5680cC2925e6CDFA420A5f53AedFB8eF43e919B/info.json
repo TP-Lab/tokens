@@ -1,0 +1,11 @@
+{
+ "name": "VIPi",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xe5680cC2925e6CDFA420A5f53AedFB8eF43e919B",
+ "type": "BSC20",
+ "symbol": "VIPi",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe5680cC2925e6CDFA420A5f53AedFB8eF43e919B"
+}

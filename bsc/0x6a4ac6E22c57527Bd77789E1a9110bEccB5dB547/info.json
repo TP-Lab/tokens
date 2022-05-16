@@ -1,0 +1,11 @@
+{
+ "name": "TikTok Token",
+ "website": "http://www.tiktoktoken.cc",
+ "description": "TikTok is from social media and towards developing “TikTok Token” a digital world that could be the next generation of the internet and crypto currency.",
+ "explorer": "https://bscscan.com/token/0x6a4ac6E22c57527Bd77789E1a9110bEccB5dB547",
+ "type": "BEP20",
+ "symbol": "TikTok",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6a4ac6E22c57527Bd77789E1a9110bEccB5dB547"
+}

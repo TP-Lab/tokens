@@ -1,0 +1,11 @@
+{
+  "name": "Little bee",
+  "website": "",
+  "description": "Little bee is a token published in BSC. It has 3 generations of recommended dividend mechanism, which is completed by smart contract.",
+  "explorer": "https://bscscan.com/address/0xB7FBBe053373cFB9c9AcaA0321ED663b149Ecb2f",
+  "type": "BEP20",
+  "symbol": "LTE",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xB7FBBe053373cFB9c9AcaA0321ED663b149Ecb2f"
+}

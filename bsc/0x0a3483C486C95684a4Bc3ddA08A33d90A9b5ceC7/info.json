@@ -1,0 +1,11 @@
+{
+ "name": "ODAO Token",
+ "website": "https://odao.world/",
+ "description": "ODAO is the DAO token of FarEcosystem",
+ "explorer": "https://bscscan.com/token/0x0a3483C486C95684a4Bc3ddA08A33d90A9b5ceC7",
+ "type": "BEP20",
+ "symbol": "ODAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0a3483C486C95684a4Bc3ddA08A33d90A9b5ceC7"
+}

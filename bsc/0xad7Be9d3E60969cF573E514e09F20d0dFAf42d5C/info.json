@@ -1,0 +1,11 @@
+{
+ "name": "APOLLO Token",
+ "website": "https://aplfintech.com/",
+ "description": "Trust is fundamental for any financial system and a core value of Apollo. ",
+ "explorer": "https://bscscan.com/token/0xad7Be9d3E60969cF573E514e09F20d0dFAf42d5C",
+ "type": "BEP20",
+ "symbol": "APO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xad7Be9d3E60969cF573E514e09F20d0dFAf42d5C"
+}

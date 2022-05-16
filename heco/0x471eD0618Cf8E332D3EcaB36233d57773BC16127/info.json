@@ -1,0 +1,11 @@
+{
+ "name": "Bit Star Chain",
+ "website": "https://bat-s.pro",
+ "description": "BATS is an open source high-performance public chain",
+ "explorer": "https://hecoinfo.com/address/0x471eD0618Cf8E332D3EcaB36233d57773BC16127",
+ "type": "HRC20",
+ "symbol": "BATS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x471eD0618Cf8E332D3EcaB36233d57773BC16127"
+}

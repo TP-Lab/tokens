@@ -1,0 +1,11 @@
+{
+  "name": "Social Media Marketing",
+  "website": "http://smm.finance/",
+  "description": "SMM coins belong to completely decentralized autonomous organizations. SMM Coins have a strong DAO and SWAP that allows SMM coins to circulate within their own ecosystem. At the same time, the number of SMM coins is decreasing, and every SMM coin is precious.",
+  ",explorer": "https://bscscan.com/token/0xcea8721D8f4D65cE12934e75219134BeEdC8Ba35",
+  "type": "BEP20",
+  "symbol": "SMM",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xcea8721D8f4D65cE12934e75219134BeEdC8Ba35"
+}

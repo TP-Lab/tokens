@@ -1,0 +1,11 @@
+{
+ "name": "GBOX",
+ "website": "https://app.gbox.space/",
+ "description": "Gbox is a multichain NFT marketplace built for Game and Metaverse assets.",
+ "explorer": "https://bscscan.com/token/0x419317E3e1Ee4703D20f9a5344E81D35eA1A09bE",
+ "type": "BEP20",
+ "symbol": "GBOX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x419317E3e1Ee4703D20f9a5344E81D35eA1A09bE"
+}

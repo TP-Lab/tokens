@@ -1,0 +1,11 @@
+{
+ "name": "College StudentsDAO",
+ "website": "http://www.college-students.cc/",
+ "description": "$CSD通缩机制5%营销，2%回流池子，3%持币分红",
+ "explorer": "https://bscscan.com/token/0x6026A16592F5D2b411d108321d30334d131307fE",
+ "type": "BSC20",
+ "symbol": "$CSD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6026A16592F5D2b411d108321d30334d131307fE"
+}

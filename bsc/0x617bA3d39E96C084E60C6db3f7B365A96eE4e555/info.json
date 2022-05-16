@@ -1,0 +1,11 @@
+{
+    "name": "INTERSTELLAR DOMAIN ORDER",
+    "website": "http://www.ido-meta.com/",
+    "description": "IDO is a DAO-based metaverse landing ecology",
+    "explorer": "https://bscscan.com/token/0x617bA3d39E96C084E60C6db3f7B365A96eE4e555",
+    "type": "BEP20",
+    "symbol": "IDO",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x617bA3d39E96C084E60C6db3f7B365A96eE4e555"
+}

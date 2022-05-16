@@ -1,0 +1,11 @@
+{
+ "name": "TOTO",
+ "website": "-",
+ "description": "Launched by four investors in the blockchain, TOTO has its own technology, and is the only company on the site with a unique NFT design, with its own TOTO (TOTO exchange) later"
+ "explorer": "https://bscscan.com/token/0x273bD4a5DC8265341BaE007aa025F49bC06142B0",
+ "type": "BEP20",
+ "symbol": "TOTO",
+ "decimals": 18,
+ "status": "not open",
+ "id": "0x273bD4a5DC8265341BaE007aa025F49bC06142B0"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Expoler Guild Game Dao",
+  "website": "https://eggdao.io/",
+  "description": "EGG DAO是全球首个由Crypto社区和Gamefi公会共同发起的投资孵化DAO，基于Meblox发射平台创建及发射，致力于为WEB3.0、METAVERSE及GAMEFI赛道优质标的提供孵化土壤、资本赋能及流量支持。",
+  "explorer": "https://bscscan.com/token/0x093a48153ba159D3c3A87C91448b99e77C72eaf5",
+  "type": "BEP20",
+  "symbol": "EGG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x093a48153ba159D3c3A87C91448b99e77C72eaf5"
+ }
+ 

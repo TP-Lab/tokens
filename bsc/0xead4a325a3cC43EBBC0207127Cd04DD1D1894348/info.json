@@ -1,0 +1,11 @@
+{
+ "name": "DISNEY",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xead4a325a3cC43EBBC0207127Cd04DD1D1894348",
+ "type": "BSC20",
+ "symbol": "Disney",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xead4a325a3cC43EBBC0207127Cd04DD1D1894348"
+}

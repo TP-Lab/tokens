@@ -1,0 +1,11 @@
+{
+ "name": "HDO",
+ "website": "https://bscscan.com/token/0x6BA3589BDdDa4E588740701B195DBD20Cf630030",
+ "description": "HDO TOKEN.",
+ "explorer": "https://bscscan.com/token/0x6BA3589BDdDa4E588740701B195DBD20Cf630030",
+ "type": "BEP20",
+ "symbol": "HDO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6BA3589BDdDa4E588740701B195DBD20Cf630030"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "NGG",
+  "website": "http://nggmeta.com",
+  "description": "Community Autonomous Game Token.",
+  "explorer": "https://bscscan.com/address/0x2f0d2563420836f34cc4629b2d6e99af52970a10",
+  "type": "BEP20",
+  "symbol": "NGG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2f0d2563420836f34cc4629b2d6e99af52970a10"
+}

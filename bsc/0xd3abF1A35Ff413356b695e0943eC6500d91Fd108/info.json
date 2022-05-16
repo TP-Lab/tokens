@@ -1,0 +1,12 @@
+{
+    "name": "KACO",
+    "website": "https://www.kacotoken.com",
+    "description": "kAco is a leveraged liquidity mining aggregation protocol based on BSC, which aims to open up value channels between independent networks, thereby reducing asset circulation costs.",
+    "explorer": "https://bscscan.com/token/0xd3abF1A35Ff413356b695e0943eC6500d91Fd108",
+    "type": "BEP20",
+    "symbol": "KACO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd3abF1A35Ff413356b695e0943eC6500d91Fd108"
+   }
+   

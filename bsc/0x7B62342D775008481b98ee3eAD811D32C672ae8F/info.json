@@ -1,0 +1,11 @@
+{
+ "name": "PPS",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x7B62342D775008481b98ee3eAD811D32C672ae8F",
+ "type": "BEP20",
+ "symbol": "PPS",
+ "decimals": 2,
+ "status": "active",
+ "id": "0x7B62342D775008481b98ee3eAD811D32C672ae8F"
+}

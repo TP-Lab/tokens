@@ -1,0 +1,11 @@
+{
+    "name": "BingDwenDwenCoin",
+    "website": "https://bingdwendwencoin.com/",
+    "description": "Bing Dwen Dwen is the official mascot for Beijing Winter Olympics 2022. Bing Dwen Dwen Coin ( BDDC ) is a community coin created for fans with very attractive 6% $BUSD rewards",
+    "explorer": "https://bscscan.com/token/0x55f043ed19f0396b192661a741d128a4cf0eee6e",
+    "type": "BEP20",
+    "symbol": "BDDC",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x55f043ed19f0396B192661A741D128A4Cf0Eee6e"
+}  

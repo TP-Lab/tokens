@@ -1,0 +1,11 @@
+{
+ "name": "Flames",
+ "website": "https://bscscan.com/token/0x0B165eD2633E08FE5e778E085e95C1C9b52e300D",
+ "description": "Flames TOKEN.",
+ "explorer": "https://bscscan.com/token/0x0B165eD2633E08FE5e778E085e95C1C9b52e300D",
+ "type": "BEP20",
+ "symbol": "FLS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0B165eD2633E08FE5e778E085e95C1C9b52e300D"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "META LINE Token",
+ "website": "https://www.metaline.me",
+ "description": "It aims to build a meta universe ecological community to meet the needs of different scenarios in the meta universe. In the early stage, meta line ecology is responsible for solving the global resource scheduling and creating a global one-line system. Redundant funds are used to solve various livelihood problems, such as communication, transportation, metals, food, fabrics, chips, drinking water and so on",
+ "explorer": "https://bscscan.com/token/0x3B1CE1ddB7fB8AD30E1271251f876498F9A603c6",
+ "type": "BEP20",
+ "symbol": "MLT",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x3B1CE1ddB7fB8AD30E1271251f876498F9A603c6"
+}

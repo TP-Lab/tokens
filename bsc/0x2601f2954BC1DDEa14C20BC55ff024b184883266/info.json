@@ -1,0 +1,11 @@
+{ 
+"name": "BTCDAO",
+"website": "https://btcdao.vip",
+"description": "BTCdao is automatic dividend BTC, just hold it, BTC automatically to YOUR wallet",
+"explorer": "https://bscscan.com/token/0x2601f2954BC1DDEa14C20BC55ff024b184883266",
+"type": "BEP20",
+"symbol": "BTCDAO",
+"decimals": 18,
+"status": "active",
+"id": "0x2601f2954BC1DDEa14C20BC55ff024b184883266"
+}

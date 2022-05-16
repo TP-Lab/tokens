@@ -1,0 +1,11 @@
+{
+"name": "Proof of Liquidity",
+"website": "https://pool-x.io/",
+"description": "The concept of Proof of Liquidity proof (POL) is introduced to measure the demand for liquidity for different asset classes, and to bridge Staked Assets and those in circulation. POL is generated from the staking process and governance in the ecosystem.",
+"explorer": "https://bscscan.com/address/0x8FbfbeB916202014b6c60204810b7aAf159fba2d",
+"type": "BEP20",
+"symbol": "POL",
+"decimals": 18,
+"status": "active",
+"id": "0x8FbfbeB916202014b6c60204810b7aAf159fba2d"
+}
