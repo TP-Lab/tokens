@@ -1,0 +1,11 @@
+{
+ "name": "Magic",
+ "website": "https://mochamagicwolrd.com",
+ "description": "Magic is the token of GameFi-Magic World and total amount is 10 million.",
+ "explorer": "https://bscscan.com/token/0x37760475953a7b37fdcee8d6c7506d9624565c84",
+ "type": "BEP20",
+ "symbol": "Magic",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x37760475953a7B37FDCeE8D6c7506d9624565c84"
+}
