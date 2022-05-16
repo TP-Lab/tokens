@@ -1,0 +1,11 @@
+{
+ "name": "Una and the lion",
+ "website": "https://www.unaique.co",
+ "description": "In 1839, a real coin was issued in memory of Queen Victoria - Euna and lion",
+ "explorer": "https://bscscan.com/token/0x8f1014fcacb55954513f474cafb9bfec77c1a8e5",
+ "type": "BEP20",
+ "symbol": "UNA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8f1014FCAcb55954513F474CaFb9BFEc77c1a8E5"
+}
