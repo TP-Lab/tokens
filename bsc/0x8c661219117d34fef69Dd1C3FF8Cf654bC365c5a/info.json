@@ -1,0 +1,12 @@
+{
+	"name": "Metaverse-IFLY AIRlines",
+	"website": "http://ifly.games",
+	"description": "Metaverse-IFLY is an esport game based on blockchain technology.
+You can gather your friends, form a team, fly with them and earn money with just your skills.",
+	"explorer": "https://bscscan.com/token/0x8c661219117d34fef69Dd1C3FF8Cf654bC365c5a",
+	"type": "BEP20",
+	"symbol": "AIR",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x8c661219117d34fef69Dd1C3FF8Cf654bC365c5a"
+   }
