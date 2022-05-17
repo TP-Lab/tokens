@@ -1,0 +1,11 @@
+{ 
+"name": "Diffusion starlight TOKEN",
+"website": "https://diffusiondao.org/",
+"description": "Diffusion starlight is a bonus point for the Diffusion ecosystem",
+"explorer": "https://bscscan.com/token/0x1d02E58777BC884ea092D2dfeCD00947a7AD9114",
+"type": "BEP20",
+"symbol": "DFSsl",
+"decimals": 18,
+"status": "active",
+"id": "0x1d02E58777BC884ea092D2dfeCD00947a7AD9114"
+}
