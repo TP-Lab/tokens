@@ -1,0 +1,11 @@
+{
+    "name": "MARSToken",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0x2a3Aa6b082d4A66E014Cb30dE1f76D7F621F188F",
+    "type": "BSC20",
+    "symbol": "MARS",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x2a3Aa6b082d4A66E014Cb30dE1f76D7F621F188F"
+}
