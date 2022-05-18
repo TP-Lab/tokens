@@ -1,0 +1,11 @@
+{
+ "name": "W Golden Rice",
+ "website": "-",
+ "description": "WGME is a decentralized and perpetual deflation token issued on the Huobi Smart Chain.",
+ "explorer": "https://hecoinfo.com/token/0xcf4bc894197aa56435d286b97bef0c453a42a3a5",
+ "type": "HRC-20",
+ "symbol": "WGME",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3DD95A6fc933d41493263DF988798F2b488659d3"
+}
