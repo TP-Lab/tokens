@@ -1,0 +1,11 @@
+{ 
+"name": "The age of dinosaurs",
+"website": "https://www.dinosaursera.io",
+"description": "Age of Dinosaurs is a blockchain GAMING world that combines NFT, DEFI and GAMING to create a truly amazing GAMING experience for users. ",
+"explorer": "https://bscscan.com/token/0x63f15eC8843705d80A9dDD02F2Cf89a27C45Ba0A",
+"type": "BEP20",
+"symbol": "TADS",
+"decimals": 18,
+"status": "active",
+"id": "0x63f15eC8843705d80A9dDD02F2Cf89a27C45Ba0A"
+}
