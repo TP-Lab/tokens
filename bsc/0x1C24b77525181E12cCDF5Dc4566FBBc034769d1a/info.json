@@ -1,0 +1,11 @@
+{
+ "name": "PizzaKing",
+ "website": "no",
+ "description": " no",
+ "explorer": "https://bscscan.com/0x1C24b77525181E12cCDF5Dc4566FBBc034769d1a",
+ "type": "BEP20",
+ "symbol": "PizzaKing",
+ "decimals": 18,
+ "status": "not open yet",
+ "id": "0x1C24b77525181E12cCDF5Dc4566FBBc034769d1a"
+}
