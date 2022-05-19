@@ -1,0 +1,11 @@
+{
+ "name": "WEB2 Inu",
+ "website": "https://web2inu.com",
+ "description": "Web2 Inu is a Doge based on Web2 to Web3 idea to embrace blockchain and transparency.",
+ "explorer": "https://bscscan.com/token/0x00998d97c22B564d1dAF39d493e74C21D83fffbA",
+ "type": "BEP20",
+ "symbol": "WEB2",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x00998d97c22B564d1dAF39d493e74C21D83fffbA"
+}
