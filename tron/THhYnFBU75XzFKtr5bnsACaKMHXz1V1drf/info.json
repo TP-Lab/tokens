@@ -1,0 +1,11 @@
+{
+  "name": "WDToken",
+  "website": "https://www.wd-token.com",
+  "description": "WD是基于波场链上发行的DEFI去中心化金融协议通证，发行总量20000枚，WD旨在打造DAO完全去中心化平台，未来将开发链上借贷，NFT，元宇宙，游戏等多链生态布局，并赋能分布式实体商业。",
+  "explorer": "https://tronscan.io/#/token20/THhYnFBU75XzFKtr5bnsACaKMHXz1V1drf",
+  "type": "TRC20",
+  "symbol": "WD",
+  "decimals": 18,
+  "status": "active",
+  "id": "THhYnFBU75XzFKtr5bnsACaKMHXz1V1drf"
+ }
