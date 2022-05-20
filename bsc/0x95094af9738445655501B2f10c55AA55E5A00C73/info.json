@@ -1,0 +1,11 @@
+{
+  "name": "JJH",
+  "website": "https://www.jjh.com.sg/",
+  "description": "JJH.DAO组织由全球多个共识社区联合发起，集结全球区块链爱好者，采用多维度链上智能合约触发机制进行社区治理，立足区块链本真价值，旨在实现一个真正公平、公正、公开、友爱的DAO组织，构建完整的链上生态圈",
+  "explorer": "https://bscscan.com/token/0x95094af9738445655501B2f10c55AA55E5A00C73",
+  "type": "BEP20",
+  "symbol": "JJH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x95094af9738445655501B2f10c55AA55E5A00C73"
+ }
