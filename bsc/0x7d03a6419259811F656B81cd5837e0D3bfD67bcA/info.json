@@ -1,0 +1,11 @@
+{
+ "name": "LUNAcoin",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/address/0x7d03a6419259811F656B81cd5837e0D3bfD67bcA",
+ "type": "BEP20",
+ "symbol": "LUNAcoin",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x7d03a6419259811F656B81cd5837e0D3bfD67bcA"
+}
