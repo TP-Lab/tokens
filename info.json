@@ -1,11 +1,11 @@
 { 
-"name": "Disney NFT",
-"website": "https://thewaltdisneycompany.com/",
-"description": "Disney Parks, Experiences and Products is the global hub that brings Disney’s stories, characters, and franchises to life through theme parks and resorts, cruise and vacation experiences, and consumer products—everything from toys to apparel, and books to video games. ",
-"explorer": "https://www.bscscan.com/address/0x1605686953BE566F1Fd546ff953a0EB08BB2129e",
+"name": "CTC Rights",
+"website": "https://ctcdao.com/",
+"description": "American cultural tour coin foundation， cultural tour pass c omb in ed with block chain technology new boutique， charac terization， branding， the development of new business mo dels， to provide travelers with more ways to travel. but also a great att empt to connect block chain with ordinary people， igniting more people's dreams of wealth creation. ",
+"explorer": "https://bscscan.com/address/0x2F58dc9bf309e9076349a12302F375de7767217c",
 "type": "ERC721",
-"symbol": "Disney NFT",
-"decimals": 18,
+"symbol": "CTC Rights",
+"decimals": 0,
 "status": "active",
-"id": "0x1605686953BE566F1Fd546ff953a0EB08BB2129e"
+"id": "0x2F58dc9bf309e9076349a12302F375de7767217c"
 }
