@@ -1,0 +1,11 @@
+{
+ "name": "GPPC",
+ "website": "https://gppcvip.life",
+ "description": "Benchmarking physical gold as the carrier to continuously improve the value performance of the pass through gold profits",
+ "explorer": "https://bscscan.com/token/0x27b04C65261951C1662b647b0Ad1cadDA8825f1E",
+ "type": "BEP20",
+ "symbol": "Gold Pre Purchase Certificate",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x27b04C65261951C1662b647b0Ad1cadDA8825f1E"
+}
