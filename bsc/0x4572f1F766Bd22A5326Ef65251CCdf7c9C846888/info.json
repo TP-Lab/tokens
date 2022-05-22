@@ -1,0 +1,11 @@
+{
+ "name": "LABToken",
+ "website": "https://birdworld.io/",
+ "description": "LAB is the official game token of BirdWorld",
+ "explorer": "https://bscscan.com/token/0x4572f1F766Bd22A5326Ef65251CCdf7c9C846888",
+ "type": "BEP20",
+ "symbol": "LAB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4572f1F766Bd22A5326Ef65251CCdf7c9C846888"
+}
