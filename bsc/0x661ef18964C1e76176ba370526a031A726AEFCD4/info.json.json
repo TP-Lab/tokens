@@ -1,0 +1,11 @@
+{
+  "name": "Penny Wise",
+  "website": "https://www.pennywise.world/",
+  "description": "Pennywise is born with fear and feeds on it. It has been everywhere since the beginning of human fear",
+  "explorer": "https://bscscan.com/token/0x661ef18964c1e76176ba370526a031a726aefcd4",
+  "type": "BEP20",
+  "symbol": "PENNY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x661ef18964C1e76176ba370526a031A726AEFCD4"
+}
