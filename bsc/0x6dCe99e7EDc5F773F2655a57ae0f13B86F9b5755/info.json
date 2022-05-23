@@ -1,0 +1,11 @@
+{
+    "name": "LaEeb",
+    "website": "http://www.laeebworldcup.com/",
+    "description": "LaEeb is a metaverse autonomous community initiated by football-loving fans.",
+    "explorer": "https://bscscan.com/token/0x6dCe99e7EDc5F773F2655a57ae0f13B86F9b5755",
+    "type": "BEP20",
+    "symbol": "LaEeb",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6dCe99e7EDc5F773F2655a57ae0f13B86F9b5755"
+   }
