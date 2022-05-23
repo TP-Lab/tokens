@@ -1,0 +1,11 @@
+{
+    "name": "FindVanGogh",
+    "website": "https://www.fvgnft.com",
+    "description": "With NFT as the core, FVG creates Deto + Chain tour + Dao + gamefi + Web3 The new order of 0 + yuan universe + global finance casts the king of the trend of the times",
+    "explorer": "https://bscscan.com/token/0x5167F44f569f8358CBE2Ce801D321B2d4c3f0E2c",
+    "type": "BEP20",
+    "symbol": "FVG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5167F44f569f8358CBE2Ce801D321B2d4c3f0E2c"
+}
