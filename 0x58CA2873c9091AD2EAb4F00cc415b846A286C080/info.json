@@ -1,0 +1,11 @@
+{
+ "name": "FGCA",
+ "website": "https://fgd.ai",
+ "description": "FGCA is the token of FGD GameFi ecosystem, which is used for the application support and circulation of the Running Freeman Gaming.",
+ "explorer": "https://bscscan.com/token/0x58CA2873c9091AD2EAb4F00cc415b846A286C080",
+ "type": "BEP20",
+ "symbol": "FGCA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x58CA2873c9091AD2EAb4F00cc415b846A286C080"
+}
