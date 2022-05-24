@@ -1,0 +1,11 @@
+{
+    "name": "Dragon",
+    "website": "https://bscdragon.org",
+    "description": "Dragon is a well-built P2E game inspired by the western dragon myth, featuring different powerful dragons and legendary kings.",
+    "explorer": "https://bscscan.com/token/0x01dAae426946A93681525bB97496A3A6279faC5D",
+    "type": "BEP20",
+    "symbol": "Dragon",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x01dAae426946A93681525bB97496A3A6279faC5D"
+}
