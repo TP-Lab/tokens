@@ -1,0 +1,11 @@
+{
+ "name": "Crypto Seed",
+ "website": "https://dapp.cryptosseed.com",
+ "description": "Crypto Seed has always been committed to the mission of accelerating the globalization of cryptocurrencies; giving everyone the fundamental right to control their wealth, information and identity. Crypto Seed's vision is for everyone to replace traditional wallets with cryptocurrencies. The future Internet, that is, Web 3.0, will become more fair and just because of the drive of cryptocurrency. It will be shared by builders, creators and users. Through the community construction of mining output, a metaverse education system will be created. Contribute to the progress of all mankind.",
+ "explorer": "https://bscscan.com/token/0xc9C3bda2f799E6083Ab973Ea7d2dE554c5499428",
+ "type": "BEP20",
+ "symbol": "SEED",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc9C3bda2f799E6083Ab973Ea7d2dE554c5499428"
+}
