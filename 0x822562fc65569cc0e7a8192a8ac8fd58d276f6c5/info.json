@@ -1,0 +1,11 @@
+{
+ "name": "Bright Fonvity",
+ "website": "    ",
+ "description": "   .",
+ "explorer": "https://bscscan.com/token/0x822562fc65569cc0e7a8192a8ac8fd58d276f6c5",
+ "type": "BEP20",
+ "symbol": "BON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x822562fc65569cc0e7a8192a8ac8fd58d276f6c5"
+}
