@@ -1,0 +1,11 @@
+{
+    "name": "ELONKing",
+    "website": "",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x8A717AD2cb1EddBEDBe1592404156dAd8ED226FC",
+    "type": "BEP20",
+    "symbol": "ELONKing",
+    "decimals": 18,
+    "status": "",
+    "id": "0x8A717AD2cb1EddBEDBe1592404156dAd8ED226FC"
+}
