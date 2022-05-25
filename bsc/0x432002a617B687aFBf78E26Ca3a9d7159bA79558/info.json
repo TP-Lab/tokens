@@ -1,0 +1,11 @@
+{
+    "name": "MetaBox",
+    "website": "",
+    "description": "METABOX IS A FULL-CATEGORY GAMEFI AGGREGATION PLATFORM INCLUDING  NFT AND DEFI.",
+    "explorer": "https://bscscan.com/token/0x432002a617B687aFBf78E26Ca3a9d7159bA79558",
+    "type": "BEP20",
+    "symbol": "MBX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x432002a617B687aFBf78E26Ca3a9d7159bA79558"
+}
