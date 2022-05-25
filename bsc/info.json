@@ -1,11 +1,14 @@
+
+
 {
- "name": "MarsCity Token",
- "website": "http://marscity.ca/",
- "description": "MarsCity Token will be the foundation of social credit system after human beings build MarsCity.",
- "explorer": "https://bscscan.com/token/0xbdf9d58511CC04d108D101F4fB9b2a788Ed85Ef1",
+ "name": "FAM Token",
+ "website": "https://famdao.org/",
+ "description": "FAMDAO is an innovative decentralized reserve currency protocol based on the $FAM token",
+ "explorer": "https://bscscan.com/token/0x0D9D05884656f7958A68312a2F8A300d75567403",
  "type": "BEP20",
- "symbol": "MCT",
- "decimals": 9,
+ "symbol": "FAM",
+ "decimals": 18,
  "status": "active",
- "id": "0xbdf9d58511CC04d108D101F4fB9b2a788Ed85Ef1"
+ "id": "0x0D9D05884656f7958A68312a2F8A300d75567403"
 }
+
