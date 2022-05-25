@@ -1,11 +1,11 @@
-{
- "name": "ANTI PYRAMID",
- "website": "https://antidao.org/",
- "description": "https://antidao.org/",
- "explorer": "https://bscscan.com/token/0x09989B01682e57E3F7d8433B5cC1399cc30512FB",
- "type": "BEP20",
- "symbol": "ANTI",
- "decimals": 18,
- "status": "active",
- "id": "0x09989B01682e57E3F7d8433B5cC1399cc30512FB"
+{ 
+"name": "Disney NFT",
+"website": "https://thewaltdisneycompany.com/",
+"description": "Disney Parks, Experiences and Products is the global hub that brings Disney’s stories, characters, and franchises to life through theme parks and resorts, cruise and vacation experiences, and consumer products—everything from toys to apparel, and books to video games. ",
+"explorer": "https://www.bscscan.com/address/0x77FD5538080A0E8DA15360CFb80F06b9614202b1",
+"type": "ERC721",
+"symbol": "Disney NFT",
+"decimals": 1,
+"status": "active",
+"id": "0x77FD5538080A0E8DA15360CFb80F06b9614202b1"
 }
