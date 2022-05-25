@@ -1,0 +1,11 @@
+{
+    "name": "FoxToken",
+    "website": "https://dao.foxtoken.shop/#/",
+    "description": "Decentralized distributed distributed application platform",
+    "explorer": "https://www.bscscan.com/token/0xd3080c40fc9d46623d03a6b59f3d6ee530d50cc6",
+    "type": "BEP20",
+    "symbol": "FOX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd3080c40fc9d46623d03a6b59f3d6ee530d50cc6"
+   }
