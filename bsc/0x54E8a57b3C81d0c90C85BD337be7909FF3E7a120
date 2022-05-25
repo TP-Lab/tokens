@@ -1,1 +1,11 @@
-
+{
+ "name": "Beetle",
+ "website": "https://www.beetle.wiki",
+ "description": "Beetle is a revolutionary and community-driven blockchain ecosystem with NFT technology at its core. ",
+ "explorer": "https://bscscan.com/address/0x54E8a57b3C81d0c90C85BD337be7909FF3E7a120",
+ "type": "BEP20",
+ "symbol": "BET",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x54E8a57b3C81d0c90C85BD337be7909FF3E7a120"
+}
