@@ -1,0 +1,21 @@
+{
+
+"name": "DJCToken",
+
+"website": "https://godofwar.io",
+
+"description": "DJC is the token Of God Of War, a GameFi project dedicated by the Dynamic Foundation team in the UK, and has a wide range Of uses within the God Of War ecosystem",
+
+"explorer": "https://bscscan.com/token/0xE35Bb8829ba677Fc45A24c0148ee06BFB2Bd6421",
+
+"type": "BEP20",
+
+"symbol": "DJC",
+
+"decimals": 8,
+
+"status": "active",
+
+"id": "0xE35Bb8829ba677Fc45A24c0148ee06BFB2Bd6421"
+
+}

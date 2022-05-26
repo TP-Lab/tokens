@@ -1,0 +1,11 @@
+{
+  "name": "SUR",
+  "website": "https://www.superherogame.finance/",
+  "description": "SUR",
+  "explorer": "https://bscscan.com/address/0x0009bcF100bd84F3a7A3D61f9c4CB05A816857c9",
+  "type": "BEP20",
+  "symbol": "SUR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0009bcF100bd84F3a7A3D61f9c4CB05A816857c9"
+}

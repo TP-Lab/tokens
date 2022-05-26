@@ -1,0 +1,11 @@
+{
+  "name": "EI",
+  "website": "https://www.ecosystemchain.com/",
+  "description": "EI is the token in THE EI ecosystem. Developed based on BSC interface standard.",
+  "explorer": "https://bscscan.com/token/0xd05d3efb2f840ede88b545dbd75ce1365e99be3f",
+  "type": "BEP20",
+  "symbol": "EI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd05d3efb2f840ede88b545dbd75ce1365e99be3f"
+}

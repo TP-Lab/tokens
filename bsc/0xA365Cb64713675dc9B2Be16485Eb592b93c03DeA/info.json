@@ -1,0 +1,11 @@
+{
+ "name": "IRON Titanium Token",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xA365Cb64713675dc9B2Be16485Eb592b93c03DeA",
+ "type": "BEP20",
+ "symbol": "TITAN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA365Cb64713675dc9B2Be16485Eb592b93c03DeA"
+}

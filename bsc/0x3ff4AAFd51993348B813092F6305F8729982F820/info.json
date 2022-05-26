@@ -1,0 +1,11 @@
+{
+ "name": "CHEETAH",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/address/0x3ff4AAFd51993348B813092F6305F8729982F820",
+ "type": "BEP20",
+ "symbol": "CHEETAH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3ff4AAFd51993348B813092F6305F8729982F820"
+}

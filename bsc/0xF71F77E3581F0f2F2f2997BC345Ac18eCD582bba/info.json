@@ -1,0 +1,11 @@
+{
+ "name": "PHIT",
+ "website": "http://www.phitworld.com",
+ "description": "Dream World是由Alliance Gold guild与New sky链游实验室联合打造的一款全民回合制元宇宙游戏，已获得 Dapper Lis，Paradim, Capital等众多机构投资，目前可在海外推特，脸书，油管，电报，reddit，Discord，Instagram以及各大媒体平台获取相关信息.",
+ "explorer": "https://bscscan.com/token/0xF71F77E3581F0f2F2f2997BC345Ac18eCD582bba",
+ "type": "BSC20",
+ "symbol": "PHIT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF71F77E3581F0f2F2f2997BC345Ac18eCD582bba"
+}

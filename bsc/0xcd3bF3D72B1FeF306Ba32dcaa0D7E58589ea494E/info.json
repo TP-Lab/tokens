@@ -1,0 +1,11 @@
+{
+ "name": "COW",
+ "website": "https://bullfo.org",
+ "description": "Bull 基金会生态治理 vip通证COW可以通过创建(Bull/BNB)获得。COW发行机制将在全球发行，为Bull打造健全web3.0生态系统.",
+ "explorer": "https://bscscan.com/0xcd3bF3D72B1FeF306Ba32dcaa0D7E58589ea494E",
+ "type": "BEP20",
+ "symbol": "COW",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xcd3bF3D72B1FeF306Ba32dcaa0D7E58589ea494E"
+}

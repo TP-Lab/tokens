@@ -1,0 +1,11 @@
+{
+ "name": "KaiHuangTuan Community",
+ "website": "",
+ "description": "社区发行KaiHuangTuan Community KHB，发起人不持币，将会把多余的代币销毁，让社区成立DAO组织，由社区自治发展，社区成员将永远持有KHB，将KHB发展作为航向标，KHB将会极致打散持币做到社区人手持有一枚，打造KHB共识价值，KHB将会在Defi中成为佼佼者。",
+ "explorer": "https://bscscan.com/token/0x8F2425359abB4e1E699Eca551C42348247561842",
+ "type": "BEP20",
+ "symbol": "KHB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8F2425359abB4e1E699Eca551C42348247561842"
+}

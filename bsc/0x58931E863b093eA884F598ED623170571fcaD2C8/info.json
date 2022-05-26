@@ -1,0 +1,11 @@
+{
+    "name": "Sky Of City",
+    "website": "https://skycity.finance/",
+    "description": "Sky of City is one of the leading data networks based on WEB3 driven by CS token and DAO. The NFTs + DAO + META ecosystem was created on WEB3 to build better products and communities under $CS&DAO governance. ",
+    "explorer": "https://bscscan.com/token/0x58931E863b093eA884F598ED623170571fcaD2C8",
+    "type": "BEP20",
+    "symbol": "CS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x58931E863b093eA884F598ED623170571fcaD2C8"
+}

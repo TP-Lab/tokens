@@ -1,0 +1,11 @@
+{
+ "name": "Cash cowToken",
+ "website": "https://cahcvip.com",
+ "description": "CAHC摇钱树基于币安智能链，是首款wab3.0＋元宇宙生态+NFT生态+大数据+链上媒体生态+去中心化交易所（Swap生态），非同质化聚合型代币，DAO社区自治模型代币，致力于打造一个完全去中心化联动生态，机制透明，极致通缩，最强粘性。",
+ "explorer": "https://bscscan.com/token/0x623149e29c01e26e2bf0b24af3680f5c94dbf76a",
+ "type": "BEP20",
+ "symbol": "CAHC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x623149E29C01e26e2bf0B24aF3680f5C94DBF76A"
+}

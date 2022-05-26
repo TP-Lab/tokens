@@ -1,0 +1,11 @@
+{
+  "name": "ALM Token",
+  "website": "https://talmud.one",
+  "description": "Talmud Finance, the best partner of digital assets trading",
+  "explorer": "https://bscscan.com/token/0xE3F623A12c807f0586FDD89224Ca8BF1c7226DC3",
+  "type": "BEP20",
+  "symbol": "ALM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xE3F623A12c807f0586FDD89224Ca8BF1c7226DC3"
+ }

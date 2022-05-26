@@ -1,0 +1,11 @@
+{
+ "name": "Ant business",
+ "website": "https://www.absswap.com",
+ "description": "Ant business即将成为世界上最大的去中心化金融平台。Ant business的目标是让每个人拥有数字资产的背后带来无限的价值和未来数字资产生活化。Ant business的使命是成为全球最大的商业金融平台，为全球所有用户提供一个可靠、透明和去中心化加密数字平台，用户通过共识获得贡献值和消费可获得算力来进行挖矿，ABS的未来一定为整个区块链带来一种全新的'共识消费即挖矿'的商业模式",
+ "explorer": "https://bscscan.com/token/0x9977fda28cd76278f51328389129ba3d72016d4f",
+ "type": "BEP20",
+ "symbol": "ABS",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x9977fda28cd76278f51328389129ba3d72016d4f"
+}

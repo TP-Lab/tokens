@@ -1,0 +1,11 @@
+{
+    "name": "Luck Star",
+    "website": "https://luckstar.org",
+    "description": "Luck Star was jointly initiated by North American artists Paul Chan and Catherine Opie, and based entirely on the concept of community governance and community-driven, Luck Star aims to create a new metaverse platform with DAO community autonomy combined with DeFi+GameFi+NFT ecological applications.",
+    "explorer": "https://bscscan.com/token/0x1d138A2dd0618d2a608bA02F47A5708873cE9F8F",
+    "type": "BEP20",
+    "symbol": "LUCK",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x1d138A2dd0618d2a608bA02F47A5708873cE9F8F"
+}   

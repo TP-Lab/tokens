@@ -1,0 +1,11 @@
+{
+ "name": "Vikings Inu",
+ "website": "https://vikingsinu.org",
+ "description": "Vikings Doge Coin for Global Communities.",
+ "explorer": "https://bscscan.com/token/0xc3583C8328eCB4DC8751C7e4fe7bCC18E558A4b6",
+ "type": "BEP20",
+ "symbol": "VIKINGS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xc3583C8328eCB4DC8751C7e4fe7bCC18E558A4b6"
+}

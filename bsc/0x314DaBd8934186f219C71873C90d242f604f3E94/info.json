@@ -1,0 +1,11 @@
+{
+ "name": "Disney ",
+ "website": "http://dsndisney.vip/",
+ "description": "DSN去中心化衍生品",
+ "explorer": "https://bscscan.com/address/0x314DaBd8934186f219C71873C90d242f604f3E94",
+ "type": "BEP20",
+ "symbol": "DSN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x314DaBd8934186f219C71873C90d242f604f3E94"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BUCC",
+ "website": "https://www.bucc.pro/#/home",
+ "description": "BUCC (Binance Farm) is a metaverse SLG game that integrates GameFi, metaverse, defi attributes, and rare NFT-driven.",
+ "explorer": "https://www.bscscan.com/token/0x49aB7b384e6B7819d2e2Cb2eBD86943A865c9A7F",
+ "type": "BEP20",
+ "symbol": "BUCC",
+ "decimals": 3,
+ "status": "active",
+ "id": "0x49aB7b384e6B7819d2e2Cb2eBD86943A865c9A7F"
+}

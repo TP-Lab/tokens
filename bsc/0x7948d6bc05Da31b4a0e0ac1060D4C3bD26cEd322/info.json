@@ -1,0 +1,11 @@
+{
+ "name": "Lucky Biance",
+ "website": "-",
+ "description": "Lucky Biance(LB) is a highly autonomous, decentralized, fair and just ecological community.",
+ "explorer": "https://bscscan.com/token/0x7948d6bc05Da31b4a0e0ac1060D4C3bD26cEd322",
+ "type": "BEP20",
+ "symbol": "LB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7948d6bc05Da31b4a0e0ac1060D4C3bD26cEd322"
+}

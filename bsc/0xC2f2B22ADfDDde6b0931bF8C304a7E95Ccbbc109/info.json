@@ -1,0 +1,11 @@
+{
+ "name": "Carbon Coin",
+ "website": "http://carbonmeta.info/",
+ "description": "The first carbon-neutral concept coin in the blockchain field",
+ "explorer": "https://bscscan.com/address/0xc2f2b22adfddde6b0931bf8c304a7e95ccbbc109",
+ "type": "BEP20",
+ "symbol": "C",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC2f2B22ADfDDde6b0931bF8C304a7E95Ccbbc109"
+}

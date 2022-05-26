@@ -1,0 +1,11 @@
+{
+ "name": "WiKi NFT",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x29FB05f65eeFb9553070614b3B42bC8b288fbC2f",
+ "type": "BEP20",
+ "symbol": "WNFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x29FB05f65eeFb9553070614b3B42bC8b288fbC2f"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "CBT",
+	"website": "http://cbtbd.com/",
+	"description": "Cybertron is the first fan token issued by MovieFI Alliance and Paramount Pictures, Inc, combining Cybertron's IP attributes for innovative experiments.",
+	"explorer": "https://bscscan.com/token/0x559b8D69d742EC3531D68957f4d0CafE3dFf0856",
+	"type": "BEP20",
+	"symbol": "CBT",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x559b8D69d742EC3531D68957f4d0CafE3dFf0856"
+   }

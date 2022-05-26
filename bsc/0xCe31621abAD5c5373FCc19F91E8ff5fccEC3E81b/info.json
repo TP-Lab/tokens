@@ -1,0 +1,11 @@
+{ 
+"name": "GM",
+"website": "https://game.com",
+"description": "GM为Game.com的GameChain链游主网代币。",
+"explorer": "https://bscscan.com/address/0xCe31621abAD5c5373FCc19F91E8ff5fccEC3E81b",
+"type": "BEP20",
+"symbol": "GM",
+"decimals": 18,
+"status": "active",
+"id": "0xCe31621abAD5c5373FCc19F91E8ff5fccEC3E81b"
+}

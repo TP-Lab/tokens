@@ -1,0 +1,11 @@
+{
+ "name": "PPT",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x372a4E337a5a177B8CBd569982F6d48A68738608",
+ "type": "BSC20",
+ "symbol": "PPT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x372a4E337a5a177B8CBd569982F6d48A68738608"
+}

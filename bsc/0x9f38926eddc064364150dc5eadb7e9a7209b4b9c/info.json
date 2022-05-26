@@ -1,0 +1,11 @@
+{
+ "name": "AsiSos",
+ "website": "https://bscscan.com/address/0x9f38926eddc064364150dc5eadb7e9a7209b4b9c",
+ "description": "ASO",
+ "explorer": "https://bscscan.com/address/0x9f38926eddc064364150dc5eadb7e9a7209b4b9c",
+ "type": "BEP20",
+ "symbol": "ASO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9f38926eddc064364150dc5eadb7e9a7209b4b9c"
+}

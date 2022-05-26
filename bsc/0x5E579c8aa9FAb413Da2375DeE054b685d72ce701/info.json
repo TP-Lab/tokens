@@ -1,0 +1,11 @@
+{
+ "name": "GalileoNetwork",
+ "website": "http://www.galipool.vip/",
+ "description": " GaLiLeo Network is a new DEFI and metauniverse DAO governance ecology issued based on BSC public chain, which is the cross-chain issuance protocol Token of original GALI extension of TRON Chain. GALI is a decentralized DeFi protocol Token built on the BSC chain. ",
+ "explorer": "https://bscscan.com/token/0x5E579c8aa9FAb413Da2375DeE054b685d72ce701",
+ "type": "BEP20",
+ "symbol": "GALI",
+ "decimals": 18,
+ "status": "not open",
+ "id": "0x5E579c8aa9FAb413Da2375DeE054b685d72ce701"
+}

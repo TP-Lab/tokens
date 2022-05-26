@@ -1,0 +1,11 @@
+{ 
+"name": "SuperPi",
+"website": "https://www.superpis.com",
+"description": "SuperPi is a time for superhuman heroes. Only killing one hero after another can satisfy the greedy desire of golden dog hunters. So the broken 0 plan came into being. Let's work together to eat one 0 after another. ",
+"explorer": "https://bscscan.com/token/0xc78aC27E90bbBD53362E5d26c607C2E2834D8aF4",
+"type": "BEP20",
+"symbol": "SuperPi",
+"decimals": 9,
+"status": "active",
+"id": "0xc78aC27E90bbBD53362E5d26c607C2E2834D8aF4"
+}

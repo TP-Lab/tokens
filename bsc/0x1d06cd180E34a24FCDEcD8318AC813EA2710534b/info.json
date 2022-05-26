@@ -1,0 +1,11 @@
+{
+  "name": "ACE Token",
+  "website": "https://talmud.one",
+  "description": "Connecting the digital assets with community",
+  "explorer": "https://bscscan.com/token/0x1d06cd180E34a24FCDEcD8318AC813EA2710534b",
+  "type": "BEP20",
+  "symbol": "ACE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1d06cd180E34a24FCDEcD8318AC813EA2710534b"
+ }

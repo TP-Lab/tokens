@@ -1,0 +1,11 @@
+{
+  "name": "Carrot Token",
+  "website": "https://bunnyarmy.io",
+  "description": "Bunny Army is a decentralized Gamefi + NFT tower defense game.",
+  "explorer": "https://www.oklink.com/okexchain/address/0xA63D16d424e769087Dc9f6E464522EE446FF60EE",
+  "type": "KIP20",
+  "symbol": "CAR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xA63D16d424e769087Dc9f6E464522EE446FF60EE"
+ }

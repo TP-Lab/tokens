@@ -1,0 +1,11 @@
+{
+ "name": "Fantasy Space Diamond",
+ "website": "https://fantasyspace.io",
+ "description": "Fantasy Space is a Metaverse BlockChain game. the hunting grounds will provide you with sufficient diamond,which will be necessities witnessing your conquest of the Fantasy Space.",
+ "explorer": "https://bscscan.com/token/0xf8aB4Be9b19e95B066C42F0935F2e4b1B62D8A71",
+ "type": "BEP20",
+ "symbol": "FSD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf8aB4Be9b19e95B066C42F0935F2e4b1B62D8A71"
+}

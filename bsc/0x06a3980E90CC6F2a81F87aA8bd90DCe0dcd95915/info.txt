@@ -1,0 +1,11 @@
+{
+    "name": "Honeybee",
+    "website": "http://honeybeedefi.com",
+    "description": "HoneyBee is a decentralized financial integrated service platform invested by the British HBEE DeFi Foundation with decentralized financial derivatives trading as its core business.",
+    "explorer": "https://bscscan.com/token/0x06a3980E90CC6F2a81F87aA8bd90DCe0dcd95915",
+    "type": "BEP20",
+    "symbol": "HBEE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x06a3980E90CC6F2a81F87aA8bd90DCe0dcd95915"
+}

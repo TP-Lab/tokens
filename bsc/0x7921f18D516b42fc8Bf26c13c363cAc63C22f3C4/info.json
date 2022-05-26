@@ -1,0 +1,11 @@
+{ 
+"name": "CTC",
+"website": "https://ctcdao.com",
+"description": "美国文旅通基金会(American cultural tour coin foundatio n)，文旅通结合区块链技术全新精品化、特色化、品牌化，发展新的商业模式，为旅客提供更多的旅游方式。",
+"explorer": "https://bscscan.com/token/0x7921f18D516b42fc8Bf26c13c363cAc63C22f3C4",
+"type": "BEP20",
+"symbol": "CTC",
+"decimals": 18,
+"status": "active",
+"id": "0x7921f18D516b42fc8Bf26c13c363cAc63C22f3C4"
+}

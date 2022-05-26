@@ -1,0 +1,11 @@
+{ 
+"name": "CowKing TOKEN",
+"website": "http://cowking.club/",
+"description": "Cows are very cute animals. They have brought a lot of help to mankind. A lot of dairy products are obtained from them and they also generate a lot of memes, um think dogecoin ",
+"explorer": "https://bscscan.com/token/0x0311cbfa73e362d86669c93b74d05e7b5ecf1ec5",
+"type": "BEP20",
+"symbol": "CowKing",
+"decimals": 18,
+"status": "active",
+"id": "0x0311CbfA73E362d86669c93B74D05e7B5ecF1EC5"
+}

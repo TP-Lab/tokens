@@ -1,0 +1,11 @@
+{
+    "name": "BDD",
+    "website": "",
+    "description": "BDD is an epoch-making token",
+    "explorer": "https://bscscan.com/address/0xcFa28c8076a9240714eD6d4758Af344F6A434EF8",
+    "type": "BEP20",
+    "symbol": "BDD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xcFa28c8076a9240714eD6d4758Af344F6A434EF8"
+}

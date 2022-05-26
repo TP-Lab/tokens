@@ -1,0 +1,11 @@
+{
+ "name": "Ant business",
+ "website": "https://www.absswap.com",
+ "description": "Ant business transparent and decentralized encryption digital platform.",
+ "explorer": "https://bscscan.com/token/0xbA52290F804c36E31aD0A93b28C0125587Fb213a",
+ "type": "BEP20",
+ "symbol": "ABS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbA52290F804c36E31aD0A93b28C0125587Fb213a"
+}

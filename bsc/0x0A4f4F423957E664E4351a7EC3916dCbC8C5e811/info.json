@@ -1,0 +1,11 @@
+{
+ "name": "GodsChain",
+ "website": "https://www.gods.rodeo",
+ "description": "Godschain拥有DAO+DEFI两大前沿机制和web3.0底层公链技术支持，底池锁定，权限丢弃，真正的社区自治。世界首创元宇宙区块链链上商城，解决产品溯源，产品定价，产品留存等，平台采用消费即股东的机制，让每一位消费者都能从平台获得利润分红.",
+ "explorer": "https://bscscan.com/token/0x0A4f4F423957E664E4351a7EC3916dCbC8C5e811",
+ "type": "BEP-20",
+ "symbol": "GODS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0A4f4F423957E664E4351a7EC3916dCbC8C5e811"
+}

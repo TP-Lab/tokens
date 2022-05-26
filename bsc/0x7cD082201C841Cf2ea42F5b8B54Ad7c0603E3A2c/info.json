@@ -1,0 +1,11 @@
+{
+    "name": "BlueCat",
+    "website": "https://www.bluecat.finance",
+    "description": "蓝猫以做慈善为目的,救助流浪猫，如果你也喜欢做慈善，请加入我们吧。每笔交易分红百分之7的bnb给用户",
+    "explorer": "https://bscscan.com/token/0x7cd082201c841cf2ea42f5b8b54ad7c0603e3a2c",
+    "type": "BEP20",
+    "symbol": "BlueCat",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7cD082201C841Cf2ea42F5b8B54Ad7c0603E3A2c"
+   }

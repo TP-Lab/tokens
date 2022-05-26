@@ -1,0 +1,11 @@
+{
+ "name": "Cripto Inc Gold",
+ "website": "https://www.cryptoincgold.com/",
+ "description": "Always innovating, be smart, be Gold",
+ "explorer": "https://bscscan.com/token/0xbdd1d5d1c1e9b2767188e29bf835af1b135bae77",
+ "type": "BEP20",
+ "symbol": "INBG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBDD1d5d1C1E9B2767188e29bf835af1b135BaE77"
+}

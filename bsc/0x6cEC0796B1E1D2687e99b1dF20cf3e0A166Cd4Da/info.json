@@ -1,0 +1,11 @@
+{
+"name": "StarLink Metaverse", 
+"website": "https://www.starlink.gold", 
+"description": "SL, StarLink Metaverse is token for Mars bases.", 
+"explorer": "https://www.bscscan.com/token/0x6cec0796b1e1d2687e99b1df20cf3e0a166cd4da", 
+"type": "BEP20", 
+"symbol": "SL", 
+"decimals": 18, 
+"status": "active", 
+"id": "0x6cEC0796B1E1D2687e99b1dF20cf3e0A166Cd4Da"
+}

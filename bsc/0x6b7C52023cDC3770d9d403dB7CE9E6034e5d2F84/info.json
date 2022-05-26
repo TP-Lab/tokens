@@ -1,0 +1,11 @@
+{
+ "name": "Bentley",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x6b7C52023cDC3770d9d403dB7CE9E6034e5d2F84",
+ "type": "BSC20",
+ "symbol": "Bentley",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6b7C52023cDC3770d9d403dB7CE9E6034e5d2F84"
+}

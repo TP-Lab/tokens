@@ -1,0 +1,11 @@
+{
+    "name": "Gemdex",
+    "website": "https://gemxfinance.co",
+    "description": "Official Token of Gemdex(GemX)",
+    "explorer": "https://bscscan.com/address/0xc1c13070913774f57a09d870152cfb2ddc21dc1c",
+    "type": "BEP20",
+    "symbol": "GemX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc1c13070913774f57a09d870152cfb2ddc21dc1c"
+}

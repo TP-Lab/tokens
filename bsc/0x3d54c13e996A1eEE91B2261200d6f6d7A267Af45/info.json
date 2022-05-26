@@ -1,0 +1,11 @@
+{
+ "name": "Dog king son",
+ "website": "-",
+ "description": "Help the DogeKing land on the moon.",
+ "explorer": "https://bscscan.com/token/0x3d54c13e996A1eEE91B2261200d6f6d7A267Af45",
+ "type": "BEP20",
+ "symbol": "DogKingson",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3d54c13e996A1eEE91B2261200d6f6d7A267Af45"
+}

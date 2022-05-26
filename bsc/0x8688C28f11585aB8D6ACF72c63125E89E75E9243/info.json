@@ -1,0 +1,11 @@
+{
+    "name": "MJ Token",
+    "website": "http://mk.testexex.com/",
+    "description": "MJ is the world's only tribute legend commemorative coin created by several geek enthusiasts in Silicon Valley in order to commemorate MJ (Michael Jackson). Rich ecology, including NFT aggregation trading platform, development of blockchain + ecological industry cluster composed of its own swap, underlying privacy protocol, metauniverse and other ecosystems. MJ uses open, transparent and tamper proof blocks to connect attributes, so that everyone can participate and benefit.",
+    "explorer": "https://bscscan.com/address/0x8688C28f11585aB8D6ACF72c63125E89E75E9243",
+    "type": "BEP20",
+    "symbol": "MJ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8688C28f11585aB8D6ACF72c63125E89E75E9243"
+   }

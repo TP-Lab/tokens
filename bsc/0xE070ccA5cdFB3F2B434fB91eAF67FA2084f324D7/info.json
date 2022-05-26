@@ -1,0 +1,11 @@
+{ 
+"name": "BEE Capital",
+"website": "https://www.beecapital.org",
+"description": "BEE Capital is a Decentralized Autonomous Organization (DAO) -Driven crypto capital,focused on early-stage blockchain projects, that helps promising projects achieve their full potential by leveraging the investment power and buzz making potential of our community. We aim to democratize access to investment opportunities that were previously available only to well-heeled investors and venture funds, opening up the closed ecosystem of early-stage crypto project investments to everybody.",
+"explorer": "https://bscscan.com/token/0xE070ccA5cdFB3F2B434fB91eAF67FA2084f324D7",
+"type": "BEP20",
+"symbol": "BEE",
+"decimals": 18,
+"status": "active",
+"id": "0xE070ccA5cdFB3F2B434fB91eAF67FA2084f324D7"
+}

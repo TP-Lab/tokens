@@ -1,0 +1,11 @@
+{
+ "name": "CherrySwap Token",
+ "website": "https://www.cherryswap.net",
+ "description": "CherrySwap is the automatic market-making protocol based on OKExChain(OEC).",
+ "explorer": "https://bscscan.com/token/0xbc420Bc2c015d1579F77e4a5c68270b75F2DDB9d",
+ "type": "BEP20",
+ "symbol": "CHE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbc420Bc2c015d1579F77e4a5c68270b75F2DDB9d"
+}

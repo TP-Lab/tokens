@@ -1,0 +1,11 @@
+{
+ "name": "LXS",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x2E91323C7f162084019500c8794ceE7c1AFE95b0",
+ "type": "BSC20",
+ "symbol": "LXS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2E91323C7f162084019500c8794ceE7c1AFE95b0"
+}

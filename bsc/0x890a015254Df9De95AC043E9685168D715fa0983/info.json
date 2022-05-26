@@ -1,0 +1,23 @@
+{
+    "name": "ScamKiller", 
+    "website": "https://www.ScamKiller.io/", 
+    "short_description": "Biggest & Badest Token, Moonshot mission: 26000 x. ", 
+    "description": "A world without DeFI Scams. ScamKiller is the best tool to invest in DeFI safely. Minimize the risk of your investments and avoid DeFI scams by using our Audits, Scanner, ApeBoard ...", 
+    "type": "BEP20", 
+    "symbol": "ScamKiller", 
+    "decimals": 9, 
+    "status": "active", 
+    "id": "0x890a015254Df9De95AC043E9685168D715fa0983", 
+    "socials": [
+        {
+            "name": "Twitter", 
+            "url": "https://twitter.com/ScamKillerBSC"
+        }, 
+     
+        {
+            "name": "Telegram", 
+            "url": "https://t.me/ScamKillerGlobleoffical"
+        }
+    ], 
+    "explorer": "https://bscscan.com/token/0x890a015254df9de95ac043e9685168d715fa0983"
+}

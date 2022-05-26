@@ -1,0 +1,11 @@
+{
+ "name": "$Nobel DAO",
+ "website": "https://bscscan.com/token/0x0B23e7Ce07e9d63e39F44f1B054050940a725a82",
+ "description": "Nobel DAO TOKEN.",
+ "explorer": "https://bscscan.com/token/0x0B23e7Ce07e9d63e39F44f1B054050940a725a82",
+ "type": "BEP20",
+ "symbol": "$NBL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0B23e7Ce07e9d63e39F44f1B054050940a725a82"
+}

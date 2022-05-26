@@ -1,0 +1,11 @@
+{
+  "name": "NAR",
+  "website": "http://pet.lostland.io",
+  "description": "Lost of the Land is the first motion-to-earn game on the BSC chain, aiming to create a large open platform for the health of sports for all. NAR acts as a governance token for internal circulation, with circulation, voting, rewards, and more.",
+  "explorer": "https://bscscan.com/address/0x777acbc3b6e9b22019980c5f41f9e04cd51a4a4b",
+  "type": "BEP20",
+  "symbol": "NAR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x777ACbC3B6E9b22019980C5F41f9E04Cd51a4a4B"
+}

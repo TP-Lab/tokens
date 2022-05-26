@@ -1,0 +1,11 @@
+{ 
+    "name": "LaborDoge",
+    "website": "http://www.shiblnucash.com/",
+    "description": "LaborDoge is a community-driven and reflection token on Binance Smart Chain.",
+    "explorer": "https://bscscan.com/token/0x6E7336Cd3Ddcad4b3E83e86E6FB8Caf903c527f7",
+    "type": "BEP20",
+    "symbol": "LaborDoge",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x6E7336Cd3Ddcad4b3E83e86E6FB8Caf903c527f7"
+}

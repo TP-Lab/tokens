@@ -1,0 +1,11 @@
+{ 
+"name": "BABYGATE",
+"website": "...",
+"description": "...",
+"explorer": "https://bscscan.com/token/0x924848d36c0F5b574C5a401885D347d50A0a4988",
+"type": "BEP20",
+"symbol": "BABYGATE",
+"decimals": 9,
+"status": "active",
+"id": "0x924848d36c0F5b574C5a401885D347d50A0a4988"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "X-Parallel Space",
+    "webiste": "https://xpslab.com/",
+    "description": "X Parallel Space是一个基于币安智能链的去中心化超额借贷协议，并创新性地推出了算法固定利率产品和杠杆借贷产品，通过算法实现了利率恒定的借贷产品，提升了 DeFi 市场中的资金利用效率",
+    "explorer": "https://bscscan.com/token/0x8e9b87cad37610d60120a1f48aa1036e24a3831a",
+    "type": "BSC链",
+    "symbol": "XPS",
+    "decimals": "18",
+    "status": "active",
+    "id": "0x8E9b87caD37610D60120A1f48AA1036e24a3831a"
+}

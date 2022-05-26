@@ -1,0 +1,11 @@
+{
+    "name": "SP",
+    "website": "https://sp.org",
+    "description": "sp token",
+    "explorer": "https://hecoinfo.com/address/0x9EB7928F3EdE1b07cC6F095e232a79FcffCD42CD",
+    "type": "HRC20",
+    "symbol": "SP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9EB7928F3EdE1b07cC6F095e232a79FcffCD42CD"
+}

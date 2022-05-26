@@ -1,0 +1,11 @@
+{
+ "name": "NAGA TOKEN",
+ "website": "https://naga.zone/",
+ "description": "NAGA基于HECO生态系统的出现,适时的将一些正向的、有价值的“区块链+金融”应用和探索,从传统概念中剥离出来,同时与一些糟粕划清界限。通过概念普及和应用推进NAGA将逐渐成为利用区块链实现普惠金融、新型 金融、数字化金融的正确方向,并最终达到造福社会和人类的作用。",
+ "explorer": "https://hecoinfo.com/token/0x90ce56d02948a8d2019c14598a1f6a49eea1ef66",
+ "type": "HRC20",
+ "symbol": "NAGA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x90ce56D02948A8D2019C14598A1f6A49EEa1Ef66"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Rich",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0xE9bCdefe64C61D4199E7edcAa11d0547fE371347",
+ "type": "BEP20",
+ "symbol": "Rich",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE9bCdefe64C61D4199E7edcAa11d0547fE371347"
+}
