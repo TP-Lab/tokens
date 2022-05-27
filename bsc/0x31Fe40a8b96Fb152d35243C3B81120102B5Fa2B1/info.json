@@ -1,0 +1,11 @@
+{ 
+"name": "Candylad Coin",
+"website": "https://candyladcoin.com/",
+"description": "Candylad Coin Token is a Community-Based Project with cross-chain DeFi Features. ",
+"explorer": "https://bscscan.com/token/0x31fe40a8b96fb152d35243c3b81120102b5fa2b1",
+"type": "BEP20",
+"symbol": "Candylad Coin",
+"decimals": 9,
+"status": "active",
+"id": "0x31fe40a8b96fb152d35243c3b81120102b5fa2b1"
+}
