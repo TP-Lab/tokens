@@ -1,0 +1,11 @@
+{
+  "name": "Open",
+  "website": "https://www.opendao.sg/",
+  "description": "OPEN is the governance token of OpenDAO community. The holder can enjoy the diversified service benefits of the DeFi products and protocols developed and managed by OpenDAO, such as obtaining chain game tokens and NFT, adding liquidity, participating in pledge mining, etc..",
+  "explorer": "https://bscscan.com/address/0x147cC13f792Ab7d135D47bc5B75f90A2B0f3F889",
+  "type": "BEP-20",
+  "symbol": "Open",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x147cC13f792Ab7d135D47bc5B75f90A2B0f3F889"
+ }
