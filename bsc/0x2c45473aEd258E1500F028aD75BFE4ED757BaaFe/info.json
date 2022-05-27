@@ -1,0 +1,11 @@
+{
+ "name": "LUNC",
+ "website": "http://www.lunc.fun",
+ "description": "LUNC is a digital parallel to the traditional Internet and traditional financial markets, full security hard core underlying, ultra high percentage of mobile pool locking."
+ "explorer": "https://bscscan.com/token/0x2c45473aEd258E1500F028aD75BFE4ED757BaaFe",
+ "type": "BEP20",
+ "symbol": "LUNC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2c45473aEd258E1500F028aD75BFE4ED757BaaFe"
+}
