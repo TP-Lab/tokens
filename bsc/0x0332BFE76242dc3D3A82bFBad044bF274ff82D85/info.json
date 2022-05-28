@@ -1,0 +1,11 @@
+{
+ "name": "ChainBook",
+ "website": "https://chainbook.in/",
+ "description": "Provide the most comprehensive chain aggregation news for 1 billion crypto investors worldwide.",
+ "explorer": "https://bscscan.com/token/0x0332BFE76242dc3D3A82bFBad044bF274ff82D85",
+ "type": "BEP20",
+ "symbol": "CNB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0332BFE76242dc3D3A82bFBad044bF274ff82D85"
+}
