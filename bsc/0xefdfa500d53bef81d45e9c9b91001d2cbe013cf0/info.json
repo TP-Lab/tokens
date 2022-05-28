@@ -1,0 +1,11 @@
+{
+ "name": "BitcoinCastle BTTE",
+ "website": "https://www.bitcoincastle.io",
+ "description": "Game Tokens for Bit Castle.",
+ "explorer": "https://bscscan.com/token/0xEfDfa500D53BeF81D45e9C9B91001D2cbe013CF0",
+ "type": "BEP20",
+ "symbol": "BTTE",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xEfDfa500D53BeF81D45e9C9B91001D2cbe013CF0"
+}
