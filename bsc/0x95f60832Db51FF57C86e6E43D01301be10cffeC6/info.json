@@ -1,0 +1,11 @@
+{ 
+"name": "BNB2.0",
+"website": "https://twitter.com/NEW_BNB?s=20&t=7sE-jln9JXNpS3_1N7Go5A",
+"description": "BNB2.0 is the infrastructure application of DeFi3.0. BNB2.0 builds a huge liquidity open source pool in the form of DAO.",
+"explorer": "https://bscscan.com/token/0x95f60832Db51FF57C86e6E43D01301be10cffeC6",
+"type": "BEP20",
+"symbol": "BNB2.0",
+"decimals": 18,
+"status": "active",
+"id": "0x95f60832Db51FF57C86e6E43D01301be10cffeC6"
+}
