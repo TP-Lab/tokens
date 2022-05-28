@@ -1,0 +1,11 @@
+{
+ "name": "Mas",
+ "website": "http://www.mascotnetwork.top",
+ "description": "A new generation of decentralized financial aggregation platform",
+ "explorer": "https://bscscan.com/token/0xffa905bb70b6d43ce7a8b84f2ba8e0a334b9765d",
+ "type": "BEP20",
+ "symbol": "MAS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xffa905bb70b6d43ce7a8b84f2ba8e0a334b9765d"
+}
