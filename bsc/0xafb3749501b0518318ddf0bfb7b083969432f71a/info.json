@@ -1,0 +1,11 @@
+{
+    "name": "Monkey Coin",
+    "website": "https://heavenly.org",
+    "description": "Coconut home army sent together Monkey Coin",
+    "explorer": "https://bscscan.com/address/0xafb3749501b0518318ddf0bfb7b083969432f71a",
+    "type": "BEP20",
+    "symbol": "MKY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xafb3749501b0518318ddf0bfb7b083969432f71a"
+}
