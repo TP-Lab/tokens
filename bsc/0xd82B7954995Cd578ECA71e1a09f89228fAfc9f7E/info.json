@@ -1,0 +1,11 @@
+{
+ "name": "TaiJi Token",
+ "website": "https://fstswap.finance",
+ "description": "TaiJi empowers various ecosystems of defi, Symbiosis and win-win,Assistant Health Industry Chain,Let TaiJi agree,Spirit,material double harvest.",
+ "explorer": "https://bscscan.com/token/0xd82B7954995Cd578ECA71e1a09f89228fAfc9f7E",
+ "type": "BEP20",
+ "symbol": "TaiJi",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd82B7954995Cd578ECA71e1a09f89228fAfc9f7E"
+}
