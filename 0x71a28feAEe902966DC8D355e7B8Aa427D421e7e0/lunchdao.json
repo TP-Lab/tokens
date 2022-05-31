@@ -1,0 +1,11 @@
+{
+ "name": "LunchDao Token",
+ "website": "https://www.lunchdao.com",
+ "description": "LunchDAO was born for the auction of power lunch with Warren Buffett, which is bound to bring ordinary people like you and me to the table with the global capitalist class. It is a challenge launched by DAO members to traditional finance. We start with the power lunch and then gain more crypto assets to finally become the largest DAO in the world that communicate and cooperate with traditional financial forces. LunchDAO is looking forward to your participation.",
+ "explorer": "https://etherscan.io/address/0x71a28feaee902966dc8d355e7b8aa427d421e7e0",
+ "type": "ERC20",
+ "symbol": "LUNCH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x71a28feaee902966dc8d355e7b8aa427d421e7e0"
+}
