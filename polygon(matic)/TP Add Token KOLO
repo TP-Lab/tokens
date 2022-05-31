@@ -1,0 +1,11 @@
+{
+  "name": "KOLO.Market",
+  "website": "https://www.kolo.market/",
+  "description": "KOLO is the only governance token for the KOLO music ecological community. It enables the relationship between artists, labels and music fans more direct and closer to be the the decentralization of link for classical music ecosystem. ",
+  "explorer": "https://polygonscan.com/token/0xe1240e13FDA129845d17b73eaE548Cd690e8DEC8",
+  "type": "ERC20",
+  "symbol": "KOLO",
+  "decimals": 6,
+  "status": "active",
+  "id": "0xe1240e13FDA129845d17b73eaE548Cd690e8DEC8"
+}
