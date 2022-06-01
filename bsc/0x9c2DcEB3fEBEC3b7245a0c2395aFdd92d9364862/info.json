@@ -1,0 +1,11 @@
+{
+ "name": "Soul Meta Token",
+ "website": "https://soulmeta.io",
+ "description": "A metaverse where users make their photos and contact as NFT to mint mystery box.",
+ "explorer": "https://bscscan.com/token/0x9c2DcEB3fEBEC3b7245a0c2395aFdd92d9364862",
+ "type": "BEP20",
+ "symbol": "SOUL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9c2DcEB3fEBEC3b7245a0c2395aFdd92d9364862"
+}
