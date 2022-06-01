@@ -1,0 +1,11 @@
+{ 
+	"name": "j9en.online",
+	"website": "https://j9en.online/",
+	"description": "J9BC is a digital currency issued by J9 International (j9en.online), an original betting mining solution",
+	"explorer": "https://bscscan.com/token/0xf79df2700033f6b371ee2bca4d328d1293884d50",
+	"type": "BEP20",
+	"symbol": "j9en.online",
+	"decimals": 8,
+	"status": "active",
+	"id": "0xf79df2700033f6b371ee2bca4d328d1293884d50"
+}
