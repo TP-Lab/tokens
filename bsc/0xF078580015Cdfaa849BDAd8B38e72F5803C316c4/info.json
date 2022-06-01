@@ -1,0 +1,11 @@
+{
+ "name": "Son Of Doge",
+ "website": "https://sonofdoge.website/",
+ "description": "Son of Doge first and foremost is a community driven project with the sole task of protecting the community, this is achieved by providing a safe environment for all. We aim to be an integral component to the BSC (Binance Smart Chain) stack of applications.",
+ "explorer": "https://bscscan.com/token/0xf078580015cdfaa849bdad8b38e72f5803c316c4",
+ "type": "BEP20",
+ "symbol": "SOD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xF078580015Cdfaa849BDAd8B38e72F5803C316c4"
+}
