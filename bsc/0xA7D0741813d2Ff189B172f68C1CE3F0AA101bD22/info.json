@@ -1,0 +1,11 @@
+{
+ "name": "SW",
+ "website": "http://web.swtoken.top/#/",
+ "description": "Blue Ocean Ecology is a comprehensive ecological finance jointly initiated by the Blue Whale Foundation and more than 100 communities around the world. The eight major ecosystems have continued from the first sector 1.0 DEFI to chain entities and chain malls, creating a true decentralization through the eight major ecosystems and global DAO organizations.",
+ "explorer": "https://bscscan.com/token/0xA7D0741813d2Ff189B172f68C1CE3F0AA101bD22",
+ "type": "BEP20",
+ "symbol": "SW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA7D0741813d2Ff189B172f68C1CE3F0AA101bD22"
+}
