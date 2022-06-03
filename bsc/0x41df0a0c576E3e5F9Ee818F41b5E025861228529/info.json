@@ -1,0 +1,11 @@
+{
+ "name": "ARS",
+ "website": "https://www.aresdao.cyou/h5/#/",
+ "description": "ARES decentralized community organization is the first open and inclusive meta universe ecological platform that fully integrated s DAO+DeFi in the industry.Its playing methods and revenue models are richer and more diversified than traditional platforms.Application base Web3.0 development,adhering to the shareholding of everyone,realizing complete decentralization,community autonomy,diversified platform contents and perfect mechanism for a long time. Supported by Spartan,Kyros,Guildfi and other investment institutions.",
+ "explorer": "https://bscscan.com/token/0x41df0a0c576e3e5f9ee818f41b5e025861228529",
+ "type": "BEP20",
+ "symbol": "ARS",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x41df0a0c576E3e5F9Ee818F41b5E025861228529"
+}
