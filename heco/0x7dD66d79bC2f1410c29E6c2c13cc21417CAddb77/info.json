@@ -1,0 +1,11 @@
+{
+ "name": "HOY Token",
+ "website": "https://hoydapp.github.io/#/",
+ "description": "HOY (Houyi Coin) is a global one-stop NFT service platform created by Rabbit Community, which is committed to combining blockchain technology with art collection innovation, and making art return to the masses.",
+ "explorer": "https://hecoinfo.com/token/0x7dd66d79bc2f1410c29e6c2c13cc21417caddb77",
+ "type": "HECO",
+ "symbol": "HOY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7dD66d79bC2f1410c29E6c2c13cc21417CAddb77"
+}
