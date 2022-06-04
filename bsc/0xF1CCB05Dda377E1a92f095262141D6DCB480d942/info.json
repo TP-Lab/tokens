@@ -1,0 +1,11 @@
+{
+ "name": "Fire Phoenix",
+ "website": "https://web.theiooo.com/",
+ "description": "The token is the value token and functional token circulating in the 'state' of the fire phoenix platform.",
+ "explorer": "https://bscscan.com/address/0xf1ccb05dda377e1a92f095262141d6dcb480d942",
+ "type": "BEP20",
+ "symbol": "THE",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xF1CCB05Dda377E1a92f095262141D6DCB480d942"
+}
