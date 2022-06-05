@@ -1,0 +1,11 @@
+﻿{
+ "name": "Ethiopoa",
+ "website": "https://t.me/Ethiopoa20",
+ "description": "A group of blockchain enthusiasts from Ethiopia launched a community governance token",
+ "explorer": "https://bscscan.com/address/0x51DCDCf63da11b683Cd5123fD16C7668BdcdE712",
+ "type": "BEP20",
+ "symbol": "ETH2.0",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x51DCDCf63da11b683Cd5123fD16C7668BdcdE712"
+}
