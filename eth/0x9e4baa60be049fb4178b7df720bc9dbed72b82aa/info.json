@@ -1,0 +1,11 @@
+{
+ "name": "AdventureCapital",
+ "website": "https://docs.acbventure.com",
+ "description": "Adventure Capital is a venture capital that re creates for the public and aims to promote the development of cross industry Web3 tools and technologies.",
+ "explorer": "https://etherscan.io/token/0x9e4baa60be049fb4178b7df720bc9dbed72b82aa",
+ "type": "ERC20",
+ "symbol": "ACB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9e4baa60be049fb4178b7df720bc9dbed72b82aa"
+}
