@@ -1,0 +1,11 @@
+{
+ "name": "DCE Token",
+ "website": "https://www.bitdcehk.net",
+ "description": "DCE is the only governance token in the global Eco-system of BitDCE. DCE will realize the interconnection of centralized Exchange "DCE" and decentralized Exchange "DCEx", which will be the bridge between the platform and members. With the development of the platform itself, DCE has vast value prospect.",
+ "explorer": "https://bscscan.com/token/0x2c96F9f68a782fE4df8440CFd2B3e7ADcDaddb41",
+ "type": "BEP20",
+ "symbol": "DCE",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x2c96F9f68a782fE4df8440CFd2B3e7ADcDaddb41"
+}
