@@ -1,0 +1,11 @@
+{ 
+"name": "CTC NFT",
+"website": "https://ctcdao.com/",
+"description": "American cultural tour coin foundation， cultural tour pass c omb in ed with block chain technology new boutique， charac terization， branding， the development of new business mo dels， to provide travelers with more ways to travel. but also a great att empt to connect block chain with ordinary people， igniting more people's dreams of wealth creation. ",
+"explorer": "https://bscscan.com/address/0xAE05d5928705e6a378a4DD5468813dF35E20B9A7",
+"type": "ERC721",
+"symbol": "CTC NFT",
+"decimals": 0,
+"status": "active",
+"id": "0xAE05d5928705e6a378a4DD5468813dF35E20B9A7"
+}
