@@ -1,0 +1,11 @@
+{ 
+"name": "Carbon Trading of Plant",
+"website": "https://www.forestsworld.com",
+"description": "Forest world is decentralized forest digital asset trading platform. CTOP is the platform token. ",
+"explorer": "https://bscscan.com/token/0x70FDd0d36535FB8Cff37020945f342f7320f4D44",
+"type": "BEP20",
+"symbol": "CTOP",
+"decimals": 18,
+"status": "active",
+"id": "0x70FDd0d36535FB8Cff37020945f342f7320f4D44"
+}
