@@ -1,0 +1,11 @@
+{
+ "name": "BFC",
+ "website": "https://www.bravefuture.finance/#/home",
+ "description": "BFC is the platform mother currency issued by the Brave Future Metaverse World (BFMW) based on the huge ecosystem, and it is also an ecological token and an equity token.",
+ "explorer": "https://www.bscscan.com/token/0xcA06f928aD1A64A5a55F210184399822544d8cC2",
+ "type": "BEP20",
+ "symbol": "BFC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xcA06f928aD1A64A5a55F210184399822544d8cC2"
+}
