@@ -1,0 +1,11 @@
+{
+"name": "T-DOGE",
+"website": "https://www.t-doge.top/",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0xF16C523fd3A255Cb4f1Dd073c6B16B267D5c7072",
+"type": "BEP20",
+"symbol": "T-DOGE",
+"decimals": 18,
+"status": "active",
+"id": "0xF16C523fd3A255Cb4f1Dd073c6B16B267D5c7072"
+}
