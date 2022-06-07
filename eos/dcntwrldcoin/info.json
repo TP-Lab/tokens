@@ -1,0 +1,11 @@
+{
+  "name": "DecentWorld Token",
+  "website": "www.decentworld.com",
+  "description": "A utility token of the digital real estate platform DecentWorld",
+  "explorer": "https://bloks.io/account/dcntwrldcoin",
+  "type": "EOS",
+  "symbol": "DWRLD",
+  "decimals": 4,
+  "status": "active",
+  "id": "dcntwrldcoin"
+}
