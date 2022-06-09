@@ -1,0 +1,11 @@
+{
+ "name": "HASH",
+ "website": "https://hp.hashpark.pro",
+ "description": "a advanced platform in the web3 world intending to bring more and more users into this park with wonderful experiance and expectation",
+ "explorer": "https://bscscan.com/token/0xf7082ea37a933bb329c0dc93f26cffd1da9d37cc",
+ "type": "BEP20",
+ "symbol": "HASH",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xf7082EA37a933BB329C0dc93f26CFfD1Da9D37CC"
+}
