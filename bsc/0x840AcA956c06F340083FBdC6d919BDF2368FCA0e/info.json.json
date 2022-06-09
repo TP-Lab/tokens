@@ -1,0 +1,11 @@
+{
+  "name": "AQUANEE",
+  "website": "https://aquanee.com/#/",
+  "description": "With 90% of its surface being ocean water, AQUANEE is home to the most uniquely advanced and intelligent life-forms, known as AQUA.",
+  "explorer": "https://bscscan.com/token/0x840aca956c06f340083fbdc6d919bdf2368fca0e",
+  "type": "BEP20",
+  "symbol": "AQDC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x840AcA956c06F340083FBdC6d919BDF2368FCA0e"
+}
