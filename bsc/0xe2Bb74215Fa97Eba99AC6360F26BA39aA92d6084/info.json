@@ -1,0 +1,11 @@
+{
+ "name": "BSC DAO",
+ "website": "-",
+ "description": "BSC DAO(DAO) is a highly autonomous, decentralized, fair and just ecological community.",
+ "explorer": "https://bscscan.com/token/0xe2Bb74215Fa97Eba99AC6360F26BA39aA92d6084",
+ "type": "BEP20",
+ "symbol": "DAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe2Bb74215Fa97Eba99AC6360F26BA39aA92d6084"
+}
