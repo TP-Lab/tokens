@@ -1,0 +1,11 @@
+{
+  "name": "BET DOGE",
+  "website": "https://www.betdoge.io",
+  "description": "BET DOGE Is A Social Experiment Project Of Crypto Lottery Protocol.",
+  "explorer": "https://bscscan.com/token/0x843789a32ef5f40872f3a403e6a1835276ddd0d3",
+  "type": "BEP20",
+  "symbol": "BETD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x843789a32Ef5f40872f3a403e6a1835276dDD0d3"
+}
