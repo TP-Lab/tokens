@@ -1,0 +1,11 @@
+{
+ "name": "FIFADoge Token",
+ "website": "https://www.FiFadoge.store",
+ "description": "A brand-new meme token on BSC (Bet to Earn) Created for TFWC2022",
+ "explorer": "https://bscscan.com/token/0x710874353eC01560763b9E8402B243B48C0645D7",
+ "type": "BEP20",
+ "symbol": "FIFADoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x710874353eC01560763b9E8402B243B48C0645D7"
+}
