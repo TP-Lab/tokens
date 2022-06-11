@@ -1,0 +1,11 @@
+{
+ "name": "BHI",
+ "website": "http://18.141.10.65/dapp/#/",
+ "description": "BHI is a digital world that everyone will participate in. It will be mapped to reality after running in the virtual world.",
+ "explorer": "https://bscscan.com/token/0xdEc17b486e0C280460E6c4e229BB881f630eF314",
+ "type": "BEP20",
+ "symbol": "BHI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdEc17b486e0C280460E6c4e229BB881f630eF314"
+}
