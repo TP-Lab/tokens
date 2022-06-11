@@ -1,0 +1,11 @@
+{
+ "name": "world cup",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BSC.",
+ "explorer": "https://bscscan.com/token/0xb6a2d99fdcf775c206cecb21eb1fd4eca1e14884",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xb6a2d99fdcf775c206cecb21eb1fd4eca1e14884"
+}
