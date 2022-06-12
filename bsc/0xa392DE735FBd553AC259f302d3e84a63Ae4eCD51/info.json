@@ -1,0 +1,11 @@
+{ 
+"name": "MICRO AIM",
+"website": "https://aims.finance",
+"description": "AIM is the ecological governance token of Metaverse socialfi, and it is also the value carrier of the Metaverse ecological capital community.",
+"explorer": "https://bscscan.com/address/0xa392DE735FBd553AC259f302d3e84a63Ae4eCD51",
+"type": "BEP20",
+"symbol": "AIM",
+"decimals": 18,
+"status": "active",
+"id": "0xa392DE735FBd553AC259f302d3e84a63Ae4eCD51"
+}
