@@ -1,0 +1,11 @@
+{
+    "name": "DMCToken",
+    "website": "https://dmc.beauty/",
+    "description": "Driven by the Dao organization, a dynamic and hard-working public chain token",
+    "explorer": "https://bscscan.com/token/0x947e47f01bf2f383ba4f6fca9cf7419ea8ea8936",
+    "type": "BEP20",
+    "symbol": "DMC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x947e47f01bF2f383Ba4F6FCa9cf7419eA8Ea8936"
+   }
