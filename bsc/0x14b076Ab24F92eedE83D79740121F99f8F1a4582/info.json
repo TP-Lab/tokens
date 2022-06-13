@@ -1,0 +1,11 @@
+{
+ "name": "NRG-DAO",
+ "website": "",
+ "description": "NRG-DAO is a consensus mechanism for cosmic energy.",
+ "explorer": "https://bscscan.com/token/0x14b076Ab24F92eedE83D79740121F99f8F1a4582",
+ "type": "BEP-20",
+ "symbol": "NRG-DAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x14b076Ab24F92eedE83D79740121F99f8F1a4582"
+}

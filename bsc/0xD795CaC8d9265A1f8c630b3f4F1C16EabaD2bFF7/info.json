@@ -1,0 +1,11 @@
+{
+ "name": "SAD Token",
+ "website": "https://tokenpocket.pro",
+ "description": "SAD is a cross-chain DeFi + NFT + meta ological protocol and infrastructure and also an open NFT ecosystem.Anyone can create an NFT, initiate NFT mining, auctions, and deals.",
+ "explorer": "https://bscscan.com/token/0xD795CaC8d9265A1f8c630b3f4F1C16EabaD2bFF7",
+ "type": "BEP20",
+ "symbol": "SAD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD795CaC8d9265A1f8c630b3f4F1C16EabaD2bFF7"
+}

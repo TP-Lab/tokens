@@ -1,0 +1,11 @@
+{ 
+"name": "Disney NFT",
+"website": "https://thewaltdisneycompany.com/",
+"description": "Disney Parks, Experiences and Products is the global hub that brings Disney’s stories, characters, and franchises to life through theme parks and resorts, cruise and vacation experiences, and consumer products—everything from toys to apparel, and books to video games. ",
+"explorer": "https://www.bscscan.com/address/0x77FD5538080A0E8DA15360CFb80F06b9614202b1",
+"type": "ERC721",
+"symbol": "Disney NFT",
+"decimals": 1,
+"status": "active",
+"id": "0x77FD5538080A0E8DA15360CFb80F06b9614202b1"
+}

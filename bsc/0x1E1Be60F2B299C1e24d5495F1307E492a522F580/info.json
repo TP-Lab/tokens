@@ -1,0 +1,11 @@
+{
+    "name": "YDJ",
+    "website": "https://ydj.app",
+    "description": "To be a catalyst for traditional industries and the new economy of blockchain. Through efficient underlying technology, traditional industries can take advantage of the advantages of blockchain, and at the same time, blockchain can truly be implemented and empower the real economy.",
+    "explorer": "https://bscscan.com/token/0x1E1Be60F2B299C1e24d5495F1307E492a522F580",
+    "type": "BEP20",
+    "symbol": "YDJ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1E1Be60F2B299C1e24d5495F1307E492a522F580"
+}

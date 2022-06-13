@@ -1,0 +1,11 @@
+{
+ "name": "TrustBeRich",
+ "website": "http://tbrback.com/",
+ "description": "TBR tokens are obtained by joining the TrustBeRich program using DOGE tokens. After joining, you will get a one-to-one TBR. The total circulation is 1 billion pieces, and each transfer is deflated by 5%, and the deflation ends after the supply chain reaches 10 million.",
+ "explorer": "https://bscscan.com/token/0x15BaDc0566af905C60095669A288Fc2301554a95",
+ "type": "BEP20",
+ "symbol": "TBR",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x15BaDc0566af905C60095669A288Fc2301554a95"
+}

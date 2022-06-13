@@ -1,0 +1,11 @@
+﻿{
+ "name": " Lightning Guild 闪电 (SDD)",
+ "website": "/",
+ "description": " Lightning Guild 闪电",
+ "explorer": "https://bscscan.com/token/0xC970886CB41Db33a89eF17BD474EE1bacA0bc391",
+ "type": "BEP20",
+ "symbol": "SDD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC970886CB41Db33a89eF17BD474EE1bacA0bc391"
+}
