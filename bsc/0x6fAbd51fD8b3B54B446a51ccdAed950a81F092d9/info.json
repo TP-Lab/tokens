@@ -1,0 +1,11 @@
+{ 
+"name": "JHT",
+"website": "https://bscscan.com/token/0x6fAbd51fD8b3B54B446a51ccdAed950a81F092d9",
+"description": "The aggregation alliance is committed to providing the most secure, transparent and long-term financial services for the majority of users. ",
+"explorer": "https://bscscan.com/token/0x6fAbd51fD8b3B54B446a51ccdAed950a81F092d9",
+"type": "BEP20",
+"symbol": "JHT",
+"decimals": 4,
+"status": "active",
+"id": "0x6fAbd51fD8b3B54B446a51ccdAed950a81F092d9"
+}
