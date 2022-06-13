@@ -1,0 +1,10 @@
+{
+ "name": "Interstellar Human",
+ "website": "https://starchain.finance/",
+ "description": "The Interstellar Human NFT is based on the ERC721 issuance of,the Star Chain sub-plan equity logo, with a global limit of 50,000 pieces.It is an equity token in the process of building a distributed human civilizatio.",
+ "explorer": "https://www.bscscan.com/token/0xf184d93D32501EA99d0C398CeCf0b79D439BE39D",
+ "type": "ERC721",
+ "symbol": "InterstellarHuman",
+ "status": "active",
+ "id": "0xf184d93D32501EA99d0C398CeCf0b79D439BE39D"
+}
