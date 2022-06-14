@@ -1,11 +1,11 @@
 {
- "name": "TRUTH",
- "website": "https://tokenpocket.pro",
- "description": "The original intention of the TRUTH DAO autonomous community was to build a free, democratic and decentralized DAO organization.",
- "explorer": "https://bscscan.com/token/0xffD3dD4B28836f799c70A1C9347e9F4A216225e0",
+ "name": "Five Elements Token",
+ "website": "https://wxlp.xyz",
+ "description": "Five Elements Token, a community token, contains elements of gold, wood, water, fire, and earth.",
+ "explorer": "https://bscscan.com/token/0x8caeb8c8fd472c23a67eeadbbf74edc94b393f99",
  "type": "BEP20",
- "symbol": "TRUTH",
- "decimals": 18,
+ "symbol": "WXLP",
+ "decimals": 2,
  "status": "active",
- "id": "0xffD3dD4B28836f799c70A1C9347e9F4A216225e0"
+ "id": "0x8caeb8c8fD472c23A67EEAdBBf74EDC94b393f99"
 }
