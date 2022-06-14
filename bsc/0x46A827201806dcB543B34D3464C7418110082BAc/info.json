@@ -1,0 +1,11 @@
+{
+ "name": "UUU",
+ "website": "http://uuu9.com/",
+ "description": "UUU is a meme based & decentralized community experiment in Binance Smart Chain.",
+ "explorer": "https://bscscan.com/token/0x46A827201806dcB543B34D3464C7418110082BAc",
+ "type": "BEP20",
+ "symbol": "UUU",
+ "decimals": 11,
+ "status": "active",
+ "id": "0x46A827201806dcB543B34D3464C7418110082BAc"
+}
