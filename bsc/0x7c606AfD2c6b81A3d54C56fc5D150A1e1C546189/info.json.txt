@@ -1,0 +1,11 @@
+{
+ "name": "Qatar national football team",
+ "website": "https://app.jswap.finance",
+ "description": "QFA means "Qatar" and is a commemorative coin for the 2022 World Cup.",
+ "explorer": "https://bscscan.com/token/0x7c606AfD2c6b81A3d54C56fc5D150A1e1C546189",
+ "type": "BEP20",
+ "symbol": "QFA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7c606AfD2c6b81A3d54C56fc5D150A1e1C546189"
+}
