@@ -1,0 +1,11 @@
+{
+ "name": "W Golden Rice",
+ "website": "heme.info",
+ "description": "WGME (W Golden Rice) Token",
+ "explorer": "https://hecoinfo.com/token/0xCF4bc894197AA56435D286B97beF0C453a42a3A5",
+ "type": "HRC-20",
+ "symbol": "WGME",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCF4bc894197AA56435D286B97beF0C453a42a3A5"
+}
