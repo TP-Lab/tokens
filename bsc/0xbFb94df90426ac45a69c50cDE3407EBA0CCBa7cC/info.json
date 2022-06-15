@@ -1,0 +1,11 @@
+{
+ "name": "PTE",
+ "website": "https://www.fspte.com/",
+ "description": "PTE-Picture landing application scenario.",
+ "explorer": "https://bscscan.com/token/0xbFb94df90426ac45a69c50cDE3407EBA0CCBa7cC",
+ "type": "BEP20",
+ "symbol": "PTE",
+ "decimals": 11,
+ "status": "active",
+ "id": "0xbFb94df90426ac45a69c50cDE3407EBA0CCBa7cC"
+}
