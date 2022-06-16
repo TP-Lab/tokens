@@ -1,0 +1,11 @@
+{ 
+"name": "Distributed Autonomous Organization",
+"website": "https://github.com/SatoshiIncognito/dao",
+"description": "The emergence of DAO means that people can choose organizational collaboration more freely and autonomously. It can maximize the efficiency and value transfer of the organization, which may promote human creativity and creation to achieve higher efficiency, thus forming a new business revolution.",
+"explorer": "https://bscscan.com/token/0xbD1Acf575eA0FCc3D98eA9F53D6C1Db43aC0659C",
+"type": "BEP20",
+"symbol": "DAO",
+"decimals": 18,
+"status": "active",
+"id": "0xbD1Acf575eA0FCc3D98eA9F53D6C1Db43aC0659C"
+}
