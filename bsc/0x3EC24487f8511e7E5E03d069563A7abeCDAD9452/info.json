@@ -1,0 +1,11 @@
+{
+    "name": "BNQ",
+    "website": "http://www.thebnq.com/",
+    "description": "BNQ Metaverse",
+    "explorer": "https://bscscan.com/address/0x3EC24487f8511e7E5E03d069563A7abeCDAD9452",
+    "type": "BEP20",
+    "symbol": "BNQ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3EC24487f8511e7E5E03d069563A7abeCDAD9452"
+  }
