@@ -1,0 +1,11 @@
+{
+	"name": "SUV",
+	"website": "http://sportuniverse.co/",
+	"description": "SPORTUNIVERSE IS A WEB 3 LIFESTYLE APP WITH SOCIAL-FI AND GAME-FI ELEMENTS PLAYERS CAN MAKE HANDSOME EARNINGS BY WALKING, SWIMMING, OR RIDING.",
+	"explorer": "https://bscscan.com/token/0x06f3910ff421902A839f737c46C830eeFAeef8F3",
+	"type": "BEP20",
+	"symbol": "SUV",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x06f3910ff421902A839f737c46C830eeFAeef8F3"
+   }
