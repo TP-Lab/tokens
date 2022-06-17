@@ -1,11 +1,11 @@
 {
- "name": "TRUTH",
- "website": "https://tokenpocket.pro",
- "description": "The original intention of the TRUTH DAO autonomous community was to build a free, democratic and decentralized DAO organization.",
- "explorer": "https://bscscan.com/token/0xffD3dD4B28836f799c70A1C9347e9F4A216225e0",
+ "name": "Timeverse Token",
+ "website": "https://www.timeverse.one/",
+ "description": "For the upcoming web 3.0 powered by Layer-0 blockchain powered by TimeVerse.",
+ "explorer": "https://bscscan.com/token/0xe871e9f01b9c8db188f31b298317e9d757f88908",
  "type": "BEP20",
- "symbol": "TRUTH",
- "decimals": 18,
+ "symbol": "TIVE	",
+ "decimals": 4,
  "status": "active",
- "id": "0xffD3dD4B28836f799c70A1C9347e9F4A216225e0"
+ "id": "0xE871e9f01B9C8DB188f31B298317E9D757f88908"
 }
