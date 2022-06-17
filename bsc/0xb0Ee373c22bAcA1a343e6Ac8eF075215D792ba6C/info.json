@@ -1,0 +1,11 @@
+{
+ "name": "SEVEN TOKEN",
+ "website": "https://sevenmeta.co/#/",
+ "description": "SEVEN TOKEN is the only one token that used in SEVEN META platform.And it is inspired by Digital Finance Chain - DFC token listed in Lbank, Defi game,Multi chain wallet - 7 Meta.",
+ "explorer": "https://bscscan.com/token/0xb0Ee373c22bAcA1a343e6Ac8eF075215D792ba6C",
+ "type": "BEP20",
+ "symbol": "SEVEN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb0Ee373c22bAcA1a343e6Ac8eF075215D792ba6C"
+}
