@@ -1,0 +1,11 @@
+{
+ "name": "DAO Hyperledger Omniverse",
+ "website": "https://www.dhoup.io/",
+ "description": "DHO is the only governance TOKEN of DAO Hyperledger Omniverse ecosystem. It takes DAO organization as the first strategic drive and uses blockchain technology to build a complete Web3.0 ecosystem application system. Deep layout in hyperledger, Quantum computing, NFT, Metasverse, gameFi, etc.",
+ "explorer": "https://etherscan.io/token/0x27c08EeDBf56Fb51aC5d13727d1c9476e2B5cd7B",
+ "type": "ERC20",
+ "symbol": "DHO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x27c08EeDBf56Fb51aC5d13727d1c9476e2B5cd7B"
+}
