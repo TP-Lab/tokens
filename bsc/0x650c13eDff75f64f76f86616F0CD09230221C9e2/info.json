@@ -1,0 +1,11 @@
+{
+ "name": "MCU",
+ "website": "-",
+ "description": "MCU platform pass,Through the continuous application of empowerment and consensus,Build the leading public chain of community autonomy",
+ "explorer": "https://bscscan.com/token/0x650c13eDff75f64f76f86616F0CD09230221C9e2",
+ "type": "BEP20",
+ "symbol": "MCU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x650c13eDff75f64f76f86616F0CD09230221C9e2"
+}
