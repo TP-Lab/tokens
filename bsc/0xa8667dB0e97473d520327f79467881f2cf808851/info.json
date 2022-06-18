@@ -1,0 +1,11 @@
+{
+ "name": "GHTKING",
+ "website": "ghtking.info",
+ "description": "GHTKING Token",
+ "explorer": "https://bscscan.com/token/0xa8667dB0e97473d520327f79467881f2cf808851",
+ "type": "BEP20",
+ "symbol": "GHTKING",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa8667dB0e97473d520327f79467881f2cf808851"
+}
