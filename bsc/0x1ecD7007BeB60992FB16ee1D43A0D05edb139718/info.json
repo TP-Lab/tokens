@@ -1,0 +1,11 @@
+{
+  "name": "Meta Channel Network",
+  "website": "https://bscscan.com/token/0x1ecD7007BeB60992FB16ee1D43A0D05edb139718",
+  "description": "Meta Channel Network",
+  "explorer": "https://bscscan.com/token/0x1ecD7007BeB60992FB16ee1D43A0D05edb139718",
+  "type": "BEP20",
+  "symbol": "MCN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1ecD7007BeB60992FB16ee1D43A0D05edb139718"
+}
