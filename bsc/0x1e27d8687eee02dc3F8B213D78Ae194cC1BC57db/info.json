@@ -1,0 +1,11 @@
+{
+ "name": "Cosmic Spirit Coin",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/address/0x1e27d8687eee02dc3F8B213D78Ae194cC1BC57db",
+ "type": "BEP20",
+ "symbol": "CSC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1e27d8687eee02dc3F8B213D78Ae194cC1BC57db"
+}
