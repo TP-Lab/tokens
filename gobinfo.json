@@ -1,0 +1,9 @@
+"name": "Goblin Token",
+ "website": "https://goblintown.wtf",
+ "description": "Goblin Town, a group of cute and ugly elves living in a corner town..",
+ "explorer": "https://bscscan.com/token/0x3b663D7F59038BEB8f5904E85E1Bc947FAc82BCE",
+ "type": "BEP20",
+ "symbol": "GOB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3b663D7F59038BEB8f5904E85E1Bc947FAc82BCE"
