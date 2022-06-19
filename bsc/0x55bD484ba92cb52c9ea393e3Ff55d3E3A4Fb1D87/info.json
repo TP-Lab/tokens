@@ -1,0 +1,11 @@
+{
+ "name": "DiscDoge",
+ "website": "https://discdoge.com/",
+ "description": "DiscDoge emphasizes social attributes and breaks down the barriers between people. DiscDoge puts social and sports at your fingertips.",
+ "explorer": "https://bscscan.com/token/0x55bd484ba92cb52c9ea393e3ff55d3e3a4fb1d87",
+ "type": "BEP20",
+ "symbol": "DDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x55bD484ba92cb52c9ea393e3Ff55d3E3A4Fb1D87"
+}
