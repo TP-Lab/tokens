@@ -1,0 +1,11 @@
+{
+ "name": "GoblinTOKEN",
+ "website": "https://goblintown.wtf",
+ "description": "Goblins, a group of cute and ugly elves, live in the virtual ecology of a corner town, and create an NFT application token.",
+ "explorer": "https://bscscan.com/token/0x3b663D7F59038BEB8f5904E85E1Bc947FAc82BCE",
+ "type": "BEP20",
+ "symbol": "GOB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3b663D7F59038BEB8f5904E85E1Bc947FAc82BCE"
+}
