@@ -1,11 +1,11 @@
-{ 
-"name": "Disney NFT",
-"website": "https://thewaltdisneycompany.com/",
-"description": "Disney Parks, Experiences and Products is the global hub that brings Disney’s stories, characters, and franchises to life through theme parks and resorts, cruise and vacation experiences, and consumer products—everything from toys to apparel, and books to video games. ",
-"explorer": "https://www.bscscan.com/address/0x77FD5538080A0E8DA15360CFb80F06b9614202b1",
-"type": "ERC721",
-"symbol": "Disney NFT",
-"decimals": 1,
-"status": "active",
-"id": "0x77FD5538080A0E8DA15360CFb80F06b9614202b1"
+{
+ "name": "GoblinTOKEN",
+ "website": "https://goblintown.wtf",
+ "description": "Goblins, a group of cute and ugly elves, live in the virtual ecology of a corner town, and create an NFT application token.",
+ "explorer": "https://bscscan.com/token/0x3b663D7F59038BEB8f5904E85E1Bc947FAc82BCE",
+ "type": "BEP20",
+ "symbol": "GOB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3b663D7F59038BEB8f5904E85E1Bc947FAc82BCE"
 }
