@@ -1,0 +1,11 @@
+{
+ "name": "CS Token",
+ "website": "https://www.cscoin.cc/",
+ "description": "CS is the legal currency of CS SWAP exchange. It is a one-stop decentralized ecological platform jointly launched and incubated by Linkedln Block Chain in the United Kingdom, Gabrielle in Russia, and Andino in Italy.",
+ "explorer": "https://bscscan.com/token/0x01cF962874FeB88FA2B4F8faF6DcD8c8072a0cFD",
+ "type": "BEP20",
+ "symbol": "CS",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x01cF962874FeB88FA2B4F8faF6DcD8c8072a0cFD"
+}
