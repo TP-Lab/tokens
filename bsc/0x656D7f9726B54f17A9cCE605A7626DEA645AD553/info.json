@@ -1,0 +1,11 @@
+{ 
+"name": "Racing Player One",
+"website": "https://github-bsc.gitbook.io/racingplayerone.whitepaper/",
+"description": "The number one racer is a blockchain racing game platform started by the Formula 1 Global Foundation and co-founded by Gameloft, the world's largest racing game company! Its purpose is to build the first brand of blockchain racing chain game and to dominate the blockchain racing world! To inherit the status of F1 king!",
+"explorer": "https://bscscan.com/token/0x656D7f9726B54f17A9cCE605A7626DEA645AD553",
+"type": "BEP20",
+"symbol": "RPO",
+"decimals": 18,
+"status": "active",
+"id": "0x656D7f9726B54f17A9cCE605A7626DEA645AD553"
+}
