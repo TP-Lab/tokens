@@ -1,0 +1,11 @@
+{
+ "name": "MCA Token",
+ "website": "https://www.mechamaster.io/",
+ "description": "The project is built under Binance Smart Chain which is expected to detonate the GameFi market on our new concept 'Stake-N-Play'.",
+ "explorer": "https://bscscan.com/token/0xdaEfC1560003dbc58DDF10C01567125EA5b76080",
+ "type": "BEP20",
+ "symbol": "MCA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdaEfC1560003dbc58DDF10C01567125EA5b76080"
+}
