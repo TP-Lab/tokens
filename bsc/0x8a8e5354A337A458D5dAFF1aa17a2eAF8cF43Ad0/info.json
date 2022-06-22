@@ -1,0 +1,11 @@
+{
+    "name": "GST",
+    "website": "https://www.gstheroes.space",
+    "description": "Galactic Heroes is a highly anticipated BSC chain game produced by American League Games",
+    "explorer": "https://bscscan.com/token/0x8a8e5354A337A458D5dAFF1aa17a2eAF8cF43Ad0",
+    "type": "BEP20",
+    "symbol": "GST",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8a8e5354A337A458D5dAFF1aa17a2eAF8cF43Ad0"
+}
