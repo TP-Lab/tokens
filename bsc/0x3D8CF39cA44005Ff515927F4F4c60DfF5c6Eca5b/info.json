@@ -1,0 +1,11 @@
+{
+"name": "Ant Finance Protocol Token",
+"website": "https://afpt.finance",
+"description": "Ant Finance Protocol Token",
+"explorer": "https://bscscan.com/token/0x3d8cf39ca44005ff515927f4f4c60dff5c6eca5b",
+"type": "BEP20",
+"symbol": "AFPT",
+"decimals": 18,
+"status": "active",
+"id": "0x3D8CF39cA44005Ff515927F4F4c60DfF5c6Eca5b"
+}
