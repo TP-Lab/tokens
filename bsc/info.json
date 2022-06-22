@@ -2,10 +2,10 @@
  "name": "Timeverse Token",
  "website": "https://www.timeverse.one/",
  "description": "For the upcoming web 3.0 powered by Layer-0 blockchain powered by TimeVerse.",
- "explorer": "https://bscscan.com/token/0xe871e9f01b9c8db188f31b298317e9d757f88908",
+ "explorer": "https://bscscan.com/token/0xb8A9549b4B60A0c02120a5E52a4Fd2231c50FE31",
  "type": "BEP20",
  "symbol": "TIVE	",
  "decimals": 4,
  "status": "active",
- "id": "0xE871e9f01B9C8DB188f31B298317E9D757f88908"
+ "id": "0xb8A9549b4B60A0c02120a5E52a4Fd2231c50FE31"
 }
