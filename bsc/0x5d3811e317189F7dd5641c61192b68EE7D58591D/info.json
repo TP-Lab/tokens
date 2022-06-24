@@ -1,0 +1,11 @@
+{
+ "name": "FAO",
+ "website": "https://bscscan.com/token/0x5d3811e317189F7dd5641c61192b68EE7D58591D",
+ "description": "FAO TOKEN.",
+ "explorer": "https://bscscan.com/token/0x5d3811e317189F7dd5641c61192b68EE7D58591D",
+ "type": "BEP20",
+ "symbol": "FAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5d3811e317189F7dd5641c61192b68EE7D58591D"
+}
