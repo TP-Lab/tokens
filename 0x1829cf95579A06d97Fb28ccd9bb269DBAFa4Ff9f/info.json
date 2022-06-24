@@ -1,0 +1,11 @@
+{
+"name": "AoncSwap",
+"website": "https://pancakeswap.finance",
+"description": "Excellent wallet, can be exchanged for a variety of wallets at PancakeSwap",
+"explorer": "https://bscscan.com/address/0x1829cf95579a06d97fb28ccd9bb269dbafa4ff9f",
+"type": "ERC20",
+"symbol": "AONC",
+"decimals": 18,
+"status": "active",
+"id": "0x1829cf95579A06d97Fb28ccd9bb269DBAFa4Ff9f"
+}
