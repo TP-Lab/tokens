@@ -1,0 +1,11 @@
+{
+  "name": "bnds",
+  "website": "http://mirofbsc.io",
+  "description": "BNDS is an encrypted virtual currency generated from the game process of MIR of BSC",
+  "explorer": "https://bscscan.com/token/0xA7e5730D5484571648C2e41cb6f93C1096EbD91C",
+  "type": "BEP20",
+  "symbol": "BNDS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xA7e5730D5484571648C2e41cb6f93C1096EbD91C"
+}
