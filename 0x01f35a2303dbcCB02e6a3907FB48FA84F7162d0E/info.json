@@ -1,0 +1,11 @@
+{
+ "name": "Noel empire coin",
+ "website": "http://nft.noelempire.online/home",
+ "description": "Best NFT Collection for Your Future.",
+ "explorer": "https://bscscan.com/token/0x01f35a2303dbcCB02e6a3907FB48FA84F7162d0E",
+ "type": "BEP20",
+ "symbol": "NEC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x01f35a2303dbcCB02e6a3907FB48FA84F7162d0E"
+}
