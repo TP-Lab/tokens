@@ -1,0 +1,11 @@
+{
+ "name": "MetaForest Token",
+ "website": "-",
+ "description": "MetaForest Token is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xc113165C0a9761eA2Db47a270Ec6733606853F65",
+ "type": "BEP20",
+ "symbol": "MFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc113165C0a9761eA2Db47a270Ec6733606853F65"
+}
