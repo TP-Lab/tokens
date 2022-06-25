@@ -1,0 +1,11 @@
+{
+ "name": "JKZHGreat health",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/address/0x01D56D92Be56507D1aa4Ff422c006779269F4871",
+ "type": "BEP20",
+ "symbol": "JKZH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x01D56D92Be56507D1aa4Ff422c006779269F4871"
+}
