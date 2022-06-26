@@ -1,0 +1,11 @@
+{
+ "name": "MixTrust Token",
+ "website": "https://mixtrust.exchange/",
+ "description": "Mixtrust is a decentralized synthetic asset issuance protocol based on Ethereum, and provides a decentralized cross-chain trading platform for synthetic asset transactions: seamless asset synthesis, decentralized cross-chain transactions, and cross-chain mortgage lending",
+ "explorer": "https://etherscan.io/token/0x6251e725cd45fb1af99354035a414a2c0890b929",
+ "type": "ERC20",
+ "symbol": "MXT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6251e725cd45fb1af99354035a414a2c0890b929"
+}
