@@ -1,0 +1,18 @@
+ {
+ "symbol": "MXT",
+  "address": "0x6251e725cd45fb1af99354035a414a2c0890b929",
+  "overview":{
+        "en": "Mixtrust is a decentralized synthetic asset issuance protocol based on Ethereum, and provides a decentralized cross-chain trading platform for synthetic asset transactions: seamless asset synthesis, decentralized cross-chain transactions, and cross-chain mortgage lending.",
+        "zh": ""
+  },
+  "email": "",
+  "website": "https://mixtrust.exchange/",
+  "whitepaper": "https://mixtrust.exchange/uploads/file/200923-1103.pdf",
+  "state": "NORMAL",
+  "published_on": "2020-07-09",
+  "links": {
+    "twitter": "https://twitter.com/MixtrustMXT",
+    "telegram": "https://t.me/MixtrustCommunity",
+    "medium": ""
+  }
+}
