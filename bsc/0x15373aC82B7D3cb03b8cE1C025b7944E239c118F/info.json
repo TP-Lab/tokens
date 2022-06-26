@@ -1,0 +1,11 @@
+{
+ "name": "No1SHIB",
+ "website": "-",
+ "description": "No1SHIB is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x15373aC82B7D3cb03b8cE1C025b7944E239c118F",
+ "type": "BEP20",
+ "symbol": "No1SHIB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x15373aC82B7D3cb03b8cE1C025b7944E239c118F"
+}
