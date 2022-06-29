@@ -1,0 +1,11 @@
+{
+ "name": "TBT",
+ "website": "https://web.tpttoken.top/",
+ "description": "TBT is a blockchain fund that promotes the digitization of global artworks. It uses the latest NFT technology to digitize artworks and protect them by distributed storage.",
+ "explorer": "https://bscscan.com/token/0x28127e8fb3d5f23f392e5bfe0b3a369b94a99918",
+ "type": "BEP20",
+ "symbol": "TBT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x28127e8fb3d5f23f392e5bfe0b3a369b94a99918"
+}
