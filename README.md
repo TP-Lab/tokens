@@ -9,6 +9,7 @@ According to the DAO, the donation amount for a logo update has been updated to 
 
 ### How to submit 
 token logo submission：https://tphelp.gitbook.io/en/wallet-operation/how-to-submit-a-token-logo
+
 nft logo submission：https://help.tokenpocket.pro/en/developer/nft
 
 
@@ -24,5 +25,6 @@ nft logo submission：https://help.tokenpocket.pro/en/developer/nft
 
 ### 怎么提交
 代币Logo提交：https://tphelp.gitbook.io/cn/wallet-operation/submit-token
+
 NFTlogo提交：https://help.tokenpocket.pro/cn/developer/NFT
 
