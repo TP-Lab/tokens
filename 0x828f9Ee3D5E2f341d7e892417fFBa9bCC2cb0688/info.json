@@ -1,11 +1,11 @@
 {
- "name": "Diamond DAO",
+ "name": "Tether USD",
  "website": "no",
  "description": " no",
  "explorer": "https://bscscan.com/0x828f9Ee3D5E2f341d7e892417fFBa9bCC2cb0688",
  "type": "BEP20",
- "symbol": "Diamond",
- "decimals": 18,
+ "symbol": "USDT",
+ "decimals": 6,
  "status": "active",
  "id": "0x828f9Ee3D5E2f341d7e892417fFBa9bCC2cb0688"
 }
