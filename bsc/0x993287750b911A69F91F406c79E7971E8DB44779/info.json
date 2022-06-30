@@ -1,0 +1,11 @@
+{
+"name": "AoncSwap",
+"website": "https://tokenpocket.pro",
+"description": "This is an excellent wallet",
+"explorer": "https://bscscan.com/address/0x993287750b911A69F91F406c79E7971E8DB44779",
+"type": "BEP20",
+"symbol": "AONC",
+"decimals": 18,
+"status": "active",
+"id": "0x993287750b911A69F91F406c79E7971E8DB44779"
+}
