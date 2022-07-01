@@ -1,0 +1,11 @@
+{
+ "name": "BCS",
+ "website": "https://black.blockcode.info",
+ "description": "Blockcode Token.",
+ "explorer": "https://bscscan.com/token/0xc9526ef09887b474b3e726aa1cec6bf0dde4d47d",
+ "type": "BEP20",
+ "symbol": "BCS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC9526eF09887B474b3E726aA1cec6Bf0ddE4D47d"
+}
