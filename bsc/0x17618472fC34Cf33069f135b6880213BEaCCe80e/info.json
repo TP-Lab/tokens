@@ -1,0 +1,11 @@
+{
+  "name": "princess    Token",
+  "website": "https://AOAO.com",
+  "description": "BSC",
+  "explorer": "https://bscscan.com/address/0x17618472fC34Cf33069f135b6880213BEaCCe80e",
+  "type": "BEP20",
+  "symbol": "AOAO ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x17618472fC34Cf33069f135b6880213BEaCCe80e"
+}
