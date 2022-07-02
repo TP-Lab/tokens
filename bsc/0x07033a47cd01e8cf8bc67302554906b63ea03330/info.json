@@ -1,0 +1,11 @@
+{
+ "name": "LemonDAO",
+ "website": "https://lemondao.top/",
+ "description": "A BSC-based lemon-themed cultural project.",
+ "explorer": "https://bscscan.com/token/0x07033a47cd01e8cf8bc67302554906b63ea03330",
+ "type": "BEP20",
+ "symbol": "LEMON",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x07033a47cd01e8cf8bc67302554906b63ea03330"
+}
