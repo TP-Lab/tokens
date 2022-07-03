@@ -1,0 +1,11 @@
+{
+  "name": "Sleep Care",
+  "website": "https://sleepcare.io",
+  "description": "Sleep Care is the next blockchain-based Sleep-to-earn application on BSC that aims to improve the global community's sleep quality and help them earn money at the same time.",
+  "explorer": "https://bscscan.com/address/0x569fdf3326a785f8F9cfcA7dA3594DDdf74aD04C",
+  "type": "BEP20",
+  "symbol": "SLEEP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x569fdf3326a785f8F9cfcA7dA3594DDdf74aD04C"
+}
