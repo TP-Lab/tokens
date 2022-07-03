@@ -1,0 +1,11 @@
+{
+ "name": "OPP Token",
+ "website": "https://openprotocol.vip",
+ "description": "Open Protocol是一种新的金融协议，以可持续的固定复利模型奖励用户，提供高额的固定APY，每15分钟支付一次，以及一个简单的买入持有收益系统，可以快速增加您钱包中的资产。固定利率为每天1%或每年3,778.34%，而您无需做任何事情。",
+ "explorer": "https://bscscan.com/address/0x5992bcd0145F8a7BcD5A1CC12138964Bba08cb1E",
+ "type": "BSC",
+ "symbol": "OPP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5992bcd0145F8a7BcD5A1CC12138964Bba08cb1E"
+}
