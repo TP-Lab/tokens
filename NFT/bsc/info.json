@@ -1,0 +1,11 @@
+{
+ "name": "LegendHeroNFT",
+ "website": "https://www.legendfront.com",
+ "description": "Legend front is an e-sports game that integrates many new technologies and concepts such as blockchain, encryption economy and metauniverse.",
+ "explorer": "https://bscscan.com/token/0x054eddf9af1bff80286b2c27c64baa0c8e94ce08",
+ "type": "ERC721",
+ "symbol": "LegendHeroNFT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x054eDDF9Af1Bff80286B2c27c64bAa0C8E94ce08"
+}
