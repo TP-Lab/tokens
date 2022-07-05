@@ -1,0 +1,9 @@
+ "name": "DN",
+ "website": "http://dnqkl.xyz/",
+ "description": "A decentralized token on the BNB Chain.",
+ "explorer": "https://bscscan.com/token/0x9c6AFE29e615b80FC1820413B82A4d1CCD6A91c9",
+ "type": "BEP20",
+ "symbol": "DN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9c6AFE29e615b80FC1820413B82A4d1CCD6A91c9"
