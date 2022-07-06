@@ -1,0 +1,11 @@
+{
+ "name": "The Lighthouse",
+ "website": "https://www.marquisatdesaintcyprien.org/",
+ "description": "THL is the token of the Saint Cyprien fundation",
+ "explorer": "https://bscscan.com/token/0xbf6125de847ee303494f2e62a55f65f492aabdd6",
+ "type": "BEP20",
+ "symbol": "TLH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBf6125dE847eE303494F2E62a55F65F492aabDd6"
+}
