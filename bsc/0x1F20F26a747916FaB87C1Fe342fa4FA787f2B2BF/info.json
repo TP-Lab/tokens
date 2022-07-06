@@ -1,0 +1,11 @@
+{
+ "name": "LITE USD",
+ "website": "https://liteusd.com/",
+ "description": "Lusd is a kind of asset backed stable currency with soft anchor dollar. Its issuance is decentralized and non discriminatory.",
+ "explorer": "https://www.bscscan.com/token/0x1F20F26a747916FaB87C1Fe342fa4FA787f2B2BF",
+ "type": "BEP20",
+ "symbol": "LUSD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1F20F26a747916FaB87C1Fe342fa4FA787f2B2BF"
+}
