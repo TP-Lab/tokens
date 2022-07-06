@@ -1,0 +1,11 @@
+{
+ "name": "EGNToken",
+ "website": "http://mingyanghonglv.com/",
+ "description": "such as role-playing, experiential research, red movies, etc., to create a Long March tour",
+ "explorer": "https://bscscan.com/token/0x312104384dD59fab22506fE6A61736EE75d94C9E",
+ "type": "BEP20",
+ "symbol": "EGN",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x312104384dD59fab22506fE6A61736EE75d94C9E"
+} 
