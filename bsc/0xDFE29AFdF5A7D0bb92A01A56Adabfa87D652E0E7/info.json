@@ -1,0 +1,11 @@
+{
+    "name":"Optimus",
+    "website":"https://www.optimustesla.io/",
+    "description":"Optimus, a Tesla meme and NFT-Fi project founded by early Tesla Stock holders, with the love for Elon.",
+    "explorer":"https://bscscan.com/token/0xdfe29afdf5a7d0bb92a01a56adabfa87d652e0e7",
+    "type":"BEP20",
+    "symbol":"OPT",
+    "decimals":9,
+    "status":"active",
+    "id":"0xDFE29AFdF5A7D0bb92A01A56Adabfa87D652E0E7"
+}
