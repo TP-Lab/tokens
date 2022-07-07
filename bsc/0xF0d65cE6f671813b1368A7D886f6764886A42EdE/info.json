@@ -1,0 +1,11 @@
+{
+ "name": "Tomato",
+ "website": "https://tomatotoken.club",
+ "description": "Tomato, a digital pass issued based on BSC Coin Smart Chain, has a variety of features such as value-added, payment and circulation. Tomato outlines a comprehensive ecological body such as DEFI, chain tour, meta-universe, NFT and social.",
+ "explorer": "https://bscscan.com/address/0xF0d65cE6f671813b1368A7D886f6764886A42EdE",
+ "type": "BEP20",
+ "symbol": "Tomato",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xF0d65cE6f671813b1368A7D886f6764886A42EdE"
+}
