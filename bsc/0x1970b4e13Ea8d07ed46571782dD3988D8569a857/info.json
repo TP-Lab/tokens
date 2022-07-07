@@ -1,0 +1,10 @@
+    "name": "DarkLight Gold",
+    "website": "https://darklight.finance",
+    "description": "DarkLight is a P2E game based on BSC with an advanced economic model and unique gaming experience.",
+    "explorer": "https://bscscan.com/token/0x1970b4e13Ea8d07ed46571782dD3988D8569a857",
+    "type": "BEP20",
+    "symbol": "DLT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1970b4e13Ea8d07ed46571782dD3988D8569a857"
+}
