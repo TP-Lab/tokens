@@ -1,0 +1,11 @@
+{ 
+ "name": "KAWAII ",
+ "website": "https://kawaiibsc.io/",
+ "description": "Nft project recruting 100 artists to create authentic Japanese art in the blockchain",
+ "explorer": "https://bscscan.com/token/0x909DC42f8e20cb02765F877ba988dE7cf0f9170B",
+ "type": "BEP20",
+ "symbol": "KAWAII",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x909DC42f8e20cb02765F877ba988dE7cf0f9170B"
+}
