@@ -1,0 +1,11 @@
+{
+ "name": "DiamondApe Token",
+ "website": "https://twitter.com/diamondapedefi",
+ "description": "The value of Diamond Ape comes from everyone's consensus!",
+ "explorer": "https://bscscan.com/address/0xa38DB797ff1170f7489eEe6d903C43f5CBCe1c7b",
+ "type": "BEP20",
+ "symbol": "DAPE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa38DB797ff1170f7489eEe6d903C43f5CBCe1c7b"
+}
