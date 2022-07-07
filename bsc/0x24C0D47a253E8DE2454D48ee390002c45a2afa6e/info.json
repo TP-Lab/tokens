@@ -1,0 +1,11 @@
+{
+"name": "Time Token",
+"website": "http://timemvs.vip/dapp",
+"description": "Time, based on BSC, creates a completely decentralized meta cosmic ecosystem that maps real life with quantum space-time as the core concept. In time metaverse, everyone is a participant and creator. Time is a brand-new meta cosmic space-time order, creating a real and virtual exchange. Through the continuous development and breakthrough of meta cosmic ecological technologies such as VR or AR, time is bound to become a representative of the perfect presentation of real life.",
+"explorer": "https://www.bscscan.com/token/0x24C0D47a253E8DE2454D48ee390002c45a2afa6e",
+"type": "BEP20",
+"symbol": "Time",
+"decimals": 18,
+"status": "active",
+"id": "0x24C0D47a253E8DE2454D48ee390002c45a2afa6e"
+}
