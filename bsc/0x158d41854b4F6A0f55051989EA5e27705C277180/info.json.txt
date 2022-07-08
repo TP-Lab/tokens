@@ -1,0 +1,11 @@
+{
+"name": "MXM GameFi",
+"website": "https://www.mxmtoken.com",
+"description": "What is MXM? He is an innovative decentralized public chain of chain games.",
+"explorer": "https://bscscan.com/token/0x158d41854b4F6A0f55051989EA5e27705C277180",
+"type": "BEP20",
+"symbol": "MXM",
+"decimals": 18,
+"status": "active",
+"id": "0x158d41854b4F6A0f55051989EA5e27705C277180"
+}
