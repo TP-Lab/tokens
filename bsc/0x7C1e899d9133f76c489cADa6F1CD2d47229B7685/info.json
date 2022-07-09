@@ -1,0 +1,11 @@
+{
+ "name": "STAR",
+ "website": "https://www.planetstarnft.com",
+ "description": "Planet Alliance is the leading blockchain project that integrate astronomy in NFT and metaverse. It governance by STAR DAO token that utilise unique DeFi mechanism that introduce energy pool which will constantly buy back and burn STAR to ensure sustainable ecosystem.",
+ "explorer": "https://bscscan.com/token/0x7C1e899d9133f76c489cADa6F1CD2d47229B7685",
+ "type": "BEP20",
+ "symbol": "STAR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7C1e899d9133f76c489cADa6F1CD2d47229B7685"
+}
