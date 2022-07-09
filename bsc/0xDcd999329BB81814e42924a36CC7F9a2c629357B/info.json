@@ -1,0 +1,11 @@
+{
+ "name": "UnionDAO",
+ "website": "https://www.uniondao.tech/",
+ "description": "UnionDAO initially issued 10000000, deflated to 1000000! Community autonomy decentralized defi project.",
+ "explorer": "https://bscscan.com/token/0xDcd999329BB81814e42924a36CC7F9a2c629357B",
+ "type": "BEP20",
+ "symbol": "UnionDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDcd999329BB81814e42924a36CC7F9a2c629357B"
+}
