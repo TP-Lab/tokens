@@ -1,0 +1,11 @@
+{
+ "name": "GFA",
+ "website": "https://bscscan.com/token/0xb274783C35B56FC64d00E2B2d135be7C91d54D32",
+ "description": "GFA TOKEN.",
+ "explorer": "https://bscscan.com/token/0xb274783C35B56FC64d00E2B2d135be7C91d54D32",
+ "type": "BEP20",
+ "symbol": "GFA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb274783C35B56FC64d00E2B2d135be7C91d54D32"
+}
