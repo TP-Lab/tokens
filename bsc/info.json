@@ -1,11 +1,11 @@
 {
- "name": "OPENFIRE",
- "website": "https://openfire.plus",
- "description": "OPENFIRE is the next generation of virtualized permeable Internet application platform and digital creation of full index, which creates a 1:1 interaction between the real world and the real world, and affects the real world and the earth through the whole society.",
- "explorer": "https://bscscan.com/token/0xa6660E62c223Df2D9Aff0Ba188f1371087fa3Dd6",
+ "name": "Metazodiac",
+ "website": "http://metazodiac.co",
+ "description": "MW is an ecological governance token issued by Binance Smart Chain for Meta World DAO to implement Meta Universe Meta Law concept. MW holders can pledge their tokens to participate in key governance votes for all projects in the Meta World ecosystem, such as trading, investing, voting, funding, etc. So MW is governance and equity proof in Meta World's ecology.",
+ "explorer": "https://bscscan.com/address/0x154d746794449B6CF534FA11A2Cf7FfF5C968977",
  "type": "BEP20",
- "symbol": "OFEO",
+ "symbol": "MW",
  "decimals": 18,
  "status": "active",
- "id": "0xa6660E62c223Df2D9Aff0Ba188f1371087fa3Dd6"
+ "id": "0x154d746794449B6CF534FA11A2Cf7FfF5C968977"
 }
