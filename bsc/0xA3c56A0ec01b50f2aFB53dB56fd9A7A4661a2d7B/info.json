@@ -1,0 +1,11 @@
+{
+ "name": "À×´ï±Ò",
+ "website": "-",
+ "description": "VBC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xA3c56A0ec01b50f2aFB53dB56fd9A7A4661a2d7B",
+ "type": "BEP20",
+ "symbol": "VBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA3c56A0ec01b50f2aFB53dB56fd9A7A4661a2d7B"
+}
