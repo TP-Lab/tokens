@@ -1,0 +1,11 @@
+{
+ "name": "EAE",
+ "website": "http://eaglenft.top",
+ "description": "神鹰Eagle由于AEC资本发起，CEO托迪·凯利Todd Kelly加州著名区块链资深专家，具有很丰富的区块经验，和我们知名500强企业华为集团总裁有着很好的5G互联网合作密切关系，倾力打造的三大生态赋能超级DAO结合新金融wed3.0协议（行情终端、SWAP、元宇宙应用通过100U铸造1000EAE代币作为生态流通唯一通证）",
+ "explorer": "https://bscscan.com/token/0x275De2634d5cC48e83468Ee81198fD76e44D8917",
+ "type": "BEP20",
+ "symbol": "EAE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x275De2634d5cC48e83468Ee81198fD76e44D8917"
+}
