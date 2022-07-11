@@ -1,0 +1,11 @@
+{
+  "name": "PHT    Token",
+  "website": "https://PHT.com",
+  "description": "BSC",
+  "explorer": "https://bscscan.com/address/0x2D136b1F830Ef58Ba66ED2dDa910854480Cbf0f9",
+  "type": "BEP20",
+  "symbol": "PHT  ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2D136b1F830Ef58Ba66ED2dDa910854480Cbf0f9"
+}
