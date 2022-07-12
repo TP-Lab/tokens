@@ -1,0 +1,11 @@
+{
+	"name": "Messenger of Peace",
+	"website": "http://messengerpeace.com",
+	"description": "Lay flat together world peace.",
+	"explorer": "https://bscscan.com/token/0x03B56A89c1aEaA2Ce67AbCD03e51E451c1473D60",
+	"type": "BEP20",
+	"symbol": "MOP",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x03B56A89c1aEaA2Ce67AbCD03e51E451c1473D60"
+   }
