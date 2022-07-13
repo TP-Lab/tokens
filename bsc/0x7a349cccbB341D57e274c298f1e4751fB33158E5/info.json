@@ -1,0 +1,11 @@
+﻿{
+ "name": "AMO",
+ "website": "https://dayofrights.co",
+ "description": "Day of Rights is the forerunner of artistic NFT assets,Has a strong senior creative team, technical team and marketing team.Day of rights believes that the value of NFT is maximized in the world of Web3.0, in the world of the metaverse!",
+ "explorer": "https://bscscan.com/address/0x7a349cccbB341D57e274c298f1e4751fB33158E5",
+ "type": "BEP20",
+ "symbol": "AMO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7a349cccbB341D57e274c298f1e4751fB33158E5"
+}
