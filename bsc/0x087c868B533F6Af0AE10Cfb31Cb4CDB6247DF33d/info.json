@@ -1,0 +1,11 @@
+﻿{
+ "name": "BIN",
+ "website": "https://dayofrights.co",
+ "description": "Day of Rights is the forerunner of artistic NFT assets,Has a strong senior creative team, technical team and marketing team.Day of rights believes that the value of NFT is maximized in the world of Web3.0, in the world of the metaverse!",
+ "explorer": "https://bscscan.com/address/0x087c868B533F6Af0AE10Cfb31Cb4CDB6247DF33d",
+ "type": "BEP20",
+ "symbol": "BIN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x087c868B533F6Af0AE10Cfb31Cb4CDB6247DF33d"
+}
