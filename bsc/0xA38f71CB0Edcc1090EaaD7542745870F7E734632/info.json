@@ -1,7 +1,7 @@
 {
     "name": "Gold Saints",
     "website": "http://saints.finance",
-    "description": "DAO是一个专业的去中心化游戏聚合器(代币GSS),植根于传统金融和它长久以来的信任机制,在火爆的GameFi浪潮中应运而生,是各种文化理念、结合这个时代现象级的应用开发技术聚集的社区,通过趋势性的价值互联网体系建立秩序,并由共识群体赋能这个生态系统(SAINTSECOLOGY)的价值采用的“边玩边赚”的游戏方式。该模型包含开放经济概念，打造一个公开、公正、可追溯、分布式、透明、可信的全新型去中心化游戏聚合生态平台。",
+    "description": "GSS is dedicated to creating an open, fair, traceable, distributed, transparent and credible new decentralized game aggregation ecological platform.",
     "explorer": "https://bscscan.com/address/0xa38f71cb0edcc1090eaad7542745870f7e734632",
     "type": "BEP20",
     "symbol": "GSS",
