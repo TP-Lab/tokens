@@ -1,7 +1,7 @@
 {
  "name": "Big Bang Token",
  "website": "https://bbgdex.github.io",
- "description": "BigBang的平臺治理代幣BBG的總量為2100萬枚，其中1%預挖用於提供初始流動池，剩餘的99%約21年挖礦產出。 首日出礦1800枚，每日遞增10枚，180日减半。 BBG屬於ERC20交易通縮型代幣，Swap賣出交易銷毀5%去黑洞地址，點對點轉帳不受限制。平臺將以聚合交易為依託，發揮DeFi樂高的可組合型，逐步上線NFT交易、GameFi、DAO治理等一系列創新性衍生品，為用戶提供更加豐富、更加便捷、更加安全的產品， 致力於打造一站式去中心化聚合交易系統。",
+ "description": "BigBang's total platform governance token BBG is 21 million, of which 1% is pre-mined to provide the initial flow pool, and the remaining 99% is mined for about 21 years.",
  "explorer": "https://bscscan.com/token/0x8ecFfe1434C9B5290Aaf1C94F754E0aAfdfB2acb",
  "type": "BEP20",
  "symbol": "BBG",
