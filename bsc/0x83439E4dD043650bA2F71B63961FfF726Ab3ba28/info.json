@@ -1,0 +1,11 @@
+{
+ "name": "Blue Ribbon",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x83439E4dD043650bA2F71B63961FfF726Ab3ba28",
+ "type": "BEP20",
+ "symbol": "BRB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x83439E4dD043650bA2F71B63961FfF726Ab3ba28"
+}
