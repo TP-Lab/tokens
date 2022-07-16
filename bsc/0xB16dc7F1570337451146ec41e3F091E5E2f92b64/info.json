@@ -1,0 +1,11 @@
+{
+ "name": "Moon Man",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xB16dc7F1570337451146ec41e3F091E5E2f92b64",
+ "type": "BEP20",
+ "symbol": "Moon Man",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xB16dc7F1570337451146ec41e3F091E5E2f92b64"
+}
