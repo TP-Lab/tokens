@@ -1,0 +1,11 @@
+{
+ "name": "TX",
+ "website": "no",
+ "description": " no",
+ "explorer": "https://bscscan.com/0x525f77e01825c67266dafe7387e8fa710c888888",
+ "type": "BEP20",
+ "symbol": "TX",
+ "decimals": 18,
+ "status": "not open yet",
+ "id": "0x525f77e01825c67266dafe7387e8fa710c888888"
+}
