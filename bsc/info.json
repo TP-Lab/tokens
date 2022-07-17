@@ -1,0 +1,11 @@
+{
+ "name": "Palm Game Token",
+ "website": "https://twitter.com/PalmGameDAO",
+ "description": "Palm Game is a decentralised Web3 gaming infrastructure built on blockchain.",
+ "explorer": "https://www.bscscan.com/token/0xA68A47e006588B125921E27c864d155D0afac0bf",
+ "type": "BEP20",
+ "symbol": "PGDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA68A47e006588B125921E27c864d155D0afac0bf"
+}
