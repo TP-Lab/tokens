@@ -1,0 +1,11 @@
+{ 
+"name": "PRO TOKEN",
+"website": "https://fstswap.exchange/#/swap",
+"description": "PRO is located in Fstswap, helping Osk, ten thousand times ecology, glad you can see him.. ",
+"explorer": "https://bscscan.com/token/0xfde9e9aa8f00f208805820ff3278d891129e8157",
+"type": "BEP20",
+"symbol": "PRO",
+"decimals": 18,
+"status": "Fstswap",
+"id": "0xfde9e9aa8f00f208805820ff3278d891129e8157"
+}
