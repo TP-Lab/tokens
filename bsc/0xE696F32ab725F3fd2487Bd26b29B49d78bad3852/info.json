@@ -1,0 +1,11 @@
+{
+    "name": "World Treasure Organization",
+    "website": "https://www.metaverse-treasures.org/",
+    "description": "WTO token is launched by Metaverse Treasures, a Cayman-based company. We have a huge collection of ancient artifacts dating back to as early as neolithic age in history.  The purpose of this project is to use the proceeds from WTO token sales to fund our operation in artifact preservation, research & education. Apart from the two museums we currently operate, we also plan to use the proceeds to build more museums including one immersive virtual museum. Metaverse Treasures plans to revolutionize the auction industry by building a first-ever decentralized auction platform on the blockchain where transactions take place seamlessly between sellers and buyers in real time.",
+    "explorer": "https://bscscan.com/token/0xE696F32ab725F3fd2487Bd26b29B49d78bad3852",
+    "type": "BEP20",
+    "symbol": "WTO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE696F32ab725F3fd2487Bd26b29B49d78bad3852"
+}
