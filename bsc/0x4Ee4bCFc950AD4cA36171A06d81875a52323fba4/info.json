@@ -1,0 +1,11 @@
+{
+ "name": "FIET Token",
+ "website": "https://fietswap.com/",
+ "description": "Fiet Defi ® Team Token.",
+ "explorer": "https://bscscan.com/token/0x4Ee4bCFc950AD4cA36171A06d81875a52323fba4",
+ "type": "BEP20",
+ "symbol": "FIET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4Ee4bCFc950AD4cA36171A06d81875a52323fba4"
+}
