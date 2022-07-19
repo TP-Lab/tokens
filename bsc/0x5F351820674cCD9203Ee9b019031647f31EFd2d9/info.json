@@ -1,0 +1,11 @@
+{
+  "name": "TIGER",
+  "website": "https://foresttiger.pro/",
+  "description": "TIGER",
+  "explorer": "https://bscscan.com/address/0x5F351820674cCD9203Ee9b019031647f31EFd2d9",
+  "type": "BEP20",
+  "symbol": "TIGER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5F351820674cCD9203Ee9b019031647f31EFd2d9"
+}
