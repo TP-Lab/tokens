@@ -1,0 +1,11 @@
+{
+ "name": "TaxiToken",
+ "website": "-",
+ "description": "TaxiToken is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x956D729B68a2f7d74233aEaaff57c75D94d2a4B6",
+ "type": "BEP20",
+ "symbol": "TAXI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x956D729B68a2f7d74233aEaaff57c75D94d2a4B6"
+}
