@@ -5,7 +5,7 @@
  "explorer": "https://bscscan.com/token/0x53A6D980F98009428044e55f55D7486f3518D612",
  "type": "BEP20",
  "symbol": "SMC",
- "decimals": 4,
+ "decimals": 18,
  "status": "active",
  "id": "0x53A6D980F98009428044e55f55D7486f3518D612"
 }
