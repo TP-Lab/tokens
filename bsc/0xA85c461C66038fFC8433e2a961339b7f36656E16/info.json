@@ -1,0 +1,11 @@
+{
+    "name": "Create ",
+    "website": "https://www.ctcreate.co",
+    "description": "Hero Continent, Metaverse game currency, used for game consumption and trading.",
+    "explorer": "https://bscscan.com/token/0xA85c461C66038fFC8433e2a961339b7f36656E16",
+    "type": "BEP20",
+    "symbol": "CT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xA85c461C66038fFC8433e2a961339b7f36656E16"
+}
