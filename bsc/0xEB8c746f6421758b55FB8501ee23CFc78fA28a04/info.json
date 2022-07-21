@@ -1,0 +1,11 @@
+{
+ "name": "Electric Vehicles Service",
+ "website": "https://evs.evaio.info",
+ "description": "Vehicle mileage data points.",
+ "explorer": "https://bscscan.com/token/0xeb8c746f6421758b55fb8501ee23cfc78fa28a04",
+ "type": "BEP20",
+ "symbol": "EVS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEB8c746f6421758b55FB8501ee23CFc78fA28a04"
+}
