@@ -1,0 +1,15 @@
+{
+ "name": "Token ROU",
+ "website": "https://www.stormmetaverse.io/",
+ "description": "A game of blockchain,raise of universe take rou as its Token",
+ "explorer": "https://bscscan.com/token/0x450265751d11e3295734a3738a30f27a079c3420",
+ "type": "BEP20",
+ "symbol": "ROU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x450265751d11e3295734A3738A30f27a079C3420"
+}
+
+
+
+
