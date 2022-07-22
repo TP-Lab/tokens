@@ -1,0 +1,11 @@
+{
+ "name": "SAFE",
+ "website": "-",
+ "description": "A decentralized cross-chain NFT network for Web3",
+ "explorer": "https://bscscan.com/token/0xCe0629159e488BB0483ECA1C44611e491A22761C",
+ "type": "BEP20",
+ "symbol": "SAFE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCe0629159e488BB0483ECA1C44611e491A22761C"
+}
