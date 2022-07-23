@@ -1,0 +1,11 @@
+{
+ "name": "WZGL2",
+ "website": "https://wzgl.me",
+ "description": "We are a huge marketplace dedicated to connecting great artists of all WZGL with their fans and unique token collectors!",
+ "explorer": "https://bscscan.com/token/0x9005441C2206D0C2FCf15792cD24e0e8fAEb0bcC",
+ "type": "BEP20",
+ "symbol": "WZGL2",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9005441C2206D0C2FCf15792cD24e0e8fAEb0bcC"
+}
