@@ -1,0 +1,11 @@
+{
+ "name": "Five Blessings Chain",
+ "website": "https://wftoken.world/",
+ "description": "To be a catalyst for traditional industries and the new economy of blockchain. Through efficient underlying technology, traditional industries can take advantage of the advantages of blockchain, and at the same time, blockchain can truly be implemented and empower the real economy.",
+ "explorer": "https://bscscan.com/token/0xd16753626c95AaBFc0c5A592E4306b06BFfDa16C",
+ "type": "BEP20",
+ "symbol": "WF",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xd16753626c95AaBFc0c5A592E4306b06BFfDa16C"
+}
