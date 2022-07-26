@@ -1,0 +1,11 @@
+{
+ "name": "Meta Force Space",
+ "website": "https://mfs.metaforcespace.online",
+ "description": "MFS (Meta Force Space) is a Decentralized Community Autonomous (DAO) entertainment game service platform",
+ "explorer": "https://bscscan.com/token/0xb7C1B1190b8370Ff9639Bd3e3a4b44AEC3e53C6E",
+ "type": "BEP20",
+ "symbol": "MFS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb7C1B1190b8370Ff9639Bd3e3a4b44AEC3e53C6E"
+} 
