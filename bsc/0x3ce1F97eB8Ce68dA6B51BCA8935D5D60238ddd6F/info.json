@@ -1,0 +1,11 @@
+{
+ "name": "MUSIC",
+ "website": "https://musiccoin.cloud",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x3ce1F97eB8Ce68dA6B51BCA8935D5D60238ddd6F",
+ "type": "BEP20",
+ "symbol": "MUSIC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x3ce1F97eB8Ce68dA6B51BCA8935D5D60238ddd6F"
+}

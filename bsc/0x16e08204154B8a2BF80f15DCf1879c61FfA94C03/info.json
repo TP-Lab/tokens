@@ -1,0 +1,11 @@
+{
+    "name": "Sarmetaverse",
+    "website": "https://sarmat.cc",
+    "description": "Sarmetaverse, a comprehensive metaverse chain game platform developed based on Binance Smart Chain",
+    "explorer": "https://bscscan.com/token/0x16e08204154B8a2BF80f15DCf1879c61FfA94C03",
+    "type": "BEP20",
+    "symbol": "SMT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x16e08204154B8a2BF80f15DCf1879c61FfA94C03"
+   }
