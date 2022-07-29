@@ -1,0 +1,11 @@
+{
+    "name": "Logan network",
+    "website": "https://www.logan.network",
+    "description": "An infrastruture connecting crypto assets and web3.0.",
+    "explorer": "https://bscscan.com/token/0xE4d2F7f299cb9C77d650F18Df9aE5e359082949e",
+    "type": "BEP20",
+    "symbol": "Logan",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE4d2F7f299cb9C77d650F18Df9aE5e359082949e"
+}
