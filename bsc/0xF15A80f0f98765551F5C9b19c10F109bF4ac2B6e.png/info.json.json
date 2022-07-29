@@ -1,0 +1,11 @@
+{
+ "name": "PVC Meta Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xF15A80f0f98765551F5C9b19c10F109bF4ac2B6e",
+ "type": "BEP20",
+ "symbol": "PVC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF15A80f0f98765551F5C9b19c10F109bF4ac2B6e"
+}
