@@ -1,0 +1,11 @@
+{
+    "name": "MAYA Token",
+    "website": "https://tokenpocket.pro",
+    "description": "Maya token is the only asset pass for Mayan NFT, Mayan Museum and Mayan chain tour",
+    "explorer": "https://bscscan.com/token/0xaa00cfe53b801c53d0272a7a0dcdd014a360f862",
+    "type": "BEP20",
+    "symbol": "MAYA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xaa00cFe53B801C53D0272A7A0Dcdd014A360F862"
+}
