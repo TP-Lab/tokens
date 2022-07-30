@@ -1,0 +1,11 @@
+{
+ "name": "INSTINCT",
+ "website": "no",
+ "description": "INSTINCT is a decentralized financial revolution focusing on innovation in the web3.0 financial field to realize the true combination of web3.0 and defi 3.0.",
+ "explorer": "https://bscscan.com/address/0x2967320bb05a9bb4Dd9F8198E594772B04b458B1",
+ "type": "BEP20",
+ "symbol": "INSTINCT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2967320bb05a9bb4Dd9F8198E594772B04b458B1"
+}
