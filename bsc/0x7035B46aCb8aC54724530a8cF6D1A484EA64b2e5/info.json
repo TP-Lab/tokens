@@ -1,0 +1,11 @@
+{
+ "name": "COP15",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x7035B46aCb8aC54724530a8cF6D1A484EA64b2e5",
+ "type": "BEP20",
+ "symbol": "COP15",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7035B46aCb8aC54724530a8cF6D1A484EA64b2e5"
+}
