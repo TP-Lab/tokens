@@ -1,0 +1,11 @@
+{
+ "name": "FDO",
+ "website": "https://fdo.world/",
+ "description": "FDO is a fun and simple DAO token",
+ "explorer": "https://bscscan.com/token/0xB4dAB11C24eDa8e1565f6aBd0CFDF1fde5767A67",
+ "type": "BEP20",
+ "symbol": "FDO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB4dAB11C24eDa8e1565f6aBd0CFDF1fde5767A67"
+}
