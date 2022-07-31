@@ -1,0 +1,11 @@
+{
+ "name": "Battle Boxer King",
+ "website": "-",
+ "description": "Battle Boxer King is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x2d0e4B21307b9C142150385121Ee19549002B27B",
+ "type": "BEP20",
+ "symbol": "BBK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2d0e4B21307b9C142150385121Ee19549002B27B"
+}
