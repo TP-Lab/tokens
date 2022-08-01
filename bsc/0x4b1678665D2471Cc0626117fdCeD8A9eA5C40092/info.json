@@ -1,0 +1,11 @@
+{
+ "name": "Cyborg",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x4b1678665D2471Cc0626117fdCeD8A9eA5C40092",
+ "type": "BEP20",
+ "symbol": "CBG",
+ "decimals": 18,
+ "status": "active",
+ "id": " 0x4b1678665D2471Cc0626117fdCeD8A9eA5C40092"
+}
