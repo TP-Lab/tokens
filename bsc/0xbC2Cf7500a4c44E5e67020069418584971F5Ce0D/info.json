@@ -1,0 +1,11 @@
+{
+    "name": "EAT Token",
+    "website": "https://eatadd.com",
+    "description": "Black Hole Scan Eco-Coin, the new LP model, opens a new track of web 3.0.",
+    "explorer": "https://bscscan.com/token/0xbC2Cf7500a4c44E5e67020069418584971F5Ce0D",
+    "type": "BEP20",
+    "symbol": "EAT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbC2Cf7500a4c44E5e67020069418584971F5Ce0D"
+}
