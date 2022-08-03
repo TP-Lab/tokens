@@ -1,0 +1,11 @@
+{
+ "name": "ALICE Token",
+ "website": "https://bscscan.com/address/0x77f23f806dd4216be22c5795ed40eb583d820fd2",
+ "description": "The coin I used to test uploading the logo.",
+ "explorer": "https://bscscan.com/token/0x77f23f806dd4216be22c5795ed40eb583d820fd2",
+ "type": "BEP20",
+ "symbol": "ALICE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x77f23F806dd4216be22C5795Ed40Eb583D820fd2"
+}
