@@ -1,0 +1,11 @@
+{
+   "name": "Binance Card Token",
+   "website": "https://binancecard.top",
+   "description": "The mission of Binance Card Token is to celebrate the launch of the Binance Card and to help make the Binance Card available to the world. As more and more people use the Binance Card, the Binance Card Token will continue to burn until the Binance Card is available in all countries and regions of the crypto world.",
+   "explorer": "https://bscscan.com/token/0x82e80B5cE262534fcDE8e9Eb784dB9111A20674d",
+   "type": "BEP20",
+   "symbol": "BC",
+   "decimals": 18,
+   "status": "active",
+   "id": "0x82e80B5cE262534fcDE8e9Eb784dB9111A20674d"
+}
