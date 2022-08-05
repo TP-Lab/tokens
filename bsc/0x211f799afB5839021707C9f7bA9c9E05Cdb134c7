@@ -1,0 +1,13 @@
+{  
+ 
+ "name": "FOX",
+ "website": "https://www.foxcoin.work",
+ "description": "FOX is a next generation community-driven, frictionless, automated high-yielding, liquidity generating,metaverse,farming,gamefi and NFT deflectionary utility meme token launched exclusively on the Binance Smart Chain . ",
+ "explorer": "https://bscscan.com/token/0x211f799afb5839021707c9f7ba9c9e05cdb134c7",
+ "type": "BEP20",
+ "symbol": "FOX",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x211f799afB5839021707C9f7bA9c9E05Cdb134c7"
+
+}  
