@@ -1,0 +1,11 @@
+{
+    "name": "XBC Token",
+    "website": "https://www.xbc001.xyz",
+    "description": "XBC finance is a protocol based on BSC according to changes in supply and demand that establishes a pool based on private assets. Which used algorithmic way calculating interest rates.",
+    "explorer": "https://bscscan.com/token/0xE5C1Ceede45aE5acc2736799a8F01a1691b90AB0",
+    "type": "BEP20",
+    "symbol": "XBC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE5C1Ceede45aE5acc2736799a8F01a1691b90AB0"
+}
