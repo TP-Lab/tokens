@@ -1,0 +1,11 @@
+{
+    "name": "KDG",
+    "website": "https://kdg.today",
+    "description": "KDG Token",
+    "explorer": "https://bscscan.com/token/0xfef7b4A8D2C0d36c30351a9197aB93B27aAe5D91",
+    "type": "BEP20",
+    "symbol": "KDG",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xfef7b4A8D2C0d36c30351a9197aB93B27aAe5D91"
+}
