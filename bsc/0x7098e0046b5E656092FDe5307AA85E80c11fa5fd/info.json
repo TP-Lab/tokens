@@ -1,0 +1,11 @@
+{
+ "name": "NLK",
+ "website": "https://www.neuralink.pw",
+ "description": "NEURALINK是马斯克旗下一家专门研究脑机接口技术的公司,其创建在BSC链上的代币,致力于元宇宙META、NFT、SWAP,多重跨链协议的项目加密生态系统,买卖手续费14％",
+ "explorer": "https://bscscan.com/token/0x7098e0046b5E656092FDe5307AA85E80c11fa5fd",
+ "type": "BEP20",
+ "symbol": "NLK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7098e0046b5E656092FDe5307AA85E80c11fa5fd"
+}
