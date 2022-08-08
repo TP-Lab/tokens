@@ -1,0 +1,11 @@
+{
+    "name": "Guinness NFT",
+    "website": "https://gnsnft.com/#/",
+    "description": "UNINFT 是建立在Guinness简称GNS（吉尼斯）元宇宙去中心协议下业内领先的专业元宇宙生态聚合交易平台，平台支持ERC20、721和1155资产协议和MATIC、SOL、BSC、WAX等多链资产，具备图灵完备的交易引擎、架构、多练资产流通模块，满足用户购买、出售、拍卖等链游资产流通相关需求。同时保障每款元宇宙资产产权化交易，打造产权共识属性旨在成为全球交易体量最大，用户载体最多的链游生态价值流通平台。",
+    "explorer": "https://bscscan.com/address/0xC5717beb3d8eda80Fbd91EC50e7F1643Fc981df3",
+    "type": "BSC",
+    "symbol": "UNI NFT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC5717beb3d8eda80Fbd91EC50e7F1643Fc981df3"
+   }
