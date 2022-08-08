@@ -1,0 +1,11 @@
+{
+    "name": "GSTT",
+    "website": "https://GSTT.com/",
+    "description": "GSTT community WEB3 smelting token. ",
+    "explorer": "https://bscscan.com/token/0xa225f9f25a1c763c26e98e117c4c7c1eb73740c6",
+    "type": "BEP20",
+    "symbol": "GSTT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa225f9f25a1c763c26e98e117c4c7c1eb73740c6"
+}
