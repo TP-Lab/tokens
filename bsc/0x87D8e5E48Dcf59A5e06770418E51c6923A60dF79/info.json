@@ -1,0 +1,11 @@
+{
+ "name": "FoHow",
+ "website": "-",
+ "description": "Create a smart Ecology - consensus - Common Governance - sharing - inheritance.",
+ "explorer": "https://bscscan.com/address/0x87D8e5E48Dcf59A5e06770418E51c6923A60dF79",
+ "type": "BEP20",
+ "symbol": "FH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x87D8e5E48Dcf59A5e06770418E51c6923A60dF79"
+}
