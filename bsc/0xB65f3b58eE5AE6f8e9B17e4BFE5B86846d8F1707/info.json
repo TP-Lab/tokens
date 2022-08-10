@@ -1,0 +1,11 @@
+{ 
+"name": "META FOREST",
+"website": "https://www.metaforestnft.com/",
+"description": "It is the world's leading environmentally friendly decentralized digital currency token. We provide the safest and easiest way for anyone, anywhere in the world to fund, create, buy, sell, explore and trade environmental movements of all kinds.",
+"explorer": "https://www.bscscan.com/address/0xB65f3b58eE5AE6f8e9B17e4BFE5B86846d8F1707",
+"type": "BEP20",
+"symbol": "MF",
+"decimals": 18,
+"status": "active",
+"id": "0xB65f3b58eE5AE6f8e9B17e4BFE5B86846d8F1707"
+}
