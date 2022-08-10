@@ -1,0 +1,11 @@
+{
+    "name": "FWS",
+    "website": "http://www.fwscoins.com/",
+    "description": "fwscoins, a comprehensive metaverse chain game platform developed based on Binance Smart Chain",
+    "explorer": "https://bscscan.com/token/0x5F603716B6bc5bE702a40f782aFa8fc78df2f520",
+    "type": "BEP20",
+    "symbol": "FWS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5F603716B6bc5bE702a40f782aFa8fc78df2f520"
+   }
