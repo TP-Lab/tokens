@@ -1,0 +1,12 @@
+{
+    "name": "SHID",
+    "website": "https://github.com/eri/shid",
+    "description": "SHID",
+    "explorer": "https://bscscan.com/token/0x43e7DDeE06c4B7D509884eaac8E822e06819D9EE",
+    "type": "BEP20",
+    "symbol": "SHID",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x43e7DDeE06c4B7D509884eaac8E822e06819D9EE"
+    
+}
