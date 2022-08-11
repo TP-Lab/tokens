@@ -1,0 +1,11 @@
+{
+ "name": "Cloud carbon",
+ "website": "http://web.havemovie.com/",
+ "description": "Cloud carbon CC aims to build a global carbon trading system, CC mining AMA automatic market maker system, exchange individual enterprise trading system, carbon payment system, green mall system, and four major systems, with a strong attack!",
+ "explorer": "https://bscscan.com/token/0x0399d2b88740f593f0c34a17e73a1ab76a82289e",
+ "type": "BEP20",
+ "symbol": "CC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0399D2b88740F593f0c34A17e73A1Ab76A82289e"
+}
