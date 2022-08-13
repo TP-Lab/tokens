@@ -1,0 +1,11 @@
+{
+ "name": "USD stablecoin v1.0 produced by sha network",
+ "website": "https://sha.network",
+ "description": "USD stablecoin v1.0 produced by sha network,1:1 constant with dollar value through minting and redemption.",
+ "explorer": "https://bscscan.com/token/0xb7Ed2c5514496591142F3098Ef40ee6F56c3A45C",
+ "type": "BEP20",
+ "symbol": "USDs",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb7Ed2c5514496591142F3098Ef40ee6F56c3A45C"
+}
