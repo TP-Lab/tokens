@@ -1,0 +1,11 @@
+{ 
+"name": "WOOD",
+"website": "https://www.metaforestnft.com/",
+"description": "WOOD is the token of the Meta Forest World planting ecology. Players use WOOD for payment, circulation and settlement in the planting ecology, and earn WOOD income. The multiple deflationary model of the planting ecology makes WOOD a very valuable prospect. ",
+"explorer": "https://bscscan.com/token/0x0E11Bf0A8ea46912F55861dC36ccE03BC1CbEb8e",
+"type": "BEP20",
+"symbol": "WOOD",
+"decimals": 18,
+"status": "active",
+"id": "0x0E11Bf0A8ea46912F55861dC36ccE03BC1CbEb8e"
+}
