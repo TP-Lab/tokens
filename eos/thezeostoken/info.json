@@ -1,0 +1,11 @@
+{
+    "name":"ZEOS On EOS Blockchain",
+    "website":"http://www.zeos.one",
+    "description":"ZEOS - zk-SNARKs Privacy on the EOS Blockchain.",
+    "explorer":"https://bloks.io/tokens/ZEOS-eos-thezeostoken",
+    "type":"EOS",
+    "symbol":"ZEOS",
+    "decimals":4,
+    "status":"active",
+    "id":"https://bloks.io/tokens/ZEOS-eos-thezeostoken"
+}
