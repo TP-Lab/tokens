@@ -1,0 +1,11 @@
+{
+  "name": "BuryDAO Token",
+  "website": "no",
+  "description": "no",
+  "explorer": "https://bscscan.com/token/0x449CcFdfF6BF90213D68bAb01424955F4600fcEe",
+  "type": "BEP20",
+  "symbol": "Bury",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x449CcFdfF6BF90213D68bAb01424955F4600fcEe"
+}
