@@ -1,11 +1,11 @@
 {
- "name": "OPENFIRE",
- "website": "https://openfire.plus",
- "description": "OPENFIRE is the next generation of virtualized permeable Internet application platform and digital creation of full index, which creates a 1:1 interaction between the real world and the real world, and affects the real world and the earth through the whole society.",
- "explorer": "https://bscscan.com/token/0xa6660E62c223Df2D9Aff0Ba188f1371087fa3Dd6",
+ "name": "Rainbow Land",
+ "website": "https://rainbowland.finance/",
+ "description": "RainbowLand is a Social Finance Platform",
+ "explorer": "https://bscscan.com/token/0x541B37c5B707eC8AE79Acf5faC8d15CE22362B23",
  "type": "BEP20",
- "symbol": "OFEO",
+ "symbol": "RBL",
  "decimals": 18,
  "status": "active",
- "id": "0xa6660E62c223Df2D9Aff0Ba188f1371087fa3Dd6"
+ "id": "0x541B37c5B707eC8AE79Acf5faC8d15CE22362B23"
 }
