@@ -1,10 +1,10 @@
 {
  "name": "AMNToken",
- "website": "https://tokenpocket.pro",
- "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "website": "https://http://www.domino.work/",
+ "description": "AMN is Domino Ecology's equity token, enjoys the governance right, voting rights and other rights of.",
  "explorer": "https://bscscan.com/token/0x874EbA2db60ccF5E10AC76a1338599C4498d7e6b",
  "type": "BEP20",
- "symbol": "TPT",
+ "symbol": "AMN",
  "decimals": 18,
  "status": "active",
  "id": "0x874EbA2db60ccF5E10AC76a1338599C4498d7e6b"
