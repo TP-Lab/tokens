@@ -1,0 +1,11 @@
+{
+ "name": "Rainbow Land",
+ "website": "https://rainbowland.finance/",
+ "description": "RainbowLand is a Social Finance Platform",
+ "explorer": "https://bscscan.com/token/0x541B37c5B707eC8AE79Acf5faC8d15CE22362B23",
+ "type": "ERC721",
+ "symbol": "RBL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x541B37c5B707eC8AE79Acf5faC8d15CE22362B23"
+}
