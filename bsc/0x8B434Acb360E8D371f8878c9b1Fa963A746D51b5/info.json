@@ -1,0 +1,11 @@
+{
+ "name": "Prince",
+ "website": "gk.ghtking.info",
+ "description": "Prince(PRE) Token",
+ "explorer": "https://bscscan.com/token/0x8B434Acb360E8D371f8878c9b1Fa963A746D51b5",
+ "type": "BEP20",
+ "symbol": "PRE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8B434Acb360E8D371f8878c9b1Fa963A746D51b5"
+}
