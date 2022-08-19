@@ -1,0 +1,11 @@
+{
+ "name": "Eternal World",
+ "website": "https://eternal-world.io/",
+ "description": "Eternal World is a game with a large open world, the world’s first 3A Xianxia META. Players can play multiple professional roles in the game, kill monsters with other players, explore, form their own country and power, etc.",
+ "explorer": "https://bscscan.com/token/0xc04edac87f7ed7b282cd0411672d65452fd10125",
+ "type": "BEP20",
+ "symbol": "ETL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc04edac87f7ed7b282cd0411672d65452fd10125"
+}
