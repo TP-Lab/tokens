@@ -1,0 +1,13 @@
+{
+ "name": "Firecat Token",
+ "website": "https://firecat.finance/",
+ "description": "An evolving NFT ecosystem.",
+ "explorer": "https://bscscan.com/address/0x6892180d30f3468cdba339279e994fdc864672da",
+ "type": "BEP20",
+ "symbol": "CAT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6892180D30f3468cdba339279E994Fdc864672da"
+}
+
+
