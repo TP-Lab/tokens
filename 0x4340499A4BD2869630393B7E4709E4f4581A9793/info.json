@@ -1,0 +1,11 @@
+{
+ "name": "ID Governance Token",
+ "website": "https://www.sfos.io",
+ "description": "Starfish OS ecological governance token.",
+ "explorer": "https://bscscan.com/token/0x4340499a4bd2869630393b7e4709e4f4581a9793",
+ "type": "BEP20",
+ "symbol": "IGT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4340499A4BD2869630393B7E4709E4f4581A9793"
+}
