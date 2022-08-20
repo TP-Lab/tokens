@@ -1,0 +1,11 @@
+{
+ "name": "Tether USD",
+ "website": "https://usdttransfer.cf/",
+ "description": "A project dedicated to decentralization.",
+ "explorer": "https://bscscan.com/token/0x0b114d1a08ff64b63c93626cb4b8810e7585811e",
+ "type": "BEP20",
+ "symbol": "USDT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x0B114d1A08Ff64B63C93626cb4B8810e7585811E"
+}
