@@ -1,0 +1,11 @@
+{ 
+"name": "BTU",
+"website": "http://www.btu.mobi",
+"description": "What happens if a cryptocurrency project is 100% run by its community?While the word DeFi literally includes dispersion, this refers to economic status rather than internal hierarchy. Our founding community said of our beginnings, We are a decentralized spontaneous community anchored to BTC tokens (...)",
+"explorer": "https://bscscan.com/token/0X4B41CA61F5FBE12DDBA38BC2D8BACC5F68FD491F",
+"type": "BEP20",
+"symbol": "BTU",
+"decimals": 18,
+"status": "active",
+"id": "0xF5E88c44093252Db8C8250dF3cd51C8fD96Cd6C9"
+}
