@@ -1,0 +1,11 @@
+{
+ "name": "Creation vouche",
+ "website": "http://nft.mgc.today",
+ "description": "Creation voucher is the proof of the rights and interests of Mg capital's ecology. Purchasing this card can enjoy many rights and interests of Mg capital's ecology Equity 1: Unlock 5000 MGC tokens; Equity 2: get btcgram equity card airdrop, with which you can buy btcgram advertising space at a 10% discount; Equity 3: get the bobot equity card for airdrop. With this card, you can get the free use right of bobot strategic robot in March; Equity 4: obtain MGC dividend card airdrop; Mg capital foundation will randomly select 10 MGC bonus cards every month to share 20% of the net profit of Mg capital ecology. The winning MGC bonus cards will be automatically fragmented and will no longer participate in the lottery. Bonus cards are available and can only be obtained by purchasing MGC Genesis cards.",
+ "explorer": "https://bscscan.com/token/0xa2391835bE0fEDCE482c8F1F766802D56ef2b4E6",
+ "type": "ERC1155",
+ "symbol": "Creation vouche",
+ "decimals": 0,
+ "status": "active",
+ "id": "0xa2391835bE0fEDCE482c8F1F766802D56ef2b4E6"
+}
