@@ -1,0 +1,11 @@
+{
+ "name": "KBC",
+ "website": "https://tokenpocket.pro",
+ "description": "KBC是由KBC-DAO发布的全球首个DEFI2.0+GAMEFI中和应用平台，KBC为平台管理代币，总发行量2100万",
+ "explorer": "https://www.bscscan.com/token/0xA91D5c381F094A015b71b5Bdd1E9A3942cE02cC3",
+ "type": "BEP20",
+ "symbol": "KBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA91D5c381F094A015b71b5Bdd1E9A3942cE02cC3"
+}
