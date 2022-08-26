@@ -1,0 +1,11 @@
+{
+    "name": "AptosChain",
+    "website": "https://aptoslabs.com/",
+    "description": "The AptosChain project is an ecological project born from the Binance Smart Chain. The vision of the AptosChain project is to lead the Binance Smart Chain ecological project to join the Aptos public chain and promote the advantages of the Aptos public chain.",
+    "explorer": "https://bscscan.com/token/0x72c863c31cf59abd4820b1d04026dffe08486b98",
+    "type": "BEP20",
+    "symbol": "APTOS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x72c863C31cF59abd4820b1D04026DFFe08486B98"
+   }
