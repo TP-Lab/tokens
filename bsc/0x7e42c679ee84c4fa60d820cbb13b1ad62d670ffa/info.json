@@ -1,0 +1,11 @@
+{
+ "name": "Meta Eco Token",
+ "website": "https://meco.whalenft.art/",
+ "description": "meta DAO is jointly initiated by the Singapore Venture Capital Foundation and Dapper Blockchain Labs In the era of Web3.0, meco is used as a community governance platform token for the nft trading market.",
+ "explorer": "https://bscscan.com/token/0x7e42c679ee84c4fa60d820cbb13b1ad62d670ffa",
+ "type": "BEP20",
+ "symbol": "MECO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7e42c679ee84c4fA60d820cbB13b1AD62d670ffa"
+}
