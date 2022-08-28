@@ -1,0 +1,11 @@
+{
+ "name": "TheFourthUniverse",
+ "website": "https://tfufund.com",
+ "description": "A leading multi-chain wallet that supports BSC.",
+ "explorer": "https://bscscan.com/token/0xf088CE1932eb956e2b99de9CABe8651B62A59960",
+ "type": "BEP20",
+ "symbol": "TFU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf088CE1932eb956e2b99de9CABe8651B62A59960"
+}
