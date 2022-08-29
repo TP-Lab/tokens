@@ -1,0 +1,11 @@
+{
+ "name": "agecoin",
+ "website": "https://agebit.net",
+ "description": "Agecoin uses the Automatic Market Maker (AMM) mechanism to build a DECENTRALIZED TRADING PLATFORM BASED ON BEP-20 on the Binance Smart Chain. Agecoin's goal is to be a powerful liquidity provider on binance chains and a birthplace of innovative gamification mechanisms, driving their integration into other chains and other areas.",
+ "explorer": "https://bscscan.com/token/0xf11c15b1348b18b17a065bbbe33d36f6e427d9be",
+ "type": "BEP20",
+ "symbol": "age",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xF11C15b1348b18b17a065BbbE33d36f6e427d9Be"
+}
