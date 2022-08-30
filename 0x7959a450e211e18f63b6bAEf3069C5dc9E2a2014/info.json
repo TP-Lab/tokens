@@ -1,0 +1,11 @@
+{
+ "name": "ARK",
+ "website": "https://nsk-ark.com",
+ "description": "ARK Integrated Application Platform Token.",
+ "explorer": "https://bscscan.com/token/0x7959a450e211e18f63b6bAEf3069C5dc9E2a2014",
+ "type": "BEP20",
+ "symbol": "ARK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7959a450e211e18f63b6bAEf3069C5dc9E2a2014"
+}
