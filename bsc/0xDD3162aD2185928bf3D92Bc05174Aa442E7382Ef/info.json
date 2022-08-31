@@ -1,0 +1,11 @@
+{
+ "name": "Offshore Plan",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0xDD3162aD2185928bf3D92Bc05174Aa442E7382Ef",
+ "type": "BEP20",
+ "symbol": "OPC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDD3162aD2185928bf3D92Bc05174Aa442E7382Ef"
+}
