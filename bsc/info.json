@@ -1,11 +1,11 @@
 {
- "name": "OPENFIRE",
- "website": "https://openfire.plus",
- "description": "OPENFIRE is the next generation of virtualized permeable Internet application platform and digital creation of full index, which creates a 1:1 interaction between the real world and the real world, and affects the real world and the earth through the whole society.",
- "explorer": "https://bscscan.com/token/0xa6660E62c223Df2D9Aff0Ba188f1371087fa3Dd6",
+ "name": "MIT",
+ "website": "https://www.miningnftbc.com",
+ "description": "The world's leading one-stop mining service platform, leading you to under.",
+ "explorer": "0x84dFb87A24a2a995CD1F8472002a93E4b68B8eA4",
  "type": "BEP20",
- "symbol": "OFEO",
- "decimals": 18,
+ "symbol": "MIT",
+ "decimals": 8,
  "status": "active",
- "id": "0xa6660E62c223Df2D9Aff0Ba188f1371087fa3Dd6"
+ "id": "0x84dFb87A24a2a995CD1F8472002a93E4b68B8eA4"
 }
