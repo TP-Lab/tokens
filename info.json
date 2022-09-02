@@ -1,11 +1,11 @@
 {
- "name": "Fortune of International Fitness Association",
- "website": "No",
- "description": "is the abbreviation of the International Fitness Wealth Federation, dedicated to gaining wealth from sports and fitness, helping users to maintain health and also have wealth.  Fitness and wealth go hand in hand, exercise anytime, anywhere, and make money anytime, anywhere.",
- "explorer": "https://bscscan.com/token/0xE19417837D8e61F17DfAE2E6a11b1E4810DAE2a5",
+ "name": "MIT",
+ "website": "https://www.miningnftbc.com",
+ "description": "The world's leading one-stop mining service platform, leading you to under.",
+ "explorer": "0x84dFb87A24a2a995CD1F8472002a93E4b68B8eA4",
  "type": "BEP20",
- "symbol": "FIFA",
- "decimals": 18,
+ "symbol": "MIT",
+ "decimals": 8,
  "status": "active",
- "id": "0xE19417837D8e61F17DfAE2E6a11b1E4810DAE2a5"
+ "id": "0x84dFb87A24a2a995CD1F8472002a93E4b68B8eA4"
 }
