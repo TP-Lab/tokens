@@ -1,0 +1,11 @@
+{
+    "name": "Big Fish",
+    "website": "http://dyweb.xyz/",
+    "description": "Big Fish",
+    "explorer": "https://bscscan.com/token/0x2B1B5E2c1f5f78D637fae6d02A3377102223Bf26",
+    "type": "BEP20",
+    "symbol": "DY",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x2B1B5E2c1f5f78D637fae6d02A3377102223Bf26"
+}
