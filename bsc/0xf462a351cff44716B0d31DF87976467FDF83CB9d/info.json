@@ -1,0 +1,11 @@
+{ 
+"name": "BullDoge Chain",
+"website": "https://bulldogechain.io/",
+"description": "BullDoge Chain The Future of Cryptocurrency And Blockchain Technology.",
+"explorer": "https://bscscan.com/token/0xf462a351cff44716B0d31DF87976467FDF83CB9d",
+"type": "BEP20",
+"symbol": "wBDC",
+"decimals": 18,
+"status": "active",
+"id": "0xf462a351cff44716B0d31DF87976467FDF83CB9d"
+}
