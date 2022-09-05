@@ -1,0 +1,11 @@
+{
+ "name": "LYC",
+ "website": "https://bscscan.com/token/0xC2FC22e6521AC835A2F0921D122DE9960A4cE2e0",
+ "description": "LYC TOKEN.",
+ "explorer": "https://bscscan.com/token/0xC2FC22e6521AC835A2F0921D122DE9960A4cE2e0",
+ "type": "BEP20",
+ "symbol": "LYC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC2FC22e6521AC835A2F0921D122DE9960A4cE2e0"
+}
