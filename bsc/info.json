@@ -1,11 +1,11 @@
 {
- "name": "BMN",
- "website": "https://www.btcminingnft.io",
- "description": "BMN is a one-stop financial service platform based on NFT of mining machine.",
- "explorer": "https://bscscan.com/token/0x769D4FF4ab282D8d32285358CfaF815A2350d8b5",
+ "name": "MIT",
+ "website": "https://www.miningnftbc.com",
+ "description": "The world's leading one-stop mining service platform, leading you to under.",
+ "explorer": "0x84dFb87A24a2a995CD1F8472002a93E4b68B8eA4",
  "type": "BEP20",
- "symbol": "BMN",
+ "symbol": "MIT",
  "decimals": 8,
  "status": "active",
- "id": "0x769D4FF4ab282D8d32285358CfaF815A2350d8b5"
+ "id": "0x84dFb87A24a2a995CD1F8472002a93E4b68B8eA4"
 }
