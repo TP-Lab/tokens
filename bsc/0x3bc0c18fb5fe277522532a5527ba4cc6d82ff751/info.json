@@ -1,0 +1,11 @@
+{
+  "name": "MSC",
+  "website": ".",
+  "description": ".",
+  "explorer": "https://bscscan.com/token/0x3bc0c18fb5fe277522532a5527ba4cc6d82ff751",
+  "type": "BEP20",
+  "symbol": "MSC",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x3bc0c18fb5fe277522532a5527ba4cc6d82ff751"
+} 
