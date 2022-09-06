@@ -1,0 +1,11 @@
+{
+ "name": "SHJ",
+ "website": "No",
+ "description": "DEFI 3.0 Model!",
+ "explorer": "https://bscscan.com/token/0x829e7183f68ac30526d27bb70ec8de51dccd6161",
+ "type": "BEP20",
+ "symbol": "SHJ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x829e7183f68ac30526d27bb70ec8de51dccd6161"
+}
