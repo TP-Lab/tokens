@@ -1,0 +1,11 @@
+{
+ "name": "SPBTC",
+ "website": "-",
+ "description": "SPBTC is a decentralized intelligent AI quantization system based on blockchain, which transmits data based on GOSSIP protocol, and creates a community that everyone in the industry can participate in through the intelligent AI quantization system.",
+ "explorer": "https://bscscan.com/token/0xDac631f0922C68AE7F402FCf59e2fD8057EBA2CF",
+ "type": "BEP20",
+ "symbol": "SPBTC",
+ "decimals": 18,
+ "status": "not open",
+ "id": "0xDac631f0922C68AE7F402FCf59e2fD8057EBA2CF"
+}
