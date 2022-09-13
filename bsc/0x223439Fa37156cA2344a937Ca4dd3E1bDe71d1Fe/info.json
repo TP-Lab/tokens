@@ -1,0 +1,11 @@
+{
+ "name": "Ceres DAO Token",
+ "website": "https://ceresdao.finance",
+ "description": "Ceres DAO is the world's first decentralized digital asset management protocol based on DAO governance and empowered by Web3.",
+ "explorer": "https://bscscan.com/token/0x223439fa37156ca2344a937ca4dd3e1bde71d1fe",
+ "type": "BEP20",
+ "symbol": "CRS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x223439Fa37156cA2344a937Ca4dd3E1bDe71d1Fe"
+}
