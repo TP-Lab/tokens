@@ -1,0 +1,11 @@
+{
+ "name": "Morse",
+ "website": "https://www.morse-chat.com/",
+ "description": "A decentralized chat tool which provide crypt communication room for user and could be setup by everyone.",
+ "explorer": "https://bscscan.com/token/0xeFD4562705477e99dcC07cD9BDE7Ac5459883f86",
+ "type": "BEP20",
+ "symbol": "Morse",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xeFD4562705477e99dcC07cD9BDE7Ac5459883f86"
+}
