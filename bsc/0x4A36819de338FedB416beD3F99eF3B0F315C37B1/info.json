@@ -1,0 +1,11 @@
+{
+	"name": "BTCC token",
+	"website": "https://www.bitkingdomdao.com/",
+	"description": "This country has no mutual suspicion, only brave and unprecedented power. ",
+	"explorer": "https://bscscan.com/token/0x4A36819de338FedB416beD3F99eF3B0F315C37B1",
+	"type": "BEP20",
+	"symbol": "BTCC",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x4A36819de338FedB416beD3F99eF3B0F315C37B1"
+}
