@@ -1,11 +1,11 @@
 {
- "name": "MIT",
- "website": "https://www.miningnftbc.com",
- "description": "The world's leading one-stop mining service platform, leading you to under.",
- "explorer": "0x84dFb87A24a2a995CD1F8472002a93E4b68B8eA4",
+ "name": "BTCCToken",
+ "website": "https://www.gulfstreammine.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xDCEE2E492460b4E2Eff0BA779a8Db2c0bd270d40",
  "type": "BEP20",
- "symbol": "MIT",
- "decimals": 8,
+ "symbol": "BTCC",
+ "decimals": 18,
  "status": "active",
- "id": "0x84dFb87A24a2a995CD1F8472002a93E4b68B8eA4"
+ "id": "0xDCEE2E492460b4E2Eff0BA779a8Db2c0bd270d40"
 }
