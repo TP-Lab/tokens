@@ -1,0 +1,9 @@
+{ 
+"name": "YLGB",
+"explorer": "https://bscscan.com/token/0x50Bb5ea24Edd51bB5E16a44d2e54940568475109",
+"type": "BEP20",
+"symbol": "YLGB",
+"decimals": 18,
+"status": "active",
+"id": "0x50Bb5ea24Edd51bB5E16a44d2e54940568475109"
+}
