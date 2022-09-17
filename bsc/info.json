@@ -1,11 +1,11 @@
 {
- "name": "MIT",
- "website": "https://www.miningnftbc.com",
- "description": "The world's leading one-stop mining service platform, leading you to under.",
- "explorer": "0x84dFb87A24a2a995CD1F8472002a93E4b68B8eA4",
+ "name": "Dreamer Finance",
+ "website": "https://dreamer.finance",
+ "description": "Decentralized financial aggregation platform driven by the dual engine of blockchain technologhy and DAO community.",
+ "explorer": "https://bscscan.com/token/0x67B1f99D6e7C02E074C444b855f8c4e720ab2b82",
  "type": "BEP20",
- "symbol": "MIT",
- "decimals": 8,
+ "symbol": "DREAM",
+ "decimals": 18,
  "status": "active",
- "id": "0x84dFb87A24a2a995CD1F8472002a93E4b68B8eA4"
+ "id": "0x67B1f99D6e7C02E074C444b855f8c4e720ab2b82"
 }
