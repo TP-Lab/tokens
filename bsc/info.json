@@ -1,11 +1,11 @@
 {
- "name": "MIT",
- "website": "https://www.miningnftbc.com",
- "description": "The world's leading one-stop mining service platform, leading you to under.",
- "explorer": "0x84dFb87A24a2a995CD1F8472002a93E4b68B8eA4",
+ "name": "XT",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x5cd571902b796000C2Be574215A2B9b0193DdE60",
  "type": "BEP20",
- "symbol": "MIT",
- "decimals": 8,
+ "symbol": "XT",
+ "decimals": 18,
  "status": "active",
- "id": "0x84dFb87A24a2a995CD1F8472002a93E4b68B8eA4"
+ "id": "0x5cd571902b796000C2Be574215A2B9b0193DdE60"
 }
