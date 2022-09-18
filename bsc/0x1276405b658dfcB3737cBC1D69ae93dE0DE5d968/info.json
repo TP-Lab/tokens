@@ -1,0 +1,11 @@
+{
+ "name": "TNUT",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x1276405b658dfcB3737cBC1D69ae93dE0DE5d968",
+ "type": "BEP20",
+ "symbol": "TNUT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1276405b658dfcB3737cBC1D69ae93dE0DE5d968"
+}
