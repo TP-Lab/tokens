@@ -1,11 +1,11 @@
 {
- "name": "MarsCity Token",
- "website": "http://marscity.ca/",
- "description": "MarsCity Token will be the foundation of social credit system after human beings build MarsCity.",
- "explorer": "https://bscscan.com/token/0xbdf9d58511CC04d108D101F4fB9b2a788Ed85Ef1",
+ "name": "BNC Token",
+ "website": "https://tokenpocket.pro",
+ "description": "BNC is a cross-chain DeFi + NFT + meta ological protocol and infrastructure and also an open NFT ecosystem.Anyone can create an NFT, initiate NFT mining, auctions, and deals.",
+ "explorer": "https://bscscan.com/token/0x5244d7B2b7B695F24F452d60ceF8b44E3ad0220f",
  "type": "BEP20",
- "symbol": "MCT",
- "decimals": 9,
+ "symbol": "BNC",
+ "decimals": 18,
  "status": "active",
- "id": "0xbdf9d58511CC04d108D101F4fB9b2a788Ed85Ef1"
+ "id": "0x5244d7B2b7B695F24F452d60ceF8b44E3ad0220f"
 }
