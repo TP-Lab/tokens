@@ -1,0 +1,11 @@
+{
+ "name": "DARC",
+ "website": "https://www.qubnfg.com",
+ "description": "DARC是NFG META趣帮国际生态发行的数字资产，总量69万枚，用于资本市场的流通和生态的建设。",
+ "explorer": "https://bscscan.com/token/0x30589CbDf829822C4374FD1bC40fF3803116c840",
+ "type": "BEP20",
+ "symbol": "DARC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x30589CbDf829822C4374FD1bC40fF3803116c840"
+}
