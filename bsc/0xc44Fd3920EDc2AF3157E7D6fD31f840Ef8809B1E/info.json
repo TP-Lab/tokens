@@ -1,0 +1,11 @@
+{
+    "name": "MST",
+    "website": "http://mst.lpjx2022.com",
+    "description": "MST来自美国MS社区，成立于2017年3月，主要业务是BTC及ETH挖矿，和美国大型矿场合作。MS社区布局传统的区块链和孵化项目，发现社区发展对未来区块链行业至关重要，可借助社区做大布局，MS社区通过社区联盟方式来运营，布局全球更大市场。",
+    "explorer": "https://bscscan.com/token/0xc44Fd3920EDc2AF3157E7D6fD31f840Ef8809B1E",
+    "type": "BEP20",
+    "symbol": "MST",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc44Fd3920EDc2AF3157E7D6fD31f840Ef8809B1E"
+   }
