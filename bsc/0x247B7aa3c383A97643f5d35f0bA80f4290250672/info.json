@@ -1,0 +1,11 @@
+{
+ "name": "ToNFT",
+ "website": "https://tcoins.vip",
+ "description": "TO NFT trading platform is a diversified trading platform in Singapore.",
+ "explorer": "https://bscscan.com/token/0x247B7aa3c383A97643f5d35f0bA80f4290250672",
+ "type": "BEP20",
+ "symbol": "Tcoin",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x247B7aa3c383A97643f5d35f0bA80f4290250672"
+}
