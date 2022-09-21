@@ -1,0 +1,11 @@
+{
+ "name": "MALINKA",
+ "website": "https://paycashswap.com",
+ "description": "Liquidity suppliers also receive supertokens! Crypto Malinka (MLNK) as a reward!",
+ "explorer": "https://www.bloks.io/account/mlnk.pcash",
+ "type": "EOS",
+ "symbol": "MLNK",
+ "decimals": 8,
+ "status": "active",
+ "id": "https://www.bloks.io/tokens/MLNK-eos-swap.pcash"
+}
