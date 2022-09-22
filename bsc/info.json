@@ -1,11 +1,11 @@
 {
- "name": "BTCCToken",
- "website": "https://www.gulfstreammine.com",
- "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
- "explorer": "https://bscscan.com/token/0xDCEE2E492460b4E2Eff0BA779a8Db2c0bd270d40",
+ "name": "RedWood",
+ "website": "https://www.redwood.red",
+ "description": "The RedWood is a community driven DeFi Token. Three built-in mechanisms occur on each trade: Reflection, Burn and Reward.",
+ "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
  "type": "BEP20",
- "symbol": "BTCC",
+ "symbol": "RDZ",
  "decimals": 18,
  "status": "active",
- "id": "0xDCEE2E492460b4E2Eff0BA779a8Db2c0bd270d40"
+ "id": "0x99fa3977b7D7Fbfdd9955EB36EADE852366B936D"
 }
