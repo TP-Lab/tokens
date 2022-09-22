@@ -1,0 +1,11 @@
+{
+ "name": "Cosmic scale",
+ "website": "https://cs.cosmicscalescs.com/csIndex/index.html",
+ "description": "Cosmicscale is a meta universe protocol of decentralized edge rendering, which is committed to providing meta universe developers and creators with services such as decentralized rendering, edge computing, 3D technology and XR extended reality technology. Through decentralized edge computing, elastic capacity expansion and reduction can greatly accelerate the operation without wasting resources, shorten the rendering cycle, greatly reduce costs, and achieve higher efficiency, making it suitable for various development scenarios. Developers of meta universe applications can do a lot of experiments on Cosmicscale with lower trial and error costs and a cleaner environment to realize some assumptions. Cosmicscale provides a complete set of blockchain game development tools, which is open to developers and provides one-stop development tool flow technical support. At present, by using the Cosmicscale blockchain SDK, all games developed based on the Cosmicscale engine tool can be easily connected to the blockchain, allowing developers to quickly create a game and application that provides blockchain functions such as unified digital wallet passes, smart contracts, and transactions. Cosmicscale meets the social and economic governance system of an independent meta universe world. It is an open, fair, transparent and developed meta universe blockchain infrastructure. It adopts the BFT+POS consensus system, the random sponsor election system, a flexible, simple and efficient application interface for block confirmation, and can quickly build various distributed commercial application services of the meta universe.",
+ "explorer": "https://bscscan.com/token/0xc16A63d559159c06341d436E996fe434cA17E705",
+ "type": "BEP20",
+ "symbol": "CS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc16A63d559159c06341d436E996fe434cA17E705"
+}
