@@ -1,0 +1,13 @@
+1{
+2"name": "Star Token",
+3"website": "https://t.me/starDao_CN",
+4"description": "Galaxy Star is a combination
+Aggregate Metaverse+Web3.0+NFT+DEFI
+Created a New Wealth Creation Ecosystem.",
+5"explorer": "https://bscscan.com/address/0xF49075181875A90293D305BA190Eea53757cFe81",
+6"type": "BEP20",
+7"symbol": "Star",
+8 "decimals": 18,
+9"status": "active",
+10 "id": "0xF49075181875A90293D305BA190Eea53757cFe81"
+11}
