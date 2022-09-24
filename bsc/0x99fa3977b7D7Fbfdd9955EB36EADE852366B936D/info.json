@@ -1,0 +1,11 @@
+{
+    "name": "RedWood",
+    "website": "https://www.redwood.red",
+    "description": "The RedWood is a community driven DeFi Token. Three built-in mechanisms occur on each trade: Reflection, Burn and Reward.",
+    "explorer": "https://bscscan.com/token/0x99fa3977b7D7Fbfdd9955EB36EADE852366B936D",
+    "type": "BEP20",
+    "symbol": "RDZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x99fa3977b7D7Fbfdd9955EB36EADE852366B936D"
+   }
