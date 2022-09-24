@@ -1,0 +1,11 @@
+{
+    "name": "Redwood NFTs",
+    "website": "https://www.redwood.red",
+    "description": "RedWood is an defi that integrates many new technologies and concepts such as blockchain, encryption economy and metauniverse.",
+    "explorer": "https://bscscan.com/token/0x24A2eE4B20aE999c481fa38e4d2DDdeb93c8891C",
+    "type": "ERC721",
+    "symbol": "Redwood NFTs",
+    "decimals": 4,
+    "status": "active",
+    "id": "0x24A2eE4B20aE999c481fa38e4d2DDdeb93c8891C"
+   }
