@@ -1,0 +1,11 @@
+{
+ "name": "Bitcoin-por",
+ "website": "https://btc-por.net/",
+ "description": "A model experiment on the price increase of decentralized digital currency initiated by a group of geeks from all over the world.",
+ "explorer": "https://bscscan.com/token/0x7e20FEC0e64E81e4B9812Bd4886cD1Fd3aD4DF45",
+ "type": "BEP20",
+ "symbol": "Btc-por",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x7e20FEC0e64E81e4B9812Bd4886cD1Fd3aD4DF45"
+}
