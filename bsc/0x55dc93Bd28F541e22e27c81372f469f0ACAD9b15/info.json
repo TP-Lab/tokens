@@ -1,0 +1,11 @@
+{
+ "name": "Scarecrow Token",
+ "website": "https://scarecrowtoken.com/",
+ "description": "ScarecrowToken is a project based on BSC. Users can earn profits through USDT dividends and big wheel games.",
+ "explorer": "https://bscscan.com/address/0x55dc93Bd28F541e22e27c81372f469f0ACAD9b15",
+ "type": "BEP20",
+ "symbol": "SCT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x55dc93Bd28F541e22e27c81372f469f0ACAD9b15"
+}
