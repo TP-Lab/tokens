@@ -1,0 +1,11 @@
+{
+ "name": "Toto",
+ "website": "https://ozfund.one/",
+ "description": "TOTO is a membership and governance token in the Oz ecosystem that can be obtained by staking OZC, or by gambling and betting with OZC. TOTO can be used in diverse betting scenarios, and is also used as a management tool in the Oz ecosystem for platform governance. TOTO has a variety of burn mechanisms. Every day the entire profits of the Ozbet would be used for the buyback and burn of TOTO.",
+ "explorer": "https://bscscan.com/token/0x88468dbDd08bf76b45C512d5d30048d70B3F2b00",
+ "type": "BEP20",
+ "symbol": "TOTO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x88468dbDd08bf76b45C512d5d30048d70B3F2b00"
+}
