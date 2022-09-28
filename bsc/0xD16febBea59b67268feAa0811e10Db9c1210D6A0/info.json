@@ -1,0 +1,11 @@
+{
+  "name": "Poker.P",
+  "website": "https://poker-c.vercel.app/",
+  "description": "Poker.C create a fair and open ecosystem with advance technology, and we will be the pioneer of the gambling industry.",
+  "explorer": "https://bscscan.com/token/0xD16febBea59b67268feAa0811e10Db9c1210D6A0",
+  "type": "BEP20",
+  "symbol": "PKC",
+  "decimals": 8,
+  "status": "active",
+  "id": "0xD16febBea59b67268feAa0811e10Db9c1210D6A0"
+ }
