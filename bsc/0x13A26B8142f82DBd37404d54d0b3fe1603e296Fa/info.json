@@ -1,0 +1,11 @@
+{
+  "name": "Elephant Coin",
+  "website": "https://www.elephant.stream/#/",
+  "description": "Elephant is an open source node of the ecosystem built on the Ethereum blockchain. It realizes VR, AR, MR game sensing technology based on block interaction technology.",
+  "explorer": "https://bscscan.com/token/0x13A26B8142f82DBd37404d54d0b3fe1603e296Fa",
+  "type": "BEP20",
+  "symbol": "ELC",
+  "decimals": 18, 
+  "status": "active",
+  "id": "0x13A26B8142f82DBd37404d54d0b3fe1603e296Fa"
+ }
