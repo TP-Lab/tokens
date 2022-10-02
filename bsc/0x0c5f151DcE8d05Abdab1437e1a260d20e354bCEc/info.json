@@ -1,0 +1,11 @@
+{
+ "name": "GOLDDOG",
+ "website": "https://www.golddognft.com/",
+ "description": "GOLD DOG Token is a meme currency created in the Binance Smart Chain network, its main objective is to be an ecosystem where we can have a swap and trade nfts tokens, we also aim to be an intermediary to raise funds to help animals that are being abused and used for experiments.",
+ "explorer": "https://bscscan.com/token/0x0c5f151DcE8d05Abdab1437e1a260d20e354bCEc",
+ "type": "BEP20",
+ "symbol": "GDOG",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x0c5f151DcE8d05Abdab1437e1a260d20e354bCEc"
+}
