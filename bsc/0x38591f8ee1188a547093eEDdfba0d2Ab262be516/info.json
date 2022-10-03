@@ -1,0 +1,11 @@
+{
+ "name": "magicCoin",
+ "website": "https://bscscan.com/token/0x38591f8ee1188a547093eEDdfba0d2Ab262be516",
+ "description": "magicCoin TOKEN.",
+ "explorer": "https://bscscan.com/token/0x38591f8ee1188a547093eEDdfba0d2Ab262be516",
+ "type": "BEP20",
+ "symbol": "MAG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x38591f8ee1188a547093eEDdfba0d2Ab262be516"
+}
