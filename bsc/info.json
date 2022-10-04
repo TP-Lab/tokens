@@ -1,11 +1,11 @@
 {
- "name": "BTCCToken",
- "website": "https://www.gulfstreammine.com",
- "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
- "explorer": "https://bscscan.com/token/0xDCEE2E492460b4E2Eff0BA779a8Db2c0bd270d40",
+ "name": "MDC",
+ "website": "https://              ",
+ "description": "MaxDAO is a decentralized autonomous organization on the blockchain. MDC is a decentralized governance token issued based on BEP-20 on the coin security intelligent chain. There is no private placement and pre excavation of MDC tokens, and they can only be produced through ecological mining pool to ensure the scarcity of MDC.",
+ "explorer": "https://bscscan.com/token/0xF1ca67D79FEC27B6f2D4F8Ce4E9897460593153e",
  "type": "BEP20",
- "symbol": "BTCC",
+ "symbol": "MDC",
  "decimals": 18,
  "status": "active",
- "id": "0xDCEE2E492460b4E2Eff0BA779a8Db2c0bd270d40"
+ "id": "0xF1ca67D79FEC27B6f2D4F8Ce4E9897460593153e"
 }
