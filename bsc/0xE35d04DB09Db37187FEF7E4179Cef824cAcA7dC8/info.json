@@ -1,0 +1,11 @@
+{
+ "name": "GMmissle",
+ "website": "https://WWW.gm123.co",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/address/0xe35d04db09db37187fef7e4179cef824caca7dc8",
+ "type": "BEP20",
+ "symbol": "GM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe35d04db09db37187fef7e4179cef824caca7dc8"
+}
