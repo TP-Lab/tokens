@@ -1,0 +1,11 @@
+{
+ "name": "MetaX Integral",
+ "website": "https://meta-e-x.com",
+ "description": "MetaX Integral is one of the cryptocurrencies in the MetaX ecosystem. Aim to build the financial system of MetaX.",
+ "explorer": "https://bscscan.com/token/0x715097ab1a8d4fa29c5fe416e38452d7be418cae",
+ "type": "BEP20",
+ "symbol": "MX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x715097Ab1A8d4fa29C5fE416e38452D7Be418cAe"
+}
