@@ -1,0 +1,11 @@
+{
+ "name": "Journey Of Awakening",
+ "website": "https://www.atkdao.space/",
+ "description": "Journey of awakening(ATK) is a community-centric metaverse game where each player owns a completely independent NFT. Each unique hero looks different; and has different abilities.",
+ "explorer": "https://bscscan.com/token/0x9cb928bf50ed220ac8f703bce35be5ce7f56c99c",
+ "type": "BEP20",
+ "symbol": "ATK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9cB928Bf50ED220aC8f703bce35BE5ce7F56C99c"
+}
