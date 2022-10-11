@@ -1,0 +1,11 @@
+{
+ "name": "Picture",
+ "website": "https://www.fspte.com/",
+ "description": "Picture Multi application Ecology.",
+ "explorer": "https://bscscan.com/token/0xe1c9cE5E051d44084c1854F6c0CbDB107564DB1A",
+ "type": "BEP20",
+ "symbol": "PT",
+ "decimals": 11,
+ "status": "active",
+ "id": "0xe1c9cE5E051d44084c1854F6c0CbDB107564DB1A"
+}
