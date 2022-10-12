@@ -5,7 +5,7 @@
 	"explorer": "https://bscscan.com/token/0xDc7a32C9Dbe4E7B05A0239A953689d8c688Fa11d",
 	"type": "BEP20",
 	"symbol": "LuLu",
-	"decimals": "6",
+	"decimals": "12",
 	"status": "active",
 	"id": "0xDc7a32C9Dbe4E7B05A0239A953689d8c688Fa11d"
 }
