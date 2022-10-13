@@ -1,0 +1,11 @@
+{
+ "name": "YOUCOIN TOKEN",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x96F75B57ba0cf514F932D24e076b6CB52E8Fe583",
+ "type": "BEP20",
+ "symbol": "UCON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x96F75B57ba0cf514F932D24e076b6CB52E8Fe583"
+}
