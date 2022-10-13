@@ -1,0 +1,11 @@
+{
+ "name": "OXO Coin",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x29F6b1b7f024752fAe51A83c0515fE469508084F",
+ "type": "BEP20",
+ "symbol": "OXO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x29F6b1b7f024752fAe51A83c0515fE469508084F"
+}
