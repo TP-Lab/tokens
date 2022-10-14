@@ -1,0 +1,11 @@
+{
+ "name": "KFD",
+ "website": "No",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x5acE9F5D3494AE3dA48e2c681461bC565960CEDd",
+ "type": "BEP20",
+ "symbol": "KFD",
+ "decimals": 18,
+ "status": "not open",
+ "id": "0x5acE9F5D3494AE3dA48e2c681461bC565960CEDd"
+}
