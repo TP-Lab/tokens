@@ -1,0 +1,11 @@
+{
+	"name": "LuLu",
+	"website": "https://www.lulua.pro/?salt=333333",
+	"description": "LuLu is a DeFi decentralized financial protocol issued on the BSC Binance chain",
+	"explorer": "https://bscscan.com/token/0xDc7a32C9Dbe4E7B05A0239A953689d8c688Fa11d",
+	"type": "BEP20",
+	"symbol": "LuLu",
+	"decimals": "12",
+	"status": "active",
+	"id": "0xDc7a32C9Dbe4E7B05A0239A953689d8c688Fa11d"
+}
