@@ -1,0 +1,11 @@
+{ 
+"name": "ASK",
+"website": "https://asknft.biz/",
+"description": "The world's most popular NFT project (ASK), to build Asia's largest NFT trading platform,By more than 300 teams at home and abroad, now has more than 100000 members, online merchants are currently more than 50 enterprises!",
+"explorer": "https://bscscan.com/token/0x3706Ff9eB46b1EBc21eA66111aEc16c65eA5c6B4",
+"type": "BEP20",
+"symbol": "ASK",
+"decimals": 18,
+"status": "active",
+"id": "0x3706Ff9eB46b1EBc21eA66111aEc16c65eA5c6B4"
+}
