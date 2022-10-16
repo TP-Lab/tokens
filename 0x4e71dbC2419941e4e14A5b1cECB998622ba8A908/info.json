@@ -1,0 +1,11 @@
+{
+  "name": "BNM",
+  "website": "http://mirofbsc.com/home",
+  "description": "Total Supply: UnlimitedIDO 100W piecesLiquidity 100W pieces Officials do not sell BNM directly to players. BNM can be earned by playing games. Once earned, you can withdraw them to your wallet.Players with hero NFTs can get BNM by clearing the dungeon every day.Action and consumptionPlayers use the form of BND+BNM, buy and use blind boxes and then get NFT.The BNM consumed by the purchase of the blind box will be charged a 5% handling fee and 95% will be destroyedPlayers need to consume a certain amount of BNM every time they enter the underground palace.Hero upgrade, weapon upgrade and land upgrade all need to consume a part of BNM。",
+  "explorer": "https://bscscan.com/address/0x4e71dbC2419941e4e14A5b1cECB998622ba8A908",
+  "type": "BEP20",
+  "symbol": "BNM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4e71dbC2419941e4e14A5b1cECB998622ba8A908"
+}
