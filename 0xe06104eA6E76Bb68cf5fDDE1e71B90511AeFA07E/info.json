@@ -1,0 +1,11 @@
+{
+  "name": "BND",
+  "website": "http://mirofbsc.com/home",
+  "description": "User acquisition path Users can purchase BND through IDO activities before the game goes live;BND can be used for hero upgrades and weapon upgrades.After the staking system is opened, players can stake BND through the official website, and they can get different proportions of platform dividends according to the length of the staking time.Players with a certain amount of BND can also participate in community voting, allowing players to directly participate in the growth of the game. Players not only benefit more intuitively, but also determine the direction and development of the game.",
+  "explorer": "https://bscscan.com/address/0xe06104eA6E76Bb68cf5fDDE1e71B90511AeFA07E",
+  "type": "BEP20",
+  "symbol": "BND",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe06104eA6E76Bb68cf5fDDE1e71B90511AeFA07E"
+}
