@@ -1,0 +1,12 @@
+{
+ "name": "PEOPLE NFT",
+ "website": "No",
+ "description": "NFT can get 2.5% dividend of selling service charge, and needs to hold more than 3000 PEOPLE
+NFT only sells 1638 shares, which can be freely traded. After NFT transfers, it will be deemed as giving up 2.5% of the dividend rights",
+ "explorer": "https://bscscan.com/address/0xf8c32130f7d19e4cab2ce829ee7e0b128a199a83",
+ "type": "BEP20",
+ "symbol": "PEOPLE NFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf8c32130f7d19e4cab2ce829ee7e0b128a199a83"
+}
