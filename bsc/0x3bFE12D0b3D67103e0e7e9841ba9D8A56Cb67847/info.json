@@ -1,0 +1,11 @@
+{
+ "name": "CRCT",
+ "website": "https://www.crazynftsgames.com",
+ "description": "Crazy Rabbit Cash.",
+ "explorer": "https://bscscan.com/token/0x3bFE12D0b3D67103e0e7e9841ba9D8A56Cb67847",
+ "type": "BEP20",
+ "symbol": "CRCT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3bFE12D0b3D67103e0e7e9841ba9D8A56Cb67847"
+}
