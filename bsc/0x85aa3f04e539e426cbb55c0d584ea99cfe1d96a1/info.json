@@ -1,0 +1,11 @@
+{
+    "name": "Meta Flare ",
+    "website": "https://www.metaflare.store",
+    "description": "A new system of Web 3.0 digital economy integrating blockchain underlying technology research and development and 'blockchain +' social networking, games, finance, shopping malls, cultural entertainment, etc.",
+    "explorer": "https://bscscan.com/address/0x85aa3f04e539e426cbb55c0d584ea99cfe1d96a1",
+    "type": "BEP20",
+    "symbol": "FLARE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x85aa3f04e539e426cbb55c0d584ea99cfe1d96a1"
+   }
