@@ -1,0 +1,11 @@
+{
+ "name": "CSC",
+ "website": "No",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x3D0cb2f1A7Aa57e785A9ca5529a7F58F6063C661",
+ "type": "BEP20",
+ "symbol": "CSC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3D0cb2f1A7Aa57e785A9ca5529a7F58F6063C661"
+}
