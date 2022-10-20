@@ -1,0 +1,11 @@
+{
+ "name": "QIJI",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xA6668Ed878658c2592740D66eA8132405F34c031",
+ "type": "BEP20",
+ "symbol": "qiji",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA6668Ed878658c2592740D66eA8132405F34c031"
+} 
