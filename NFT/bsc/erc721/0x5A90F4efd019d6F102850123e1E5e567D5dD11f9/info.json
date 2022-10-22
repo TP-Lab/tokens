@@ -1,0 +1,11 @@
+{
+    "name": "Romulus",
+    "website": "https://www.richmonkey.vip/",
+    "description": "Romulus",
+    "explorer": "https://bscscan.com/address/0x5A90F4efd019d6F102850123e1E5e567D5dD11f9",
+    "type": "ERC721",
+    "symbol": "RMS",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x5A90F4efd019d6F102850123e1E5e567D5dD11f9"
+}
