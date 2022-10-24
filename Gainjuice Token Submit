@@ -1,0 +1,44 @@
+{
+    "name": "GAINJUICE (GJUICE)",
+    "website": "https://gainjuice.co",
+    "description": "GainJuice is a community token that was created with intentions not to only build a flawless reward system mining game on the RPG chain but also to help with exposing the world to Rangers Protocol and showing how important this technology is to our future Web3 metaverse.",
+    "explorer": "https://bscscan.com/token/0x65d02707a6a3e6347be5cf3619d75a741dffa54f",
+    "type": "BSC",
+    "symbol": "GJUICE",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x65d02707a6a3e6347be5cf3619d75a741dffa54f",
+    "tags": [
+        "defi"
+    ],
+	"links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/gainjuice"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/GAINJUICED"
+        },
+		{
+            "name": "docs",
+            "url": "https://rpggainjuice.wixsite.com/gainjuice"
+        },
+		{
+            "name": "medium",
+            "url": "https://medium.com/@rpggainjuice"
+        },
+		{
+            "name": "youtube",
+            "url": "https://www.youtube.com/channel/UCsrRtPZx5jkjVgb4mr15k1A"
+        },
+		{
+            "name": "discord",
+            "url": "N/A"
+        },
+		{
+            "name": "github",
+            "url": "https://github.com/Gainjuice/assets"
+        }
+    ]
+}
