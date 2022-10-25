@@ -1,0 +1,11 @@
+{
+"name": "SES",
+"website": "SES",
+"description": "SES.",
+"explorer": "https://https://bscscan.com/token/0x556035271c4500104889055a6a390dbf9ee8666a",
+"type": "BEP20",
+"symbol": "SES",
+"decimals": 18,
+"status": "active",
+"id": "0x556035271c4500104889055A6a390dbF9eE8666a"
+}
