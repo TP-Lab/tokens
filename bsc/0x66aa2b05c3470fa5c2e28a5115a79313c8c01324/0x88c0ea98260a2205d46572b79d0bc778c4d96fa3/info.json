@@ -1,0 +1,11 @@
+{
+ "name": "YuBeiGou",
+ "website": "http://www.yubeigou.org",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x88c0ea98260a2205d46572b79d0bc778c4d96fa3",
+ "type": "BEP20",
+ "symbol": "YBE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x88c0ea98260a2205d46572b79d0bc778c4d96fa3"
+}
