@@ -1,10 +1,10 @@
 {
- "name": "DogeShark",
+ "name": "DogeSharkV2",
  "website": "-",
  "description": "This is a zero-to-zero operation, led by Mr. 9z, until all consensus kills the last zero.",
  "explorer": "https://bscscan.com/token/0xECCe31EC6804a8972e94D5adF4d078AE67FAEABE",
  "type": "BEP20",
- "symbol": "DogeShark",
+ "symbol": "DogeSharkV2",
  "decimals": 9,
  "status": "active",
  "id": "0xECCe31EC6804a8972e94D5adF4d078AE67FAEABE",
