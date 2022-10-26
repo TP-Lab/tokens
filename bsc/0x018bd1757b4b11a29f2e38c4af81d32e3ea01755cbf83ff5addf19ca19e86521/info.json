@@ -1,0 +1,11 @@
+{
+    "name": "TITAN TOKEN",
+    "website": "https://www.titannftdex.com",
+    "description": "Titan Token is used for Titan NFT DEX, The full name is TITAN Non-Fungible Token Decentralized Exchange, from the TITAN Foundation in Singapore. It is a decentralized digital art trading platform+.",
+    "explorer": "https://bscscan.com/token/0x4463E9E9FA1876415e778da0712c6cF604ED1f14",
+    "type": "BEP20",
+    "symbol": "TNT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4463E9E9FA1876415e778da0712c6cF604ED1f14"
+}
