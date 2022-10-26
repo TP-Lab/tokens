@@ -1,0 +1,11 @@
+{
+	"name": "FRRE ELF",
+	"website": "https://tokenpocket.pro",
+	"description": "FEEF ELF TOKEN.",
+	"explorer": "https://bscscan.com/token/0x064dFf4669d8fbAf359cB54DCeb575BB4229783C",
+	"type": "BEP20",
+	"symbol": "FEEF",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x064dFf4669d8fbAf359cB54DCeb575BB4229783C"
+} 
