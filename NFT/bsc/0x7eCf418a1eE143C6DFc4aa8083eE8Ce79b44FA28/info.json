@@ -1,0 +1,11 @@
+{
+    "name": "Remus",
+    "website": "https://www.richmonkey.vip/",
+    "description": "Remus (REM)",
+    "explorer": "https://bscscan.com/address/0x7eCf418a1eE143C6DFc4aa8083eE8Ce79b44FA28",
+    "type": "ERC721",
+    "symbol": "REM",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x7eCf418a1eE143C6DFc4aa8083eE8Ce79b44FA28"
+}
