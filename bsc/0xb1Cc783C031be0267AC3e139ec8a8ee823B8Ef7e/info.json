@@ -1,0 +1,11 @@
+{
+ "name": "Token SJMN",
+ "website": "https://SJMN.pro",
+ "description": " BSC",
+ "explorer": "https://bscscan.com/token/0xb1cc783c031be0267ac3e139ec8a8ee823b8ef7e",
+ "type": "BEP20",
+ "symbol": "SJMN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb1cc783c031be0267ac3e139ec8a8ee823b8ef7e"
+}
