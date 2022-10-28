@@ -1,0 +1,11 @@
+{
+    "name": "CryptoCoinPay",
+    "website": "https://cryptocoinpay.co/",
+    "description": "The CryptoCoinPay public chain is more suitable for use as a distributed ledger platform, and buyers can check their transactions (private or commercial) on the network on CryptoCoinPay. As a reliable platform, CryptoCoinPay not only provides sellers with safe and convenient bookkeeping certificates of deposit, but also provides clear consumption services for buyers. CryptoCoinPay uses blockchain to pioneer the combination of the best ledger protection functions in the current market, and incorporates the unique features of CCP digital assets.",
+    "explorer": "https://etherscan.io/token/0xc8d07671aFbA9492Da95819De4AD10859e00aB7F",
+    "type": "ERC20",
+    "symbol": "CCP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc8d07671aFbA9492Da95819De4AD10859e00aB7F"
+   }
