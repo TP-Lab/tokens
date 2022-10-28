@@ -1,0 +1,11 @@
+{
+ "name": "Woo NetWorkcc",
+ "website": "-",
+ "description": "Woo NetWorkcc is a platform that provides zero cost and deep liquidity.",
+ "explorer": "https://bscscan.com/token/0x28a84f35504c83839cf618b302161a786ec207b8",
+ "type": "BEP20",
+ "symbol": "wcc",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x28a84f35504c83839cf618b302161a786ec207b8",
+}
