@@ -1,0 +1,11 @@
+{
+ "name": "Digital Virtual Life",
+ "website": "https://dvl.world",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x9C55ae1e82B4656224bA35e3F8C37844AfBca229",
+ "type": "BEP20",
+ "symbol": "DVL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9C55ae1e82B4656224bA35e3F8C37844AfBca229"
+}
