@@ -1,0 +1,10 @@
+{
+    "name": "TBC",
+    "description": "The TBC protocol is a truly decentralized protocol. In TBC, there are international and decentralized teams responsible for different sectors. algorithm mechanism has been improved,The TBC redoes the pattern for everyone.",
+    "explorer": "https://bscscan.com/token/0x46404cf8d6277289d8a9c40bd66747cf77297cab",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "TBC",
+    "status": "active",
+    "id": "0x46404cf8d6277289d8a9c40bd66747cf77297cab"
+}
