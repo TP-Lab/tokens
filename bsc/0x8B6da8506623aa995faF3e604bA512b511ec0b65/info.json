@@ -1,0 +1,11 @@
+{
+ "name": "Pink Panther Lovers",
+ "website": "https://www.pinkpantherlover.com",
+ "description": "Pink Panther card game is one of the best NFT card games to play.",
+ "explorer": "https://bscscan.com/token/0x8b6da8506623aa995faf3e604ba512b511ec0b65",
+ "type": "BEP20",
+ "symbol": "PPL",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8B6da8506623aa995faF3e604bA512b511ec0b65"
+}
