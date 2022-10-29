@@ -5,7 +5,7 @@
  "explorer": "https://bscscan.com/token/0x35A3fc50af27988f0e947786465335651949a7d8",
  "type": "BEP20",
  "symbol": "ALO",
- "decimals": 18,
+ "decimals": 6,
  "status": "active",
  "id": "0x35A3fc50af27988f0e947786465335651949a7d8"
 }
