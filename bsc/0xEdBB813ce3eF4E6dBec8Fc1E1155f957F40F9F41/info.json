@@ -1,0 +1,11 @@
+{
+ "name": "WEB3 TOKEN",
+ "website": "-",
+ "description": "WEB3 TOKEN is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xEdBB813ce3eF4E6dBec8Fc1E1155f957F40F9F41",
+ "type": "BEP20",
+ "symbol": "WEB3",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEdBB813ce3eF4E6dBec8Fc1E1155f957F40F9F41"
+}
