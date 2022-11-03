@@ -1,0 +1,11 @@
+{
+ "name": "Asco",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x6761c3f60f38fEB0F8bae30E874bacfceAd81978",
+ "type": "BEP20",
+ "symbol": "Asco",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6761c3f60f38fEB0F8bae30E874bacfceAd81978"
+}
