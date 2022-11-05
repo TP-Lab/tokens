@@ -1,0 +1,11 @@
+{
+ "name": "FarmerDoge",
+ "website": "https://www.farmerdoge.net/",
+ "description": "FarmerDoge is the world's first multi currency rewards token, that allows the Farming of any Cryptocurrency on the Binance Smart Chain.",
+ "explorer": "https://bscscan.com/token/0xEe0736c93E98B2e9fbf11f47dB19E7B68Db71E94",
+ "type": "BEP20",
+ "symbol": "CROP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEe0736c93E98B2e9fbf11f47dB19E7B68Db71E94"
+}
