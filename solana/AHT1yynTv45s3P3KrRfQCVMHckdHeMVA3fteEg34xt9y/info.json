@@ -1,0 +1,11 @@
+{
+  "name": "Ave Hamilton Token",
+  "website": "https://zclub.app/",
+  "description": "AHT is socialfi app ZClub's game token. It has no limit of supply, and is earned when a user becomes a Seat/ChatRoom NFT holder and joins the game.",
+  "explorer": "https://solscan.io/token/AHT1yynTv45s3P3KrRfQCVMHckdHeMVA3fteEg34xt9y",
+  "type": "SPL",
+  "symbol": "AHT",
+  "decimals": 9,
+  "status": "active",
+  "id": "AHT1yynTv45s3P3KrRfQCVMHckdHeMVA3fteEg34xt9y"
+}
