@@ -1,0 +1,11 @@
+{
+"name": "Bull Coin Club ",
+"website": "BCC",
+"description": "Niubi Club A token for community autonomy, initiated by many community leaders",
+"explorer": "https://https://bscscan.com/address/0xb3260119514f2d9645de050fb33874fb4d4d0ae1",
+"type": "BEP20",
+"symbol": "BCC",
+"decimals": 18,
+"status": "active",
+"id": "0xb3260119514F2D9645dE050fb33874fB4D4d0Ae1"
+}
