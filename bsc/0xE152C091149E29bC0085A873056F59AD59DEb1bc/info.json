@@ -1,0 +1,11 @@
+{
+  "name": "New Land Token",
+  "website": "https://pro.foreverdiamonddao.com/#/",
+  "description": "",
+  "explorer": "https://bscscan.com/token/0xE152C091149E29bC0085A873056F59AD59DEb1bc",
+  "type": "BEP20",
+  "symbol": "NLT",
+  "decimals": 18, 
+  "status": "active",
+  "id": "0xE152C091149E29bC0085A873056F59AD59DEb1bc"
+ }
