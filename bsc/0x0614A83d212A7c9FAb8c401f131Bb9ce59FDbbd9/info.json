@@ -1,0 +1,11 @@
+{
+ "name": "CFPlus",
+ "website": "https://cfplus.qjicoin.cc",
+ "description": "CFPlus Token, as an ecological token organized by the DAO of Miracle Community, is committed to creating a popular ecology in the blockchain industry, and creates value through the ecology it participates in to promote the long-term development of Miracle Community; Planning layout: Web3.0, Metauniverse, GameFi and other popular ecology.",
+ "explorer": "https://bscscan.com/token/0x0614A83d212A7c9FAb8c401f131Bb9ce59FDbbd9",
+ "type": "BEP20",
+ "symbol": "CFPlus",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0614A83d212A7c9FAb8c401f131Bb9ce59FDbbd9"
+}
