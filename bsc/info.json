@@ -1,0 +1,11 @@
+{
+ "name": "BTH Token",
+ "website": "https://tokenpocket.pro",
+ "description": "BTH is a cross-chain DeFi + NFT + meta ological protocol and infrastructure and also an open NFT ecosystem.Anyone can create an NFT, initiate NFT mining, auctions, and deals.",
+ "explorer": "https://bscscan.com/token/0xF9FE58785b92824AC793838257983469840fA220",
+ "type": "BEP20",
+ "symbol": "BTH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF9FE58785b92824AC793838257983469840fA220"
+}
