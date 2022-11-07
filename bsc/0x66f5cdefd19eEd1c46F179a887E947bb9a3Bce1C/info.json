@@ -1,0 +1,11 @@
+{
+ "name": "MT",
+ "website": "https://www.mboxecology.com/",
+ "description": "Mbox uses Blind Box intelligent protocol as the traffic engine, dual pass as the value carrier, and uses DeFi, NFT, GameFi, Metaverse and other innovative composite models as the driver to horizontally build a MBOX Web3.0 ecological aggregation system;",
+ "explorer": "https://bscscan.com/token/0x66f5cdefd19eed1c46f179a887e947bb9a3bce1c",
+ "type": "BEP20",
+ "symbol": "MT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x66f5cdefd19eed1c46f179a887e947bb9a3bce1c"
+}
