@@ -1,0 +1,11 @@
+{
+ "name": "Lymex",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0x448F861728F4Ed28914f42B4C8C0ff70b8bD637B",
+ "type": "BEP20",
+ "symbol": "LYM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x448F861728F4Ed28914f42B4C8C0ff70b8bD637B"
+}
