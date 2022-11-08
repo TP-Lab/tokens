@@ -1,0 +1,10 @@
+{
+ "name": "Mago Verse",
+ "website": "https://magoverse.net/",
+ "description": "A wearable device based on WEB3 project.Anyone who wear a MAGO with MAGO NFTs can complete tasks to get rewards.",
+ "explorer": "https://etherscan.io/token/0xbA70EE0039d9737818cAcb0D639d0b9FC686659c",
+ "type": "ERC721",
+ "symbol": "MAGONFT",
+ "status": "active",
+ "id": "0xbA70EE0039d9737818cAcb0D639d0b9FC686659c"
+}

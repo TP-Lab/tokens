@@ -1,0 +1,11 @@
+{
+ "name": "Meta",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x65ba7d349fbf41654001fb4500a682f460fbb3f0",
+ "type": "BEP20",
+ "symbol": "Meta",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x65ba7d349fbf41654001fb4500a682f460fbb3f0"
+}
