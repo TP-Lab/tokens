@@ -1,0 +1,11 @@
+{
+    "name": "Dcoreum DCO",
+    "website": "https://dcoreum.io/",
+    "description": "DCOREUM is a decentralized economy ecosystem that provides an inclusive platform for consumers, merchants and creators to perform trade & business, in an autonomous, transparent and secure manner with the implementation of Web3.0, freeing themselves from monopolistic intermediaries that act against the collective interests of the community.",
+    "explorer": "https://bscscan.com/token/0x25102c5af2d4faa83ddbd36d9f6af5d9c2b84093",
+    "type": "BEP-20",
+    "symbol": "DCO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x25102C5aF2D4FAA83DDBd36d9f6AF5d9c2b84093"
+}
