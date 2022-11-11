@@ -1,0 +1,11 @@
+{
+ "name": "NE",
+ "website": "nechain.org",
+ "description": "NE (NEW ERA) is a closed loop system of Web3+Metauniverse+Public Chain 4.0+DeFi+GameFi based on ecological planning. At the same time, it will record the world competitive sports events and the distributed data of competitive games on the chain. It can record competitive games, world sports, football World Cup, the Global Olympic Games, and gambling and entertainment events on the chain, form a historical sports database, and make it public in the way of full community autonomy.",
+ "explorer": "https://bscscan.com/token/0x8a9e646679b9e104d1de8a1e234bfcb5c8e5705f",
+ "type": "BEP20",
+ "symbol": "NE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8a9e646679b9e104d1de8a1e234bfcb5c8e5705f"
+}
