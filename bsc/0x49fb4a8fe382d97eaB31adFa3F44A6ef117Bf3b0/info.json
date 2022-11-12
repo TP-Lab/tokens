@@ -1,0 +1,11 @@
+{
+    "name": "MetaCup Token",
+    "website": "https://metacup.app/",
+    "description": "MetaCup is a Community-Driven Soccer Metaverse. Bet To Earn /Watch To Earn /Social To Earn /Play To Earn /Share To Earn/Stake To Earn in MetaCup-Verse.",
+    "explorer": "https://bscscan.com/token/0x49fb4a8fe382d97eaB31adFa3F44A6ef117Bf3b0",
+    "type": "BEP20",
+    "symbol": "MCUP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x49fb4a8fe382d97eaB31adFa3F44A6ef117Bf3b0"
+}
