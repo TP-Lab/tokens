@@ -1,0 +1,11 @@
+{
+ "name": "Tw football",
+ "website": "-",
+ "description": "Tw football is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x473d4FaDFf12e91515CdBc6cdA58D35bFa22E36a",
+ "type": "BEP20",
+ "symbol": "Tw football",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x473d4FaDFf12e91515CdBc6cdA58D35bFa22E36a"
+}
