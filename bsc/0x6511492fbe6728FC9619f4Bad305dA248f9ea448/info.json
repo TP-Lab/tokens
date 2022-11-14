@@ -1,0 +1,11 @@
+{ 
+"name": "Best Friend&#39;s Brother",
+"website": "https://www.wincoff.com",
+"description": "BFB is a revolutionary new transaction settlement and data transfer layer Tangle designed for the Internet of Things. It can overcome the inefficiency in the existing blockchain design and create a new method for the consensus of decentralized P2P system. There is no fee to transfer money through BFB ",
+"explorer": "https://bscscan.com/token/0x6511492fbe6728FC9619f4Bad305dA248f9ea448",
+"type": "BEP20",
+"symbol": "BFB",
+"decimals": 18,
+"status": "active",
+"id": "0x6511492fbe6728FC9619f4Bad305dA248f9ea448"
+}
