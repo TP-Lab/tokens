@@ -1,0 +1,11 @@
+﻿{
+ "name": " GFT TOKEN",
+ "website": "https:// gftrra.co",
+ "description": " GFT is a decentralized convenient service trading platform",
+ "explorer": "https://bscscan.com/address/0xdec8fe638e9f43f5a907f8f5b700c2a04b89bd46",
+ "type": "BEP20",
+ "symbol": "GFT",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xdec8fe638e9f43f5a907f8f5b700c2a04b89bd46"
+}
