@@ -1,0 +1,11 @@
+﻿{
+ "name": "RRA TOKEN",
+ "website": "https:// gftrra.co",
+ "description": " RRA is a subsidiary token of GFT, helping to build a decentralized and convenient service platform",
+ "explorer": "https://bscscan.com/address/0x4963cfb856e3956d61d2c85522fa57d3a67a74b8",
+ "type": "BEP20",
+ "symbol": "RRA",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x4963cfb856e3956d61d2c85522fa57d3a67a74b8"
+}
