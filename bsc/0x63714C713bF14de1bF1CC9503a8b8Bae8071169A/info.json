@@ -1,0 +1,11 @@
+{ 
+"name": "PICC",
+"website": "http://www.picc.space/",
+"description": "PICC is based on the development of the Canadian International Blockchain Technology Alliance team. In order to build a perfect Defi financial system, the foundation invests and incubates Defi decentralized financial projects driven by the community. ",
+"explorer": "https://bscscan.com/token/0x63714C713bF14de1bF1CC9503a8b8Bae8071169A",
+"type": "BEP20",
+"symbol": "PICC",
+"decimals": 18,
+"status": "active",
+"id": "0x63714C713bF14de1bF1CC9503a8b8Bae8071169A"
+}
