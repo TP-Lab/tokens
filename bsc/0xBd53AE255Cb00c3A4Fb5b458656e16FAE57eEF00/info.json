@@ -1,0 +1,11 @@
+{
+ "name": "KBF",
+ "website": "https://tokenpocket.pro",
+ "description": "KBF是由KBF发布的全球首个DEFI2.0+GAMEFI中和应用平台，KBF为平台管理代币，总发行量24万",
+ "explorer": "https://www.bscscan.com/token/0xBd53AE255Cb00c3A4Fb5b458656e16FAE57eEF00",
+ "type": "BEP20",
+ "symbol": "KBF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBd53AE255Cb00c3A4Fb5b458656e16FAE57eEF00"
+}
