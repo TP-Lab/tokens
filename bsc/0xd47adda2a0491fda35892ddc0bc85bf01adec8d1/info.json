@@ -1,0 +1,11 @@
+{
+    "name": "Meta Future",
+    "website": "https://bscfuture.github.io",
+    "description": "Meta Future is the first Web3.0 product in the Future Flare ecosystem and the world's first wbe3.0 protocol based on social attributes. It is also a multi-dimensional ecosystem integrating many functions such as NFT, DAO, metauniverse, crypto wallet and cryptocurrency transaction.",
+    "explorer": "https://bscscan.com/address/0xd47adda2a0491fda35892ddc0bc85bf01adec8d1",
+    "type": "BEP20",
+    "symbol": "FUTURE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd47adda2a0491fda35892ddc0bc85bf01adec8d1"
+   }
