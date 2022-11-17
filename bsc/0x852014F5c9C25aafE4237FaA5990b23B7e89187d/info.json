@@ -1,0 +1,11 @@
+{
+ "name": "BTCZ",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x852014F5c9C25aafE4237FaA5990b23B7e89187d",
+ "type": "BEP20",
+ "symbol": "BTCZ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x852014F5c9C25aafE4237FaA5990b23B7e89187d"
+}
