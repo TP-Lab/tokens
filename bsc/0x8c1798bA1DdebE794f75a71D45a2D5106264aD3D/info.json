@@ -1,0 +1,11 @@
+{
+ "name": "WXDAG",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0x8c1798bA1DdebE794f75a71D45a2D5106264aD3D",
+ "type": "BEP20",
+ "symbol": "WXDAG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8c1798bA1DdebE794f75a71D45a2D5106264aD3D"
+}
