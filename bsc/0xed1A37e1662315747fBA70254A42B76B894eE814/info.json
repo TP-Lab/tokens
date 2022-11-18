@@ -1,0 +1,11 @@
+{
+ "name": "MASKCZDAO",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0xed1A37e1662315747fBA70254A42B76B894eE814",
+ "type": "BEP20",
+ "symbol": "MASKCZDAO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xed1A37e1662315747fBA70254A42B76B894eE814"
+}
