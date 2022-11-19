@@ -1,0 +1,11 @@
+{
+ "name": "Dream Planet Coin",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0xFb4A4064ef6b958dEf4276F8b6ea3577dB4328fA",
+ "type": "BEP20",
+ "symbol": "DPC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFb4A4064ef6b958dEf4276F8b6ea3577dB4328fA"
+}
