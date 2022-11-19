@@ -1,0 +1,11 @@
+{
+  "name": "Christmas Dog",
+  "website": "https://dogc888.top/",
+  "description": "Dogc is a smart contract deployed in Binance Smart Chain (BSC). Its full name is Christmas Dog. It is a little dog born at Christmas. It comes to offer gifts to Christmas and send Christmas greetings to blockchain enthusiasts.",
+  "explorer": "https://bscscan.com/address/0x9888890aeb2366c56aac3a3bc591c0a6f5988888",
+  "type": "BEP20",
+  "symbol": "Dogc",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x9888890AEB2366C56aAC3a3BC591C0A6F5988888"
+}
