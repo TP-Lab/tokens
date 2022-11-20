@@ -1,0 +1,11 @@
+{
+ "name": "AOO",
+ "website": "https://aggregation.world",
+ "description": "Aggregate World is committed to building a decentralized and open chain game aggregation platform, creating a new block ecology combined with token incentives.",
+ "explorer": "https://bscscan.com/token/0x8d89153d30ccFAe576E82FFBa5CC8fF991E888c4",
+ "type": "BEP20",
+ "symbol": "AOO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8d89153d30ccFAe576E82FFBa5CC8fF991E888c4"
+}
