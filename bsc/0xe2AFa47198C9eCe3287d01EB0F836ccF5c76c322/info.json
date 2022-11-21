@@ -1,0 +1,11 @@
+{
+ "name": "LTurtle Token",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xe2AFa47198C9eCe3287d01EB0F836ccF5c76c322",
+ "type": "BEP20",
+ "symbol": "Turtle",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xe2AFa47198C9eCe3287d01EB0F836ccF5c76c322"
+}
