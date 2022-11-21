@@ -1,0 +1,11 @@
+{
+ "name": "Formula Network",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xc60CB42B0db6041A117BFe7345e2f62339d6221C",
+ "type": "BEP20",
+ "symbol": "FN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc60CB42B0db6041A117BFe7345e2f62339d6221C"
+}
