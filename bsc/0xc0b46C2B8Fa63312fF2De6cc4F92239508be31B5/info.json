@@ -1,0 +1,11 @@
+{
+ "name": "Haya of the volcano",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xc0b46C2B8Fa63312fF2De6cc4F92239508be31B5",
+ "type": "BEP20",
+ "symbol": "HOTV",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc0b46C2B8Fa63312fF2De6cc4F92239508be31B5"
+}
