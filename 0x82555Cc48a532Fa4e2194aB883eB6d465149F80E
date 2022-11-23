@@ -1,0 +1,11 @@
+{
+    "name": "MetaPioneers Token",
+    "website": "https://metapi.xyz/",
+    "description": "MetaPioneers is a decentralized application featuring NFT+DeFi elements with a combination of entertaining game features. It minimizes the long and harsh learning process and enables users to understand Web3 via entertainment.",
+    "explorer": "https://www.bscscan.com/token/0x82555cc48a532fa4e2194ab883eb6d465149f80e",
+    "type": "BEP20",
+    "symbol": "MPI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x82555Cc48a532Fa4e2194aB883eB6d465149F80E"
+   }
