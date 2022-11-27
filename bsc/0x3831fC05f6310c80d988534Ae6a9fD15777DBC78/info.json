@@ -1,0 +1,11 @@
+{
+    "name": "Antb",
+    "website": "https://antb.site",
+    "description": "A token",
+    "explorer": "https://bscscan.com/token/0x3831fC05f6310c80d988534Ae6a9fD15777DBC78",
+    "type": "BEP20",
+    "symbol": "Antb",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3831fC05f6310c80d988534Ae6a9fD15777DBC78"
+   }
