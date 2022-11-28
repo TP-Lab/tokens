@@ -1,0 +1,11 @@
+{
+“name”：“rabbit”，
+"website":"https://bscscan.com/address/0x62196D5E3Ba9ded6e29F011Ae48Ad52D8D68c7a3",
+“description”：“rabitb希望在世界区块链领域呼吁人类爱护小动物，希望人与自然和平发展！”,
+"explorer":"https://bscscan.com/address/0x62196D5E3Ba9ded6e29F011Ae48Ad52D8D68c7a3",
+"type":"BEP20",
+"symbol":"rabbit",
+"decimals":18,
+"status":"active",
+“id":"0x62196D5E3Ba9ded6e29F011Ae48Ad52D8D68c7a3"
+}
