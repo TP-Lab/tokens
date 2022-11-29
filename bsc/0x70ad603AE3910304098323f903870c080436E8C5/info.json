@@ -1,0 +1,11 @@
+{
+    "name": "YESGO",
+    "website": "http://www.hiyesb.com/",
+    "description": "Yesgo aims to build an aggregated social payment metaverse based on social + entertainment + blockchain + metaverse + digital wallet. ",
+    "explorer": "https://bscscan.com/address/0x70ad603ae3910304098323f903870c080436e8c5",
+    "type": "BEP20",
+    "symbol": "Yesgo",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x70ad603AE3910304098323f903870c080436E8C5"
+}
