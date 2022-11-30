@@ -1,0 +1,11 @@
+{
+ "name": "TAO.COM",
+ "website": "https://tao.com",
+ "description": "TAO.COM is a digital currency with originality TAO mining solution. ",
+ "explorer": "https://bscscan.com/token/0x5962a833291eECef2E038F8A67678000d799F1a7",
+ "type": "BEP20",
+ "symbol": "TAO.COM",
+ "decimals": 2,
+ "status": "active",
+ "id": "0x5962a833291eECef2E038F8A67678000d799F1a7"
+}
