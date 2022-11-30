@@ -1,0 +1,11 @@
+{
+ "name": "FPC",
+ "website": "",
+ "description": "貢獻代幣只作為NFT競拍燃料和制造鑄幣加速燃料",
+ "explorer": "https://bscscan.com/token/0x2861Ddd2FD0214EEfAb1EB97e46c45c8BbfFcbB7",
+ "type": "BEP20",
+ "symbol": "FPC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2861Ddd2FD0214EEfAb1EB97e46c45c8BbfFcbB7"
+}
