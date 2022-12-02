@@ -1,0 +1,11 @@
+{
+ "name": "CHM",
+ "website": "-",
+ "description": "CHM is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x02037d6C5d92F7314176ff384D94e68C2011385C",
+ "type": "BEP20",
+ "symbol": "CHM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x02037d6C5d92F7314176ff384D94e68C2011385C"
+}
