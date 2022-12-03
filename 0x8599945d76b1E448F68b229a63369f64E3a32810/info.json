@@ -1,0 +1,11 @@
+{
+ "name": "WEB3 X",
+ "website": "https://web3x.gg",
+ "description": "WEB3 X aims to offer Farm-to-Earn virtual farmland, an NFT marketplace and a DAO.",
+ "explorer": "https://etherscan.io/address/0x8599945d76b1e448f68b229a63369f64e3a32810",
+ "type": "ERC20",
+ "symbol": "WEB3X",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8599945d76b1E448F68b229a63369f64E3a32810"
+}
