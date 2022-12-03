@@ -1,0 +1,11 @@
+{
+ "name": "MUSICAL PLANET",
+ "website": "https://dapp.pilipala.news",
+ "description": "A WEB3.0 music platform，利用区块链技术，为音乐创作者、音乐粉丝提供音乐版权存储、音乐娱乐的去中心化WEB3.0音乐平台",
+"explorer":"https://bscscan.com/token/0x3710b1d89b8c16e960c97ec0e88bc7d071903b01",
+ "type": "BEP20",
+ "symbol": "MUCP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3710b1d89b8c16e960c97ec0e88bc7d071903b01"
+}
