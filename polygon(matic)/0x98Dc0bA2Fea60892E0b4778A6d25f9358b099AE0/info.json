@@ -1,0 +1,10 @@
+{
+ "name": "Tokenya",
+ "description": "Tokenya Token",
+ "explorer": "https://polygonscan.com/token/0x98Dc0bA2Fea60892E0b4778A6d25f9358b099AE0",
+ "type": "ERC20",
+ "symbol": "TKY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x98Dc0bA2Fea60892E0b4778A6d25f9358b099AE0"
+}
