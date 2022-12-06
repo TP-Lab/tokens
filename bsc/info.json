@@ -1,11 +1,11 @@
 {
- "name": "SCAR",
- "website": "https://supercarsvip.com",
- "description": "SCAR Token",
- "explorer": "https://bscscan.com/token/0x4d1D6DE2feA309826173F2e841c7658719BcB229",
- "type": "BEP20",
- "symbol": "SCAR",
- "decimals": 18,
- "status": "active",
- "id": "0x4d1D6DE2feA309826173F2e841c7658719BcB229"
+  "decimals" : 18,
+  "description" : "Pandora is a game aggregator platform that includes web 3.0, NFT, metasomatic, and link travel attributes. PDA is used to build ecologies. PDA is Pandora's main pass, combined with NFT applications to build",
+  "explorer" : "https://bscscan.com/token/0x1479f11B9B0104811e01bC4C8D3f80492FEa700f",
+  "id" : "0x1479f11B9B0104811e01bC4C8D3f80492FEa700f",
+  "name" : "Pandora",
+  "status" : "active",
+  "symbol" : "PDA",
+  "type" : "ERC20",
+  "website" : "https://box.1-pandora.com/wap/#/"
 }
