@@ -1,0 +1,11 @@
+{
+ "name": "RockStar",
+ "website": "http://rockstarpool.vip/",
+ "description": "ROCKSTAR aims to build a global high-quality blockchain project aggregation platform, which can not only help the project attract more users, but also find more high-quality projects for investors.",
+ "explorer": "https://bscscan.com/address/0x8263062fbe08fca7ec0d43c4c7a68ce3d76800bc",
+ "type": "BEP20",
+ "symbol": "ROCK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8263062fbE08Fca7Ec0D43C4c7A68CE3d76800bC"
+}
