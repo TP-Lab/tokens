@@ -1,0 +1,11 @@
+{
+  "name": "EAGLE",
+  "website": "https://the-eagle.co/",
+  "description": "Focusing on creating a closed-loop ecosystem, so that tokens can be truly circulated and have actual utilities. ",
+  "explorer": "https://bscscan.com/token/0x03A2fD936eC9e729b6cFc74a9bB8fc86E15F5E89",
+  "type": "BEP20",
+  "symbol": "EGL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x03A2fD936eC9e729b6cFc74a9bB8fc86E15F5E89"
+}
