@@ -1,0 +1,11 @@
+{ 
+"name": "REAL COIN BANK",
+"website": "http://realcoin.vip",
+"description": "Real Coin aims to build the first social trading platform for digital assets that includes trading, information, and social functions, in the globe. ",
+"explorer": "https://www.bscscan.com/token/0xe3C29aEE1c7cC6f2f4E814973A189f443eE08557",
+"type": "BEP20",
+"symbol": "RCB",
+"decimals": 8,
+"status": "active",
+"id": "0xe3C29aEE1c7cC6f2f4E814973A189f443eE08557"
+}
