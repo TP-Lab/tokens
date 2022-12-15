@@ -1,0 +1,18 @@
+"name": "Star Chain Plan",
+ 
+"website": "-",
+ 
+"description": "The Star chain project is jointly launched by Elon Musk's capital Space X and many other strong partners and supporters.",
+
+ "explorer": "https://bscscan.com/0x5030776ef4a599c7755182941c294f420e0ed090",
+ 
+"type": "BEP20",
+ 
+"symbol": "SCP",
+ 
+"decimals": 18,
+
+ "status": "active",
+ 
+"id": "0x5030776ef4a599c7755182941c294f420e0ed090"
+}
