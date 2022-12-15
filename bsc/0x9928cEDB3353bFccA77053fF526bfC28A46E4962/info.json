@@ -1,0 +1,11 @@
+{
+ "name": "MDOG",
+ "website": "https://www.melancholydoggame.com/",
+ "description": "melancholydog.",
+ "explorer": "https://bscscan.com/token/0x9928cEDB3353bFccA77053fF526bfC28A46E4962",
+ "type": "BEP20",
+ "symbol": "MDOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9928cEDB3353bFccA77053fF526bfC28A46E4962"
+}
