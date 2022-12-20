@@ -1,0 +1,11 @@
+{
+ "name": "BSUV",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x44f21b9f4775D474Ca04ef5cA07086B6044EE553",
+ "type": "BEP20",
+ "symbol": "BSUV",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x44f21b9f4775D474Ca04ef5cA07086B6044EE553"
+}
