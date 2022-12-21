@@ -1,0 +1,11 @@
+{
+ "name": "JCBunny",
+ "website": "https://jcbunny.cc",
+ "description": "JC Bunny is a tool for monitoring market trends (changes, flash crashes, abnormal deposits and withdrawals, listing of new coins, etc.)",
+ "explorer": "https://bscscan.com/token/0xb4672260ebf36a4E44f374F31fe5A848F9EF623D",
+ "type": "BEP20",
+ "symbol": "JCB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb4672260ebf36a4E44f374F31fe5A848F9EF623D"
+}
