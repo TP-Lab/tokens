@@ -1,0 +1,11 @@
+{
+ "name": "IM",
+ "website": "https://ironpay.vip",
+ "description": "We are IM Coin.",
+ "explorer": "https://bscscan.com/address/0x8f51197e4f9de376a2462894c1a084278363c66c",
+ "type": "BEP20",
+ "symbol": "IM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8f51197e4F9de376a2462894c1a084278363c66C"
+}
