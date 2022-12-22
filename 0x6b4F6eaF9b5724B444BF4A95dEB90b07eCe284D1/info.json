@@ -1,0 +1,11 @@
+{
+ "name": "community card economic",
+ "website": "https://www.ccetokens.com/",
+ "description": "ommunity card economic （簡稱CCE）是由CCE DAO社區發起的基於BSC智能鏈發行的共識合約協議，恒定發行總量100萬枚,CCE幣量稀缺，且在交易過程中不斷地通縮銷毀。",
+ "explorer": "https://bscscan.com/token/0x6b4f6eaf9b5724b444bf4a95deb90b07ece284d1",
+ "type": "BEP20",
+ "symbol": "CCE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6b4F6eaF9b5724B444BF4A95dEB90b07eCe284D1"
+}
