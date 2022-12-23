@@ -1,0 +1,11 @@
+{
+ "name": "Rabbit",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x09fE8449f2eF87f99BC611C9c46ED5cFEB3E6666",
+ "type": "BEP20",
+ "symbol": "Rabbit",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x09fE8449f2eF87f99BC611C9c46ED5cFEB3E6666"
+}
