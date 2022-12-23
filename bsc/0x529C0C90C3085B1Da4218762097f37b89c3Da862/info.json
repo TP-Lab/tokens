@@ -1,0 +1,11 @@
+{
+ "name": "DG",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x529C0C90C3085B1Da4218762097f37b89c3Da862",
+ "type": "BEP20",
+ "symbol": "DG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x529C0C90C3085B1Da4218762097f37b89c3Da862"
+}
