@@ -1,0 +1,11 @@
+{
+  "name": "HY",
+  "website": "http://hy.hyswap.net/",
+  "description": "HY token is the platform token of HY Swap, and it is the general currency of the Naga system.",
+  "explorer": "https://www.hecoinfo.com/en-us/token/0xb7b206ac8f3653fa3336c14b278caf786f29f552",
+  "type": "HRC20",
+  "symbol": "HY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb7b206ac8f3653fa3336c14b278caf786f29f552"
+}
