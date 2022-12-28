@@ -1,0 +1,11 @@
+{
+ "name": "Little bit",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x7b6c7fA3c19693B16868c71326FF55772f1341ee",
+ "type": "BEP20",
+ "symbol": "LBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7b6c7fA3c19693B16868c71326FF55772f1341ee"
+}
