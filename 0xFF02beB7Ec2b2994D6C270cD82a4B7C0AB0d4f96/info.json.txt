@@ -1,0 +1,15 @@
+{
+ "name": "Eternal Diamond Token",
+ "website": "https://dde-fintech.com/",
+ "description": "Eternal Diamond first introduced Diamond Running GameFi using blockchain technology as Eternal Diamond's
+The first application of Web3, Diamond Running GameFi, is obviously different from the traditional online game, except that it allows users to
+It can also be understood as Eternal, in addition to making money while playing and getting some profits while enjoying the game
+Diamond is the entrance to the entire Web3 industry. If you want to contact other Web3 industries laid out by Eternal Diamond
+You can't miss the diamond running GameFi.",
+ "explorer": "https://bscscan.com/token/0xFF02beB7Ec2b2994D6C270cD82a4B7C0AB0d4f96",
+ "type": "BEP20",
+ "symbol": "EDD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFF02beB7Ec2b2994D6C270cD82a4B7C0AB0d4f96"
+}
