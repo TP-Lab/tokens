@@ -1,0 +1,11 @@
+{
+ "name": "TL",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xBe439be24cFfbd51C9e1C59cc6017a837b95B767",
+ "type": "BEP20",
+ "symbol": "TL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBe439be24cFfbd51C9e1C59cc6017a837b95B767"
+}
