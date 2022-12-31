@@ -1,0 +1,11 @@
+{
+ "name": "World Panda",
+ "website": "-",
+ "description": "World Panda is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x03898D5DFfEEbF3fa71F308c5F31adA08D9fF5d4",
+ "type": "BEP20",
+ "symbol": "WP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x03898D5DFfEEbF3fa71F308c5F31adA08D9fF5d4"
+}
