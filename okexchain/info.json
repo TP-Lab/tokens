@@ -1,0 +1,11 @@
+{ 
+"name": "USDW",
+"website": "https://www.hashboss001.live",
+"description": "USDW is an important part of the RUN ecosystem.  ",
+"explorer": "https://www.oklink.com/en/okc/address/0x29b3c4cbc5c12bcbeadec4a7d0327183c7e29856",
+"type": "KIP20",
+"symbol": "USDW",
+"decimals": 18,
+"status": "active",
+"id": "0x29B3c4cbC5c12bCbeADEC4A7d0327183c7E29856"
+}
