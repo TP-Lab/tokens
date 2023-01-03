@@ -1,0 +1,11 @@
+{ 
+"name": "BOSS001",
+"website": "https://www.hashboss001.live",
+"description": "BOSS001 is an important part of the RUN ecosystem.  ",
+"explorer": "https://www.oklink.com/en/okc/address/0x88b6e44629629852ad1A954835f35c5D3f1b79c2",
+"type": "KIP20",
+"symbol": "BOSS001",
+"decimals": 18,
+"status": "active",
+"id": "0x88b6e44629629852ad1A954835f35c5D3f1b79c2"
+}
