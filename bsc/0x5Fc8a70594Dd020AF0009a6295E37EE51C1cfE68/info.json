@@ -1,0 +1,11 @@
+{ 
+"name": "BOSS001",
+"website": "https://www.hashboss001.live",
+"description": "Boss001 is an important part of the RUN ecosystem.  ",
+"explorer": "https://www.bscscan.com/token/0x5Fc8a70594Dd020AF0009a6295E37EE51C1cfE68",
+"type": "BEP20",
+"symbol": "BOSS001",
+"decimals": 18,
+"status": "active",
+"id": "0x5Fc8a70594Dd020AF0009a6295E37EE51C1cfE68"
+}
