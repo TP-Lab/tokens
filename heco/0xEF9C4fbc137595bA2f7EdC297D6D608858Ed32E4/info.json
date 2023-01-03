@@ -1,0 +1,11 @@
+{
+    "name": "Monkey Coin",
+    "website": "https://heavenly.org",
+    "description": "Coconut home army sent together Monkey Coin",
+    "explorer": "https://hecoinfo.com/address/0xEF9C4fbc137595bA2f7EdC297D6D608858Ed32E4",
+    "type": "HRC20",
+    "symbol": "MKY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xEF9C4fbc137595bA2f7EdC297D6D608858Ed32E4"
+}

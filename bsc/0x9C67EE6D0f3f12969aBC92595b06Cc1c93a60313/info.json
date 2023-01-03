@@ -1,0 +1,11 @@
+{
+ "name": "DAPF Invest Token",
+ "website": "https://dapf.ru",
+ "description": "DAPF is a community-driven utility and investment token. Used in projects of community members as internal coins.",
+ "explorer": "https://bscscan.com/token/0x9c67ee6d0f3f12969abc92595b06cc1c93a60313",
+ "type": "BEP20",
+ "symbol": "DAPF",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x9C67EE6D0f3f12969aBC92595b06Cc1c93a60313"
+}

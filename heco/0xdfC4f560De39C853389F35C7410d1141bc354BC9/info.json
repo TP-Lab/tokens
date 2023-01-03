@@ -1,0 +1,11 @@
+{
+ "name": "BTCDOG",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://hecoinfo.com/token/0xdfC4f560De39C853389F35C7410d1141bc354BC9",
+ "type": "HRC20",
+ "symbol": "BTCDOG",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xdfC4f560De39C853389F35C7410d1141bc354BC9"
+}

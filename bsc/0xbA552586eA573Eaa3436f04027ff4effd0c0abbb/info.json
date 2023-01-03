@@ -1,0 +1,11 @@
+{
+  "name": "Meer (bsc)",
+  "website": "https://qitmeer.io",
+  "description": "Qitmeer Network 是基于BlockDAG技术的新一代支付网络基础设施，采用Layer1+Layer2（链上+链下）的扩容方案，以跨链智能合约链接整个区块链生态。",
+  "explorer": "https://bscscan.com/token/0xbA552586eA573Eaa3436f04027ff4effd0c0abbb",
+  "type": "BSC20",
+  "symbol": "MEER",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbA552586eA573Eaa3436f04027ff4effd0c0abbb"
+}

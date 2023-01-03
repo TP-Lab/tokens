@@ -1,0 +1,11 @@
+{
+ "name": "PLATO",
+ "website": "https://www.platofarm.game",
+ "description": "PLATO的数量恒定为1亿枚，为游戏平台代币，稀有NFT道具和土地、工厂、养殖场等基本生产资料必须使用PLATO兑换。",
+ "explorer": "https://hecoinfo.com/token/0x4668e0E7cC545De886aBF038067F81cD4DC0924b",
+ "type": "HRC-20",
+ "symbol": "PLATO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4668e0E7cC545De886aBF038067F81cD4DC0924b"
+}

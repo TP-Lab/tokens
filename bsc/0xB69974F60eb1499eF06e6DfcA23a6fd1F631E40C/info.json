@@ -1,0 +1,11 @@
+{
+ "name": "NMT",
+ "website": "http://nostep.io/#/home",
+ "description": "NMT is the governance token of nostepn, which is used for upgrading and repairing running shoes and community governance.",
+ "explorer": "https://www.bscscan.com/token/0xB69974F60eb1499eF06e6DfcA23a6fd1F631E40C",
+ "type": "BEP20",
+ "symbol": "NMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB69974F60eb1499eF06e6DfcA23a6fd1F631E40C"
+}

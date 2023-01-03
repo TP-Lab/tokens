@@ -1,0 +1,11 @@
+{ 
+"name": "Olympic Day",
+"website": "https://www.olympicday.finance",
+"description": "Olympic Day is a hyperdeflation token on the Binance Smart Chain. ",
+"explorer": "https://bscscan.com/token/0x941B18E64931E360c713802Bad6440f13EC0967c",
+"type": "BEP20",
+"symbol": ""Olympic",
+"decimals": 18,
+"status": "active",
+"id": "0x941B18E64931E360c713802Bad6440f13EC0967c"
+} 

@@ -1,0 +1,11 @@
+{
+    "name": "FutureUniverse",
+    "website": "http://zxs.uvs123.com/",
+    "description": "The goal of Future Universe is to maximize the integration of the liquidity of tokens and the advantages of all current interest rate protocols, and to build a decentralized financial aggregator of token exchanges, money markets and liquidity protocols.",
+    "explorer": "https://bscscan.com/address/0x74c11F250501690A59236dd04190fca849CAc017",
+    "type": "BEP20",
+    "symbol": "ZXS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x74c11F250501690A59236dd04190fca849CAc017"
+   }

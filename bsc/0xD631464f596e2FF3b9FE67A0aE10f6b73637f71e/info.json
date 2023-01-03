@@ -1,0 +1,11 @@
+{
+ "name": "The Micro Elements",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xD631464f596e2FF3b9FE67A0aE10f6b73637f71e",
+ "type": "BEP20",
+ "symbol": "TME",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD631464f596e2FF3b9FE67A0aE10f6b73637f71e"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Cambrian Token",
+ "website": "https://bsc.cambria.vip",
+ "description": "Cambria  project uses TPT tokens to join BSC block ecology to promote consensus building and achieve the goal of common prosperity.Each participant can use different TPT quantities to participate.The following are some quantities that can participate in the consensus.You can click the corresponding amount to participate in the consensus.",
+ "explorer": "https://bscscan.com/token/0xf172EA661A508Af8D510B6319fb991FD71543272",
+ "type": "BEP20",
+ "symbol": "CAM",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xf172EA661A508Af8D510B6319fb991FD71543272"
+}

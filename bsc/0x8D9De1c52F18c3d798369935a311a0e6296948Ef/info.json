@@ -1,0 +1,11 @@
+{
+ "name": "Ultra Token ",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0x8D9De1c52F18c3d798369935a311a0e6296948Ef",
+ "type": "BEP20",
+ "symbol": "UT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8D9De1c52F18c3d798369935a311a0e6296948Ef"
+}

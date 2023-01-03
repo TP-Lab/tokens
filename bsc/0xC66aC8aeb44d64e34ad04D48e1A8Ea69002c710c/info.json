@@ -1,0 +1,11 @@
+{
+ "name": "Cat Coin Token",
+ "website": "https://catcoin.pm",
+ "description": "CAT is an experiment conducted in the construction of a decentralized spontaneous community. If you don’t know about CAT, you can benchmark Dogecoin. The circulation of SHIB is 1,000,000,000,000. The team has locked 100% of the total supply of tokens on PancakeSwap and has burned the keys to the account. Project developers and team members do not have reserved tokens, so everyone must buy them on the open market.",
+ "explorer": "https://bscscan.com/token/0xC66aC8aeb44d64e34ad04D48e1A8Ea69002c710c",
+ "type": "BEP20",
+ "symbol": "CAT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC66aC8aeb44d64e34ad04D48e1A8Ea69002c710c"
+}

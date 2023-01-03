@@ -1,0 +1,11 @@
+{
+ "name": "Tesla Kitty",
+ "website": ".",
+ "description": "TKitty是多国社区打造的一个具有真正价值的fomo币",
+ "explorer": "https://bscscan.com/token/0x3ef498EB61c0c19E01866c0541a76eb5D8eacd97",
+ "type": "BSC20",
+ "symbol": "TKitty",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3ef498EB61c0c19E01866c0541a76eb5D8eacd97"
+}

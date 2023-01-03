@@ -1,0 +1,11 @@
+{
+ "name": "True Starship",
+ "website": "https://bscscan.com/token/0x3D6b39ab94d02c37Cbd3E2CdD0239b757A4a10Be",
+ "description": "True Starship",
+ "explorer": "https://bscscan.com/token/0x3D6b39ab94d02c37Cbd3E2CdD0239b757A4a10Be",
+ "type": "BEP20",
+ "symbol": "SIO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3D6b39ab94d02c37Cbd3E2CdD0239b757A4a10Be"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "AOCOMapping",
+ "website": "http://www.aocotoken.info",
+ "description": "AOCO is an environmental protection foundation established in the United States",
+ "explorer": "https://bscscan.com/token/0x6316B03FF4319173d36711dF37f3DaC107964C47",
+ "type": "BEP20",
+ "symbol": "AOCO",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x6316B03FF4319173d36711dF37f3DaC107964C47"
+}

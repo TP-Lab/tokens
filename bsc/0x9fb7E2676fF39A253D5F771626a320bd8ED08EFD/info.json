@@ -1,0 +1,11 @@
+{ 
+"name": "RFDA TOKEN",
+"website": "https://www.rfdapp.com/",
+"description": "RFDA TOKEN",
+"explorer": "https://bscscan.com/token/0x9fb7E2676fF39A253D5F771626a320bd8ED08EFD",
+"type": "BEP20",
+"symbol": "RFDA",
+"decimals": 18,
+"status": "active",
+"id": "0x9fb7E2676fF39A253D5F771626a320bd8ED08EFD"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Dolphin Treasure",
+ "website": "https://dpncoins.com/",
+ "description": "DPN is the first reward application in the blockchain that combines trendy play and digital currency, allowing you to enjoy the fun of a reward.",
+ "explorer": "https://hecoinfo.com/address/0xe2d6306e9AD29AE6F1EBA19f5aba363515aC5C0d",
+ "type": "HRC-20",
+ "symbol": "DPF",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe2d6306e9AD29AE6F1EBA19f5aba363515aC5C0d"
+}

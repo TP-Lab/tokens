@@ -1,0 +1,11 @@
+{
+ "name": "Coffee cat",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xBF4abb4D685BF9Cf897CB7FdF7F71F99B74a5166",
+ "type": "BEP20",
+ "symbol": "Coffee cat",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBF4abb4D685BF9Cf897CB7FdF7F71F99B74a5166"
+}

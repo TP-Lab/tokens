@@ -1,0 +1,11 @@
+{
+    "name": "KoroCoin",
+    "website": "http://koro.fund/",
+    "description": "Koro Finance ~ to build a one-stop service platform for decentralized finance",
+    "explorer": "https://bscscan.com/address/0xbe397e01394e6d813ee313731978b19bbe1bb9d9",
+    "type": "BEP20",
+    "symbol": "Koro",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbe397E01394e6d813eE313731978B19bbe1Bb9d9"
+}

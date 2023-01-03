@@ -1,0 +1,11 @@
+{
+ "name": "MarsVolunteer",
+ "website": "www.marsvols.com",
+ "description": "MarsVOLS，a flawless Mars Volunteer project. Follows SHIB 1：1 launch strategy. 10% of the token is sent to Vitalik wallet Purchase $100 of MarsVOLS, hold it permanently and interact with Elon Musk on Twitter everyday. Complete this Mars Volunteer programme and call upon Elon to launch “MarsVOLS” rocket to make Mars dream come true",
+ "explorer": "https://bscscan.com/token/0x6025C6818ed41b5968d2bE06e997A3EB9389DDC0",
+ "type": "BSC20",
+ "symbol": "MarsVOLS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6025C6818ed41b5968d2bE06e997A3EB9389DDC0"
+}

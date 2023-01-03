@@ -1,0 +1,11 @@
+{
+ "name": "SG",
+ "website": "https://bscscan.com/token/0x99ABD12de9e801207e6e1eb3cB4d2d6f8c3AD0B0",
+ "description": "SG TOKEN.",
+ "explorer": "https://bscscan.com/token/0x99ABD12de9e801207e6e1eb3cB4d2d6f8c3AD0B0",
+ "type": "BEP20",
+ "symbol": "SG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x99ABD12de9e801207e6e1eb3cB4d2d6f8c3AD0B0"
+}

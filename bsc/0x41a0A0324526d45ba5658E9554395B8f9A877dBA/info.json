@@ -1,0 +1,11 @@
+{
+  "name": "Informer",
+  "website": "",
+  "description": "Crypto World加密世界致力于打造下一代DEFI加密开放生态，INF做为加密世界生态里流通的通证，扮演者至关重要的角色。",
+  "explorer": "https://bscscan.com/token/0x41a0a0324526d45ba5658e9554395b8f9a877dba",
+  "type": "BEP20",
+  "symbol": "INF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x41a0A0324526d45ba5658E9554395B8f9A877dBA"
+}

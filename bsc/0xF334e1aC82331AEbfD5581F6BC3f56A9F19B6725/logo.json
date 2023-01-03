@@ -1,0 +1,11 @@
+{
+ "name": "CXDAO",
+ "website": "www.cheng-xindao.com",
+ "description": "Cxdao community is completely autonomous. There is no project side, and the chips are scattered. Everyone is the project side. Everyone is in charge and shares.",
+ "explorer": "https://bscscan.com/token/0xf334e1ac82331aebfd5581f6bc3f56a9f19b6725",
+ "type": "BEP20",
+ "symbol": "CX",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xF334e1aC82331AEbfD5581F6BC3f56A9F19B6725"
+}

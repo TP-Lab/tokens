@@ -1,0 +1,11 @@
+{
+ "name": "Monkey",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x653bffad7ee49450ae385cb2528b187e19d88e70",
+ "type": "BEP20",
+ "symbol": "Monkey",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x653bffad7ee49450ae385cb2528b187e19d88e70"
+}

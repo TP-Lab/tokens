@@ -1,0 +1,11 @@
+{
+ "name": "FEIMA",
+ "website": "https://feima.net/",
+ "description": "Pegasus Community Governance Token.",
+ "explorer": "https://hecoinfo.com/token/0xb052e1ffa15728fcfec2450a6892aad6ab0da27c",
+ "type": "HRC-20",
+ "symbol": "FMB",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xb052e1Ffa15728FcFEc2450a6892AAD6ab0da27c"
+}

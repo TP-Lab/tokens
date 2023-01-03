@@ -1,0 +1,11 @@
+{ 
+"name": "MICRO SUN",
+"website": "https://www.microcosm.finance/",
+"description": "MSUN is the Metaverse METAFI Ecological Application Token, which is defined as creating a new generation of Metaverse blockchain underlying application value platform, linking more Metaverse decentralized financial application scenarios, truly empowering WEB3.0 value flow, and creating a Metaverse ecology Application Aggregates.",
+"explorer": "https://bscscan.com/address/0xAEbe1Aa8dFfAc306E58F13DA4A43dc13bd3446f8",
+"type": "BEP20",
+"symbol": "MSUN",
+"decimals": 18,
+"status": "active",
+"id": "0xAEbe1Aa8dFfAc306E58F13DA4A43dc13bd3446f8"
+}

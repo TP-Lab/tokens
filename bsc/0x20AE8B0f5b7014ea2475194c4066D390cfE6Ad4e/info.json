@@ -1,0 +1,11 @@
+{
+ "name": "KunLun",
+ "website": "",
+ "description": "KUNL is a new ecological project on Fstswap",
+ "explorer": "https://bscscan.com/token/0x20AE8B0f5b7014ea2475194c4066D390cfE6Ad4e",
+ "type": "BEP20",
+ "symbol": "KUNL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x20AE8B0f5b7014ea2475194c4066D390cfE6Ad4e"
+}

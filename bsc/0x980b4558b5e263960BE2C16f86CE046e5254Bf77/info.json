@@ -1,0 +1,11 @@
+{
+ "name": "AIC",
+ "website": ".",
+ "description": "AIC是人工智能之光项目代币，这个项目是为复杂的AI应用提供一个共有区块链平台，能够让数据资源方、应用开发方、运行平台资源方和用户在这个区块链上自由发布和使用各自的资源和应用",
+ "explorer": "https://bscscan.com/token/0x980b4558b5e263960BE2C16f86CE046e5254Bf77",
+ "type": "BSC20",
+ "symbol": "AIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x980b4558b5e263960BE2C16f86CE046e5254Bf77"
+}

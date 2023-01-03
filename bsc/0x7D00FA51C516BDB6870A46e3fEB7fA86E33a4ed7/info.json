@@ -1,0 +1,11 @@
+{ 
+"name": "CGC",
+"website": "",
+"description": "CGC is a large scale multiplayer online simulation game ",
+"explorer": "https://bscscan.com/token/0x7D00FA51C516BDB6870A46e3fEB7fA86E33a4ed7",
+"type": "BEP20",
+"symbol": "CGC",
+"decimals": 18,
+"status": "active",
+"id": "0x7D00FA51C516BDB6870A46e3fEB7fA86E33a4ed7"
+}

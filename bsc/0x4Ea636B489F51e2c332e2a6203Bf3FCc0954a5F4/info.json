@@ -1,0 +1,11 @@
+{
+ "name": "Deblox GameS",
+ "website": "https://deblox.io",
+ "description": "Deblox is a decentralised platform, that aims to be the hub of web3 games.",
+ "explorer": "https://bscscan.com/token/0x4Ea636B489F51e2c332e2a6203Bf3FCc0954a5F4",
+ "type": "BEP20",
+ "symbol": "DGS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4Ea636B489F51e2c332e2a6203Bf3FCc0954a5F4"
+}

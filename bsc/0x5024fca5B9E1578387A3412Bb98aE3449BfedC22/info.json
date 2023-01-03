@@ -1,0 +1,11 @@
+{
+ "name": "DogFood Token",
+ "website": "http://www.dogfoodcoin.ml",
+ "description": "The DogFood Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, & Burn.",
+ "explorer": "https://bscscan.com/token/0x5024fca5b9e1578387a3412bb98ae3449bfedc22",
+ "type": "BEP20",
+ "symbol": "DOGFOOD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5024fca5b9e1578387a3412bb98ae3449bfedc22"
+}

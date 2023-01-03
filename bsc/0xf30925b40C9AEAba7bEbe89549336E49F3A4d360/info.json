@@ -1,0 +1,11 @@
+{
+ "name": "Jambo Token",
+ "website": "https://jambo.network",
+ "description": "A blockchain ad-tech support platform, has been committed to creating a transparent and credible decentralized advertising industry value ecology.",
+ "explorer": "https://bscscan.com/token/0xf30925b40C9AEAba7bEbe89549336E49F3A4d360",
+ "type": "BEP20",
+ "symbol": "JAM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf30925b40C9AEAba7bEbe89549336E49F3A4d360"
+}

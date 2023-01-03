@@ -1,0 +1,11 @@
+{
+ "name": "@DAO",
+ "website": "https://osasionbc.com",
+ "description": "@Dao is a community autonomy token jointly initiated by osaion miscible chain community based on BSC coin security smart chain. It is initiated by AUC, the original value coin of osaion miscible chain with unified consensus. The purpose is to unite all community autonomy, strengthen application expansion and accelerate ecological development; Promote the value of osasion mixing chain to realize",
+ "explorer": "https://bscscan.com/token/0xd1d208E86bfe608DF645AEAb72E1670cC0bEA3Bc",
+ "type": "BEP20",
+ "symbol": "@DAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd1d208E86bfe608DF645AEAb72E1670cC0bEA3Bc"
+}

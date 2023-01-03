@@ -1,0 +1,11 @@
+{
+ "name": "Dream",
+ "website": "http://metadream.fun",
+ "description": "元梦，为平凡的人助力，为大家的梦想买单。",
+ "explorer": "https://bscscan.com/token/0xb11075ADc3bf71bf378A7a801c22BEB1627Ce6c0",
+ "type": "BEP20",
+ "symbol": "Dream",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb11075ADc3bf71bf378A7a801c22BEB1627Ce6c0"
+}

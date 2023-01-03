@@ -1,0 +1,12 @@
+
+{
+    "name": "XTime",
+    "website": "https://twitter.com/SLV_XTime",
+    "description": "XTime token is based on BSC and is the only token with the background of the Republic of El Salvador.",
+    "explorer": "https://www.bscscan.com/token/0xFF2BF41EC57b897c914E2BAac857D621f4CB1691",
+    "type": "BEP20",
+    "symbol": "XTime",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFF2BF41EC57b897c914E2BAac857D621f4CB1691"
+}

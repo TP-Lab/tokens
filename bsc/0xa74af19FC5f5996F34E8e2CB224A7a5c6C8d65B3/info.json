@@ -1,0 +1,11 @@
+{
+ "name": "Freedom",
+ "website": "https://www.fdmblock.com",
+ "description": "FDM is a fully-featured decentralized ecosystem built on the Binance Smart Chain.",
+ "explorer": "https://bscscan.com/token/0xa74af19FC5f5996F34E8e2CB224A7a5c6C8d65B3",
+ "type": "BEP20",
+ "symbol": "FDM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa74af19FC5f5996F34E8e2CB224A7a5c6C8d65B3"
+}

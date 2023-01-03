@@ -1,0 +1,11 @@
+{
+ "name": "Biance Swap",
+ "website": "-",
+ "description": "Biance Swap (BNP) is a highly autonomous, decentralized, fair and just ecological community.",
+ "explorer": "https://bscscan.com/token/0xdF45F3e7015BA7Abd84043BF43cf85A7075E62C5",
+ "type": "BEP20",
+ "symbol": "BNP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdF45F3e7015BA7Abd84043BF43cf85A7075E62C5"
+}

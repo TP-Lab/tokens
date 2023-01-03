@@ -1,0 +1,11 @@
+{
+ "name": "AGT token",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x75B6278104E661776ADA8c8E6553E02C9c388D7e",
+ "type": "HRC20",
+ "symbol": "AGT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x75B6278104E661776ADA8c8E6553E02C9c388D7e"
+}

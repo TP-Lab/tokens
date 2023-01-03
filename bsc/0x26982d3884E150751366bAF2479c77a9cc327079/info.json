@@ -1,0 +1,11 @@
+{
+ "name": "OceanKing Token",
+ "website": "http://cryptooceanking.com",
+ "description": "It is the fishing game on BSC, to build a decentralized metaverse through blockchain. ",
+ "explorer": "https://bscscan.com/address/0x26982d3884E150751366bAF2479c77a9cc327079",
+ "type": "BEP20",
+ "symbol": "OKC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x26982d3884E150751366bAF2479c77a9cc327079"
+}

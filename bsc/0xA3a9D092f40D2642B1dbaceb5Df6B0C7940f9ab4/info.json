@@ -1,0 +1,11 @@
+{
+  "name": "ERA",
+  "website": "https://www.ninance.io",
+  "description": "ERA is the native governance token of Ninance, and Ninance is a decentralized platform integrating NFT transaction + DeFi + Swap + cross-chain bridge.",
+  "explorer": "https://bscscan.com/token/0xA3a9D092f40D2642B1dbaceb5Df6B0C7940f9ab4",
+  "type": "BEP20",
+  "symbol": "ERA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xA3a9D092f40D2642B1dbaceb5Df6B0C7940f9ab4"
+}

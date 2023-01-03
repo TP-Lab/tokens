@@ -1,0 +1,11 @@
+{
+ "name": "HD",
+ "website": "https://bscscan.com/token/0xf3bB26AD98D5F67f7d701cF20ce5761723324752",
+ "description": "HD COIN.",
+ "explorer": "https://bscscan.com/token/0xf3bB26AD98D5F67f7d701cF20ce5761723324752",
+ "type": "BEP20",
+ "symbol": "HD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf3bB26AD98D5F67f7d701cF20ce5761723324752"
+}

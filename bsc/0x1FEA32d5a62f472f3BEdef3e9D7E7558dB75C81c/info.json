@@ -1,0 +1,11 @@
+{
+  "name": "COCO TOKEN",
+  "website": "http://www.coco-metaverse.net",
+  "description": "Coco token is a common governance token for the coco metaverse platform. Not only for the defi section, but also for game rewards.",
+  "explorer": "https://bscscan.com/token/0x1FEA32d5a62f472f3BEdef3e9D7E7558dB75C81c",
+  "type": "BEP20",
+  "symbol": "COCO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1FEA32d5a62f472f3BEdef3e9D7E7558dB75C81c"
+}

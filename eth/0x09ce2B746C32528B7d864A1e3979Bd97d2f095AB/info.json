@@ -1,0 +1,11 @@
+{
+ "name": "DFL Token",
+ "website": "https://defil.org",
+ "description": "DFL是DeFIL项目平台通证，DeFIL是一个Filecoin去中心化借贷和金融服务平台，旨在为FIL的一级市场和二级市场之间搭建桥梁，让矿工有渠道获得质押币或通过发行标准算力通证的形式对冲风险，让普通投资者有渠道参与到FIL挖矿，让已持有FIL的用户获得收益。DFL发行总量为3.37亿，当前每日发行量为12.5万，每1000天为一个减半周期。由于DeFIL2.0将在以太坊、币安智能链及Arbitrum上进行部署，DFL也将在多链发行。DFL还是平台唯一治理通证，用于参与DeFIL DAO治理提案和投票决议。",
+ "explorer": "https://bscscan.com/token/0x09ce2B746C32528B7d864A1e3979Bd97d2f095AB",
+ "type": "ERC20",
+ "symbol": "DFL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x09ce2B746C32528B7d864A1e3979Bd97d2f095AB"
+}

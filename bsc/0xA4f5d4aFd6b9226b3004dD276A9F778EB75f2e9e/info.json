@@ -1,0 +1,12 @@
+{
+    "name": "ANCH",
+    "website": "http://anchpool.net",
+    "description": "ANCH is a fully decentralized on-chain financial tool that can complete intelligent settlement without relying on human decision-making. The change of one parameter of ANCH must be anchored to the change of another parameter. It is a complete closed-loop system that can rely on the contract on the chain to execute business processes and complete the automatic management of funds.",
+    "explorer": "https://bscscan.com/token/0xA4f5d4aFd6b9226b3004dD276A9F778EB75f2e9e",
+    "type": "BEP20",
+    "symbol": "ANCH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA4f5d4aFd6b9226b3004dD276A9F778EB75f2e9e"
+       }
+   

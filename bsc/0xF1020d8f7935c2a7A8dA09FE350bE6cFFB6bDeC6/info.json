@@ -1,0 +1,11 @@
+{
+ "name": "BURGER KING",
+ "website": "https://bscscan.com/token/0xF1020d8f7935c2a7A8dA09FE350bE6cFFB6bDeC6",
+ "description": "BURGER KING is a pooled dividend Bitcoin BTCB, holding dividend ethereum ETH, plus pool automatic mining of a smart contract",
+ "explorer": "https://bscscan.com/token/0xF1020d8f7935c2a7A8dA09FE350bE6cFFB6bDeC6",
+ "type": "BEP20",
+ "symbol": "BGK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF1020d8f7935c2a7A8dA09FE350bE6cFFB6bDeC6"
+}

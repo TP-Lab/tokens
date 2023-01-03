@@ -1,0 +1,11 @@
+{
+	"name": "Poseidon",
+	"website": "",
+	"description": "Poseidon "PSD" is a completely autonomous community-led project. Under the leadership of DAO, it has achieved complete decentralization and a high degree of community consensus, and is 100% managed by the community itself.",
+	"explorer": "https://bscscan.com/token/0xD1f518859c92941fe5778Af98bBc155a923F0086",
+	"type": "BEP20",
+	"symbol": "PSD",
+	"decimals": 9,
+	"status": "active",
+	"id": "0xD1f518859c92941fe5778Af98bBc155a923F0086"
+}

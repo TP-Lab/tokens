@@ -1,0 +1,11 @@
+{
+ "name": "DogeStar",
+ "website": "https://www.dogestar.app/",
+ "description": "Gain rewards by jumping between planets and completing quests such as farming, fishing, and fighting and so on.DogeStar is a system that is about to give up ownership, it will create a game platform that will complete each stage until the completion of jumping between planets, but only those who have at least one DogeStar NFT can participate in the game",
+ "explorer": "https://bscscan.com/token/0xb3b09EE27DD652E010C7c07F7287B77AB4024712",
+ "type": "BEP20",
+ "symbol": "DogeStar",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb3b09EE27DD652E010C7c07F7287B77AB4024712"
+}

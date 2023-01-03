@@ -1,0 +1,11 @@
+{
+ "name": "ATHToken",
+ "website": "https://athtoken.io",
+ "description": "Disintegration of the alliance, game trading platform.",
+ "explorer": "https://bscscan.com/token/0xc3fe6d2978f8efa277633bc01e08cf94b70534fd",
+ "type": "BEP20",
+ "symbol": "ATH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC3FE6d2978F8Efa277633bC01e08cf94b70534fd"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "PeaceDoge",
+ "website": "https://peacedog.io",
+ "description": "By issuing the Peace Dog Token, we are calling on more people to join in the fight against war and to spread the spirit of peace, so that the world can be free of war and full of life and hope. ",
+ "explorer": "https://bscscan.com/token/0x1fdebfc16e16775ccd92d8025695374b3cb1538d",
+ "type": "BEP20",
+ "symbol": "PeaceDog",
+ "decimals": 9,
+ "status": "active",
+ "id": "00x1fdeBfC16e16775CcD92D8025695374B3cB1538D"
+}

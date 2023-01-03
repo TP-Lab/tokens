@@ -1,0 +1,11 @@
+{
+ "name": "FAM Token",
+ "website": "https://famdao.org/",
+ "description": "FAMDAO is an innovative decentralized reserve currency protocol based on the $FAM token",
+ "explorer": "https://bscscan.com/token/0x0D9D05884656f7958A68312a2F8A300d75567403",
+ "type": "BEP20",
+ "symbol": "FAM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0D9D05884656f7958A68312a2F8A300d75567403"
+}

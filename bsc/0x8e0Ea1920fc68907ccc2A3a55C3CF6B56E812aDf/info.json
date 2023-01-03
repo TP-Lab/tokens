@@ -1,0 +1,11 @@
+{
+ "name": "MCF ",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0x8e0Ea1920fc68907ccc2A3a55C3CF6B56E812aDf",
+ "type": "BEP20",
+ "symbol": "MCF ",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8e0Ea1920fc68907ccc2A3a55C3CF6B56E812aDf"
+}

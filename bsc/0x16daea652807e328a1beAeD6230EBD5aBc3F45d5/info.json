@@ -1,0 +1,11 @@
+{
+    "name": "Pig King",
+    "website": "https://pigking.io",
+    "description": "PIGKING is a Community-Driven Token.",
+    "explorer": "https://bscscan.com/token/0x16daea652807e328a1beaed6230ebd5abc3f45d5",
+    "type": "BEP20",
+    "symbol": "PIGKING",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x16daea652807e328a1beAeD6230EBD5aBc3F45d5"
+}

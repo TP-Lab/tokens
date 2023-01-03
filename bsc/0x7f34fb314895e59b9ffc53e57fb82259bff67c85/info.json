@@ -1,0 +1,11 @@
+﻿{
+ "name": "Ore Token",
+ "website": "https://oretoken.im",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x7f34fb314895e59b9ffc53e57fb82259bff67c85",
+ "type": "BEP20",
+ "symbol": "OT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7f34fb314895e59b9ffc53e57fb82259bff67c85"
+}

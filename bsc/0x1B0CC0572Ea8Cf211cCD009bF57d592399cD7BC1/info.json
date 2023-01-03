@@ -1,0 +1,11 @@
+{
+ "name": "Come back Bitcoin",
+ "website": "https://cbtdao.co",
+ "description": "CBT, return to the decentralized nature of Bitcoin, launch fairly, and everyone can participate equally.",
+ "explorer": "https://bscscan.com/token/0x1B0CC0572Ea8Cf211cCD009bF57d592399cD7BC1",
+ "type": "BEP20",
+ "symbol": "CBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1B0CC0572Ea8Cf211cCD009bF57d592399cD7BC1"
+}

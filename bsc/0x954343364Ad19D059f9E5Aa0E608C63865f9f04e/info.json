@@ -1,0 +1,11 @@
+{
+ "name": "V Police Dog",
+ "website": "https://www.vpdtoken.com/",
+ "description": "V Police Dog（維犬Token）是由一群區塊鏈的超強信仰者與技術極客共同發起，創建的一個去中心化代幣VPD，並按照本白皮書的發展路線規劃，VPD在新加坡註冊成立《維犬基金會》，並由基金會負責項目生態的推進與發展。VPD主要以「救助金」方式幫助與救助區塊鏈的玩家，救助金將以三種方式呈現並撥出USDT給玩家。第一種：人人可得無償救助金；第二種：NFT卡牌分红救助金；第三種：创新链上抽取救助金。關於更多請訪問官方推特或電報VPDTOKEN了解。",
+ "explorer": "https://bscscan.com/token/0x954343364ad19d059f9e5aa0e608c63865f9f04e",
+ "type": "BEP20",
+ "symbol": "VPD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x954343364ad19d059f9e5aa0e608c63865f9f04e"
+}

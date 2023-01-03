@@ -1,0 +1,11 @@
+{
+  "name": "SaturnWorld",
+  "website": "https://www.saturnworld.org/",
+  "description": "A decentralized token that evolved into a Vibrant Ecosystem based on stable and profitable projects.",
+  "explorer": "https://etherscan.io/address/0x5db63d676e127ff20866a4b2c9d8ac79264214e7",
+  "type": "ERC20",
+  "symbol": "STW",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5db63d676e127ff20866A4b2C9d8Ac79264214e7"
+}

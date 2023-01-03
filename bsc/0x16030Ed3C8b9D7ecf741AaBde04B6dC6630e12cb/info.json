@@ -1,0 +1,11 @@
+{
+ "name": "ZGoat Token",
+ "website": "https://zgoat.org/",
+ "description": "ZGoat(Zuck's Goat), the first application on Defi-Marketing",
+ "explorer": "https://bscscan.com/token/0x16030Ed3C8b9D7ecf741AaBde04B6dC6630e12cb",
+ "type": "BEP20",
+ "symbol": "ZGoat",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x16030Ed3C8b9D7ecf741AaBde04B6dC6630e12cb"
+}

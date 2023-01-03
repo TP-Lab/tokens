@@ -1,0 +1,11 @@
+{
+    "name": "MetBanka",
+    "website": "https://www.mba-token.com",
+    "description": "MetBanka(MBA) is a decentralized application",
+    "explorer": "https://bscscan.com/token/0xcf6a590921239ac9818b500f2b612e10937e7a20",
+    "type": "BEP20",
+    "symbol": "MBA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xCF6a590921239Ac9818B500F2b612E10937E7A20"
+}

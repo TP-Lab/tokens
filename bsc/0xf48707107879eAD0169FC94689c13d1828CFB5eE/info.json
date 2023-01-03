@@ -1,0 +1,11 @@
+{
+    "name": "SEE",
+    "website": "http://see.pink",
+    "description": "SEE Token",
+    "explorer": "https://bscscan.com/token/0xf48707107879eAD0169FC94689c13d1828CFB5eE",
+    "type": "BEP20",
+    "symbol": "SEE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf48707107879eAD0169FC94689c13d1828CFB5eE"
+   } 

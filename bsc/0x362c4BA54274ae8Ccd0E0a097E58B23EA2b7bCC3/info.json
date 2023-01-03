@@ -1,0 +1,11 @@
+{
+ "name": "Heroes of Warcraft Game",
+ "website": "https://howg.games/",
+ "description": "炉石传说是一款以魔兽世界为故事背景的集换式卡牌游戏",
+ "explorer": "https://bscscan.com/token/0x362c4BA54274ae8Ccd0E0a097E58B23EA2b7bCC3",
+ "type": "BEP20",
+ "symbol": "HOWG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x362c4BA54274ae8Ccd0E0a097E58B23EA2b7bCC3"
+}

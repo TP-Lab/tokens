@@ -1,0 +1,11 @@
+{
+    "name": "Chinaom",
+    "website": "https://chinaom.net/",
+    "description": "Explore The World Of Blockchain With You",
+    "explorer": "https://bscscan.com/token/0x9d126a63709646BD68A32e7a4f3105DF4c0d7e8D",
+    "type": "BEP20",
+    "symbol": "COM",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x9d126a63709646BD68A32e7a4f3105DF4c0d7e8D"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Brother pingtou",
+ "website": "www.fmcq.space",
+ "description": "PTG DAO 全球区块链创新者自管理（DAO）联盟，发源于密码朋克社区圈内顶级联盟宗旨意在打造一个拥平头哥（蜜獾）不服就干的不屈精神发扬密码朋克技术改变世界的信念的超级联盟。",
+ "explorer": "https://bscscan.com/token/0x77516E934cadF33Ceb7b96E6FC517a225D962C5e",
+ "type": "BEP20",
+ "symbol": "PTG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x77516E934cadF33Ceb7b96E6FC517a225D962C5e"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Binawow Token",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x99c94711Eb592761ac54C1853b90956264020eAb",
+ "type": "BEP20",
+ "symbol": "BWOW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x99c94711Eb592761ac54C1853b90956264020eAb"
+}

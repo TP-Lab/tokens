@@ -1,0 +1,11 @@
+{
+"name": "MetaCrocodile",
+"website": "https://metacrocodile.finance/",
+"description": "METACROCODILE is an answer to the Metaverse call.",
+"explorer": "https://bscscan.com/token/0x2f0031c2ae951ae81ab9a1fc06357595ecdbee6e",
+"type": "BEP20",
+"symbol": "MCROC",
+"decimals": 9,
+"status": "active",
+"id": "0x2F0031C2AE951aE81Ab9a1fc06357595ECDbEE6E"
+}

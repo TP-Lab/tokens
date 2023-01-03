@@ -1,0 +1,11 @@
+{
+ "name": "Little Fire",
+ "website": "..",
+ "description": "Standard bep20 token, contract control has been waived.",
+ "explorer": "https://bscscan.com/token/0x7C375AdA367C10dcc1Ba9E6A98ff6457E0f73Fa0",
+ "type": "BEP20",
+ "symbol": "LF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7C375AdA367C10dcc1Ba9E6A98ff6457E0f73Fa0"
+}

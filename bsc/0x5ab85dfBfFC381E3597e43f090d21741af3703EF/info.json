@@ -1,0 +1,11 @@
+{
+ "name": "ABANK",
+ "website": "https://www.abankdao.club",
+ "description": "ABANK is a community-initiated DAO organization.",
+ "explorer": "https://bscscan.com/token/0x5ab85dfBfFC381E3597e43f090d21741af3703EF",
+ "type": "BEP-20",
+ "symbol": "ABANK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5ab85dfBfFC381E3597e43f090d21741af3703EF"
+}

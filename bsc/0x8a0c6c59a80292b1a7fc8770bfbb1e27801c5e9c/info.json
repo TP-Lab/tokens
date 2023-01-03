@@ -1,0 +1,11 @@
+{
+ "name": "New Community Luna",
+ "website": "https://cluna.tech",
+ "description": "A renounced contract community driven project with goals of building a new safe place for those who got hurt by Luna.",
+ "explorer": "https://bscscan.com/token/0x8a0c6c59a80292b1a7fc8770bfbb1e27801c5e9c",
+ "type": "BEP20",
+ "symbol": "Cluna",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8a0c6c59a80292b1a7fc8770bfbb1e27801c5e9c"
+}

@@ -1,0 +1,10 @@
+{
+"name": "GameNFT",
+"website": "https://gamenft.vip",
+"explorer": "https://bscscan.com/token/0xd32af8BeE4095A84e258a82B512356dFC0A7D2C0",
+"type": "BEP20",
+"symbol": "GNFT",
+"decimals": 18,
+"status": "active",
+"id": "0xd32af8BeE4095A84e258a82B512356dFC0A7D2C0"
+}

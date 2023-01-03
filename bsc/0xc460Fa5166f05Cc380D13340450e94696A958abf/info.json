@@ -1,0 +1,11 @@
+{
+ "name": "Horizon",
+ "website": "https://wol.horizon-88.cn/dist/#/",
+ "description": "Asset aggregation income platform and liquidity integration of pledged assets.",
+ "explorer": "https://bscscan.com/token/0xc460Fa5166f05Cc380D13340450e94696A958abf",
+ "type": "BEP20",
+ "symbol": "WOL",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xc460Fa5166f05Cc380D13340450e94696A958abf"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "AMC ASWAP DAO",
+ "website": "http://www.amc.com",
+ "description": "在每一位盘古成员热切的期盼和呼声中，基于盘古fstswap生态的AMC密安公链应运而生。国际领先的加密安全技术加持下，ASWAP交易所正式启动，作为ASWAP平台唯一指定平台代币：AMC ASWAP DAO，将作为最坚实的地基，聚合AMC公链的全部金融服务，为所有盘古人赋能，为更美好的未来，我们一起砥砺前行！",
+ "explorer": "https://bscscan.com/token/0x293d376b0e2708838ed5d1479ef38444d4f35678",
+ "type": "BEP20",
+ "symbol": "AMC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x293d376b0e2708838ed5d1479ef38444d4f35678"
+}

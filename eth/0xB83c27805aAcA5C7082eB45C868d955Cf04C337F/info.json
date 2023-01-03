@@ -1,0 +1,11 @@
+{
+  "name": "TigerCoin",
+  "website": "https://jungleking.app",
+  "description": "TigerCoin is the governance andutility token in Tiger ecosystem. First Erc20 token blended with NFT.",
+  "explorer": "https://etherscan.io/token/0xB83c27805aAcA5C7082eB45C868d955Cf04C337F",
+  "type": "ERC20",
+  "symbol": "Tiger",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xB83c27805aAcA5C7082eB45C868d955Cf04C337F"
+ }

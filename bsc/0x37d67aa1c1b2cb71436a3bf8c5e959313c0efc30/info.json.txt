@@ -1,0 +1,11 @@
+{
+ "name": "ATA",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x37d67aa1c1b2cb71436a3bf8c5e959313c0efc30",
+ "type": "BEP20",
+ "symbol": "ATA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x37d67aa1c1b2cb71436a3bf8c5e959313c0efc30"
+}

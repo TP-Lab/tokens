@@ -1,0 +1,11 @@
+{
+ "name": "Seventh Space",
+ "website": "https://seventhspace.club",
+ "description": "seventh space is a Metaverse club project developed by C9 Lab. It contains elements of games, art and community. SEVS, which allows players to better experience virtual world interaction and the charm of NFT, is the main governance practical token of the club.",
+ "explorer": "https://polygonscan.com/token/0xF3f383aDA59a2D63693Ab50dE3bfbb780706102B",
+ "type": "ERC20",
+ "symbol": "SEVS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF3f383aDA59a2D63693Ab50dE3bfbb780706102B"
+}

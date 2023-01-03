@@ -1,0 +1,11 @@
+{
+ "name": "DIPToken",
+ "website": "dipdao.org",
+ "description": "DIPToken is a community-driven cryptocurrency created by DIP DAO. DIP is short for Digital People which is running as a decentralized autonomous organization.",
+ "explorer": "https://bscscan.com/token/0x23c321ea0a151f1d4b670bf3b86b5d89e2b13da2",
+ "type": "BEP20",
+ "symbol": "DIP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x23c321EA0a151F1D4B670bf3B86B5D89e2b13da2"
+}

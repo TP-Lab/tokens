@@ -1,0 +1,11 @@
+{
+"name": "GameFi Protocol",
+"website": "https://gamefi.ai/",
+"description":"GameFi Protocol is the first GameFi mining pool protocol, aiming to build the first global Gamefi aggregation platform, and its governance token is GFI.",
+ "explorer": "https://bscscan.com/address/0xdd6c6c114db071efe0bab6051268227ce64c3ffe",
+ "type": "BEP20",
+ "symbol": "GFI",
+ "decimals”:18 ,
+ "status": "active",
+ "id": "0xDD6C6C114Db071EFE0BAB6051268227CE64C3fFe"
+}

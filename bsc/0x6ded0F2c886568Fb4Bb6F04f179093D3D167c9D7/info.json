@@ -1,0 +1,11 @@
+{ 
+"name": "DeFIL TOKEN",
+"website": "https://app.defil.org/dashboard",
+"description": "DeFIL - Decentralized finance of Filecoin, based on the Filecoin project, expects to build a decentralized platform combining FIL mining pool and DeFi, the main purpose is to increase the liquidity of circulating FIL. By providing a perfect incentive scheme, namely interest + liquidity mining, DeFIL guides users who are ready to invest for a long time and already hold FIL to temporarily lend their FIL to miners, so as to solve the pain point of miners' pledge coins, and also through the project Get extra income. ",
+"explorer": "https://bscscan.com/token/0x6ded0F2c886568Fb4Bb6F04f179093D3D167c9D7",
+"type": "BEP20",
+"symbol": "DFL",
+"decimals": 18,
+"status": "active",
+"id": "0x6ded0F2c886568Fb4Bb6F04f179093D3D167c9D7"
+}

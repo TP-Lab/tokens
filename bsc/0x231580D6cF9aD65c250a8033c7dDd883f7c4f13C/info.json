@@ -1,0 +1,11 @@
+{
+	"name": "AIRC",
+	"website": "https://www.asgardiadao.io/",
+	"description": "AIRC",
+	"explorer": "https://bscscan.com/token/0x231580D6cF9aD65c250a8033c7dDd883f7c4f13C",
+	"type": "BEP20",
+	"symbol": "AIRC",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x231580D6cF9aD65c250a8033c7dDd883f7c4f13C"
+ }

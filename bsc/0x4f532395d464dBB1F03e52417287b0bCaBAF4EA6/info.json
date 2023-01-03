@@ -1,0 +1,11 @@
+{
+ "name": "HaoTian",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/address/0x4f532395d464dBB1F03e52417287b0bCaBAF4EA6",
+ "type": "BEP20",
+ "symbol": "HaoTian",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x4f532395d464dBB1F03e52417287b0bCaBAF4EA6"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "KidsDoge",
+ "website": "www.KidsDogecoin.com",
+ "description": "KidsDoge token is a new token on Binance Smart Chain network. We want to help animals, forests and humans that be hurt by KidsDoge",
+ "explorer": "https://bscscan.com/token/0xf22bdf6d88b188d6be957f69af446592d1267eda",
+ "type": "BEP20",
+ "symbol": "KidsDoge",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xf22bdf6d88b188d6be957f69af446592d1267eda"
+}

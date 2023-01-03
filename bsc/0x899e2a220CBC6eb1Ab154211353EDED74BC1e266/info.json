@@ -1,0 +1,11 @@
+{
+ "name": "FILST Token",
+ "website": "https://defil.org",
+ "description": "FILST(Filecoin Standard Hashrate Token）是永续性质的FIL标准算力通证，每枚FILST通证锚定满存1G的FIL算力，通过质押FILST通证，持有者即可获得相应数量算力的FIL挖矿产出。",
+ "explorer": "https://bscscan.com/token/0x899e2a220CBC6eb1Ab154211353EDED74BC1e266",
+ "type": "BEP20",
+ "symbol": "FILST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x899e2a220CBC6eb1Ab154211353EDED74BC1e266"
+}

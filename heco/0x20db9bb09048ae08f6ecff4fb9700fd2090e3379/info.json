@@ -1,0 +1,11 @@
+{
+ "name": "KAROO TOKEN",
+ "website": "https://karootoken.porg",
+ "description": "The best tokens on the heco chain, crowdfunding rewards",
+ "explorer": "https://hecoinfo.com/address/0x20db9bb09048ae08f6ecff4fb9700fd2090e3379",
+ "type": "HRC-20",
+ "symbol": "KAROO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x20db9bb09048ae08f6ecff4fb9700fd2090e3379"
+}

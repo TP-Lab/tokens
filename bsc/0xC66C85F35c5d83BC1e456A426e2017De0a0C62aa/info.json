@@ -1,0 +1,11 @@
+{
+ "name": "Small World",
+ "website": "https://smallworld.buzz",
+ "description": "Based on Web3.0, holographic Internet technology, NFT, and the concept of metaverse, the DAO value is consistent with the core value of the Internet. The team at Small World sees DAOs as the ultimate organizational form of future corporate governance. Therefore, all permissions are discarded, and the pool is permanently locked, which is truly decentralized and distributed management.",
+ "explorer": "https://bscscan.com/token/0xC66C85F35c5d83BC1e456A426e2017De0a0C62aa",
+ "type": "BEP20",
+ "symbol": "S-world",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC66C85F35c5d83BC1e456A426e2017De0a0C62aa"
+}

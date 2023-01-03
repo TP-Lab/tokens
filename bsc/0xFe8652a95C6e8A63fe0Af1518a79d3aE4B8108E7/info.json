@@ -1,0 +1,11 @@
+{
+ "name": "RBFR",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xFe8652a95C6e8A63fe0Af1518a79d3aE4B8108E7",
+ "type": "BEP20",
+ "symbol": "RBFR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFe8652a95C6e8A63fe0Af1518a79d3aE4B8108E7"
+}

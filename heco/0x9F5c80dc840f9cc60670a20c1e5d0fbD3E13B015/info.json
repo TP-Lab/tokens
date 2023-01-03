@@ -1,0 +1,11 @@
+{
+ "name": "DUSD",
+ "website": "https://demeter.xyz",
+ "description": "An Advanced, Antitrust And Autostabilization Currency.",
+ "explorer": "https://hecoinfo.com/address/0x9F5c80dc840f9cc60670a20c1e5d0fbD3E13B015",
+ "type": "HRC20",
+ "symbol": "DUSD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9F5c80dc840f9cc60670a20c1e5d0fbD3E13B015"
+}

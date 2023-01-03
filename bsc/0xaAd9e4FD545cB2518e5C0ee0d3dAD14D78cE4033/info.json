@@ -1,0 +1,11 @@
+{
+ "name": "PiUnion",
+ "website": "http://www.piunion.org/",
+ "description": " PiUnion is a community token that will find its utility with the development of an NFT and DEX ecosystem,We will use various protocols to bring the project up and to make value for the community.",
+ "explorer": "https://bscscan.com/token/0xaad9e4fd545cb2518e5c0ee0d3dad14d78ce4033",
+ "type": "BEP20",
+ "symbol": "PiUnion",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xaAd9e4FD545cB2518e5C0ee0d3dAD14D78cE4033"
+} 

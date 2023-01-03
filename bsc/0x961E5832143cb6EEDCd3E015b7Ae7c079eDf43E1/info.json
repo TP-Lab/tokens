@@ -1,0 +1,11 @@
+{
+ "name": "ZhBitcoin Token",
+ "website": "https://www.zbtc.top/public/index.php?s=/index/user/logininfo.html",
+ "description": "Build BTC belonging to Chinese people",
+ "explorer": "https://www.bscscan.com/token/0x961E5832143cb6EEDCd3E015b7Ae7c079eDf43E1",
+ "type": "BEP20",
+ "symbol": "ZBTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x961E5832143cb6EEDCd3E015b7Ae7c079eDf43E1"
+}

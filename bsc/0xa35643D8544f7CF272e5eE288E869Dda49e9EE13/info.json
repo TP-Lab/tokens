@@ -1,0 +1,11 @@
+{
+ "name": "balance.finance",
+ "website": "https://www.balancei.finance/",
+ "description": "AACE是去中心化社区自建实验，旨在创建一个完全分散的DeFi协议，最初愿景是实现人人平等、共同协作，它将每笔交易1%回流、1%分红本币给所有持有者。适用存款、农业、借款、支付、保险等并创建一个先进的平行公共链。",
+ "explorer": "https://bscscan.com/token/0xa35643D8544f7CF272e5eE288E869Dda49e9EE13",
+ "type": "BEP20",
+ "symbol": "AACE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa35643D8544f7CF272e5eE288E869Dda49e9EE13"
+}

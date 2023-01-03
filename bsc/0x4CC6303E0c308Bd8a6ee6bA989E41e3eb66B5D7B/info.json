@@ -1,0 +1,11 @@
+{
+ "name": "FISTDAO",
+ "website": "-",
+ "description": "FISTDAO is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x4CC6303E0c308Bd8a6ee6bA989E41e3eb66B5D7B",
+ "type": "BEP20",
+ "symbol": "FISTDAO",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x4CC6303E0c308Bd8a6ee6bA989E41e3eb66B5D7B"
+}

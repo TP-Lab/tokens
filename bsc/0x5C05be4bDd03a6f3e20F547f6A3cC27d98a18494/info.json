@@ -1,0 +1,11 @@
+{
+ "name": "VernyDoge",
+ "website": "https://vernydoge.xyz",
+ "description": "VernyDoge is a fusion between gaming and crypto. ",
+ "explorer": "https://bscscan.com/token/0x5C05be4bDd03a6f3e20F547f6A3cC27d98a18494",
+ "type": "BEP-20",
+ "symbol": "VernyDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5C05be4bDd03a6f3e20F547f6A3cC27d98a18494"
+}

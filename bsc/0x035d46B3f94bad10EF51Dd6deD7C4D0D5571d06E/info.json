@@ -1,0 +1,11 @@
+{
+  "name": "bndt",
+  "website": "http://mirofbsc.io",
+  "description": "",
+  "explorer": "https://bscscan.com/token/0x035d46B3f94bad10EF51Dd6deD7C4D0D5571d06E",
+  "type": "BEP20",
+  "symbol": "BNDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x035d46B3f94bad10EF51Dd6deD7C4D0D5571d06E"
+}

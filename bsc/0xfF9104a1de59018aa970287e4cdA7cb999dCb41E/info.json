@@ -1,0 +1,11 @@
+{
+  "name": "WZ-DAO",
+  "website": "https://a.wzswap.net",
+  "description": "WZ DAO community covers multiple ecosystems, SWAP, online e-commerce, payment, games, etc",
+  "explorer": "https://bscscan.com/token/0xfF9104a1de59018aa970287e4cdA7cb999dCb41E",
+  "type": "BEP20",
+  "symbol": "WZ-DAO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfF9104a1de59018aa970287e4cdA7cb999dCb41E"
+}

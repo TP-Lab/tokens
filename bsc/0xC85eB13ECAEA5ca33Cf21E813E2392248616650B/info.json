@@ -1,0 +1,11 @@
+{
+  "name": "BinanceDice",
+  "website": "https://binancedice.io",
+  "description": "THE BEST BSC DICE GAME SINCE 2022",
+  "explorer": "https://bscscan.com/token/0xC85eB13ECAEA5ca33Cf21E813E2392248616650B",
+  "type": "BEP20",
+  "symbol": "BD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xC85eB13ECAEA5ca33Cf21E813E2392248616650B"
+} 

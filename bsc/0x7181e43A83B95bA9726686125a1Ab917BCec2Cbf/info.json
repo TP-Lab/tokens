@@ -1,0 +1,11 @@
+{
+	"name": "GEC",
+	"website": "http://www.gecglobal.top",
+	"description": "Genesis will establish an independent Value Transter Protocol and build a decentralized comprehensive intelligent protocol platform.",
+	"explorer": "https://bscscan.com/token/0x7181e43a83b95ba9726686125a1ab917bcec2cbf",
+	"type": "BEP20",
+	"symbol": "GEC",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x7181e43A83B95bA9726686125a1Ab917BCec2Cbf"
+ }

@@ -1,0 +1,11 @@
+{
+    "name": "Data Petroleum Treasure",
+    "website": "https://www.dpta.io",
+    "description": "Based on the Binance Smart Chain issuance, we will use DPT as the target of value judgment in the entire alliance. At the same time, it is also the foundation of the financial system in the alliance ecology and the value of the alliance ecology. Because it reflects the consensus of all citizens in the alliance on the value of the alliance.",
+    "explorer": "https://bscscan.com/address/0xcAFfC5205226450444EfC7E278552E78D952d0CA",
+    "type": "BEP20",
+    "symbol": "DPT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xcAFfC5205226450444EfC7E278552E78D952d0CA"
+   }

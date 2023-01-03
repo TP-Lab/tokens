@@ -1,0 +1,11 @@
+{
+ "name": "FH",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x4433398A4199bf2d5F57EC6d1f789aDd2B92622B",
+ "type": "BEP20",
+ "symbol": "FH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4433398A4199bf2d5F57EC6d1f789aDd2B92622B"
+}

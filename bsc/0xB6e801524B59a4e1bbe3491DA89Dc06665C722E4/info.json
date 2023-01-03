@@ -1,0 +1,11 @@
+{
+"name": "MINICAT",
+"website": "https://minicat.vip/",
+"description": "Minicat is a DAO project combining Dfi + Charity. We will enable more people to join our stray cat foundation and the construction of cat rescue station through defi empowerment. Mini cat will include minicattoken, catswap, NFT's production platform and trading auction center, stray cat fund donation platform.",
+"explorer": "https://bscscan.com/address/0xb6e801524b59a4e1bbe3491da89dc06665c722e4",
+"type": "BEP20",
+"symbol": "MINICAT",
+"decimals": 9,
+"status": "active",
+"id": "0xB6e801524B59a4e1bbe3491DA89Dc06665C722E4"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "DECA TOKEN",
+ "website": "https://decaswap.finance",
+ "description": "Deca is the governance token powering the DecaSwap ecosystem. Deca Token is a functional utility token on the BNB Smart Chain (BEP20). Transaction tokens and revenue aggregators for generating extra rewards.",
+ "explorer": "https://bscscan.com/token/0x2ba63e81CF28DC82e81A6b31516323FFED2f3A25",
+ "type": "BEP20",
+ "symbol": "DECA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2ba63e81CF28DC82e81A6b31516323FFED2f3A25"
+}

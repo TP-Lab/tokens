@@ -1,0 +1,11 @@
+{
+    "name": "Star Wars Cat",
+    "website": "http://catplanet.finance/",
+    "description": "Interstellar War Cat is a comprehensive multiverse game for adopting cats through interstellar card slot mining, cultivation, entertainment, reproduction, and interstellar warfare.",
+    "explorer": "https://bscscan.com/token/0x98b6E33e77A55732f0e2ce595429144b18cE862C",
+    "type": "BEP20",
+    "symbol": "SWCAT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x98b6E33e77A55732f0e2ce595429144b18cE862C"
+}

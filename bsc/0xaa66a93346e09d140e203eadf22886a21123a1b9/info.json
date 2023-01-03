@@ -1,0 +1,11 @@
+{
+ "name": "Le Caliente",
+ "website": "https://caliente.fun",
+ "description": "Le CALIENTE will be the official token for the Caliente Network an auto yielding and utility token with CAKE rewards.",
+ "explorer": "https://bscscan.com/address/0xaa66a93346e09d140e203eadf22886a21123a1b9",
+ "type": "BEP20",
+ "symbol": "LECALIENTE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaa66a93346e09d140e203eadf22886a21123a1b9"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Robot Dog",
+ "website": "https://www.robotdogdao.com/",
+ "description": "Robot Dog, you can take your friendly puppy with you wherever you go! An RDOG Token in your pocket that makes you the best in the world!",
+ "explorer": "https://bscscan.com/token/0x3e72A2502E5c3908946EA1807C56f1488e26123F",
+ "type": "BEP20",
+ "symbol": "RDOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3e72A2502E5c3908946EA1807C56f1488e26123F"
+}

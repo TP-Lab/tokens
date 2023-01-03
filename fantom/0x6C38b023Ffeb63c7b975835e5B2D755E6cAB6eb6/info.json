@@ -1,0 +1,11 @@
+{
+ "name": "veDNA Token",
+ "website": "https://www.vedna.finance",
+ "description": "The first leverage mining protocol on Fantom ecology, based on the ultra-high income of ve(3,3) ecology, increase the use of funds and additional income rewards.",
+ "explorer": "https://ftmscan.com/address/0x6C38b023Ffeb63c7b975835e5B2D755E6cAB6eb6",
+ "type": "ERC20",
+ "symbol": "VED",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6C38b023Ffeb63c7b975835e5B2D755E6cAB6eb6"
+}

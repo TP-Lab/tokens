@@ -1,0 +1,11 @@
+{
+ "name": "ALANTRA",
+ "website": "-",
+ "description": "ATR是区块链上一个新兴的项目，大家都会欢迎他",
+ "explorer": "https://bscscan.com/token/0x8F5505762ec93e8F2D86BeF8ecdD8fdFe456ac25",
+ "type": "BEP20",
+ "symbol": "ATR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8F5505762ec93e8F2D86BeF8ecdD8fdFe456ac25"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MetaverseLinker Coin",
+ "website": "https://metaverselinker.eth.link",
+ "description": "MetaverseLinker is the world's leading decentralized virtual economy aggregation system and the underlying infrastructure of DAPP. Through MLC as the circulation media and governance certificate of the platform's ecological economic activities, MetaverseLinker realizes a metaverse application world that everyone can participate in and be easily linked through constant issuance and deflation governance.",
+ "explorer": "https://polygonscan.com/token/0xc08364b9864b65cd0b6dceb2487c87110d1aa126",
+ "type": "ERC20",
+ "symbol": "MLC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC08364b9864b65CD0B6dcEb2487c87110d1AA126"
+}

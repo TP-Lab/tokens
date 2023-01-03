@@ -1,0 +1,11 @@
+{
+    "name": "Mansa Musa",
+    "website": "https://www.richmonkey.vip/",
+    "description": "Mansa Musa (MM)",
+    "explorer": "https://bscscan.com/address/0x994b1603578cA6808a59a0a901c9986A2d3ebbef",
+    "type": "ERC721",
+    "symbol": "MM",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x994b1603578cA6808a59a0a901c9986A2d3ebbef"
+}

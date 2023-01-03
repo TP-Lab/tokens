@@ -1,0 +1,11 @@
+{
+ "name": "MF Token",
+ "website": "https://poolkfc.i5kx.com",
+ "description": "MF Token is the latest game.",
+ "explorer": "https://bscscan.com/token/0x80ddc05a075d6be0f55e71a022e2f9a6f48a4d9a",
+ "type": "BEP20",
+ "symbol": "MFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x80Ddc05A075D6be0f55E71A022e2f9A6f48a4d9A"
+}

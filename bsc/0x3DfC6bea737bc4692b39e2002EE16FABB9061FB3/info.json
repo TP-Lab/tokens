@@ -1,0 +1,11 @@
+{
+ "name": "CarryDoge",
+ "website": "https://www.carrydoge.com/",
+ "description": "CarryDoge is a community-Focused, Decentralized Cryptocurrency. This is a meme token,NFT and Ecosystem will be developed.",
+ "explorer": "https://bscscan.com/token/0x3dfc6bea737bc4692b39e2002ee16fabb9061fb3",
+ "type": "BEP20",
+ "symbol": "CDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3DfC6bea737bc4692b39e2002EE16FABB9061FB3"
+}

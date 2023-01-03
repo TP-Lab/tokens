@@ -1,0 +1,11 @@
+ {
+  "name": "The Matrix Revolutions",
+  "website": " http://mtr.testexex.com/",
+  "description": "A gaming association focused on meta-cosmic ecology, will officially open its security Pass MTR! MTR, with a circulation of 1 billion, is a token based on matrix Revolution, cryptography based on blockchain, and DE cryptocurrency matrix cryptography",
+  "explorer": "https://bscscan.com/address/0xa9cE6c0422b5FCeb7F14ac8636fC7a0190F733f2",
+  "type": "BEP20",
+  "symbol": "MTR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa9cE6c0422b5FCeb7F14ac8636fC7a0190F733f2"
+}

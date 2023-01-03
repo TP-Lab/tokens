@@ -1,0 +1,11 @@
+﻿{
+"name": "NB",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0x7F5061C684b37FBD78e391dEd9dA365Eb9a76B8e",
+ "type": "BEP20",
+ "symbol": "NB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x7F5061C684b37FBD78e391dEd9dA365Eb9a76B8e"
+}

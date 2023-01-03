@@ -1,0 +1,11 @@
+{
+ "name": "ReNFT Shards Protocol",
+ "website": "www.renft.org",
+ "description": "ReNFT is a multi-chain modular combination subsystem targeting NFT liquidity",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/ex1vq5cg5r623y5fct8j3vm94fp8yxwtjgn8wcqx8",
+ "type": "KEP20",
+ "symbol": "RNFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x602984507a544944E1679459B2d521390ce5C913"
+}

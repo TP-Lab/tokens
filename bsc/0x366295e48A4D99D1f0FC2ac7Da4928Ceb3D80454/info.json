@@ -1,0 +1,11 @@
+{
+ "name": "EDward Gaming",
+ "website": "-",
+ "description": "Edward gaming 2021 world champion commemorative coin",
+ "explorer": "https://www.bscscan.com/token/0x366295e48A4D99D1f0FC2ac7Da4928Ceb3D80454",
+ "type": "BEP20",
+ "symbol": "EDG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x366295e48A4D99D1f0FC2ac7Da4928Ceb3D80454"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Convenient And Fast Pay",
+ "website": "http://cfpchain.com",
+ "description": "CFP是去中心化DAO自发社区治理的建设实验。该代币同时用于NFT交易、平台支付、游戏的支付与流通。目的是将DAO组织的治理活动分配给CFP发展中的适当角色，并就CFP的未来达成一致。",
+ "explorer": "https://bscscan.com/token/0x23e713ac8bE869a4D974A544B42f09566888C06E",
+ "type": "BEP20",
+ "symbol": "CFP",
+ "decimals": 18,
+ "status": "active",.
+ "id": "0x23e713ac8bE869a4D974A544B42f09566888C06E"
+}

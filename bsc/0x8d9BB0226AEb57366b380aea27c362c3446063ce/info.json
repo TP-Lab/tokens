@@ -1,0 +1,11 @@
+{
+ "name": "LITO",
+ "website": "http://lituni.social/",
+ "description": "LITUNI is the first decentralized SocialFi literary interactive platform.",
+ "explorer": "https://bscscan.com/token/0x8d9bb0226aeb57366b380aea27c362c3446063ce",
+ "type": "BEP20",
+ "symbol": "LITO",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x8d9BB0226AEb57366b380aea27c362c3446063ce"
+}

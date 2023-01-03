@@ -1,0 +1,11 @@
+{
+ "name": "BNBHunter Token",
+ "website": "https://bnbhunter.game",
+ "description": "BNBHunter is an GameFi project with various modes in the MMORPG game.",
+ "explorer": "https://bscscan.com/token/0x16835bbcd1f998eeb96fdddca04c42805c8de368",
+ "type": "BEP20",
+ "symbol": "BHT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x16835bBcd1f998EEB96FdddcA04c42805c8dE368"
+}

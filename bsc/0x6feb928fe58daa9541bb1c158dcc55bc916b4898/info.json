@@ -1,0 +1,11 @@
+{
+ "name": "Dotty Token",
+ "website": "-",
+ "description": "Dotty🎁 是由全球DOT领域专家、极客、爱好者自发组建的一个Dotty🎁 助力DOT生态发展",
+ "explorer": "https://bscscan.com/token/0x6feb928fe58daa9541bb1c158dcc55bc916b4898",
+ "type": "BEP20",
+ "symbol": "Dotty🎁",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6feb928fe58daa9541bb1c158dcc55bc916b4898"
+}

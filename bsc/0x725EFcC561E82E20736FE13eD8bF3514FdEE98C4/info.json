@@ -1,0 +1,11 @@
+{
+ "name": "SVS",
+ "website": "https://svs.horizon-88.cn/dist/#/index/onepage",
+ "description": "Super Value-added Service",
+ "explorer": "https://bscscan.com/token/0x725EFcC561E82E20736FE13eD8bF3514FdEE98C4",
+ "type": "BEP20",
+ "symbol": "SVS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x725EFcC561E82E20736FE13eD8bF3514FdEE98C4"
+}

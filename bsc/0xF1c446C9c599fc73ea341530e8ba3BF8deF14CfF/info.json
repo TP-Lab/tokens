@@ -1,0 +1,11 @@
+{
+ "name": "Netmarble Token",
+ "website": "https://renrenfinance.xyz/",
+ "description": "Netmarble Token is the pass of Metaverse and NFT chain game platform. The company has developed a variety of mobile games including Clash of Light and Darkness and Spirit Sword Revolution. NTMB supports the purchase of game equipment.",
+ "explorer": "https://bscscan.com/token/0xf1c446c9c599fc73ea341530e8ba3bf8def14cff",
+ "type": "BEP20",
+ "symbol": "NTMB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF1c446C9c599fc73ea341530e8ba3BF8deF14CfF"
+}

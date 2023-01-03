@@ -1,0 +1,11 @@
+{
+ "name": "HDT",
+ "website": "https://bscscan.com/token/0x9cea83D3498418e78b2c5529696f1d7D7f16773D",
+ "description": "HDT COIN.",
+ "explorer": "https://bscscan.com/token/0x9cea83D3498418e78b2c5529696f1d7D7f16773D",
+ "type": "BEP20",
+ "symbol": "HDT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9cea83D3498418e78b2c5529696f1d7D7f16773D"
+}

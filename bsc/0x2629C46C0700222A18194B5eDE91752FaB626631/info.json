@@ -1,0 +1,11 @@
+{
+ "name": "Galaxy Coin",
+ "website": "-",
+ "description": "Galaxy Coin is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x2629C46C0700222A18194B5eDE91752FaB626631",
+ "type": "BEP20",
+ "symbol": "GXY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2629C46C0700222A18194B5eDE91752FaB626631"
+}

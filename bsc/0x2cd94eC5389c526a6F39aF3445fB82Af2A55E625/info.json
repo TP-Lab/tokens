@@ -1,0 +1,11 @@
+{
+ "name": "DORMOON",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x2cd94eC5389c526a6F39aF3445fB82Af2A55E625",
+ "type": "BEP20",
+ "symbol": "DORMOON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2cd94eC5389c526a6F39aF3445fB82Af2A55E625"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Health Potion",
+ "website": "https://www.cybercat.world",
+ "description": "Health Potion (HEP BEP-20) is a GameFi ecological subcoin issued by CherrySwap, which is CyberCat's incentive token.",
+ "explorer": "https://bscscan.com/token/0x7242Dbed15630a29eA5347898fa15FF8d5EB3593",
+ "type": "BEP20",
+ "symbol": "HEP",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x7242Dbed15630a29eA5347898fa15FF8d5EB3593"
+}

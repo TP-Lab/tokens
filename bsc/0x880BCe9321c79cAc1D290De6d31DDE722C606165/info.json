@@ -1,0 +1,11 @@
+{
+ "name": "Freedom Protocol Token",
+ "website": "https://freedomprot.com",
+ "description": "Freedom Protocol (FP for short), is a new financial protocol on DeFi3.0 world",
+ "explorer": "https://bscscan.com/token/0x880BCe9321c79cAc1D290De6d31DDE722C606165",
+ "type": "BEP20",
+ "symbol": "FREE",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x880BCe9321c79cAc1D290De6d31DDE722C606165"
+}

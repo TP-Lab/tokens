@@ -1,0 +1,11 @@
+{
+ "name": "MBUS Swap",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x2bc8df3893578599f03abcccec43ccff43d2ec1e",
+ "type": "BEP20",
+ "symbol": "MSS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2bc8df3893578599f03abcccec43ccff43d2ec1e"
+}

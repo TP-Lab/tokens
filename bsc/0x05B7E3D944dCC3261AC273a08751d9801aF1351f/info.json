@@ -1,0 +1,11 @@
+{
+ "name": "MAD Token",
+ "website": "http://madmeta.top",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/address/0x05B7E3D944dCC3261AC273a08751d9801aF1351f",
+ "type": "BEP20",
+ "symbol": "MAD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x05B7E3D944dCC3261AC273a08751d9801aF1351f"
+}

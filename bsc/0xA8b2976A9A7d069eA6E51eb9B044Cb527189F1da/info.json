@@ -1,0 +1,21 @@
+{
+
+"name": “Carpool Life Economy“,
+
+"website": "http://www.quchuxing.com”,
+
+"description": "CPLE is a carpool-life token for car owners and passengers around the world. It aims to build a next-generation blockchain Uber based on blockchain and token economic model+.",
+
+"explorer": "https://bscscan.com/token/0xa8b2976a9a7d069ea6e51eb9b044cb527189f1da",
+
+"type": "BEP20",
+
+"symbol": “CPLE”,
+
+"decimals": 18,
+
+"status": "active",
+
+"id": "0xA8b2976A9A7d069eA6E51eb9B044Cb527189F1da"
+
+}

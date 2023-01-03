@@ -1,0 +1,11 @@
+{
+ "name": "Doraemon",
+ "website": "No",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x881f3285fabeb021befa7adfa58e069296ad041f",
+ "type": "BEP20",
+ "symbol": "Doraemon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x881f3285fabeb021befa7adfa58e069296ad041f"
+}

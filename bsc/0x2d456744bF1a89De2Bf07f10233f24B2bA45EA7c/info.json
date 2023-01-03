@@ -1,0 +1,11 @@
+{
+ "name": "ZJFC",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x2d456744bF1a89De2Bf07f10233f24B2bA45EA7c",
+ "type": "BEP20",
+ "symbol": "ZJFC",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x2d456744bF1a89De2Bf07f10233f24B2bA45EA7c"
+}

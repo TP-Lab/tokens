@@ -1,0 +1,11 @@
+{ 
+"name": "Portaldot",
+"website": "http://www.portaldot.io",
+"description": "Portaldot是由Portaldot Foundation于2018年提出的新一代区块链底层协议，是基于区块链的全球资产数字化、数字资产化的产业区块链基础设施。Portaldot允许在任意区块链之间安全的发送任意数据，他解锁了大量真实世界的应用场景，同时将深度参与Metaverse的全面构建与边界延伸，以链接物理世界与数字世界的自由交互，为发展产业协同算力经济共同体提供强大支持。",
+"explorer": "https://bscscan.com/token/0x1BEC5734B1E4559979158052Dfa5C6F0156282F2",
+"type": "BEP20",
+"symbol": "POT",
+"decimals": 18,
+"status": "active",
+"id": "0x1BEC5734B1E4559979158052Dfa5C6F0156282F2"
+}

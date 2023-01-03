@@ -1,0 +1,11 @@
+{
+ "name": "ParalUni Token",
+ "website": "https://paraluni.org",
+ "description": "T42 is a governance token issued by the real DeFi2.0 project Paraluni, which is called 'the ultimate answer to DeFi' by investors.",
+ "explorer": "https://bscscan.com/address/0x43Feaca246392C23EE5A0Db618fCd81a74b91726",
+ "type": "BEP20",
+ "symbol": "T42",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x43Feaca246392C23EE5A0Db618fCd81a74b91726"
+}

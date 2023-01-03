@@ -1,0 +1,11 @@
+{
+ "name": "Statue of Liberty",
+ "website": "-",
+ "description": "Statue of Liberty is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xa95A09B407fEDD322fb29617C51C1c22567821A6",
+ "type": "BEP20",
+ "symbol": "SOL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa95A09B407fEDD322fb29617C51C1c22567821A6"
+}

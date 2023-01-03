@@ -1,0 +1,11 @@
+{
+ "name": "SHIC",
+ "website": "https://www.shictoken.com",
+ "description": "SHIC is a decentralized cloud storage data network developed based on the Substrate open source framework.",
+ "explorer": "https://bscscan.com/token/0x90FeB1c359C274934A3b45D10e37aD3b795bfEff",
+ "type": "BEP20",
+ "symbol": "SHIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xECa41281c24451168a37211F0bc2b8645AF45092"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "ZuckMeta",
+ "website": "https://www.zuckmeta.io",
+ "description": "ZUCKMeta=#Zuckerberg's MEME+#NFTs Yield Mining+#GameFi Play to Earn+#SocialFi $ZUCK to Fiat Exchange Service on ZUCKWAP.",
+ "explorer": "https://bscscan.com/token/0x81b242276afa697b118554f8cea4a5b09743a70b",
+ "type": "BEP20",
+ "symbol": "ZUCK ",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x81B242276afA697b118554F8cEA4A5b09743a70b"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "GOAT Token",
+ "website": "http://www.goatfinance.io",
+ "description": "GOAT-Open a new world of metaverse",
+ "explorer": "https://bscscan.com/token/0xb1033Fce0bA6415f60FD592f90BE10580bC39830",
+ "type": "BEP20",
+ "symbol": "GOAT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xb1033Fce0bA6415f60FD592f90BE10580bC39830"
+}

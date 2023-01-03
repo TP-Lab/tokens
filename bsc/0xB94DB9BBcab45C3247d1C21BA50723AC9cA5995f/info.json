@@ -1,0 +1,11 @@
+{
+ "name": "Pyramid Management Trading",
+ "website": "https://www.pmtwallets.com/",
+ "description": "Use your Bitcoin. Anywhere Invest, earn and pay with BTC on any blockchain with interBTC",
+ "explorer": "https://bscscan.com/address/0xB94DB9BBcab45C3247d1C21BA50723AC9cA5995f",
+ "type": "BEP20",
+ "symbol": "PMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB94DB9BBcab45C3247d1C21BA50723AC9cA5995f"
+}

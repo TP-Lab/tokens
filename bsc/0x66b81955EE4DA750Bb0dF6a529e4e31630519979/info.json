@@ -1,0 +1,11 @@
+{
+    "name": "Temple Run",
+    "website": "https://www.templerun.info",
+    "description": "Temple Run is a worldwide adventure game for all ages. More than 1 billion downloads worldwide. Topics cover survival, jungle, adventure, etc. At present, chain games combine DeFi+mining+community sharing+NFT blind box+guessing+game, allowing players to achieve the characteristics of \"Play to Earn\"",
+    "explorer": "https://bscscan.com/token/0x66b81955EE4DA750Bb0dF6a529e4e31630519979",
+    "type": "BEP20",
+    "symbol": "TR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x66b81955EE4DA750Bb0dF6a529e4e31630519979"
+}

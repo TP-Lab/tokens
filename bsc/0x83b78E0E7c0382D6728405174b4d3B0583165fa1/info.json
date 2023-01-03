@@ -1,0 +1,11 @@
+{
+    "name": "Power Token",
+    "website": "https://www.pwtecology.com",
+    "description": "Dennis Rodgers, who graduated from Harvard University, served as the CEO of Power Ecology and Jason SMITH, who was once the core technology of Facebook Libra, served as the co sponsor of CTO. Relying on the decentralized multi dimension ecological platform of the meta universe dynamic world built by Jin'an intelligent chain, it aims to enable participants to break the unequal distribution of interests, create a fully decentralized platform, enable users to access the meta universe POWER world from the real world anytime and anywhere, and establish their own new identity, content, social networking, investment, financial management, order and economic activities.",
+    "explorer": "https://bscscan.com/token/0x83b78e0e7c0382d6728405174b4d3b0583165fa1",
+    "type": "BEP20",
+    "symbol": "PWT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x83b78e0e7c0382d6728405174b4d3b0583165fa1"
+   }

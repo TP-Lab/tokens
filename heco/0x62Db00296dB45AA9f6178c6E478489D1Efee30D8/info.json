@@ -1,0 +1,11 @@
+{
+ "name": "Region tree",
+ "website": "https://www.rtcoin.info/",
+ "description": "Regional Trees (RT) is a proprietary cross-chain aggregation protocol built by RT Labs that ensures initial and target assets are deployed on two separate blockchains",
+ "explorer": "https://hecoinfo.com/token/0x62Db00296dB45AA9f6178c6E478489D1Efee30D8",
+ "type": "HECO",
+ "symbol": "RT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x62Db00296dB45AA9f6178c6E478489D1Efee30D8"
+}

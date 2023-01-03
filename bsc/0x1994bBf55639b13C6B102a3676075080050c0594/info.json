@@ -1,0 +1,11 @@
+{
+ "name": "Boss Token",
+ "website": "",
+ "description": "Boss Game是一款基于区块链技术的经典怀旧游戏，颠覆了传统游戏的中心化、GM化，Boss Game旨在让娱乐变得更有价值，在Boss Game，您可以通过巅峰竞技、野外pk、天塔闯关等方式获取Boss碎片，合成Boss Token（Boss)",
+ "explorer": "https://bscscan.com/token/0x1994bBf55639b13C6B102a3676075080050c0594",
+ "type": "BEP20",
+ "symbol": "Boss",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1994bBf55639b13C6B102a3676075080050c0594"
+}

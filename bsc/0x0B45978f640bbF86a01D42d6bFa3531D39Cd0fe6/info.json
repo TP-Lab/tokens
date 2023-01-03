@@ -1,0 +1,11 @@
+{
+ "name": "Metaworld",
+ "website": "https://www.meta-world.game",
+ "description": " Meta world is an island game for NFT platform.   Explore various resources, buy land to build a huge farm.",
+ "explorer": "https://bscscan.com/token/0x0B45978f640bbF86a01D42d6bFa3531D39Cd0fe6",
+ "type": "BEP20",
+ "symbol": "MTW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0B45978f640bbF86a01D42d6bFa3531D39Cd0fe6"
+}

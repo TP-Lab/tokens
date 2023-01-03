@@ -1,0 +1,11 @@
+{
+ "name": "LTCKING",
+ "website": ".",
+ "description": "LTCKING是币安通缩分红分LTC的代币",
+ "explorer": "https://bscscan.com/token/0x55a4ceddacf1abcfa95e89a00477b7a7958ba5f7",
+ "type": "BSC20",
+ "symbol": "LTCKING",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x55A4cEddaCf1abCFA95E89A00477B7a7958BA5f7"
+}

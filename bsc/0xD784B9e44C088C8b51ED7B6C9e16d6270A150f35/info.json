@@ -1,0 +1,11 @@
+{
+ "name": "TZH Token",
+ "website": "https://bscscan.com/token/0xD784B9e44C088C8b51ED7B6C9e16d6270A150f35",
+ "description": "TZH TOKEN.",
+ "explorer": "https://bscscan.com/token/0xD784B9e44C088C8b51ED7B6C9e16d6270A150f35",
+ "type": "BEP20",
+ "symbol": "TZH",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xD784B9e44C088C8b51ED7B6C9e16d6270A150f35"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "SOX Coin",
+ "website": "https://www.oxo-dao.com/",
+ "description": "SOX is an ecological encrypted asset issued by a combination of elements such as DEFI, WEB3.0, and DAO community autonomy. The application scenarios involve metaverse, decentralized exchanges, and charity traceability. Empowered by the technical geeks of the DAO community, audited by a world-renowned third-party professional audit institution, and co-constructed and shared by the builders of the SOX community, it will create a fully decentralized, fair, fair and open blockchain encrypted digital ecological asset mother currency,  It has strong vitality and huge room for growth.",
+ "explorer": "https://bscscan.com/token/0x1F7D413C3AAE644f8C1678132d55a856089F1AC9",
+ "type": "BEP20",
+ "symbol": "SOX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1F7D413C3AAE644f8C1678132d55a856089F1AC9"
+}

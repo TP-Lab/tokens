@@ -1,0 +1,11 @@
+{
+ "name": "KBNFT",
+ "website": "https://hecoinfo.com/",
+ "description": "KBNFT是基于火币生态链的去中心化通缩型分红代币，以共识机制进入DEFI市场的社区代币.",
+ "explorer": "https://hecoinfo.com/token/0xc551f19d579dec25747df43e3aec007051a59c96",
+ "type": "HRC-20",
+ "symbol": "KBNFT",
+ "decimals": 2,
+ "status": "active",
+ "id": "0xC551F19D579Dec25747df43E3AEc007051a59C96"
+}

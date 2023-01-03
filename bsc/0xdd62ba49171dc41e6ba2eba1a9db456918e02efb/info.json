@@ -1,0 +1,11 @@
+{
+ "name": "MOUNT TAI COIN",
+ "website": "",
+ "description": "MOUNT TAI COIN(MTC) is a kind of tokens based on the Binance Smart Chain(BSC).",
+ "explorer": "https://www.bscscan.com/token/0xdD62ba49171DC41E6bA2eba1A9dB456918E02efb",
+ "type": "BEP20",
+ "symbol": "MTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdD62ba49171DC41E6bA2eba1A9dB456918E02efb"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "BluSea Token",
+	"website": "https://www.blusea.net",
+	"description": "Blus is the only platform pass issued by blusea exchange. Blus plays a very important role in the business system of blusea exchange.",
+	"explorer": "https://bscscan.com/token/0xf74e6Bcf9f9fe7705e9cf90A6167E84c34ed0802",
+	"type": "BEP20",
+	"symbol": "BLUS",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xf74e6Bcf9f9fe7705e9cf90A6167E84c34ed0802"
+ }

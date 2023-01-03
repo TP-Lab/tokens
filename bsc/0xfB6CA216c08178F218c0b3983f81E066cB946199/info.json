@@ -1,0 +1,11 @@
+{
+ "name": "FantaCoin",
+ "website": "https://www.fantaverse.io",
+ "description": "FantaVerse is built on token economics and every segment in BIGANT has a token economic cycle. The entire metaverse uses an ERC-20 ecosystem token - FantaCoin (FTC). FTC is mainly used for DAO decentralized governance and revenue sharing.",
+ "explorer": "https://bscscan.com/token/0xfB6CA216c08178F218c0b3983f81E066cB946199",
+ "type": "BEP20",
+ "symbol": "FTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfB6CA216c08178F218c0b3983f81E066cB946199"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Good luck Dao",
+ "website": "http://goodluckdao.com",
+ "description": "Good luck Dao由爱生活的自治组织发起！以赠予的形式发放幸运币。愿景；祝你好运，愿把所有的好运都给你，希望你可以一直做自己喜欢的样子！",
+ "explorer": "https://bscscan.com/address/0x0f5c15f9fb3d16f7658499fd469eabdd7b194d96",
+ "type": "BEP20",
+ "symbol": "GLD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0f5C15F9fB3D16f7658499fD469eaBdd7b194d96"
+}

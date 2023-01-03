@@ -1,0 +1,11 @@
+{
+ "name": HBIC token",
+ "website": "-",
+ "description": "Pirate King HBIC token, community autonomy, holding the cash bonus FIL, in HBIC to create the virtual ecology of the Yuan Universe.",
+ "explorer": "https://bscscan.com/token/0x2070f18e6391739ECaA2568f3778E08482586fC3",
+ "type": "BEP20",
+ "symbol": "HBIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2070f18e6391739ECaA2568f3778E08482586fC3"
+}

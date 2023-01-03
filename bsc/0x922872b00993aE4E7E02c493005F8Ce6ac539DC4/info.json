@@ -1,0 +1,11 @@
+{
+ "name": "NEC Energy Solutions",
+ "website": "https://www.neces.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x922872b00993ae4e7e02c493005f8ce6ac539dc4",
+ "type": "BEP20",
+ "symbol": "NEC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x922872b00993aE4E7E02c493005F8Ce6ac539DC4"
+}

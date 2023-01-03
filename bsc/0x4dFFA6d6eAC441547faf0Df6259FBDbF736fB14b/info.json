@@ -1,0 +1,11 @@
+{
+ "name": "BNB DROP coin",
+ "website": ".",
+ "description": "BNB DROP coin是币安通缩分红代币",
+ "explorer": "https://bscscan.com/token/0x4dFFA6d6eAC441547faf0Df6259FBDbF736fB14b",
+ "type": "BSC20",
+ "symbol": "BNB DROP",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x4dFFA6d6eAC441547faf0Df6259FBDbF736fB14b"
+}

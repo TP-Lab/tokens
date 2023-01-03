@@ -1,0 +1,10 @@
+{
+ "name": "GALINFT",
+ "website": "http://www.galipool.vip",
+ "description": "GALI NFT is a free and open NFT non-homogeneous digital collection, which is scarce in quantity.",
+ "explorer": "https://bscscan.com/token/0x9939CFd8B6F581322091C2d75f075Ba30bE5553A",
+ "type": "ERC721",
+ "symbol": "GALINFT",
+ "status": "active",
+ "id": "0x9939CFd8B6F581322091C2d75f075Ba30bE5553A"
+} 

@@ -1,0 +1,11 @@
+{
+ "name": "Freedom DAO Token",
+ "website": "https://freedomprot.com",
+ "description": "Freedom Protocol (FP for short), is a new financial protocol that makes pledging easier and more efficient and provides $FREE token holders with the highest stable return on cryptocurrency in a sustainable fixed compounding model.",
+ "explorer": "https://bscscan.com/token/0xee33d16310dd102f45803f9c6eae8cdc39299f5f",
+ "type": "BEP20",
+ "symbol": "FREE001",
+ "decimals": 0,
+ "status": "active",
+ "id": "0xee33d16310DD102F45803F9C6EaE8Cdc39299F5f"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "SuperHelium",
+ "website": "https://shnt.finance/#/",
+ "description": "SHNT is Asprodao's platform( A DAO project of NFT + physical mining machine + Defi + aggregator) autonomous token, and is also the representative of Asprodao's physical mining machine's standard hashrate token with self-governance and voting power functions.",
+ "explorer": "https://bscscan.com/address/0x4aFC5434466fEb9506E9F7414D9Ad159426d515f",
+ "type": "BEP20",
+ "symbol": "SHNT",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x4aFC5434466fEb9506E9F7414D9Ad159426d515f"
+}

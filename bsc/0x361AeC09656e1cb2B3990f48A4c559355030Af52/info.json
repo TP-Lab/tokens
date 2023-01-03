@@ -1,0 +1,11 @@
+{
+  "name": "RACS Token",
+  "website": "http://racs.ga",
+  "description": "Racs Network is such a new, open metaverse.",
+  "explorer": "https://bscscan.com/token/0x361AeC09656e1cb2B3990f48A4c559355030Af52",
+  "type": "BEP20",
+  "symbol": "RACS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x361AeC09656e1cb2B3990f48A4c559355030Af52"
+}

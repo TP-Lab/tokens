@@ -1,0 +1,11 @@
+{
+ "name": "CORN TOKEN",
+ "website": "https://decaswap.finance",
+ "description": "Corn is a secondary DecaSwap token built on the BNB chain (BEP-20), in addition to the main governance token (Deca) that is primarily used to power the DecaSwap ecosystem",
+ "explorer": "https://bscscan.com/token/0xD03066E0134c34dE03eb6dbB92DFBe8EBc4d5E6f",
+ "type": "BEP20",
+ "symbol": "CORN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD03066E0134c34dE03eb6dbB92DFBe8EBc4d5E6f"
+}

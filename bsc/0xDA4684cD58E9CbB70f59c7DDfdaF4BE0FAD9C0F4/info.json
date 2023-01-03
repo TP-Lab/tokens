@@ -1,0 +1,11 @@
+{
+ "name": "HTMoon2",
+ "website": "https://htmoon.world",
+ "description": "HTMoon2 is the mirror token of HTMoon. ",
+ "explorer": "https://bscscan.com/address/0xda4684cd58e9cbb70f59c7ddfdaf4be0fad9c0f4",
+ "type": "ERC20",
+ "symbol": "HTMoon2",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDA4684cD58E9CbB70f59c7DDfdaF4BE0FAD9C0F4"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "StarShow",
+    "website": "https://www.starshow.cc",
+    "description": "StarShow is the TikTok in the blockchain field, providing services for project parties, service providers and members.",
+    "explorer": "https://bscscan.com/token/0xc7bd7465229AdD37fd0a2aA108075cac854772d6",
+    "type": "BEP20",
+    "symbol": "SRS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc7bd7465229AdD37fd0a2aA108075cac854772d6"
+   }

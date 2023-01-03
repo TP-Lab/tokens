@@ -1,0 +1,11 @@
+{
+ "name": "AK47",
+ "website": "https://www.bscscan.com/token/0xbCE8C8b84758284eb8197bDd7d32D8Cc7e669622",
+ "description": "AK47 is a community token issued by the DeFi Community Alliance",
+ "explorer": "https://www.bscscan.com/token/0xbCE8C8b84758284eb8197bDd7d32D8Cc7e669622",
+ "type": "BEP20",
+ "symbol": "AK47",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbCE8C8b84758284eb8197bDd7d32D8Cc7e669622"
+}

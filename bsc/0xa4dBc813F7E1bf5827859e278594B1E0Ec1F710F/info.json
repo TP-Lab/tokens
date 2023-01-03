@@ -1,0 +1,11 @@
+{ 
+"name": "BNO",
+"website": "",
+"description": "",
+"explorer": "https://bscscan.com/address/0xa4dBc813F7E1bf5827859e278594B1E0Ec1F710F",
+"type": "BEP20",
+"symbol": "BNO",
+"decimals": 18,
+"status": "active",
+"id": "0xa4dBc813F7E1bf5827859e278594B1E0Ec1F710F"
+}

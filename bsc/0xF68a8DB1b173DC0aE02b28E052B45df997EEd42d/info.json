@@ -1,0 +1,11 @@
+{
+ "name": "Babylon",
+ "website": "https://bscscan.com/token/0xF68a8DB1b173DC0aE02b28E052B45df997EEd42d",
+ "description": "Babylon TOKEN.",
+ "explorer": "https://bscscan.com/token/0xF68a8DB1b173DC0aE02b28E052B45df997EEd42d",
+ "type": "BEP20",
+ "symbol": "Babylon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF68a8DB1b173DC0aE02b28E052B45df997EEd42d"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Unobtainium Token",
+ "website": "http://www.libratoken.pro",
+ "description": "The Unobtainium Token is for metaverse.It can only be obtained by pledge libra mining",
+ "explorer": "https://bscscan.com/token/0x00fe3ba812297ccC9bE96619Da249D209e379e98",
+ "type": "BEP20",
+ "symbol": "UBT",
+ "decimals": 2,
+ "status": "active",
+ "id": "0x00fe3ba812297ccC9bE96619Da249D209e379e98"
+}

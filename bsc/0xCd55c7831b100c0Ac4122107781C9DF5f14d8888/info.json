@@ -1,0 +1,11 @@
+{
+    "name": "KBKcoin Token",
+    "website": "",
+    "description": "Kbkcoin is an experiment of decentralized spontaneous community construction. Use pancakeswap as an incentive token.",
+    "explorer": "https://bscscan.com/token/0xCd55c7831b100c0Ac4122107781C9DF5f14d8888",
+    "type": "BEP20",
+    "symbol": "KBKcoin",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xCd55c7831b100c0Ac4122107781C9DF5f14d8888"
+}

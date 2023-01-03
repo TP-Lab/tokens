@@ -1,0 +1,11 @@
+{
+  "name": "Laeeb",
+  "website": "https://www.laeebgo.com/",
+  "description": "A fully decentralized community project, that welcome every football enthusiastic to join the party!",
+  "explorer": "https://bscscan.com/token/0x81447234006e2d1a8babe7e57ff5e9799c5155b8",
+  "type": "BEP20",
+  "symbol": "Laeeb",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x81447234006e2d1A8bABE7e57Ff5e9799c5155B8"
+}

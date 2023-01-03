@@ -1,0 +1,11 @@
+{
+ "name": "JURASSIC PERIOD",
+ "website": "https://bscscan.com/token/0x59cc61bf9fd75368e8c06ce17e43c6ac59f516c3",
+ "description": "JRSP TOKEN.",
+ "explorer": "https://bscscan.com/token/0x59cc61bf9fd75368e8c06ce17e43c6ac59f516c3",
+ "type": "BEP20",
+ "symbol": "JRSP",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x59cC61BF9fd75368e8c06CE17E43C6aC59F516C3"
+}

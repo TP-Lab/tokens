@@ -1,0 +1,11 @@
+{
+ "name": "Alfa",
+ "website": "https://alfadao.money",
+ "description": "AlfaDAO is a new type of DEFI platform that realizes a new 'web3.0 investment approach' through a set of algorithmic reserve asset token protocols. DAO members can not only obtain high returns through staking, but also receive dividends from DAO's participation in the early investment of various high-quality projects.",
+ "explorer": "https://bscscan.com/token/0xd37A4cE6382bbA11424ea450835F898624082285",
+ "type": "BEP20",
+ "symbol": "AFA",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd37A4cE6382bbA11424ea450835F898624082285"
+}

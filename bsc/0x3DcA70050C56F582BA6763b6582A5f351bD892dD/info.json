@@ -1,0 +1,11 @@
+{
+ "name": "Star Trek Steel Material",
+ "website": "https://www.startrek.website",
+ "description": "All equipment synthesis will use a large amount of steel, which is the strategic resource.",
+ "explorer": "https://bscscan.com/token/0x3DcA70050C56F582BA6763b6582A5f351bD892dD",
+ "type": "BEP20",
+ "symbol": "STSM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3DcA70050C56F582BA6763b6582A5f351bD892dD"
+}

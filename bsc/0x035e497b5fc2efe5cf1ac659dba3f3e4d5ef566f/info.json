@@ -1,0 +1,11 @@
+﻿{
+ "name": "SpaceDoge",
+ "website": "https://SpaceDoge.cc/",
+ "description": "Spacedoge is a dog from the future!",
+ "explorer": "https://bscscan.com/token/0x035e497b5fc2efe5cf1ac659dba3f3e4d5ef566f",
+ "type": "BEP20",
+ "symbol": "SpaceDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x035e497b5fc2efe5cf1ac659dba3f3e4d5ef566f"
+}

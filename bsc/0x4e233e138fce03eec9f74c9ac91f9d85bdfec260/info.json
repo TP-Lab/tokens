@@ -1,0 +1,11 @@
+{
+  "name": "JFH   Token",
+  "website": "https://JFH.com",
+  "description": "BSC",
+  "explorer": "https://bscscan.com/token/0x4e233e138fce03eec9f74c9ac91f9d85bdfec260",
+  "type": "BEP20",
+  "symbol": "JFH ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4E233e138fce03eeC9F74c9Ac91F9D85bdfEC260"
+}

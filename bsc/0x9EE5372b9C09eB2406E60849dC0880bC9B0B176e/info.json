@@ -1,0 +1,11 @@
+{
+ "name": "Candy Token",
+ "website": "http://pool.candyswap.in",
+ "description": "CandySwap is the leading Defi all-ecological aggregate DEX. CandySwap improves the AMM algorithm to provide secure and more efficient liquidity...",
+ "explorer": "https://bscscan.com/address/0x9EE5372b9C09eB2406E60849dC0880bC9B0B176e",
+ "type": "BEP20",
+ "symbol": "Candy",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9EE5372b9C09eB2406E60849dC0880bC9B0B176e"
+}

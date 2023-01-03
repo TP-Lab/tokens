@@ -1,0 +1,11 @@
+{
+ "name": "Orchid",
+ "website": "https://www.Orchid.world",
+ "description": "Orchid token (ODT) is used for transactions in the global orchid market. According to statistics, the market value of global transactions will reach at least 100 billion by 2030.",
+ "explorer": "https://bscscan.com/token/0x0ae0c11edfe96111e6e5cb17f1494c68fbdbbe6b",
+ "type": "BEP20",
+ "symbol": "ODT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x0aE0C11EdFE96111e6e5Cb17f1494C68fBdbbE6b"
+}

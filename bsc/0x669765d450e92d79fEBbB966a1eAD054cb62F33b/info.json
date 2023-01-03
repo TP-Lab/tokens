@@ -1,0 +1,11 @@
+{
+"name": "Fist Smart Tool",
+"website": "https://www.ftts-fstswap.vip",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0x669765d450e92d79fEBbB966a1eAD054cb62F33b",
+"type": "BEP20",
+"symbol": "FTTS",
+"decimals": 18,
+"status": "active",
+"id": "0x669765d450e92d79fEBbB966a1eAD054cb62F33b"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MIS",
+ "website": "https://app.misswap.pro/#/",
+ "description": "A multichain DEX that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x2bC86CF8b0D723934d5a48789e2AEE1212039673",
+ "type": "BEP20",
+ "symbol": "MIS",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x2bC86CF8b0D723934d5a48789e2AEE1212039673"
+}

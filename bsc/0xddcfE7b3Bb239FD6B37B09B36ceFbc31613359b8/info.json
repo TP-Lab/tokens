@@ -1,0 +1,11 @@
+{
+ "name": "JingWei",
+ "website": "-",
+ "description": "JingWei Token is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xddcfE7b3Bb239FD6B37B09B36ceFbc31613359b8",
+ "type": "BEP20",
+ "symbol": "JW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xddcfE7b3Bb239FD6B37B09B36ceFbc31613359b8"
+}

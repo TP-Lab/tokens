@@ -1,0 +1,11 @@
+{
+ "name": "TigerKing",
+ "website": "https://tigerkingdao.com",
+ "description": "Tigerking is an experiment in the construction of decentralized community. It is another meme coin similar to dogecoin. Tigerking is a new token for the common development of the community.",
+ "explorer": "https://bscscan.com/token/0x7B1Aab3215138274f25D399db127E9a801EF35Cc",
+ "type": "BEP20",
+ "symbol": "TigerKing",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x7B1Aab3215138274f25D399db127E9a801EF35Cc"
+}

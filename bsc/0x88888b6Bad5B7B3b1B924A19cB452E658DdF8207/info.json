@@ -1,0 +1,11 @@
+{
+    "name": "VIA",
+    "website": "https://metasdao.net",
+    "description": "VIA is the vitality value of SportsDAO-Roam series games, which is used for charging and destroying Roam series sports shoes NFT.",
+    "explorer": "https://bscscan.com/token/0x88888b6Bad5B7B3b1B924A19cB452E658DdF8207",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "VIA",
+    "status": "active",
+    "id": "0x88888b6Bad5B7B3b1B924A19cB452E658DdF8207"
+}

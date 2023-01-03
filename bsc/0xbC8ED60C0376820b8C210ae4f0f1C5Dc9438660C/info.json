@@ -1,0 +1,11 @@
+{
+ "name": "Tiger Lord",
+ "website": "https://bscscan.com/token/0xbC8ED60C0376820b8C210ae4f0f1C5Dc9438660C",
+ "description": "A crazy tiger",
+ "explorer": "https://bscscan.com/token/0xbC8ED60C0376820b8C210ae4f0f1C5Dc9438660C",
+ "type": "BEP20",
+ "symbol": "TL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbC8ED60C0376820b8C210ae4f0f1C5Dc9438660C"
+}

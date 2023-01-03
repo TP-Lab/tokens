@@ -1,0 +1,11 @@
+{
+ "name": "KPH",
+ "website": "http://winxy123.com",
+ "description": "The project is about wine",
+ "explorer": "https://bscscan.com/token/0xb569e3ffc6f9bd79c744ad594534083a0ff86b25",
+ "type": "BEP20",
+ "symbol": "KPH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb569e3ffc6f9bd79c744ad594534083a0ff86b25"
+}

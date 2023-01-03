@@ -1,0 +1,11 @@
+{
+ "name": "Multinet",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0xBCeAAA6a74679C376b7EB9a1094D1484160d5795",
+ "type": "BEP20",
+ "symbol": "MNC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBCeAAA6a74679C376b7EB9a1094D1484160d5795"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "FSC",
+ "website": "no",
+ "description": "The FSC extension architecture supports fast transaction speeds, high scalability, and large workloads by separating execution from consensus",
+ "explorer": "https://bscscan.com/token/0xac8E833EbD726523948521F84Cc1bEd350915ff4",
+ "type": "BEP20",
+ "symbol": "FSC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xac8E833EbD726523948521F84Cc1bEd350915ff4"
+}

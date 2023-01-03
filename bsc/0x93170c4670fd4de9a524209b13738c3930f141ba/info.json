@@ -1,0 +1,11 @@
+{
+ "name": "CXCoin",
+ "website": "amway.trade",
+ "description": "$CXC is the first token of Amway chain shopping",
+ "explorer": "https://bscscan.com/token/0x93170c4670fd4de9a524209b13738c3930f141ba",
+ "type": "BEP20",
+ "symbol": "CXC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x93170c4670fd4de9a524209b13738c3930f141ba"
+} 

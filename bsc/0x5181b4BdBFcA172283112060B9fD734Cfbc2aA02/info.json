@@ -1,0 +1,11 @@
+{
+ "name": "Tigerzilla",
+ "website": "https://t.co/1R42Akz2Se",
+ "description": "Tigerzilla Token is a community-focused, decentralized cryptocurrency with instant rewards for holders.",
+ "explorer": "https://bscscan.com/token/0x5181b4BdBFcA172283112060B9fD734Cfbc2aA02",
+ "type": "BEP-20",
+ "symbol": "Tigerzilla",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5181b4BdBFcA172283112060B9fD734Cfbc2aA02"
+}

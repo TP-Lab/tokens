@@ -1,0 +1,11 @@
+{
+ "name": "AIDAO",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xA1F2BF7C00F379D6964C3D8ACF1e80a4371DaaD0",
+ "type": "BEP20",
+ "symbol": "AIDAO",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xA1F2BF7C00F379D6964C3D8ACF1e80a4371DaaD0"
+}

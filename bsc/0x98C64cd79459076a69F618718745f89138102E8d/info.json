@@ -1,0 +1,11 @@
+{
+ "name": "VSHIB",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x98C64cd79459076a69F618718745f89138102E8d",
+ "type": "BSC20",
+ "symbol": "VSHIB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x98C64cd79459076a69F618718745f89138102E8d"
+}

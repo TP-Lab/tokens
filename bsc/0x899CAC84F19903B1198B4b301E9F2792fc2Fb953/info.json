@@ -1,0 +1,11 @@
+{
+ "name": "FTP",
+ "website": "https://www.cqqifa.com/#/home",
+ "description": "FTP is based on BSC chain issued metauniverse football ecological governance token.It is committed to building a "meta-universe Football Super entertainment platform".",
+ "explorer": "https://bscscan.com/token/0x899CAC84F19903B1198B4b301E9F2792fc2Fb953",
+ "type": "BEP20",
+ "symbol": "FTP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x899CAC84F19903B1198B4b301E9F2792fc2Fb953"
+}

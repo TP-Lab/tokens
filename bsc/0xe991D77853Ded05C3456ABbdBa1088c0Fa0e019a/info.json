@@ -1,0 +1,11 @@
+{
+ "name": "babyLV",
+ "website": "..",
+ "description": "Standard bep20 token, contract control has been waived.",
+ "explorer": "https://bscscan.com/token/0xe991D77853Ded05C3456ABbdBa1088c0Fa0e019a",
+ "type": "BEP20",
+ "symbol": "babyLV ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe991D77853Ded05C3456ABbdBa1088c0Fa0e019a"
+}

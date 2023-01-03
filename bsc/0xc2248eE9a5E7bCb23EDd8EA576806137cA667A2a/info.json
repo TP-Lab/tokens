@@ -1,0 +1,12 @@
+{
+ "name": "CYC Token",
+ "website": "https://cyclebas.com/",
+ "description": "CYCLEBAS is based on open source technology of Ethereum chain. By decentralized storage, it is able to provide record storage for carbon emission trading platforms such as EEX and ECX. It can record carbon transaction records through data, which is beneficial to institutions and  supervision.It can also boost the liquidity of carbon emission transactions effectively. Commission that’s earned by those transactions will be rewarded to every CYCLEBAS miner.
+CYCLEBAS is dedicated to establishing a energy trading information inquiry channel for data interoperability, mutual trust, and value interconnection of global blockchain energy trading platform, it simplifies carbon trading .",
+ "explorer": "https://bscscan.com/token/0xc2248eE9a5E7bCb23EDd8EA576806137cA667A2a",
+ "type": "BEP20",
+ "symbol": "CYC",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xc2248eE9a5E7bCb23EDd8EA576806137cA667A2a"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "CABO",
+	"website": "https://www.caboclub.org/#/Discovery",
+	"description": "Discovery is a metaverse ecology.",
+	"explorer": "https://bscscan.com/token/0xbA42aA89F9e23AE8d4b8AAF712BAA8D288088E51",
+	"type": "BEP20",
+	"symbol": "CABO",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xbA42aA89F9e23AE8d4b8AAF712BAA8D288088E51"
+   }

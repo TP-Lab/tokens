@@ -1,0 +1,11 @@
+{
+ "name": "Fantasy Space Food",
+ "website": "https://fantasyspace.io",
+ "description": "Fantasy Space is a Metaverse BlockChain game. the hunting grounds will provide you with sufficient food,which will be necessities witnessing your conquest of the Fantasy Space.",
+ "explorer": "https://bscscan.com/token/0xBFFC9A09cd852aC0F53e3988C4959ccbafc595a6",
+ "type": "BEP20",
+ "symbol": "FSF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBFFC9A09cd852aC0F53e3988C4959ccbafc595a6"
+}

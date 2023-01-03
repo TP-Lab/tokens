@@ -1,0 +1,11 @@
+{
+ "name": "TV",
+ "website": "http://nhdztv.net/",
+ "description": "TV is a Dao token issued by TV",
+ "explorer": "https://bscscan.com/token/0x3D5629a4174D6522BA030ebc7727A319E02E4913",
+ "type": "BEP20",
+ "symbol": "TV",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3D5629a4174D6522BA030ebc7727A319E02E4913"
+}

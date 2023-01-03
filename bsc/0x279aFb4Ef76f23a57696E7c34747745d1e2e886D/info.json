@@ -1,0 +1,11 @@
+{undefined
+ "name": "FITOUT Token",
+ "website": "www.cosmicjourney.net",
+ "description": "Universal token of universe journey yuan universe game",
+ "explorer": "https://bscscan.com/token/0x279aFb4Ef76f23a57696E7c34747745d1e2e886D",
+ "type": "BEP20",
+ "symbol": "FITOUT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x279aFb4Ef76f23a57696E7c34747745d1e2e886D"
+}

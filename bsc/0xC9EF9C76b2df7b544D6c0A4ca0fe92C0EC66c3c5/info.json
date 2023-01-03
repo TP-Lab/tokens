@@ -1,0 +1,11 @@
+{
+ "name": "Stone DAO Token",
+ "website": "https://stonecoin.xyz/",
+ "description": "真正的去中心化自治组织DAO践行者, 把权利交还给参与者, 通过DeFi理念共同推动生态发展。",
+ "explorer": "https://bscscan.com/token/0xc9ef9c76b2df7b544d6c0a4ca0fe92c0ec66c3c5",
+ "type": "BEP20",
+ "symbol": "STONE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC9EF9C76b2df7b544D6c0A4ca0fe92C0EC66c3c5"
+}

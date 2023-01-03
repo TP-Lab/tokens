@@ -1,0 +1,11 @@
+{
+ "name": "PG token",
+ "website": "https://www.playgame.im",
+ "description": " PG is the basic token in the metaverse game ecosystem wihch is based on BinanceSmartChain ... ",
+ "explorer": "https://bscscan.com/token/0xcfbba23270a42ad2bf4ed0e2e541f32c1143c288",
+ "type": "BEP20",
+ "symbol": "PG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCfBBa23270a42ad2bf4Ed0E2e541F32C1143c288"
+}

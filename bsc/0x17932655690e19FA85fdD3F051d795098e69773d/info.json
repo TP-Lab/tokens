@@ -1,0 +1,11 @@
+{
+ "name": "New Free Dao",
+ "website": "https://nfd.newfreedao.app",
+ "description": "a new and wild world  aiming to attract  more users here with great reward",
+ "explorer": "https://bscscan.com/token/0x17932655690e19FA85fdD3F051d795098e69773d",
+ "type": "BEP20",
+ "symbol": "NfD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x17932655690e19FA85fdD3F051d795098e69773d"
+}

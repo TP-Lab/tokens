@@ -1,0 +1,11 @@
+{
+ "name": "King Token",
+ "website": "https://kingdomx.co/",
+ "description": "King Token (KT) is the core Token in KingdomX for value transmissions and community governance.",
+ "explorer": "https://bscscan.com/token/0x52da44b5e584f730005dac8d2d2acbdee44d4ba3",
+ "type": "BEP20",
+ "symbol": "KT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x52Da44B5E584F730005daC8D2D2AcbDee44D4ba3"
+}

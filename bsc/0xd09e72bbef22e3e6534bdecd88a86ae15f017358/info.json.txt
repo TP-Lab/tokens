@@ -1,0 +1,11 @@
+{
+ "name": "WifiDoge ",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xd09e72bbef22e3e6534bdecd88a86ae15f017358",
+ "type": "WifiDoge",
+ "symbol": "WifiDoge",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xd09e72bbef22e3e6534bdecd88a86ae15f017358"
+}

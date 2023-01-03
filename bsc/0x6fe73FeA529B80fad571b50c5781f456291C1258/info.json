@@ -1,0 +1,11 @@
+{
+ "name": "SpaceDoge",
+ "website": "https://spacedoge.space/",
+ "description": "SpaceDoge is a community-centered, fair-launched space-themed token, dedicated to creating a new meta-universe ecology.",
+ "explorer": "https://bscscan.com/token/0x6fe73FeA529B80fad571b50c5781f456291C1258",
+ "type": "BEP20",
+ "symbol": "SpaceDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6fe73FeA529B80fad571b50c5781f456291C1258"
+}

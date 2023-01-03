@@ -1,0 +1,11 @@
+{
+ "name": "Godzilla",
+ "website": "http://www.marvelfuture.xyz/",
+ "description": "Marvel Future Dao is committed to building a new order (DAO) organization with wealth sharing and complete mutual trust, with basic support from BSC.",
+ "explorer": "https://bscscan.com/token/0x880b86Cb00d5b03013c852041e993C2003249F4F",
+ "type": "BEP-20",
+ "symbol": "GZL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x880b86Cb00d5b03013c852041e993C2003249F4F"
+}

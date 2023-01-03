@@ -1,0 +1,13 @@
+{
+ 
+"name": "BTS",
+ 
+"website": "-",
+"description": "BTS (bitcoin) is a decentralized deflationary digital currency based on the fire coin ecological chain, and the liquidity mine pool is completely locked.",
+"explorer": "https://hecoinfo.com/address/0x4279FeDDBE33664025E6b1A47c71C6079BA5A6c0",
+"type": "HECO",
+"symbol": "BTS",
+"decimals": 18,
+"status": "active",
+"id": "0x4279FeDDBE33664025E6b1A47c71C6079BA5A6c0"
+}

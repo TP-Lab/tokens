@@ -1,0 +1,11 @@
+{
+ "name": "MILITIA",
+ "website": "",
+ "description": "BSC TOKEN",
+ "explorer": "https://bscscan.com/token/0xeEa7C025b1EeE9527d631094D45Ff9cE5d830b6f",
+ "type": "BSC",
+ "symbol": "MILIT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xeEa7C025b1EeE9527d631094D45Ff9cE5d830b6f"
+}

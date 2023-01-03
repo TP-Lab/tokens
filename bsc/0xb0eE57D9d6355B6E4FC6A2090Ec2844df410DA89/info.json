@@ -1,0 +1,11 @@
+{ 
+"name": "Money Tiger",
+"website": "https://www.moneytiger.finance",
+"description": "The target market of Money Tiger's NFT is to provideasimple and safe way to buy & sell or mint NFT.",
+"explorer": "https://bscscan.com/address/0xb0eE57D9d6355B6E4FC6A2090Ec2844df410DA89",
+"type": "BEP20",
+"symbol": "Money Tiger",
+"decimals": 18,
+"status": "active",
+"id": "0xb0eE57D9d6355B6E4FC6A2090Ec2844df410DA89"
+} 

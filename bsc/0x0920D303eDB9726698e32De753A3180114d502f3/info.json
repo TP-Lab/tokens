@@ -1,0 +1,11 @@
+{
+ "name": "LionArt",
+ "website": "",
+ "description": "LionArt",
+ "explorer": "https://www.bscscan.com/token/0x0920D303eDB9726698e32De753A3180114d502f3",
+ "type": "BEP20",
+ "symbol": "LION",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0920D303eDB9726698e32De753A3180114d502f3"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BULL TOKEN",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xd00231F40e884611b53B1bA0f04790aEBf3d22f8",
+ "type": "BSC20",
+ "symbol": "BULL",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xd00231F40e884611b53B1bA0f04790aEBf3d22f8"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SunRise",
+  "website": "https://sunrisechain.finance",
+  "description": "Leading BSC-Token with SunRiseChain",
+  "explorer": "https://bscscan.com/token/0xa46452ecbD51451B277211DE79af43DB46BaF5Bd",
+  "type": "BEP20",
+  "symbol": "SR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa46452ecbD51451B277211DE79af43DB46BaF5Bd"
+}

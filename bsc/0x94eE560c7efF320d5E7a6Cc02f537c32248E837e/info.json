@@ -1,0 +1,11 @@
+{
+ "name": "Infinite Metaverse",
+ "website": "https://www.infinitetoken.net",
+ "description": "Infinitemetaverse is a platform carrying virtual activities with trusted asset value and identity authentication, which realizes the replication of the underlying logic of the real world. Its essence is a platform carrying all virtual activities.",
+ "explorer": "https://bscscan.com/token/0x94eE560c7efF320d5E7a6Cc02f537c32248E837e",
+ "type": "BEP20",
+ "symbol": "IFM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x94eE560c7efF320d5E7a6Cc02f537c32248E837e"
+}

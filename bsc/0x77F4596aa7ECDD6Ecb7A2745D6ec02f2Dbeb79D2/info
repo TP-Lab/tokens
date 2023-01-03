@@ -1,0 +1,11 @@
+{
+"name": "ArtToken",
+"website": "-",
+"description": "Art",
+"explorer": "https://bscscan.com/address/0x77F4596aa7ECDD6Ecb7A2745D6ec02f2Dbeb79D2",
+"type": "BEP20",
+"symbol": "Art",
+"decimals": 18,
+"status": "active",
+"id": "0x77F4596aa7ECDD6Ecb7A2745D6ec02f2Dbeb79D2"
+}

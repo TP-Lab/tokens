@@ -1,0 +1,11 @@
+{
+ "name": "Bike",
+ "website": "http://www.kbbcoin.top/",
+ "description": "KBB 是一个开放的分布式网络传输协议，每一个开发者都可以在这里实现自己的想法，每一个参与者都能获得属于自己财富价值。KBB也将不断拓展区块链技术在各个领域的应用边界和技术边界，让一切不可能变成可能。",
+ "explorer": "https://hecoinfo.com/token/0x3be5f3fc6079f90060097f4a503d1c4b914a84ba",
+ "type": "HRC20",
+ "symbol": "KBB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3Be5f3Fc6079f90060097F4a503D1c4B914A84bA"
+}

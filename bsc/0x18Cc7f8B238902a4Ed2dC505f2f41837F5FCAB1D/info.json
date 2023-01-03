@@ -1,0 +1,11 @@
+{
+ "name": "Gem box",
+ "website": "-",
+ "description": "Gem box Tokenis an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x18Cc7f8B238902a4Ed2dC505f2f41837F5FCAB1D",
+ "type": "BEP20",
+ "symbol": "GBOX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x18Cc7f8B238902a4Ed2dC505f2f41837F5FCAB1D"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Precious Clean Energy",
+ "website": "https://meli.games/",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x5b044A447271f2B981DB555b49A7847598B0a05C",
+ "type": "BEP20",
+ "symbol": "PCE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5b044A447271f2B981DB555b49A7847598B0a05C"
+}

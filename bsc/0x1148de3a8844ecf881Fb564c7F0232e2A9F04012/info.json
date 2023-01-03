@@ -1,0 +1,11 @@
+{
+ "name": "Spike Doge",
+ "website": "http://spike.spikedoge.com/#/",
+ "description": "Spike Doge is an innovative AI Rebase token. AI automatically calculates the most appropriate increase. Holding the token passively distributes DOGE tokens. The earlier you buy, the longer you hold the token, the more dividends you will get.",
+ "explorer": "https://bscscan.com/token/0x1148de3a8844ecf881Fb564c7F0232e2A9F04012",
+ "type": "BEP20",
+ "symbol": "Spike",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x1148de3a8844ecf881Fb564c7F0232e2A9F04012"
+}

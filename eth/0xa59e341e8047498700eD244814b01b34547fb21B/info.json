@@ -1,0 +1,11 @@
+{
+ "name": "Medal of Honour",
+ "website": "https://www.versaillesheroes.com",
+ "description": "Medal of Honour (MOH) token allows users to purchase Versailles Heroes game equipment and in-game consumption.",
+ "explorer": "https://etherscan.io/token/0xa59e341e8047498700ed244814b01b34547fb21b",
+ "type": "ERC20",
+ "symbol": "MOH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa59e341e8047498700ed244814b01b34547fb21b"
+}

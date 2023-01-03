@@ -1,0 +1,11 @@
+{
+ "name": "SupreNFT",
+ "website": "http://www.suprenft.com/",
+ "description": "SupreNFT是极具独创性的多元化、集成化的NFT交易与创作平台。从技术整合度高、最具颠覆动力的基础设施切入，聚合链上世界与艺术创作领域的头部资源，打造涵盖NFT创作与交易、IP代理与孵化、实物映射NFT、拍卖、抵押、流动性挖矿、NFT社交、DAO、元宇宙、虚拟偶像等生态的超级平台。",
+ "explorer": "https://bscscan.com/token/0x4F8C689f2E17bA5ff0bAf4A7dd1C7493902DaC37",
+ "type": "BEP20",
+ "symbol": "SNFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4F8C689f2E17bA5ff0bAf4A7dd1C7493902DaC37"
+}

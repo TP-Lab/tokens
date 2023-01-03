@@ -1,0 +1,11 @@
+{
+    "name": "ApolloX Token",
+    "website": "https://www.apollox.finance/en",
+    "description": "The world's first CEX-DEX hybrid crypto exchange offering a wide selection of futures contracts with deep liquidity, stable system functionality and up to 100x leverage.",
+    "explorer": "https://bscscan.com/token/0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3",
+    "type": "BEP20",
+    "symbol": "APX",
+    "decimals": "18",
+    "status": "active",
+    "id": "0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3"
+}

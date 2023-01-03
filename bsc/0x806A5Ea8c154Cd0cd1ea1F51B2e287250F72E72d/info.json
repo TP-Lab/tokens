@@ -1,0 +1,11 @@
+{
+ "name": "TokenPocket Token",
+ "website": "http://www.bufferdao.com/",
+ "description": "BUF solves the problem of digital assets through the construction of blockchain technology and community ecosystem Existing Problems.",
+ "explorer": "https://bscscan.com/address/0x806A5Ea8c154Cd0cd1ea1F51B2e287250F72E72d",
+ "type": "BSC",
+ "symbol": "BUF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x806A5Ea8c154Cd0cd1ea1F51B2e287250F72E72d"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BatPLrotocoL",
+ "website": "http://batprotocol.finance",
+ "description": "BATPL是Web 2.0和Web 3.0升级版及跨链桥（Web 3.0子领域包含NFT、DAO、DeFi、元宇宙游戏，跨链等）",
+ "explorer": "https://bscscan.com/address/0x64a38994a642BE549E721C41715D2DdBb83e2e8C",
+ "type": "BEP20",
+ "symbol": "BatPL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x64a38994a642BE549E721C41715D2DdBb83e2e8C"
+}

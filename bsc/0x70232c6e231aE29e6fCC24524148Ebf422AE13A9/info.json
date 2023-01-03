@@ -1,0 +1,11 @@
+{
+ "name": "DOGO Token",
+ "website": "https://dogtoken.cc",
+ "description": "A group of Dogecoin supporters anonymously started ",
+ "explorer": "https://bscscan.com/token/0x70232c6e231ae29e6fcc24524148ebf422ae13a9",
+ "type": "BEP20",
+ "symbol": "DOGO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x70232c6e231aE29e6fCC24524148Ebf422AE13A9"
+}

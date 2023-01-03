@@ -1,0 +1,11 @@
+﻿{
+ "name": "YFD",
+ "website": "http://www.yfd.pro/",
+ "description": "YFD BEP20 Token.",
+ "explorer": "https://bscscan.com/address/0xD8295Eba490a9cA0eD9Cc074AAF634D344d49fCd",
+ "type": "BEP20",
+ "symbol": "YFD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD8295Eba490a9cA0eD9Cc074AAF634D344d49fCd"
+}

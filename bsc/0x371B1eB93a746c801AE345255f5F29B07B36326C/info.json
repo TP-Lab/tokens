@@ -1,0 +1,11 @@
+{
+    "name": "PixelShibaInu",
+    "website": "https://pixelshibainu.com/",
+    "description": "PIXELSHIBAINU IS THE FIRST SHIBA TOKEN WITH REWARD PROTOCOL AND NFT GAME ON THE BINANCE SMART CHAIN.",
+    "explorer": "https://bscscan.com/token/0x371B1eB93a746c801AE345255f5F29B07B36326C",
+    "type": "BEP20",
+    "symbol": "PSHIB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x371B1eB93a746c801AE345255f5F29B07B36326C"
+   }

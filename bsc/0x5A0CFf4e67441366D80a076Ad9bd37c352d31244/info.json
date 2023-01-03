@@ -1,0 +1,11 @@
+{
+  "name": "Boy Token",
+  "website": "https://boy.gifts",
+  "description": "Based on the poc fuel from Binance Smart Chain, the 100% decentralized deflation token is mainly used as fuel for the global cultural industry, enabling the real economy to achieve cross-chain transformation and serving as an accelerator for enterprises.",
+  "explorer": "https://bscscan.com/token/0x5a0cff4e67441366d80a076ad9bd37c352d31244",
+  "type": "BEP20",
+  "symbol": "BOY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5A0CFf4e67441366D80a076Ad9bd37c352d31244"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "ModernLeague",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x16324758d7fbC995e652685DAf6D440DAcA33Ee6",
+ "type": "BSC20",
+ "symbol": "MDL",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x16324758d7fbC995e652685DAf6D440DAcA33Ee6"
+}

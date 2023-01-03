@@ -1,0 +1,11 @@
+{
+ "name": "YBX",
+ "website": "-",
+ "description": "YXB Was the first world map game in YBSC. It had a large open world, bought land to become the master of the city. The master could interact with other players, socialize, and create a community ecosystem. Most importantly, it could be very profitable.",
+ "explorer": "https://bscscan.com/token/0xe2C89B590221693aFDa0E6DCd3f54BdF91e77A93",
+ "type": "BEP20",
+ "symbol": "YBX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe2C89B590221693aFDa0E6DCd3f54BdF91e77A93"
+}

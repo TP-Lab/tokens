@@ -1,0 +1,11 @@
+{
+ "name": "DEER Coin",
+ "website": "https://deerfinancialgroup.com/",
+ "description": "DEER Coin is designed to create Web Applications,Games,secure digital assets and make funds accessible from every where.",
+ "explorer": "https://bscscan.com/token/0x19f5f8b8a52d46e0ce7be462c1f7ed508e2969c5",
+ "type": "BEP20",
+ "symbol": "DRC",
+ "decimals": 5,
+ "status": "active",
+ "id": "0x19f5f8b8a52d46e0ce7be462c1f7ed508e2969c5"
+}

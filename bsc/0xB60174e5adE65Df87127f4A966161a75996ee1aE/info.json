@@ -1,0 +1,11 @@
+{
+ "name": "Meta Present",
+ "website": "-",
+ "description": "Howlingdog Tokenis an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xB60174e5adE65Df87127f4A966161a75996ee1aE",
+ "type": "BEP20",
+ "symbol": "MP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB60174e5adE65Df87127f4A966161a75996ee1aE"
+}

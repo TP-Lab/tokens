@@ -1,0 +1,11 @@
+{
+ "name": "BCL Token",
+ "website": "https://bcldex.com",
+ "description": "A leading decentralized mining protocol",
+ "explorer": "https://bscscan.com/token/0x4e55d3Db14D371Bd460EB57140492Dbe97818e0c",
+ "type": "BEP20",
+ "symbol": "BCL",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4e55d3Db14D371Bd460EB57140492Dbe97818e0c"
+}

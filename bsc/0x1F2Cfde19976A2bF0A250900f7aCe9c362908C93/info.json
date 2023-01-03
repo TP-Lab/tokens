@@ -1,0 +1,11 @@
+{
+ "name": "AZ World SocialFi",
+ "website": "https://azworld.network",
+ "description": "The first SocialFi to Earn on BSC",
+ "explorer": "https://bscscan.com/token/0x1F2Cfde19976A2bF0A250900f7aCe9c362908C93",
+ "type": "BEP20",
+ "symbol": "AZW",
+ "decimals": 5,
+ "status": "active",
+ "id": "0x1F2Cfde19976A2bF0A250900f7aCe9c362908C93"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "SATT KING",
+ "website": "",
+ "description": "SATT KING",
+ "explorer": "https://www.bscscan.com/token/0x26822d43F34224707e267e6496a3F22CF8478BDD",
+ "type": "BEP20",
+ "symbol": "Satt King",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x26822d43F34224707e267e6496a3F22CF8478BDD"
+}

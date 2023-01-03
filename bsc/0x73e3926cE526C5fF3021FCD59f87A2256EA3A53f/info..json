@@ -1,0 +1,11 @@
+{
+    "name": "COSK",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0x73e3926cE526C5fF3021FCD59f87A2256EA3A53f",
+    "type": "BEP20",
+    "symbol": "COSK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x73e3926cE526C5fF3021FCD59f87A2256EA3A53f"
+} 

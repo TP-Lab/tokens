@@ -1,0 +1,11 @@
+{
+ "name": "SPA",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xbd53CEE195814183094f99697707A9b8453E1DB5",
+ "type": "BEP20",
+ "symbol": "SPA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbd53CEE195814183094f99697707A9b8453E1DB5"
+}

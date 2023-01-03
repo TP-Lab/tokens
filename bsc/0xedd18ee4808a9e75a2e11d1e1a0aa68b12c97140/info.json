@@ -1,0 +1,12 @@
+{ 
+"name": "UangMarket Token",
+"website": "http://www.uangmarket.com",
+"description": "UangMarket is the world's first one-stop chain game aggregation platform, with UANG as the core to link games, players and unions, to establish a rich GameFi ecosystem. UangMarket proposes the Steam concept of on-chain GameFi field. We strive to build a GameFi aggregation service platform integrating games, information, skills and community",
+"explorer": "https://bscscan.com/token/0xedd18ee4808a9e75a2e11d1e1a0aa68b12c97140",
+"type": "BEP20",
+"symbol": "UANG",
+"decimals": 9,
+"status": "active",
+"id": "0xedd18ee4808a9e75a2e11d1e1a0aa68b12c97140"
+}
+}

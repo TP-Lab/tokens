@@ -1,0 +1,11 @@
+{
+ "name": "card",
+ "website": "https://www.mcu-token2.com",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x578e87f2536093f271783f81d40951ed4328ae65",
+ "type": "BEP20",
+ "symbol": "card",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x578e87f2536093F271783F81d40951Ed4328Ae65"
+}

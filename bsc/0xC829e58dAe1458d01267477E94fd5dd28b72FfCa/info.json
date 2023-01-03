@@ -1,0 +1,11 @@
+{
+ "name": "CFP",
+ "website": "http://www.cipherfork-protocol.com",
+ "description": "Cipher Fork Protocol is dedicated to establishing a decentralized free trading platform for metaverse.",
+ "explorer": "https://bscscan.com/token/0xC829e58dAe1458d01267477E94fd5dd28b72FfCa",
+ "type": "BEP20",
+ "symbol": "CFP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC829e58dAe1458d01267477E94fd5dd28b72FfCa"
+}
