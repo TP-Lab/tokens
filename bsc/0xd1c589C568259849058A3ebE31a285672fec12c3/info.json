@@ -1,0 +1,11 @@
+{
+    "name": "Sonnen VPP",
+    "website": "https://sonnen.de",
+    "description": "VPP has become a new field that the family energy storage market is valued at the moment.",
+    "explorer": "https://bscscan.com/token/0xd1c589c568259849058a3ebe31a285672fec12c3",
+    "type": "BEP20",
+    "symbol": "VPP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd1c589C568259849058A3ebE31a285672fec12c3"
+   }
