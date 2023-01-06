@@ -1,0 +1,11 @@
+{
+ "name": "GS",
+ "website": "https://gszbicon.com/",
+ "description": "GS e token is a new token on Binance Smart Chain network. We want to help animals, forests and humans that be hurt by GS.",
+ "explorer": "https://bscscan.com/token/0xdFcfc82549D00f8FE95d28EfA55fD3bc069B6eFa",
+ "type": "BEP20",
+ "symbol": "GS ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdFcfc82549D00f8FE95d28EfA55fD3bc069B6eFa"
+}
