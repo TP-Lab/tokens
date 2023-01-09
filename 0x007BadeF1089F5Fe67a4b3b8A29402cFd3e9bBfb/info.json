@@ -1,0 +1,11 @@
+{
+ "name": "WY",
+ "website": "",
+ "description": "WY e token is a new token on Binance Smart Chain network. We want to help animals, forests and humans that be hurt by WY.",
+ "explorer": "https://bscscan.com/token/0x007BadeF1089F5Fe67a4b3b8A29402cFd3e9bBfb",
+ "type": "BEP20",
+ "symbol": "GS ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x007BadeF1089F5Fe67a4b3b8A29402cFd3e9bBfb"
+}
