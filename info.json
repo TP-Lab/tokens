@@ -1,11 +1,11 @@
 {
- "name": "Rabbit Finance 2023",
- "website": "..",
- "description": ".",
- "explorer": "hhttps://bscscan.com/token/0x6427b760730f2c6a62a7b8ad6274ee4964476d5c",
- "type": "BEP20",
- "symbol": "RB",
+ "name": "98#",
+ "website": "https://www.playerone98.com",
+ "description": "The number one player is a game digital ecological platform based on blockchain technology, a comprehensive ecological platform integrating game distribution, DAO autonomy, NFT asset transactions and financial services.",
+ "explorer": "https://polygonscan.com/token/0xE3DD2405C1eE9de9C820665B9a9cE9C20Ef70f21",
+ "type": "ERC20",
+ "symbol": "98#",
  "decimals": 18,
  "status": "active",
- "id": "0x6427B760730f2c6a62a7B8aD6274eE4964476d5C"
+ "id": "0xE3DD2405C1eE9de9C820665B9a9cE9C20Ef70f21"
 }
