@@ -1,0 +1,11 @@
+{
+ "name": "Wrapped Versailles Heroes",
+ "website": "https://www.versaillesheroes.com",
+ "description": "wVRH is wrapped-VRH. wVRH is the ultimate solution to the long VRH lock-in times, high costs of GAS token boosting, Ethereum's high operation fee, and reinvestment yield.",
+ "explorer": "https://etherscan.io/token/0xbDc2217B591cEf4D0054ef314ab0EC0bCD69F456",
+ "type": "ERC20",
+ "symbol": "WVRH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbDc2217B591cEf4D0054ef314ab0EC0bCD69F456"
+}
