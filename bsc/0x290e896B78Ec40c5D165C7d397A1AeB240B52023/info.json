@@ -1,0 +1,11 @@
+{
+ "name": "MetaRabbit",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x290e896B78Ec40c5D165C7d397A1AeB240B52023",
+ "type": "BEP20",
+ "symbol": "MetaRabbit",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x290e896B78Ec40c5D165C7d397A1AeB240B52023"
+}
