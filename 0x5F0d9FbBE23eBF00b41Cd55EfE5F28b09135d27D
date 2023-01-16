@@ -1,0 +1,12 @@
+
+{ 
+"name": "BNBPRIME TOKEN",
+"website": "https://www.http://bnbprime.io/index.aspx",
+"description": "BNB Prime Token is a Blockchain educational platform driven by community. We are creating opportunity for people by providing standard technology and to give knowledge of latest technology and Education.",
+"explorer": "https://www.bscscan.com/token/0x5f0d9fbbe23ebf00b41cd55efe5f28b09135d27d",
+"type": "BEP20",
+"symbol": "BNBPRIME",
+"decimals": 18,
+"status": "active",
+"id": "0x5F0d9FbBE23eBF00b41Cd55EfE5F28b09135d27D"
+}
