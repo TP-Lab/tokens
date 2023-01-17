@@ -1,0 +1,11 @@
+{
+ "name": "Rabbit Round Round",
+ "website": "Rabbit Round Round",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x3616bD050B29A5d0374b73F7811cEcE9cDBF5666",
+ "type": "BEP20",
+ "symbol": "Rabbit Round",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3616bD050B29A5d0374b73F7811cEcE9cDBF5666"
+}
