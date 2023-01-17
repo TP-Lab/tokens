@@ -1,0 +1,11 @@
+{
+ "name": "tom",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x0f5802eb6b36b978b9b57165ae005ce1bd48e9a2",
+ "type": "BEP20",
+ "symbol": "tom",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0f5802eb6b36b978b9b57165ae005ce1bd48e9a2"
+}
