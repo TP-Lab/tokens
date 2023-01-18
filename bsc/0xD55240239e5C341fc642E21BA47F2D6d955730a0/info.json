@@ -1,0 +1,11 @@
+{
+ "name": "PiDAO",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xD55240239e5C341fc642E21BA47F2D6d955730a0",
+ "type": "BEP20",
+ "symbol": "PiDAO",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xD55240239e5C341fc642E21BA47F2D6d955730a0"
+}
