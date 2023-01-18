@@ -1,0 +1,11 @@
+{ 
+"name": "Universe Chain",
+"website": "https://www.uvchain.io",
+"description": "A new generation of commercial-grade blockchain protocols",
+"explorer": "https://bscscan.com/token/0x1a50aAcE5906Da512317d7ddeC6Bc2f22a87B698",
+"type": "BEP20",
+"symbol": "UVC",
+"decimals": 18,
+"status": "active",
+"id": "0x1a50aAcE5906Da512317d7ddeC6Bc2f22a87B698"
+}
