@@ -1,0 +1,11 @@
+{
+ "name": "ABU Token",
+ "website": "http://www.sportsx.ltd",
+ "description": "A sports web3 app",
+ "explorer": "https://www.hecoinfo.com/en-us/token/0xd676d928f792165c682cd631235ad9e28abfe553",
+ "type": "HRC-20",
+ "symbol": "ABUX",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xD676D928F792165C682CD631235ad9e28ABfE553"
+}
