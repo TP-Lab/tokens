@@ -1,0 +1,11 @@
+{
+ "name": "神兽",
+ "website": "",
+ "description": "Internal community pass",
+ "explorer": "https://bscscan.com/token/0xF9CdE933bbFda604dA031472e719851c5bc22eED",
+ "type": "BEP20",
+ "symbol": "神兽",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF9CdE933bbFda604dA031472e719851c5bc22eED"
+}
