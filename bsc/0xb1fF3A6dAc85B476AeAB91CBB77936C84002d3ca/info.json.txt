@@ -1,0 +1,11 @@
+{
+ "name": "Rabbids",
+ "website": "www.rabbids.org",
+ "description": "RBD is a purely community-driven DEFI+NFT blind box game platform.",
+ "explorer": "https://bscscan.com/token/0xb1fF3A6dAc85B476AeAB91CBB77936C84002d3ca",
+ "type": "BEP20",
+ "symbol": "RBD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb1fF3A6dAc85B476AeAB91CBB77936C84002d3ca"
+}
