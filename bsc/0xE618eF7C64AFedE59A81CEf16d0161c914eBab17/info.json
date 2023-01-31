@@ -1,0 +1,11 @@
+{
+ "name": "Titi Financial",
+ "website": "https://www.titicaca.finance",
+ "description": "A meme coin with an already playable open-world game (TitiVerse), NFT's, and periodic airdrops to holders",
+ "explorer": "https://bscscan.com/token/0xE618eF7C64AFedE59A81CEf16d0161c914eBab17",
+ "type": "BEP20",
+ "symbol": "TITI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE618eF7C64AFedE59A81CEf16d0161c914eBab17"
+}
