@@ -1,0 +1,11 @@
+{
+ "name": "One Coin",
+ "website": "-",
+ "description": "One Coin is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x2B59a11E2112a41a9f18b628553d5A603BaD5679",
+ "type": "BEP20",
+ "symbol": "ONE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2B59a11E2112a41a9f18b628553d5A603BaD5679"
+}
