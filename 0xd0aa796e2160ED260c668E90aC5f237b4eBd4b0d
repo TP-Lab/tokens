@@ -1,0 +1,11 @@
+{
+  "decimals" : 18,
+  "description" : "Waifu ® is an anime-themed entertainment token of the Binance Smart Chain ecosystem. No Waifu... No Laifu!",
+  "explorer" : "https://bscscan.com/token/0xd0aa796e2160ED260c668E90aC5f237b4eBd4b0d",
+  "id" : "0xd0aa796e2160ED260c668E90aC5f237b4eBd4b0d",
+  "name" : "Waifu",
+  "status" : "active",
+  "symbol" : "WAIFU",
+  "type" : "BEP20",
+  "website" : "https://waifutoken.net/"
+}
