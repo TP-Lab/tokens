@@ -1,0 +1,11 @@
+{
+ "name": "WETH",
+ "website": "https://weth.pro",
+ "description": "WETH (Ether commemorative coin) is an Ether commemorative coin that is completely decentralized and coin safe smart chain. It belongs to the consensus coin for individual investors and injured leeks to warm up in groups, and has a very high value of mathematical gold commemorative collection. WETH's new DAO is held by everyone. Start the rise of the WEB3.0 era.",
+ "explorer": "https://bscscan.com/token/0xc953273b326975082171Bb8A150a26a0d0dD2b3A",
+ "type": "BEP20",
+ "symbol": "WETH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc953273b326975082171Bb8A150a26a0d0dD2b3A"
+}
