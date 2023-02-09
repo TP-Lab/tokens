@@ -1,0 +1,11 @@
+{
+ "name": "QianZhuang",
+ "website": "..",
+ "description": "QianZhuang is a fully decentralized formula platform that is in the early stages of development and has unlimited potential.",
+ "explorer": "https://bscscan.com/token/0xECF2Eb060b09e2e95B92ea6DefD472E6cdAA1168",
+ "type": "BEP20",
+ "symbol": "QZ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xECF2Eb060b09e2e95B92ea6DefD472E6cdAA1168"
+}
