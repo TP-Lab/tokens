@@ -1,0 +1,11 @@
+{
+    "name": "DHXY",
+    "website": "",
+    "description": "DHXY (Western Journey) is a decentralized asset that makes markets automatically based on BSC's concept of liquidity capital pool. DHXY is committed to realizing the integration of blockchain decentralized finance and the metauniverse, NFT economic ecology, and real economy industry, and forms a new ecological financial closed-loop by using blockchain finance, the Canadian universe, the chain economic ecology, and industrial finance.",
+    "explorer": "https://bscscan.com/token/0x73ed6babb4c02d1166f709153b1856ba3a4e36d5",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "DHXY",
+    "status": "active",
+    "id": "0x73ed6babb4c02d1166f709153b1856ba3a4e36d5"
+}
