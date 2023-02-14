@@ -1,0 +1,11 @@
+{
+ "name": "CCPC,
+ "website": "https://www.ccpc.app",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/address/0x6fb0abd94599e709b229db9f4c477d7375cf84cb",
+ "type": "BEP20",
+ "symbol": "$CCPC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6fB0ABd94599E709b229DB9f4C477D7375CF84CB"
+}
