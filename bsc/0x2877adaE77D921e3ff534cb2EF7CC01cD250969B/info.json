@@ -1,0 +1,11 @@
+{
+ "name": "ANGEL",
+ "website": "http://web.angelcoin.cc/",
+ "description": "ANGEL is WEB3.0 Future World.",
+ "explorer": "https://bscscan.com/token/0x2877adaE77D921e3ff534cb2EF7CC01cD250969B",
+ "type": "BEP20",
+ "symbol": "ANGEL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2877adaE77D921e3ff534cb2EF7CC01cD250969B"
+}
