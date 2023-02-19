@@ -1,0 +1,11 @@
+{
+"name": "GICC Token",
+"website": "https://www.giccnft.com",
+"description": "GICC Token is the currency of the universe game",
+"explorer": "https://bscscan.com/token/0x174eE74505158bf6f63BA83A5A8753858a18712b",
+"type": "BEP20",
+"symbol": "GICC",
+"decimals": 18,
+"status": "active",
+"id": "0x174eE74505158bf6f63BA83A5A8753858a18712b"
+}
