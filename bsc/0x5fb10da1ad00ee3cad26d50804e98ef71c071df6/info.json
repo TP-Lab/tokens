@@ -2,10 +2,10 @@
     "name": "bitcoin2",
     "website": "www.btc2.space",
     "description": "Btc2 is committed to building an ecosystem of community governance and exchange of various cryptocurrencies.",
-    "explorer": "https://bscscan.com/token/0x5fb10da1ad00ee3cad26d50804e98ef71c071df6",
+    "explorer": "https://bscscan.com/token/0x5fB10dA1ad00eE3cAD26D50804E98eF71C071Df6",
     "type": "BEP20",
     "symbol": "btc2",
     "decimals": 18,
     "status": "active",
-    "id": "0x5fb10da1ad00ee3cad26d50804e98ef71c071df6"
+    "id": "0x5fB10dA1ad00eE3cAD26D50804E98eF71C071Df6"
    } 

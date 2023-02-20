@@ -5,7 +5,7 @@
  "explorer": "https://bscscan.com/address/0xeA71D842E401f89313812C59F65E1c0afc5411F6",
  "type": "BEP20",
  "symbol": "MTC",
- "decimals": 18,
+ "decimals": 4,
  "status": "active",
  "id": "0xeA71D842E401f89313812C59F65E1c0afc5411F6"
 }

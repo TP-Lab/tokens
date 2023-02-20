@@ -1,0 +1,11 @@
+{
+ "name": "Ragold",
+ "website": "https://www.ragoldtoken.com/",
+ "description": "faith in us is worth more than gold",
+ "explorer": "https://bscscan.com/token/0xb1ef938970b7f1038f5c33a2cc4443ef86110483",
+ "type": "BEP20",
+ "symbol": "RAGO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB1EF938970b7F1038f5c33A2CC4443EF86110483"
+}
