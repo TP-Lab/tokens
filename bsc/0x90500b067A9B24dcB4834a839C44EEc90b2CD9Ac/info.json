@@ -1,0 +1,11 @@
+{
+ "name": "FGDS Token",
+ "website": "https://fgdswap.io",
+ "description": "FGDSwap is an important ecological member of FGD.FGD Token is the platform token of FGDSwap",
+ "explorer": "https://bscscan.com/token/0x90500b067A9B24dcB4834a839C44EEc90b2CD9Ac",
+ "type": "BEP20",
+ "symbol": "FGDS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x90500b067A9B24dcB4834a839C44EEc90b2CD9Ac"
+}
