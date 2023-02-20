@@ -1,0 +1,11 @@
+{
+    "name": "CCGDS",
+    "website": "https://ccgds.com/",
+    "description": "CCGDS is a DAO which developing a metaverse platform and create a decentralized open virtual world.  It allows users to interact with immersive 3D applications running on different blockchains simultaneously.",
+    "explorer": "https://bscscan.com/address/0x1baadfd674c641149b0d5a39e697ec877ab47083",
+    "type": "BEP20",
+    "symbol": "CCGDS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1bAADFd674C641149b0D5A39E697Ec877Ab47083"
+}
