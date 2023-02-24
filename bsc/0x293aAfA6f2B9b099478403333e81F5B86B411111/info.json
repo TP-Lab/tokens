@@ -1,0 +1,11 @@
+{ 
+"name": "ChatGPT",
+"website": "https://twitter.com/ChatGPT_11111",
+"description": "ChatGPT is a natural language processing tool driven by artificial intelligence technology.",
+"explorer": "https://bscscan.com/token/0x293aAfA6f2B9b099478403333e81F5B86B411111",
+"type": "BEP20",
+"symbol": "ChatGPT",
+"decimals": 18,
+"status": "active",
+"id": "0x293aAfA6f2B9b099478403333e81F5B86B411111"
+}
