@@ -1,0 +1,11 @@
+{
+    "name": "Chocolate Share",
+    "website": "https://chocolatecash.org",
+    "description": "A algorithm stable coin",
+    "explorer": "https://polygonscan.com/address/0xb9a55F61ddfb096Dac8F4C120cd65b80df9115f8",
+    "type": "Polygon",
+    "symbol": "CHS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb9a55F61ddfb096Dac8F4C120cd65b80df9115f8"
+}
