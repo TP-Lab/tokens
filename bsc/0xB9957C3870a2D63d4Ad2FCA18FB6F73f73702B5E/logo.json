@@ -1,0 +1,11 @@
+{
+ "name": "TD",
+ "website": "",
+ "description": "TD Coin is a new ecological project based on FstSwap",
+ "explorer": "https://bscscan.com/token/0xB9957C3870a2D63d4Ad2FCA18FB6F73f73702B5E",
+ "type": "BEP20",
+ "symbol": "TD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB9957C3870a2D63d4Ad2FCA18FB6F73f73702B5E"
+}
