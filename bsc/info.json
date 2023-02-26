@@ -1,11 +1,11 @@
 {
-  "decimals" : 18,
-  "description" : "Pandora is a game aggregator platform that includes web 3.0, NFT, metasomatic, and link travel attributes. PDA is used to build ecologies. PDA is Pandora's main pass, combined with NFT applications to build",
-  "explorer" : "https://bscscan.com/token/0x1479f11B9B0104811e01bC4C8D3f80492FEa700f",
-  "id" : "0x1479f11B9B0104811e01bC4C8D3f80492FEa700f",
-  "name" : "Pandora",
-  "status" : "active",
-  "symbol" : "PDA",
-  "type" : "ERC20",
-  "website" : "https://box.1-pandora.com/wap/#/"
+ "name": "BWEDAO",
+ "website": "http://www.bwebluewhale.io/#/",
+ "description": "BWEDAO is the autonomous identity certificate of the Blue Whale platform, aiming to build a fully decentralized platform.",
+ "explorer": "https://bscscan.com/token/0x4595AE1EaECBd4CffC5E5cC7754bBeb12FA5A2A2",
+ "type": "BEP20",
+ "symbol": "BWEDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4595AE1EaECBd4CffC5E5cC7754bBeb12FA5A2A2"
 }
