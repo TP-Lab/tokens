@@ -1,0 +1,11 @@
+{
+    "name": "KGT",
+    "website": "https://www.kgtglobal.top",
+    "description": "Based on the SocialFI economic ecosystem issued by the BSC chain, KGT aims to build social finance and decentralized organization on the chain",
+    "explorer": "https://bscscan.com/token/0x82EF83A8a29bB119c0566A6E8E95f20896Ed94Cb",
+    "type": "BEP20",
+    "symbol": "KGT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x82EF83A8a29bB119c0566A6E8E95f20896Ed94Cb"
+}
