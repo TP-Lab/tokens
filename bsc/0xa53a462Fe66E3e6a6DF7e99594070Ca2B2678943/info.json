@@ -1,0 +1,11 @@
+{
+ "name": "LAFI(2.0)",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xa53a462Fe66E3e6a6DF7e99594070Ca2B2678943",
+ "type": "BEP20",
+ "symbol": "LAFI(2.0)",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa53a462Fe66E3e6a6DF7e99594070Ca2B2678943"
+}
