@@ -1,0 +1,11 @@
+{
+ "name": "Fusotao Protocol",
+ "website": "https://www.fusotao.org",
+ "description": "Fusotao is an open trading network for verifying order-book matching systems.",
+ "explorer": "https://bscscan.com/token/0x3Cb1a1FaC70F13a6a63914F2e9Ad923Cdb5ECe3D",
+ "type": "BEP20",
+ "symbol": "TAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3Cb1a1FaC70F13a6a63914F2e9Ad923Cdb5ECe3D"
+}
