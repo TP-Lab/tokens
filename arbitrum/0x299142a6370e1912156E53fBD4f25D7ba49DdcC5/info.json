@@ -1,0 +1,11 @@
+{
+ "name": "AI Meta Club",
+ "website": "https://www.aimeta.club/",
+ "description": "AI Meta Club is a DAO distributed organization based on blockchain technology, focusing on AI and Meta projects. AMC established partnerships with global AI and meta-related projects to enrich its multi-application ecosystem.",
+ "explorer": "https://arbiscan.io/address/0x299142a6370e1912156E53fBD4f25D7ba49DdcC5",
+ "type": "Arbitrum",
+ "symbol": "AMC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x299142a6370e1912156E53fBD4f25D7ba49DdcC5"
+}
