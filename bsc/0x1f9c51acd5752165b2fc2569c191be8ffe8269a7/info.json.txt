@@ -1,0 +1,11 @@
+{
+ "name": "kaspa",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x1f9c51acd5752165b2fc2569c191be8ffe8269a7",
+ "type": "BEP20",
+ "symbol": "kaspa",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1f9c51acd5752165b2fc2569c191be8ffe8269a7"
+}
