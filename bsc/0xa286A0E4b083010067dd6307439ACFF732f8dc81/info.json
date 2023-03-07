@@ -1,0 +1,11 @@
+{
+ "name": "WETN",
+ "website": "https://bscscan.com/",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xa286A0E4b083010067dd6307439ACFF732f8dc81",
+ "type": "BEP20",
+ "symbol": "WETN",
+ "decimals": 18,                                                                                          
+ "status": "active",
+ "id": "0xa286A0E4b083010067dd6307439ACFF732f8dc81"
+}
