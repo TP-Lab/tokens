@@ -1,0 +1,11 @@
+{
+"name": "Libra  ",
+"website": "www.libra.com ",
+"description": "LIbra community self-government token, adding liquidity to earn OSK-DAO",
+"explorer": "https://bscscan.com/address/0x596e41fa2f351ed9ef41c99be37722547108ccf4",
+"type": "BEP20",
+"symbol": "Libra",
+"decimals": 18,
+"status": "active",
+"id": "0x596e41fa2F351ed9eF41C99Be37722547108ccF4"
+}
