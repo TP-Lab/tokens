@@ -1,0 +1,11 @@
+{
+ "name": "WEB3",
+ "website": "",
+ "description": "WEB3.0钱包",
+ "explorer": "https://bscscan.com/token/0xB385cF66FD3AEFd70605E297A79825471E89d32F",
+ "type": "BEP20",
+ "symbol": "WEB3",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB385cF66FD3AEFd70605E297A79825471E89d32F"
+}
