@@ -1,0 +1,10 @@
+{
+    "name": "ZR",
+    "website": "https://jubaopen.store",
+    "description": "The ZR(Vulcan card) is an important element of the ZR DAO ecosystem, and each Vulcan card represents a fixed ecological stake.",
+    "explorer": "https://bscscan.com/address/0x8679a0a5410657457a9C42A51f255b898A2338b2",
+    "type": "BEP721",
+    "symbol": "ZR",
+    "status": "active",
+    "id": "0x8679a0a5410657457a9C42A51f255b898A2338b2"
+   }

@@ -1,0 +1,11 @@
+{
+ "name": "Dream Reserve Token",
+ "website": "https://yapdao.finance/#/",
+ "description": "YapDao is building Dream Reserve (DR), a community-owned, decentralized and censorship-resistant reserve currency that is asset-backed, deeply liquid and widely-used across Web3.",
+ "explorer": "https://bscscan.com/token/0x22bE38375124aA1AdA0c25B515ad5744A59b0885",
+ "type": "BEP20",
+ "symbol": "DR",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x22bE38375124aA1AdA0c25B515ad5744A59b0885"
+}

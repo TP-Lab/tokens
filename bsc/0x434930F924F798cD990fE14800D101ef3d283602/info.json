@@ -1,0 +1,11 @@
+{
+ "name": "SPACECOIN",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x434930F924F798cD990fE14800D101ef3d283602",
+ "type": "BEP20",
+ "symbol": "SPACE",
+ "decimals": 18,
+ "status": "not open",
+ "id": "0x434930F924F798cD990fE14800D101ef3d283602"
+}

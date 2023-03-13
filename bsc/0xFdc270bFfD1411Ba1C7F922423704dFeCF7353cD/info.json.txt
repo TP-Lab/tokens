@@ -1,0 +1,11 @@
+{
+ "name": "Upfan Token",
+ "website": "https://uponly.cc",
+ "description": "UPONLY NFT trading platform is an emerging NFT trading platform.",
+ "explorer": "https://bscscan.com/token/0xfdc270bffd1411ba1c7f922423704dfecf7353cd",
+ "type": "BEP20",
+ "symbol": "UPFAN",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xfdc270bffd1411ba1c7f922423704dfecf7353cd"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SHJ",
+  "website": ".",
+  "description": ".",
+  "explorer": "https://bscscan.com/token/0x30a9a76dD605A0592561E6dE4f36E154af81153a",
+  "type": "BEP20",
+  "symbol": "SHJ",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x30a9a76dD605A0592561E6dE4f36E154af81153a"
+} 

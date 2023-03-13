@@ -1,0 +1,11 @@
+{
+ "name": "FAN Coin",
+ "website": "https://coinboxy.com/",
+ "description": "面向WEB3.0的DAO聚合全产业生态平台",
+ "explorer": "https://bscscan.com/token/0xAcEC9Ae86F7520516C8AB132176eD25f65eC941d",
+ "type": "BEP20",
+ "symbol": "FAN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAcEC9Ae86F7520516C8AB132176eD25f65eC941d"
+}

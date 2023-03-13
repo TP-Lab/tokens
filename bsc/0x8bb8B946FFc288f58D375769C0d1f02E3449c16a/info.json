@@ -1,0 +1,11 @@
+{
+ "name": "MTAW",
+ "website": "https://mtaw.pro",
+ "description": "MetaTrader Autonomy world (MTAW) is the world's first universal token for foreign exchange transaction payment combined with MQL5 technology, which truly links the ecological application of the foreign exchange trading platform. Those who add LP liquidity pool tokens will receive profit dividends from the foreign exchange trading ecosystem.",
+ "explorer": "https://bscscan.com/token/0x8bb8B946FFc288f58D375769C0d1f02E3449c16a",
+ "type": "BEP20",
+ "symbol": "MTAW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8bb8B946FFc288f58D375769C0d1f02E3449c16a"
+}

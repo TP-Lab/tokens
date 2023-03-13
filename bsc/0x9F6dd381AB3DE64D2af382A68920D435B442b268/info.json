@@ -1,0 +1,9 @@
+ "name": "BXY",
+ "website": "https://bxy.world/",
+ "description": "Big Shark Token BXY is a blockchain cross-chain financial innovation platform.",
+ "explorer": "https://bscscan.com/token/0x9f6dd381ab3de64d2af382a68920d435b442b268",
+ "type": "BEP20",
+ "symbol": "BXY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9F6dd381AB3DE64D2af382A68920D435B442b268"

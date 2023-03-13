@@ -1,0 +1,11 @@
+{
+ "name": "SD",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0xa96028Da7AEeD3f12C4ec2e446e385DfE1340Dec",
+ "type": "BEP20",
+ "symbol": "SD",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xa96028Da7AEeD3f12C4ec2e446e385DfE1340Dec"
+}

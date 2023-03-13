@@ -1,0 +1,11 @@
+{
+ "name": "Love Bridge",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0xA9CBc3cA8e9aA5e8377e1066B22Fd5a8A5A3F959",
+ "type": "BEP20",
+ "symbol": "LoveBridge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA9CBc3cA8e9aA5e8377e1066B22Fd5a8A5A3F959"
+}

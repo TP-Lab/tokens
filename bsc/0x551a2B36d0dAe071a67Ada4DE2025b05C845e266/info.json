@@ -1,0 +1,11 @@
+{
+  "name": "Librium",
+  "website": "https://libswap.com",
+  "description": "Libswap is the first Swap that compensates for trading losses and aims to provide users and project developers in the DeFi market with the best trading experience and the safest crypto asset investment products.",
+  "explorer": "https://bscscan.com/token/0x551a2B36d0dAe071a67Ada4DE2025b05C845e266",
+  "type": "BEP20",
+  "symbol": "LIB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x551a2B36d0dAe071a67Ada4DE2025b05C845e266"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "GalaxyHeroes",
+    "website": "https://galaxyheroes.com",
+    "description": "Galaxy Heroes Coin is more than just a token. It will have a never seen before NFT platform and gaming app. Be a hero, a Galaxy Hero!",
+    "explorer": "https://bscscan.com/token/0xd10Fe9d371C22416df34340287cd5D9029842Fc3",
+    "type": "BEP20",
+    "symbol": "GHC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd10Fe9d371C22416df34340287cd5D9029842Fc3"
+}

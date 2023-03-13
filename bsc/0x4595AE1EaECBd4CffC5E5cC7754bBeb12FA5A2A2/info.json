@@ -1,0 +1,11 @@
+{
+ "name": "BWEDAO",
+ "website": "http://www.bwebluewhale.io/#/",
+ "description": "BWEDAO is the autonomous identity certificate of the Blue Whale platform, aiming to build a fully decentralized platform.",
+ "explorer": "https://bscscan.com/token/0x4595AE1EaECBd4CffC5E5cC7754bBeb12FA5A2A2",
+ "type": "BEP20",
+ "symbol": "BWEDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4595AE1EaECBd4CffC5E5cC7754bBeb12FA5A2A2"
+}

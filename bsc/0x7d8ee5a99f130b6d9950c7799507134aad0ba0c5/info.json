@@ -1,0 +1,11 @@
+{
+ "name": "Laeeb",
+ "website": "http://laeebworldcup.com",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x7d8ee5a99f130b6d9950c7799507134aad0ba0c5",
+ "type": "BEP20",
+ "symbol": "Laeeb",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7d8ee5a99f130b6d9950c7799507134aad0ba0c5"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "UDK",
+    "website": "http://upperdecknetwork.io/",
+    "description": "upperdeck network",
+    "explorer": "https://bscscan.com/token/0x451A551f1C9D444215ac3fCbdAd700a5Ac1CB00F",
+    "type": "BEP20",
+    "symbol": "UDK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x451A551f1C9D444215ac3fCbdAd700a5Ac1CB00F"
+   }

@@ -1,0 +1,11 @@
+{
+    "name": "StarTour",
+    "website": "https://startour.app/",
+    "description": "STE is a decentralized derivatives contract based on Binance Smart Chain. STE adopts an advanced automatic market maker model. Users can trade options through STE, and can obtain dividends from the profits of the STE ecological network.",
+    "explorer": "https://bscscan.com/token/0x186aE6D98c48F8Dee117E57CD473DCb220456ee9",
+    "type": "BEP20",
+    "symbol": "STE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x186aE6D98c48F8Dee117E57CD473DCb220456ee9"
+   }

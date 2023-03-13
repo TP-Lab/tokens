@@ -1,0 +1,11 @@
+{
+ "name": "BOXC",
+ "website": "https://boxcasino.net",
+ "description": "This is an ecological token of online entertainment platform. DAO mining incentive experiment is obtained by trading on boxcasino.",
+ "explorer": "https://bscscan.com/token/0x372e5f4cb6668a2c7a655a6325a483e3a73c8ba9",
+ "type": "BEP20",
+ "symbol": "BOXC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x372E5F4cb6668A2C7A655a6325a483e3a73c8bA9"
+}

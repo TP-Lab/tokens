@@ -1,0 +1,11 @@
+{
+ "name": "SNS",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xbd40fc804a610682309dd3780b8a600d1193f649",
+ "type": "BEP20",
+ "symbol": "SNS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbd40fc804a610682309dd3780b8a600d1193f649"
+}

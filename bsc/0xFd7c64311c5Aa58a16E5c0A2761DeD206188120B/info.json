@@ -1,0 +1,11 @@
+{
+"name": "BohrNetwork",
+"website": "https://www.bohrnetwork.com",
+"description": "BohrNetwork",
+"explorer": "https://bscscan.com/token/0xFd7c64311c5Aa58a16E5c0A2761DeD206188120B",
+"type": "BEP-20",
+"symbol": "BOHR",
+"decimals": 18,
+"status": "active",
+"id": "0xFd7c64311c5Aa58a16E5c0A2761DeD206188120B"
+}

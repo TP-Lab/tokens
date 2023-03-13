@@ -1,0 +1,11 @@
+{
+  "name": "RABBIT HALLOWEEN",
+  "website": "https://www.rabbithalloween.io",
+  "description": "The scariest project living (or dead) on the bsc network. Come for the tricks and stay for the treats.",
+  "explorer": "https://bscscan.com/token/0x6BE940759586A4f479086d7C606cdb6ba60Ce6B3",
+  "type": "BEP20",
+  "symbol": "RH31",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x6BE940759586A4f479086d7C606cdb6ba60Ce6B3"
+}

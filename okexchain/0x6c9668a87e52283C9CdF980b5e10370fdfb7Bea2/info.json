@@ -1,0 +1,11 @@
+{
+ "name": "JFKing",
+ "website": "-",
+ "description": "JFKING is a project on OK chain layout, violent bonus JF.",
+ "explorer": "https://www.oklink.com/zh-cn/oec/tokenAddr/0x6c9668a87e52283C9CdF980b5e10370fdfb7Bea2",
+ "type": "KIP20",
+ "symbol": "JFKing",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6c9668a87e52283C9CdF980b5e10370fdfb7Bea2"
+}

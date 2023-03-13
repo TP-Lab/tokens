@@ -1,0 +1,11 @@
+{
+ "name": "Asset-Backed Security",
+ "website": "https://dapp.acsdefi.com/",
+ "description": "Asset-Backed Security is a blockchain innovation platform focusing on the tokenization of traditional assets.",
+ "explorer": "https://bscscan.com/address/0x7f46164f333d44b8d7c4b3e80e3a4651c2902fe6",
+ "type": "BEP20",
+ "symbol": "ACS",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x7F46164f333D44b8d7C4B3E80E3A4651c2902FE6"
+}

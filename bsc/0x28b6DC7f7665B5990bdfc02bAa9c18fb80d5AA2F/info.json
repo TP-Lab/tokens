@@ -1,0 +1,11 @@
+{
+    "name": "Metaway token",
+    "website": "https://metaway.com",
+    "description": "THE WAY TO THE METAVERSE.",
+    "explorer": "https://bscscan.com/token/0x28b6DC7f7665B5990bdfc02bAa9c18fb80d5AA2F",
+    "type": "BEP20",
+    "symbol": "METAW",
+    "decimals": 10,
+    "status": "active",
+    "id": "0x28b6DC7f7665B5990bdfc02bAa9c18fb80d5AA2F"
+}

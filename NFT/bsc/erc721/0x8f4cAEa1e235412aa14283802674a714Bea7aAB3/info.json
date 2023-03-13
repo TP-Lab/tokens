@@ -1,0 +1,11 @@
+{
+    "name": "BWE NFTs",
+    "website": "http://www.bwebluewhale.io/",
+    "description": "BLUE WHALE is a financial game that endows NFT with intrinsic value and redefines the playing method of DeFi.",
+    "explorer": "https://bscscan.com/token/0x8f4cAEa1e235412aa14283802674a714Bea7aAB3",
+    "type": "ERC721",
+    "symbol": "BWE NFT",
+    "decimals": 0,
+    "status": "active",
+    "id": "0x8f4cAEa1e235412aa14283802674a714Bea7aAB3"
+   }

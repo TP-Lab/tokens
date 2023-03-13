@@ -1,0 +1,11 @@
+{
+ "name": "ETP",
+ "website": "-",
+ "description": "ETP is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x5E30247A7F7b55f62e2843ACf0d627540EaC19B8",
+ "type": "BEP20",
+ "symbol": "ETP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5E30247A7F7b55f62e2843ACf0d627540EaC19B8"
+}

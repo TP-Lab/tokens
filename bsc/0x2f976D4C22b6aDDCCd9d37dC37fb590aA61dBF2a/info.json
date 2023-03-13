@@ -1,0 +1,21 @@
+{
+
+  "name": "FilBlue",
+
+  "website": "https://fbluedao.com",
+
+  "description": "FilBlue",
+
+  "explorer": "https://bscscan.com/token/0x2f976D4C22b6aDDCCd9d37dC37fb590aA61dBF2a",
+
+  "type": "BEP20",
+
+  "symbol": "FilBlue",
+
+  "decimals": 18,
+
+  "status": "active",
+
+  "id": "0x2f976D4C22b6aDDCCd9d37dC37fb590aA61dBF2a"
+
+}

@@ -1,0 +1,11 @@
+{
+    "name": "MetaLab Token",
+    "website": "https://metaslab.finance/",
+    "description": "Meta Lab is an open ecological platform of metaverse game aggregation designed and hosted based on Binance Smart Chain (BSC). It has multiple identities of game developer and game aggregator/game store, and generates standardized encrypted toolkit, NFT stock and wallet, so that other game manufacturers, players and societies can easily access the game and enter the MetaLab metaverse ecosystem to create the largest metaverse aggregation platform in the crypto world!",
+    "explorer": "https://bscscan.com/address/0xc99f5780c066Fabec2Af95095f12798673313838",
+    "type": "BSC",
+    "symbol": "MXT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc99f5780c066Fabec2Af95095f12798673313838"
+   }

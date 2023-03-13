@@ -1,0 +1,11 @@
+{ 
+    "name": "Eternal Contract token",
+    "website": "https://www.contract-nation.com/dist/#/home",
+    "description": "The ERCT (Eternal Contract) token is an internal unit of value created by the Contract Nation platform to manage its business model. It is the bridge between the user and the terminal. As the number of users and communities continues to grow, the success of the Contract Nation platform will be reflected in the ERCT token price.",
+    "explorer": "https://bscscan.com/token/0x0e18653ac4BE49e92844A8a740BcF7ae45ce0828",
+    "type": "BEP20",
+    "symbol": "ERCT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0e18653ac4BE49e92844A8a740BcF7ae45ce0828"
+}

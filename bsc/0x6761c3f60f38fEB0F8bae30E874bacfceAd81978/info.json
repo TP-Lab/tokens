@@ -1,0 +1,11 @@
+{
+ "name": "HOTV",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x242Bdd719eCf306585250D2735262521b74980eD",
+ "type": "BEP20",
+ "symbol": "HOTV",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x242Bdd719eCf306585250D2735262521b74980eD"
+}

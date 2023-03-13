@@ -1,0 +1,11 @@
+{
+    "name": "SNT",
+    "website": "https://sharenft2008.com",
+    "description": "SNT is the governance token of NFT trading platform Share NFT Token",
+    "explorer": "https://bscscan.com/token/0x6F3619D033fc96D322aACd22665461F040106a04",
+    "type": "BEP20",
+    "symbol": "SNT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6F3619D033fc96D322aACd22665461F040106a04"
+   }

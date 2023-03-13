@@ -1,0 +1,11 @@
+{
+  "name": "Elephant",
+  "website": "https://www.elephant.stream/#/",
+  "description": "Elephant is an open source node of the ecosystem built on the Ethereum blockchain. It realizes VR, AR, MR game sensing technology based on block interaction technology.",
+  "explorer": "https://bscscan.com/token/0x3F2Fc017Bde3dFAD9f6789a92c470c6134493598",
+  "type": "BEP20",
+  "symbol": "ELE",
+  "decimals": 18, 
+  "status": "active",
+  "id": "0x3F2Fc017Bde3dFAD9f6789a92c470c6134493598"
+ }

@@ -1,0 +1,9 @@
+"name":"ASKAC",
+"website": ".",
+"description": "DomainVision Token of Chain Merchant Consumer Assets.The digital token of consumption assets of DomainVision is the BEP-20 native protocol token of DomainVision on BSC, with a total of 15 million..",
+"explorer": "https://www.bscscan.com/token/0x22Bd9f47B8739F2525b9FBF6C39DD8d0DDE8D19D",
+"type": "BEP20",
+"symbol": "ASKAC",
+"decimals": 18,
+"status": "active",
+"id": "0x22Bd9f47B8739F2525b9FBF6C39DD8d0DDE8D19D"

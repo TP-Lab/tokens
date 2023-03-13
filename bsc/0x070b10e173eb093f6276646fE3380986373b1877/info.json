@@ -1,0 +1,11 @@
+{ 
+"name": "O2DEX TOKEN",
+"website": "https://www.o2dex.io",
+"description": "Built by the SushiSwap core development team, O2DEX initiated the UPF mechanism, subverting the traditional DEX market maker mechanism",
+"explorer": "https://bscscan.com/token/0x070b10e173eb093f6276646fE3380986373b1877",
+"type": "BEP20",
+"symbol": "O2",
+"decimals": 18,
+"status": "active",
+"id": "0x070b10e173eb093f6276646fE3380986373b1877"
+}

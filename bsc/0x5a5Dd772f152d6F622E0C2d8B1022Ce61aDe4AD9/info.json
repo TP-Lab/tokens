@@ -1,0 +1,11 @@
+{
+ "name": "ABC",
+ "website": "-",
+ "description": "ABC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x5a5Dd772f152d6F622E0C2d8B1022Ce61aDe4AD9",
+ "type": "BEP20",
+ "symbol": "ABC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5a5Dd772f152d6F622E0C2d8B1022Ce61aDe4AD9"
+}

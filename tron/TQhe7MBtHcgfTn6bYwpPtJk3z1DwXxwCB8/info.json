@@ -1,0 +1,11 @@
+﻿{
+ "name": "PHONFT Token",
+ "website": "https://phonft.shop",
+ "description": "PHONFT 中文名：凤凰通证，为混沌元宇宙唯一官方通证",
+ "explorer": "https://tronscan.org/#/token20/TQhe7MBtHcgfTn6bYwpPtJk3z1DwXxwCB8",
+ "type": "TRC20",
+ "symbol": "PHONFT",
+ "decimals": 4,
+ "status": "active",
+ "id": "TQhe7MBtHcgfTn6bYwpPtJk3z1DwXxwCB8"
+}

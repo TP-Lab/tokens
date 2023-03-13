@@ -1,0 +1,11 @@
+{
+ "name": "loop",
+ "website": "-",
+ "description": "An ecosystem based on BSC.",
+ "explorer": "https://bscscan.com/token/0x3dD58d22F72325936eBd5c9f6F67aC74a492A2f0",
+ "type": "BEP20",
+ "symbol": "loop",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3dD58d22F72325936eBd5c9f6F67aC74a492A2f0"
+}

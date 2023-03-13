@@ -1,0 +1,11 @@
+{ 
+"name": "WEIMOB TOKEN",
+"website": "https://www.weimob.in/",
+"description": "WeimobDao is a decentralized autonomous organization, or DAO, that develops, governs, and grows DeFi products. ",
+"explorer": "https://bscscan.com/token/0xb8e8f1D2F409Ffc8c21048ba2000E5614676de21",
+"type": "BEP20",
+"symbol": "weimob",
+"decimals": 8,
+"status": "active",
+"id": "0xb8e8f1D2F409Ffc8c21048ba2000E5614676de21"
+}

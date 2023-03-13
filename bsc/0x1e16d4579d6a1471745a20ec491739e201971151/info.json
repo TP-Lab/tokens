@@ -1,0 +1,11 @@
+{
+    "name": "Ozacoin",
+    "website": "http://www.ozacoin.io",
+    "description": "The mission of the $OZA utility token is to offer all our Holders tokenized shares of our company Ozalentour. The $OZA token will be valued according to the company's 'Ozalentour' solutions, all guaranteed on a basket of 6 crypto-currencies such as: $BNB, $BUSD, $ETH, $USDT, $USDC and $BTC!",
+    "explorer": "https://bscscan.com/address/0x1E16D4579D6a1471745a20eC491739e201971151",
+    "type": "BEP20",
+    "symbol": "OZA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1E16D4579D6a1471745a20eC491739e201971151"
+}

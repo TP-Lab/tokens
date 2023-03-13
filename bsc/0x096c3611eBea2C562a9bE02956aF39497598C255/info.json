@@ -1,0 +1,11 @@
+{
+ "name": "MSS  Token",
+ "website": "MSSTOKEN.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/address/0x096c3611ebea2c562a9be02956af39497598c255",
+ "type": "BEP20",
+ "symbol": "MSS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x096c3611eBea2C562a9bE02956aF39497598C255"
+}

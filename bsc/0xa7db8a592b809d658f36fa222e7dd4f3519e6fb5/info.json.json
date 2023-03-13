@@ -1,0 +1,11 @@
+{
+  "name": "BNBcoin",
+  "website": "https://www.bnbcoin.fun/",
+  "description": "PERFECT AUTOMATIC MINING MACHINE TO GET BNB REWARDS AUTOMATICAL",
+  "explorer": "https://bscscan.com/token/0xa7db8a592b809d658f36fa222e7dd4f3519e6fb5",
+  "type": "BEP20",
+  "symbol": "BNBcoin",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa7db8a592b809d658f36fa222e7dd4f3519e6fb5"
+}

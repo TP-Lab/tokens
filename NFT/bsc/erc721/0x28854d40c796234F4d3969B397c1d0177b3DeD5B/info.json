@@ -1,0 +1,11 @@
+{
+    "name": "Ploutos",
+    "website": "https://www.richmonkey.vip/",
+    "description": "Ploutos",
+    "explorer": "https://bscscan.com/address/0x28854d40c796234F4d3969B397c1d0177b3DeD5B",
+    "type": "ERC721",
+    "symbol": "PTS",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x28854d40c796234F4d3969B397c1d0177b3DeD5B"
+}

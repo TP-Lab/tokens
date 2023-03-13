@@ -1,0 +1,11 @@
+{
+ "name": "Continuum Finance",
+ "website": "https://www.ctn-coin.com",
+ "description": "Continuum Finance's mission is to build an autonomous system of digital asset management that is inclusive, reliable and transparent. Dedicated to building a global DeFi ecosystem, Continuum Finance is a community-governed financial platform based on the DAO mechanism, creating a cross-chain fintech service ecology with decentralized wallets, lending, financing, trading, prophecy, capital management brokers and other DeFi technology facilities.",
+ "explorer": "https://bscscan.com/token/0x2B26d215f00479685e3639Bdf0897f925eC6fA9d",
+ "type": "BEP20",
+ "symbol": "CTN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2B26d215f00479685e3639Bdf0897f925eC6fA9d"
+}

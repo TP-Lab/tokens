@@ -1,0 +1,11 @@
+{
+ "name": "Abe Killer",
+ "website": "http://abekiller.com",
+ "description": "Abe's assassination on July 8, 2022 shocked the world! AbeKiller(ABK) was born to remember this historic moment! ",
+ "explorer": "https://bscscan.com/token/0x1131c110ae59edeed3d6c8d7f668a30ba840dced",
+ "type": "BEP20",
+ "symbol": "ABK",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x1131C110ae59edEed3D6C8d7F668a30Ba840dCed"
+}

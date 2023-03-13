@@ -1,0 +1,11 @@
+{
+ "name": "CongCong",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/address/0x1800f5c5f85598E58449680629A710357B06F771",
+ "type": "BEP20",
+ "symbol": "CongCong",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1800f5c5f85598e58449680629a710357b06f771"
+}

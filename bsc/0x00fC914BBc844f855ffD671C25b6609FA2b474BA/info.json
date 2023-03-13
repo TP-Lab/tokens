@@ -1,0 +1,11 @@
+{
+ "name": "lonelyMoon",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/address/0x00fC914BBc844f855ffD671C25b6609FA2b474BA",
+ "type": "BEP20",
+ "symbol": "lonelyMoon",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x00fC914BBc844f855ffD671C25b6609FA2b474BA"
+}

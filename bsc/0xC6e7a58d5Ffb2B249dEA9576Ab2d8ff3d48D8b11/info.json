@@ -1,0 +1,11 @@
+{
+ "name": "LonelyMoonCoin",
+ "website": "http://lonelymoon.homes",
+ "description": "LonelyMoonCoin is a platform token. The platform provides audit and insurance compensation services. The project settled on the platform must pay the corresponding deposit, so as to prevent and reduce fraud in the field of encryption.",
+ "explorer": "https://bscscan.com/token/0xC6e7a58d5Ffb2B249dEA9576Ab2d8ff3d48D8b11",
+ "type": "BEP20",
+ "symbol": "LonelyMoon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC6e7a58d5Ffb2B249dEA9576Ab2d8ff3d48D8b11"
+}

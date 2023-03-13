@@ -1,0 +1,11 @@
+{ 
+"name": "nuwa token",
+"website": "https://www.nuwa.top/",
+"description": "-",
+"explorer": "https://bscscan.com/token/0x7A6e3Fd7a155Cd923F0c51a1bEeC2ED61B6E864B",
+"type": "BEP20",
+"symbol": "nuwa",
+"decimals": 6,
+"status": "active",
+"id": "0x7A6e3Fd7a155Cd923F0c51a1bEeC2ED61B6E864B"
+}

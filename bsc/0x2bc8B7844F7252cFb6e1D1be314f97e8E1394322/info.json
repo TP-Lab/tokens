@@ -1,0 +1,11 @@
+{
+ "name": "CAMBRIA",
+ "website": "https://www.cam-bria.com",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x2bc8B7844F7252cFb6e1D1be314f97e8E1394322",
+ "type": "BEP20",
+ "symbol": "CAM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2bc8B7844F7252cFb6e1D1be314f97e8E1394322"
+}

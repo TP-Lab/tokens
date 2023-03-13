@@ -1,0 +1,11 @@
+{
+    "name": "BitMessage",
+    "website": "https://www.bit360.net/",
+    "description": "Multi-chain assets, all easy to use, connected to the blockchain entry",
+    "explorer": "https://bscscan.com/token/0x657b0a0bde2718dd03cc37262580fc6e5a9c48f8",
+    "type": "BEP20",
+    "symbol": "BIM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x657B0A0bDE2718dD03Cc37262580fc6e5a9c48f8"
+}

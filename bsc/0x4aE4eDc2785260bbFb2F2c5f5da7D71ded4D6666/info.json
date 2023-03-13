@@ -1,0 +1,11 @@
+{
+ "name": "LYM",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x4aE4eDc2785260bbFb2F2c5f5da7D71ded4D6666",
+ "type": "BEP20",
+ "symbol": "LYM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4aE4eDc2785260bbFb2F2c5f5da7D71ded4D6666"
+}

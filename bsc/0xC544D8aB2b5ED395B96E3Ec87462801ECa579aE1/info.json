@@ -1,0 +1,11 @@
+{
+ "name": "Starfish OS Token",
+ "website": "https://www.sfos.io/",
+ "description": "Starfish OS is a starfish-style institution consensus collaboration system",
+ "explorer": "https://bscscan.com/token/0xc544d8ab2b5ed395b96e3ec87462801eca579ae1",
+ "type": "BEP20",
+ "symbol": "SFO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC544D8aB2b5ED395B96E3Ec87462801ECa579aE1"
+}

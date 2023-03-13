@@ -1,0 +1,11 @@
+{
+ "name": "MAGOVERSE Token",
+ "website": "https://magoverse.net",
+ "description": "A wearable device based on WEB3 project.Anyone who wear a MAGO with MAGO NFTs can complete tasks to get rewards.",
+ "explorer": "https://bscscan.com/token/0xb404fc03cffdcbd829d05350e0da8531857295fc",
+ "type": "BEP20",
+ "symbol": "MAGO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB404fc03cfFdcBD829D05350E0Da8531857295fC"
+}

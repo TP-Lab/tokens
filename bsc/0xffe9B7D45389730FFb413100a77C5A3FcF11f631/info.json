@@ -1,0 +1,11 @@
+{
+    "name": "420",
+    "website": "https://musk420.org/",
+    "description": "420 is the only token in the crypto world, created in honor of Elon Musk. Only 42069 tokens were issued and the number is capped for ever. Join us to witness the rise of 420.",
+    "explorer": "https://bscscan.com/token/0xffe9B7D45389730FFb413100a77C5A3FcF11f631",
+    "type": "BEP20",
+    "symbol": "420",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xffe9B7D45389730FFb413100a77C5A3FcF11f631"
+   }

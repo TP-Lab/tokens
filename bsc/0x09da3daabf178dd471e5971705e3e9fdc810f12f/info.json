@@ -2,10 +2,10 @@
 	"name": "ZNB",
 	"website": "https://www.znbglobal.top",
 	"description": "ZNB",
-	"explorer": "https://bscscan.com/token/0x09da3daabf178dd471e5971705e3e9fdc810f12f",
+	"explorer": "https://bscscan.com/token/0x09Da3DAAbf178dD471E5971705e3e9FDC810F12F",
 	"type": "BEP20",
 	"symbol": "ZNB",
 	"decimals": 18,
 	"status": "active",
-	"id": "0x09da3daabf178dd471e5971705e3e9fdc810f12f"
+	"id": "0x09Da3DAAbf178dD471E5971705e3e9FDC810F12F"
  }

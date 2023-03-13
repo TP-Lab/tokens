@@ -1,0 +1,11 @@
+{
+ "name": "ALG Token",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x26cA220Fd56dBD03fF3956AC48EdEE54fAd6AA7c",
+ "type": "BEP20",
+ "symbol": "ALG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x26cA220Fd56dBD03fF3956AC48EdEE54fAd6AA7c"
+}

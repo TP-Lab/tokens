@@ -1,0 +1,11 @@
+1{
+2"name": "BuryDAO Token",
+3"website": "https://t.me/buryCN",
+4"description": "Bury is a NFT-based sharing traffic platform.",
+5"explorer": "https://bscscan.com/address/0xb07321a4b32af1b1c22545fd9ba6c99602eada93",
+6"type": "BEP20",
+7"symbol": "Bury",
+8 "decimals": 18,
+9"status": "active",
+10 "id": "0xb07321a4b32af1b1c22545fd9ba6c99602eada93"
+11}

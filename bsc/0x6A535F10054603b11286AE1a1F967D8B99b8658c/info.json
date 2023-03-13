@@ -1,0 +1,11 @@
+{
+    "name": "Alpha Centauri",
+    "website": "http://alp.lxbbcm.com/index.php",
+    "description": "通过区块链底层技术、元宇宙场景建模和人像建模、分布式语音引擎技术，搭建一个虚拟的元宇宙星际社交平台。人们可以突破时空在这个平台进行沟通、交流、活动举办，同时让平台的每一个建设者都成为平台的主人和受益者。",
+    "explorer": "https://bscscan.com/token/0x6A535F10054603b11286AE1a1F967D8B99b8658c",
+    "type": "BEP20",
+    "symbol": "ALP",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x6A535F10054603b11286AE1a1F967D8B99b8658c"
+   }

@@ -1,0 +1,11 @@
+{
+ "name": "WHB",
+ "website": "https://tokenpocket.pro",
+ "description": "A Token of BSC.",
+ "explorer": "https://bscscan.com/token/0x1B93816B5b7D02CfdabBaa9B570e562Ca9B7DA09",
+ "type": "BEP20",
+ "symbol": "WHB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1B93816B5b7D02CfdabBaa9B570e562Ca9B7DA09"
+}

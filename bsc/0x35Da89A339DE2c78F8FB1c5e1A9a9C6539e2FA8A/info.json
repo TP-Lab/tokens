@@ -1,0 +1,11 @@
+{
+  "name": "Utility Net Coin",
+  "website": "https://untcoin.io",
+  "description": "A community-driven, community-dominated coin.",
+  "explorer": "https://bscscan.com/token/0x35Da89A339DE2c78F8FB1c5e1A9a9C6539e2FA8A",
+  "type": "BEP20",
+  "symbol": "UNC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x35Da89A339DE2c78F8FB1c5e1A9a9C6539e2FA8A"
+}

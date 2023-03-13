@@ -1,0 +1,11 @@
+{
+ "name": "MetaGuy",
+ "website": "https://metafreecity.com/",
+ "description": "MetaGuy, a Pioneer NFT, is a continuation of the practice of Meta Freecity DAO mechanism, an important ecology for creating the first Metaverse natives of the opening of the Sobrinans continent.",
+ "explorer": "https://bscscan.com/token/0x0d42ba9b368585076cbca2ccd8c28566edf9f7d6",
+ "type": "ERC-721",
+ "symbol": "MetaGuy",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x0d42ba9b368585076cbca2ccd8c28566edf9f7d6"
+}

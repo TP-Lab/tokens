@@ -1,0 +1,11 @@
+{
+ "name": "OKW",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://www.oklink.com/en/okc/tokenAddr/0xF806D78737daD25F37B3005bb2E8Cb58E06c8786",
+ "type": "KIP20",
+ "symbol": "OKW",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xF806D78737daD25F37B3005bb2E8Cb58E06c8786"
+}

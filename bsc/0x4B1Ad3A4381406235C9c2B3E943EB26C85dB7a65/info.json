@@ -1,0 +1,11 @@
+{ 
+"name": "Sport Doge",
+"website": "https://sportdoge.finance",
+"description": "Sport Doge is the perfect choice if you’re looking for a DEX platform to perform all kinds of crypto tasks. Here’s why its quickly attracting a lot of attention and is making a mark in the crypto space.",
+"explorer": "https://bscscan.com/token/0x4B1Ad3A4381406235C9c2B3E943EB26C85dB7a65",
+"type": "BEP20",
+"symbol": ""Sport Doge",
+"decimals": 18,
+"status": "active",
+"id": "0x4B1Ad3A4381406235C9c2B3E943EB26C85dB7a65"
+} 

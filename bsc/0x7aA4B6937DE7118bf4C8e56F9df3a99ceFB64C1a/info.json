@@ -1,0 +1,11 @@
+{
+ "name": "e-STD",
+ "website": "",
+ "description": "e-STD token",
+ "explorer": "https://bscscan.com/token/0x7aA4B6937DE7118bf4C8e56F9df3a99ceFB64C1a",
+ "type": "BEP20",
+ "symbol": "e-STD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7aA4B6937DE7118bf4C8e56F9df3a99ceFB64C1a"
+}

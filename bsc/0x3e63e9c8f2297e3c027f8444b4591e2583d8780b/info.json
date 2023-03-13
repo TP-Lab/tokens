@@ -1,0 +1,11 @@
+{
+ "name": "PLOT Token",
+ "website": "https://earncraft.org",
+ "description": "A Minecraft Blockchain Server Made By Players.",
+ "explorer": "https://bscscan.com/token/0x3e63e9c8f2297e3c027f8444b4591e2583d8780b",
+ "type": "BEP20",
+ "symbol": "PLOT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3e63e9C8F2297E3C027f8444b4591E2583d8780B"
+}

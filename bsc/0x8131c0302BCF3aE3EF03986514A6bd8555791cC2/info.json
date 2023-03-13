@@ -1,0 +1,11 @@
+{
+ "name": "HydroDAO",
+ "website": "https://www.velas.vip/",
+ "description": "Hydro-DAO NFT is a symbol of Hydro-DAO partnerships in Velas, NFT holders could get dividends as benefits from Hydro DAO as DAO members.",
+ "explorer": "https://bscscan.com/token/0x8131c0302BCF3aE3EF03986514A6bd8555791cC2",
+ "type": "BEP20",
+ "symbol": "HDD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8131c0302BCF3aE3EF03986514A6bd8555791cC2"
+}

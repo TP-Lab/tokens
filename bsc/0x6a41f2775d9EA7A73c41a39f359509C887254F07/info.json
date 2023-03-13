@@ -1,0 +1,11 @@
+{
+ "name": "Rlink token",
+ "website": "https://rlink.link/",
+ "description": "RLink is an open, transparent, safe, and stable information content platform that builds a network of encrypted relationships between people, connects more projects suitable for the development of SocialFi, and promotes the web3 project of large-scale application of Web3.0.",
+ "explorer": "https://bscscan.com/token/0x6a41f2775d9EA7A73c41a39f359509C887254F07",
+ "type": "BEP20",
+ "symbol": "RLT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6a41f2775d9EA7A73c41a39f359509C887254F07"
+}

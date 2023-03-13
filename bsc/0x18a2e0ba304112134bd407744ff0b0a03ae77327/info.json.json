@@ -1,0 +1,11 @@
+{
+  "name": "First Decentralized financial Bank",
+  "website": "https://www.fdbcoin.top/",
+  "description": "FDB is the abbreviation of first decentralized financial bank, FDB is based on the underlying technology of BSC Binance Smart Chain.",
+  "explorer": "https://bscscan.com/token/0x18a2e0ba304112134bd407744ff0b0a03ae77327",
+  "type": "BEP20",
+  "symbol": "FDB",
+  "decimals": 8,
+  "status": "active",
+  "id": "0x18a2e0ba304112134bd407744ff0b0a03ae77327"
+}

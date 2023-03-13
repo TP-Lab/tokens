@@ -1,0 +1,11 @@
+{
+    "name": "Nobelcoin",
+    "website": "http://www.nobel-chain.com/",
+    "description": "Nobelcoin (NBC) is a consensus token issued by Nobel Prize supporters",
+    "explorer": "https://bscscan.com/token/0x91bed821C84D854d452B32Fd4d401DE2855622b9",
+    "type": "BEP20",
+    "symbol": "NBC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x91bed821C84D854d452B32Fd4d401DE2855622b9"
+   }

@@ -1,0 +1,11 @@
+{
+ "name": "TXY Token",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xaE0697141F87946D96397BBdA572D534A22432A5",
+ "type": "BEP20",
+ "symbol": "TXYM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaE0697141F87946D96397BBdA572D534A22432A5"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "FitApe",
+ "website": "https://fitape.tech",
+ "description": "FitApe breaks away from all negativity, depression and uncertainty and embrace a positive attitude towards life and new hope.",
+ "explorer": "https://bscscan.com/token/0x63a472ec95527dcb79A3aA23170b9ece00A8Ad64",
+ "type": "BEP20",
+ "symbol": "FitApe",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x63a472ec95527dcb79A3aA23170b9ece00A8Ad64"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MetaDaoBoss",
+ "website": "http://www.bitboss.ai/",
+ "description": "BOSS is a distributed commercial application value network developed by the Singapore MDB Foundation and based on BSC technology. Through BOSS, it conducts chain restructuring and chain game development for enterprises, jointly builds the Binance ecosystem, and promotes the development of industrial blockchain 3.0.  The industrialization of the chain and the application of the Metaverse have created huge commercial value.",
+ "explorer": "https://bscscan.com/token/0xf8cc1C35D2E7140Ecc2BDD43677096127e9a60A1",
+ "type": "BEP20",
+ "symbol": "BOSS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf8cc1C35D2E7140Ecc2BDD43677096127e9a60A1"
+} 

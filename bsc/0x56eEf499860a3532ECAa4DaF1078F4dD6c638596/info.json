@@ -1,0 +1,11 @@
+{
+ "name": "Virtual Mining",
+ "website": "https://www.vmarket.cc/",
+ "description": "The trading interests virtual mining!",
+ "explorer": "https://bscscan.com/token/0x56eEf499860a3532ECAa4DaF1078F4dD6c638596",
+ "type": "BEP20",
+ "symbol": "VTM",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x56eEf499860a3532ECAa4DaF1078F4dD6c638596"
+}

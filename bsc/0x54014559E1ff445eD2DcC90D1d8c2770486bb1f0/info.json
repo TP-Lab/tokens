@@ -1,0 +1,11 @@
+{
+ "name": "GOMoon",
+ "website": "https://gmoon.tk/",
+ "description": "GOMoon is a project that aims to fly higher and go farther. In the future, it will develop its own ecology and combine with landing apps.",
+ "explorer": "https://bscscan.com/token/0x54014559e1ff445ed2dcc90d1d8c2770486bb1f0",
+ "type": "BEP20",
+ "symbol": "GMoon",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x54014559E1ff445eD2DcC90D1d8c2770486bb1f0"
+}

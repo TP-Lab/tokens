@@ -1,0 +1,11 @@
+{
+ "name": "TENYUN",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/address/0xe90315023feCF3562c89428d05C99cFDf416e547",
+ "type": "BEP20",
+ "symbol": "TCH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe90315023feCF3562c89428d05C99cFDf416e547"
+}

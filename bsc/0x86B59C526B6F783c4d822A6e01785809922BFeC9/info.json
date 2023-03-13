@@ -1,0 +1,11 @@
+{
+    "name": "MESOS TOKEN",
+    "website": "https://www.mesosstory.com/",
+    "description": "PLAY & EARN METAVERSE GAMEPLAY",
+    "explorer": "https://bscscan.com/token/0x86b59c526b6f783c4d822a6e01785809922bfec9",
+    "type": "BEP20",
+    "symbol": "MSC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x86B59C526B6F783c4d822A6e01785809922BFeC9"
+   }

@@ -1,0 +1,10 @@
+{
+    "name": "MetaRealmDAO",
+    "website": "https://metarealmdao.com",
+    "description": "MetaRealmDAO is a decentralized GameFi + incubator + NFT platform. Players obtain game NFT by drawing, and earn income through pledge, upgrade, synthesis, and other methods.",
+    "explorer": "https://bscscan.com/address/0x874E5AC50aBFfe0f60f9FB6f7A28f75FB878279d",
+    "type": "BEP20",
+    "symbol": "MRD",
+    "status": "pending",
+    "id": "0x874E5AC50aBFfe0f60f9FB6f7A28f75FB878279d"
+   }

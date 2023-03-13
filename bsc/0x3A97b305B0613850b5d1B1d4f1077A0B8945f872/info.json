@@ -1,0 +1,11 @@
+{
+ "name": "WDLY",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x3A97b305B0613850b5d1B1d4f1077A0B8945f872",
+ "type": "BEP20",
+ "symbol": "WDLY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3A97b305B0613850b5d1B1d4f1077A0B8945f872"
+}

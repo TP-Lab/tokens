@@ -1,0 +1,11 @@
+{
+ "name": "BNS",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0x87bB123d0ed1781ACf3612f73Bd0B579D3BA210f",
+ "type": "BEP20",
+ "symbol": "BNS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x87bB123d0ed1781ACf3612f73Bd0B579D3BA210f"
+}

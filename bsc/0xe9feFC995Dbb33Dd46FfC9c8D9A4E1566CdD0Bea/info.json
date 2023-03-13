@@ -1,0 +1,11 @@
+{
+ "name": "LUWA",
+ "website": "https://www.deeremax.com",
+ "description": "Deeremax : a way of life¡£Deeremax is building a block chain ecosystem that includes digital assets£¬digital identity and digital social interaction¡£.",
+ "explorer": "https://bscscan.com/token/0xe9feFC995Dbb33Dd46FfC9c8D9A4E1566CdD0Bea",
+ "type": "BEP20",
+ "symbol": "LUWA",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe9feFC995Dbb33Dd46FfC9c8D9A4E1566CdD0Bea"
+}

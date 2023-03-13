@@ -1,0 +1,11 @@
+{
+ "name": "RoraPro",
+ "website": "no",
+ "description": " no",
+ "explorer": "https://bscscan.com/0xd4c354da10c919ad0b5e238bea3a5a9c7856667b",
+ "type": "BEP20",
+ "symbol": "RoraPro",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd4c354da10c919ad0b5e238bea3a5a9c7856667b"
+}

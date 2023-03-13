@@ -1,0 +1,11 @@
+{
+ "name": "YH",
+ "website": "https://daogalaxy.net",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xceCfE0684ec810b0b311F5B4DA9C2cFd460aE05b",
+ "type": "BEP20",
+ "symbol": "YH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xceCfE0684ec810b0b311F5B4DA9C2cFd460aE05b"
+}

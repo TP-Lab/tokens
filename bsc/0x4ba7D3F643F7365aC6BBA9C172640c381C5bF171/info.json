@@ -1,0 +1,11 @@
+{
+ "name": "ETHG",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x4ba7D3F643F7365aC6BBA9C172640c381C5bF171",
+ "type": "BEP20",
+ "symbol": "ETHG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4ba7D3F643F7365aC6BBA9C172640c381C5bF171"
+}

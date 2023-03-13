@@ -5,10 +5,12 @@ This is the repo for TokenPocket to add token and update the Token logos accordi
 Please read the following tutorials.
 
 ### Donation for Logo update
-According to the DAO, the donation amount for a logo update has been updated to 30,000 TPT. [Click here for Details](https://snapshot.org/#/tptdao.eth/proposal/0x781abc1ade2ebd082aec4f57b7199d472a2b2850b3df46c8ec37e3b6a1a243c2)
+According to the DAO, the donation amount for a logo update has been updated to 50,000 TPT. [Click here for Details](https://snapshot.org/#/tptdao.eth/proposal/0x5e985943ac4dea8d97af93143020c337370950604ebabbe172939a5c63eed872)
 
 ### How to submit 
-https://tphelp.gitbook.io/en/wallet-operation/how-to-submit-a-token-logo
+token logo submission：https://tphelp.gitbook.io/en/wallet-operation/how-to-submit-a-token-logo
+
+nft logo submission：https://help.tokenpocket.pro/en/developer/nft
 
 
 
@@ -19,8 +21,10 @@ https://tphelp.gitbook.io/en/wallet-operation/how-to-submit-a-token-logo
 请根据以下指引进行提交。
 
 ### 图标更新捐赠
-根据社区DAO投票，当前图标更新的捐赠额度已改为 30,000 TPT. [点击前往查看详情](https://snapshot.org/#/tptdao.eth/proposal/0x781abc1ade2ebd082aec4f57b7199d472a2b2850b3df46c8ec37e3b6a1a243c2)
+根据社区DAO投票，当前图标更新的捐赠额度已改为 50,000 TPT. [点击前往查看详情](https://snapshot.org/#/tptdao.eth/proposal/0x5e985943ac4dea8d97af93143020c337370950604ebabbe172939a5c63eed872)
 
 ### 怎么提交
-https://tphelp.gitbook.io/cn/wallet-operation/submit-token
+代币Logo提交：https://tphelp.gitbook.io/cn/wallet-operation/submit-token
+
+NFTlogo提交：https://help.tokenpocket.pro/cn/developer/NFT
 

@@ -1,0 +1,11 @@
+{
+ "name": "Safe Energy",
+ "website": "https://safeenergyxofficial.com",
+ "description": "Safe Energy is a blockchain nature association affiliated to the Amsterdam branch of Greenpeace.",
+ "explorer": "https://bscscan.com/token/0xd3DB94b9112Eb1303B4F3Ca94e578Dd8EA72f5Dc",
+ "type": "BEP20",
+ "symbol": "SY",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd3DB94b9112Eb1303B4F3Ca94e578Dd8EA72f5Dc"
+}

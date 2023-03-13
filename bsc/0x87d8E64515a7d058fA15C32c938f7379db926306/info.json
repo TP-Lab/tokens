@@ -1,0 +1,11 @@
+{
+ "name": "Tomatos",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x87d8E64515a7d058fA15C32c938f7379db926306",
+ "type": "BEP20",
+ "symbol": "Tomatos",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x87d8E64515a7d058fA15C32c938f7379db926306"
+}

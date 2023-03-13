@@ -1,0 +1,11 @@
+{
+ "name": "MinerKing ",
+"website": "https://bscscan.com/token/0x601e161267AA9e5f4DDBeE4890501295Bd094735",
+ "description": " BSC, MinerKing",
+ "explorer": "https://bscscan.com/token/0x601e161267AA9e5f4DDBeE4890501295Bd094735",
+ "type": "BEP20",
+ "symbol": "MinerKing",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x601e161267AA9e5f4DDBeE4890501295Bd094735"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "DMNToken",
+    "website": "http://www.domino.work/",
+    "description": "Domino is a decentralized high-performance composite DEX ecosystem that integrates GameFi, DeFi, and Web3.0 on Binance Smart Chain.",
+    "explorer": "https://bscscan.com/token/0x0de9ce771256101214084c19ade19a36c48f2038",
+    "type": "BEP20",
+    "symbol": "DMN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0DE9ce771256101214084c19ade19a36c48f2038"
+}

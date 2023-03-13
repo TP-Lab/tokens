@@ -1,0 +1,11 @@
+{
+    "name": "Gold Saints",
+    "website": "http://saints.finance",
+    "description": "GSS is dedicated to creating an open, fair, traceable, distributed, transparent and credible new decentralized game aggregation ecological platform.",
+    "explorer": "https://bscscan.com/address/0xa38f71cb0edcc1090eaad7542745870f7e734632",
+    "type": "BEP20",
+    "symbol": "GSS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA38f71CB0Edcc1090EaaD7542745870F7E734632"
+   }

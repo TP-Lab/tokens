@@ -1,0 +1,11 @@
+{ 
+"name": "RUN",
+"website": "https://www.hashboss001.live",
+"description": "RUN is the first snowball game on the blockchain launched by scholars from the MIT blockchain laboratory and overseas Chinese professors.  ",
+"explorer": "https://www.bscscan.com/token/0x5240AC630e009281b10A192EBFbc44511213dcB1",
+"type": "BEP20",
+"symbol": "RUN",
+"decimals": 18,
+"status": "active",
+"id": "0x5240AC630e009281b10A192EBFbc44511213dcB1"
+}

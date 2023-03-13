@@ -1,0 +1,11 @@
+{
+ "name": "MT",
+ "website": "https://web.Mt.xyz",
+ "description": "MT, the addresses keep growing and changing hands",
+ "explorer": "https://bscscan.com/address/0x38816504280B254dF67e8639F4a1b780dfB36816",
+ "type": "BEP20",
+ "symbol": "MT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x38816504280B254dF67e8639F4a1b780dfB36816"
+}

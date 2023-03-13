@@ -1,0 +1,11 @@
+{
+ "name": "MG",
+ "website": "https://www.hollywood3.com",
+ "description": "MG is a British automotive brand that has been producing sports cars since the 1920s. With a rich history of racing victories and innovative design, MG has become a beloved and iconic brand around the world. ",
+ "explorer": "https://bscscan.com/token/0x75399169C60122e084E4e6A5B99a64057777fA78",
+ "type": "BEP20",
+ "symbol": "MG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x75399169C60122e084E4e6A5B99a64057777fA78"
+}
