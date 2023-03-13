@@ -1,0 +1,11 @@
+{ 
+"name": "Big Winner",
+"website": "https://bigwinner.pw",
+"description": "Big Winner is a completely decentralized DAO community autonomy, committed to building blockchain, Web 3.0, metauniverse, whole-industry ecosystem, decentralized social, DOTC, NFT, chain game, etc. ",
+"explorer": "https://bscscan.com/token/0xBF5BAea5113e9EB7009a6680747F2c7569dfC2D6",
+"type": "BEP20",
+"symbol": "DBW",
+"decimals": 18,
+"status": "active",
+"id": "0xBF5BAea5113e9EB7009a6680747F2c7569dfC2D6"
+}
