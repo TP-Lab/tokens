@@ -1,0 +1,11 @@
+{
+ "name": "CERES",
+ "website": "https://web.ceresdapp.com/",
+ "description": "CERES以用户为中心，构造WEB3.0多链聚合器，构建和使用新技术，Ceres 生态以建立价值互联网体系为使命，最终打造一套便捷的、无国界的为全球数十亿人服务的金融基础设施，改进困扰Web2.0的大多数问题——用户数据安全、隐私、内容、货币化和集中化，以“WEB3.0聚合平台+DAO+DeFi”的去中心化特性為研發理念，基於區塊鏈底層技術、Ceres 生态可拓展聚合：数字资产、贸易金融、股权债券、供应链溯源、联合征信、公示公证、物 联网共享、数据安全等领域，打造新一代价值流通网络，让数字资产都自由流动起来。CERES(克瑞斯)的远景是打造WEB3.0商業應用多链聚合航母级平台。"
+ "explorer": "https://bscscan.com/token/0x9f7CD127775B4d56a41069d82EC6FB57c1a44671",
+ "type": "BEP20",
+ "symbol": "CERES",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9f7CD127775B4d56a41069d82EC6FB57c1a44671"
+}
