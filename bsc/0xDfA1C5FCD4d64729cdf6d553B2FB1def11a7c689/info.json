@@ -1,0 +1,11 @@
+{
+ "name": "Dcoreum",
+ "website": "https://dcoreum.io/",
+ "description": "DCOREUM is a decentralized economy ecosystem based on Web 3.0 and the world's first comprehensive blockchain project.",
+ "explorer": "https://bscscan.com/token/0xdfa1c5fcd4d64729cdf6d553b2fb1def11a7c689",
+ "type": "BEP20",
+ "symbol": "DCO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDfA1C5FCD4d64729cdf6d553B2FB1def11a7c689"
+}
