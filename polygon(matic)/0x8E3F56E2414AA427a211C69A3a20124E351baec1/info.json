@@ -1,0 +1,11 @@
+{
+    "name": "Goldneta Token",
+    "website": "https://info.goldneta.com/",
+    "description": "GoldNeta's mission is to empower individuals across the globe through its decentralized prediction platform, fueled by GNT to drive the ecosystem forward.",
+    "explorer": "https://polygonscan.com/address/0x8E3F56E2414AA427a211C69A3a20124E351baec1",
+    "type": "ERC20",
+    "symbol": "GNT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8E3F56E2414AA427a211C69A3a20124E351baec1"
+}
