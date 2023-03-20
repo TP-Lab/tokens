@@ -1,0 +1,11 @@
+{ 
+"name": "ProTradex",
+"website": "https://www.protradex.finance",
+"description": "A one-stop financial service platform focusing on crypto decentralized derivatives. ",
+"explorer": "https://bscscan.com/token/0xA73835D6337719f316Ad66f3C11AC6cc9bcf7b07",
+"type": "BEP20",
+"symbol": "PTD",
+"decimals": 18,
+"status": "active",
+"id": "0xA73835D6337719f316Ad66f3C11AC6cc9bcf7b07"
+}
