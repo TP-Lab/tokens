@@ -1,0 +1,11 @@
+{
+  "name": "Interstellar",
+  "website": "https://www.interstellar.finance/#/",
+  "description": "INT is the infrastructure of the Interstellar Metaverse, and users have full ownership of their information. Establish an open and transparent community autonomy model to form an open, transparent, and co-governance free space.",
+  "explorer": "https://bscscan.com/token/0x1E7f02e9b6995c42942E69d533A65c72b63754Bb",
+  "type": "BEP20",
+  "symbol": "INT",
+  "decimals": 18, 
+  "status": "active",
+  "id": "0x1E7f02e9b6995c42942E69d533A65c72b63754Bb"
+ }
