@@ -1,0 +1,11 @@
+{
+ "name": "YFI",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x8772EB993841C335185afC1A55c1d9347099e2E9",
+ "type": "BEP20",
+ "symbol": "YFI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8772EB993841C335185afC1A55c1d9347099e2E9"
+}
