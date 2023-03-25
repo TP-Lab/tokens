@@ -1,0 +1,11 @@
+{
+ "name": "ANT",
+ "website": "-",
+ "description": "ANT is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xF03BDf818603e91843dB71B45049A841443B73B5",
+ "type": "BEP20",
+ "symbol": "ANT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF03BDf818603e91843dB71B45049A841443B73B5"
+}
