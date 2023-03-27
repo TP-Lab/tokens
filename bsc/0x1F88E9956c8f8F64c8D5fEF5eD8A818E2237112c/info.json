@@ -1,0 +1,11 @@
+{
+ "name": "YouCoin",
+ "website": "-",
+ "description": "YouCoin is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x1F88E9956c8f8F64c8D5fEF5eD8A818E2237112c",
+ "type": "BEP20",
+ "symbol": "UCON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1F88E9956c8f8F64c8D5fEF5eD8A818E2237112c"
+}
