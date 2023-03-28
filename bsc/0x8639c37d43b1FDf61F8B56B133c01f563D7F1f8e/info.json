@@ -1,0 +1,11 @@
+{
+  "name": "DFA token",
+  "website": "https://www.defidaodapp.com",
+  "description": "DFA has a circulation of 100,000 and is an equity token of the DFD community, mainly used for community governance, dividend weighting, etc.",
+  "explorer": "https://bscscan.com/token/0x8639c37d43b1FDf61F8B56B133c01f563D7F1f8e",
+  "type": "BEP20",
+  "symbol": "DFA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8639c37d43b1FDf61F8B56B133c01f563D7F1f8e"
+}
