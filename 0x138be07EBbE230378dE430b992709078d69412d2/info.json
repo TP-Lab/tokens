@@ -1,0 +1,11 @@
+{
+ "name": "Meta AI",
+ "website": "http://aimetaai.io",
+ "description": "Meta AI help people gain strength at work, save lives, and improve education.",
+ "explorer": "https://bscscan.com/token/0x138be07EBbE230378dE430b992709078d69412d2",
+ "type": "BEP20",
+ "symbol": "AI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x138be07EBbE230378dE430b992709078d69412d2"
+}
