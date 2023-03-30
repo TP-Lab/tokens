@@ -1,0 +1,11 @@
+{
+  "name": "MGC token",
+  "website": "https://www.mgmetaworld.vip/Web/App/index.html",
+  "description": "The total issuance of MGC is 21 million. It is the governance token of the mateworld community and will be used for community ecological development, such as DeFi comprehensive service platforms such as lending and exchanges.",
+  "explorer": "https://bscscan.com/token/0x33f3470bD66653598b09060F3d4780B9054fa9dF",
+  "type": "BEP20",
+  "symbol": "MGC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x33f3470bD66653598b09060F3d4780B9054fa9dF"
+}
