@@ -1,0 +1,11 @@
+{
+ "name": "LFGSwap.Finance",
+ "website": "lfgswap.finance",
+ "description": " LFGSwap is a community-driven organization built to solve the liquidity problem. The product includes decentralized exchange, Yield Instruments, AMM Framework, and Staking Derivatives.",
+ "explorer": "https://arbiscan.io/token/0xF7a0b80681eC935d6dd9f3Af9826E68B99897d6D",
+ "type": "Arbitrum",
+ "symbol": "LFG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF7a0b80681eC935d6dd9f3Af9826E68B99897d6D"
+}
