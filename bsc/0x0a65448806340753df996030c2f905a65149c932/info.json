@@ -1,0 +1,11 @@
+{
+ "name": "Dragon King",
+ "website": "http://dragonking.ai/ ",
+ "description": "Life Doesn’t Wait, Neither Should You",
+ "explorer": "https://bscscan.com/token/0x0a65448806340753df996030c2f905a65149c932",
+ "type": "BEP20",
+ "symbol": "DRAGON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0a65448806340753df996030c2f905a65149c932"
+}

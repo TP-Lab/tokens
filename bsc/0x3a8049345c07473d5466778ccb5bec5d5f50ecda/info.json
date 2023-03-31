@@ -1,11 +1,22 @@
 {
- "name": "Lucky Pig",
- "website": "",
- "description": "",
- "explorer": "https://bscscan.com/token/0x3a8049345c07473d5466778ccb5bec5d5f50ecda",
- "type": "BEP20",
- "symbol": "LuckyPig",
- "decimals": 9,
- "status": "active",
- "id": "0x3a8049345c07473d5466778ccb5bec5d5f50ecda"
+    "name": "Lucky Pig",
+    "website": "https://luckypig.net",
+    "description": "A Lucky Token that everyone can reward it.",
+    "type": "BEP20",
+     "symbol": "LuckyPig",
+     "decimals": 9,
+     "status": "active",
+     "id": "0x3a8049345c07473d5466778ccb5bec5d5f50ecda",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/LuckyPigToken"
+        },
+        
+        {
+            "name": "Telegram",
+            "url": "https://t.me/Luckpig_Community"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x3a8049345c07473d5466778ccb5bec5d5f50ecda"
 }

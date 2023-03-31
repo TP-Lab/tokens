@@ -1,0 +1,11 @@
+{
+ "name": "Wrapped Versailles Heroes Token",
+ "website": "https://versaillesheroes.com/",
+ "description": "Versailles Heroes is a #Web3 #Metaverse #GameFi #P2E #MOBA game with real opponents and real rewards.",
+ "explorer": "https://etherscan.io/token/0xbDc2217B591cEf4D0054ef314ab0EC0bCD69F456",
+ "type": "ERC20",
+ "symbol": "WVRH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbDc2217B591cEf4D0054ef314ab0EC0bCD69F456"
+}

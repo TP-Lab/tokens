@@ -1,0 +1,11 @@
+{
+"name": "PORSCHE",
+"website": "https://t.me/PORSCHE_DAO",
+"description": "no",
+"explorer": "https://bscscan.com/address/0x32ff096F0B331d4A397C70d21ED6Bf65D75d9112",
+"type": "BEP20",
+"symbol": "PORSCHE",
+"decimals": 18,
+"status": "active",
+"id": "0x32ff096F0B331d4A397C70d21ED6Bf65D75d9112"
+}

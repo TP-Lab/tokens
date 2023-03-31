@@ -1,0 +1,11 @@
+{
+ "name": "HKHX",
+ "website": "-",
+ "description": "HKHX is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x60BA87eDfbc40b8c3F8F58553634B7c2341FD2A9",
+ "type": "BEP20",
+ "symbol": "HKHX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x60BA87eDfbc40b8c3F8F58553634B7c2341FD2A9"
+}

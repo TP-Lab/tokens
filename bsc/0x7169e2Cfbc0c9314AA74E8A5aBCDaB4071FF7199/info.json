@@ -1,0 +1,11 @@
+{
+  "name": "BTG",
+  "website": "https://xb.goros.cc",
+  "description": "BTG",
+  "explorer": "https://bscscan.com/token/0x7169e2Cfbc0c9314AA74E8A5aBCDaB4071FF7199",
+  "type": "BEP20",
+  "symbol": "BTG",
+  "decimals": 5,
+  "status": "active",
+  "id": "0x7169e2Cfbc0c9314AA74E8A5aBCDaB4071FF7199"
+}

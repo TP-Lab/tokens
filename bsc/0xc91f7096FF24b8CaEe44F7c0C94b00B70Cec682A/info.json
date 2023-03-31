@@ -1,0 +1,11 @@
+{
+ "name": "MarsMiner Token",
+ "website": "https://www.marsminer.finance",
+ "description": "Mars Miner is a web 3.0 mining game built on the Binance Smart Chain, where all players can use NFT miners to mine cryptos.",
+ "explorer": "https://bscscan.com/token/0xc91f7096FF24b8CaEe44F7c0C94b00B70Cec682A",
+ "type": "BEP20",
+ "symbol": "MMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc91f7096FF24b8CaEe44F7c0C94b00B70Cec682A"
+}

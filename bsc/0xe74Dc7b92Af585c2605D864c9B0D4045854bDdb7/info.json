@@ -1,0 +1,11 @@
+{
+  "name": "Goros",
+  "website": "https://tmh.goros.cc",
+  "description": "Goros",
+  "explorer": "https://bscscan.com/token/0xe74dc7b92af585c2605d864c9b0d4045854bddb7",
+  "type": "BEP20",
+  "symbol": "Goros",
+  "decimals": 5,
+  "status": "active",
+  "id": "0xe74Dc7b92Af585c2605D864c9B0D4045854bDdb7"
+}

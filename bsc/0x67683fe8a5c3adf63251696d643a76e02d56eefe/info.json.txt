@@ -1,0 +1,11 @@
+{
+ "name": "UBD",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x67683fe8a5c3adf63251696d643a76e02d56eefe",
+ "type": "BEP20",
+ "symbol": "UBD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x67683fe8a5c3adf63251696d643a76e02d56eefe"
+}

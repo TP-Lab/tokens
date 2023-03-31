@@ -1,0 +1,11 @@
+{
+ "name": "兔圆圆",
+ "website": "",
+ "description": "Internal community pass",
+ "explorer": "https://bscscan.com/token/0x6eC71F26C8E9b2eBC8373809522a7637eeE71ca1",
+ "type": "BEP20",
+ "symbol": "兔圆圆",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6eC71F26C8E9b2eBC8373809522a7637eeE71ca1"
+}

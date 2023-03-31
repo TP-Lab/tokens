@@ -1,0 +1,11 @@
+{
+ "name": "Crypto AI",
+ "website": "https://cai.codes",
+ "description": "Crypto AI, an AI-powered using AI Machine Learning to Create Digital Asset.",
+ "explorer": "https://bscscan.com/token/0x3CEf8d4CC106a169902eA985ceC2dc6Ab055ad4c",
+ "type": "BEP20",
+ "symbol": "CAI",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3CEf8d4CC106a169902eA985ceC2dc6Ab055ad4c"
+}

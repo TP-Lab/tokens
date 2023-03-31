@@ -1,0 +1,11 @@
+{
+    "name": "TCP",
+    "website": "https://tcpgolbal.github.io/",
+    "description": "The world's first public chain project based on AI consensus algorithm, the new generation has the three advantages of platform, alliance and ecology and the world's leading digital asset risk control system, providing global users with lower thresholds, better services and stronger liquidity. One-stop digital asset trading platform.",
+    "explorer": "https://bscscan.com/token/0xc26a2bb245e0bced2c2a2671391507fae3630846",
+    "type": "BEP20",
+    "symbol": "TCP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC26A2BB245E0bceD2C2a2671391507fae3630846"
+   }

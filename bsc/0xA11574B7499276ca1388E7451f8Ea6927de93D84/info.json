@@ -1,0 +1,11 @@
+{
+ "name": "BKG",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xA11574B7499276ca1388E7451f8Ea6927de93D84",
+ "type": "BEP20",
+ "symbol": "BKG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA11574B7499276ca1388E7451f8Ea6927de93D84"
+}

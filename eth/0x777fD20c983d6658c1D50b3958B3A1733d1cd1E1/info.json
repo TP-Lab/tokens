@@ -1,0 +1,11 @@
+{
+ "name": "PUBLISH",
+ "website": "https://link.publishinc.io/en/",
+ "description": "PUBLISH protocol is helping news organizations combat misinformation, increase engagement, and boost income",
+ "explorer": "https://etherscan.io/address/0x777fd20c983d6658c1d50b3958b3a1733d1cd1e1",
+ "type": "ERC20",
+ "symbol": "NEWS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x777fD20c983d6658c1D50b3958B3A1733d1cd1E1"
+}

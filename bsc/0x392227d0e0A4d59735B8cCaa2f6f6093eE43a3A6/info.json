@@ -1,0 +1,11 @@
+{
+ "name": "CRE",
+ "website": "-",
+ "description": "CRE is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x392227d0e0A4d59735B8cCaa2f6f6093eE43a3A6",
+ "type": "BEP20",
+ "symbol": "CRE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x392227d0e0A4d59735B8cCaa2f6f6093eE43a3A6"
+}
