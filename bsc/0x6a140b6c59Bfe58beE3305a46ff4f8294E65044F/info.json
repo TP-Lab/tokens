@@ -1,0 +1,11 @@
+{
+ "name": "HKE",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x6a140b6c59Bfe58beE3305a46ff4f8294E65044F",
+ "type": "BEP20",
+ "symbol": "HKE",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x6a140b6c59Bfe58beE3305a46ff4f8294E65044F"
+}
