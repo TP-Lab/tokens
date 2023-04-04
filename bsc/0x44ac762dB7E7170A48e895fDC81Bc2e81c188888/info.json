@@ -1,0 +1,11 @@
+{
+ "name": "ZM",
+ "website": ".",
+ "description": "The QZBF token mechanism was developed by a Singaporean startup technology team and took over 260 hours of research and development to be completed and launched.",
+ "explorer": "https://bscscan.com/token/0x44ac762dB7E7170A48e895fDC81Bc2e81c188888",
+ "type": "BEP20",
+ "symbol": "ZM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x44ac762dB7E7170A48e895fDC81Bc2e81c188888"
+}
