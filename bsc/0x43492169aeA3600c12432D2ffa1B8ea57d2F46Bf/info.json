@@ -1,0 +1,21 @@
+{
+
+"name": "FTD DAO",
+
+"website": "https://www.ftcdao.com/",
+
+"description": "FTD DAO, as the FTD SWAP Metaverse cross-chain aggregation diversified ecological integration development pass, is based on a diversified aggregation application ecology built by Defi3.0+NFT+Metaverse, constrained by smart contracts, and jointly create, acquire and distribute Distributed blockchain community DAO organization with community value",
+
+"explorer": "https://bscscan.com/token/0x43492169aeA3600c12432D2ffa1B8ea57d2F46Bf",
+
+"type": "BEP20",
+
+"symbol": "FTD",
+
+"decimals": 18,
+
+"status": "active",
+
+"id": "0x43492169aeA3600c12432D2ffa1B8ea57d2F46Bf"
+
+}
