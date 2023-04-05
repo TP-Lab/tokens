@@ -1,0 +1,11 @@
+{
+ "name": "BIYI COIN",
+ "website": "http://www.bycoin.top",
+ "description": "BYC是币易社区生态系统推出的社区凭证，使社区的决策去中心化，同时持有BYC亦可享受社区分红收益。BYC生态：币易社区，币易站，币易商城，币易交易所。社区盈利分配规则：25%回购加池，25%流动性分红，25%核心团队，25%发展基金。",
+ "explorer": "https://bscscan.com/token/0xc524d686a15EE76346dfed180Bc8f803714f284e",
+ "type": "BEP20",
+ "symbol": "BYC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc524d686a15EE76346dfed180Bc8f803714f284e"
+}
