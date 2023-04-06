@@ -1,0 +1,11 @@
+{
+"name": "HunterCoin",
+"website": "https://t.me/HTC20231688",
+"description": "HTC，DAO社区自理，场景元宇宙，公链主网，赋能更多的生态项目。",
+"explorer": "https://bscscan.com/address/0x559f308aA383FAbff56cD24d72177a6CE2C7B801",
+"type": "BEP20",
+"symbol": "HTC",
+"decimals": 18,
+"status": "active",
+"id": "0x559f308aA383FAbff56cD24d72177a6CE2C7B801"
+}
