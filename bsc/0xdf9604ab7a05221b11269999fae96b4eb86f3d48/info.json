@@ -1,0 +1,11 @@
+{
+ "name": "Proof  of  Transaction Coin",
+ "website": "http://smncoin.net/zh/",
+ "description": "POTCoin is the first token of the POT transaction certificate, called POTC for short. It is the only token produced by melting and obtaining the POT computing power value through the transaction of SMN and the POT transaction certificate. The total amount of POTC is scarce, 100% of which is quantitatively produced by smart contracts on a daily basis, and is obtained by the weight of the calculated power value of the POT transaction certificate. In addition, only selling is allowed in the early stage, and no buying is allowed.",
+ "explorer": "https://bscscan.com/token/0xdf9604ab7a05221b11269999fae96b4eb86f3d48",
+ "type": "BEP20",
+ "symbol": "POTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdf9604ab7a05221b11269999fae96b4eb86f3d48"
+}
