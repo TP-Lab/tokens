@@ -1,0 +1,11 @@
+{
+ "name": "Information Exchange Coin",
+ "website": "https://iectoken2.blogspot.com/",
+ "description": "It is hoped that everyone can own their own information and be able to exchange, share and cooperate freely.",
+ "explorer": "https://www.oklink.com/cn/oktc/token/0x5fa2af90cd4a9709ad8c506d94cef247c0cecba9",
+ "type": "KIP20",
+ "symbol": "IEC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5fa2af90cd4a9709ad8c506d94cef247c0cecba9"
+}
