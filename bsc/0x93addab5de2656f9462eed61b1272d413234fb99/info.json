@@ -1,0 +1,11 @@
+{
+ "name": "FMACoin",
+ "website": "http://smncoin.net/zh/",
+ "description": "FMACoin is the second token of the POT transaction certificate, referred to as FMA, which is the only token produced by melting the POT computing power value obtained through the GIN online shopping mall. The total amount of FMA is scarce, 100% of which is quantitatively produced by smart contracts on a daily basis, and is obtained by the weight of the calculated power value of the POT transaction certificate. In addition, only selling is allowed in the early stage, and no buying is allowed.",
+ "explorer": "https://bscscan.com/token/0x93addab5de2656f9462eed61b1272d413234fb99",
+ "type": "BEP20",
+ "symbol": "FMA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x93addab5de2656f9462eed61b1272d413234fb99"
+}
