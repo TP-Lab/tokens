@@ -1,0 +1,11 @@
+{
+ "name": "BAO DAO",
+ "website": "https://test.baodao.app/?utm_source=tokenpocket",
+ "description": "BAO DAO is a competitive gaming platform developed on a publicly verifiable blockchain system.",
+ "explorer": "https://bscscan.com/token/0x9a663845e0e8b025fdc3646a01ec5a49dc9548c6",
+ "type": "BEP20",
+ "symbol": "BAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9A663845e0e8B025Fdc3646A01eC5a49Dc9548c6"
+}
