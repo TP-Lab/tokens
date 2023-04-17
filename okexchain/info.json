@@ -1,0 +1,11 @@
+﻿{
+ "name": "NATIONAL TREND",
+ "website": "https://chaotoken.blogspot.com/",
+ "description": "A national tide cryptocurrency that focuses on building a local nation",
+ "explorer": "https://www.oklink.com/cn/oktc/token/0x46188bad6ce7e56dcf9269bcedceb1b7743d9fde",
+ "type": "KIP20",
+ "symbol": "CHAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x46188bad6cE7e56dCF9269bcEdCEb1b7743d9Fde"
+}
