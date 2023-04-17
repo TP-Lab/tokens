@@ -1,0 +1,11 @@
+{
+ "name": "FFF",
+ "website": "https://fffbank.cn",
+ "description": "FFF Open protocol 的诞生，将从去中心化金融的变革者，逐渐转向去中心化金融行业里的标杆者成为金融重塑的缔造者。",
+ "explorer": "https://bscscan.com/address/0xFb76eD4Bbbb41fB61dA2BeDe1F8d6294ccE6e877",
+ "type": "BEP20",
+ "symbol": FFF
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFb76eD4Bbbb41fB61dA2BeDe1F8d6294ccE6e877"
+}
