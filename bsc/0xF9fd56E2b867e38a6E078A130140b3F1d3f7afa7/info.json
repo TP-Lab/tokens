@@ -1,0 +1,11 @@
+{ 
+"name": "SSA",
+"website": "https://ssat.cc/",
+"description": "SSAT creates the future",
+"explorer": "https://bscscan.com/token/0xF9fd56E2b867e38a6E078A130140b3F1d3f7afa7",
+"type": "BEP20",
+"symbol": "SSA",
+"decimals": 6,
+"status": "active",
+"id": "0xF9fd56E2b867e38a6E078A130140b3F1d3f7afa7"
+}
