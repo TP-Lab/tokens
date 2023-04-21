@@ -1,0 +1,11 @@
+{
+  "name": "PP",
+  "website": "https://ppo/plus/dapp/",
+  "description": "PP is the core economic token in PPO ecosystem, and it is the main medium of exchange in PPO ecosystem.",
+  "explorer": "https://bscscan.com/token/0x13136EB6Bc7516f36a1554ec178612A9f18f1f66",
+  "type": "BEP20",
+  "symbol": "PP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x13136EB6Bc7516f36a1554ec178612A9f18f1f66"
+}
