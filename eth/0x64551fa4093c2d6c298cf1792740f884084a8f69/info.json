@@ -1,0 +1,11 @@
+{
+ "name": "SPGBB",
+ "website": "https://spgbb.com",
+ "description": "SPGBB will become the most powerful memecoin, the strongest leader of Bikini Bottom.",
+ "explorer": "https://etherscan.io/address/0x64551fa4093c2d6c298cf1792740f884084a8f69",
+ "type": "ERC20",
+ "symbol": "SPGBB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x64551fa4093c2d6c298cf1792740f884084a8f69"
+}
