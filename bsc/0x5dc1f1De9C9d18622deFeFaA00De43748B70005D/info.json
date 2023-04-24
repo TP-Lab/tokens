@@ -1,0 +1,11 @@
+{
+ "name": "ACT",
+ "website": ".",
+ "description": "Hong Kong web3 Research Institute jointly founded ACT, which is committed to serving global smes, optimizing capital structure, and building web3 public domain traffic in the digital era to practice the trinity transformation road of "user value-added", "capital value-added" and "consumption value-added".",
+ "explorer": "https://bscscan.com/token/0x5dc1f1De9C9d18622deFeFaA00De43748B70005D",
+ "type": "BEP20",
+ "symbol": "ACT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5dc1f1De9C9d18622deFeFaA00De43748B70005D"
+}
