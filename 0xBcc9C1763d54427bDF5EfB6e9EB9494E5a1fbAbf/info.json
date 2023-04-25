@@ -1,0 +1,11 @@
+{
+  "name": "Honor World Tokens",
+  "website": "https://app.honorworld.io/",
+  "description": "An innovative GameFi platform combines NFT, DEFI and GAME.",
+  "explorer": "https://arbiscan.io/token/0xBcc9C1763d54427bDF5EfB6e9EB9494E5a1fbAbf",
+  "type": "ERC20",
+  "symbol": "HWT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xBcc9C1763d54427bDF5EfB6e9EB9494E5a1fbAbf"
+ }
