@@ -1,0 +1,11 @@
+{ 
+"name": "Promote the development of EOS EVM token",
+"website": "https://cxeos.pro",
+"description": "Promote the development of EOS EVM",
+"explorer": "https://explorer.evm.eosnetwork.com/token/0xB529283cB363703BD7c049D8Cf157249C2bC32dE",
+"type": "EOS-EVM",
+"symbol": "CXE",
+"decimals": 6,
+"status": "active",
+"id": "0xB529283cB363703BD7c049D8Cf157249C2bC32dE"
+}
