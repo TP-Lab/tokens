@@ -1,0 +1,11 @@
+{
+  "name": "CFI Token",
+  "website": "",
+  "description": "來自加密世界的基金總髮行1000億枚50%銷燬50%流通，是由國際VC領域的資深基金經理和電報社區的大V共同發起的DAO基金組織，該加密基金將借鑒傳統共同基金的管理模型，采用封閉式管理運行，並由經驗豐富的私募基金投資人擔任基金管理者。目標是通過基金的統一市值管理，規避目前defi去中心化金融造成的共識基礎差，短期投機盛行，市值波動巨大的弊端。",
+  "explorer": "https://bscscan.com/token/0x8c485b89f29f2641841f8a260896dbc14137fefe",
+  "type": "BEP20",
+  "symbol": "CFI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8c485B89F29F2641841F8A260896DBC14137FEFE"
+}
