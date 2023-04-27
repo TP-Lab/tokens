@@ -1,0 +1,11 @@
+{
+  "name": "AllianceMinePool",
+  "website": "",
+  "description": "Web3去中心化联盟矿池，总量2100万枚99%矿池1%流通，结合传统矿工共识将有效解决Defi股东共识散户共识核心痛点，完美的将区块链顶层的矿工共识和Defi领域最强的股东共识完美的融合，解决Defi领域社区币没有生态的问题，解决Defi领域持币者质量的问题，解决Defi社区币换手率的问题，解决社区布道者现金流经济效应的问题",
+  "explorer": "https://bscscan.com/token/0x33db0Ccb0395C8CC18787c9a3206e995aB5331Ab",
+  "type": "BEP20",
+  "symbol": "AILI",
+  "decimals": 8,
+  "status": "active",
+  "id": "0x33db0Ccb0395C8CC18787c9a3206e995aB5331Ab"
+}
