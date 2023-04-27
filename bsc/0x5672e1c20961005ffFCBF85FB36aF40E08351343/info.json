@@ -1,0 +1,11 @@
+{
+ "name": "YBC",
+ "website": "https://bscscan.com",
+ "description": "YBC creates the future",
+ "explorer": "https://bscscan.com/token/0x5672e1c20961005fffcbf85fb36af40e08351343",
+ "type": "BEP20",
+ "symbol": "YBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5672e1c20961005ffFCBF85FB36aF40E08351343"
+}
