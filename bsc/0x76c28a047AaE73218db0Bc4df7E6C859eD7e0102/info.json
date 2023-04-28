@@ -1,0 +1,11 @@
+{
+  "name": "Plant",
+  "website": "https://webpvz.nbtoken.cn/",
+  "description": "Plant币（中文名称：植物币），是一种加密货币，也是一种支付系统。Plant币最初是植物大战僵尸NFT版的衍生电子货币，后因其适用性广逐渐应用到其他链游产品。Plant币的设计目的是在元宇宙游戏应用中提供一种比信用卡或银行转账等传统方式更快、更便宜、更安全的交换手段。Plant币同时也支持与接受Plant币的供应商交换商品和服务。",
+  "explorer": "https://bscscan.com/token/0x76c28a047AaE73218db0Bc4df7E6C859eD7e0102",
+  "type": "BEP20",
+  "symbol": "Plant",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x76c28a047AaE73218db0Bc4df7E6C859eD7e0102"
+}
