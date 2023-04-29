@@ -1,0 +1,11 @@
+{
+ "name": "Legends",
+ "website": "https://legends.vip/",
+ "description": "LG is the first GameFi game on the Arbitrum network. It is a Web3-based RPG game that offers rich game content and a stable economic model. The game uses decentralized technology, allowing players to have a more free and secure experience in the game while also earning more rewards. The LG game provides players with various challenges, such as battles, exploration, interaction, etc., allowing players to enjoy a more diverse and interesting gaming experience.",
+ "explorer": "https://arbiscan.io/token/0x9c8ef67c9168587134e1f29a71405dc753500a45",
+ "type": "Arbitrum",
+ "symbol": "LG",
+ "decimals": 18 ,
+ "status": "active",
+ "id": "0x9c8eF67C9168587134e1F29a71405DC753500A45"
+}
