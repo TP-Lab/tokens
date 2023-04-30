@@ -1,0 +1,11 @@
+{
+    "name": "KZ",
+    "website": "https://kzkings.cc",
+    "description": "A token",
+    "explorer": "https://bscscan.com/token/0xbBC80cEEF7d09f42f2161B5E19A5A91A56Cc0977",
+    "type": "BEP20",
+    "symbol": "KZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbBC80cEEF7d09f42f2161B5E19A5A91A56Cc0977"
+   }
