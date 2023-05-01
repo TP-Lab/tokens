@@ -1,0 +1,11 @@
+{
+ "name": "FengYi Metaverse",
+ "website": "https://www.fengyi-metaverse.com",
+ "description": "FengYi Metaverse is a group of geeks who pursue extreme freedom. Together with the web3 community, they have created a generation of defi open crypto ecology. FYM is the only token of FengYi Metaverse ecology. It mines through the pos method and dynamically balances the output of algorithms to ensure its scarcity, so as to ensure the common interests of the holders. Through the joint efforts of the community, make the ecology more prosperous and lead the community partners to common prosperity..",
+ "explorer": "https://bscscan.com/token/0x1b3e2293E64f021a81Fd83c72beAC8169FBd52F9",
+ "type": "BEP20",
+ "symbol": "FYM",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x1b3e2293E64f021a81Fd83c72beAC8169FBd52F9"
+}
