@@ -1,0 +1,11 @@
+{
+    "name": "MNLA",
+    "website": "https://www.mayaworld.link/",
+    "description": "Mona Lisa Future World Digital Financial Ecological Industry.",
+    "explorer": "https://bscscan.com/token/0x771acd5aa4B93587d500F9D9145952D494d61E2a",
+    "type": "BEP20",
+    "symbol": "MNLA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x771acd5aa4B93587d500F9D9145952D494d61E2a"
+}
