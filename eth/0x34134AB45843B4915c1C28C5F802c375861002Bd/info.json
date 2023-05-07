@@ -1,0 +1,11 @@
+{
+    "name": "Trumpcoin",
+    "website": "https://trumperc.com/",
+    "description": "We holds a positive attitude towards the trump token, believing it to be a project with potential.\nAccording to our estimation, the valuation of the project will continue to rise, and they plan to hold a certain amount of tokens. Overall, we holds a positive view on the trump token, considering it a project worth paying attention to.",
+    "explorer": "https://etherscan.io/address/0x34134AB45843B4915c1C28C5F802c375861002Bd",
+    "type": "ERC20",
+    "symbol": "Trump",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x34134AB45843B4915c1C28C5F802c375861002Bd"
+   }
