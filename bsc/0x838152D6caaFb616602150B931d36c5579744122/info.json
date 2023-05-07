@@ -1,0 +1,11 @@
+{
+ "name": "CakeDAO",
+ "website": "https://foundation.cakedao.app/",
+ "description": "CakeDAO is a decentralized DAO organization based on the BSC Binance Smart Chain decentralized exchange PancakeSwap platform ecology",
+ "explorer": "https://www.bscscan.com/token/0x838152D6caaFb616602150B931d36c5579744122",
+ "type": "BEP20",
+ "symbol": "CEO",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x838152D6caaFb616602150B931d36c5579744122"
+}
