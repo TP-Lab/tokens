@@ -1,0 +1,11 @@
+{
+ "name": "BananaCoin",
+ "website": ".",
+ "description": "Mafi Crypto is building an entry layer for large-scale adoption of Web3.0, providing tailored mainstream market promotion and Metaverse web3.0 education to develop the community for users and enterprises.",
+ "explorer": "https://bscscan.com/token/0x7985de01B26C1EFaBA8BF4A9971a32dFF8661BfB",
+ "type": "BEP20",
+ "symbol": "Banana",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7985de01B26C1EFaBA8BF4A9971a32dFF8661BfB"
+}
