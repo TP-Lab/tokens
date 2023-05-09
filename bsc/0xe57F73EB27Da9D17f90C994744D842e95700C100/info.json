@@ -1,0 +1,11 @@
+{
+ "name": "Pepe AI",
+ "website": "https://pepe.style",
+ "description": "The most memeable memecoin in existence. It is time for Pepe AI to take reign.",
+ "explorer": "https://bscscan.com/address/0xe57F73EB27Da9D17f90C994744D842e95700C100",
+ "type": "BEP20",
+ "symbol": "PepeAI",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe57F73EB27Da9D17f90C994744D842e95700C100"
+}
