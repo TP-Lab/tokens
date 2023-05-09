@@ -1,0 +1,11 @@
+{
+  "name": "AONC TOKEN",
+  "website": "",
+  "description": "AONC技术透明、安全、高效，其分布式特性建立的数字货币流通生态整合了区块链数字货币平台、区块支付技术、独特的激励体系、专属的智能合约等分布式服务架构，成为一个具备深度延展性的的全球共识自治联盟社区",
+  "explorer": "https://bscscan.com/address/0x24c8A511E84eEB73E5049b4Df631a151676770A2",
+  "type": "BEP20",
+  "symbol": "AONC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x24c8A511E84eEB73E5049b4Df631a151676770A2"
+}
