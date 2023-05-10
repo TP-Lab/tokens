@@ -1,0 +1,11 @@
+{
+ "name": "SGU",
+ "website": "https://star-gate.vercel.app",
+ "description": "StargateUniverse（中文叫星際之門）StargateUniverse是一家遊戲公司，最近獲得了AloriMarketing公司投資的268萬美元。這項投資旨在加速StargateUniverse區塊鏈遊戲生態系統的發展。它是第一個在ARB鏈上集GameFi、DeFi和NFT於一體的創新生態平台項目，致力於為用戶提供一個完整的虛擬世界體驗。",
+ "explorer": "https://arbiscan.io/address/0x098eb70D57E813BFb4Fc086597d50EB199220948",
+ "type": "arbitrum",
+ "symbol": "SGU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x098eb70D57E813BFb4Fc086597d50EB199220948"
+}
