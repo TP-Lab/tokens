@@ -1,0 +1,11 @@
+{
+ "name": "Meta Mine Token",
+ "website": "https://bscscan.com/token/0xd4ba6f381fa7413a0410a6a019cbe0f20cdc4536#code",
+ "description": "MPT",
+ "explorer": "https://bscscan.com/token/0xd4ba6f381fa7413a0410a6a019cbe0f20cdc4536",
+ "type": "BEP20",
+ "symbol": "MPT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd4BA6F381fA7413A0410A6a019cbE0f20cDC4536"
+}
