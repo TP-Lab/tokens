@@ -1,0 +1,11 @@
+{
+ "name": "Piao",
+ "website": "https://bscscan.com/token/0x68973e906a64b283ac90eb88cd561ba6c6681103#code",
+ "description": "piao will moon",
+ "explorer": "https://bscscan.com/token/0x68973e906a64b283ac90eb88cd561ba6c6681103",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x68973E906A64b283aC90eB88CD561Ba6C6681103"
+}
