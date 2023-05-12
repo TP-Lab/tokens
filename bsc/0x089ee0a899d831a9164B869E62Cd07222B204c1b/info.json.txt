@@ -1,0 +1,11 @@
+{
+ "name": "BNBPepe",
+ "website": "https://bnbpepe.finance",
+ "description": "The newest memecoin on the market is called BNBPepe, and it features everyone's favorite frustrated frog.",
+ "explorer": "https://bscscan.com/token/0x089ee0a899d831a9164B869E62Cd07222B204c1b",
+ "type": "BEP20",
+ "symbol": "BNBPepe",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x089ee0a899d831a9164B869E62Cd07222B204c1b"
+}
