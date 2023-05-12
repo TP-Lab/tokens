@@ -1,0 +1,11 @@
+{
+ "name": "HB Token",
+ "website": "https://bscscan.com/token/0xe71777663de598011ce5b570b53e4f999015eae5",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xe71777663de598011ce5b570b53e4f999015eae5",
+ "type": "BEP20",
+ "symbol": "HB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe71777663dE598011CE5b570b53e4f999015eaE5"
+}
