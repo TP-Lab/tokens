@@ -1,0 +1,11 @@
+{
+ "name": " PEQI Token",
+ "website": "https://bscscan.com/token/0xbf2f3084b0050a318ba04b9569db34f84832183d",
+ "description": "PEQI.",
+ "explorer": "https://bscscan.com/token/0xbf2f3084b0050a318ba04b9569db34f84832183d",
+ "type": "BEP20",
+ "symbol": "PEQI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbF2F3084B0050A318bA04b9569dB34f84832183D"
+}
