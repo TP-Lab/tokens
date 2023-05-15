@@ -1,0 +1,11 @@
+{
+ "name": "EEG Token",
+ "website": "https://eeg.being.com/",
+ "description": "EEG Application Token Protocol - Empower your application to take flight. Rewards are just part of the empowerment, but also application empowerment!",
+ "explorer": "https://bscscan.com/token/0x663C51ff62632b72aa794b14e4aD452bf1847a57",
+ "type": "BEP20",
+ "symbol": "EEG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x663C51ff62632b72aa794b14e4aD452bf1847a57"
+}
