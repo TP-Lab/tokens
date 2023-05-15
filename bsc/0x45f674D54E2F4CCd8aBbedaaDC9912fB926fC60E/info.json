@@ -1,0 +1,11 @@
+{
+ "name": "USDB",
+ "website": "https://www.mayaworld.link/",
+ "description": "USDB TOKEN.",
+ "explorer": "https://bscscan.com/token/0x45f674D54E2F4CCd8aBbedaaDC9912fB926fC60E",
+ "type": "BEP20",
+ "symbol": "USDB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x45f674D54E2F4CCd8aBbedaaDC9912fB926fC60E"
+}
