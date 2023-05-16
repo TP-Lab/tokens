@@ -1,0 +1,11 @@
+{
+  "name": "FistToken",
+  "website": "",
+  "description": "A token that revitalizes the glorious legend of the Pangu Community.",
+  "explorer": "https://bscscan.com/address/0x6fc7c4537b4027d49b900f73adb0b1cb47e9a7c2",
+  "type": "BEP20",
+  "symbol": "FIST",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6fC7c4537b4027d49B900F73aDb0b1CB47E9a7c2"
+}
