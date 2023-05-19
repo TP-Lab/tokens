@@ -1,0 +1,11 @@
+{
+    "name": "PromptCoin",
+    "website": "https://bscscan.com/token/0xBF7BCD493309caADCCF41eb756Aa703c906671a9#code",
+    "description": "PromptCoin",
+    "explorer": "https://bscscan.com/token/0xBF7BCD493309caADCCF41eb756Aa703c906671a9",
+    "type": "BEP20",
+    "symbol": "PC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBF7BCD493309caADCCF41eb756Aa703c906671a9"
+}
