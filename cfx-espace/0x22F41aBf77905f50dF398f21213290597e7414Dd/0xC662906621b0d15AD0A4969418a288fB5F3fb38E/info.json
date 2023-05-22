@@ -1,0 +1,11 @@
+{
+ "name": "Cfxking",
+ "website": "www.cfxking.com",
+ "description": "A leading project on Conflux Network which aims at promoting Chinese traditional culture",
+ "explorer": "https://evm.confluxscan.io/token/0xc662906621b0d15ad0a4969418a288fb5f3fb38e",
+ "type": "ERC20",
+ "symbol": "Cfxking",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC662906621b0d15AD0A4969418a288fB5F3fb38E"
+}
