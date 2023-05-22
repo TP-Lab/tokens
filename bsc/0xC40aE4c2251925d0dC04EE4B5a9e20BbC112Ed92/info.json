@@ -1,0 +1,11 @@
+{
+ "name": "Jesus Coin",
+ "website": "https://jesus.immo",
+ "description": "Jesus Christ forgives your sins, redeems your bad trades, and blesses you with heavenly riches.",
+ "explorer": "https://bscscan.com/token/0xC40aE4c2251925d0dC04EE4B5a9e20BbC112Ed92",
+ "type": "BEP20",
+ "symbol": "JESUS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC40aE4c2251925d0dC04EE4B5a9e20BbC112Ed92"
+}
