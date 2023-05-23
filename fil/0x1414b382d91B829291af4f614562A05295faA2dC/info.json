@@ -1,0 +1,11 @@
+{
+ "name": "VFNS",
+ "website": "-",
+ "description": "VFNS is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value",
+ "explorer": "https://filscan.io/address/general?address=0x1414b382d91B829291af4f614562A05295faA2dC",
+ "type": "Filecoin FVM",
+ "symbol": "VFNS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1414b382d91B829291af4f614562A05295faA2dC"
+}
