@@ -1,10 +1,10 @@
 {
- "name": “NATDigit",
+ "name": "NATDigit",
  "website": "http://zsnl.com.cn/",
  "description": "NATD is a stability card issued by the C Plan platform, designed to facilitate the usage and flow of C Plan users. NATD utilizes integrated technologies such as blockchain, big data, artificial intelligence, and cryptographic security to create a new value exchange system that is secure, efficient, autonomous, stable, user-friendly, and transparent.",
  "explorer": "https://cn.etherscan.com/address/0xe2030c4C2e2B2Ad64F3b3d7b57c8b14Fc0BcbF5D",
- "type": “ERC20",
- "symbol": "NATD”,
+ "type": "ERC20",
+ "symbol": "NATD",
  "decimals": 2,
  "status": "active",
  "id": "0xe2030c4C2e2B2Ad64F3b3d7b57c8b14Fc0BcbF5D"
