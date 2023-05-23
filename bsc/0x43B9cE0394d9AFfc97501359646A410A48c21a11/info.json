@@ -1,0 +1,11 @@
+{
+ "name": "Pepecoin",
+ "website": "https://pepecoin.rocks",
+ "description": "The most memeable memecoin in existence. The dogs have had their day, it is time for Pepe to take reign.",
+ "explorer": "https://bscscan.com/token/0x43B9cE0394d9AFfc97501359646A410A48c21a11",
+ "type": "BEP20",
+ "symbol": "PEPE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x43B9cE0394d9AFfc97501359646A410A48c21a11"
+}
