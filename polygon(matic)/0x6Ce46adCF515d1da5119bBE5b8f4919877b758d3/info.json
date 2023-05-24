@@ -1,0 +1,11 @@
+{
+ "name": "Nature Token",
+ "website": "http://zsnl.com.cn/",
+ "description": "The NATC token is a green consumption, loyalty points, and platform community reward token based on the blockchain technology. It is used to encourage consumers to receive rewards for making green consumption choices. It helps promote green consumption among consumers, rewards users for participating in community activities, and promotes the sustainable development of the platform. The core technology of the NATC token is blockchain technology, which ensures its security and credibility. It also combines the elements of technology and environmental protection to make a contribution to green consumption and sustainable development.",
+ "explorer": "https://polygonscan.com/address/0x6ce46adcf515d1da5119bbe5b8f4919877b758d3",
+ "type": "ERC20",
+ "symbol": "NATC",
+ "decimals": 2,
+ "status": "active",
+ "id": "0x6Ce46adCF515d1da5119bBE5b8f4919877b758d3"
+}
