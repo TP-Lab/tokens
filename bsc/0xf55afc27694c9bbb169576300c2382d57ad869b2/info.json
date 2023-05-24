@@ -1,0 +1,11 @@
+{
+ "name": "HongKong BTC bank",
+ "website": "https://hkswap.com/",
+ "description": "HongKong BTC bank Digital Research Institute Blockchain service platform (HK for short)",
+ "explorer": "https://bscscan.com/token/0xf55afc27694c9bbb169576300c2382d57ad869b2",
+ "type": "BEP20",
+ "symbol": "HKB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf55afc27694c9bbb169576300c2382d57ad869b2"
+}
