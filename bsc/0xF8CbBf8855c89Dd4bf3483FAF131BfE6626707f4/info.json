@@ -1,0 +1,11 @@
+{
+ "name": "Lucky Charm",
+ "website": "https://bscscan.com/token/0xF8CbBf8855c89Dd4bf3483FAF131BfE6626707f4",
+ "description": "Lucky Charm Coin.",
+ "explorer": "https://bscscan.com/token/0xF8CbBf8855c89Dd4bf3483FAF131BfE6626707f4",
+ "type": "BEP20",
+ "symbol": "LC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF8CbBf8855c89Dd4bf3483FAF131BfE6626707f4"
+}
