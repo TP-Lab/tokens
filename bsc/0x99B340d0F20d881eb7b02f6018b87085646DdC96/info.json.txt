@@ -1,0 +1,11 @@
+{
+ "name": "PEPESPORT",
+ "website": "https://pepesport.finance/",
+ "description": "PEPESport, who loves sports, will always move forward and fly to the moon!",
+ "explorer": "https://bscscan.com/address/0x99b340d0f20d881eb7b02f6018b87085646ddc96",
+ "type": "BEP20",
+ "symbol": "PEPESport",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x99B340d0F20d881eb7b02f6018b87085646DdC96"
+}
