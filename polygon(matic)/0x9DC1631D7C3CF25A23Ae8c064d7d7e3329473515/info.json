@@ -1,0 +1,11 @@
+{
+ "name": "NATPlus",
+ "website": "http://zsnl.com.cn/",
+ "description": "NATP is a innovative option issued by the C-计划 platform. The vision of NATP is to build a future digital society community that coexists with the virtual and real worlds, where new technologies such as big data, artificial intelligence, and blockchain are deeply integrated and applied. Using a completely digital operating model, NATP digitizes tangible and intangible assets, as well as real-world economic application scenarios, to provide digital empowerment for people's owned assets, certificates, abilities, and other tangible and intangible assets.",
+ "explorer": "https://polygonscan.com/address/0x9dc1631d7c3cf25a23ae8c064d7d7e3329473515",
+ "type": "ERC20",
+ "symbol": "NATP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9DC1631D7C3CF25A23Ae8c064d7d7e3329473515"
+}
