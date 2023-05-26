@@ -7,5 +7,5 @@
  "symbol": "Candylad",
  "decimals": 18,
  "status": "active",
- "id": "0x99B340d0F20d881eb7b02f6018b87085646DdC96"
+ "id": "0x141e84a470A5243689D3beB47777FbAe9636FA61"
 }
