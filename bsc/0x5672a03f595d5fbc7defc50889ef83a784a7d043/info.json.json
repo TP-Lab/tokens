@@ -1,0 +1,11 @@
+{
+  "name": "DESIR",
+  "website": "https://defi-desir.com/",
+  "description": "At DESIR, we are driven by the vision of a financially inclusive world powered by blockchain. Let's decentralize wealth together!",
+  "explorer": "https://bscscan.com/token/0x5672a03f595d5fbc7defc50889ef83a784a7d043",
+  "type": "BEP20",
+  "symbol": "DESIR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5672a03f595d5fbc7defc50889ef83a784a7d043"
+}
