@@ -1,0 +1,10 @@
+{
+ "name": "DCTNFT",
+ "website": "http://web.dcttoken.com/",
+ "description": "The NFT products of DCT tokens bring more opportunities to the fields of digital art, gaming, and virtual reality. By leveraging artificial intelligence technology, DCT can continuously expand the applications of NFTs to meet a broader range of needs.",
+ "explorer": "https://etherscan.io/token/0x44BC04d8011c3d896e599eC5628d1311BaAf86aA",
+ "type": "ERC721",
+ "symbol": "DCTNFT",
+ "status": "active",
+ "id": "0x44BC04d8011c3d896e599eC5628d1311BaAf86aA"
+}
