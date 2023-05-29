@@ -1,0 +1,11 @@
+{
+    "name": "FILS",
+    "website": "",
+    "description": "FILS was jointly initiated by FIL's early developer team and multiple global institutions in collaboration with global financial professionals. The FILS open source contract is the first smart contract DAO ecological governance token based on Filecoin!",
+    "explorer": "https://bscscan.com/token/0x16bB423aeAD78491b9B4b0789eBdf208b61E848A",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "FILS",
+    "status": "active",
+    "id": "0x16bB423aeAD78491b9B4b0789eBdf208b61E848A"
+}
