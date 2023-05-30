@@ -1,0 +1,15 @@
+{
+ "name": "PANDA",
+ "website": "https://pan-daclam-wlg4qm.mystrikingly.com
+ ",
+ "description": "Hello everyone! My name is giant panda, and I am a kind of naive animal, well-behaved and docile, very lovable.
+
+
+We have the same face as a cat, with a pair of sunglasses on our eyes, a fat body, black and white, and fluffy limbs. On our silly face, there are a pair of neat black ears, which stand up as if wearing a hat. Snow hat, handsome enough! I am about 140 cm long, weigh 80 kg, have 6 fingers, and have a light brown abdomen. Is it trendy? We generally live in the high mountains and deep valleys in the upper reaches of the Yangtze River, because we are a kind of wet animals, so our habitat has a warm and cool climate, and the humid normal temperature is above 80 degrees. I live in a mountain depression, because the soil here is fertile, the forest is lush, and the most important thing is that the arrow bamboo grows well, so this is our home.",
+ "explorer": "https://bscscan.com/token/0x577fd39fcd328336b0d3728660bc4dd371758830",
+ "type": "BEP20",
+ "symbol": "PANDA",
+ "decimals": 18,
+ "status": "",
+ "id": "0x577fd39fcd328336b0d3728660bc4dd371758830"
+}
