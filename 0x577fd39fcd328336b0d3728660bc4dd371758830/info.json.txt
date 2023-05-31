@@ -1,0 +1,12 @@
+
+{
+  ¡°name¡±£º¡°PANDA¡±£¬
+  ¡°website¡±£º¡° https://pan-daclam-wlg4qm.mystrikingly.com ¡±£¬
+  "description" : "PANDA is a platform dedicated to providing global users with the latest information on short selling projects. Our goal is to help investors find the most promising cryptocurrencies while promoting the healthy development of the blockchain ecosystem",
+  ¡°Explorer¡±£º¡° https://bscscan.com/token/0x577fd39fcd328336b0d3728660bc4dd371758830",
+  ¡°type¡±£º¡° BEP20 ¡±£¬
+  ¡°symbol¡±£º¡°PANDA¡±£¬
+  ¡°decimal¡±£º18£¬
+  ¡°status¡±£º¡°active¡±£¬
+  ¡°id¡±£º¡°0x577fd39fcd328336b0d3728660bc4dd371758830¡±
+}
