@@ -1,0 +1,11 @@
+{
+    “名称”：“PANDA”，
+    “网站”：“ https://pan-daclam-wlg4qm.mystrikingly.com”，
+    "description" : " PANDA是一个致力于为全球用户提供卖空项目最新信息的平台。我们的目标是帮助投资者找到最有前途的加密货币，同时促进区块链生态系统的健康发展”，
+    “探索者”：“https://bscscan.com/token/0x577fd39fcd328336b0d3728660bc4dd371758830”，
+    “类型”：“ BEP20 ”，
+    “符号”：“ PANDA ”，
+    “小数”：18，
+    “状态”：“活跃”，
+    “ID”：“0x577fd39fcd328336b0d3728660bc4dd371758830”
+}
