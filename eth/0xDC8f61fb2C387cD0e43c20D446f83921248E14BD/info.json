@@ -1,0 +1,11 @@
+{
+    "name": "uworldcoin",
+    "symbol": "UWC",
+    "type": "ERC20",
+    "decimals": 5,
+    "description": "the UWC currency policies and economic model are designed to ensure a stable and secure network with balanced economic growth.",
+    "website": "https://uworldcoin.org",
+    "explorer": "https://etherscan.io/address/0xDC8f61fb2C387cD0e43c20D446f83921248E14BD",
+    "status": "active",
+    "id": "0xDC8f61fb2C387cD0e43c20D446f83921248E14BD"
+}
