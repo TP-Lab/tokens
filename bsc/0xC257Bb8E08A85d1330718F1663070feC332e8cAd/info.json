@@ -1,0 +1,11 @@
+{
+    "name": "UTODAO",
+    "website": "",
+    "description": "UTODAO open source, independent decentralized application.",
+    "explorer": "https://bscscan.com/token/0xC257Bb8E08A85d1330718F1663070feC332e8cAd",
+    "type": "BEP20",
+    "symbol": "UTODAO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC257Bb8E08A85d1330718F1663070feC332e8cAd"
+   }
