@@ -1,0 +1,11 @@
+{
+ "name": "Nie Pan Community",
+ "website": "https://npc.pro",
+ "description": "NPC DAO为了寻求更加安全健康市场发展路径，审时度势，本着“非梧桐而不栖”的原则“愿天下没有难做的散户”为愿景，成立了凤凰社区",
+ "explorer": "https://bscscan.com/address/0x08ff89cdb1f939aaa0e94fdbc805b1a10d413983",
+ "type": "BEP20",
+ "symbol": "NPC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x08FF89Cdb1F939Aaa0e94fdBc805b1a10D413983"
+}
