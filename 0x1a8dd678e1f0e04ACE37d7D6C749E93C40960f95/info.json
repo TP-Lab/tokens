@@ -1,0 +1,11 @@
+{
+ "name": "Tech Finger Index",
+ "website": "http://www.techfinger.ai/",
+ "description": "TFI is an index pass based on Tech-Finger's issuance and is dedicated to creating a vast ecosystem of the web3 gaming industry, a distributed and trusted ledger for every gamer, one that can be renewed but not tampered with.",
+ "explorer": "https://arbiscan.io/address/0x1a8dd678e1f0e04ACE37d7D6C749E93C40960f95#comments",
+ "type": Arbitrum one",
+ "symbol": "TFI",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x1a8dd678e1f0e04ACE37d7D6C749E93C40960f95"
+}
