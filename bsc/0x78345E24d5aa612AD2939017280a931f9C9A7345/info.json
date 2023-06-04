@@ -1,0 +1,11 @@
+﻿{
+"name": "BRT",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0x78345E24d5aa612AD2939017280a931f9C9A7345",
+ "type": "BEP20",
+ "symbol": "BRT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x78345E24d5aa612AD2939017280a931f9C9A7345"
+}
