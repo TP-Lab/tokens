@@ -1,0 +1,11 @@
+{
+  "name": "SFT",
+  "website": "https://www.sftproject.io/",
+  "description": "The SFT provides LSD products that focus on storage and computing blockchains, such as Filecoin, among others, while building Web3 infrastructure ecosystems",
+  "explorer": "https://bscscan.com/token/0xF9Dc0A2FB541C29026A798D116B2c6804DA1cAAa",
+  "type": "BEP20",
+  "symbol": "SFT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xF9Dc0A2FB541C29026A798D116B2c6804DA1cAAa"
+ }
