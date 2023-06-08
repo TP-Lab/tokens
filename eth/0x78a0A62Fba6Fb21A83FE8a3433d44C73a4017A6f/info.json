@@ -1,0 +1,11 @@
+{
+ "name": "Open Exchange Token",
+ "website": "https://opnx.com/",
+ "description": "OX introduces an innovative new exchange token model & is the heart of the Open Ecosystem, comprising OPNX.com, The Herd, & a host of upcoming products.",
+ "explorer": "https://etherscan.io/token/0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f",
+ "type": "ERC20",
+ "symbol": "OX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x78a0A62Fba6Fb21A83FE8a3433d44C73a4017A6f"
+}
