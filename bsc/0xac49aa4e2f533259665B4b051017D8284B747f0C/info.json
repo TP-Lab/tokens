@@ -1,0 +1,11 @@
+{
+ "name": "Panda",
+ "website": "..",
+ "description": "Panda is a decentralized blockchain project aimed at achieving fairness and justice. The project is initiated by Panda BaBa and employs smart contracts to manage all mechanisms, ensuring security and stability.",
+ "explorer": "https://bscscan.com/token/0xac49aa4e2f533259665B4b051017D8284B747f0C",
+ "type": "BEP20",
+ "symbol": "Panda",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xac49aa4e2f533259665B4b051017D8284B747f0C"
+}
