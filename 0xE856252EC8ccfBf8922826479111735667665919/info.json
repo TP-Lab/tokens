@@ -1,0 +1,11 @@
+{
+ "name": "CDC",
+ "website": "https://www.cdc1689.com/",
+ "description": "CDC DAO",
+ "explorer": "https://bscscan.com/address/0xE856252EC8ccfBf8922826479111735667665919",
+ "type": "BEP20",
+ "symbol": "CDC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE856252EC8ccfBf8922826479111735667665919"
+}
