@@ -1,0 +1,11 @@
+{
+ "name": "FollowX",
+ "website": "https://dapp.followx.pro/home/",
+ "description": "FollowX is a decentralized perpetual contract exchange built on the ARB network.",
+ "explorer": "https://bscscan.com/address/0x8bb0d6fe0061b5f46742415bea3621f4af01f9c7",
+ "type": "BEP20",
+ "symbol": "FTD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8bB0D6fe0061b5F46742415BEA3621F4AF01f9c7"
+}
