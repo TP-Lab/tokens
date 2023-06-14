@@ -1,0 +1,11 @@
+{
+"name": "Pin Token",
+"website": "",
+"description": "PinSwap is dedicated to creating a convenient and efficient, comparably clear, and lower-slippage GameFi multi-chain decentralized trading system for users.",
+"explorer": "https://bscscan.com/token/0xB86126b872E3F23bC62D6A4a3152Ec65202a2073",
+"type": "BEP20",
+"symbol": "PIN",
+"decimals": 18,
+"status": "active",
+"id": "0xB86126b872E3F23bC62D6A4a3152Ec65202a2073"
+}
