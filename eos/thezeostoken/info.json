@@ -1,11 +1,12 @@
 {
-    "name":"ZEOS On EOS Blockchain",
-    "website":"http://www.zeos.one",
-    "description":"ZEOS - zk-SNARKs Privacy on the EOS Blockchain.",
-    "explorer":"https://bloks.io/tokens/ZEOS-eos-thezeostoken",
+    "name":"ZEOS",
+    "website":"http://zeos.one",
+    "description":"ZEOS enables private transactions for fungible and non-fungible assets on the EOS
+    blockchain",
+    "explorer":"https://bloks.io/tokens/ZEOS-eos-thezeostoken#charts",
     "type":"EOS",
     "symbol":"ZEOS",
-    "decimals":4,
+    "decimals":8,
     "status":"active",
-    "id":"https://bloks.io/tokens/ZEOS-eos-thezeostoken"
+    "id":"https://bloks.io/tokens/ZEOS-eos-thezeostoken#charts"
 }
