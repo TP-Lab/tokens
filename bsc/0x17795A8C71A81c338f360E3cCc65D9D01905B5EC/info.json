@@ -1,0 +1,11 @@
+{
+ "name": "FCC",
+ "website": "NONE",
+ "description": "FCC TOKEN",
+ "explorer": "https://bscscan.com/token/0x17795a8c71a81c338f360e3ccc65d9d01905b5ec",
+ "type": "BEP20",
+ "symbol": "FCC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x17795A8C71A81c338f360E3cCc65D9D01905B5EC"
+}
