@@ -1,0 +1,11 @@
+{
+ "name": "Btcitrum",
+ "website": "-",
+ "description": "Btcitrum是一种基于BSC的BTC二层网络协议，同时还引入了BtcitrumEVM，旨在实现不同区块链之间的无缝交互和资产转移。该协议采用Layer 2技术和隐私保护机制，可以提高交易速度、降低手续费，通过Btcitrum，用户可以在比特币和BSC之间进行高效、低成本的跨链交易和资产转移。",
+ "explorer": "https://bscscan.com/address/0xae343D670B4eA573F4953C22dcB9cBFb65426164",
+ "type": "BEP20",
+ "symbol": " BTC ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xae343D670B4eA573F4953C22dcB9cBFb65426164"
+}
