@@ -1,0 +1,11 @@
+{
+ "name": "UIV",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/address/0x8dcc097edde59d36cc4483085c3d92f6820d77b3",
+ "type": "BEP20",
+ "symbol": "UIV",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8dCC097EdDE59D36CC4483085c3D92F6820D77b3"
+}
