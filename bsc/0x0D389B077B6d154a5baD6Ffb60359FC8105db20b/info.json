@@ -1,0 +1,11 @@
+{
+ "name": "WIFI",
+ "website": "-",
+ "description": "WIFI is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x0D389B077B6d154a5baD6Ffb60359FC8105db20b",
+ "type": "BEP20",
+ "symbol": " WIFI ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0D389B077B6d154a5baD6Ffb60359FC8105db20b"
+}
