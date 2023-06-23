@@ -1,0 +1,11 @@
+{
+ "name": "FeiTian",
+ "website": "-",
+ "description": "FeiTian is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x33C7405F9A65f8AEF2c2F446B3e654adb1eF14f3",
+ "type": "BEP20",
+ "symbol": "FT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x33C7405F9A65f8AEF2c2F446B3e654adb1eF14f3"
+}
