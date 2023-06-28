@@ -1,0 +1,11 @@
+{
+ "name": "SK",
+ "website": "-",
+ "description": "SK is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x65eddE754e0F7a9805cf45A69D894127F37cF1e2",
+ "type": "BEP20",
+ "symbol": "SK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x65eddE754e0F7a9805cf45A69D894127F37cF1e2"
+}
