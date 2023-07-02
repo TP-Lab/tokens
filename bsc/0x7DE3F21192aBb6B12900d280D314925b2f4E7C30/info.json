@@ -1,0 +1,11 @@
+{
+ "name": "mizun",
+ "website": "-",
+ "description": "mizun is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x7de3f21192abb6b12900d280d314925b2f4e7c30",
+ "type": "BEP20",
+ "symbol": " mizun ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7de3f21192abb6b12900d280d314925b2f4e7c30"
+}
