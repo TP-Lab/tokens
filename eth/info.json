@@ -1,0 +1,11 @@
+{
+ "name": "Tether us",
+ "website": "https://www.smartcontract.ink",
+ "description": "Knight (KKC) is a digital asset issued by the Knight Foundation of the United States based on the Ethereum ERC-20 protocol.",
+ "explorer": "https://etherscan.io/token/0x9477f48a278909A94D8cd9480dFA85D07103F004",
+ "type": "ERC20",
+ "symbol": "usdt",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9477f48a278909A94D8cd9480dFA85D07103F004"
+}
