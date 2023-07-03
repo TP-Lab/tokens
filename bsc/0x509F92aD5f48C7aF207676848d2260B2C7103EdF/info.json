@@ -1,0 +1,11 @@
+{
+ "name": "FIZ",
+ "website": "https://thefizz.io",
+ "description": "FIZ is a Decentralized Financial Service (DaaS) platform, founded and developed by a DAO organization that leverages AI comprehensive analysis technology to drive the development of the crypto-tech finance industry.",
+ "explorer": "https://bscscan.com/token/0x509F92aD5f48C7aF207676848d2260B2C7103EdF",
+ "type": "BEP20",
+ "symbol": "FIZ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x509F92aD5f48C7aF207676848d2260B2C7103EdF"
+}
