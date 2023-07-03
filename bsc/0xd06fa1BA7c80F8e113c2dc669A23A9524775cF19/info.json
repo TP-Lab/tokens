@@ -1,0 +1,11 @@
+{
+ "name": "DKP Token",
+ "website": "http://dkp.fyi/",
+ "description": "Decentralized Nation aims to create a comprehensive platform integrating transactions, NFT, and blockchain games. The local currency adopts liquidity mining, which is fair, just, open and transparent.",
+ "explorer": "https://bscscan.com/address/0xd06fa1BA7c80F8e113c2dc669A23A9524775cF19",
+ "type": "BEP20",
+ "symbol": "DKP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd06fa1BA7c80F8e113c2dc669A23A9524775cF19"
+}
