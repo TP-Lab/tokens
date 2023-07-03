@@ -1,0 +1,11 @@
+{
+ "name": "TVN",
+ "website": "https://www.travelleroffice.com",
+ "description": "TVN is a global travel network that aggregates travel incentives and Web3 cultural tourism services.",
+ "explorer": "https://www.bscscan.com/token/0x90faE8eCAAb142f0259E1e22D597AF7cF550dADB",
+ "type": "BEP20",
+ "symbol": "TVN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x90faE8eCAAb142f0259E1e22D597AF7cF550dADB"
+}
