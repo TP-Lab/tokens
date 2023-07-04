@@ -1,0 +1,11 @@
+{
+  "name": "Byc",
+  "website": "https://boyoulsh.com/",
+  "description": "通证Byc （中文名称：通证Byc），是基于web3.0加密数字权益凭证，也是交易和支付系统。通证Byc最初是绿色积分消费产出的权益凭证，后来因其生态增加、逐渐适用到所有新消费场景和生态。通证Byc设计的目的是在Web3.0和通证经济的运用中提供一种比信用和权益凭证，也是一种比银行转账、信用卡支付等传统方式更快、更便宜、更安全的交换手段。通证Byc同時也支持与接受通证Byc的供应商和生态圈交换商品和服务。多个web3.0的生态应用都围绕通证Byc展开，支持通证Byc完成商业闭环。",
+  "explorer": "https://bscscan.com/address/0x5d1e63d50d4c54ca5b2f046ff0c88afa1b07fce8",
+  "type": "BEP20",
+  "symbol": "BYC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5D1e63d50D4C54CA5b2F046fF0C88AFa1b07fCe8"
+}
