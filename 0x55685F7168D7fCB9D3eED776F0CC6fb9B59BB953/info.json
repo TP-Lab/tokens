@@ -1,0 +1,11 @@
+{ 
+"name": "Bri",
+"website": "https://aipowerdex.com/",
+"description": "AI POWER DEX perfectly integrates creation and technology, and creates an open Web3.Al+ creation aggregator based on BrainAI supercomputing system ",
+"explorer": "https://bscscan.com/address/0x55685F7168D7fCB9D3eED776F0CC6fb9B59BB953",
+"type": "BEP20",
+"symbol": "Bri",
+"decimals": 18,
+"status": "active",
+"id": "0x55685F7168D7fCB9D3eED776F0CC6fb9B59BB953"
+}
