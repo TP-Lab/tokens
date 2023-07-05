@@ -1,0 +1,11 @@
+{
+   "name": "MetaMediaLab Governance Token",
+   "website": "https://meta-media.cc",
+   "description": "Meta Media Lab is a Web3.0 aggregation platform integrating media, encyclopedia, education and social networking, dedicated to providing an open and efficient interactive platform for the industry.",
+   "explorer": "https://bscscan.com/address/0x6f9fe48e07bf8687d87e7fc97cf84204b67260b8",
+   "type": "BEP20",
+   "symbol": "MGT",
+   "decimals": 8,
+   "status": "active",
+   "id": "0x6f9fe48e07bf8687d87e7fc97cf84204b67260b8"
+}
