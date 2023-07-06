@@ -1,0 +1,11 @@
+{
+ "name": "IoT coin",
+ "website": "http://Awww.iota.org",
+ "description": "Supercomputer IOTC, computing power sharing is a smart contract incentive layer built on distributed networks, IOTC will build a more complete, large and low-cost, more efficient cloud computing pool (AIGC), different from the traditional centralized computing network and cloud computing network assets, IOTC will create the world's largest supercomputing cluster resource pool.",
+ "explorer": "https://bscscan.com/token/0x307C5C9a010a2aC3B69cd74B373b575AcC04A57c",
+ "type": "BEP20",
+ "symbol": "IOTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x307C5C9a010a2aC3B69cd74B373b575AcC04A57c"
+}
