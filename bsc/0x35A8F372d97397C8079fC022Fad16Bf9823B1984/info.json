@@ -1,0 +1,11 @@
+{
+ "name": "MUMU",
+ "website": "-",
+ "description": "MUMU is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x35A8F372d97397C8079fC022Fad16Bf9823B1984",
+ "type": "BEP20",
+ "symbol": " MUMU ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x35A8F372d97397C8079fC022Fad16Bf9823B1984"
+}
