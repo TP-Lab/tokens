@@ -1,0 +1,11 @@
+{
+ "name": "CRAZYRABBIT",
+ "website": "https://www.crazynftsgames.com",
+ "description": "CRAZYRABBIT GAME.",
+ "explorer": "https://arbiscan.io/address/0x5de9D41bbfcd7B1fa0dEF82A906FF9604B292E58",
+ "type": "Arbitrum",
+ "symbol": "CRAZYRABBIT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5de9D41bbfcd7B1fa0dEF82A906FF9604B292E58"
+}
