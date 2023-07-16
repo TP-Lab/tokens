@@ -1,0 +1,11 @@
+{
+ "name": "GPTT",
+ "website": "https://gptt.ai",
+ "description": "GPTT is an AI intelligent application platform based on Web3. $GPTT is a utility token of GPTT ecology.",
+ "explorer": "https://bscscan.com/token/0x3A11165F7f4bFbd57272c447E9846832405806f1",
+ "type": "BEP20",
+ "symbol": "GPTT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3A11165F7f4bFbd57272c447E9846832405806f1"
+}
