@@ -1,0 +1,11 @@
+{
+ "name": "X-MASK Token",
+ "website": "https://www.x-mask.com/",
+ "description": "X-MASK is a community oriented web 3.0 application ecosystem platform based on blockchain technology, linking blockchain with the real world to build a prosperous web 3.0 commercial application ecosystem. Established X-Capital and X-Labs, focusing on investment and incubation in the De Fi, NFT, and Game Fi sectors, to explore and cultivate more high-quality Web 3.0 projects.",
+ "explorer": "https://bscscan.com/token/0xb0cb8dd3b2aa9558ba632a350e242f58d2e289b0",
+ "type": "BEP20",
+ "symbol": "XMC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb0CB8dd3B2aa9558bA632A350E242f58D2E289b0"
+}
