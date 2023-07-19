@@ -1,0 +1,11 @@
+{
+  "name": "Metabank coin",
+  "website": ".",
+  "description": ".",
+  "explorer": "https://bscscan.com/token/0x32BbB60889A6b4e16D75c1AdD60b58BB323A71A5",
+  "type": "BEP20",
+  "symbol": "BKC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x32BbB60889A6b4e16D75c1AdD60b58BB323A71A5"
+}
