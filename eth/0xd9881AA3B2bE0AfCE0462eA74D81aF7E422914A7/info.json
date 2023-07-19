@@ -1,0 +1,11 @@
+{
+ "name": "BRD",
+ "website": "https://brdcoin.org/",
+ "description": "",
+ "explorer": "https://etherscan.io/token/0xd9881AA3B2bE0AfCE0462eA74D81aF7E422914A7",
+ "type": "ERC20",
+ "symbol": "BRD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd9881AA3B2bE0AfCE0462eA74D81aF7E422914A7"
+}
