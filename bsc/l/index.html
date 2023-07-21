@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>链知-首页</title>
+		<link rel="stylesheet" type="text/css" href="css/med.css"/>
+	</head>
+	<style type="text/css">
+		html{
+			width: 100%;
+			height: 100%;
+		}
+		body{
+			max-width: 100%;
+			max-height: 100%;
+		}
+		.med_roor{
+			border: 1px solid #f1cd8b;
+		}
+		.med_fagrt{
+			background-image: url(img/icon/beijing.png);
+			background-size: 100% 100%;
+			box-shadow: 0 32px 72px 0 rgba(241,205,139,0.28);
+		}
+		.med_bac_vrt{
+			background: #f1cd8b;
+		}
+	</style>
+	<body style="background: #f2f2f2;">
+		<div id="app">
+			<div class="">
+				<div class="w100__ bac_white h70_lin over_hide c_l fw550 pfixed top0p left0p">
+					<div class="wmargin62__ ju_lr ju_centers">
+						<div class="ptop10p">
+							<img src="img/icon/logo.png" >
+						</div>
+						<div class="ju_left h70p ptop15p">
+							<div class="ju_left med_roor h35_lin mright20p">
+								<div class="pleft10p">
+									<img src="img/icon/guojia.png" class="mtop5p">
+								</div>
+								<div class="mleft10p">
+									<span>EN</span>
+								</div>
+								<div class="pright10p mleft10p">
+									<img src="img/icon/xiala.png" >
+								</div>
+							</div>
+							<div class="fsize110 h35_lin">
+								<span>登录/注册</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="w100__ h100__ ju_centers">
+					<div class="wmargin48__ med_fagrt brad20p talcenter ptop40p pbottom90p">
+						<div class="">
+							<img src="img/icon/lianzhi.png" >
+						</div>
+						<div class="fw550 mtop15p fsize150">
+							<span>为全球链上财产安全保驾护航</span>
+						</div>
+						<div class="ju_lr mtop50p wmargin80__ med_roor h45_lin">
+							<div class="w90__">
+								<input type="text" name="" id="" value="" placeholder="请输入搜索地址" class="input_ w100__ pleft20p fsize110 h45_lin"/>
+							</div>
+							<div class="med_bac_vrt w10__ ju_center ju_centers">
+								<img src="img/icon/sousuo.png" >
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="w100__ pabsolute bottom0p left0p ju_lr">
+					<div class="w20__">
+						<img src="img/icon/2.png" class="w100__">
+					</div>
+					<div class="w20__">
+						<img src="img/icon/1.png" class="w100__">
+					</div>
+				</div>
+			</div>
+		</div>
+		<script type="text/javascript">
+			window.onload=function(){
+				const windi=window.innerHeight;
+				document.getElementsByClassName('h100__')[0].style.height=windi*0.9+'px'
+			}
+		</script>
+	</body>
+</html>
