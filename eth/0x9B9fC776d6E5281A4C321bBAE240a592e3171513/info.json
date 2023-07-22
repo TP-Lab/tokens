@@ -1,0 +1,11 @@
+{
+ "name": "Teddy Doge",
+ "website": "https://teddydoge.finance",
+ "description": "Teddy Doge is a DEFI tool developed based on DRAC Network. We have cross-chain bridges, NFT coin auctions, and wallets.",
+ "explorer": "https://etherscan.io/token/0x9b9fc776d6e5281a4c321bbae240a592e3171513",
+ "type": "ERC20",
+ "symbol": "Teddy",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9B9fC776d6E5281A4C321bBAE240a592e3171513"
+}
