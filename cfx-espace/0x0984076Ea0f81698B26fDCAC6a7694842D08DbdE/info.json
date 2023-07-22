@@ -1,0 +1,11 @@
+{
+ "name": "Gambian Army",
+ "website": "https://bilibili.com/",
+ "description": "B站Up主_冈比亚大军的粉丝令牌",
+ "explorer": "https://evm.confluxscan.net/token/0x0984076Ea0f81698B26fDCAC6a7694842D08DbdE",
+ "type": "ERC20",
+ "symbol": "GBA",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x0984076Ea0f81698B26fDCAC6a7694842D08DbdE"
+}
