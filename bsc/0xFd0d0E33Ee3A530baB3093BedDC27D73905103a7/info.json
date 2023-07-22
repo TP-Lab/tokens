@@ -1,0 +1,11 @@
+{
+ "name": "NBF",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xFd0d0E33Ee3A530baB3093BedDC27D73905103a7",
+ "type": "BEP20",
+ "symbol": "NBF",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xFd0d0E33Ee3A530baB3093BedDC27D73905103a7"
+}
