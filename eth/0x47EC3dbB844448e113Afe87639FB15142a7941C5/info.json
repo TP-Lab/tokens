@@ -1,0 +1,11 @@
+{
+ "name": "XNOVA Coin",
+ "website": "https://xnovalab.org/",
+ "description": "XNOVA coin, usually called XNOVA, is a Cryptocurrency issued by XNOVA laboratory, and is the first exploratory interactive experimental currency in all WEB3",
+ "explorer": "https://etherscan.io/address/0x47EC3dbB844448e113Afe87639FB15142a7941C5",
+ "type": "ERC20",
+ "symbol": "XNOVA",
+ "decimals": 12,
+ "status": "active",
+ "id": "0x47EC3dbB844448e113Afe87639FB15142a7941C5"
+}
