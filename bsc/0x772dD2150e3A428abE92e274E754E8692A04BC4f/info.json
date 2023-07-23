@@ -1,0 +1,11 @@
+{
+ "name": "Golden Cat Country Token",
+ "website": "https://www.goldencat.live",
+ "description": "Formed by many consensus makers, it contains three major ecological applications: token ecology, chain tour ecology, and business ecology.",
+ "explorer": "https://bscscan.com/token/0x772dD2150e3A428abE92e274E754E8692A04BC4f",
+ "type": "BEP20",
+ "symbol": "BGC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x772dD2150e3A428abE92e274E754E8692A04BC4f"
+}
