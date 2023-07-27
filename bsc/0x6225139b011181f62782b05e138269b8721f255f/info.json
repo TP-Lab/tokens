@@ -1,0 +1,11 @@
+{
+ "name": " Leader Token",
+ "website": "http://www.leadernf.com",
+ "description": "An excellent token",
+ "explorer": "https://bscscan.com/token/0x6225139b011181f62782b05e138269b8721f255f",
+ "type": "BEP20",
+ "symbol": "Leader",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6225139b011181f62782b05e138269b8721f255f"
+}

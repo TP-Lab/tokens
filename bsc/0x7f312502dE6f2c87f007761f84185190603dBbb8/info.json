@@ -1,0 +1,11 @@
+{
+ "name": "DaLiao Data technology",
+ "website": "https://daliao.io/",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x7f312502de6f2c87f007761f84185190603dbbb8",
+ "type": "BEP20",
+ "symbol": "DLDT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7f312502dE6f2c87f007761f84185190603dBbb8"
+}
