@@ -1,0 +1,11 @@
+{
+ "name": "	Unity Pool Token",
+ "website": "https://unitypool.finance",
+ "description": "Unity Pool is a decentralized finance project aimed at creating a shared investment pool for the cryptocurrency community.",
+ "explorer": "https://bscscan.com/token/0xbd9af6636256ab610d9702f8a09f52c2408ce286",
+ "type": "BEP20",
+ "symbol": "UP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbD9AF6636256aB610d9702f8a09F52c2408ce286"
+}
