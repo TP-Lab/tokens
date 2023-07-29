@@ -1,0 +1,11 @@
+{
+  "name": "7B TOKEN",
+  "website": "https://7bswap.cc/home",
+  "description": "The world's first AI-based innovative decentralized trading ecosystem.",
+  "explorer": "https://bscscan.com/address/0x2A9d249e0FB89A25d9F985a81CE6D2091fD44a05",
+  "type": "BEP20",
+  "symbol": "7B",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2A9d249e0FB89A25d9F985a81CE6D2091fD44a05"
+}
