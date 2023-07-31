@@ -1,0 +1,11 @@
+{
+ "name": "yesgo",
+ "website": "www.hiyesb.com",
+ "description": "Yes integrates various technologies to enable immersive digital experiences and a balanced digital ecosystem focused on social acceptance, security, and regulatory compliance.",
+ "explorer": "https://bscscan.com/address/0x70ad603AE3910304098323f903870c080436E8C5",
+ "type": "BEP20",
+ "symbol": "YESGO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x70ad603AE3910304098323f903870c080436E8C5"
+}
