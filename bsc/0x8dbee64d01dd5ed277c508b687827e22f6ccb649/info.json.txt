@@ -1,0 +1,11 @@
+{
+ "name": "DMD",
+ "website": "https://diamondw.mystrikingly.com",
+ "description": "Diamond (DMD) civilian project has no investors, no pre-mining, no whitelist, no additional issuance, equality for all DMD hopes to promote the development of the currency circle community.",
+ "explorer": "https://bscscan.com/token/0x8dbee64d01dd5ed277c508b687827e22f6ccb649",
+ "type": "BEP20",
+ "symbol": "DMD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8dbee64d01dd5ed277c508b687827e22f6ccb649"
+}
