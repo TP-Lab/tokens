@@ -1,0 +1,11 @@
+{
+ "name": "L7 DEX",
+ "website": "https://www.l7dex.finance/",
+ "description": "L7 DEX is a decentralized perpetual contract trading platform built on Web3 technology.",
+ "explorer": "https://bscscan.com/token/0xcd1b51b87a8a7137d6421ba5a976225187a26777",
+ "type": "BEP20",
+ "symbol": "LSD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcD1B51b87a8a7137D6421bA5A976225187a26777"
+}
