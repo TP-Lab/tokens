@@ -1,0 +1,11 @@
+{ 
+"name": "Ether Connect",
+"website": "https://www.ece.finance/",
+"description": "Ether Connect is a cross-chain data infrastructure that serves as a bridge to Web3, enabling dApp users to interact with any assets or applications on any blockchain with a single click.",
+"explorer": "https://bscscan.com/address/0xf30b703eB6E743063a55641fA3e4Ba79b881933E",
+"type": "BEP20",
+"symbol": "ECE",
+"decimals": 18,
+"status": "active",
+"id": "0xf30b703eB6E743063a55641fA3e4Ba79b881933E"
+}
