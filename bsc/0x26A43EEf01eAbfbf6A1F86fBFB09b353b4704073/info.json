@@ -1,0 +1,11 @@
+{
+ "name": "SkyLink Token",
+ "website": "https://www.skylink.show",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x26a43eef01eabfbf6a1f86fbfb09b353b4704073",
+ "type": "BEP20",
+ "symbol": "SKY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x26a43eef01eabfbf6a1f86fbfb09b353b4704073"
+}
