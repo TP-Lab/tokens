@@ -1,0 +1,11 @@
+{ 
+"name": "8Moon",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/address/0x0B41fAF169160Eb1C3f0426052326aC126888888",
+"type": "BEP20",
+"symbol": "8Moon",
+"decimals": 18,
+"status": "active",
+"id": "0x0B41fAF169160Eb1C3f0426052326aC126888888"
+}
