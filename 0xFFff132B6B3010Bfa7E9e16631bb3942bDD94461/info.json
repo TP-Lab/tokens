@@ -1,0 +1,11 @@
+{ 
+"name": "ETCS (ETCS)",
+"website": ".",
+"description": ". ",
+"explorer": "https://bscscan.com/token/0xFFff132B6B3010Bfa7E9e16631bb3942bDD94461",
+"type": "BEP20",
+"symbol": "ETCS",
+"decimals": 18,
+"status": "active",
+"id": "0xFFff132B6B3010Bfa7E9e16631bb3942bDD94461"
+}
