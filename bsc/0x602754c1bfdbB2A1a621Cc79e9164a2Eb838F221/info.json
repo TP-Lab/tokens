@@ -1,0 +1,11 @@
+{
+    "name": "3°",
+    "website": "www.threedegrees.top/logo.png",
+    "description": "3° is a new application mode of computer technology, such as distributed storage, point-to-point high-speed transmission, code consensus, anti-quantum computing cryptography, etc. It is a mobile-based technology that meets the requirements of low storage and high-frequency transaction. 
+  Completely decentralized application network of mobile equipment nodes.", "explorer": "https://bscscan.com/token/0x602754c1bfdbB2A1a621Cc79e9164a2Eb838F221",
+    "type": "BEP20",
+    "symbol": "EMT",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x602754c1bfdbB2A1a621Cc79e9164a2Eb838F221"
+}
