@@ -1,0 +1,11 @@
+{
+    "name": "ESGCC",
+    "website": "https://bscscan.com/address/0x3351560cbbf41c68d32f4a7c90e66e817e3cc5df",
+    "description": "ESGCC is the world's first carbon sovereign digital token open source blockchain underlying service platform. It is a digital token based on blockchain technology, mainly used for settlement and payment in the carbon trading market. The issuance and management of ESG-CC are the responsibility of global carbon trading market regulatory agencies, ensuring its stability and safety. The development of ESGCC technology, ecosystem construction, financial attribute development, internationally accepted standards, and authoritative carbon asset digital trading platforms have provided comprehensive support for the development of the carbon trading market.",
+    "explorer": "https://bscscan.com/token/0x3351560cbbf41c68d32f4a7c90e66e817e3cc5df",
+    "type": "BEP20",
+    "symbol": "CC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3351560CbbF41C68D32F4A7C90e66e817E3Cc5DF"
+}
