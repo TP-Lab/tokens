@@ -1,0 +1,11 @@
+{
+ "name": "EMT",
+ "website": "-",
+ "description": "EMT is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x602754c1bfdbB2A1a621Cc79e9164a2Eb838F221",
+ "type": "BEP20",
+ "symbol": " EMT ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x602754c1bfdbB2A1a621Cc79e9164a2Eb838F221"
+}
