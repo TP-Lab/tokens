@@ -1,0 +1,11 @@
+{
+ "name": "MIMIC",
+ "website": "-",
+ "description": "MIMIC official platform coins",
+ "explorer": "https://etherscan.io/address/0xB7980B84DBf019371A55d639C91d34A48f2F9eF5",
+ "type": "ERC20",
+ "symbol": "MIMIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB7980B84DBf019371A55d639C91d34A48f2F9eF5"
+}
