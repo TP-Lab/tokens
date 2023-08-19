@@ -1,0 +1,11 @@
+{
+ "name": "Ideal Token",
+ "website": "https://v3.dea.finance",
+ "description": "The DEA token is a comprehensive project created by the idea finance community that integrates Defi+web3.0+AI artificial intelligence. The DEA token is a community autonomous governance token for all ecology in idea finance. Holding the DEA token can enjoy ecological profit dividends and free mining benefits",
+ "explorer": "https://bscscan.com/token/0x69b40aA497D354583dB24DCcce0d71C25869Ca22",
+ "type": "BEP20",
+ "symbol": "DEA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x69b40aA497D354583dB24DCcce0d71C25869Ca22"
+}
