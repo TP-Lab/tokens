@@ -1,0 +1,11 @@
+{
+ "name": "Mellivora capensis",
+ "website": "https://mcgame.info/",
+ "description": "Mellivora capensis is the inaugural blockchain gaming carnival aggregation platform by MC Ecology, co-initiated by GuildFi, a globally renowned blockchain gaming guild, and prominent game development companies Hong Kong Elephant Games and Singapore SKO Foundation.",
+ "explorer": "https://bscscan.com/token/0x78997aa5d48efe1c96415e0d941ba687cdc1c358",
+ "type": "BEP20",
+ "symbol": "MC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x78997aa5d48efe1c96415e0d941ba687cdc1c358"
+}
