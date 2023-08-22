@@ -1,0 +1,11 @@
+{
+ "name": "BITDAO",
+ "website": "-",
+ "description": "BITDAO is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x3E9c879B7bbB71370Fca16b1a4A2BB5536e70335",
+ "type": "BEP20",
+ "symbol": "BITDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3E9c879B7bbB71370Fca16b1a4A2BB5536e70335"
+}
