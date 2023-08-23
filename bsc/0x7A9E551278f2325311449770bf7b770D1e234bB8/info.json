@@ -1,0 +1,11 @@
+{
+ "name": "AIAsset",
+ "website": "https://wealthsai.com/",
+ "description": "The access pass to the platform and a crucial element in establishing the funding pool. It allows for the daily release of proportional earnings.",
+ "explorer": "https://bscscan.com/address/0x7A9E551278f2325311449770bf7b770D1e234bB8",
+ "type": "BEP20",
+ "symbol": "AIA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7A9E551278f2325311449770bf7b770D1e234bB8"
+}
