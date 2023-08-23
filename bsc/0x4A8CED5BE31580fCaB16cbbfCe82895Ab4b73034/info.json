@@ -1,0 +1,11 @@
+{
+ "name": "AIBanking",
+ "website": "https://wealthsai.com/",
+ "description": "By adhering to the rules of the three pools, it consistently generates cash income from the platform's investment projects.",
+ "explorer": "https://bscscan.com/address/0x4A8CED5BE31580fCaB16cbbfCe82895Ab4b73034",
+ "type": "BEP20",
+ "symbol": "AIB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4A8CED5BE31580fCaB16cbbfCe82895Ab4b73034"
+}
