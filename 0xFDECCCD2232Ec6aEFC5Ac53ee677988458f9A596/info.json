@@ -1,0 +1,11 @@
+{
+ "name": "BTYY",
+ "website": "-",
+ "description": "BTYY is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xFDECCCD2232Ec6aEFC5Ac53ee677988458f9A596",
+ "type": "BEP20",
+ "symbol": "BTYY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFDECCCD2232Ec6aEFC5Ac53ee677988458f9A596"
+}
