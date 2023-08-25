@@ -1,0 +1,11 @@
+{
+  "name": "ONE Token",
+  "website": "https://www.onedexcloud.com",
+  "description": "ONT is a digital asset based on blockchain technology, designed to provide users with a safe, transparent and decentralized transaction experience. It can be used in a variety of application scenarios, including but not limited to online shopping, digital collectibles transactions, and peer-to-peer transactions.",
+  "explorer": "https://bscscan.com/token/0x947E06B3F0B5cF9834e7E03AbE15331Bccc31352",
+  "type": "BEP20",
+  "symbol": "ONT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x947E06B3F0B5cF9834e7E03AbE15331Bccc31352"
+}
