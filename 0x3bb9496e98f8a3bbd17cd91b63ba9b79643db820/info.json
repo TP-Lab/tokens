@@ -1,0 +1,11 @@
+{
+ "name": "BULL RUN",
+ "website": "https://bullrun.today",
+ "description": "LP continuous mining with USDT added",
+ "explorer": "https://bscscan.com/token/0x3bb9496e98f8a3bbd17cd91b63ba9b79643db820",
+ "type": "BEP20",
+ "symbol": "BULL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3bb9496e98f8a3bbd17cd91b63ba9b79643db820"
+}
