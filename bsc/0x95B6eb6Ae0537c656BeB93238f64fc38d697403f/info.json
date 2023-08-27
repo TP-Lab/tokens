@@ -1,0 +1,11 @@
+{
+ "name": "Titan NFT DEX Coin",
+ "website": "-",
+ "description": "Titan NFT DEX Coin is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x95B6eb6Ae0537c656BeB93238f64fc38d697403f",
+ "type": "BEP20",
+ "symbol": " USTN ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x95B6eb6Ae0537c656BeB93238f64fc38d697403f"
+}
