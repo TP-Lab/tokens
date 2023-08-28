@@ -1,0 +1,11 @@
+{
+ "name": "ZKF",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports  BSC",
+ "explorer": "https://bscscan.com/token/0x05572A72b6D5cDd8ac0EfbA7bA05B4153B10e9b6",
+ "type": "BEP20",
+ "symbol": "ZKF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x05572A72b6D5cDd8ac0EfbA7bA05B4153B10e9b6"
+}
