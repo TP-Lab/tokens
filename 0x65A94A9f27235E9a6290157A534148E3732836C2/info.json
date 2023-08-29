@@ -1,0 +1,11 @@
+{
+ "name": "OliveX Token",
+ "website": "https://olivex.pro",
+ "description": "Web 3.0 exchange innovative CEX-DEX converged cryptocurrency trading solution.",
+ "explorer": "https://bscscan.com/address/0x65A94A9f27235E9a6290157A534148E3732836C2",
+ "type": "BEP20",
+ "symbol": "OVE",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x65A94A9f27235E9a6290157A534148E3732836C2"
+}
