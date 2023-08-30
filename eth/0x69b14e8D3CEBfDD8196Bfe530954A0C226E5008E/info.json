@@ -1,0 +1,11 @@
+{
+ "name": "SpacePi Token",
+ "website": "https://space-pi.com/#/",
+ "description": "SpacePi 是Pi Network的去中心化社交网络应用，已在BSC和ETH部署NFT、Swap等生态，SpacePi已通过CMC和CG官方认证！同时，SpacePi与Pi Network的数字货币Pi密切相关，用户可以通过SpacePi参与Pi Network的挖矿活动，获得Pi奖励，并使用SpacePi 进行在线支付和交易。",
+ "explorer": "https://etherscan.io/address/0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
+ "type": "ERC20",
+ "symbol": "SpacePi",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E"
+}
