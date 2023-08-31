@@ -1,0 +1,11 @@
+{
+  "decimals" : 18,
+  "description" : "PagadiUSD (PUSD) is a platform for tokenizing currency tokens and real assets. USD that provides legal protection to token holders and uses one PUSD token for every USD 1. PUSD provides a reliable transaction tool that enables consumers and businesses to use currency exchange as an intermediary.\n PagadiUSD (PUSD) is similar to the current USDT, which is a kind of 'stable currency'. The Pagadi Foundation, supported by the Stanford Venture Fund, has launched a cryptocurrency PUSD that takes into account both transparency and mystery, which will become a highly trusted currency in the market. USD stable currency. By building a network of banks and trusts, the company guarantees that their tokens will maintain monetary stability.",
+  "explorer" : "https://bscscan.com/token/0x1e24E769e3E68D3dc0E1854452BA196fFFEA7E2d",
+  "id" : "0x1e24E769e3E68D3dc0E1854452BA196fFFEA7E2d",
+  "name" : "PagadiUSD",
+  "status" : "active",
+  "symbol" : "PUSD",
+  "type" : "BEP20",
+  "website" : "https://www.pagadi.io"
+}
