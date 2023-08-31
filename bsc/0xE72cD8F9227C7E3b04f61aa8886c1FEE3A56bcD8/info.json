@@ -1,0 +1,11 @@
+{
+ "name": "Mixed Martial Arst",
+ "website": "https://www.draftkings.com",
+ "description": "Mixed Martial Arst from Nasdaq gaming giant Draftkings is the next generation entertainment world solution. It is based on the Tendermint consensus algorithm, follows the BFT-DPOS consensus mechanism, and supports smart contracts. With Mixed Martial Arst users refactoring entertainment, enjoy instant, trusted, anonymous and decentralized encrypted payments, creating new entertainment for the future.",
+ "explorer": "https://bscscan.com/token/0xE72cD8F9227C7E3b04f61aa8886c1FEE3A56bcD8",
+ "type": "BEP20",
+ "symbol": "MMA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE72cD8F9227C7E3b04f61aa8886c1FEE3A56bcD8"
+}
