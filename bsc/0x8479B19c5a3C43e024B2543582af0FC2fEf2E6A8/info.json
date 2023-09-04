@@ -1,0 +1,11 @@
+{
+ "name": "TRUMP",
+ "website": "https://trumpmaga.dev",
+ "description": "MAGA Movement on the Blockchain. Powered by AI Technology",
+ "explorer": "https://bscscan.com/address/0x8479B19c5a3C43e024B2543582af0FC2fEf2E6A8",
+ "type": "BEP20",
+ "symbol": "MAGA",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8479B19c5a3C43e024B2543582af0FC2fEf2E6A8"
+}
