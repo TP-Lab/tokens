@@ -1,0 +1,11 @@
+{
+    "name": "Rich Monkey Token Better",
+    "website": "https://web.richmonkey.vip/",
+    "description": "RMTB will serve all participants who want to explore the key world with heart",
+    "explorer": "https://bscscan.com/token/0x5fb3efa71ca199eec83b1fff96d81ea67d17686d",
+    "type": "BEP20",
+    "symbol": "RMTB",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x5fB3efa71Ca199EEC83b1FFF96D81eA67d17686d"
+}
