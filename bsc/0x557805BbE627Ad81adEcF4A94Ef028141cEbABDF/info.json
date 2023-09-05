@@ -1,0 +1,11 @@
+{
+    "name": "BCPI",
+    "website": "https://cryptopia.network",
+    "description": "Governance token for the Zero Manor game based on the BSC chain. ",
+    "explorer": "https://bscscan.com/token/0x557805BbE627Ad81adEcF4A94Ef028141cEbABDF",
+    "type": "BEP20",
+    "symbol": "BCPI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x557805BbE627Ad81adEcF4A94Ef028141cEbABDF"
+}
