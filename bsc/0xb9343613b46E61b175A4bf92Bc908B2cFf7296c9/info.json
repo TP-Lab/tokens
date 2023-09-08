@@ -1,0 +1,11 @@
+{
+  "name": "xinc",
+  "website": "",
+  "description": "xinc is Web3 network Game Token",
+  "explorer": "https://bscscan.com/token/0xb9343613b46E61b175A4bf92Bc908B2cFf7296c9",
+  "type": "BEP20",
+  "symbol": "xinc",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb9343613b46E61b175A4bf92Bc908B2cFf7296c9"
+}
