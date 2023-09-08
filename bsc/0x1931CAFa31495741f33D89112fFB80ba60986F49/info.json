@@ -1,0 +1,11 @@
+{ 
+"name": "SMP",
+"website": "https://smpcoin.vercel.app/",
+"description": "SMP creates the future",
+"explorer": "https://bscscan.com/token/0x1931cafa31495741f33d89112ffb80ba60986f49",
+"type": "BEP20",
+"symbol": "SMP",
+"decimals": 18,
+"status": "active",
+"id": "0x1931CAFa31495741f33D89112fFB80ba60986F49"
+}
