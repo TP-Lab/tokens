@@ -1,0 +1,11 @@
+{
+ "name": "Radiant",
+ "website": "https://ldexdao.com/",
+ "description": "Radiant is based on High-performance blockchain, fast and low-cost transactions, supporting decentralized applications and DeFi projects/protocols.",
+ "explorer": "https://bscscan.com/address/0xCBe26335751158a102e32Fc2DeE68eC2bd861247",
+ "type": "BEP20",
+ "symbol": "RID",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCBe26335751158a102e32Fc2DeE68eC2bd861247"
+}
