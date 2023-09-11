@@ -1,0 +1,11 @@
+{
+ "name": "Dragonking",
+ "website": "https://dkswap.com",
+ "description": "Dragon Coin was launched by overseas Singapore and launched simultaneously by global communities. DragonKing is a comprehensive application platform based on BSC chain. Platform governance token DK, creating multi scenario applications: trading mining, launch pad, ecological governance, NFT trading, etc.",
+ "explorer": "https://bscscan.com/token/0xdd228f027e7b491c35665bbd1201eea2c88fc8eb",
+ "type": "BEP20",
+ "symbol": "Dragonking",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xdd228f027E7b491C35665bBd1201Eea2C88fc8eb"
+}
