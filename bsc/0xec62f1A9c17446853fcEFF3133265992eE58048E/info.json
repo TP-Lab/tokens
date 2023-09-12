@@ -1,0 +1,11 @@
+{
+ "name": "QianTu",
+ "website": "https://qiantu.finance",
+ "description": "QianTu is a meme token based on Binance Smart chain.",
+ "explorer": "https://bscscan.com/token/0xec62f1a9c17446853fceff3133265992ee58048e",
+ "type": "BEP20",
+ "symbol": "QT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xec62f1A9c17446853fcEFF3133265992eE58048E"
+}
