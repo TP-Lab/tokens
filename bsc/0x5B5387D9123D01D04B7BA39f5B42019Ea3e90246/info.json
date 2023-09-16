@@ -1,0 +1,9 @@
+ "name": "CANTO",
+ "website": "https://cantos.world/",
+ "description": "CANTO is a community consensus currency with soul and thought.",
+ "explorer": "https://bscscan.com/token/0x5b5387d9123d01d04b7ba39f5b42019ea3e90246",
+ "type": "BEP20",
+ "symbol": "CANTO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5B5387D9123D01D04B7BA39f5B42019Ea3e90246"
