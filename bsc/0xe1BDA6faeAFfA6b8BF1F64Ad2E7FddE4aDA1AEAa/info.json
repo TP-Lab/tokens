@@ -1,0 +1,11 @@
+{
+ "name": "BTF",
+ "website": "https://site.vrbqrcg.cn/",
+ "description": "Zhiyuan Chain BTF is committed to exploring the combination of district chain and artificial intelligence, and providing a neutral, non-interest biased, open and trusted platform main chain for blockchain world builders and value concept identitarians.",
+ "explorer": "https://bscscan.com/address/0xe1BDA6faeAFfA6b8BF1F64Ad2E7FddE4aDA1AEAa",
+ "type": "BEP20",
+ "symbol": "BTF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe1BDA6faeAFfA6b8BF1F64Ad2E7FddE4aDA1AEAa"
+}
