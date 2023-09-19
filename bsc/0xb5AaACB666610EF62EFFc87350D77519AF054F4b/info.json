@@ -1,0 +1,11 @@
+{
+  "name": "Futurium Core Token",
+  "website": "www.futuriumcore.com",
+  "description": "Futurium Core is a groundbreaking project at the forefront of technological innovation. With a focus on Artificial Intelligence (AI), the Internet of Things (IoT), and the Metaverse, we are redefining the way we interact with technology and the digital world.",
+  "explorer": "https://bscscan.com/token/0xb5AaACB666610EF62EFFc87350D77519AF054F4b",
+  "type": "BEP20",
+  "symbol": "FCT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb5AaACB666610EF62EFFc87350D77519AF054F4b"
+}
