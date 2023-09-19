@@ -1,0 +1,11 @@
+{
+ "name": "UFO",
+ "website": "https://papaufo.com/",
+ "description": "MEME Navigator",
+ "explorer": "https://bscscan.com/token/0xdde8924b146046F296B97A6E39feCBF59b4dBF56",
+ "type": "BEP20",
+ "symbol": "UFO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdde8924b146046F296B97A6E39feCBF59b4dBF56"
+}
