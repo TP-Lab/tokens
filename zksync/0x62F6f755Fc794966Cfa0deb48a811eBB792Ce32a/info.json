@@ -1,0 +1,11 @@
+{
+ "name": "Raydius",
+ "website": "https://raydius.io",
+ "description": "RAYS is the platform token of Raydius, serving various functions such as community governance, IDO, and trading. Raydius is an innovative LaunchPad built on zkSync and has received investment from Binance Labs.",
+ "explorer": "https://explorer.zksync.io/address/0x62f6f755fc794966cfa0deb48a811ebb792ce32a",
+ "type": "ERC20",
+ "symbol": "RAYS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x62F6f755Fc794966Cfa0deb48a811eBB792Ce32a"
+}
