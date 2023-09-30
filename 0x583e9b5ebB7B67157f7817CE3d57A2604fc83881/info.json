@@ -1,0 +1,11 @@
+{
+ "name": "CKD TOKEN",
+ "website": "www.ckdswap.xyz",
+ "description": "Calvin King CKD is the first liquidity token provided by CKDSWAP, which will infinitely open and integrate more platforms to help transform the traffic value of major communities.",
+ "explorer": "https://bscscan.com/token/0x583e9b5ebB7B67157f7817CE3d57A2604fc83881",
+ "type": "BEP20",
+ "symbol": "CKD",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x583e9b5ebB7B67157f7817CE3d57A2604fc83881"
+}
