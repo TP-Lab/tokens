@@ -1,0 +1,11 @@
+{ 
+"name": "FanShenCoin",
+"website": ".",
+"description": "FS (FanShenCoin) English meaning For sure, is launched by the global blockchain enthusiasts, adhering to the concept of simple, clean, natural, innovative and unique contract mechanism, all rates all return to the bottom pool, without any marketing wallet, clean mechanism, let more consensus resonate!",
+"explorer": "https://bscscan.com/address/0x369bADa97b3d2b7a512908901D77DdB67DD14513",
+"type": "BEP20",
+"symbol": "FS",
+"decimals": 18,
+"status": "active",
+"id": "0x369bADa97b3d2b7a512908901D77DdB67DD14513"
+}
