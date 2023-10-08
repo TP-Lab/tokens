@@ -1,0 +1,11 @@
+{
+ "name": "UFO ET",
+ "website": "https://papaufo.com/",
+ "description": "MEME Navigator",
+ "explorer": "https://bscscan.com/token/0x22d40a269850786b3ad22371406a7b20c213cfd6",
+ "type": "BEP20",
+ "symbol": "ET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x22d40a269850786b3ad22371406a7b20c213cfd6"
+}
