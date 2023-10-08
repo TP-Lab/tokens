@@ -1,0 +1,11 @@
+{
+ "name": "0X",
+ "website": "https://0xlsd.com",
+ "description": "0xLSD is a decentralized liquidity provision protocol that supports multi-chain aggregation. It was initially built on the Binance Smart Chain (#BSC) and Arbitrum (#ARB) public chains, with the aim of creating stable and sustainable liquidity for the Web3 world, while also constructing a comprehensive financial service system on top of it.",
+ "explorer": "https://bscscan.com/token/0x14bdcd646a075fc51396ebd0f8df5a831047b805",
+ "type": "BEP20",
+ "symbol": "0X",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x14bdcd646a075fc51396ebd0f8df5a831047b805"
+}
