@@ -1,0 +1,11 @@
+{
+    "name": "JK",
+    "website": "",
+    "description": "JK, a leading global sovereign wealth fund investment company from Singapore, adheres to the concept of decentralized blockchain technology, based on community power and user interests, establishes an autonomous community based digital asset financing ecosystem, and creates an asset value circulation ecosystem that integrates capital markets, startup technology teams, and investors.",
+    "explorer": "https://bscscan.com/token/0xf4e0e5feb77f7e92bd020d7884f7e75dec1743ef",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "JK",
+    "status": "active",
+    "id": "0xf4e0e5feb77f7e92bd020d7884f7e75dec1743ef"
+}
