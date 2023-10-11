@@ -1,0 +1,11 @@
+{
+    "name": "USDT",
+    "website": "kortho.io",
+    "description": "USDT is a stablecoin, which means its value is pegged to a stable asset, in this case, the US dollar.",
+    "explorer": "https://www.kortho.io/#/Ts/0xa6ea066bae96432414ac62818e62e2ecaa570de3/1",
+    "type": "ERC20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa6ea066bae96432414ac62818e62e2ecaa570de3"
+ }

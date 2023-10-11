@@ -1,0 +1,11 @@
+{
+    "name": "GDL",
+    "website": "https://www.gdlnft.com/",
+    "description": "GDL is a governance token on a digital trading platform built on korthochain.",
+    "explorer": "https://www.kortho.io/#/Ts/0x9830C7DBCFF54eb564eF952e2e5634787fC1c5d8/1",
+    "type": "ERC20",
+    "symbol": "GDL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9830C7DBCFF54eb564eF952e2e5634787fC1c5d8"
+}

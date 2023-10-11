@@ -1,0 +1,11 @@
+{
+    "name": "KUSD",
+    "website": "http://kusd.web3s.finance",
+    "description": "KUSD is a decentralized stablecoin, which means its value is pegged to a stable asset without relying on centralized entities.",
+    "explorer": "https://www.kortho.io/#/Ts/0x1817683c387Ca5102dA1F2F675F9722827b85d18/1",
+    "type": "ERC20",
+    "symbol": "KUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1817683c387Ca5102dA1F2F675F9722827b85d18"
+}
