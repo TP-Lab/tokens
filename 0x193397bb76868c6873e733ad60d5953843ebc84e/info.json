@@ -1,0 +1,11 @@
+{
+ "name": "MEMETOON",
+ "website": "http://memetoon.io/",
+ "description": "An innovative webtoon platform for writers and subscribers MEME & MEMETOON aims to contribute to the innovation of a new paradigm in the webtoon market by guaranteeing the copyright rights of works created by making use of their creativity and artistic sense, not by workers in the webtoon factory, under the blockchain trust system..",
+ "explorer": "https://bscscan.com/token/0x193397bb76868c6873e733ad60d5953843ebc84e",
+ "type": "BEP20",
+ "symbol": "MEME",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x193397bb76868c6873e733ad60d5953843ebc84e"
+}
