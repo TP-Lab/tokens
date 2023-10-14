@@ -1,0 +1,11 @@
+{
+ "name": "ARBT",
+ "website": "-",
+ "description": "ARBT is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://arbiscan.io/address/0x404E453b474aD8FC19CdF9373ba2Fa9318871D7f",
+ "type": "Arbitrum One",
+ "symbol": "ARBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x404E453b474aD8FC19CdF9373ba2Fa9318871D7f"
+}
