@@ -1,11 +1,11 @@
-{
-	"name": "LDAC",
-	"website": "http://leadpaydac.com",
-	"description": "LEAD PAY addresses fundamental challenges such as security, monetization, scalability, user experience, and compliance through innovative technology, versatile payment solutions, and exceptional user optimization. This drives the popularization and application of decentralized payment.",
-	"explorer": "https://bscscan.com/token/0xed51d37e77360f053e3c9dd0e3568341dcc8c27f",
-	"type": "BEP20",
-	"symbol": "LDAC",
-	"decimals": 18,
-	"status": "active",
-	"id": "0xed51D37e77360F053e3c9Dd0E3568341Dcc8c27f"
+{ 
+"name": "Dragon",
+"website": "https://pancakeswap.finance/",
+"description": "The strongest IP "🐉" in the Year of the Dragon has landed on BSC to book a bull market detonator. You don't have to wait for the Spring Festival Gala to be a mixed bag of idiots, lock in the only real thing in advance🐉:. ",
+"explorer": "https://bscscan.com/token/0x9d3245a6b7fd03e98a02f9a126d37a9d4c9f4123",
+"type": "BEP20",
+"symbol": "🐉",
+"decimals": 18,
+"status": "active",
+"id": "0x9d3245a6b7fd03e98a02f9a126d37a9d4c9f4123"
 }
