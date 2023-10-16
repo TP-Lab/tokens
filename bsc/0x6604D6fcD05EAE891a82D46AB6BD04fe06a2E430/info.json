@@ -1,0 +1,11 @@
+﻿{
+ "name": "PCH TOKEN",
+ "website": "www.ftzo2o.com",
+ "description": "The Parchim Free Trade Zone issued in Binance Smart Chain 1 billion PCH Token at the BSC20 blockchain to replace the previous Parchim Token which was issued on the Etherum Block Chain at earlier time. The PCH is in BSC20 format and is used in the Parchim Airport Free Trade Zone O2O worldwide network and on the Free Trade Zone DeFi FTZEX.The PCH Token is stored in the coin pool of Pancake Swap and Metamask wallet for the traders to purchase trading with almost all types of crypto coins compatible to all type is DeFi Crypto Wallets.Each of the coin traded with PCH Token will be converted into USDT and stored in the coin pool for exchange with major crypto coins. The FTZEX is a DeFi NFT Exchange based in the Parchim Airport Free Trade Zone online and the offshore Metaverse Special Economic Zone. The trade is free of tax and VAT. Beside our airport attached 850 hectors of land in Germany Parchim Airport, we have reserved double value of treasure and art property to ensure our PCH Token value stable to EURO.",
+ "explorer": "https://bscscan.com/token/0x6604d6fcd05eae891a82d46ab6bd04fe06a2e430",
+ "type": "BEP20",
+ "symbol": "PCH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6604d6fcd05eae891a82d46ab6bd04fe06a2e430"
+}
