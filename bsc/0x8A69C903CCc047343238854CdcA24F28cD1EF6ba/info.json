@@ -1,0 +1,11 @@
+{
+ "name": "SPAC",
+ "website": "-",
+ "description": "SPAC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x8A69C903CCc047343238854CdcA24F28cD1EF6ba",
+ "type": "BEP20",
+ "symbol": "SPAC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8A69C903CCc047343238854CdcA24F28cD1EF6ba"
+}

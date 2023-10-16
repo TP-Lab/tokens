@@ -1,0 +1,11 @@
+{
+ "name": "BTF",
+ "website": "-",
+ "description": "BTF is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xe1BDA6faeAFfA6b8BF1F64Ad2E7FddE4aDA1AEAa",
+ "type": "BEP20",
+ "symbol": " BTF ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe1BDA6faeAFfA6b8BF1F64Ad2E7FddE4aDA1AEAa"
+}

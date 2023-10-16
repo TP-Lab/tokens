@@ -1,0 +1,11 @@
+{
+ "name": "WHBO",
+ "website": "-",
+ "description": "WHBO is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://hecoinfo.com/token/0x3215bE284EA3dFD1993d63e6B59549Fd4D9751B0",
+ "type": "HECO",
+ "symbol": "WHBO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3215bE284EA3dFD1993d63e6B59549Fd4D9751B0"
+}

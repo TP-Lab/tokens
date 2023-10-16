@@ -1,0 +1,11 @@
+{
+ "name": "EEGA",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x879900fa25cdae3c2d1b8eb86ecd42def4f210f3",
+ "type": "BEP20",
+ "symbol": "EEGA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x879900fa25cdae3c2d1b8eb86ecd42def4f210f3"
+}

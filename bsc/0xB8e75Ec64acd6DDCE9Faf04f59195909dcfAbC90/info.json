@@ -1,0 +1,11 @@
+{
+    "name": "ZGFeng",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0xB8e75Ec64acd6DDCE9Faf04f59195909dcfAbC90",
+    "type": "BEP20",
+    "symbol": "ZGFeng",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB8e75Ec64acd6DDCE9Faf04f59195909dcfAbC90"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "PDLMH",
+ "website": "https://bscscan.com/",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xE0D94AfCa6d1d4379D5178Fa4f462688B29eab77",
+ "type": "BEP20",
+ "symbol": "PDLMH",
+ "decimals": 18,                                                                                          
+ "status": "active",
+ "id": "0xE0D94AfCa6d1d4379D5178Fa4f462688B29eab77"
+}

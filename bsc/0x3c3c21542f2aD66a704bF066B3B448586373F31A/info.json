@@ -1,0 +1,11 @@
+{
+ "name": "LD",
+ "website": "https://ldexdao.com/",
+ "description": "LD token is the platform token of LDEX, released exclusively through mining based on LP power.",
+ "explorer": "https://bscscan.com/address/0x3c3c21542f2aD66a704bF066B3B448586373F31A",
+ "type": "BEP20",
+ "symbol": "LD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3c3c21542f2aD66a704bF066B3B448586373F31A"
+}
