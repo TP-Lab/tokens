@@ -1,0 +1,11 @@
+{
+  "name": "PEC",
+  "website": "http://www.pectoken.pro/",
+  "description": "The PEC is a true DAO autonomous community spontaneously initiated by a group of seasoned, mindful blockchain enthusiasts with extensive experience in the DeFi field",
+  "explorer": "https://bscscan.com/token/0xa7ebb4b16804a1c4397059684a389cb7a9c17740",
+  "type": "BEP20",
+  "symbol": "PEC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xA7eBb4b16804a1c4397059684a389CB7A9c17740"
+}
