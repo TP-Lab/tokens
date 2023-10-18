@@ -1,0 +1,11 @@
+{
+ "name": "SNFT",
+ "website": "",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x8a8efc26b636eedbe2912445535442c781e6444c",
+ "type": "BEP20",
+ "symbol": "SNFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8A8efc26b636EEdbE2912445535442C781e6444c"
+}
