@@ -1,0 +1,11 @@
+{
+ "name": "TSA",
+ "website": "-",
+ "description": "TSA is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xC3075851eA9035BE714A70B78B09a4e0CC3c1aa5",
+ "type": "BEP20",
+ "symbol": "TSA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC3075851eA9035BE714A70B78B09a4e0CC3c1aa5"
+}
