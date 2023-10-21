@@ -1,0 +1,11 @@
+{
+    "name": "BSDT",
+    "website": "http://www.wind.com/",
+    "description": "The best choice for football Sports Hedge arbitrage Hosting",
+    "explorer": "https://bscscan.com/token/0xaedddc4410b6b531e88bfb3252dcca17966cb654",
+    "type": "BEP20",
+    "symbol": "BSDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xaedddc4410b6b531e88bfb3252dcca17966cb654"
+   }
