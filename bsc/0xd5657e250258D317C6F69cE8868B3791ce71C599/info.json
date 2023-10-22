@@ -1,0 +1,11 @@
+{
+ "name": "LNWK",
+ "website": "https://www.lnwk.top",
+ "description": "$LNK~LNWK, also known as Lightning Network in Chinese, is an inscription on Bitcoin and the first cross chain, NFT, pledge lending, etc. on BRC20, with a total issuance of 21 million pieces",
+ "explorer": "https://www.bscscan.com/token/0xd5657e250258D317C6F69cE8868B3791ce71C599",
+ "type": "BEP20",
+ "symbol": "LNWK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd5657e250258D317C6F69cE8868B3791ce71C599"
+}
