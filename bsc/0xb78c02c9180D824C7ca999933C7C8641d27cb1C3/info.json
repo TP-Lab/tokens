@@ -1,0 +1,11 @@
+{
+ "name": "H2 Vip Token",
+ "website": "-",
+ "description": "H2 Vip Token is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xb78c02c9180D824C7ca999933C7C8641d27cb1C3",
+ "type": "BEP20",
+ "symbol": " H2 ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb78c02c9180D824C7ca999933C7C8641d27cb1C3"
+}
