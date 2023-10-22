@@ -1,0 +1,11 @@
+{
+ "name": "BBG Token",
+ "website": "https://bgswap.io",
+ "description": "BBG Swap developed collaboratively by Binance Labs and members of the Ethereum Technical Open Source Organization in its early stages, was later invested in by Microsoft, Google, ",
+ "explorer": "https://bscscan.com/token/0xaC4d2F229A3499F7E4E90A5932758A6829d69CFF",
+ "type": "BEP20",
+ "symbol": "BBG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaC4d2F229A3499F7E4E90A5932758A6829d69CFF"
+}
