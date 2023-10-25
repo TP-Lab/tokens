@@ -1,0 +1,11 @@
+{
+    "name": "skilling exhange token",
+    "website": "https://www.skilling.top/h5",
+    "description": "skilling exhange token",
+    "explorer": "https://bscscan.com/token/0xdb824d84d34D34C16B1dA71C10C61b24c44137Ff",
+    "type": "BEP20",
+    "symbol": "SKILL",
+    "decimals": 4,
+    "status": "active",
+    "id": "0xdb824d84d34D34C16B1dA71C10C61b24c44137Ff"
+   }
