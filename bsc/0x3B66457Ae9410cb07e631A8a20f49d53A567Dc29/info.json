@@ -1,0 +1,11 @@
+{
+  "name": "Lucky",
+  "website": "https://www.bnblucky.com/",
+  "description": "Lucky是由MGM基金会推出的链上娱乐城通用积分，其发行并不通过ICO，也不向公众募资。起初，Lucky基于以太坊的ERC-20协议和币安智能链的BEP-20协议发行，但计划在未来迁移到自主研发的公有链上。  MGM基金会的目标是构建Web3.0链上娱乐城（Lucky Club）的完整应用生态，将Lucky塑造为娱乐生态的核心元素。未来，Lucky将在整个Lucky Club平台以及MGM基金会投资的各生态链项目中得到应用。 区块链的核心理念是共享和透明。因此，Lucky以权益和信用为主要基调，计划将50%的Lucky全球通用积分通过游戏算力挖矿的方式逐步释放给用户，从而鼓励所有用户参与平台的建设和发展，共同构建Lucky区块链生态系统。 ",
+  "explorer": "https://bscscan.com/address/0x3B66457Ae9410cb07e631A8a20f49d53A567Dc29",
+  "type": "BEP20",
+  "symbol": "LUCKY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x3B66457Ae9410cb07e631A8a20f49d53A567Dc29"
+}
