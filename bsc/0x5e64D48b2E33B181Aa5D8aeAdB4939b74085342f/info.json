@@ -1,0 +1,11 @@
+ {
+ "name": "TonDao",
+ "website": "https://tondao.vip",
+ "description": "TONDAO (TOD) was initiated by TON early miners and TON community developers. It currently operates 3 TON election nodes and 12 verification nodes, and has stable TON GAS fee rewards.",
+ "explorer": "https://bscscan.com/token/0x5e64D48b2E33B181Aa5D8aeAdB4939b74085342f",
+ "type": "BEP20",
+ "symbol": "TOD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5e64D48b2E33B181Aa5D8aeAdB4939b74085342f"
+}
