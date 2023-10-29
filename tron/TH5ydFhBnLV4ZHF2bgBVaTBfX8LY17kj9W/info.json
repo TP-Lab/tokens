@@ -1,0 +1,11 @@
+{
+  "name": "RHEA CHAIN",
+  "website": "https://rheachain.org/",
+  "description": "RHEA is a Web 3.0 metaverse on TRON blockchain, aiming to become an open-source, multi-chain metaverse platform supporting various currency mining.",
+  "explorer": "https:// https://tronscan.org/#/token20/TH5ydFhBnLV4ZHF2bgBVaTBfX8LY17kj9W",
+  "type": "TRC20",
+  "symbol": "REA",
+  "decimals": 6,
+  "status": "active",
+  "id": " TH5ydFhBnLV4ZHF2bgBVaTBfX8LY17kj9W "
+}
