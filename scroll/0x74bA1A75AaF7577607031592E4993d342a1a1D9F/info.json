@@ -1,0 +1,11 @@
+{
+ "name": "AIGecko",
+ "website": "-",
+ "description": "AIGecko is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://blockscout.scroll.io/address/0x74bA1A75AaF7577607031592E4993d342a1a1D9F",
+ "type": "Scroll",
+ "symbol": " GECKO ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x74bA1A75AaF7577607031592E4993d342a1a1D9F"
+}
