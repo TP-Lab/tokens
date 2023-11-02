@@ -1,0 +1,11 @@
+{
+ "name": "TokenFi",
+ "website": "https://tokenfi.com/",
+ "description": "TokenFi solves this by giving users all they need to tokenize an asset in a simple all-in-one platform without writing a single line of code!",
+ "explorer": "https://etherscan.io/token/0x4507cEf57C46789eF8d1a19EA45f4216bae2B528",
+ "type": "ERC20",
+ "symbol": "TOKEN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528"
+}
