@@ -1,0 +1,11 @@
+{
+    "name": "BTCLONG",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0xa5f983a629344da3a4e593056F18057134E86688",
+    "type": "BEP20",
+    "symbol": "BTCLONG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa5f983a629344da3a4e593056F18057134E86688"
+}
