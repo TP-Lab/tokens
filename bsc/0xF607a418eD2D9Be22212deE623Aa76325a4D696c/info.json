@@ -1,0 +1,11 @@
+{ 
+"name": "Hashkey",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/address/0xF607a418eD2D9Be22212deE623Aa76325a4D696c",
+"type": "BEP20",
+"symbol": "Hashkey",
+"decimals": 18,
+"status": "active",
+"id": "0xF607a418eD2D9Be22212deE623Aa76325a4D696c"
+}
