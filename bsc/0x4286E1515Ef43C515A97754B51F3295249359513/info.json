@@ -1,0 +1,11 @@
+{
+ "name": "FSLong",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x4286E1515Ef43C515A97754B51F3295249359513",
+ "type": "BEP20",
+ "symbol": "FSLong",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4286E1515Ef43C515A97754B51F3295249359513"
+}
