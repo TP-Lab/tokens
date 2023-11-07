@@ -1,0 +1,11 @@
+{
+  "name": "SAFE",
+  "website": "https://github.com/SAFEFinance",
+  "description": "Build the incubation platform for the world's most influential high-quality Web3 projects\n",
+  "explorer": "https://bscscan.com/token/0x14fcf3c5abe4f9ee6e2744ea50c47abf1fb3e605",
+  "type": "BEP20",
+  "symbol": "SAFE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x14fcF3C5ABE4F9EE6e2744ea50C47abf1fB3e605"
+}
