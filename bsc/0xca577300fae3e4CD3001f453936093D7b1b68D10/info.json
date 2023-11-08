@@ -1,0 +1,11 @@
+{
+ "name": "X AI",
+ "website": "https://grok.gd",
+ "description": "Grok machine intelligence is the last invention that humanity will ever need to make..",
+ "explorer": "https://bscscan.com/address/0xca577300fae3e4CD3001f453936093D7b1b68D10",
+ "type": "BEP20",
+ "symbol": "GROK",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xca577300fae3e4CD3001f453936093D7b1b68D10"
+}
