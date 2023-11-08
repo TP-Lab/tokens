@@ -1,0 +1,11 @@
+{
+ "name": "Grok",
+ "website": "https://grok.build",
+ "description": "Grok XAI - Artificial Intelligence is the Future.",
+ "explorer": "https://bscscan.com/address/0x0009Ae5a69B037eA74A900783fab457fa605ae5d",
+ "type": "BEP20",
+ "symbol": "XAI",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0009Ae5a69B037eA74A900783fab457fa605ae5d"
+}
