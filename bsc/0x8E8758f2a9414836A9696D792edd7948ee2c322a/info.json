@@ -1,0 +1,11 @@
+{
+    "name": "MT-C",
+    "website": "https://twitter.com/MythWorldStudio",
+    "description": "MT-C is a decentralized approach that utilizes peer-to-peer networks and consensus initiative, open source code, blockchain as the underlying technology, and is based on cutting-edge technology to create a cryptocurrency for future planetary payments",
+    "explorer": "https://www.bscscan.com/token/0x8E8758f2a9414836A9696D792edd7948ee2c322a",
+    "type": "BEP20",
+    "symbol": "MT-C",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8E8758f2a9414836A9696D792edd7948ee2c322a"
+ }
