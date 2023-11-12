@@ -1,0 +1,11 @@
+{
+ "name": "CLASSIC Token",
+ "website": "http://classics-finance.com",
+ "description": "Salute The Classic Finance is a decentralized co-creation and upgraded mining model built on the BSC chain, forming a one-to-one parity, with both sales and purchases, and jointly building a financial services and NFT collection trading platform with users.",
+ "explorer": "https://bscscan.com/token/0x2398E13A3376253B62Aef4559AA5630bC48061bc",
+ "type": "BEP20",
+ "symbol": "CLASSIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2398E13A3376253B62Aef4559AA5630bC48061bc"
+}
