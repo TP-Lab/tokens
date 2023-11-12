@@ -1,0 +1,11 @@
+{
+ "name": "BrinkCoin",
+ "website": "https://brink-coin.com/",
+ "description": "The gameverse unifcation token built for games by content creators and social influencers providing enhanced gaming platforms via the blockchain",
+ "explorer": "https://etherscan.io/token/0xdd230803C087aa54F3793f925c33a385E473C9D1#code",
+ "type": "ERC20",
+ "symbol": "BRNK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdd230803C087aa54F3793f925c33a385E473C9D1"
+}
