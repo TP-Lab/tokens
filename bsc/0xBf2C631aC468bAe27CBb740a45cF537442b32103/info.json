@@ -1,0 +1,11 @@
+{
+  "name": "CatCoin",
+  "website": "https://www.catnation.xyz/",
+  "description": "The world's first network nation, Cat Nation, where cats will ultimately defeat dogs.(世界上第一个网络国家猫国，猫咪最终将打败狗狗)",
+  "explorer": "https://bscscan.com/token/0xBf2C631aC468bAe27CBb740a45cF537442b32103",
+  "type": "BEP20",
+  "symbol": "CAT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xBf2C631aC468bAe27CBb740a45cF537442b32103"
+}
