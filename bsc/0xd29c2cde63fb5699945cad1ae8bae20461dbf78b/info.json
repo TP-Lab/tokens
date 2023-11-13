@@ -1,0 +1,12 @@
+{
+ "name": "BVC Token",
+ "website": "https://btcvault.one",
+ "description": "Bitcoin Vault的目标是成为一个创新的、安全的、民主的去中心化金融平台，为用户提供更好的选择和体验，推动加密货币和区块链技术的发展。BVC持有者可以参与平台的治理，包括投票决策等。
+BVC总量为1000万枚，无预留（前期流通量以创世激励+挖矿产出为准），团队和基金会都不持有额外代币。超级节点投票和超级节点所得的比例分别为5%和10%。早期捐赠占据3%-5%，以实际捐赠数据为准。社区用户将获得80%-82%的代币。",
+ "explorer": "https://bscscan.com/token/0xd29c2cde63fb5699945cad1ae8bae20461dbf78b",
+ "type": "BEP20",
+ "symbol": "BVC",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xd29C2CdE63FB5699945caD1ae8BAe20461DbF78B"
+}
