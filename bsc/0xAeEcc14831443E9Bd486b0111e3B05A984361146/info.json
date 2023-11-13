@@ -1,0 +1,11 @@
+{
+    "name": "FIFI",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0xAeEcc14831443E9Bd486b0111e3B05A984361146",
+    "type": "BEP20",
+    "symbol": "FIFI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xAeEcc14831443E9Bd486b0111e3B05A984361146"
+}
