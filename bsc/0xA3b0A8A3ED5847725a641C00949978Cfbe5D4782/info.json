@@ -2,10 +2,10 @@
   "name": "Red Spider Token",
   "website": "http://redspider.dapp.redspider.xyz",
   "description": "Red Spider is committed to building a decentralized financial business empire shared by everyone.",
-  "explorer": "https://bscscan.com/address/0x9a5068077749d80fa5cbf8e4707dcfce74c899a8",
+  "explorer": "https://bscscan.com/address/0xA3b0A8A3ED5847725a641C00949978Cfbe5D4782",
   "type": "BEP20",
   "symbol": "RST",
   "decimals": 18,
   "status": "active",
-  "id": "0x9A5068077749D80fA5CBF8e4707DcFcE74C899A8"
+  "id": "0xA3b0A8A3ED5847725a641C00949978Cfbe5D4782"
 }
