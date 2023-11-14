@@ -1,0 +1,11 @@
+{
+  "name": "BKON",
+  "website": "https://b-kon.io",
+  "description": "BKON Project",
+  "explorer": "https://explorer.kon-wallet.com/tokens/0x1aF885C7DF29de8A4678BC8b69e84C980C9ab856",
+  "type": "KRC20",
+  "symbol": "BKON",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1aF885C7DF29de8A4678BC8b69e84C980C9ab856"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "KON",
+  "website": "https://konpay.io/",
+  "description": "KONPAY, My digital assets management place",
+  "explorer": "https://explorer.kon-wallet.com/tokens/0x716c2ECca2cD5f42B20D52417A321ce3b76d3a0c",
+  "type": "KRC20",
+  "symbol": "KON",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x716c2ECca2cD5f42B20D52417A321ce3b76d3a0c"
+}

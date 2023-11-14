@@ -1,0 +1,11 @@
+{
+  "name": "GKOD",
+  "website": "https://gkod.io",
+  "description": "GKOD Project",
+  "explorer": "https://explorer.kon-wallet.com/tokens/0x2BAD87136c4a302F6bDD5ed7f3AF35BeD5cef6Fa",
+  "type": "KRC20",
+  "symbol": "GKOD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2BAD87136c4a302F6bDD5ed7f3AF35BeD5cef6Fa"
+}
