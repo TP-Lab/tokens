@@ -1,0 +1,11 @@
+{
+ "name": "AIDOG",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xd516F1437433263bA5a234882FDeBc3E4DF892E9",
+ "type": "BEP20",
+ "symbol": "AIDOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd516F1437433263bA5a234882FDeBc3E4DF892E9"
+}
