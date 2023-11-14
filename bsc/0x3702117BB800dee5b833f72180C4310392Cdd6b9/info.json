@@ -1,0 +1,11 @@
+{
+ "name": "Infinity Pi Token",
+ "website": "https://infinity-pi.com/index.html",
+ "description": "Step into the limitless world of Infinity Pi Token, where the infinite possibilities of blockchain technology intersect with the transcendental beauty of mathematics. Like the never-ending digits of Pi, Infinity Pi Token represents an eternal journey into the future of decentralized finance.",
+ "explorer": "https://bscscan.com/address/0x3702117BB800dee5b833f72180C4310392Cdd6b9",
+ "type": "BEP20",
+ "symbol": "INF",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x3702117BB800dee5b833f72180C4310392Cdd6b9"
+}
