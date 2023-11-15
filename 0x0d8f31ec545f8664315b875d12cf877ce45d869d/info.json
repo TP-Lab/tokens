@@ -1,0 +1,11 @@
+{
+"name": "BusinessIncubatorsChain",
+"website": "http://bitchains.org/",
+"description": "Business Incubators chian is a high-performance public chain dedicated to providing a convenient and customized enterprise chain reform ecosystem for enterprise chain reform.",
+"explorer":"https://bscscan.com/token/0x0d8f31ec545f8664315b875d12cf877ce45d869d",
+"type": "BEP20",
+"symbol": "BIT",
+"decimals": 18,
+"status": "active",
+"id": "0x0d8f31ec545f8664315b875d12cf877ce45d869d"
+}
