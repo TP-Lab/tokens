@@ -1,0 +1,11 @@
+{
+    "name": "FTTswap",
+    "website": "https://github.com/ftt-swap/ftt-swap",
+    "description": "FTTswap",
+    "explorer": "https://bscscan.com/token/0xe1b36097b2941C6f8528BeB2176fb2e2F9F0E261",
+    "type": "BEP20",
+    "symbol": "FTT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe1b36097b2941C6f8528BeB2176fb2e2F9F0E261"
+   }
