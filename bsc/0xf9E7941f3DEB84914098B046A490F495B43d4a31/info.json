@@ -1,0 +1,11 @@
+{ 
+"name": "Metaverse System Token",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0xf9E7941f3DEB84914098B046A490F495B43d4a31",
+"type": "BEP20",
+"symbol": "MST",
+"decimals": 18,
+"status": "active",
+"id": "0xf9E7941f3DEB84914098B046A490F495B43d4a31"
+}

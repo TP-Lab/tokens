@@ -1,0 +1,11 @@
+{
+ "name": "Wed",
+ "website": "-",
+ "description": "Wed is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xeBD35ff8EE51Aef61DefAa05052c7B5117640b39",
+ "type": "BEP20",
+ "symbol": "Wed",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xeBD35ff8EE51Aef61DefAa05052c7B5117640b39"
+}

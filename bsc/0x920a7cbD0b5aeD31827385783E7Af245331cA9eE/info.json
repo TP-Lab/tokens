@@ -1,0 +1,11 @@
+{
+    "name": "Do Right (DR)",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0x920a7cbD0b5aeD31827385783E7Af245331cA9eE",
+    "type": "BEP20",
+    "symbol": "DR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x920a7cbD0b5aeD31827385783E7Af245331cA9eE"
+}
