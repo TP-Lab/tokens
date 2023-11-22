@@ -1,0 +1,11 @@
+{
+ "name": "TVN",
+ "website": "https://tvn.world",
+ "description": "TVN is a global tourism network that aggregates tourism incentives andWEB3cultural and tourism services. With the guidance of 91 global nodeambassadors, it brings unique experiences to users holding tokens andNFTsin terms of staking, product services, travel socialization, and cultural andtourism NFTs, creating a strongly consensus-based travel network.",
+ "explorer": "https://bscscan.com/address/0x2f3DD8AA8F51723b0519636E7853A8305611d61b",
+ "type": "BEP20",
+ "symbol": "TVN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2f3DD8AA8F51723b0519636E7853A8305611d61b"
+}

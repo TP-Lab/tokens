@@ -1,0 +1,11 @@
+{
+ "name": "Bitrentech",
+ "website": "https://www.bitrentech.co",
+ "description": "BRT is one of the few new technologies of the same kind that allow it to connect with the meta universe and provide digital asset exploration. We provide a high standard and perfect virtual field. The platform setting will protect the overall transaction and become a new trend on the Internet in the future!",
+ "explorer": "https://bscscan.com/token/0xCe6d1B85951FF38B5C6582F5A1c4caF8a59B24D6",
+ "type": "BEP20",
+ "symbol": "BRT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xCe6d1B85951FF38B5C6582F5A1c4caF8a59B24D6"
+}

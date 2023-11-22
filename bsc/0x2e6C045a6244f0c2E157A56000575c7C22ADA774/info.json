@@ -1,0 +1,11 @@
+{
+ "name": "MOS Token",
+ "website": "https://mosswap.com",
+ "description": "Mos token is the governance token of Sea Star Dao. It is the initiator of the economic model of Liquid Staking and Yield Farming. It has taken measures such as destruction, pledge, halving, lock warehouse and pool building to make Mos token develop more healthily.",
+ "explorer": "https://bscscan.com/token/0x2e6C045a6244f0c2E157A56000575c7C22ADA774",
+ "type": "BEP20",
+ "symbol": "MOS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2e6C045a6244f0c2E157A56000575c7C22ADA774"
+}

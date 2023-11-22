@@ -1,0 +1,11 @@
+{
+ "name": "Crazy Car Racing",
+ "website": "http://crazycarracing.vip",
+ "description": "Crazy Car Racing is a competitive game. Become the most powerful GameFi!",
+ "explorer": "https://bscscan.com/token/0x7A47B4C6FDE8A76a047Ff4a86A44d4c9E13afc87",
+ "type": "BEP20",
+ "symbol": "CCR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7A47B4C6FDE8A76a047Ff4a86A44d4c9E13afc87"
+}

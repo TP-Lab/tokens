@@ -1,0 +1,11 @@
+{
+ "name": "TAPDAO",
+ "website": "-",
+ "description": "TAPDAO is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xbF8B1E1914CCacd2F097E350536C243e69a58888",
+ "type": "BEP20",
+ "symbol": "TAPDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbF8B1E1914CCacd2F097E350536C243e69a58888"
+}

@@ -1,0 +1,11 @@
+{
+“name”: “PandoraMetaverse”,
+“website”: “https://pandoraswap.io”,
+“description”: “PandoraMetaverse is a cross chain metaverse game that combines Gamefi, Socialfi, and NFTSwap with the themeof Eastern and Western myths.”,
+“explorer”: “https://bscscan.com/address/0x3d15807806A2289928582756B0B12d2fD305F103”,
+“type”: “BEP20”,
+“symbol”: “RDA”,
+“decimals”: 18,
+“status”: “active”,
+“id”: “0x3d15807806A2289928582756B0B12d2fD305F103”
+}

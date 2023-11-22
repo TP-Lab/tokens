@@ -1,0 +1,11 @@
+{
+ "name": "ZQ",
+ "website": "",
+ "description": "ZQ is a platform token. The platform provides audit and insurance compensation services. The project settled on the platform must pay the corresponding deposit, so as to prevent and reduce fraud in the field of encryption.",
+ "explorer": "https://bscscan.com/token/0x5E72448781990D58fd563E195551a1Cfd36d58B0",
+ "type": "BEP20",
+ "symbol": "ZQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5E72448781990D58fd563E195551a1Cfd36d58B0"
+}

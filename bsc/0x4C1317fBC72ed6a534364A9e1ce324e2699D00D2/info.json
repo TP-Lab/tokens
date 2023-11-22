@@ -1,0 +1,11 @@
+{
+    "name": "Reign of Swords",
+    "website": "http://www.reignofswords.top",
+    "description": "Rnss is a community driven token.",
+    "explorer": "https://bscscan.com/address/0x4C1317fBC72ed6a534364A9e1ce324e2699D00D2",
+    "type": "BEP20",
+    "symbol": "RnSs",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x4C1317fBC72ed6a534364A9e1ce324e2699D00D2"
+}

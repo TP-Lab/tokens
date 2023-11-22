@@ -1,0 +1,11 @@
+{
+ "name": "GiiiO Coin",
+ "website": "https://giiio.io/",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x2e9f45c7b64cb54e6786110a088f8a614ab9170f",
+ "type": "BEP20",
+ "symbol": "GOC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2e9f45c7b64cb54e6786110a088f8a614ab9170f"
+}

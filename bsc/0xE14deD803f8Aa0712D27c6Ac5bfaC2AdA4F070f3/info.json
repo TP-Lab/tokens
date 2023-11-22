@@ -1,0 +1,11 @@
+{
+ "name": "Noah's Ark",
+ "website": "",
+ "description": "Noah's Ark token",
+ "explorer": "https://www.bscscan.com/token/0xE14deD803f8Aa0712D27c6Ac5bfaC2AdA4F070f3",
+ "type": "BEP20",
+ "symbol": "NYFZ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE14deD803f8Aa0712D27c6Ac5bfaC2AdA4F070f3"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MIR coin",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xB5e8dE65aA60A9855D0e5B872e63dA02a93c28bf",
+ "type": "BSC20",
+ "symbol": "MIC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xB5e8dE65aA60A9855D0e5B872e63dA02a93c28bf"
+}

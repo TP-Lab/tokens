@@ -1,0 +1,11 @@
+{
+  "name": "NFT",
+  "website": "https://pangolinswap.net/",
+  "description": "NFT",
+  "explorer": "https://bscscan.com/token/0xf1e30F1Ee4fAc5b3C7fa87e01C9fFDC91B40bE92",
+  "type": "BEP20",
+  "symbol": "NFT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf1e30F1Ee4fAc5b3C7fa87e01C9fFDC91B40bE92"
+}

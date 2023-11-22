@@ -1,0 +1,11 @@
+{
+    "name": "TFX Token",
+    "website": "https://www.tfxvip.cc",
+    "description": "TFX区块链应用平台,现阶段基于币安智能链 BSC,发行了基于 BSC 的代币和自己的 DAPP、链游、社交等。项目初期基于强大的 BSC 网络，可以让项目更快速和安全的实施。平台通过提供包括易购、社交、链游、娱乐、趣步、公益等在内的应用服务，激励社区维护 TFX 区块链应用平台以及在平台上开发 DApp 应用， 为平台增加价值并推动网络传播效应，将经济激励系统本身变为能够在系统内循环的体系， 创造完全去中心化的价值互联与价值传输生态系统。",
+    "explorer": "https://bscscan.com/token/0xbe7bdd5d57ddd667347764b13626b90175ab852b",
+    "type": "BEP20",
+    "symbol": "TFX",
+    "decimals": 5,
+    "status": "active",
+    "id": "0xBE7bdd5D57DDd667347764B13626b90175Ab852b"
+}

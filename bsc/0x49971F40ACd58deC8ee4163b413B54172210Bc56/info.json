@@ -1,0 +1,11 @@
+{
+ "name": "Block Security Shield",
+ "website": "-",
+ "description": "Block Security Shield(BSL) is a highly autonomous, decentralized, fair and just ecological community.",
+ "explorer": "https://bscscan.com/token/0x49971F40ACd58deC8ee4163b413B54172210Bc56",
+ "type": "BEP20",
+ "symbol": "BSL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x49971F40ACd58deC8ee4163b413B54172210Bc56"
+}

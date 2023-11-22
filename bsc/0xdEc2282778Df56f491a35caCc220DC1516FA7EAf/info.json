@@ -1,0 +1,11 @@
+{
+ "name": "RST Token",
+ "website": "http://rstmeta.com",
+ "description": "RstMeta is a casual competitive blockchain game that integrates Game, NFT and Metaverse.",
+ "explorer": "https://bscscan.com/token/0xdEc2282778Df56f491a35caCc220DC1516FA7EAf",
+ "type": "BEP20",
+ "symbol": "RST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdEc2282778Df56f491a35caCc220DC1516FA7EAf"
+}

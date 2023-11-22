@@ -1,0 +1,11 @@
+{
+ "name": "COEX",
+ "website": "https://mcoex.com",
+ "description": "MCOEX's official platform coins",
+ "explorer": "https://etherscan.io/address/0x01659335Fc8aD471C7079f6f04E7532c7d001d43",
+ "type": "ERC20",
+ "symbol": "COEX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x01659335Fc8aD471C7079f6f04E7532c7d001d43"
+}

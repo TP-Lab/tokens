@@ -1,0 +1,11 @@
+{
+ "name": "HUNU",
+ "website": "http://hunu88.top",
+ "description": "A coin for an artifact",
+ "explorer": "https://bscscan.com/token/0xafA6cA29f52775a199d50c72dC5D33d29aAE663C",
+ "type": "BEP20",
+ "symbol": "HUNU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xafA6cA29f52775a199d50c72dC5D33d29aAE663C"
+}

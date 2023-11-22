@@ -1,0 +1,11 @@
+{
+ "name": "Star Trek Coal Material",
+ "website": "https://www.startrek.website",
+ "description": "The Coal provide energy, and power  plants mainly consume coal mines to  generate electricity. ",
+ "explorer": "https://bscscan.com/token/0x400E8fDF00Bd49047802b1a76CC2197D93B3288A",
+ "type": "BEP20",
+ "symbol": "STCM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x400E8fDF00Bd49047802b1a76CC2197D93B3288A"
+}

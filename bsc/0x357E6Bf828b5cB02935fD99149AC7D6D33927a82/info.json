@@ -1,0 +1,11 @@
+{
+ "name": "SeaWorld",
+ "website": "",
+ "description": "SeaWorld",
+ "explorer": "https://www.bscscan.com/token/0x357E6Bf828b5cB02935fD99149AC7D6D33927a82",
+ "type": "BEP20",
+ "symbol": "SEA",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x357E6Bf828b5cB02935fD99149AC7D6D33927a82"
+}

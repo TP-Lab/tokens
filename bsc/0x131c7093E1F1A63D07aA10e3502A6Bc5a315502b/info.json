@@ -1,0 +1,11 @@
+{
+  "name": "A Game King",
+  "website": "https://www.agameking.link",
+  "description": "AGK creates a new model, which combines the popularity of community users and blockchain technology.",
+  "explorer": "https://bscscan.com/token/0x131c7093E1F1A63D07aA10e3502A6Bc5a315502b",
+  "type": "BEP20",
+  "symbol": "AGK",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x131c7093E1F1A63D07aA10e3502A6Bc5a315502b"
+}

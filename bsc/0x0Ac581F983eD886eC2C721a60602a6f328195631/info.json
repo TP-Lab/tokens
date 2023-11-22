@@ -1,0 +1,11 @@
+{ 
+"name": "TCT",
+"website": "http://www.tunafinance.io/",
+"description": "Token TCT trading generates tax fees, and community members enjoy tax dividend rights when inviting new users, which helps promote the development and growth of the community.",
+"explorer": "https://bscscan.com/token/0x0Ac581F983eD886eC2C721a60602a6f328195631",
+"type": "BEP20",
+"symbol": "TCT",
+"decimals": 18,
+"status": "active",
+"id": "0x0Ac581F983eD886eC2C721a60602a6f328195631"
+}

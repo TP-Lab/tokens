@@ -1,0 +1,11 @@
+{
+  "name": "NEW JOYLINK TOKEN",
+  "website": "https://joylink.app",
+  "description": "A leading global experimental blockchain gaming platform",
+  "explorer": "https://bscscan.com/token/0x4D071352a133Eb830Ae02acEBbA162dca39C2FB5",
+  "type": "BEP20",
+  "symbol": "JOLIN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4D071352a133Eb830Ae02acEBbA162dca39C2FB5"
+ }

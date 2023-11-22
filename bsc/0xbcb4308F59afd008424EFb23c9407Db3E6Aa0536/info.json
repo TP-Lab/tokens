@@ -1,0 +1,11 @@
+{
+ "PGNFT": "PGNFT Token",
+ "website": "https://pgcscan.com",
+ "description": "Pangu eco card NFT",
+ "explorer": "https://bscscan.com/token/0xbcb4308F59afd008424EFb23c9407Db3E6Aa0536",
+ "type": "BEP20",
+ "symbol": "PGNFT",
+ "decimals": 0,
+ "status": "active",
+ "id": "0xbcb4308F59afd008424EFb23c9407Db3E6Aa0536"
+}

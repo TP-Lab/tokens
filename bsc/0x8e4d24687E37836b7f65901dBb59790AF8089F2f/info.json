@@ -1,0 +1,11 @@
+{
+ "name": "PCDN",
+ "website": "",
+ "description": "PCDN(即P2P Content Delivery Notwork）点对点内容分发网络，是分布式云计算加速服务的结算币",
+ "explorer": "https://bscscan.com/token/0x8e4d24687E37836b7f65901dBb59790AF8089F2f",
+ "type": "BEP20",
+ "symbol": "PCDN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8e4d24687E37836b7f65901dBb59790AF8089F2f"
+}

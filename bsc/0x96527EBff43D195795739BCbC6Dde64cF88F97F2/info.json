@@ -1,0 +1,11 @@
+{
+    "name": "STAR",
+    "website": "",
+    "description": "STAR will use digital technology to carry value in the new financial system, and achieve cross time and cross space value through decentralized network construction, allowing financial rights to return to the public and making finance more efficient, inclusive, and fair",
+    "explorer": "https://bscscan.com/token/0x96527EBff43D195795739BCbC6Dde64cF88F97F2",
+    "decimals":18,
+    "type": "BEP20",
+    "symbol": "STAR",
+    "status": "active",
+    "id": "0x96527EBff43D195795739BCbC6Dde64cF88F97F2"
+}

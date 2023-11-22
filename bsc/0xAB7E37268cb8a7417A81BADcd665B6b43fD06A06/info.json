@@ -1,0 +1,11 @@
+{
+ "name": "NanoMeter Beacon",
+ "website": "www.nmbtc.finance",
+ "description": "A new type of community governance token that automatically adds liquidity, part of which can be supplied to the market using NMBTC liquidity mining",
+ "explorer": "https://bscscan.com/token/0xAB7E37268cb8a7417A81BADcd665B6b43fD06A06",
+ "type": "BEP20",
+ "symbol": "nmBEN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAB7E37268cb8a7417A81BADcd665B6b43fD06A06"
+} 

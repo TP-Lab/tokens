@@ -1,0 +1,11 @@
+{
+    "name": "BTAU",
+    "website": "http://www.btaus.top",
+    "description": "A community diven token with staking and mining to reward all the holders.",
+    "explorer": "https://bscscan.com/address/0x27A64cbea6Da0B17aE42200500b5B18Ab6c89B01",
+    "type": "BEP20",
+    "symbol": "BTAU",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x27A64cbea6Da0B17aE42200500b5B18Ab6c89B01"
+}

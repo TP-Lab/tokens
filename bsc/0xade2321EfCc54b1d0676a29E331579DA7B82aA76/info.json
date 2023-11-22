@@ -1,0 +1,11 @@
+{
+ "name": "IPP",
+ "website": "https://ipptech.io/",
+ "description": "The greatest moments in history were born out of an idea. We discovered new worlds in pursuit of our dreams. We learned new ways to communicate.",
+ "explorer": "https://bscscan.com/token/0xade2321EfCc54b1d0676a29E331579DA7B82aA76",
+ "type": "BEP20",
+ "symbol": "IPP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xade2321EfCc54b1d0676a29E331579DA7B82aA76"
+}

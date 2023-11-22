@@ -1,0 +1,11 @@
+{
+ "name": "V-Doge token",
+ "website": "http://virsdoge.com/",
+ "description": " VIRUS DOGE NEW GAME! Contagion, contagion, every time a new contract comes out there’s an orgasm",
+ "explorer": "https://bscscan.com/token/0x644C7aBD03CE609c02E9021187E2AEB55170ddC0",
+ "type": "BEP20",
+ "symbol": "V-Doge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x644C7aBD03CE609c02E9021187E2AEB55170ddC0"
+} 

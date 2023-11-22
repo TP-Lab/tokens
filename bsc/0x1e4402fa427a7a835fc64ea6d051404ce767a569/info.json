@@ -1,0 +1,11 @@
+{
+ "name": "HUNTER",
+ "website": "https://www.hunterking.me/",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x1e4402fa427a7a835fc64ea6d051404ce767a569",
+ "type": "BEP20",
+ "symbol": "Hound",
+ "decimals": 10,
+ "status": "not open",
+ "id": "0x1e4402fa427a7a835fc64ea6d051404ce767a569"
+}

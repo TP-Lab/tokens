@@ -1,0 +1,11 @@
+{
+  "name":"Squid Game on OEC",
+  "website":"",
+  "description":"The meme token of $SQUIDK Squid Game on OEC is based on the popularity of Netflix.",
+  "explorer":"https://www.oklink.com/okexchain/address/0x2632256f09ef59b428c48622dc042198b9be2609",
+  "type":"KIP20",
+  "symbol":"SQUIDK",
+  "decimals":18,
+  "status":"active",
+  "id":"0x2632256f09Ef59B428C48622dc042198B9be2609"
+}

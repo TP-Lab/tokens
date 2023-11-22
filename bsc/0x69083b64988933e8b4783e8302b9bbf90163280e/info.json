@@ -1,0 +1,11 @@
+{
+ "name": "Portify ",
+ "website": "https://portify.app",
+ "description": "Portify is a one-stop SocialFi platform on the Binance smart chain with multi-chain DeFi integration.",
+ "explorer": "https://bscscan.com/token/0x69083b64988933E8B4783E8302b9bBf90163280E",
+ "type": "BEP20",
+ "symbol": "PFY",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x69083b64988933E8B4783E8302b9bBf90163280E"
+}

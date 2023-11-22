@@ -1,0 +1,15 @@
+{
+ "name": "Token MSC",
+ "website": "https://www.gaiagame.io/",
+ "description": "A blockchain game using the DAO model",
+ "explorer": "https://bscscan.com/token/0x74f51F4550E961f76d62BCC918a5ca201eFb3Aec",
+ "type": "BEP20",
+ "symbol": "MSC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x74f51F4550E961f76d62BCC918a5ca201eFb3Aec"
+}
+
+
+
+

@@ -1,0 +1,11 @@
+{
+ "name": "FirstDoge",
+ "website": "http://firstdoges.com/#/home",
+ "description": "Based on the Genesis GameFi of the metaverse world, in the First Doge, all assets are obtained by on-chain contracts.",
+ "explorer": "https://bscscan.com/address/0xa21f043F78F51CaBACF84960AaaCB7a2f8110b67",
+ "type": "BEP-20",
+ "symbol": "FirstDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa21f043F78F51CaBACF84960AaaCB7a2f8110b67"
+}

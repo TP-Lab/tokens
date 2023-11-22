@@ -1,0 +1,11 @@
+{
+ "name": "Buffett",
+ "website": "..",
+ "description": "Warren Edward Buffett ( born August 30, 1930) is an American business magnate, investor, and philanthropist. He is widely regarded as one of the most successful investors in the world. Often introduced as "legendary investor, Warren Buffett",he is the primary shareholder, chairman and CEO of Berkshire Hathaway. He is consistently ranked among the world's wealthiest people.",
+ "explorer": "https://bscscan.com/token/0x37245951beD71CBA77Cdd9eA8C4F5a06204E4428",
+ "type": "BEP20",
+ "symbol": "Buffett",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x37245951beD71CBA77Cdd9eA8C4F5a06204E4428"
+}

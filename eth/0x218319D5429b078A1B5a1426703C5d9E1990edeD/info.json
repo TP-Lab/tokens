@@ -1,0 +1,11 @@
+{
+ "name": "Grand Tourer",
+ "website": "https://grandtourer.io",
+ "description": "GT (Grand Tourer) is a high-performance decentralized wallet based on Web3, which will be built into a global community autonomous wallet system",
+ "explorer": "https://etherscan.io/address/0x218319D5429b078A1B5a1426703C5d9E1990edeD",
+ "type": "ERC20",
+ "symbol": "GT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x218319D5429b078A1B5a1426703C5d9E1990edeD"
+}

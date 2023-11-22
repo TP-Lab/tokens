@@ -1,0 +1,11 @@
+{ 
+"name": "DAO",
+"website": "https://thedao0.github.io/app/#/",
+"description": "DAO is a community autonomous open source project launched by hundreds of blockchain communities around the world based on TheDAO, aiming to continue the spirit of DAO, integrate DAO into various ecologies such as Defi2.0, Gamefi, NFT, Metaverse, web3.0 and redefine the world of DAO!",
+"explorer": "https://bscscan.com/token/0xe6F8C8b19D7EC2244C97930D6187c45a7E6D0132",
+"type": "BEP20",
+"symbol": "DAO",
+"decimals": 18,
+"status": "active",
+"id": "0xe6F8C8b19D7EC2244C97930D6187c45a7E6D0132"
+}

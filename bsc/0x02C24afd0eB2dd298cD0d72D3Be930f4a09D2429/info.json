@@ -1,0 +1,11 @@
+{
+ "name": "VENO",
+ "website": "https://VenoMeme.com",
+ "description": "New generation of interstellar Meme Coin.",
+ "explorer": "https://bscscan.com/address/0x02C24afd0eB2dd298cD0d72D3Be930f4a09D2429",
+ "type": "BEP20",
+ "symbol": "VENO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x02C24afd0eB2dd298cD0d72D3Be930f4a09D2429"
+}

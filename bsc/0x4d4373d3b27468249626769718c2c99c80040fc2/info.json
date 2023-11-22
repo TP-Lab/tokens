@@ -1,0 +1,11 @@
+{
+    "name": "DSNToken",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0x4d4373d3b27468249626769718c2c99c80040fc2",
+    "type": "BEP20",
+    "symbol": "DSN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4d4373d3b27468249626769718c2c99c80040fc2"
+} 

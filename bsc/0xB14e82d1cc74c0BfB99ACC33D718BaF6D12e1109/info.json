@@ -1,0 +1,11 @@
+{
+ "name": "JIWE Token",
+ "website": "https://www.jiwefi.com/",
+ "description": "gamefi on bsc.",
+ "explorer": "https://bscscan.com/token/0xB14e82d1cc74c0BfB99ACC33D718BaF6D12e1109",
+ "type": "BEP20",
+ "symbol": "JIWE",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xB14e82d1cc74c0BfB99ACC33D718BaF6D12e1109"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "FIFA Finance",
+ "website": "https://fifa.finance/",
+ "description": "FIFA Finance(FIFI) is a rich-content crypto ecology dedicated to emphasizing sports and competition. FIFI hopes to help sports fans, event followers and industry practitioners better visit the financial ecology with FIFA.",
+ "explorer": "https://bscscan.com/token/0x82b50CC6Dfbc0DAaC4816BD78b73632787B022E6",
+ "type": "BEP20",
+ "symbol": "FIFI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x82b50CC6Dfbc0DAaC4816BD78b73632787B022E6"
+}

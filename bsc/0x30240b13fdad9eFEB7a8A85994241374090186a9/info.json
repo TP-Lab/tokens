@@ -1,0 +1,11 @@
+{
+    "name": "Wonderful Tiger",
+    "website": "https://www.wonderfulday.io/",
+    "description": "WonderfulDay is a decentralized NFT mint, trading and data display platform. With decentralized smart contracts and API data ports, WonderfulDay provides users with diversified services such as NFT mint, NFT trading and NFT data, enabling more people to see the value of NFT.",
+    "explorer": "https://bscscan.com/token/0x30240b13fdad9eFEB7a8A85994241374090186a9",
+    "type": "BEP20",
+    "symbol": "WON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x30240b13fdad9eFEB7a8A85994241374090186a9"
+}

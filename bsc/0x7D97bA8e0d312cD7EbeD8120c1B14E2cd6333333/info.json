@@ -1,0 +1,11 @@
+{
+ "name": "Bull Coins",
+ "website": "-",
+ "description": "Bull Coins is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x7D97bA8e0d312cD7EbeD8120c1B14E2cd6333333",
+ "type": "BEP20",
+ "symbol": " DNB ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7D97bA8e0d312cD7EbeD8120c1B14E2cd6333333"
+}

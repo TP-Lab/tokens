@@ -1,0 +1,11 @@
+{
+ "name": "ÂþÍþÔªÓîÖæ",
+ "website": "-",
+ "description": "MRV is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x706BABd2a336fD61653cF8D13DdEefF66CF624BF",
+ "type": "BEP20",
+ "symbol": "MRV",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x706BABd2a336fD61653cF8D13DdEefF66CF624BF"
+}

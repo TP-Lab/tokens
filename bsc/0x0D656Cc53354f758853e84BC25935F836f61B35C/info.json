@@ -1,0 +1,11 @@
+{
+ "name": "RX",
+ "website": "https://RX.pro",
+ "description": "RX是世界上第一個讓持有者強製財富增長，及實現財務自由的智能加密貨幣，由百位幣圈團隊長堅定的信念、強大的共識力量聯合打造的現象級自治社區，采用極致的分布式底池聯合坐莊和持幣者自動做市商的暴富機製。無私募，公平發射，尋夢只求成為幣圈數百萬人心中的神話，揚名立萬。",
+ "explorer": "https://bscscan.com/token/0x0D656Cc53354f758853e84BC25935F836f61B35C",
+ "type": "BEP20",
+ "symbol": "RX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0D656Cc53354f758853e84BC25935F836f61B35C"
+}

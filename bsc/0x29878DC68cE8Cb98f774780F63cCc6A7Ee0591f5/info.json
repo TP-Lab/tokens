@@ -1,0 +1,11 @@
+{
+  "name": "MESSI",
+  "website": "https://messifans.finance",
+  "description": "Senior football fans, comic artists and encryption technology enthusiasts from all over the world will create the world's first star exclusive token to express their love for Messi with their favorite football superstar Messi; At the same time, I hope more fans around the world can join the Massey community and have the Massey token!",
+  "explorer": "https://bscscan.com/token/0x29878DC68cE8Cb98f774780F63cCc6A7Ee0591f5",
+  "type": "BEP20",
+  "symbol": "MESSI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x29878DC68cE8Cb98f774780F63cCc6A7Ee0591f5"
+}

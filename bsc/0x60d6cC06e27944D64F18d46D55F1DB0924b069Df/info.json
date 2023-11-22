@@ -1,0 +1,11 @@
+{
+    "name": "TigerSwap",
+    "website": "https://tigerswap.org",
+    "description": "Tigerswap is a cryptocurrency exchange established in the United States in March 2021, led by Tiger Securities listed on the NASDAQ of the United States.",
+    "explorer": "https://bscscan.com/token/0x60d6cC06e27944D64F18d46D55F1DB0924b069Df",
+    "type": "BEP20",
+    "symbol": "TIGER",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x60d6cC06e27944D64F18d46D55F1DB0924b069Df"
+}

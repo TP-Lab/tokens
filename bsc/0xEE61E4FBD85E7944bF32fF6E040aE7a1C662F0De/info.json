@@ -1,0 +1,11 @@
+{
+ "name": "OnePiece Token",
+ "website": "https://www.onepiecetoken.org/",
+ "description": "ONE PIECE is a pirate world simulation game on Block-chain platform.",
+ "explorer": "https://bscscan.com/token/0xEE61E4FBD85E7944bF32fF6E040aE7a1C662F0De",
+ "type": "BEP20",
+ "symbol": "OPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEE61E4FBD85E7944bF32fF6E040aE7a1C662F0De"
+}

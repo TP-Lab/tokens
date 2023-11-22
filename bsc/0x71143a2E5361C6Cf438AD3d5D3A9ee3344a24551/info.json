@@ -1,0 +1,11 @@
+{
+ "name": "Token KAFGYING",
+ "website": "https://kafgying.pro",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0x71143a2e5361c6cf438ad3d5d3a9ee3344a24551",
+ "type": "BEP20",
+ "symbol": "KAFGYING",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x71143a2e5361c6cf438ad3d5d3a9ee3344a24551"
+}

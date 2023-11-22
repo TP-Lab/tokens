@@ -1,0 +1,11 @@
+{
+    "name": "CentralChainAcademy",
+    "website": "https://www.ylxf.xn--fiqs8s/",
+    "description": "CCA是央链学府生态通用积分，用于奖励教育培训、普及推广参与者，作为贡献值奖励的权益证明。",
+    "explorer": "https://bscscan.com/token/0xd38C30c9Bc03105a16711D4a7A28517f89dC1F36",
+    "type": "BEP20",
+    "symbol": "CCA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd38C30c9Bc03105a16711D4a7A28517f89dC1F36"
+}

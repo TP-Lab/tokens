@@ -1,0 +1,11 @@
+{
+  "name": "PGOSK",
+  "website": "www.pgosk.com",
+  "description": "Pgosk provides governance tokens for pgswap, which wants to build a fair, efficient and global defi aggregator.",
+  "explorer": "https://bscscan.com/token/0x61c9dd1aeE9Ae6142de78ab3018e3d359BD6d457",
+  "type": "BEP20",
+  "symbol": "PGOSK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x61c9dd1aeE9Ae6142de78ab3018e3d359BD6d457"
+}

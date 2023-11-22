@@ -1,0 +1,11 @@
+{
+    "name": "BABYTIGER",
+    "website": "http://babytiger.name",
+    "description": "BABYTIGER's goal is to become as powerful an animal as a BabyDoge.",
+    "explorer": "https://bscscan.com/address/0xCb15BD10CE0338715eEf145e03Aa0737e2Ea6F8C",
+    "type": "BEP20",
+    "symbol": "BABYTIGER",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xCb15BD10CE0338715eEf145e03Aa0737e2Ea6F8C"
+   } 

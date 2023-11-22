@@ -1,0 +1,11 @@
+{
+ "name": "BabyChef",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xacac62ddc667ef087e892b240128f9ddb8a445aa",
+ "type": "BSC20",
+ "symbol": "BCF",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xaCac62DdC667EF087E892b240128f9DdB8a445AA"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Lucky DAO",
+ "website": "https://www.luckydao.org",
+ "description": "In order to commemorate the global war epidemic in 2021, the anti-epidemic actions of the future world, and the inaction of the main body in power, those who survived the raging virus set up Lucky DAO.",
+ "explorer": "https://bscscan.com/token/0x2775237C2DAD4Fd9DB31548e30993eD9A21a9667",
+ "type": "BEP20",
+ "symbol": "LuckyDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2775237C2DAD4Fd9DB31548e30993eD9A21a9667"
+}

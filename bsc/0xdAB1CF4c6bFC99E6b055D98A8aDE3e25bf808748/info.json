@@ -1,0 +1,11 @@
+{ 
+"name": VUE TOKEN",
+"website": "https://vue-token.com/",
+"description": "VUE is a kind of generic cryptocurrency which Vue-Lab will develop a variety of applications, based on Binance Smart Chain.Vue-Lab is our core technology center. Aim at building the Dapp of Metaverse with strong operability and more interesting,based on the best practice of blockchain ecosystem. Token presale platform and NFT application are，the first plan on the first stage.Just wait and see what happens. ",
+"explorer": "https://bscscan.com/token/0xdAB1CF4c6bFC99E6b055D98A8aDE3e25bf808748",
+"type": "BEP20",
+"symbol": "VUE",
+"decimals": 9,
+"status": "active",
+"id": "0xdAB1CF4c6bFC99E6b055D98A8aDE3e25bf808748"
+}

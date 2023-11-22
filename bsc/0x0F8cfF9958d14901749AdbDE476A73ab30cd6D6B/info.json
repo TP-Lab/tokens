@@ -1,0 +1,11 @@
+﻿{
+ "name": "TM Token",
+ "website": "http://www.tmtoken.com/",
+ "description": "TM BEP20 Token.",
+ "explorer": "https://bscscan.com/address/0x0F8cfF9958d14901749AdbDE476A73ab30cd6D6B",
+ "type": "BEP20",
+ "symbol": "TM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0F8cfF9958d14901749AdbDE476A73ab30cd6D6B"
+}

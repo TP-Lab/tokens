@@ -1,0 +1,11 @@
+{
+ "name": "Mobius",
+ "website": "https://mob.mobius.city",
+ "description": "MOBIUS is based on distributed autonomous DAO, and takes the sustainable cycle of Mobius as its concept to create a decentralized financial ecosystem that professionally serves the blockchain. MOBIUS will be committed to providing organizations and individuals in the blockchain financial field with High-quality, positive circular financial services and support. MOB focuses on the circulation concept of "Möbius Belt", and mainly improves from the two aspects of circulation and destruction. Based on community consensus and entertainment, the internal algorithm can be conserved as a lever to build blockchain finance. The value ecosystem of DeFi3.0.",
+ "explorer": "https://bscscan.com/token/0x0Ab6Be2477B4eCd7501bF8469a1bA06B7Da5cfba",
+ "type": "BEP20",
+ "symbol": "MOB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0Ab6Be2477B4eCd7501bF8469a1bA06B7Da5cfba"
+}

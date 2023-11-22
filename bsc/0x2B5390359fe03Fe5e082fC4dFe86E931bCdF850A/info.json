@@ -1,0 +1,11 @@
+{
+    "name": "MetaFeg",
+    "website": "https://www.metafeg.top/",
+    "description": "MetaFeg is built by the original team of firstfeg, which makes up for the shortcomings of the previous generation and improves the stability of the token.",
+    "explorer": "https://bscscan.com/address/0x2B5390359fe03Fe5e082fC4dFe86E931bCdF850A",
+    "type": "BEP20",
+    "symbol": "MetaFeg",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x2B5390359fe03Fe5e082fC4dFe86E931bCdF850A"
+   } 

@@ -1,0 +1,11 @@
+{
+ "name": "TIGGER TOKEN",
+ "website": "https://tiggerbsc.top/",
+ "description": "This is a charitable wild tiger conservation project. We are committed to building a wild tiger conservation charity organization to help wild tigers build their homes.",
+ "explorer": "https://bscscan.com/token/0x7bb4a8933b4da711a06c5aedbc431ea0de2b0d8f",
+ "type": "BEP20",
+ "symbol": "TIGGER",
+ "decimals": 5,
+ "status": "active",
+ "id": "0x7bb4a8933b4da711a06c5aedbc431ea0de2b0d8f"
+}

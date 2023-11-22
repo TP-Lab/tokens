@@ -1,0 +1,11 @@
+{
+ "name": "MSW Token",
+ "website": "https://www.mountainseaworld.io",
+ "description": "$MSW is the native token of the Mountain Sea World ecosystem, which allows users to purchase all goods and services within the ecosystem, participate in mining and reward mechanisms, and take part in voting and governance.",
+ "explorer": "https://arbiscan.io/token/0xFC400c02925973ec32f8266Eb73467b138D6F9F2",
+ "type": "ERC20",
+ "symbol": "MSW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFC400c02925973ec32f8266Eb73467b138D6F9F2"
+}

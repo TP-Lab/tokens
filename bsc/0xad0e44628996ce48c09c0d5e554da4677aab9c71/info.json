@@ -1,0 +1,11 @@
+{
+ "name": "WorldCup",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xad0e44628996ce48c09c0d5e554da4677aab9c71",
+ "type": "BEP20",
+ "symbol": "WorldCup",
+ "decimals": 18,
+ "status": "not open yet",
+ "id": "0xad0e44628996ce48c09c0d5e554da4677aab9c71"
+}

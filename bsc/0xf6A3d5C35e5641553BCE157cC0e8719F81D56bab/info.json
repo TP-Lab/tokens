@@ -1,0 +1,11 @@
+{
+ "name": "ENFT",
+ "website": "https://www.enft111.com",
+ "description": "ENFT token is a native token used to mint encrypted assets on the eNFT Chain public chain.  It is generally issued through DeFi liquidity mining.  ENFT token can be used to pay NFT minting fee, NFT transfer gas fee and NFT holding tax.",
+ "explorer": "https://bscscan.com/token/0xf6A3d5C35e5641553BCE157cC0e8719F81D56bab",
+ "type": "BEP20",
+ "symbol": "ENFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf6A3d5C35e5641553BCE157cC0e8719F81D56bab"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Antimatter",
+ "website": "http://metas.tech/website/",
+ "description": "MeTa space， 简称MANT，发行量：10万",
+ "explorer": "https://bscscan.com/token/0x1f0e1359dD1b789526F000797f51b13A7489aB52",
+ "type": "BEP20",
+ "symbol": "MEP",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x1f0e1359dD1b789526F000797f51b13A7489aB52"
+}

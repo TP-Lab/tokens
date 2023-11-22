@@ -1,0 +1,11 @@
+{
+ "name": "MTEP",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xe80e12319BEe5A766b643BB91f27d582057F39D5",
+ "type": "BEP20",
+ "symbol": "MTEP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe80e12319BEe5A766b643BB91f27d582057F39D5
+}

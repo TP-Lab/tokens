@@ -1,0 +1,11 @@
+{
+ "name": "DK",
+ "website": "http://www.dream-kingdom.com/",
+ "description": "Dream Kingdom",
+ "explorer": "https://hecoinfo.com/token/0x3b615496C70a3272dCD35aE028f6cD1FDFA89992",
+ "type": "HRC20",
+ "symbol": "DK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3b615496C70a3272dCD35aE028f6cD1FDFA89992"
+}

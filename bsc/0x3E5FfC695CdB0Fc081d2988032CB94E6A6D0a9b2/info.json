@@ -1,0 +1,11 @@
+{ 
+"name": "SLOTH",
+"website": "https://www.sloth.vip",
+"description": "SLOTH is a yield-generating deflationary charitable cryptocurrency that runs on Binance Smart Chain. It rewards holders through reflections by taxing transactions. ",
+"explorer": "https://bscscan.com/token/0x3E5FfC695CdB0Fc081d2988032CB94E6A6D0a9b2",
+"type": "BEP20",
+"symbol": "SLOTH",
+"decimals": 9,
+"status": "active",
+"id": "0x3E5FfC695CdB0Fc081d2988032CB94E6A6D0a9b2"
+}

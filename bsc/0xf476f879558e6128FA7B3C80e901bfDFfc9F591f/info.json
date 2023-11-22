@@ -1,0 +1,11 @@
+{
+ "name": "OR Token",
+ "website": "https://app.orbits.pro/",
+ "description": "Orbits ecological liquidity market making agreement product governance platform token-OR",
+ "explorer": "https://bscscan.com/token/0xf476f879558e6128fa7b3c80e901bfdffc9f591f",
+ "type": "BEP20",
+ "symbol": "OR",
+ "decimals": 18,
+ "status": "Inactive",
+ "id": "0xf476f879558e6128FA7B3C80e901bfDFfc9F591f"
+}

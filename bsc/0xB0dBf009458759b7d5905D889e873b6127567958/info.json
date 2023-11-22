@@ -1,0 +1,11 @@
+{ 
+"name": "KILL0",
+"website": "https://kill0.club",
+"description": "KILL0 is automatic dividend SHIB, just hold it, SHIB automatically to YOUR wallet",
+"explorer": "https://bscscan.com/token/0xB0dBf009458759b7d5905D889e873b6127567958",
+"type": "BEP20",
+"symbol": "K0",
+"decimals": 18,
+"status": "active",
+"id": "0xB0dBf009458759b7d5905D889e873b6127567958"
+}

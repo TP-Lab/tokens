@@ -1,0 +1,11 @@
+{
+ "name": "IGG",
+ "website": "https://www.igg.com",
+ "description": "The world's leading game developers and operators have a strong influence and international customer base.",
+ "explorer": "https://bscscan.com/token/0xCE5f07892ae38e42d889CA17ab88b9522e7367ee",
+ "type": "BEP20",
+ "symbol": "IGG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCE5f07892ae38e42d889CA17ab88b9522e7367ee"
+}

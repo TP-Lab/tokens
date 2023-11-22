@@ -1,0 +1,11 @@
+{
+ "name": "Cnvwa",
+ "website": "-",
+ "description": "我们致力于打造nvwa传奇，让nvwa无可替代",
+ "explorer": "https://bscscan.com/token/0x5E5fD6A264709981b4e03182eB2e22EF3d8b940e",
+ "type": "BEP20",
+ "symbol": "Cnvwa",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5E5fD6A264709981b4e03182eB2e22EF3d8b940e"
+}

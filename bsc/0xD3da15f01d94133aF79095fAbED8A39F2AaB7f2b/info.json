@@ -1,0 +1,11 @@
+{
+ "name": "ACDE",
+ "website": "-",
+ "description": "ACDE is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xD3da15f01d94133aF79095fAbED8A39F2AaB7f2b",
+ "type": "BEP20",
+ "symbol": "ACDE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD3da15f01d94133aF79095fAbED8A39F2AaB7f2b"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "CYN-COIN",
+ "website": "https://www.cyn-c.io/",
+ "description": "Cyn-C Is a multi-layered blockchain project designed to progressively build a comic based story, NFT collectible and Coin rewards.",
+ "explorer": "https://etherscan.io/token/0xa5522d6137ece774e8084bbf9c34398192ccdca5",
+ "type": "ERC20",
+ "symbol": "CYNC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa5522d6137Ece774e8084BBf9c34398192cCdCa5"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Starship Mars",
+ "website": "",
+ "description": "Starship Mars is a platform token. The platform provides audit and insurance compensation services. The project settled on the platform must pay the corresponding deposit, so as to prevent and reduce fraud in the field of encryption.",
+ "explorer": "https://bscscan.com/token/0xb49258dAE0192A038f38Cf163E64FC190Bf59C99",
+ "type": "BEP20",
+ "symbol": "SSM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb49258dAE0192A038f38Cf163E64FC190Bf59C99"
+}

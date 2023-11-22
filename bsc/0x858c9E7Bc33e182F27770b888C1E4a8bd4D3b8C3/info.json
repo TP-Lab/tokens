@@ -1,0 +1,9 @@
+ "name": "LOVE",
+ "website": "https://tokenpocket.pro",
+ "description": "A decentralized token on the BNB Chain.",
+ "explorer": "https://bscscan.com/token/0x858c9E7Bc33e182F27770b888C1E4a8bd4D3b8C3",
+ "type": "BEP20",
+ "symbol": "LOVE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x858c9E7Bc33e182F27770b888C1E4a8bd4D3b8C3"

@@ -1,0 +1,11 @@
+{
+ "name": "UDAO token",
+ "website": "-",
+ "description": "UDAO Chinese community is a Dao organization organized by many Dao culture lovers and Shib fans all over the world. Defi circle earth dogs run rampant. People are impetuous, calm wins impatience, cold wins heat, and peace is the right thing in the world.",
+ "explorer": "https://bscscan.com/token/0x6617C1a70892318c9f18164134124Cecf055de9a",
+ "type": "BEP20",
+ "symbol": "UDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6617C1a70892318c9f18164134124Cecf055de9a"
+} 

@@ -1,0 +1,11 @@
+{
+ "name": "Blue Market",
+ "website": "http://www.bluemarket.top",
+ "description": "BlueMarket is a decentralized stable currency trading pool based on Ethereum issued by BSC chain. It is characterized by an efficient and low slip stable currency trading experience and low-risk fee income for market makers. In the background, tokens held in the liquidity pool will also be provided to compound protocol or Iearn Finance, where more revenue is generated for liquidity providers.",
+ "explorer": "https://bscscan.com/token/0x46F7ECbB7C3b4929aAf00BC4696ccA804Ff2fF7e",
+ "type": "BEP20",
+ "symbol": "BMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x46F7ECbB7C3b4929aAf00BC4696ccA804Ff2fF7e"
+}

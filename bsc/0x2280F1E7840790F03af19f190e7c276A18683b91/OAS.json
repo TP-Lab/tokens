@@ -1,0 +1,11 @@
+{
+    "name": "OAS Token",
+    "website": "https://www.oasglobal.net/",
+    "description": "An open DAPP chain game sharing platform based on the BSC smart chain ",
+    "explorer": "https://bscscan.com/token/0x2280f1e7840790f03af19f190e7c276a18683b91",
+    "type": "BEP20",
+    "symbol": "OAS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2280F1E7840790F03af19f190e7c276A18683b91"
+   }

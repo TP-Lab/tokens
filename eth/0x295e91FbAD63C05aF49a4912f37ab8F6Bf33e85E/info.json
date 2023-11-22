@@ -1,0 +1,11 @@
+{
+ "name": "Where'sMyWater",
+ "website": "https://swampy.fun",
+ "description": "To celebrate the 12th Anniversary of "Where's My Water", we have issued $WMW (Where's My Water) tokens to encourage environmental consciousness and celebrate our beloved game.",
+ "explorer": "https://etherscan.io/token/0x295e91fbad63c05af49a4912f37ab8f6bf33e85e",
+ "type": "ERC20",
+ "symbol": "WMW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x295e91FbAD63C05aF49a4912f37ab8F6Bf33e85E"
+}

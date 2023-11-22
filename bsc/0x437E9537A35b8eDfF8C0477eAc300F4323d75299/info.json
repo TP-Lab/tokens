@@ -1,0 +1,11 @@
+{
+ "name": "UNIVERSE25 Token",
+ "website": "www.universe25.club",
+ "description": "$UVS is the native utility token that powers the Universe 25 ecosystem and is used as an in-game currency.",
+ "explorer": "https://bscscan.com/token/0x437E9537A35b8eDfF8C0477eAc300F4323d75299",
+ "type": "BEP20",
+ "symbol": "UVS",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x437E9537A35b8eDfF8C0477eAc300F4323d75299"
+}

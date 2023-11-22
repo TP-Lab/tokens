@@ -1,0 +1,11 @@
+{
+    "name": "Angel",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0x5A107aC69B0Ec8F818FA45A4bdcaf466A7a4Dd9b",
+    "type": "BEP20",
+    "symbol": "Angel",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5A107aC69B0Ec8F818FA45A4bdcaf466A7a4Dd9b"
+}

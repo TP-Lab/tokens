@@ -1,0 +1,11 @@
+{
+ "name": "AXLM",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xFAfD01628D86F741b170bc39B31d589bFd5fd58c",
+ "type": "BSC20",
+ "symbol": "AXLM",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xFAfD01628D86F741b170bc39B31d589bFd5fd58c"
+}

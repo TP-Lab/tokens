@@ -1,0 +1,11 @@
+{
+ "name": "LEP token",
+ "website": "https://lep-token.com/",
+ "description": "LEP is the token of the repurchase mechanism, and the purchase and sale tax rate is 12%; Including 2% LP, 6% repurchase and 4% marketing.",
+ "explorer": "https://bscscan.com/token/0x8eEbE881c846dfD259560CBCf28E84A7529bAda8",
+ "type": "BEP20",
+ "symbol": "LEP",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8eEbE881c846dfD259560CBCf28E84A7529bAda8"
+} 

@@ -1,0 +1,11 @@
+{
+ "name": "DIGICHAIN",
+ "website": "www.prodigichain.com",
+ "description": "Digichain Wallet with the name digichain wallet we are here to make it easier for you to store your assets safely and comfortably.",
+ "explorer": "https://bscscan.com/address/0x4732A86106064577933552FCea993D30BEC950a5",
+ "type": "BEP-20",
+ "symbol": "DIGICHAIN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4732A86106064577933552FCea993D30BEC950a5"
+}

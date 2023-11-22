@@ -1,0 +1,11 @@
+{
+ "name": "DHG",
+ "website": "",
+ "description": "DHG",
+ "explorer": "https://bscscan.com/token/0x74AE54fBEa9dC1d44cFc00cA6499cE7E9EB6288d",
+ "type": "BEP20",
+ "symbol": "DHG",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x74AE54fBEa9dC1d44cFc00cA6499cE7E9EB6288d"
+}

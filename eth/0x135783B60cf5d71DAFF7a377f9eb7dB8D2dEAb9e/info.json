@@ -1,0 +1,11 @@
+{
+ "name": "Ctrl-X",
+ "website": "https://www.ctrl-x.online",
+ "description": "X is a variable, also called unknown in elementary mathematics, the value is random, unknown and mysterious.In algebraic operations, variables are substituted into the operations as definite numerical values, and multiple problems can be solved in a single operation.",
+ "explorer": "https://etherscan.io/token/0x135783b60cf5d71daff7a377f9eb7db8d2deab9e",
+ "type": "ERC20",
+ "symbol": "CUT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x135783B60cf5d71DAFF7a377f9eb7dB8D2dEAb9e"
+}

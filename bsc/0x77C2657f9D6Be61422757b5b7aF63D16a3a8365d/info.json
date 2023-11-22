@@ -1,0 +1,11 @@
+{
+ "name": "NostepToken",
+ "website": "https://nostep.io/#/home",
+ "description": "NoStep is a DApp based on Web 3.0 interactions. NST serves as the utility token driving the entire game.",
+ "explorer": "https://www.bscscan.com/token/0x77C2657f9D6Be61422757b5b7aF63D16a3a8365d",
+ "type": "BEP20",
+ "symbol": "NST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x77C2657f9D6Be61422757b5b7aF63D16a3a8365d"
+}

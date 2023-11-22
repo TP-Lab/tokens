@@ -1,0 +1,11 @@
+{
+ "name": "xAI",
+ "website": "https://xai.cx",
+ "description": "xAI is going to create a maximally curious AI instead of programming morality into it.",
+ "explorer": "https://bscscan.com/address/0x2A45a892877Ef383c5fc93A5206546c97496da9e",
+ "type": "BEP20",
+ "symbol": "X",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2A45a892877Ef383c5fc93A5206546c97496da9e"
+}

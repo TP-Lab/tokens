@@ -1,0 +1,21 @@
+{
+ "name": "RiseHero",
+ "type": "BEP20",
+ "symbol": "RISE",
+ "decimals": 18,
+ "website": "https://risehero.io",
+ "description": "A legendary hero metaverse.",
+ "explorer": "https://bscscan.com/token/0x853dA4E54054f1Cd603ed844059A4023e7d497BC", 
+ "status": "active",
+ "id": "0x853dA4E54054f1Cd603ed844059A4023e7d497BC",
+ "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/RiseHeroNFT"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/RiseHero"
+        }
+    ]
+}

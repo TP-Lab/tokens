@@ -1,0 +1,11 @@
+{
+ "name": "Community",
+ "website": "..",
+ "description": "UAB is a community-governed token that operates completely decentralized.",
+ "explorer": "https://bscscan.com/token/0xA2b532DA50286B5a78c6eAC65d485492192Fec43",
+ "type": "BEP20",
+ "symbol": "UAB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA2b532DA50286B5a78c6eAC65d485492192Fec43"
+}

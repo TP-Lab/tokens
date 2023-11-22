@@ -1,0 +1,11 @@
+{
+ "name": "BlueOrigin",
+ "website": "http://blueorigin.com",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xa26fddb48917ef56cd924a34819cf735a6ba2151",
+ "type": "BEP20",
+ "symbol": "BlueOrigin",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa26fddb48917ef56cd924a34819cf735a6ba2151"
+}

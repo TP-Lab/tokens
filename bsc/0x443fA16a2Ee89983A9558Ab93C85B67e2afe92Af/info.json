@@ -1,0 +1,11 @@
+{
+ "name": "Umbrella Protocol",
+ "website": "https://umbprotocol.com/",
+ "description": "Umbrella Protocol(UMBP) is the first security protocol based on Oracle to protect blockchain investment. UMBP builds a safety kit through three methods: Multi-indicators evaluation, Regression Fitting and Risk Assessment. UMBP encourages development, inclusive and open-source safe community development ideas.",
+ "explorer": "https://bscscan.com/token/0x443fA16a2Ee89983A9558Ab93C85B67e2afe92Af",
+ "type": "BEP20",
+ "symbol": "UMBP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x443fA16a2Ee89983A9558Ab93C85B67e2afe92Af"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "CHUANG SI QI TOKEN",
+ "website": "",
+ "description": "",
+ "explorer": "https://cn.etherscan.com/token/0x7f00a9d460ee3552ddf077b7746873aecb1d7d4b",
+ "type": "ERC20",
+ "symbol": "CSQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7f00a9d460ee3552DDF077B7746873aEcB1d7d4B"
+}

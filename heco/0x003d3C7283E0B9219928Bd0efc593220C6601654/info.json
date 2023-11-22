@@ -1,0 +1,11 @@
+{
+ "name": "BITDOG TOKEN",
+ "website": "https://www.bitdogtoken.com",
+ "description": "BITDOG TOKEN(BITDOG) is a decentralized and perpetual deflation token issued on the Huobi Smart Chain.",
+ "explorer": "https://hecoinfo.com/token/0x003d3C7283E0B9219928Bd0efc593220C6601654",
+ "type": "HRC20",
+ "symbol": "BITDOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x003d3C7283E0B9219928Bd0efc593220C6601654"
+}

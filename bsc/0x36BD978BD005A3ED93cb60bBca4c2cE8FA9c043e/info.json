@@ -1,0 +1,11 @@
+{
+ "name": "NIS",
+ "website": "https://www.nisbuzz.com",
+ "description": "NIS is a decentralized platform that integrates DEFI, NFT, Metaverse, and chain games. The token NIS adopts zero private placement, zero pre-mining, zero reservation, openness, transparency, fairness and justice, and 100% automatic execution of smart contracts on the chain, which truly allows believers in the blockchain circle to be clean, pure, and On the soil full of hopes and dreams, open, transparent, fair and just realize the great blockchain dream in my heart!",
+ "explorer": "https://bscscan.com/address/0x36BD978BD005A3ED93cb60bBca4c2cE8FA9c043e",
+ "type": "BEP20",
+ "symbol": "NIS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x36BD978BD005A3ED93cb60bBca4c2cE8FA9c043e"
+}

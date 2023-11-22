@@ -1,0 +1,11 @@
+{
+ "name": "Golden Monkey ",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x2026cE3AF6892bE5AC80332D78EF3E60db578100",
+ "type": "BEP20",
+ "symbol": "GMK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2026cE3AF6892bE5AC80332D78EF3E60db578100"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "DGC",
+ "website": "-",
+ "description": "DGC community, DAO organization circulation of equity certificates and platform tokens",
+ "explorer": "https://bscscan.com/token/0x3e3e49649d06d4bd0c5935f80b77ec52c2488888",
+ "type": "BEP20",
+ "symbol": "DGC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3e3e49649d06d4bd0c5935f80b77ec52c2488888"
+}

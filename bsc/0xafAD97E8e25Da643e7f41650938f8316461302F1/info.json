@@ -1,0 +1,11 @@
+{
+ "name": "AUT",
+ "website": "-",
+ "description": "AUT is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xafAD97E8e25Da643e7f41650938f8316461302F1",
+ "type": "BEP20",
+ "symbol": "AUT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xafAD97E8e25Da643e7f41650938f8316461302F1"
+}

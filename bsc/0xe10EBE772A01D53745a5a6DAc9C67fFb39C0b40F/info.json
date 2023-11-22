@@ -1,0 +1,11 @@
+{
+    "name": "ZS Token",
+    "website": "https://cc.8slb.com",
+    "description": "Global Digital Token application scenario service platform",
+    "explorer": "https://bscscan.com/token/0xe10EBE772A01D53745a5a6DAc9C67fFb39C0b40F",
+    "type": "BEP20",
+    "symbol": "TAA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe10EBE772A01D53745a5a6DAc9C67fFb39C0b40F"
+   } 

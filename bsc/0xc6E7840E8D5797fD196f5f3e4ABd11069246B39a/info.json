@@ -1,0 +1,11 @@
+{
+  "name": "Squid Egg",
+  "website": "https://squidegg.com",
+  "description": "SQUID meme token.",
+  "explorer": "https://bscscan.com/token/0xc6E7840E8D5797fD196f5f3e4ABd11069246B39a",
+  "type": "BEP20",
+  "symbol": "SQUID",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc6E7840E8D5797fD196f5f3e4ABd11069246B39a"
+}

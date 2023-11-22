@@ -1,0 +1,11 @@
+{
+    "name": "Koro Token",
+    "website": "http://koro.fund/",
+    "description": "Fluid mining + metacosmic ecology",
+    "explorer": "https://bscscan.com/token/0x50c2dc0e1213ef1a2f809e6c24c8eee6a07ecc55",
+    "type": "BEP20",
+    "symbol": "Koro",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x50c2DC0E1213EF1A2f809e6C24C8EEE6A07eCC55"
+}

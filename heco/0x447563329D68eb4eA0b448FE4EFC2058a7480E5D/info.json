@@ -1,0 +1,11 @@
+{
+ "name": "Vulture Token",
+ "website": "https://www.vulture.cloud",
+ "description": "Vulture Token is a decentralized deflation token on the Huobi ecological chain.",
+ "explorer": "https://hecoinfo.com/token/0x447563329D68eb4eA0b448FE4EFC2058a7480E5D",
+ "type": "HRC-20",
+ "symbol": "Vulture",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x447563329D68eb4eA0b448FE4EFC2058a7480E5D"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Gazelle prip_gaz Token",
+    "website": "http://gazotc.com",
+    "description": "The tokens in gaz lock can only be transferred to the addresses in the white list, or converted to gaz through linear release.",
+    "explorer": "https://bscscan.com/token/0xD7Dd4994604ec109B0e73eA3e6fE21E0958b2971",
+    "type": "BEP20",
+    "symbol": "pGAZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xD7Dd4994604ec109B0e73eA3e6fE21E0958b2971"
+   }

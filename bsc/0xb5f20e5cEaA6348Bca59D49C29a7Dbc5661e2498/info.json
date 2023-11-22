@@ -1,0 +1,11 @@
+{
+"name": "StarLink Metaverse", 
+"website": "https://www.starlink.gold", 
+"description": "STARL is token for StarLink Bases.", 
+"explorer": "https://www.bscscan.com/token/0xb5f20e5ceaa6348bca59d49c29a7dbc5661e2498", 
+"type": "BEP20", 
+"symbol": "STARL", 
+"decimals": 18, 
+"status": "active", 
+"id": "0xb5f20e5cEaA6348Bca59D49C29a7Dbc5661e2498"
+}

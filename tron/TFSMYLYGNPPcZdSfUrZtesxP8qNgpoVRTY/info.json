@@ -1,0 +1,11 @@
+{
+ "name": "NATD",
+ "website": "-",
+ "description": "NATD一群90后年轻人打造的共识社区",
+ "explorer": "https://tronscan.io/#/contract/TFSMYLYGNPPcZdSfUrZtesxP8qNgpoVRTY",
+ "type": "TRC20",
+ "symbol": "NATD",
+ "decimals": 18,
+ "status": "active",
+ "id": "TFSMYLYGNPPcZdSfUrZtesxP8qNgpoVRTY"
+}

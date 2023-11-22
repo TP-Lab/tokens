@@ -1,0 +1,11 @@
+{
+ "name": "WNFT Token",
+ "website": "https://www.uninft.info/",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x9464840F45ddb6E20D7f9d0FE238E1DfacfA5cc7",
+ "type": "BEP20",
+ "symbol": "WNFT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x9464840F45ddb6E20D7f9d0FE238E1DfacfA5cc7"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "PetDogeCoin",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x11f0888979f79fF6e3CDe7a7E8Fec11346669a59",
+ "type": "BSC20",
+ "symbol": "PetDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x11f0888979f79fF6e3CDe7a7E8Fec11346669a59"
+}

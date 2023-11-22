@@ -1,0 +1,11 @@
+{
+ "name": "DOG",
+ "website": "",
+ "description": "DOG will high ",
+ "explorer": "https://bscscan.com/token/0x308f12C140f48aCD8Ff9f5788052a5fF00C53a22",
+ "type": "BEP20",
+ "symbol": "DOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x308f12C140f48aCD8Ff9f5788052a5fF00C53a22"
+}

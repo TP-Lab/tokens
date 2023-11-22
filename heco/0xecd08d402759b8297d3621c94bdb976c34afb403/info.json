@@ -1,0 +1,11 @@
+{
+ "name": "UVS Token",
+ "website": "https://www.iniversea.com/",
+ "description": "gamefi on heco.",
+ "explorer": "https://hecoinfo.com/token/0xecd08d402759b8297d3621c94bdb976c34afb403",
+ "type": "HRC20",
+ "symbol": "uvs",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xeCD08d402759b8297d3621c94bdB976c34Afb403"
+}

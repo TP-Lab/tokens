@@ -1,0 +1,11 @@
+{
+	"name": "XYT Coin",
+	"website": "",
+	"description": "XYT is a public welfare ecosystem based token provided by Gongshi Community",
+	"explorer": "https://bscscan.com/token/0xDC5ee0b80bFFa5c99783d00D8422618A2b4A0bf7",
+	"type": "BEP20",
+	"symbol": "XYT",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xDC5ee0b80bFFa5c99783d00D8422618A2b4A0bf7"
+}

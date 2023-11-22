@@ -1,0 +1,11 @@
+{
+    "name": "DogeKiller",
+    "website": "https://dogekiller.pro",
+    "description": "DogeKiller built on Binance Smart Chain. It is decentralized and on a mission to bring crypto to the average person.",
+    "explorer": "https://bscscan.com/token/0x6e245b57eed05dc03cfe7343a556b7a287fa2850",
+    "type": "BEP20",
+    "symbol": "DogeKiller",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x6e245b57EED05DC03CFE7343A556b7a287fA2850"
+}

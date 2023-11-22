@@ -1,0 +1,11 @@
+{
+ "name": "ONE",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x165E46A7222A90F1a64aAcdfAD157Fa705bdf015",
+ "type": "BEP20",
+ "symbol": "ONE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x165E46A7222A90F1a64aAcdfAD157Fa705bdf015"
+}

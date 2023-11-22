@@ -1,0 +1,11 @@
+{
+ "name": "Chain Pet",
+ "website": "http://web.chainpet.com",
+ "description": "Chain pet has the perfect combination of GAME+NFT+DEFI to achieve the goal of multiple benefits for users.",
+ "explorer": "https://bscscan.com/token/0xad326Fd5BC8B962063BA51FF142086b4aa1987ec",
+ "type": "BEP20",
+ "symbol": "CPET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xad326Fd5BC8B962063BA51FF142086b4aa1987ec"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SHIBSIR",
+  "website": "https://www.shibsir.top/",
+  "description": "SHIBSIR Coin is a new generation pioneer of the Shib family, with huge dividends shib, born for shib to land on the moon!",
+  "explorer": "https://bscscan.com/token/0xf4203964c1A993D1A539AA7F072177704a9CC079",
+  "type": "BEP20",
+  "symbol": "SHIBSIR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf4203964c1A993D1A539AA7F072177704a9CC079"
+}

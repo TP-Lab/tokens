@@ -1,0 +1,11 @@
+{
+ "name": "XYZ finance",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x3374bdb800708d1b3173eac918c58d766c7ddd28",
+ "type": "BSC20",
+ "symbol": "XYZ",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x3374bDB800708D1B3173eAc918c58d766C7ddD28"
+}

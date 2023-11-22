@@ -1,0 +1,11 @@
+{
+    "name":"Sinso Token",
+    "website":"https://www.sinso.io",
+    "description":"SINSO is a decentralized medical + NFT infrastructure based on the Filecoin Web 3.0 ecosystem. After the capacity of the Filecoin network is built, a series of middleware and various infrastructures needs to be developed for DAPP applications to do a full transition to web 3.0, which is not yet complete in the Filecoin ecosystem. SINSO enables application developers to quickly and efficiently build applications in the Filecoin ecosystem and collaborate with storage providers to advance the Filecoin plus initiative.",
+    "explorer":"https://bscscan.com/token/0xc7be6c0f9b80dd269f650514dc9b897f3452e5ac",
+    "type":"BEP20",
+    "symbol":"SINSO",
+    "decimals":18,
+    "status":"active",
+    "id":"0xc7Be6c0f9B80dD269f650514Dc9b897F3452E5ac"
+}

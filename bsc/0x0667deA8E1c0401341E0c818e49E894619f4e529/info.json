@@ -1,0 +1,11 @@
+{
+"name": "BTUX",
+"website": "-",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0x0667deA8E1c0401341E0c818e49E894619f4e529",
+"type": "BEP20",
+"symbol": "BTUX",
+"decimals": 18,
+"status": "active",
+"id": "0x0667deA8E1c0401341E0c818e49E894619f4e529"
+}

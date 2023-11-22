@@ -1,0 +1,11 @@
+{
+ "name": "ATC",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x2817496E3249081e142E325fD3416e82cCB70AA9",
+ "type": "BEP20",
+ "symbol": "ATC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2817496E3249081e142E325fD3416e82cCB70AA9"
+}

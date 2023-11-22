@@ -1,0 +1,11 @@
+{
+"name": "XIRCUS",
+"website": "http://www.xircus.app",
+"description": "The first multi-chain gamified DAO NFT marketplace creation platform deploy your NFT marketplace.",
+"explorer": "https://bscscan.com/token/0x1df2bF8bFf0f2a8d67cf84ca55Fc9cCC9C3dA018",
+"type": "BEP20",
+"symbol": "XIRCUS",
+"decimals": 18,
+"status": "active",
+"id": "0x1df2bF8bFf0f2a8d67cf84ca55Fc9cCC9C3dA018"
+}

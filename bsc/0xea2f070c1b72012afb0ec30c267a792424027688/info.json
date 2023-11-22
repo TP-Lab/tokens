@@ -1,0 +1,11 @@
+{
+    "name": "FFIVE Token",
+    "website": "https://f5five.github.io",
+    "description": "Refresh everything, starting with FFIVE.",
+    "explorer": "https://bscscan.com/token/0xea2f070c1b72012afb0ec30c267a792424027688",
+    "type": "BEP20",
+    "symbol": "FIVE",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xea2f070c1b72012afb0ec30c267a792424027688"
+   }

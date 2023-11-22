@@ -1,0 +1,11 @@
+{
+ "name": "YYDS",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xeEEC438B2fc0A0C38DA8d69773A500548b71273c",
+ "type": "BSC20",
+ "symbol": "YYDS",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xeEEC438B2fc0A0C38DA8d69773A500548b71273c"
+}

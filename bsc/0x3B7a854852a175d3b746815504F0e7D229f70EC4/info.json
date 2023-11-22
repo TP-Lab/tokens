@@ -1,0 +1,11 @@
+{
+ "name": "WEB",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x3B7a854852a175d3b746815504F0e7D229f70EC4",
+ "type": "BEP20",
+ "symbol": "WEB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3B7a854852a175d3b746815504F0e7D229f70EC4"
+}

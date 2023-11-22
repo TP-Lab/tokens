@@ -1,0 +1,11 @@
+{
+ "name": "Decentralized Finance",
+ "website": "https://www.defiworld.pro",
+ "description": "DeFi World - a Blockchain Gaming platform.In DeFi World, players will transform into the role of a farm owner cultivating,breeding pets and taking care of his farm.",
+ "explorer": "https://bscscan.com/token/0x446aade5ce6d1765a1befe59e0d73bc3f42b0d0c",
+ "type": "BEP20",
+ "symbol": "DeFi",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x446aade5Ce6d1765A1befe59e0D73bC3f42B0d0C"
+}

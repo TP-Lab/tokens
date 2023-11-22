@@ -1,0 +1,11 @@
+{
+    "name": "Labrador",
+    "website": "https://Labrador.org",
+    "description": "Labrador coin",
+    "explorer": "https://hecoinfo.com/address/0x506674B3d149B6ee45215e9D55F4Db5a619f7e89",
+    "type": "HRC20",
+    "symbol": "ABRD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x506674B3d149B6ee45215e9D55F4Db5a619f7e89"
+}

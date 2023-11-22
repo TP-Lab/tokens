@@ -1,0 +1,11 @@
+{
+ "name": "blue whale",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xEC30Cea1B22677115aAB6aF7345b0cB567A2166d",
+ "type": "BSC20",
+ "symbol": "BW",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xEC30Cea1B22677115aAB6aF7345b0cB567A2166d"
+}

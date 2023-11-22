@@ -1,0 +1,11 @@
+{
+ "name": "SFD",
+ "website": "http://www.tvatclub.com",
+ "description": "Spark union (StarFire Alliance) SFD is made up of 300 with dreams and passions, organized, and action chain block DAO",
+ "explorer": "https://bscscan.com/token/0x9881E8147E642345a9E8E4E408E37a3bEdDa5377",
+ "type": "BEP20",
+ "symbol": "SFD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9881E8147E642345a9E8E4E408E37a3bEdDa5377"
+}

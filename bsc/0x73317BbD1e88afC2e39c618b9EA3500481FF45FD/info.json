@@ -1,0 +1,11 @@
+{
+ "name": "DogeArmy token",
+ "website": "-",
+ "description": "The army of dogs is the second generation MemeToken, a community autonomous, cash dividend Doge.",
+ "explorer": "https://bscscan.com/token/0x73317BbD1e88afC2e39c618b9EA3500481FF45FD",
+ "type": "BEP20",
+ "symbol": "DogeArmy",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x73317BbD1e88afC2e39c618b9EA3500481FF45FD"
+}

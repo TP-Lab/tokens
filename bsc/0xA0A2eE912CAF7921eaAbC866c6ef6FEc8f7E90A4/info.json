@@ -1,0 +1,11 @@
+{
+    "name": "Deeper Network",
+    "website": "https://www.deeper.network/",
+    "description": "Discerption: Deeper Network is a cybersecurity company headquartered in Silicon Valley. By leveraging expertise in network security and blockchain technology, Deeper Network have been committed to delivering a trusted, private, and secure internet experience to every household.",
+    "explorer": "https://bscscan.com/address/0xA0A2eE912CAF7921eaAbC866c6ef6FEc8f7E90A4",
+    "type": "BEP20",
+    "symbol": "DPR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA0A2eE912CAF7921eaAbC866c6ef6FEc8f7E90A4"
+}

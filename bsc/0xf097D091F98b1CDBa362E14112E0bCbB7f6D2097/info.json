@@ -1,0 +1,11 @@
+{
+    "name": "JD",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0xf097D091F98b1CDBa362E14112E0bCbB7f6D2097",
+    "type": "BEP20",
+    "symbol": "JD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf097D091F98b1CDBa362E14112E0bCbB7f6D2097"
+}

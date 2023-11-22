@@ -1,0 +1,11 @@
+{
+ "name": "Astroboy Token",
+ "website": "https://astro-boy.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xE9643506E0F329abEdcDC4418097F51F028Dcc7B",
+ "type": "BEP20",
+ "symbol": "Astroboy",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xE9643506E0F329abEdcDC4418097F51F028Dcc7B"
+}

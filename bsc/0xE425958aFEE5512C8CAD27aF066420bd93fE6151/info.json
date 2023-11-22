@@ -1,0 +1,11 @@
+{
+ "name": "btcbra",
+ "website": "-",
+ "description": "btcbra Tokenis an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xE425958aFEE5512C8CAD27aF066420bd93fE6151",
+ "type": "BEP20",
+ "symbol": "btcbra",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE425958aFEE5512C8CAD27aF066420bd93fE6151"
+}

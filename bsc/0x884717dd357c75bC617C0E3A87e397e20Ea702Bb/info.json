@@ -1,0 +1,11 @@
+{
+ "name": "shark",
+ "website": "-",
+ "description": "shark is a web  project initiated by a number of communities and led by the head of the organization, players can influence the direction of the game by electing six DAO members to participate in the management.",
+ "explorer": "https://bscscan.com/token/0x884717dd357c75bC617C0E3A87e397e20Ea702Bb",
+ "type": "BEP20",
+ "symbol": "shark",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x884717dd357c75bC617C0E3A87e397e20Ea702Bb"
+} 

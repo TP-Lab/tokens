@@ -1,0 +1,11 @@
+{
+  "name": "POKER CHIPS",
+  "website": "https://poker-c.vercel.app/",
+  "description": "Poker.C create a fair and open ecosystem with advance technology, and we will be the pioneer of the gambling industry.",
+  "explorer": "https://bscscan.com/token/0x7a093D1EdCeD0d714ea802313aa0a19bB41813D3",
+  "type": "BEP20",
+  "symbol": "PC",
+  "decimals": 8,
+  "status": "active",
+  "id": "0x7a093D1EdCeD0d714ea802313aa0a19bB41813D3"
+ }

@@ -1,0 +1,11 @@
+{
+  "name": "Tribalisland Token",
+  "website": "https://www.tribalisland.io",
+  "description": "Tribal Island is a web3 game based on the tokenomy 2.0. It is themed around islands and tribes and supports players to create building, gather resources, breed monsters, PVE/PVP, grow fruit, trade, tribal warfare and other gameplay. Tribal Island is dedicated to creating sustainable web3 metaverse games.",
+  "explorer": "https://www.bscscan.com/token/0x9ABdCDAcf6Ab51B9dAf10fD38Cf166749f1A447A",
+  "type": "BEP20",
+  "symbol": "TIT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9ABdCDAcf6Ab51B9dAf10fD38Cf166749f1A447A"
+}

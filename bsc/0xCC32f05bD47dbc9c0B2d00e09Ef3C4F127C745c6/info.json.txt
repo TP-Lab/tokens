@@ -1,0 +1,11 @@
+{
+ "name": "Bit miner",
+"website": "https://bscscan.com/token/0xCC32f05bD47dbc9c0B2d00e09Ef3C4F127C745c6",
+ "description": " BSC, Bit miner",
+ "explorer": "https://bscscan.com/token/0xCC32f05bD47dbc9c0B2d00e09Ef3C4F127C745c6",
+ "type": "BEP20",
+ "symbol": "Bit miner",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCC32f05bD47dbc9c0B2d00e09Ef3C4F127C745c6"
+}

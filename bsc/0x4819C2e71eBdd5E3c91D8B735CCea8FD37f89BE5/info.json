@@ -1,0 +1,11 @@
+{
+ "name": "CEASports",
+ "website": ".https://ceasports.io/",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x4819C2e71eBdd5E3c91D8B735CCea8FD37f89BE5",
+ "type": "BEP20",
+ "symbol": "CSPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4819C2e71eBdd5E3c91D8B735CCea8FD37f89BE5"
+}

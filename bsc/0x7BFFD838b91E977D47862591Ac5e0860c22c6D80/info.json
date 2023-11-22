@@ -1,0 +1,11 @@
+{
+ "name": "BST",
+ "website": "https://www.startmir.com",
+ "description": "Token Of startmir",
+ "explorer": "https://bscscan.com/token/0x7BFFD838b91E977D47862591Ac5e0860c22c6D80",
+ "type": "BEP20",
+ "symbol": "BST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7BFFD838b91E977D47862591Ac5e0860c22c6D80"
+}

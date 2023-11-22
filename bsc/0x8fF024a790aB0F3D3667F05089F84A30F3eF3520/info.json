@@ -1,0 +1,11 @@
+{
+ "name": "Staked Jumbo",
+ "website": "https://jumbodefi.io/",
+ "description": "Token Staked Jumbo.",
+ "explorer": "https://bscscan.com/token/0x8fF024a790aB0F3D3667F05089F84A30F3eF3520",
+ "type": "BEP20",
+ "symbol": "sJUB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8fF024a790aB0F3D3667F05089F84A30F3eF3520"
+}

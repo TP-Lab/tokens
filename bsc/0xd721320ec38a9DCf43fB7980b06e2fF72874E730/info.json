@@ -1,0 +1,11 @@
+{
+ "name": "DogePi ",
+ "website": "https://www.dogepibsc.com/",
+ "description": "Binance Smart Chain DeFi Deflation Token",
+ "explorer": "https://bscscan.com/token/0xd721320ec38a9DCf43fB7980b06e2fF72874E730",
+ "type": "BEP20",
+ "symbol": "DogePi",
+ "decimals": 1,
+ "status": "active",
+ "id": "0xd721320ec38a9DCf43fB7980b06e2fF72874E730"
+} 

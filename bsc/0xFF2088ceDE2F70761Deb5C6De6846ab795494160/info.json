@@ -1,0 +1,11 @@
+{
+	"name": "FWS",
+	"website": "http://h5.tanzhcloud.com/fws/index.html",
+	"description": "The world's first top IP GAMEFI.",
+	"explorer": "https://bscscan.com/token/0xFF2088ceDE2F70761Deb5C6De6846ab795494160",
+	"type": "BEP20",
+	"symbol": "FWS",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xFF2088ceDE2F70761Deb5C6De6846ab795494160"
+   }

@@ -1,0 +1,11 @@
+{
+ "name": "V Police Dog DAO",
+ "website": "https://www.vpdtoken.com/",
+ "description": "VDD維犬币（V Police Dog DAO）是由一群區塊鏈的超強信仰者與技術極客共同發起，創建的一個去中心化代幣，VDD主要以「救助金」方式幫助與救助區塊鏈的玩家，救助金將以三種方式呈現並撥出USDT給玩家，關於如何獲得救助金請訪問官方推特或電報VPDTOKEN了解。",
+ "explorer": "https://bscscan.com/token/0xb144c6e2e270d46f3c7cfb331f217b3f602680dc",
+ "type": "BEP20",
+ "symbol": "VDD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb144c6e2e270d46f3c7cfb331f217b3f602680dc"
+}

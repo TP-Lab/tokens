@@ -1,0 +1,11 @@
+{
+ "name": "RLT",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xe3235C4ca3421124dC973770501ad2331B61f119",
+ "type": "BSC20",
+ "symbol": "RLT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe3235C4ca3421124dC973770501ad2331B61f119"
+}

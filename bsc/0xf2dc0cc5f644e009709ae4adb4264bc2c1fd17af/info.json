@@ -1,0 +1,11 @@
+{
+    "name": "PEC",
+    "website": "http://www.wind.com/",
+    "description": "The best choice for football Sports Hedge arbitrage Hosting",
+    "explorer": "https://bscscan.com/token/0xF2dC0cC5F644E009709Ae4Adb4264bC2c1fD17aF",
+    "type": "BEP20",
+    "symbol": "PEC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF2dC0cC5F644E009709Ae4Adb4264bC2c1fD17aF"
+   }

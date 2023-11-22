@@ -1,0 +1,11 @@
+{
+ "name": "HONSOCIAL",
+ "website": "https://www.honsocial.com",
+ "description": "HONSOCIAL - SOCIAL TO EARN",
+ "explorer": "https://bscscan.com/token/0xe37212f6a57Bfa20e933D18D26D5b4f40729DaC0",
+ "type": "BEP20",
+ "symbol": "HON",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe37212f6a57Bfa20e933D18D26D5b4f40729DaC0"
+}

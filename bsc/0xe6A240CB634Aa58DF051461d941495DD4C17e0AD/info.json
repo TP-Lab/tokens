@@ -1,0 +1,11 @@
+{
+ "name": "MWG",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xe6A240CB634Aa58DF051461d941495DD4C17e0AD",
+ "type": "BEP20",
+ "symbol": "MWG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe6A240CB634Aa58DF051461d941495DD4C17e0AD"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "REPE",
+ "website": "http://www.repe.info",
+ "description": ""Reiki Pet" is a world full of unique pets and a sense of player autonomy, where all players can earn wealth through skilled gameplay and contributions to the ecosystem",
+ "explorer": "https://bscscan.com/token/0x123646F2eba15760666b976B4B399D712efffFeA",
+ "type": "BEP20",
+ "symbol": "REPE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x123646F2eba15760666b976B4B399D712efffFeA"
+}

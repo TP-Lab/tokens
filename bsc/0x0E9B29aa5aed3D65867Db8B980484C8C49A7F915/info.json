@@ -1,0 +1,11 @@
+{
+ "name": "Ginza Eternity Reward",
+ "website": "www.ginzaeternity.com",
+ "description": "Ginza Eternity In-game Token",
+ "explorer": "https://bscscan.com/token/0x0E9B29aa5aed3D65867Db8B980484C8C49A7F915",
+ "type": "BEP20",
+ "symbol": "GER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0E9B29aa5aed3D65867Db8B980484C8C49A7F915"
+}

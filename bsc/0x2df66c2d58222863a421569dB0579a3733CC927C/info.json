@@ -1,0 +1,11 @@
+{
+ "name": "Web 3.0 Universe",
+ "website": "http://u3webs.com",
+ "description": "Web3.0 Universe (U3), dedicated to Web3 0 and meta universe basic technology construction, high viscosity mechanism, build Web3.0 meta universal chain.",
+ "explorer": "https://bscscan.com/token/0x2df66c2d58222863a421569dB0579a3733CC927C",
+ "type": "BEP20",
+ "symbol": "U3",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2df66c2d58222863a421569dB0579a3733CC927C"
+}

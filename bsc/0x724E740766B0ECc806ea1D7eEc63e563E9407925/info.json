@@ -1,0 +1,11 @@
+{
+ "name": "TAKE OFF",
+ "website": "http://www.startrekmeta.com",
+ "description": "TKF is the token of the metaverse chain game star trek meta. It mainly uses the metaverse game as the guide meta, and together it is the star trek flow meta.",
+ "explorer": "https://bscscan.com/token/0x724E740766B0ECc806ea1D7eEc63e563E9407925",
+ "type": "BEP20",
+ "symbol": "TKF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x724E740766B0ECc806ea1D7eEc63e563E9407925"
+}

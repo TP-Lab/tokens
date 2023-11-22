@@ -1,0 +1,11 @@
+{
+    "name": "Greenford Token",
+    "website": "",
+    "description": "格林福特基金会(Greenford Foundation)这些年一直在web3和公链领域投研，参与多个web3组织和元宇宙项目，积累了很多对DAO体系的认知，GFJ.DAO以一种去中心化(DAO组 织)自治模式发起，核心成员是Google和EOS的区块链精神极客。",
+    "explorer": "https://bscscan.com/token/0x8E643892437bEb34Aab55d812190468d7b9ba7fc",
+    "type": "BEP20",
+    "symbol": "GFJ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8E643892437bEb34Aab55d812190468d7b9ba7fc"
+}

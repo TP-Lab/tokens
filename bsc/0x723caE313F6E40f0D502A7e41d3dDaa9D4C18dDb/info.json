@@ -1,0 +1,11 @@
+{ 
+"name": "OSL",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/address/0x723caE313F6E40f0D502A7e41d3dDaa9D4C18dDb",
+"type": "BEP20",
+"symbol": "OSL",
+"decimals": 18,
+"status": "active",
+"id": "0x723caE313F6E40f0D502A7e41d3dDaa9D4C18dDb"
+}

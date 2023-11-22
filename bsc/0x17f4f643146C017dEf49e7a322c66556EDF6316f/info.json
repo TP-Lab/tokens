@@ -1,0 +1,11 @@
+{
+ "name": "dYdY Token",
+ "website": "http://www.dydy.io/",
+ "description": "DYDY is a governance token that allows the DYDY community to own and govern the DYDY protocol, share control, and coordinate the incentive mechanism between traders, liquidity providers and partners.",
+ "explorer": "https://bscscan.com/token/0x17f4f643146c017def49e7a322c66556edf6316f",
+ "type": "BEP20",
+ "symbol": "DYDY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x17f4f643146C017dEf49e7a322c66556EDF6316f"
+}

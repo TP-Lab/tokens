@@ -1,0 +1,11 @@
+{
+ "name": "FTTZ",
+ "website": ".",
+ "description": "飞天通证FTTZ发行总量16888枚，FTTZ致力于打造币安链最繁荣的金融体系，合约开源数据无法篡改，永不增发",
+ "explorer": "https://bscscan.com/token/0x07281D572A4c0A5782Fc2256AC85FC728e0df0b1",
+ "type": "BSC20",
+ "symbol": "FTTZ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x07281D572A4c0A5782Fc2256AC85FC728e0df0b1"
+}

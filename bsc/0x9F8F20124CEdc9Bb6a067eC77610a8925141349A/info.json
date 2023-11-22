@@ -1,0 +1,11 @@
+{
+ "name": "kepler",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x9F8F20124CEdc9Bb6a067eC77610a8925141349A",
+ "type": "BSC20",
+ "symbol": "kepler",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9F8F20124CEdc9Bb6a067eC77610a8925141349A"
+}

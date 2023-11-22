@@ -1,0 +1,11 @@
+{
+ "name": "SUNGOD9 Token",
+ "website": "http://www.sungod9.com",
+ "description": "DEFI field truly great cryptocurrency, highly valued digital assets of the Orient, full security hard core underlying, ultra high percentage of mobile pool locking."
+ "explorer": "https://bscscan.com/token/0x91a5420a1273Af46c42D6f96a37c6511adC61621",
+ "type": "BEP20",
+ "symbol": "SUNGOD9",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x91a5420a1273Af46c42D6f96a37c6511adC61621"
+}

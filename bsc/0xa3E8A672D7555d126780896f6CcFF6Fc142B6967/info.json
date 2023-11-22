@@ -1,0 +1,11 @@
+{
+    "name": "POE",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0xa3E8A672D7555d126780896f6CcFF6Fc142B6967",
+    "type": "BEP20",
+    "symbol": "POE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa3E8A672D7555d126780896f6CcFF6Fc142B6967"
+}

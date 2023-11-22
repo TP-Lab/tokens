@@ -1,0 +1,11 @@
+{
+ "name": "BigDoge ",
+ "website": "http://bigdoge.com",
+ "description": "BigDoge will be the best coin ",
+ "explorer": "https://bscscan.com/token/0x7cD149dCc647d73C1f324fCFd6d407e511b0d6da",
+ "type": "BEP20",
+ "symbol": "BigDoge",
+ "decimals": 2,
+ "status": "active",
+ "id": "0x7cD149dCc647d73C1f324fCFd6d407e511b0d6da"
+}

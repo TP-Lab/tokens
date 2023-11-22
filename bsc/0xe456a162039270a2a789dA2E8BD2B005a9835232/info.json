@@ -1,0 +1,11 @@
+{ 
+"name": "Puzzle And Dragons X",
+"website": "https://www.padx.com",
+"description": "PADX is a yield-generating deflationary charitable cryptocurrency that runs on Binance Smart Chain. It rewards holders through reflections by taxing transactions. ",
+"explorer": "https://bscscan.com/token/0xe456a162039270a2a789dA2E8BD2B005a9835232",
+"type": "BEP20",
+"symbol": "PADX",
+"decimals": 9,
+"status": "active",
+"id": "0xe456a162039270a2a789dA2E8BD2B005a9835232"
+}

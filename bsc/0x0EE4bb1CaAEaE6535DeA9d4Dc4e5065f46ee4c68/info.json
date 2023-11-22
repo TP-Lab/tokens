@@ -1,0 +1,11 @@
+{
+ "name": "EDOM",
+ "website": "http://www.edom.network",
+ "description": "Edom.Network is a globalized, low-cost, private, flexible, and secure distributed computing resource storage and sharing network. Edom.Network aims to provide a globalized, low-cost, private, flexible, and secure distributed computing power storage and sharing network for the artificial intelligence industry, which will serve all walks of life in the future.",
+ "explorer": "https://bscscan.com/token/0x0ee4bb1caaeae6535dea9d4dc4e5065f46ee4c68",
+ "type": "BEP20",
+ "symbol": "EDOM",
+ "decimals": 15,
+ "status": "active",
+ "id": "0x0EE4bb1CaAEaE6535DeA9d4Dc4e5065f46ee4c68"
+}

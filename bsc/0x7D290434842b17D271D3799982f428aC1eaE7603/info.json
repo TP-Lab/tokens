@@ -1,0 +1,11 @@
+{
+ "name": "Bitcoin Finance",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x7D290434842b17D271D3799982f428aC1eaE7603",
+ "type": "BEP20",
+ "symbol": "BTF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7D290434842b17D271D3799982f428aC1eaE7603"
+}

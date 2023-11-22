@@ -1,0 +1,11 @@
+{
+ "name": "CESS Token",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x7745E453Bcc1d059397D0B07398f027F0c02bFbF",
+ "type": "BSC20",
+ "symbol": "CESS",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x7745E453Bcc1d059397D0B07398f027F0c02bFbF"
+}

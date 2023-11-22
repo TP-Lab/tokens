@@ -1,0 +1,11 @@
+{
+ "name": "Central bank digital currency",
+ "website": "http://m.cbdccoin.info",
+ "description": "Central bank digital currency is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x1a3e406af8c3e46dbf9ab2dec97827cc1d3f8fc9",
+ "type": "BEP20",
+ "symbol": "CBDC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1A3E406aF8c3e46dbF9Ab2dEC97827CC1d3f8fC9"
+}

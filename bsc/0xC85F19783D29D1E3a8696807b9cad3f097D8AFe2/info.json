@@ -1,0 +1,11 @@
+{
+  "name": "GFY Token",
+  "website": "https://dapp.dianwuyou.org",
+  "description": "GFY數字通證是以Web3.0+DAO的去中心化理念,由全球頂尖技術研發團隊成立的GFY實驗室。歷經18個月，基於币安鏈研發的消費生態鏈。GFY數字通證是致力於打造全球消費生熊，助力經濟互融，以創新消費為主題，以區塊鏈 技術為核心，踐行消費惠民、實現全球命運共同體。",
+  "explorer": "https://bscscan.com/token/0xC85F19783D29D1E3a8696807b9cad3f097D8AFe2",
+  "type": "BEP20",
+  "symbol": "GFY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xC85F19783D29D1E3a8696807b9cad3f097D8AFe2"
+}

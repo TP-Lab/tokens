@@ -1,0 +1,11 @@
+{
+ "name": "CandyladCoin",
+ "website": "https://candylad.finance/",
+ "description": "A charity-oriented token that trying to contribute the world to be a better place , and bring a sweet Candylad Token to every corner of the world. ",
+ "explorer": "https://etherscan.io/address/0x141e84a470a5243689d3beb47777fbae9636fa61",
+ "type": "ERC20",
+ "symbol": "Candylad",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x141e84a470A5243689D3beB47777FbAe9636FA61"
+}

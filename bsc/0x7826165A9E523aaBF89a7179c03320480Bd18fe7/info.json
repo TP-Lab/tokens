@@ -1,0 +1,11 @@
+{
+ "name": "Minions",
+ "website": "https://minions-nft.net",
+ "description": "MIS token is the governance token and equity token of the Minions ecology. The total circulation of MIS is 3,600,000. Minions tokens are minted by liquidity mining. It is the governance and fairness token of the Minions ecosystem. Users with MIS can participate in community proposals and decisions, and continue to receive dividends. The Minions contract adopts a completely fair distribution system. Only 10% crowdfunding is used for allotment and 5% airdrop is launched. The others are mined by liquidity mining.",
+ "explorer": "https://bscscan.com/token/0x7826165A9E523aaBF89a7179c03320480Bd18fe7",
+ "type": "BEP20",
+ "symbol": "MIS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7826165A9E523aaBF89a7179c03320480Bd18fe7"
+}

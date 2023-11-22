@@ -1,0 +1,11 @@
+{
+ "name": "KBX",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xea265c66992d359c0f86ba55b271483634134320",
+ "type": "BEP20",
+ "symbol": "KBX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEa265c66992D359C0f86ba55B271483634134320"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "SDC",
+ "website": "http://sdc-web.com",
+ "description": "SDC is helping solve this problem with an identity aggregation protocol that serves for multiple networks.",
+ "explorer": "https://bscscan.com/token/0xDc2870929D3Dd7A7Cf21F4Fa11010EDf199E089B",
+ "type": "BEP20",
+ "symbol": "SDC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDc2870929D3Dd7A7Cf21F4Fa11010EDf199E089B"
+}

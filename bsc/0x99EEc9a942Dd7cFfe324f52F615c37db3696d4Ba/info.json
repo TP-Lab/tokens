@@ -1,0 +1,11 @@
+{
+    "name": "EDAO Token",
+    "website": "https://eatadd.com",
+    "description": "Black hole scanning ecological subcoin, the new LP model, open web3.0 new track.",
+    "explorer": "https://bscscan.com/token/0x99EEc9a942Dd7cFfe324f52F615c37db3696d4Ba",
+    "type": "BEP20",
+    "symbol": "EDAO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x99EEc9a942Dd7cFfe324f52F615c37db3696d4Ba"
+}

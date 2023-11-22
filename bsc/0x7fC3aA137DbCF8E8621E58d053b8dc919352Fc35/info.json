@@ -1,0 +1,11 @@
+{
+ "name": "SpaceX Token",
+ "website": "https://spacexdao.org",
+ "description": "Blockchain-based space metaverse parallel world",
+ "explorer": "https://bscscan.com/token/0x7fC3aA137DbCF8E8621E58d053b8dc919352Fc35",
+ "type": "BEP20",
+ "symbol": "SpaceX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7fC3aA137DbCF8E8621E58d053b8dc919352Fc35"
+}

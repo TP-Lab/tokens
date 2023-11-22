@@ -1,0 +1,11 @@
+{
+  "name": "Double eagle",
+  "website": "https://site.doubleeagle.io",
+  "description": "DFA is the governance token of the DFD lending protocol",
+  "explorer": "https://bscscan.com/token/0xD6222AD8B38Ab74feb42E3447d93C7Ef3fd07b7c",
+  "type": "BEP20",
+  "symbol": "DOE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xD6222AD8B38Ab74feb42E3447d93C7Ef3fd07b7c"
+}

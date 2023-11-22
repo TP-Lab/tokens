@@ -1,0 +1,11 @@
+{
+    "name":"Bit360",
+    "website":"https://www.bit360.net/",
+    "description":"Bit360 is a comprehensive service platform based on blockchain technology, decentralized Finance + Kot public chain + business alliance. Bit360 token is the proof of all rights and interests of bit360 platform. Holding bit360 shareholder token can obtain all dividend rights and interests of 360 ecology.",
+    "explorer":"hhttps://www.bscscan.com/token/0xbf8feeaa4799f8765ecb3ae6e1569ede0fee0366",
+    "type":"BEP20",
+    "symbol":"Bit360",
+    "decimals":18,
+    "status":"active",
+    "id":"0xBf8FeEAa4799f8765eCb3Ae6e1569eDe0fEe0366"
+}

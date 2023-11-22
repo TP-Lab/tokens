@@ -1,0 +1,11 @@
+{
+ "name": "House Token",
+ "website": "https://housedao.day",
+ "description": "The social development growing faster and faster, and most young people are unable to live and work in peace and contentment due to the pressure of work and high property prices. The annual rate of suicide increases year by year due to stress. Most people are exploited by capital. We have a house, we have a house of buying a house, we want to receive more social attention, and we want a healthy development of the real estate industry.",
+ "explorer": "https://bscscan.com/address/0xb710023F4DD3Ff78e72666473a09b25A80c19ce2",
+ "type": "BEP20",
+ "symbol": "House",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb710023F4DD3Ff78e72666473a09b25A80c19ce2"
+}

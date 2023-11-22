@@ -1,0 +1,11 @@
+{
+ "name": "VRC",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x26d0d5df08d9B0074ddB37c723F0288ce5e94745",
+ "type": "BSC20",
+ "symbol": "VRC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x26d0d5df08d9B0074ddB37c723F0288ce5e94745"
+}

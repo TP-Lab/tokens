@@ -1,0 +1,11 @@
+{
+ "name": "BabyKitty",
+ "website": "http://babykitty.club",
+ "description": "The Biggest Gift in 2021 and 2022.",
+ "explorer": "https://bscscan.com/address/0x3efe3bee4dbeb77d260bc12aeb62072cf6e68478",
+ "type": "BEP20",
+ "symbol": "BabyKitty",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3Efe3beE4dbEB77D260BC12AeB62072cF6e68478"
+}

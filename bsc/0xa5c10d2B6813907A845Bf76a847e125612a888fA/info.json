@@ -1,0 +1,11 @@
+{
+  "name": "SpadeA    Token",
+  "website": "https://www.spadea.finance",
+  "description": "BSC",
+  "explorer": "https://bscscan.com/address/0xa5c10d2B6813907A845Bf76a847e125612a888fA",
+  "type": "BEP20",
+  "symbol": "SpadeA  ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa5c10d2B6813907A845Bf76a847e125612a888fA"
+}

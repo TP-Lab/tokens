@@ -1,0 +1,11 @@
+﻿{
+    "name": "Solar Miner",
+    "website": "",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xc3775ac1d87c7a8e2ab4cc8af2d6ebc0d95c5ce5",
+    "type": "BEP20",
+    "symbol": "Solar",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xc3775ac1d87c7a8e2ab4cc8af2d6ebc0d95c5ce5"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "MetaTiger",
+    "website": "https://metatiger.finance/",
+    "description": "MetaTiger aims to provide the first digitalized virtual tiger for the metaverse.",
+    "explorer": "https://bscscan.com/address/0x580799177f538bd5f03cd940afe0f6ef68c90356",
+    "type": "BEP20",
+    "symbol": "MTR",
+    "decimals": 18,
+    "status": "active",
+    "id": " 0x580799177f538bD5f03cD940Afe0F6Ef68C90356"
+   } 

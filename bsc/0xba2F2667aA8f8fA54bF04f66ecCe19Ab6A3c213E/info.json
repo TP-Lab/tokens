@@ -1,0 +1,11 @@
+{
+ "name": "Zerus of Dark Element",
+ "website": "https://www.zerus.org",
+ "description": "Mages have an innate connection with the Dark Elements, allowing them to swiftly gather the Dark Elements.",
+ "explorer": "https://bscscan.com/token/0xba2F2667aA8f8fA54bF04f66ecCe19Ab6A3c213E",
+ "type": "BEP20",
+ "symbol": "ZDE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xba2F2667aA8f8fA54bF04f66ecCe19Ab6A3c213E"
+}

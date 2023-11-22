@@ -1,0 +1,11 @@
+{
+ "name": "Mickey",
+ "website": "https://app.mickeynft.org/",
+ "description": "Mickey World is a leading DEFI financial protocol + NFT collectibles platform, dedicated to improving the efficiency of financial capital use and promoting the ecological development of NFT..",
+ "explorer": "https://bscscan.com/address/0xBA5824DA895a073083Ac90b3D187a9e115Bb76df",
+ "type": "BEP20",
+ "symbol": "MIK",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xBA5824DA895a073083Ac90b3D187a9e115Bb76df"
+}

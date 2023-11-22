@@ -1,0 +1,11 @@
+{
+ "name": "WINE",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xAc06077FB1a9DbA479b8579F35fa37c77F758724",
+ "type": "BEP20",
+ "symbol": "WINE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAc06077FB1a9DbA479b8579F35fa37c77F758724"
+}

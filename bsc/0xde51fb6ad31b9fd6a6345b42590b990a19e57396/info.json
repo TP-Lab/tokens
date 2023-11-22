@@ -1,0 +1,21 @@
+{
+
+ "name": "moneybegetsmoney",
+
+ "website": "http://mbm.host3v.com",
+
+ "description": "MBM is committed to building the best token in Decentric Finance. And it will be a dark horse in the financial field.",
+
+ "explorer": "https://bscscan.com/token/0xde51fb6ad31b9fd6a6345b42590b990a19e57396",
+
+ "type": "BEP20",
+
+ "symbol": "MBM",
+
+ "decimals": 18,
+
+ "status": "active",
+
+ "id": "0xde51fb6ad31b9fd6a6345b42590b990a19e57396"
+
+}

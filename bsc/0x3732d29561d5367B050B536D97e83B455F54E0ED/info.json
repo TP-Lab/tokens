@@ -1,0 +1,11 @@
+{
+ "name": "BabyShark Token",
+ "website": "babyshark.sbs",
+ "description": BSC
+ "explorer": "https://bscscan.com/token/0x3732d29561d5367B050B536D97e83B455F54E0ED",
+ "type": "BEP20",
+ "symbol": "BS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3732d29561d5367B050B536D97e83B455F54E0ED"
+}

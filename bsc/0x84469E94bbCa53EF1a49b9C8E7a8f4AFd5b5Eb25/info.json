@@ -1,0 +1,11 @@
+{
+ "name": "MIMIC",
+ "website": "-",
+ "description": "MIMIC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x84469E94bbCa53EF1a49b9C8E7a8f4AFd5b5Eb25",
+ "type": "BEP20",
+ "symbol": "MIMIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x84469E94bbCa53EF1a49b9C8E7a8f4AFd5b5Eb25"
+}

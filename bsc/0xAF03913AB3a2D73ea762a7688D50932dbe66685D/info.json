@@ -1,0 +1,11 @@
+{
+ "name": "NBABULLS",
+ "website": "https://nbabulls.cc",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/address/0xaf03913ab3a2d73ea762a7688d50932dbe66685d",
+ "type": "BEP20",
+ "symbol": "BULLS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xaf03913ab3a2d73ea762a7688d50932dbe66685d"
+}

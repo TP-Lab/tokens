@@ -1,0 +1,11 @@
+{
+  "name": "Future",
+  "website": "https://ftrspace.com",
+  "description": "A leading social token issuance platform.There's no crypto knowledge required to create a Coin.The future of social tokens belongs to you. Twitter: https://twitter.com/FTRspace . Telegram: https://t.me/FTRspace",
+  "explorer": "https://bscscan.com/token/0x7b985A5EB655238D910B52B7e25B2648c1eAbC45",
+  "type": "BEP20",
+  "symbol": "FTR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7b985A5EB655238D910B52B7e25B2648c1eAbC45"
+ }

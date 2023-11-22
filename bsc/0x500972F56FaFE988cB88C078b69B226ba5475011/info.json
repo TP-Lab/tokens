@@ -1,0 +1,11 @@
+{
+ "name": "BTO token",
+ "website": "https://btotoken.com",
+ "description": "Faced with the biggest change in a century, we are at the singularity of the blockchain explosion night! So BTO is born, BTO is committed to build defi 2.0 high degree autonomous community, through the global video live platform, more value consensus.",
+ "explorer": "https://bscscan.com/token/0x500972F56FaFE988cB88C078b69B226ba5475011",
+ "type": "BEP20",
+ "symbol": "BTO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x500972F56FaFE988cB88C078b69B226ba5475011"
+}

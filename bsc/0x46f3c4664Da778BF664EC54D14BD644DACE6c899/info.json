@@ -1,0 +1,11 @@
+{
+ "name": "Puffs Cake",
+ "website": "https://puffscake.com",
+ "description": "Puffs Cake is establishing a community-centric-centric transaction network，PFCK is carried out in the BSC chain, mainly promoting other fields of its mechanism.",
+ "explorer": "https://bscscan.com/token/0x46f3c4664Da778BF664EC54D14BD644DACE6c899",
+ "type": "BEP20",
+ "symbol": "PFCK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x46f3c4664Da778BF664EC54D14BD644DACE6c899"
+}

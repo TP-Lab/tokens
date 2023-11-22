@@ -1,0 +1,11 @@
+{
+"name": "QJKing",
+"website": "-",
+"description": "QJKing",
+"explorer": "https://bscscan.com/address/0x43dc1bf7871F13F72003A33dA03eaE979bDD3073",
+"type": "BEP20",
+"symbol": "QJKing",
+"decimals": 18,
+"status": "active",
+"id": "0x43dc1bf7871F13F72003A33dA03eaE979bDD3073"
+}

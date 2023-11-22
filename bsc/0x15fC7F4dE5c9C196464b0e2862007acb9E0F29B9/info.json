@@ -1,0 +1,11 @@
+{ 
+"name": "Revolution DAO",
+"website": "https://www.revolution-dao.com/",
+"description": "Leading into Future Revolution DAO!",
+"explorer": "https://bscscan.com/token/0x15fC7F4dE5c9C196464b0e2862007acb9E0F29B9",
+"type": "BEP20",
+"symbol": "RLD",
+"decimals": 18,
+"status": "active",
+"id": "0x15fC7F4dE5c9C196464b0e2862007acb9E0F29B9"
+}

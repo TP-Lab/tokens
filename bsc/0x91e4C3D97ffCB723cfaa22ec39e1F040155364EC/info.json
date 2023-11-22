@@ -1,0 +1,11 @@
+{
+ "name": "AFIC",
+ "website": "https://metafreecity.com/",
+ "description": "AFIC tokens, as the governance token of Meta Freecity platform, will be fully circulated in Freecity's scenario interactions and will be mainly used to purchase rare resources, participate in DAO mechanism and DeFi products.",
+ "explorer": "https://bscscan.com/token/0x91e4c3d97ffcb723cfaa22ec39e1f040155364ec",
+ "type": "BEP20",
+ "symbol": "AFIC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x91e4c3d97ffcb723cfaa22ec39e1f040155364ec"
+}

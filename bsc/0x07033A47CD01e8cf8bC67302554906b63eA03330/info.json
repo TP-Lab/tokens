@@ -1,0 +1,11 @@
+{
+ "name": "LemonDAO",
+ "website": "https://lemondao.top/",
+ "description": "A lemon farm farming game based on Binance Smart Chain.",
+ "explorer": "https://bscscan.com/token/0x07033a47cd01e8cf8bc67302554906b63ea03330",
+ "type": "BEP20",
+ "symbol": "LEMON",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x07033A47CD01e8cf8bC67302554906b63eA03330"
+}

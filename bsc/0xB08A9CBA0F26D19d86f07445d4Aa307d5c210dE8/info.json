@@ -1,0 +1,11 @@
+{
+ "name": "ABANK",
+ "website": "https://www.abankdao.com",
+ "description": "ABANK由全球多名NFT粉丝组织而成的一个DAO组织",
+ "explorer": "https://bscscan.com/token/0xB08A9CBA0F26D19d86f07445d4Aa307d5c210dE8",
+ "type": "BEP-20",
+ "symbol": "ABANK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB08A9CBA0F26D19d86f07445d4Aa307d5c210dE8"
+}

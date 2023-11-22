@@ -1,0 +1,11 @@
+{
+ "name": "AOSD",
+ "website": "http://aocoswap.cc",
+ "description": "AOCO is an environmental protection foundation established in the United States",
+ "explorer": "https://bscscan.com/token/0x340B690fA360B31D12cb576Cb24Ab166920cd4D4",
+ "type": "BEP20",
+ "symbol": "AOSD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x340B690fA360B31D12cb576Cb24Ab166920cd4D4"
+}

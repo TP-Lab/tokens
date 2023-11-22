@@ -1,0 +1,11 @@
+{
+ "name": "TALKI",
+ "website": "https://www.talki.org",
+ "description": "TAL is the only liquid governance token in the Talki ecosystem and is designed to reflect the value flowing through the Talki platform in a limited and extremely deflationary amount, and contribute to the prosperity of the Talki ecosystem.",
+ "explorer": "https://bscscan.com/token/0x1c2127b57c67481d53043abd9d801398c11e221a",
+ "type": "BEP20",
+ "symbol": "TAL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1c2127b57c67481d53043ABD9D801398c11e221A"
+}

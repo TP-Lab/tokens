@@ -1,0 +1,11 @@
+{
+  "name": "Gold Socialfi GameFi ",
+  "website": "http://dlworld.io/",
+  "description": "DL-World is an ancient development game running on Binance Smart Chain. GSG is a governance token issued by DL-WORLD, which can be obtained by participating in games and community activities. With GSG, you can participate in DAO governance.",
+  "explorer": "https://bscscan.com/token/0xB1DCCaB34962a51919f2e439C010f66b28085eF7",
+  "type": "BEP20",
+  "symbol": "GSG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xB1DCCaB34962a51919f2e439C010f66b28085eF7"
+}

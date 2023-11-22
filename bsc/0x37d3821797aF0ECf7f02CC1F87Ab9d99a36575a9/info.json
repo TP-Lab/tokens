@@ -1,0 +1,11 @@
+{
+ "name": "SUNT Token",
+ "website": "https://www.sunt.cc",
+ "description": "The decentralized Token of open governance of DAO architecture integrates powerful defi smart contract to achieve balance in circulation, pledge and output, and has strong scalability and value carrying capacity.",
+ "explorer": "https://bscscan.com/token/0x37d3821797aF0ECf7f02CC1F87Ab9d99a36575a9",
+ "type": "BEP20",
+ "symbol": "SUNT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x37d3821797aF0ECf7f02CC1F87Ab9d99a36575a9"
+}

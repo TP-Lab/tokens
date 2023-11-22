@@ -1,0 +1,11 @@
+{
+ "name": "ARC",
+ "website": "https://sunray.finance/",
+ "description": "ARC belongs to the Sunray. Finance platform protocol contribution value token, with a total of 100 million tokens obtained through the Stack ecological protocol contribution reward, promoting platform ecological governance and voting on DAO protocol modification proposals. At the same time, ARC can be used as the platform's Rebase fuel to enhance the APR of different benefits of Stack.",
+ "explorer": "https://arbiscan.io/address/0x187af63200847d16b1df23caab6ad1de6e2457a6",
+ "type": "ERC20",
+ "symbol": "ARC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x187aF63200847D16B1DF23CAAb6aD1dE6e2457A6"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TNTW",
+  "website": "",
+  "description": "",
+  "explorer": "https://bscscan.com/token/0xEF4FC9E7A8d4F0653b4946c2e31E793708da7E76",
+  "type": "BEP20",
+  "symbol": "TNTW",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xEF4FC9E7A8d4F0653b4946c2e31E793708da7E76"
+}

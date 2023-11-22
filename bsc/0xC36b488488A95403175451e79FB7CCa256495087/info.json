@@ -1,0 +1,11 @@
+{
+ "name": "X Rush",
+ "website": "https://xrush.io",
+ "description": "X Rush is a play-to-earn NFT game designed to provide users with a fun gaming experience by racing & shooting in multiple random metaverses.",
+ "explorer": "https://bscscan.com/token/0xC36b488488A95403175451e79FB7CCa256495087",
+ "type": "BEP20",
+ "symbol": "XOX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC36b488488A95403175451e79FB7CCa256495087"
+}

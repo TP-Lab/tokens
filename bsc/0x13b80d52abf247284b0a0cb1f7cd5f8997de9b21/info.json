@@ -1,0 +1,11 @@
+{
+ "name": "EncToken",
+ "website": "https://enc.cool/",
+ "description": "ENC Ecological value token and so on.",
+ "explorer": "https://bscscan.com/token/0x13b80d52abf247284b0a0cb1f7cd5f8997de9b21",
+ "type": "BEP20",
+ "symbol": "ENC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x13b80d52abf247284b0a0cb1f7cd5f8997de9b21"
+}

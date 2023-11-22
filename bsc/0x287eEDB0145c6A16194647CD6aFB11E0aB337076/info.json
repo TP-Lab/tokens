@@ -1,0 +1,11 @@
+{
+ "name": "Ratel Token",
+ "website": "https://ratelswap.io",
+ "description": "ratelswap（中文名：蜜獾）是由QA基金会开发的多品类数字资产市商平台，旨在成为兼容EVM公有链的标准协议资产交互中心并作为web3.0的底层基础设施，通过Dao理念，建设以合约代码为宪法，以个体用户为中心的市商中心，赋能web3.0。",
+ "explorer": "https://bscscan.com/token/0x287eEDB0145c6A16194647CD6aFB11E0aB337076",
+ "type": "BEP20",
+ "symbol": "RT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x287eEDB0145c6A16194647CD6aFB11E0aB337076"
+}

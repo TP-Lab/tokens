@@ -1,0 +1,11 @@
+{
+ "name": "Venice",
+ "website": "https://www.venicecoin.fun",
+ "description": "A community driven platform promoting financial well-being by empowering people of all ages and cultures to be in control of their money and create their own wealth opportunities.",
+ "explorer": "https://bscscan.com/token/0x5e794b5f2e7E316484a04bC1Ca9A455227e8C3bC",
+ "type": "BEP20",
+ "symbol": "Venice",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5e794b5f2e7E316484a04bC1Ca9A455227e8C3bC"
+}

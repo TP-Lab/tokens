@@ -1,0 +1,14 @@
+{
+  "name": "MetaBabyCake",
+  "website": "https://metababycake.com",
+  "telegram": "https://t.me/MetaBabyCake",
+  "twitter": "https://twitter.com/MetaBabyCake",
+  "whitepaper": "https://secureservercdn.net/160.153.137.218/p6k.285.myftpupload.com/wp-content/uploads/2022/01/whitepaper.pdf",
+  "description": "Decentralized Meme Token on BSC which provides a ecosystem for passive income for everyone. Holders get paid hourly 9% rewards in $cake for holding $MBC.",
+  "explorer": "https://bscscan.com/token/0xcb822a3897f05d1b2b3d2ee7ae98cd7b3be3b111",
+  "type": "BEP20",
+  "symbol": "MBC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xCb822a3897f05d1B2B3D2eE7AE98cD7B3BE3b111"
+}

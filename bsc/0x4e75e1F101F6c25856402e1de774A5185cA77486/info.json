@@ -1,0 +1,11 @@
+{ 
+"name": "Earth dog ",
+"website": "https://www.edogeqi.com",
+"description": "Edoge is a community token ",
+"explorer": "https://bscscan.com/token/0x4e75e1F101F6c25856402e1de774A5185cA77486",
+"type": "BEP20",
+"symbol": "EDOGE",
+"decimals": 18,
+"status": "active",
+"id": "0x4e75e1F101F6c25856402e1de774A5185cA77486"
+} 

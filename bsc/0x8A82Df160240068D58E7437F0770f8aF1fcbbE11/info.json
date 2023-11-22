@@ -1,0 +1,9 @@
+{
+ "name": "GBTC",
+ "explorer": "https://bscscan.com/address/0x8a82df160240068d58e7437f0770f8af1fcbbe11",
+ "type": "BEP20",
+ "symbol": "GBTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8A82Df160240068D58E7437F0770f8aF1fcbbE11"
+}

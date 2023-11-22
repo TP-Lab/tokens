@@ -1,0 +1,11 @@
+{
+ "name": "Super Cultural Industry",
+ "website": "https://scy.cash",
+ "description": "SCY網絡將結合物聯網技術平臺和區塊鏈技術，在分布式實體（終端/用戶）和數據信任的基礎上，在多個維度拓展信任應用，實現數據價值的實現。",
+ "explorer": "https://bscscan.com/address/0x2fd0cf8ffC150c6668544e16E85B96a962BFf184",
+ "type": "BEP20",
+ "symbol": "SCY",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x2fd0cf8ffC150c6668544e16E85B96a962BFf184"
+} 

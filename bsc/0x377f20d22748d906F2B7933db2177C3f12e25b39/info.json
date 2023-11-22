@@ -1,0 +1,11 @@
+{
+ "name": "Tiger Token",
+ "website": "https://tigertoken.xyz/",
+ "description": "Tiger is a deflationary asset protocol that solves the drawbacks of the death spiral caused by the inflationary output of traditional mining, making it easier for each Tiger to maintain and increase its value, and it is easy to rise but not fall.",
+ "explorer": "https://bscscan.com/token/0x377f20d22748d906F2B7933db2177C3f12e25b39",
+ "type": "BEP20",
+ "symbol": "TIGER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x377f20d22748d906F2B7933db2177C3f12e25b39"
+}

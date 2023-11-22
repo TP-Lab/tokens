@@ -1,0 +1,11 @@
+{
+ "name": "FirstSHIB",
+ "website": "https://firstshib.app/",
+ "description": "FirstSHIB is a token initiated by the community with full autonomy.Tokens are 100% decentralized through UNCX",
+ "explorer": "https://bscscan.com/token/0xe7D692898CBa66a6f81AD98C997cC88D23103518",
+ "type": "BEP-20",
+ "symbol": "FirstSHIB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe7D692898CBa66a6f81AD98C997cC88D23103518"
+}

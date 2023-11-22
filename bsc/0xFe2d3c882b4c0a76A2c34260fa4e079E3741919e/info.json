@@ -1,0 +1,11 @@
+{
+  "name": "Avatar Token",
+  "website": "https://www.avatarmetanft.com",
+  "description": "Avatar metauniverse trading platform is a trading platform focusing on NFT props, aiming to create an entrance to the metauniverse chain tour;Avat is the universal token of avatar NFT trading platform!",
+  "explorer": "https://bscscan.com/token/0xFe2d3c882b4c0a76A2c34260fa4e079E3741919e",
+  "type": "BEP20",
+  "symbol": "AVAT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xFe2d3c882b4c0a76A2c34260fa4e079E3741919e"
+}

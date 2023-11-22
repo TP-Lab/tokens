@@ -1,0 +1,11 @@
+{
+ "name": "NBB.ETM",
+ "website": "https://www.nbbetm.com",
+ "description": "NBB由America aforeroy Blockchain Technology Research Foundation《美国先行者区块链研究基金会》联合EurOrientFinancial Group资本，旨在打造一个全球顶级的Web3.0区块链数字娱乐平台，前期以五大颠覆领域 GameFi、NFT、DeFi、SocialFi、Metaverse为出发点，“无损理财”为基石，娱乐为核心，交易底池极速通缩为灵魂，极速构建DAO自治的数字娱乐时代。通过区块链+Al+VR+5G等技术让全球更多有趣，好玩的娱乐项目在平台闪耀，造福世界",
+ "explorer": "https://bscscan.com/token/0x21FBb8fC7d65dBF3038EE01C95368B7706949d92",
+ "type": "BEP20",
+ "symbol": "NBB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x21FBb8fC7d65dBF3038EE01C95368B7706949d92"
+}

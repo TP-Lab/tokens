@@ -1,0 +1,11 @@
+{
+"name": "FistTiger Token",
+"website": "-",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0xbfEf9c113F22E62ef7008c28d82078dDC08F1204",
+"type": "BEP20",
+"symbol": "FistTiger",
+"decimals": 18,
+"status": "active",
+"id": "0xbfEf9c113F22E62ef7008c28d82078dDC08F1204"
+}

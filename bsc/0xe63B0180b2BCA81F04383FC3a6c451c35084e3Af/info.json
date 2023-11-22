@@ -1,0 +1,11 @@
+{
+ "name": "ET",
+ "website": "https://www.enft111.com",
+ "description": "ET token is the eNFT traffic sharing platform token.  It is mainly used for the ecological application Dapp on the eNFT platform.  It currently includes：Real-name authentication, Pass the Questions, PNFT, ENMart, ENCity, etc.",
+ "explorer": "https://bscscan.com/token/0xe63B0180b2BCA81F04383FC3a6c451c35084e3Af",
+ "type": "BEP20",
+ "symbol": "ET",
+ "decimals": 5,
+ "status": "active",
+ "id": "0xe63B0180b2BCA81F04383FC3a6c451c35084e3Af"
+}

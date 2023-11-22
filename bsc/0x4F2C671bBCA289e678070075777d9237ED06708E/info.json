@@ -1,0 +1,11 @@
+{
+  "name": "Pear Token",
+  "website": "https://peartoken.io/",
+  "description": "PEAR can help autistic children improve their skill and also can help investors to earn great money. PEAR provides art therapy working well as a complementary treatment for children with autism.",
+  "explorer": "https://bscscan.com/address/0x4F2C671bBCA289e678070075777d9237ED06708E",
+  "type": "BEP20",
+  "symbol": "PEAR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4F2C671bBCA289e678070075777d9237ED06708E"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BKRabbit",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x148F0A4224D19D904aa54c0F9942C5A182ACD260",
+ "type": "BEP20",
+ "symbol": "BKRabbit",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x148F0A4224D19D904aa54c0F9942C5A182ACD260"
+}

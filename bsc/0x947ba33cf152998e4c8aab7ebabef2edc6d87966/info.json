@@ -1,0 +1,11 @@
+{
+    "name": "CBA",
+    "website": "http://www.cbatoken.live",
+    "description": "Coin Blockchain Aggregator, as the world's first large-scale aggregated ecological application public chain integrating DeFi, NFT, on-chain contract transactions and quiz entertainment ecology, adopts a modular design concept, and is passing through the circulation application chain based on blockchain digital assets. With the hugeness and data value of digital assets, create the innovation and pattern of digital assets in traditional culture, so that all elements are combined like Lego, and create a blockchain application ecosystem that anyone can participate in!",
+    "explorer": "https://bscscan.com/token/0x947ba33cf152998e4c8aab7ebabef2edc6d87966",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "CBA",
+    "status": "active",
+    "id": "0x947ba33cf152998e4c8aab7ebabef2edc6d87966"
+}

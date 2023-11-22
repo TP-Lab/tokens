@@ -1,0 +1,11 @@
+{
+ "name": "FTC DAO",
+ "website": "https://www.ftcdao.com",
+ "description": "FTC is a Metaverse Aggregator platform that empower Decentralise Finance (DeFi) and NFT,FTC is governed by $FTC DAO token, which has unique tokenomy backed by DeFi ecosystem.",
+ "explorer": "https://bscscan.com/token/0x764D18a798bB90D677306384215A6A7F462542ff",
+ "type": "BEP20",
+ "symbol": "FTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x764D18a798bB90D677306384215A6A7F462542ff"
+}

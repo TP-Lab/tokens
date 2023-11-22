@@ -1,0 +1,11 @@
+{
+ "name": "CTBA",
+ "website": "https://ctba.pro",
+"description": "CTBA token is a completely decentralized smart contract. It is a vehicle for the joint blockchain field and the real field.",
+ "explorer": "https://bscscan.com/token/0x99343aC3Dc908b45495454A450aBeA3230FCbb52",
+ "type": "BEP20",
+ "symbol": "CTBA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x99343aC3Dc908b45495454A450aBeA3230FCbb52"
+}

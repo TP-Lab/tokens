@@ -1,0 +1,11 @@
+{
+ "name": "ShibZillaKiller",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xF7845dd92174c42ff6cC1AD827845e42CDFf5176",
+ "type": "BEP20",
+ "symbol": "ShibZillaKiller",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xF7845dd92174c42ff6cC1AD827845e42CDFf5176"
+}

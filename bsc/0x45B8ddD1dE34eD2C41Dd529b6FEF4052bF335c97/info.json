@@ -1,0 +1,11 @@
+{
+ "name": "ATCTOKEN",
+ "website": "https://aztec-kingdom.com",
+ "description": "A real paly2earn project.",
+ "explorer": "https://bscscan.com/token/0x45B8ddD1dE34eD2C41Dd529b6FEF4052bF335c97",
+ "type": "BEP20",
+ "symbol": "ATC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x45B8ddD1dE34eD2C41Dd529b6FEF4052bF335c97"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "doge711   Token",
+  "website": "doge711.com",
+  "description": "BSC",
+  "explorer": "https://bscscan.com/token/0x8c871119a51257bf92ad49eddecf2db85054c3b6",
+  "type": "BEP20",
+  "symbol": "doge711 ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8c871119a51257BF92ad49EddECf2dB85054c3b6"
+}

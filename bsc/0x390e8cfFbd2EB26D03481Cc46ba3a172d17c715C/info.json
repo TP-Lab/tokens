@@ -1,0 +1,11 @@
+{
+ "name": "Doomsday Guardian Token",
+ "website": "https://game.doomsdayguardian.com",
+ "description": "The Doomsday Guardian game circulates consumable tokens that are used as in-game domain-wide circulation.",
+ "explorer": "https://bscscan.com/address/0x390e8cfFbd2EB26D03481Cc46ba3a172d17c715C",
+ "type": "BEP20",
+ "symbol": "DOM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x390e8cfFbd2EB26D03481Cc46ba3a172d17c715C"
+}

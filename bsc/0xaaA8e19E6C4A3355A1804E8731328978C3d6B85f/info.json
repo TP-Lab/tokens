@@ -1,0 +1,11 @@
+{
+    "name": "To the Moon",
+    "website": "https://1airdrop.org/",
+    "description": "1Airdrop is a platform dedicated to providing users around the world with the latest information on short sale projects. Our goal is to help investors find the most promising cryptocurrency airdrops while promoting the health of the blockchain ecosystem. TTM is 1Airdrop's eco-incentive token",
+    "explorer": "https://bscscan.com/token/0xaaa8e19e6c4a3355a1804e8731328978c3d6b85f",
+    "type": "BEP20",
+    "symbol": "TTM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xaaA8e19E6C4A3355A1804E8731328978C3d6B85f"
+}

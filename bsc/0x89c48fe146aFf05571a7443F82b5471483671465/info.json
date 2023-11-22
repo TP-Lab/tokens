@@ -1,0 +1,11 @@
+{
+ "name": "FWS",
+ "website": "http://www.fwscoins.com/",
+ "description": "Free world swap revolutionary P2P on coin security intelligent chain OTC.",
+ "explorer": "https://bscscan.com/token/0x89c48fe146aFf05571a7443F82b5471483671465",
+ "type": "BEP20",
+ "symbol": "FWS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x89c48fe146aFf05571a7443F82b5471483671465"
+}

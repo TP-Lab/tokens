@@ -1,0 +1,11 @@
+{
+    "name": "CCB Token",
+    "website": "http://167.179.110.7/#/",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xABd9418eDb266a1A2e5B701a8Fa0cd85b3852750",
+    "type": "BEP20",
+    "symbol": "CCB",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xABd9418eDb266a1A2e5B701a8Fa0cd85b3852750"
+   }

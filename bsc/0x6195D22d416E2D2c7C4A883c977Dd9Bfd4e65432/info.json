@@ -1,0 +1,11 @@
+{
+ "name": "Metaverse-DAO Token",
+ "website": "https://www.metaverse-dao.io/",
+ "description": "Metaverse-DAO is a platform relying on blockchain technology. We are currently developing decentralized games, NFTs.The mission is to combine the advantages of NFTs and DeFi to create really fun games and allow the community to participate in the governance of DAO through proposals and voting.",
+ "explorer": "https://bscscan.com/token/0x6195D22d416E2D2c7C4A883c977Dd9Bfd4e65432",
+ "type": "BEP20",
+ "symbol": "METADAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6195D22d416E2D2c7C4A883c977Dd9Bfd4e65432"
+}

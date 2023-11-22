@@ -1,0 +1,11 @@
+{
+ "name": "BTDog BEP20 Token",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0x552B574A6879E29DdE03606ef3CE68DE052B3f63",
+ "type": "BEP20",
+ "symbol": "BTDog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x552B574A6879E29DdE03606ef3CE68DE052B3f63"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "CRD",
+    "website": "",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xE7103c04C29227CA7F3048D90610bA728c6Df563",
+    "type": "BEP20",
+    "symbol": "CRD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE7103c04C29227CA7F3048D90610bA728c6Df563"
+}

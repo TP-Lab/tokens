@@ -1,0 +1,11 @@
+{
+ "name": "Squid shreds coin",
+ "website": "https://mobile.twitter.com/SquidWorldlink",
+ "description": "A side chain for squid coin.",
+ "explorer": "https://bscscan.com/token/0x610c012832FdB8203BE61B7F56794D34D12a8C69",
+ "type": "BEP20",
+ "symbol": "SSC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x610c012832FdB8203BE61B7F56794D34D12a8C69"
+}

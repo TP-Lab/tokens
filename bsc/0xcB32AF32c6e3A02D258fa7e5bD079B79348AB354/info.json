@@ -1,0 +1,11 @@
+{
+ "name": “SunDog Token",
+ "website": "https://www.sundogtoken.com”,
+ "description": "SunDog is the DsunDAO alliance token, a decentralized Meme token, a vibrant community autonomous ecosystem, and a decentralized distributed DsunDAO alliance.",
+ "explorer": "https://bscscan.com/token/0xcb32af32c6e3a02d258fa7e5bd079b79348ab354",
+ "type": "BEP20",
+ "symbol": “SunDog”,
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcB32AF32c6e3A02D258fa7e5bD079B79348AB354"
+}

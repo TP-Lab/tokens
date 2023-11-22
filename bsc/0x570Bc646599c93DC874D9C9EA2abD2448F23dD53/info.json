@@ -1,0 +1,11 @@
+{
+ "name": "ADEXTOKEN",
+ "website": "http://adexnft.co/",
+ "description": "The Web3 era has arrived! ADEX ecosystem is a digital platform integrating DeFi+DAO+Token+Dex+NFT diversification.",
+ "explorer": "https://bscscan.com/token/0x570Bc646599c93DC874D9C9EA2abD2448F23dD53",
+ "type": "BEP20",
+ "symbol": "ADEX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x570Bc646599c93DC874D9C9EA2abD2448F23dD53"
+}

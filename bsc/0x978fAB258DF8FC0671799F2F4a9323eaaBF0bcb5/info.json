@@ -1,0 +1,11 @@
+{
+ "name": "BIB",
+ "website": "http://web.springcommu.com",
+ "description": "DeFi生态板块 : 质押BIB-USDT LP获得子币NOBEL，打造DeFi+NOBEL影视娱乐，元宇宙金融新生态",
+ "explorer": "https://bscscan.com/0x978fAB258DF8FC0671799F2F4a9323eaaBF0bcb5",
+ "type": "BEP20",
+ "symbol": "BIB",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x978fAB258DF8FC0671799F2F4a9323eaaBF0bcb5"
+}

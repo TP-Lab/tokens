@@ -1,0 +1,12 @@
+{
+    "name": "MoDaDao",
+    "website": "https://www.modadao.top/",
+    "description": "To pay tribute to MoDa, a group of Pangu community leaders decided to jointly launch the MoDa DAO project.",
+    "explorer": "https://bscscan.com/address/0xbe685f161ef902eb90a20077506f9965e501fdea",
+    "type": "BEP20",
+    "symbol": "MDD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBe685F161EF902eB90A20077506f9965E501fdea"
+}
+   

@@ -1,0 +1,11 @@
+{
+ "name": "Seut",
+ "website": "http://www.seutcoin.xyz/",
+ "description": "Seut will build a decentralized platform that integrates NFT trading + DeFi + Metaverse + Cross-chain Bridge.",
+ "explorer": "https://bscscan.com/token/0xaFa477e9135344D28BaC076ede92C4C49AB3912D",
+ "type": "BEP-20",
+ "symbol": "SEUT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaFa477e9135344D28BaC076ede92C4C49AB3912D"
+}

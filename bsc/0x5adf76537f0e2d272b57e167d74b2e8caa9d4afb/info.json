@@ -1,0 +1,11 @@
+{
+ "name": "HPGY Token",
+ "website": "https://bscscan.com/token/0x5adf76537f0e2d272b57e167d74b2e8caa9d4afb",
+ "description": "HPGY.",
+ "explorer": "https://bscscan.com/token/0x5adf76537f0e2d272b57e167d74b2e8caa9d4afb",
+ "type": "BEP20",
+ "symbol": "HGPY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5aDf76537F0E2d272B57E167d74b2e8Caa9D4afb"
+}

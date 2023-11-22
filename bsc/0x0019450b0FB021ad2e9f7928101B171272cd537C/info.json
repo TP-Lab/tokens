@@ -1,0 +1,11 @@
+{
+ "name": "Stelia",
+ "website": "https://stelia.finance",
+ "description": "$STELIA is born to inspire people to have good time singing and get reward in cryptocurrency.",
+ "explorer": "https://bscscan.com/token/0x0019450b0FB021ad2e9f7928101B171272cd537C",
+ "type": "BEP20",
+ "symbol": "STELIA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0019450b0FB021ad2e9f7928101B171272cd537C"
+}

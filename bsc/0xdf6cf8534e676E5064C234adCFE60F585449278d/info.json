@@ -1,0 +1,11 @@
+{
+    "name": "BabyKitty V2",
+    "website": "https://babykitty.fans/",
+    "description": "The goal is to become one of the best coins in the world like BabyDoge",
+    "explorer": "https://bscscan.com/token/0xdf6cf8534e676E5064C234adCFE60F585449278d",
+    "type": "BEP20",
+    "symbol": "BabyKitty",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xdf6cf8534e676E5064C234adCFE60F585449278d"
+}

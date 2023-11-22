@@ -1,0 +1,11 @@
+{
+ "name": "SMDAO Token",
+ "website": "https://smdao.co/home",
+ "description": "DeFi 3.0 Pledge Compounding, Node NFT Dividend Agreement.",
+ "explorer": "https://bscscan.com/address/0x781163f0110b69DcBb2289339E3Ea16D040966D5",
+ "type": "BEP20",
+ "symbol": "Dollar",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x781163f0110b69DcBb2289339E3Ea16D040966D5"
+}

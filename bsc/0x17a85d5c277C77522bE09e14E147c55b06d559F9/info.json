@@ -1,0 +1,11 @@
+{
+  "name": "BBM",
+  "website": "https://www.bbmfarmer.com/",
+  "description": "BBM defines a set of protocols for borrowers, guarantors, relayers, and investors to complete the cryptocurrency-based lending process (decentralization)",
+  "explorer": "https://bscscan.com/token/0x17a85d5c277C77522bE09e14E147c55b06d559F9",
+  "type": "BEP20",
+  "symbol": "BBM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x17a85d5c277C77522bE09e14E147c55b06d559F9"
+}

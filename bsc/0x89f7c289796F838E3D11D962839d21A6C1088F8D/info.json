@@ -1,0 +1,11 @@
+{
+ "name": "Xingfu Token",
+ "website": "http://yuwj.top/",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x89f7c289796F838E3D11D962839d21A6C1088F8D",
+ "type": "BEP20",
+ "symbol": "XF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x89f7c289796F838E3D11D962839d21A6C1088F8D"
+}

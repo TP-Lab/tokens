@@ -1,0 +1,11 @@
+{
+ "name": "USDW",
+ "website": "https://http://www.usdw.online/",
+ "description": "A stable currency.",
+ "explorer": "https://solscan.io/token/Am5hwEp5VBqXoeE5pRU47RTW6gYeFQ6ahi1j4ZVVeL2V",
+ "type": "SPL",
+ "symbol": "USDW",
+ "decimals": 9,
+ "status": "active",
+ "id": "Am5hwEp5VBqXoeE5pRU47RTW6gYeFQ6ahi1j4ZVVeL2V"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BXT",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xC2B41aA5B073bbB13C8407bFF800067d4F7B86B1",
+ "type": "BSC20",
+ "symbol": "BXT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC2B41aA5B073bbB13C8407bFF800067d4F7B86B1"
+}

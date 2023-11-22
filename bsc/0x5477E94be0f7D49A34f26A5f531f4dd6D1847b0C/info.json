@@ -1,0 +1,11 @@
+{
+ "name": "Labour Doge",
+ "website": "https://www.labourdogebsc.com/",
+ "description": " Labour Doge is a community token that will find its utility with the development of an NFT and DEX ecosystem.",
+ "explorer": "https://bscscan.com/token/0x5477E94be0f7D49A34f26A5f531f4dd6D1847b0C",
+ "type": "BEP20",
+ "symbol": "LBDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5477E94be0f7D49A34f26A5f531f4dd6D1847b0C"
+} 

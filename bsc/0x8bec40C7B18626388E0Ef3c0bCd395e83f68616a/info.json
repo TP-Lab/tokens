@@ -1,0 +1,11 @@
+{
+ "name": "TigerDao",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x8bec40C7B18626388E0Ef3c0bCd395e83f68616a",
+ "type": "BSC20",
+ "symbol": "TigerDao",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8bec40C7B18626388E0Ef3c0bCd395e83f68616a"
+}

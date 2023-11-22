@@ -1,0 +1,11 @@
+{ 
+"name": "Football World",
+"website": "https://fwgamefi.com/#/",
+"description": "FBWT is the application token of the football world metaverse.",
+"explorer":"https://bscscan.com/token/0x7290b307656BfCe85d77618836F41Af6Ce2526Cc",
+"type": "BEP20",
+"symbol": "FBWT",
+"decimals": 18,
+"status": "active",
+"id": "0x7290b307656BfCe85d77618836F41Af6Ce2526Cc"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "GSCB",
+ "website": "https://goldshark.org.uk",
+ "description": "a advanced platform in the web3 world intending to bring more and more users into this world with wonderful experiance and expectation",
+ "explorer": "https://bscscan.com/token/0x39F5d9Fd8dbcf9662ABBe1900732082b04901050",
+ "type": "BEP20",
+ "symbol": "GSCB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x39F5d9Fd8dbcf9662ABBe1900732082b04901050"
+}

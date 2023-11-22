@@ -1,0 +1,11 @@
+{
+ "name": "LaikaDoge",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x79e01EC399b47DF75B349C2Fbefd872B4Ce4a7Cf",
+ "type": "BEP20",
+ "symbol": "LaikaDoge",
+ "decimals": 9,
+ "status": "not open",
+ "id": "0x79e01EC399b47DF75B349C2Fbefd872B4Ce4a7Cf"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Black Cat Coin",
+ "website": "https://www.blackcatcoin.fun/",
+ "description": "BlackCat a whole new concept for night club entertainment in the metaverse. BLACKCATCOIN is a decentralized financial system that rebuild the traditional payment",
+ "explorer": "https://bscscan.com/token/0xc32Be23f78CDf653287Dcf96558a795459709F8A",
+ "type": "BEP20",
+ "symbol": "BLACKCAT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc32Be23f78CDf653287Dcf96558a795459709F8A"
+}

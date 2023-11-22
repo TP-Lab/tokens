@@ -1,0 +1,11 @@
+{
+ "name": "PIE",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xc2e4d13717ffEC86a6eDfC998BC373ACc2A21aEC",
+ "type": "BEP20",
+ "symbol": "PIE",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xc2e4d13717ffEC86a6eDfC998BC373ACc2A21aEC"
+}

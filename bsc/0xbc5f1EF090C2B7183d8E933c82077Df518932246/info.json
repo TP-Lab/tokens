@@ -1,0 +1,11 @@
+{ 
+"name": "XYM",
+"website": "https://bscscan.com/token/0xbc5f1EF090C2B7183d8E933c82077Df518932246",
+"description": "XYM is a BEP20 token issued on Binance Smart Chain.It can be used for liquidity mining, NFT chain tour metaverse, ecological construction governance, etc.",
+"explorer": "https://bscscan.com/token/0xbc5f1EF090C2B7183d8E933c82077Df518932246",
+"type": "BEP20",
+"symbol": "XYM",
+"decimals": 9,
+"status": "active",
+"id": "0xbc5f1EF090C2B7183d8E933c82077Df518932246"
+}

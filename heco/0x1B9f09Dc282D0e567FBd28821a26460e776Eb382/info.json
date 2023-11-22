@@ -1,0 +1,11 @@
+{
+ "name": "BRIDGE",
+ "website": "https://www.bgopro.com",
+ "description": "BRIDGE is building an open access, tokenized, decentralized machine learning",
+ "explorer": "https://hecoinfo.com/token/0x1B9f09Dc282D0e567FBd28821a26460e776Eb382",
+ "type": "HECO",
+ "symbol": "BG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1B9f09Dc282D0e567FBd28821a26460e776Eb382"
+}

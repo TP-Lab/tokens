@@ -1,0 +1,11 @@
+{
+ "name": "Firefly",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xBD02575dFc83011abb3a0B5D28578EF96d4E1E1B",
+ "type": "BEP20",
+ "symbol": "Firefly",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBD02575dFc83011abb3a0B5D28578EF96d4E1E1B"
+}

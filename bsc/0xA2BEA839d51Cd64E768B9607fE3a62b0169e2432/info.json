@@ -1,0 +1,11 @@
+{
+    "name": "WhaleKing",
+    "website": "https://www.whaleking.io",
+    "description": "An experiment to find the king of the ocean. A cause to support ocean conservation. An opportunity to dive into the oceanic metaverse.",
+    "explorer": "https://bscscan.com/token/0xA2BEA839d51Cd64E768B9607fE3a62b0169e2432",
+    "type": "BEP20",
+    "symbol": "WhaleKing",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA2BEA839d51Cd64E768B9607fE3a62b0169e2432"
+}

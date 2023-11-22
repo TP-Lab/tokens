@@ -1,0 +1,11 @@
+{
+	"name": "Radar convention",
+	"website": "-",
+	"description": "Radar convention carries the dream of 2 million radar members! After the SHIB technical research team and a group of block chain geek team carefully built the research and development, it is a real de-central public chain project.",
+	"explorer": "https://bscscan.com/0x853106cd0c1c6e7af94c03158baf3a602d8eab00",
+	"type": "BEP20",
+	"symbol": "Radar",
+	"decimals": 18,
+	"status": "active",
+	"id":"0x853106cd0c1c6e7af94c03158baf3a602d8eab00"
+}

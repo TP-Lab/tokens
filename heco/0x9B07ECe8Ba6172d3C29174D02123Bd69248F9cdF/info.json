@@ -1,0 +1,11 @@
+{
+ "name": "TTC",
+ "website": "https://ttcoinbox.com",
+ "description": "《神秘宝藏》是一款搭建在HECO链上的盲盒卡牌类NFT游戏，它结合了市面上优质的NFT形态，玩法简单新颖，其生态代币TTC.",
+ "explorer": "https://hecoinfo.com/token/0x9B07ECe8Ba6172d3C29174D02123Bd69248F9cdF",
+ "type": "HRC-20",
+ "symbol": "TTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9B07ECe8Ba6172d3C29174D02123Bd69248F9cdF"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "XCC",
+ "website": "https://www.xccpool.com/",
+ "description": "XCC's mission is to create a multi-asset solution with extended and unique features on Web3.0",
+ "explorer": "https://bscscan.com/address/0x4Ea9d940315cBaa26241e6ae7137f25eB6cCC666",
+ "type": "BEP20",
+ "symbol": "XCC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4Ea9d940315cBaa26241e6ae7137f25eB6cCC666"
+}

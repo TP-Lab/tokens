@@ -1,0 +1,11 @@
+{
+ "name": "mining city",
+ "website": ".",
+ "description": "Mining City 是一个出售算力挖矿所，Mining City 已赢得了 200,000 多名客户的信赖，MC是获得BTC算的唯一凭证",
+ "explorer": "https://bscscan.com/token/0x32B570FC8793897980071b9f613157ECd0359559",
+ "type": "BSC20",
+ "symbol": "D-MC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x32B570FC8793897980071b9f613157ECd0359559"
+}

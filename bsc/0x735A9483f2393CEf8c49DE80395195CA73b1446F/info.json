@@ -1,0 +1,11 @@
+{
+ "name": "EPS",
+ "website": "https://dapp.epsmeta.vip/",
+ "description": "EPS is a decentralized  platform driven by an new algorithm. It is the first contract exchange in the derivatives market right now. The original algorithm protocol will creates a Web3.0 traffic playround full of fun and potential.",
+ "explorer": "https://bscscan.com/token/0x735A9483f2393CEf8c49DE80395195CA73b1446F",
+ "type": "BEP20",
+ "symbol": "EPS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x735A9483f2393CEf8c49DE80395195CA73b1446F"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Chat AI",
+ "website": "https://chatai.ong/ ",
+ "description": "ChatAI, make life full of AI, talk to AI in the web page, in the telegram, in all chat tools, and AI answers any answer you need to know. This is AI, ChatAI.",
+ "explorer": "https://bscscan.com/token/0xa89bf95c5f15a847c8eb8d348cd7fed719ad7d80",
+ "type": "BEP20",
+ "symbol": "AI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa89bf95c5f15a847c8eb8d348cd7fed719ad7d80"
+}

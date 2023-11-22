@@ -1,0 +1,11 @@
+{
+  "name": "OK",
+  "website": "https://OKoffice.club",
+  "description": "OK is automatic dividend SHIB, just hold it, SHIB automatically to YOUR wallet",
+  "explorer": "https://bscscan.com/token/0x218Ce51f3DD42e77D82Ab1E6F360084Ff6d05DCb",
+  "type": "BEP20",
+  "symbol": "OK",
+  "decimals": 0,
+  "status": "active",
+  "id": "0x218Ce51f3DD42e77D82Ab1E6F360084Ff6d05DCb"
+}

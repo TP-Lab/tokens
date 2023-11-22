@@ -1,0 +1,11 @@
+{
+ "name": "GFR",
+ "website": "https://web.GFR.xyz",
+ "description": "GFR, the addresses keep growing and changing hands",
+ "explorer": "https://bscscan.com/address/0x0b0f2f19c430758bd0f9546ea99f50ea432f7d88",
+ "type": "BEP20",
+ "symbol": "GFR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0b0f2f19C430758bD0f9546Ea99f50eA432F7d88"
+}
