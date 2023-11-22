@@ -1,0 +1,11 @@
+{
+ "name": "Updt Token",
+ "website": "https://bscscan.com/token/0x1fbe6902604b8cc3e35a3db2f5d273dbc8905636",
+ "description": "Updt Token.",
+ "explorer": "https://bscscan.com/token/0x1fbe6902604b8cc3e35a3db2f5d273dbc8905636",
+ "type": "BEP20",
+ "symbol": "UPDT",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x1fbe6902604b8cc3e35a3db2f5d273dbc8905636"
+}
