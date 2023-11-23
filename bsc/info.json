@@ -1,11 +1,11 @@
-{ 
-"name": "Dragon",
-"website": "https://pancakeswap.finance/",
-"description": "The strongest IP "🐉" in the Year of the Dragon has landed on BSC to book a bull market detonator. You don't have to wait for the Spring Festival Gala to be a mixed bag of idiots, lock in the only real thing in advance🐉:. ",
-"explorer": "https://bscscan.com/token/0x9d3245a6b7fd03e98a02f9a126d37a9d4c9f4123",
-"type": "BEP20",
-"symbol": "🐉",
-"decimals": 18,
-"status": "active",
-"id": "0x9d3245a6b7fd03e98a02f9a126d37a9d4c9f4123"
+{
+ "name": "FFF",
+ "website": "https://fffdaos.xyz/",
+ "description": "FFF (Future Fortune Factory) AI Intelligent Quantitative Foundation AI Intelligent Quantitative Ecology and High Deflation Mechanism Start the Journey of Market Value Soaring!",
+ "explorer": "https://bscscan.com/token/0x70aD3147FEB361299692fB21956a8B7ca5C36711",
+ "type": "BEP20",
+ "symbol": "FFF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x70aD3147FEB361299692fB21956a8B7ca5C36711"
 }
