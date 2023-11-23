@@ -1,0 +1,11 @@
+{
+    "name": "bee chain",
+    "website": ".",
+    "description": "An efficient aggregation platform designed to seamlessly integrate a wide range of offerings, meeting all digital product requirements. It includes BEEC (Bee) exchange, Chat GPT AI ecological applications, a global shopping mall, BEEC social network, GameFi, DeFi product aggregator, and more.",
+    "explorer": "https://bscscan.com/token/0x154b6853bD48E91feE2dA1b3ebb90Bc2A8A904da",
+    "type": "BEP20",
+    "symbol": "BEEC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x154b6853bD48E91feE2dA1b3ebb90Bc2A8A904da"
+}
