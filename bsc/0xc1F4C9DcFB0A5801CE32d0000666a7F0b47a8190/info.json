@@ -1,0 +1,11 @@
+{
+  "name": "Dike.Coin",
+  "website": "https://www.dikecoin.com/",
+  "description": "is a Web3.0 meta-universe ecological project invested by Singapore's Du Capital Founder",
+  "explorer": "https://bscscan.com/token/0xc1f4c9dcfb0a5801ce32d0000666a7f0b47a8190",
+  "type": "BEP20",
+  "symbol": "DIKE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc1F4C9DcFB0A5801CE32d0000666a7F0b47a8190"
+}
