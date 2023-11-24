@@ -1,0 +1,11 @@
+{
+ "name": "WHEE-TOKEN",
+ "website": "https://avebusiness.xyz/?id=6556db8b67930529e2fe2f6c",
+ "description": "2023年5月10日诞生于比特币上，基于Ordinals协议公平发射，mint时间3小时，消耗超过百万USDT gas费，旨在成为BRC20生态第一大Alliance代币.",
+ "explorer": "https://bscscan.com/address/0x62238038abeae5a667cde8769e708c5a07d7addb",
+ "type": "BEP20",
+ "symbol": "WHEE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x62238038AbeAe5A667cDe8769E708c5a07d7ADdB"
+}
