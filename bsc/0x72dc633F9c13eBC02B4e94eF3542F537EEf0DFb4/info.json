@@ -1,0 +1,11 @@
+{
+    "name": "CL",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0x72dc633F9c13eBC02B4e94eF3542F537EEf0DFb4",
+    "type": "BEP20",
+    "symbol": "CL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x72dc633F9c13eBC02B4e94eF3542F537EEf0DFb4"
+}
