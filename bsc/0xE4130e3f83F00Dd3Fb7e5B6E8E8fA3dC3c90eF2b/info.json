@@ -1,0 +1,11 @@
+{
+    "name": "PHX",
+    "website": "https://twitter.com/IFILABS",
+    "description": "Becoming the most influential high-quality Web3 project in the world and building an incubation platform to support the ecological development of the PHX main network",
+    "explorer": "https://www.bscscan.com/token/0xE4130e3f83F00Dd3Fb7e5B6E8E8fA3dC3c90eF2b",
+    "type": "BEP20",
+    "symbol": "PHX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE4130e3f83F00Dd3Fb7e5B6E8E8fA3dC3c90eF2b"
+ }
