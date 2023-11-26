@@ -1,0 +1,11 @@
+{
+ "name": "Coupon Assets Token",
+ "website": "https://radarlab.us",
+ "description": "Coupon Assets (CA) is a platform currency initiated by RADAR LAB (USA) and issued in March 2018.",
+ "explorer": "https://etherscan.io/address/0xCc857F9A89C55DE54F3D56961DCd48231c1BDD67",
+ "type": "ERC20",
+ "symbol": "CA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCc857F9A89C55DE54F3D56961DCd48231c1BDD67"
+}
