@@ -1,11 +1,11 @@
-{ 
-"name": "Dragon",
-"website": "https://pancakeswap.finance/",
-"description": "The strongest IP "🐉" in the Year of the Dragon has landed on BSC to book a bull market detonator. You don't have to wait for the Spring Festival Gala to be a mixed bag of idiots, lock in the only real thing in advance🐉:. ",
-"explorer": "https://bscscan.com/token/0x9d3245a6b7fd03e98a02f9a126d37a9d4c9f4123",
-"type": "BEP20",
-"symbol": "🐉",
-"decimals": 18,
-"status": "active",
-"id": "0x9d3245a6b7fd03e98a02f9a126d37a9d4c9f4123"
+{
+ "name": "DNT",
+ "website": "https://www.sindia-c.store/",
+ "description": "DNT is a game token owned by SpaceGuild. It is used for advanced functions of the game, such as strengthening equipment, evolving pets, etc., and is also used as a reward for game competitions. The total circulation is 21 million, of which 10 million are actually in circulation. 3 million are pledged in the game, 1 million are airdropped, and 7 million are liquid mining and staking mining.",
+ "explorer": "https://bscscan.com/token/0x44836708ff32246635d8d08c785f4e779e294598",
+ "type": "BEP20",
+ "symbol": "DNT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x44836708ff32246635d8d08c785f4e779e294598"
 }
