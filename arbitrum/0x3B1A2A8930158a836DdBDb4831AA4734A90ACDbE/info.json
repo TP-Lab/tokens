@@ -1,0 +1,11 @@
+{
+ "name": "CRL Token",
+ "website": "https://www.crazynftsgames.com",
+ "description": "CRAZYRABBIT GAME And Constellation",
+ "explorer": "https://arbiscan.io/address/0x3B1A2A8930158a836DdBDb4831AA4734A90ACDbE",
+ "type": "Arbitrum",
+ "symbol": "CRL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3B1A2A8930158a836DdBDb4831AA4734A90ACDbE"
+}
