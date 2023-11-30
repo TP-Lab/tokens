@@ -1,0 +1,11 @@
+{
+  "name": "Xpense",
+  "website": "https://xpense.network",
+  "description": "Xpense, symbolized as XPE, represents the exchange token for the XeggeX platform. Serving as the native cryptocurrency for the XeggeX exchange, it's embedded within the larger landscape of blockchain and digital asset trading.",
+  "explorer": "https://bscscan.com/token/0x88691f292b76bf4d2caa5678a54515fae77c33af",
+  "type": "BEP20",
+  "symbol": "XPE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x88691f292b76bf4d2caa5678a54515fae77c33af"
+}
