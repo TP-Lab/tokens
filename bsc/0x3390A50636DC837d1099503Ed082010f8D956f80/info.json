@@ -1,0 +1,11 @@
+{
+    "name": "LSBS Token",
+    "website": "https://lsbssapphire.com/",
+    "description": "Sapphire (LSBS), as a completely decentralized social platform for the ecological construction of Blue Planet, has a mission to balance decentralization, security and high performance. It is based on modern cryptography, distributed computing and communication technology to meet the needs of secure social networking, mall transactions, cryptocurrency mutual transfer, and high-frequency payment needs in various payment scenarios. Create a high-intensity consensus and share the feast of wealth!",
+    "explorer": "https://bscscan.com/token/0x3390a50636dc837d1099503ed082010f8d956f80",
+    "type": "BEP20",
+    "symbol": "LSBS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3390A50636DC837d1099503Ed082010f8D956f80"
+}
