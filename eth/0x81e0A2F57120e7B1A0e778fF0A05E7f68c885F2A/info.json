@@ -1,0 +1,11 @@
+{
+ "name": "Bebe",
+ "website": "-",
+ "description": "BEBE is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://etherscan.io/address/0x81e0A2F57120e7B1A0e778fF0A05E7f68c885F2A",
+ "type": "ERC20",
+ "symbol": "BEBE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x81e0A2F57120e7B1A0e778fF0A05E7f68c885F2A"
+}
