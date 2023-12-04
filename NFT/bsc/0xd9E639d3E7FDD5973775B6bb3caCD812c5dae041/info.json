@@ -1,0 +1,11 @@
+{
+    "name": "IRON MAN",
+    "website": "https://bscscan.com/token/0xd9E639d3E7FDD5973775B6bb3caCD812c5dae041#code",
+    "description": "IRON代币是IRONMAN生态系统的核心，持有IRON可参与治理、LP挖矿和获得回报。探索更多IRON玩法，参与数字金融新生态。",
+    "explorer": "https://bscscan.com/token/0xd9E639d3E7FDD5973775B6bb3caCD812c5dae041",
+    "type": "BEP721",
+    "symbol": "IRON MAN",
+    "decimals": 4,
+    "status": "active",
+    "id": "0xd9E639d3E7FDD5973775B6bb3caCD812c5dae041"
+}
