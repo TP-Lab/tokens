@@ -1,0 +1,11 @@
+{
+    "name": "Crypto USD",
+    "website": "https://blockstorm.org",
+    "description": "CUSD (Crypto USD), issued by BlockStorm, a BOS ecosystem stablecoin pegged to USD.Compatible with BEP-20 wallets",
+    "explorer": "https://bscscan.com/token/0x4145553a65276093CffB8522FBC5d0002a605b5F",
+    "type": "BEP20",
+    "symbol": "CUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4145553a65276093CffB8522FBC5d0002a605b5F"
+   }
