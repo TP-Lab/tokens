@@ -1,0 +1,11 @@
+{
+ "name": "AIBTC",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xA21881e3044B361312A8aC032F158e22618dE353",
+ "type": "BEP20",
+ "symbol": "AIBTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA21881e3044B361312A8aC032F158e22618dE353"
+}
