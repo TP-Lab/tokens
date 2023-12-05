@@ -1,0 +1,11 @@
+{ 
+"name": "KLKL",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0xa653D18e50c8d4Bda520628c9Ef9dbE858cA7774",
+"type": "BEP20",
+"symbol": "KLKL",
+"decimals": 18,
+"status": "active",
+"id": "00xa653D18e50c8d4Bda520628c9Ef9dbE858cA7774"
+}
