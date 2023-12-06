@@ -1,0 +1,11 @@
+{
+ "name": "DsbToken",
+ "website": "https://dsbdex.com",
+ "description": "The on-chain shopping mall consumption pass allows you to obtain consumption certificates through consumption to confirm, authentic and confirm your consumption rights and consumption value.",
+ "explorer": "https://bscscan.com/token/0x2a7f25a09257a3f34f3c4fec1f5663ea4f9acd01",
+ "type": "BEP20",
+ "symbol": "DSB",
+ "decimals":18,
+ "status": "active",
+ "id": "0x2a7f25A09257a3F34F3c4FeC1f5663ea4F9Acd01"
+}
