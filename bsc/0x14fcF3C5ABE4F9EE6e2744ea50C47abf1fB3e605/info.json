@@ -1,0 +1,11 @@
+{
+    "name": "SAFE",
+    "website": "https://web.safefinance.vip/h5/",
+    "description": "Becoming the most influential high-quality Web3 project in the world and building an incubation platform to support the ecological development of the SAFE main network.",
+    "explorer": "https://bscscan.com/token/0x14fcF3C5ABE4F9EE6e2744ea50C47abf1fB3e605",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "SAFE",
+    "status": "active",
+    "id": "0x14fcF3C5ABE4F9EE6e2744ea50C47abf1fB3e605"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "LONG",
+    "website": "feilong.io",
+    "description": "The Dragon Community issues commemorative tokens for the Year of the Dragon, airdropping all tokens to community members.",
+    "explorer": "https://bscscan.com/token/0x6E54C232b3B9807968B24ef9a2e40F49087B15Eb",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "LONG",
+    "status": "active",
+    "id": "0x6E54C232b3B9807968B24ef9a2e40F49087B15Eb"
+}
