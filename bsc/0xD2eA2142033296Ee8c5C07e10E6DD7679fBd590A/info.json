@@ -1,0 +1,11 @@
+{
+ "name": "AIDL Token",
+ "website": "http://www.ailp.link/",
+ "description": "AILP is a DAO autonomous Defi coin, whose ecosystem includes compatibility with thousands of AI automatic market making robots, DEX, and more.",
+ "explorer": "https://bscscan.com/token/0xd2ea2142033296ee8c5c07e10e6dd7679fbd590a",
+ "type": "BEP20",
+ "symbol": "AILP",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xD2eA2142033296Ee8c5C07e10E6DD7679fBd590A"
+}
