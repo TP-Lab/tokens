@@ -1,0 +1,11 @@
+{
+ "name": "Panda Face Token",
+ "website": "http://www.pandaface.io/",
+ "description": "Welcome to Panda Face Meme Coin! Our community aiming to spread worldwide humor and creativity with Panda Face Coin.",
+ "explorer": "https://bscscan.com/token/0xceaf6862334c1e7f402d6a2286887b9d1a7935b2",
+ "type": "BEP20",
+ "symbol": "PDF",
+ "decimals": 10,
+ "status": "active",
+ "id": "0xcEaf6862334C1e7F402D6a2286887B9d1A7935B2"
+}
