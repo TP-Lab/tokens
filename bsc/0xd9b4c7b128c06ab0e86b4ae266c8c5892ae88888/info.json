@@ -1,0 +1,11 @@
+{
+ "name": "CXDO Token",
+ "website": "https://bscscan.com/token/0xd9b4c7b128c06ab0e86b4ae266c8c5892ae88888",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xd9b4c7b128c06ab0e86b4ae266c8c5892ae88888",
+ "type": "BEP20",
+ "symbol": "CXDO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD9B4c7b128c06Ab0E86B4AE266c8c5892Ae88888"
+}
