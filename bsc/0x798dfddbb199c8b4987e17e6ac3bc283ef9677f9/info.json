@@ -1,0 +1,11 @@
+{
+ "name": "GROK-Cat Token",
+ "website": "https://bscscan.com/token/0x798dfddbb199c8b4987e17e6ac3bc283ef9677f9",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x798dfddbb199c8b4987e17e6ac3bc283ef9677f9",
+ "type": "BEP20",
+ "symbol": "GROK-Cat",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x798DfDdbB199C8B4987E17E6ac3BC283eF9677f9"
+}
