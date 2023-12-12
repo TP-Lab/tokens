@@ -1,0 +1,11 @@
+{
+    "name": "Fire",
+    "website": "https://web3.1airdrop.org/",
+    "description": "1Airdrop is a platform dedicated to providing users around the world with the latest information on short sale projects. Our goal is to help investors find the most promising cryptocurrency airdrops while promoting the health of the blockchain ecosystem. Fire is 1Airdrop's eco-incentive token",
+    "explorer": "https://bscscan.com/address/0x978232e81f232478b686B528077A0A452803C8Fd",
+    "type": "BEP20",
+    "symbol": "Fire",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x978232e81f232478b686B528077A0A452803C8Fd"
+   }
