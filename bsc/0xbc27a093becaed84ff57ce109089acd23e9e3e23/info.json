@@ -1,0 +1,11 @@
+{
+ "name": "Bosebit",
+ "website": "https://bosebit.com",
+ "description": "BOSEBIT use for online game",
+ "explorer": "https://bscscan.com/token/0xbc27a093becaed84ff57ce109089acd23e9e3e23",
+ "type": "BEP20",
+ "symbol": "BOSEBIT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbc27a093becaed84ff57ce109089acd23e9e3e23"
+}
