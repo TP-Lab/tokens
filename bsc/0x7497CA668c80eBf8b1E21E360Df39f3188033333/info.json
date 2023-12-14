@@ -1,0 +1,11 @@
+{
+ "name": "GrokDragon",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x7497CA668c80eBf8b1E21E360Df39f3188033333",
+ "type": "BEP20",
+ "symbol": "GrokDragon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7497CA668c80eBf8b1E21E360Df39f3188033333"
+}
