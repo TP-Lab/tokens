@@ -1,0 +1,11 @@
+{ 
+"name": "SFW",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0x60c62af0bAc0db5d580A4384cEA354A418eea5fD",
+"type": "BEP20",
+"symbol": "SFW",
+"decimals": 18,
+"status": "active",
+"id": "0x60c62af0bAc0db5d580A4384cEA354A418eea5fD"
+}
