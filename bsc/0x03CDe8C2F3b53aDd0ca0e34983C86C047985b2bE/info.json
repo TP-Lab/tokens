@@ -1,0 +1,11 @@
+{
+ "name": "LifeRestart",
+ "website": "http://liferestart.net/",
+ "description": "First BRC to BSC Inscription. Meet EFIL, a.k.a. "Iron Man" - a symbol of life reboot. Kickstarted with 10K addresses donating on BRC20, each bagging 1 EFIL. Goal: 1EFIL to surpass Bitcoin's price.",
+ "explorer": "https://bscscan.com/token/0x03CDe8C2F3b53aDd0ca0e34983C86C047985b2bE",
+ "type": "BEP20",
+ "symbol": "EFIL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x03CDe8C2F3b53aDd0ca0e34983C86C047985b2bE"
+}
