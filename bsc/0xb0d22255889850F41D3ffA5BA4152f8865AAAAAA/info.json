@@ -1,0 +1,11 @@
+{
+ "name": "GoldenBambooToken",
+ "website": "https://gbt.gold",
+ "description": "Golden Bamboo Token (GBT) is a completely decentralized defi token with value storage properties. It has an original underpinning mechanism and uses backstop funds to achieve real-time and fully automated market value management of token prices.",
+ "explorer": "https://bscscan.com/token/0xb0d22255889850F41D3ffA5BA4152f8865AAAAAA",
+ "type": "BEP20",
+ "symbol": "GBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb0d22255889850F41D3ffA5BA4152f8865AAAAAA"
+}
