@@ -1,0 +1,11 @@
+{
+ "name": "MXB",
+ "website": "-",
+ "description": "MXB is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x5E550d5aDdA3f4Ab9825a20A13BfFAD20Db8C2AC",
+ "type": "BEP20",
+ "symbol": "MXB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5E550d5aDdA3f4Ab9825a20A13BfFAD20Db8C2AC"
+}
