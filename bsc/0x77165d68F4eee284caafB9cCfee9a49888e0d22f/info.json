@@ -1,0 +1,11 @@
+{
+  "name": "Charging Bull Token",
+  "website": "https://bullchain.io",
+  "description": "CBT is an algorithmically adjusted TOKEN, initially backed 1:1 by USDT. It forms the foundation of a data-driven economy and related services ecosystem, offering a tokenized service layer powered by blockchain technology. This facilitates the fair, secure, and transparent sharing and sale of data. Profits from CBT are rewarded to Liquidity Providers, CBT holders, and DAOs.",
+  "explorer": "https://bscscan.com/token/0x77165d68f4eee284caafb9ccfee9a49888e0d22f",
+  "type": "BEP20",
+  "symbol": "CBT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x77165d68F4eee284caafB9cCfee9a49888e0d22f"
+}
