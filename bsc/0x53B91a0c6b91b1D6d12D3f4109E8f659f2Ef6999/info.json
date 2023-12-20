@@ -1,0 +1,11 @@
+{
+"name": "FTX",
+"website": "",
+"description": "A decentralized application",
+"explorer": "https://bscscan.com/token/0x53b91a0c6b91b1d6d12d3f4109e8f659f2ef6999",
+"type": "BEP20",
+"symbol": "FTX",
+"decimals": 18,
+"status": "active",
+"id": "0x53B91a0c6b91b1D6d12D3f4109E8f659f2Ef6999"
+}
