@@ -1,0 +1,11 @@
+{
+ "name": "Dragon",
+ "website": "https://dragondawn.io/",
+ "description": "MEME Navigator",
+ "explorer": "https://bscscan.com/token/0x30b63938b072e0fc341ae48ebcb1cf7b8f8caa34",
+ "type": "BEP20",
+ "symbol": "Dragon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x30b63938b072e0fc341ae48ebcb1cf7b8f8caa34"
+}
