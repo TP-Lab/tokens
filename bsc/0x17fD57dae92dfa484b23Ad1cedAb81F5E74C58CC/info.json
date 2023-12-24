@@ -1,0 +1,11 @@
+{
+ "name": "GROKAI",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x17fD57dae92dfa484b23Ad1cedAb81F5E74C58CC",
+ "type": "BEP20",
+ "symbol": "GROK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x17fD57dae92dfa484b23Ad1cedAb81F5E74C58CC"
+}
