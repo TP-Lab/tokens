@@ -1,0 +1,11 @@
+{
+ "name": "BDID",
+ "website": "https://bdid.io/",
+ "description": "Bdid.io, incubated by godid.io, specializes in the registration, transaction, and management of Ordinals Decentralized Identifiers (DIDs)",
+ "explorer": "https://etherscan.io/token/0x5016878159e84daDB05bB04135F3eAc339ae201f",
+ "type": "ERC20",
+ "symbol": "BDID",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5016878159e84daDB05bB04135F3eAc339ae201f"
+}
