@@ -1,0 +1,11 @@
+{
+ "name": "EH",
+ "website": "https://bscscan.com/token/0x218fb8B3ccCcbFF5a7a22B170f6CC143E54adE87",
+ "description": "EH Token.",
+ "explorer": "https://bscscan.com/token/0x218fb8B3ccCcbFF5a7a22B170f6CC143E54adE87",
+ "type": "BEP20",
+ "symbol": "EH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x218fb8B3ccCcbFF5a7a22B170f6CC143E54adE87"
+}
