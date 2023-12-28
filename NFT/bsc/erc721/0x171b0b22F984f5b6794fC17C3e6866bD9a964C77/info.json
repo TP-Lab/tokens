@@ -1,0 +1,10 @@
+{
+ "name": "DragonCARD",
+ "website": "https://dragondawn.io/",
+ "description": "Dragon holder rewards NFT",
+ "explorer": "https://bscscan.com/token/0x171b0b22F984f5b6794fC17C3e6866bD9a964C77",
+ "type": "ERC721",
+ "symbol": "DragonCARD",
+ "status": "active",
+ "id": "0x171b0b22F984f5b6794fC17C3e6866bD9a964C77"
+}
