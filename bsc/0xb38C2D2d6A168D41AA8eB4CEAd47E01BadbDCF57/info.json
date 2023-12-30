@@ -1,0 +1,11 @@
+{ 
+"name": "Mictoken",
+"website": "https://www.miccion.top",
+"description": "MiraCle(秘客)是一家Web3聚合生态平台,积极布局区块链领域,打造多元化生态体系,为全球用户提供创新型应用",
+"explorer": "https://bscscan.com/token/0xb38C2D2d6A168D41AA8eB4CEAd47E01BadbDCF57",
+"type": "BEP20",
+"symbol": "MIC",
+"decimals": 18,
+"status": "active",
+"id": "0xb38C2D2d6A168D41AA8eB4CEAd47E01BadbDCF57"
+}
