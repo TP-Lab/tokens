@@ -1,0 +1,11 @@
+{
+ "name": "Carb",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x3718081d29cC62071BdC5Ce76BdEA95948b2B1d3",
+ "type": "BEP20",
+ "symbol": "Carb",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3718081d29cC62071BdC5Ce76BdEA95948b2B1d3"
+}
