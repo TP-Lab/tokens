@@ -1,0 +1,11 @@
+{
+ "name": "BTF",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x595f73627B84861187C25f1365B6C125aB8BF339",
+ "type": "BSC20",
+ "symbol": "BTF",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x595f73627B84861187C25f1365B6C125aB8BF339"
+}
