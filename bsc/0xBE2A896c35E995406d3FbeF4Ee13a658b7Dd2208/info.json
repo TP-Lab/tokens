@@ -1,0 +1,11 @@
+{ 
+"name": "Amway",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/address/0xBE2A896c35E995406d3FbeF4Ee13a658b7Dd2208",
+"type": "BEP20",
+"symbol": "Amway",
+"decimals": 18,
+"status": "active",
+"id": "0xBE2A896c35E995406d3FbeF4Ee13a658b7Dd2208"
+}
