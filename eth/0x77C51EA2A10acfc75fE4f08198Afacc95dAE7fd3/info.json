@@ -1,0 +1,11 @@
+{
+ "name": "rETH",
+ "website": "https://reth.cc",
+ "description": "rETH is a transparent extension protocol based on Ethereum, a fairer market. It operates on SHA256 algorithm for POW hash verification.",
+ "explorer": "https://etherscan.io/address/0x77C51EA2A10acfc75fE4f08198Afacc95dAE7fd3",
+ "type": "ERC20",
+ "symbol": "rETH",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x77C51EA2A10acfc75fE4f08198Afacc95dAE7fd3"
+}
