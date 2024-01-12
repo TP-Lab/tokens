@@ -1,0 +1,11 @@
+{
+    "name": "Banana",
+    "website": "https://feedyourmonkey.today",
+    "description": "$BANANA that every monkey needs",
+    "explorer": "https://bloks.io/tokens/BANANA-eos-banana.moon",
+    "type": "EOS",
+    "symbol": "BANANA",
+    "decimals": 4,
+    "status": "active",
+    "id": "banana.moon"
+}
