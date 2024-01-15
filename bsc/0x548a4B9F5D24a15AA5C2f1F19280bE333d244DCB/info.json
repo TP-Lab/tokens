@@ -1,0 +1,11 @@
+{ 
+"name": "Chief Troll Officer",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0xf86d4743fc1de2a6bef2d733158edb9b72bd16ba",
+"type": "BEP20",
+"symbol": "CTO",
+"decimals": 18,
+"status": "active",
+"id": "0xf86d4743fc1de2a6bef2d733158edb9b72bd16ba"
+}
