@@ -1,0 +1,11 @@
+{
+ "name": "Kirby Inu",
+ "website": "",
+ "description": ".",
+ "explorer": "https://etherscan.io/token/0x32A08Bc829DaE0bfba3851488f783cFcAfed7728",
+ "type": "ERC20",
+ "symbol": "KIRBYINU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x32A08Bc829DaE0bfba3851488f783cFcAfed7728"
+}
