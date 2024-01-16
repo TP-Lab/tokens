@@ -1,0 +1,11 @@
+{
+ "name": "Lucky star Currency",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x888827D2B6AB33303c6020d9714b1B0C0689a8dD",
+ "type": "BEP20",
+ "symbol": "LSC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x888827D2B6AB33303c6020d9714b1B0C0689a8dD"
+}
