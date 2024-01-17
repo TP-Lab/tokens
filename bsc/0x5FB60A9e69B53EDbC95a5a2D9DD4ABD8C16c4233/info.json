@@ -1,0 +1,11 @@
+{ 
+"name": "Dinosaur Inu",
+"website": "https://dinocoin.top",
+"description": "$DINO - awaken the primal power and create a legendary encrypted meme!",
+"explorer": "https://bscscan.com/token/0x5FB60A9e69B53EDbC95a5a2D9DD4ABD8C16c4233",
+"type": "BEP20",
+"symbol": "DINO",
+"decimals": 18,
+"status": "active",
+"id": "0x5FB60A9e69B53EDbC95a5a2D9DD4ABD8C16c4233"
+}
