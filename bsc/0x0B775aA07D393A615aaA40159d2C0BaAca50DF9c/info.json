@@ -1,0 +1,11 @@
+{
+ "name": "bf token",
+ "website": "https://bscscan.com/token/0x0B775aA07D393A615aaA40159d2C0BaAca50DF9c",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+"explorer":"https://bscscan.com/token/0x0B775aA07D393A615aaA40159d2C0BaAca50DF9c",
+ "type": "BEP20",
+ "symbol": "BF",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x0B775aA07D393A615aaA40159d2C0BaAca50DF9c"
+}
