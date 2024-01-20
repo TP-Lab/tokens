@@ -1,0 +1,11 @@
+{
+ "name": "Baby Shark",
+ "website": "https://babysharkbsc.com/",
+ "description": "Welcome to BabyShark - The funniest and cutest baby trend meme. As a project built on the fun BabyShark Song and with over 13 billion views, we aim for BabyShark to create a new wave and reach billions of dollars in market cap!",
+ "explorer": "https://bscscan.com/token/0x1225075C06b8E288953531e96f22490DD85B7F60",
+ "type": "BEP20",
+ "symbol": "BABYSHARK",
+ "decimals": 9,
+ "status": "active",
+ "id": 0x1225075C06b8E288953531e96f22490DD85B7F60
+}
