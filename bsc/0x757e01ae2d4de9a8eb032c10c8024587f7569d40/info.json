@@ -1,0 +1,11 @@
+{
+ "name": "YYLM Token",
+ "website": "https://bscscan.com/token/0x757e01ae2d4de9a8eb032c10c8024587f7569d40",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x757e01ae2d4de9a8eb032c10c8024587f7569d40",
+ "type": "BEP20",
+ "symbol": "YYLM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x757E01Ae2d4de9a8eB032C10c8024587f7569d40"
+}
