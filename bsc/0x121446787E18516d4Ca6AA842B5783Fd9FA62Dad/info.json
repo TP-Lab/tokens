@@ -1,0 +1,11 @@
+{
+ "name": "BSJ",
+ "website": "-",
+ "description": "BSJ is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x121446787E18516d4Ca6AA842B5783Fd9FA62Dad",
+ "type": "BEP20",
+ "symbol": "BSJ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x121446787E18516d4Ca6AA842B5783Fd9FA62Dad"
+}
