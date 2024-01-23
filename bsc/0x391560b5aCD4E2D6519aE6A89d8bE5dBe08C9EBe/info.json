@@ -1,0 +1,11 @@
+{
+"name": "BOC",
+"website": "https://www.myspace-plan.com",
+"description": "Any user can participate in contract formulation and deployment, creating a fair, notarized, transparent, and secure arbitration mechanism.",
+"explorer": "https://bscscan.com/token/0x391560b5acd4e2d6519ae6a89d8be5dbe08c9ebe",
+"type": "BEP20",
+"symbol": "BOC",
+"decimals": 18,
+"status": "active",
+"id": "0x391560b5aCD4E2D6519aE6A89d8bE5dBe08C9EBe"
+}
