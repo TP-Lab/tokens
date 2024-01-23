@@ -1,0 +1,11 @@
+{
+ "name": "JiaoZi",
+ "website": "www.jiaozi.cn",
+ "description": "Dumplings are a folk food with a long history and are very popular among the people. There is a folk saying that "dumplings are not as delicious as dumplings"..",
+ "explorer": "https://bscscan.com/token/0x61f30218f474070979dea327b3bd57d079588888",
+ "type": "BEP20",
+ "symbol": "JiaoZi",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x61f30218f474070979dea327b3bd57d079588888"
+}
