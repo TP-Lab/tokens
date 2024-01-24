@@ -1,0 +1,11 @@
+{
+ "name": "LinkFi",
+ "website": "https://linkfi.world/",
+ "description": "Experience the innovative Burn to Earn system, engage in LinkFi token destruction, secure a steady 2X RETURNS.",
+ "explorer": "https://bscscan.com/token/0x679d2C23497d4431311aC001618cd0B8789Ac29C",
+ "type": "BEP20",
+ "symbol": "LinkFi",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x679d2C23497d4431311aC001618cd0B8789Ac29C"
+}
