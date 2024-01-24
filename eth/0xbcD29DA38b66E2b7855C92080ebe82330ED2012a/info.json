@@ -1,0 +1,11 @@
+{ 
+"name": "BIDEN2024",
+"website": ".",
+"description": "",
+"explorer": "https://etherscan.io/token/0xbcD29DA38b66E2b7855C92080ebe82330ED2012a",
+"type": "ERC20",
+"symbol": "Joe Biden",
+"decimals": 9,
+"status": "active",
+"id": "0xbcD29DA38b66E2b7855C92080ebe82330ED2012a"
+}
