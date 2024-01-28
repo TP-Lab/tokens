@@ -1,0 +1,11 @@
+{
+ "name": "π",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x5f716f2bD6074Ed54C6E3aa953C707d0D633E413",
+ "type": "BEP20",
+ "symbol": "π",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5f716f2bD6074Ed54C6E3aa953C707d0D633E413"
+}
