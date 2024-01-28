@@ -1,0 +1,11 @@
+{
+ "name": "VDS",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xd1e22a88e52ca0ef3cdea9d20d44e7ceef62c85d",
+ "type": "BEP20",
+ "symbol": "VDS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd1e22a88e52ca0ef3cdea9d20d44e7ceef62c85d"
+}
