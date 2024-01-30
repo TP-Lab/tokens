@@ -1,0 +1,11 @@
+{ 
+"name": "burn",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0xDbD2cC8BC91a419DA5465cB7317e77C318812345",
+"type": "BEP20",
+"symbol": "burn",
+"decimals": 18,
+"status": "active",
+"id": "0xDbD2cC8BC91a419DA5465cB7317e77C318812345"
+}
