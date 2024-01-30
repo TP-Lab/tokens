@@ -1,0 +1,11 @@
+{
+  "name": "HASH Token",
+  "website": "https://dapp.hashworld.ai",
+  "description": "HASHWORLD is a comprehensive gaming platform, and HASH is published by player-mapped USDT",
+  "explorer": "https://bscscan.com/txs?a=0x6b758a2522341df8b5d2556e8aecf37a51e4f799",
+  "type": "BEP20",
+  "symbol": "HASH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6B758a2522341Df8B5d2556E8aECf37A51e4F799"
+}
