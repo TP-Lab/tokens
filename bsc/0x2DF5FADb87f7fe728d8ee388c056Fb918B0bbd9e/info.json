@@ -1,0 +1,11 @@
+{ 
+"name": "Xiao Tai Yang",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0x2DF5FADb87f7fe728d8ee388c056Fb918B0bbd9e",
+"type": "BEP20",
+"symbol": "XTY",
+"decimals": 18,
+"status": "active",
+"id": "0x2DF5FADb87f7fe728d8ee388c056Fb918B0bbd9e"
+}
