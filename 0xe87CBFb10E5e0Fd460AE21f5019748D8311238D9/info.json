@@ -1,0 +1,11 @@
+{
+ "name": "LongTotem",
+ "website": "https://longtotem.net",
+ "description": "The Year of the Dragon 2024 comes from the largest pump in the East.",
+ "explorer": "https://etherscan.io/token/0xe87CBFb10E5e0Fd460AE21f5019748D8311238D9",
+ "type": "ERC20",
+ "symbol": "LONG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe87CBFb10E5e0Fd460AE21f5019748D8311238D9"
+}
