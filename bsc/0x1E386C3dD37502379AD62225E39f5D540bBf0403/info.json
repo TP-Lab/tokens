@@ -1,0 +1,11 @@
+{
+ "name": "bian",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x1E386C3dD37502379AD62225E39f5D540bBf0403",
+ "type": "BEP20",
+ "symbol": "bian",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1E386C3dD37502379AD62225E39f5D540bBf0403"
+}
