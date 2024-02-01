@@ -1,0 +1,11 @@
+{
+ "name": "HODL",
+ "website": "https://coinhodl.world/",
+ "description": "HODL· A place where dreams begin.A deflationary token full of infinite possibilities,A HODL that can take you wherever you want to go.",
+ "explorer": "https://bscscan.com/token/0x1671a2ab49928523c138dd85c1b9d242f28a35a4",
+ "type": "BEP20",
+ "symbol": "HODL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1671a2ab49928523c138dd85c1b9d242f28a35a4"
+}
