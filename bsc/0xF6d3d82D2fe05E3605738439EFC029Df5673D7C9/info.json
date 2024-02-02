@@ -1,0 +1,11 @@
+{
+    "name": "ZT",
+    "website": ".",
+    "description": "A practical aggregation platform suitable for all digital product needs, integrating diversified digital products such as BEEC (Bee) exchange, Chat GPT AI ecological application, mall (global shopping), BEEC social, GameFi, DeFi product aggregator and so on.",
+    "explorer": "https://bscscan.com/token/0xF6d3d82D2fe05E3605738439EFC029Df5673D7C9",
+    "type": "BEP20",
+    "symbol": "ZT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF6d3d82D2fe05E3605738439EFC029Df5673D7C9"
+}
