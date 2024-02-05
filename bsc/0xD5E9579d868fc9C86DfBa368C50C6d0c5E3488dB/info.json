@@ -1,0 +1,11 @@
+{
+ "name": "Babylongburn",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xD5E9579d868fc9C86DfBa368C50C6d0c5E3488dB",
+ "type": "BEP20",
+ "symbol": "Babylongburn",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD5E9579d868fc9C86DfBa368C50C6d0c5E3488dB"
+}
