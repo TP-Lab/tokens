@@ -1,0 +1,11 @@
+{
+  "name": "BurnsDeFi",
+  "website": "https://burnsdefi.com/",
+  "description": "Burns is BSC's first leading rune token is taking the market by storm by building a Burn-focused ecosystem",
+  "explorer": "https://bscscan.com/token/0x91f1d3c7ddb8d5e290e71f893bad45f16e8bd7ba",
+  "type": "BEP20",
+  "symbol": "burns",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x91f1d3C7ddB8d5E290e71f893baD45F16E8Bd7BA"
+}
