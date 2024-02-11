@@ -1,0 +1,11 @@
+{
+ "name": "涨 Token",
+ "website": "https://bscscan.com/token/0x2fe43d46dc8c2368772cfaab750fd8bf3d0c00a6",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x2fe43d46dc8c2368772cfaab750fd8bf3d0c00a6",
+ "type": "BEP20",
+ "symbol": "涨",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2FE43D46Dc8C2368772CFAaB750Fd8BF3D0C00A6"
+}
