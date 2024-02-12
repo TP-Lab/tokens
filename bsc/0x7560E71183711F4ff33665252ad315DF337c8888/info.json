@@ -1,0 +1,11 @@
+{ 
+"name": "YaSuiQian",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0x7560E71183711F4ff33665252ad315DF337c8888",
+"type": "BEP20",
+"symbol": "YaSuiQian",
+"decimals": 18,
+"status": "active",
+"id": "0x7560E71183711F4ff33665252ad315DF337c8888"
+}

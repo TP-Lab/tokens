@@ -1,0 +1,11 @@
+{ 
+"name": "Shiba 3.0",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0xBc5311653Dbbd1eCAfF00FDB5985449CbFD77C98",
+"type": "BEP20",
+"symbol": "Shiba 3.0",
+"decimals": 18,
+"status": "active",
+"id": "0xBc5311653Dbbd1eCAfF00FDB5985449CbFD77C98"
+}
