@@ -1,0 +1,11 @@
+{ 
+"name": "Smart",
+"website": "https://www.smart-island.cc/#/",
+"description": ""Smart" tokens, as the Pingtong currency of the Smart Island ecosystem, are committed to supporting and promoting the entire Pingtong application ecosystem. The maximum daily output of "Smart" is 1,042 pieces. This process depends on the weighted computing power of the NFT card. In order to maintain the long-term value of tokens and prevent inflation, Smart Island has designed an annual halving output mechanism, which reduces the output of "Smart" tokens by 50% every year, thus promoting the sustainability of the economic model and the improvement of market value. Steady growth.",
+"explorer": "https://bscscan.com/token/0xfbd2519BC9a0F287Fe5b715F0f958A339BE0AD52",
+"type": "BEP20",
+"symbol": "Smart",
+"decimals": 18,
+"status": "active",
+"id": "0xfbd2519BC9a0F287Fe5b715F0f958A339BE0AD52"
+}
