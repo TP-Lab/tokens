@@ -1,0 +1,11 @@
+{
+ "name": "Burning Bull",
+ "website": "-",
+ "description": "Burning Bull is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xA1115Aa233701aD27bea4e3Cc50B5Ac7c2064f83",
+ "type": "BEP20",
+ "symbol": "BULLB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA1115Aa233701aD27bea4e3Cc50B5Ac7c2064f83"
+}
