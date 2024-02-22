@@ -1,0 +1,11 @@
+{
+ "name": "EDS Token",
+ "website": "https://bt.bitstargames.com/#/",
+ "description": "As an important token running in the platform ecosystem, EDS token has a wealth of use scenarios.Users can use EDS tokens for over-the-counter transactions, and in the future, they will also be used to purchase goods and services, among other things",
+ "explorer": "https://bscscan.com/token/0x595Aefae8931C08675cA402f9Ff4b6C4C6ef217b",
+ "type": "BEP20",
+ "symbol": "EDS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x595Aefae8931C08675cA402f9Ff4b6C4C6ef217b"
+} 
