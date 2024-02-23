@@ -1,0 +1,11 @@
+{
+ "name": "Diamond Pi",
+ "website": "https://www.dpiswap.com",
+ "description": "DPi is dual turbo dual dimensional engines of the PiSwap ecosystem, which use the complete destruction mechanism of DPi in different spatiotemporal dimensions, and use a multi-dimensional regulatory mechanism to suppress DPi stagflation and induce DPi constant inflation mode.",
+ "explorer": "https://bscscan.com/token/0x8bA3D4F414C00f53e95E54aEA96d6d7C46C0F878",
+ "type": "BEP20",
+ "symbol": "DPI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8bA3D4F414C00f53e95E54aEA96d6d7C46C0F878"
+}
