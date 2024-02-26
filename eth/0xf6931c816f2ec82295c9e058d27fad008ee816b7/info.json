@@ -1,0 +1,12 @@
+{
+ "name": "ETH3.0 Token",
+ "website": "https://eth30.co/",
+ "description": "ETH3.0 is a hard fork coin upgraded from Ethereum Dencun-Cancun, built on the Ethereum blockchain as the Ethereum ERC-20 version.",
+ "explorer":
+"https://etherscan.io/token/0xf6931c816f2ec82295c9e058d27fad008ee816b7",
+ "type": "ERC20",
+ "symbol": "ETH3.0",
+ "decimals": 18,
+ "status": "active",
+ "id" : "0xf6931c816f2ec82295c9e058d27fad008ee816b7"
+}
