@@ -1,0 +1,11 @@
+{
+ "name": "STToken",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x8fbad2a5ebfd90e1d112750ce6d06ddde989d3d7",
+ "type": "BEP20",
+ "symbol": "ST",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x8FBAD2a5Ebfd90e1D112750Ce6D06dDDe989D3d7"
+}
