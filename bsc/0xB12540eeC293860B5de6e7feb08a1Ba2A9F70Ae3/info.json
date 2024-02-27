@@ -1,0 +1,11 @@
+{ 
+"name": "Optimus",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0xB12540eeC293860B5de6e7feb08a1Ba2A9F70Ae3",
+"type": "BEP20",
+"symbol": "Optimus",
+"decimals": 18,
+"status": "active",
+"id": "0xB12540eeC293860B5de6e7feb08a1Ba2A9F70Ae3"
+}
