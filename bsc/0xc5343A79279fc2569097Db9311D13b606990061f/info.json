@@ -5,7 +5,7 @@
   "explorer": "https://bscscan.com/token/0xc5343a79279fc2569097db9311d13b606990061f",
   "type": "BEP20",
   "symbol": "RUNEX",
-  "decimals": 18,
+  "decimals": 6,
   "status": "active",
   "id": "0xc5343A79279fc2569097Db9311D13b606990061f"
 }
