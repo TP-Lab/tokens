@@ -1,0 +1,11 @@
+{
+ "name": "Simpson Family (SMF)",
+ "website": "https://http://www.usdw.online/",
+ "description": "A stable currency.",
+ "explorer": "https://solscan.io/token/5jmBGMEW1xBMWdkZVXo8pu4BKsewgpHVsdV7GkvViBqK",
+ "type": "SPL",
+ "symbol": "SMF",
+ "decimals": 1,
+ "status": "active",
+ "id": "5jmBGMEW1xBMWdkZVXo8pu4BKsewgpHVsdV7GkvViBqK"
+}
