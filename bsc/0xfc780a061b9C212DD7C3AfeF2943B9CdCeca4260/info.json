@@ -1,0 +1,11 @@
+{
+  "name": "ID",
+  "website": "https://www.idplanet.world",
+  "description": "ID PLANET is a leading Web3 Metaverse Layer 1 EVM-Compatible Blockchain Hub! Our first game ecosystem, COOL GODS, is an AAA 5v5 multiplayer game with third-person PUBG control, Mobile Legends gameplay, and play-to-earn rewards.",
+  "explorer": "https://bscscan.com/token/0xfc780a061b9C212DD7C3AfeF2943B9CdCeca4260",
+  "type": "BEP20",
+  "symbol": "ID",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfc780a061b9C212DD7C3AfeF2943B9CdCeca4260"
+}
