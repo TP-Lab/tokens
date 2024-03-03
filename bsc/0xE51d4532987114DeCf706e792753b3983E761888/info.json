@@ -1,0 +1,11 @@
+{ 
+"name": "ETFS",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/address/0xE51d4532987114DeCf706e792753b3983E761888",
+"type": "BEP20",
+"symbol": "ETFS",
+"decimals": 18,
+"status": "active",
+"id": "0xE51d4532987114DeCf706e792753b3983E761888"
+}
