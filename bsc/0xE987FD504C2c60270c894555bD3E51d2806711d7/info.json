@@ -1,0 +1,11 @@
+{
+ "name": "Compu",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xE987FD504C2c60270c894555bD3E51d2806711d7",
+ "type": "BEP20",
+ "symbol": "Compu",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE987FD504C2c60270c894555bD3E51d2806711d7"
+}
