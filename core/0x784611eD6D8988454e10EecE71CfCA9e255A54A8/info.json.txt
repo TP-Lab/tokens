@@ -1,0 +1,11 @@
+{
+ "name": "Baby Angel Token",
+ "website": "https://angelswap.net/?utm_source=tokenpocket#/swap",
+ "description": "Angel Community has adopted the popular mechanism model of dife to rebuild the confidence of the Kuhl chain market and set a new ecological benchmark. The community is made up of high consensus members and will respond to market traffic refocusing on Kool Chain.",
+ "explorer": "https://scan.coredao.org/address/0x784611eD6D8988454e10EecE71CfCA9e255A54A8",
+ "type": "ERC-20",
+ "symbol": "Baby Angel",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x784611eD6D8988454e10EecE71CfCA9e255A54A8"
+}
