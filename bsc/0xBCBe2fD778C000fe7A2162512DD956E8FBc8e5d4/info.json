@@ -1,0 +1,11 @@
+{ 
+"name": "TweetCoin",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0xBCBe2fD778C000fe7A2162512DD956E8FBc8e5d4",
+"type": "BEP20",
+"symbol": "TTC",
+"decimals": 18,
+"status": "active",
+"id": "0xBCBe2fD778C000fe7A2162512DD956E8FBc8e5d4"
+}
