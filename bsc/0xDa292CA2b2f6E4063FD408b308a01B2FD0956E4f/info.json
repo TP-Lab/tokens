@@ -1,0 +1,11 @@
+{
+ "name": "TEO",
+ "website": "",
+ "description": This is an NFT coin production model, which is mined every three seconds and gives up ownership".",
+ "explorer": "https://bscscan.com/token/0xda292ca2b2f6e4063fd408b308a01b2fd0956e4f",
+ "type": "BEP20",
+ "symbol": "TEO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDa292CA2b2f6E4063FD408b308a01B2FD0956E4f"
+}
