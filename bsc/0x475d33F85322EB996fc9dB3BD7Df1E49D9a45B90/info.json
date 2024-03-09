@@ -1,0 +1,11 @@
+{
+ "name": "Rothschild",
+ "website": "-",
+ "description": "Rothschild Coin is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x475d33F85322EB996fc9dB3BD7Df1E49D9a45B90",
+ "type": "BEP20",
+ "symbol": " Rothschild ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x475d33F85322EB996fc9dB3BD7Df1E49D9a45B90"
+}
