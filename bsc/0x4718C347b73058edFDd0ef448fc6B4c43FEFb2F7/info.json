@@ -1,0 +1,11 @@
+{
+  "name": "BEZ Token",
+  "website": "https://bezfi.com",
+  "description": "As a universal token in the platform ecosystem, the BEZ token has a wealth of use scenarios. Users can use BEZ tokens for transactions, and in the future, they will also be used to purchase goods and services, etc. In addition, the platform may also launch a series of incentive programs and welfare activities based on BEZ tokens to further enhance its use value and bring more actual benefits and rights to users",
+  "explorer": "https://bscscan.com/token/0x4718C347b73058edFDd0ef448fc6B4c43FEFb2F7",
+  "type": "BEP20",
+  "symbol": "BEZ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4718C347b73058edFDd0ef448fc6B4c43FEFb2F7"
+}
