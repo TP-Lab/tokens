@@ -1,0 +1,11 @@
+{
+  "name": "BEEs",
+  "website": "www.bee-launchpad.io",
+  "description": "A Fair 'Inscription' & 'Token' Launchpad and Dex Compatible with All Chains.",
+  "explorer": "https://snowtrace.io/token/0xde8232cf3CcA014554e3B607e0fd554FBFdb20c6",
+  "type": "ERC20",
+  "symbol": "BEEs",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xde8232cf3CcA014554e3B607e0fd554FBFdb20c6"
+}
