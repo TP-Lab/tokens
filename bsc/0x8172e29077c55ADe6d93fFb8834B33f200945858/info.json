@@ -1,0 +1,11 @@
+{ 
+"name": "Baby Angel",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0x8172e29077c55ADe6d93fFb8834B33f200945858",
+"type": "BEP20",
+"symbol": "Baby Angel",
+"decimals": 18,
+"status": "active",
+"id": "0x8172e29077c55ADe6d93fFb8834B33f200945858"
+}
