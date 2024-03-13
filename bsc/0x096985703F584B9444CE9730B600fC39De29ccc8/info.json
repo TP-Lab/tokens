@@ -1,0 +1,11 @@
+{
+ "name": "Childrens Aid Foundation",
+ "website": "https://childaidfund.com",
+ "description": "An organization implementing distributed ledger technology (DLT) using blockchain for charitable purposes.",
+ "explorer": "https://bscscan.com/token/0x096985703f584b9444ce9730b600fc39de29ccc8",
+ "type": "BEP20",
+ "symbol": "CAF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x096985703F584B9444CE9730B600fC39De29ccc8"
+}
