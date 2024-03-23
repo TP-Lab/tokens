@@ -1,0 +1,11 @@
+{
+ "name": "GHB",
+ "website": "-",
+ "description": "GHB is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xb6137D5DaBf02dC98763B190C355343A00c62B87",
+ "type": "BEP20",
+ "symbol": " GHB ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb6137D5DaBf02dC98763B190C355343A00c62B87"
+}
