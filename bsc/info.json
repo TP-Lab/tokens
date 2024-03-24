@@ -1,11 +1,11 @@
 {
- "name": "DNT",
- "website": "https://www.sindia-c.store/",
- "description": "DNT is a game token owned by SpaceGuild. It is used for advanced functions of the game, such as strengthening equipment, evolving pets, etc., and is also used as a reward for game competitions. The total circulation is 21 million, of which 10 million are actually in circulation. 3 million are pledged in the game, 1 million are airdropped, and 7 million are liquid mining and staking mining.",
- "explorer": "https://bscscan.com/token/0x44836708ff32246635d8d08c785f4e779e294598",
- "type": "BEP20",
- "symbol": "DNT",
- "decimals": 8,
- "status": "active",
- "id": "0x44836708ff32246635d8d08c785f4e779e294598"
+  "name": "Catcoin",
+  "website": "catcoin.com",
+  "description": "Catcoin is a cat theme token that focuses on community decentralization and adoption. $CAT is designed to make memeCoins great again. Zero taxes, LP locked, $CAT is for the people, always. Fueled by pure meme power, $CAT will lead the way",
+  "explorer": "https://bscscan.com/token/0x59F4F336Bf3D0C49dBfbA4A74eBD2a6aCE40539A",
+  "type": "BEP20",
+  "symbol": "CAT",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x59F4F336Bf3D0C49dBfbA4A74eBD2a6aCE40539A"
 }
