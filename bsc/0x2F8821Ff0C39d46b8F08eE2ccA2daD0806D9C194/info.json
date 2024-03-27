@@ -1,0 +1,11 @@
+{
+ "name": "Loserchick",
+ "website": "https://loserchick.fi/",
+ "description": "LoserChick is the world's first 3D 'Claw Machine' game based on blockchain technology.",
+ "explorer": "https://bscscan.com/address/0x2F8821Ff0C39d46b8F08eE2ccA2daD0806D9C194",
+ "type": "BEP20",
+ "symbol": "CHICK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2F8821Ff0C39d46b8F08eE2ccA2daD0806D9C194"
+}
