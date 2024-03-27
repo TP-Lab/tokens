@@ -1,0 +1,11 @@
+{
+    "name": "Pinker Token",
+    "website": "https://pinkdream.io/",
+    "description": "Pink Dream Manor is a dream place for people who believe in the future of blockchain, facing the sea, PINK is the sole proof of ownership of Pink Dream Manor, And we based on pink launched PKDAO governance tokens, so that tokens have a strong incentive policy and profitable hematopoiesis ability, encourage users to build this set to the central bank, Small Generation Trust Mine, Open Digital Assets Fund as one of the decentralized organization! ",
+    "explorer": "https://bscscan.com/address/0x3e659D64De5b31167ac7a9c4bD33F0be72394C2A",
+    "type": "BEP20",
+    "symbol": "PINK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3e659D64De5b31167ac7a9c4bD33F0be72394C2A"
+}
