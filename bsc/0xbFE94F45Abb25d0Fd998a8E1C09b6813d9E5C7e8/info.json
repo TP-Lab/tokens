@@ -1,0 +1,11 @@
+{
+  "name": "Matchi Token",
+  "website": "https://matchi.games",
+  "description": "MCH is the platform token for the WEB3 dance fitness game MATCHI, and you can obtain MCH by dancing.",
+  "explorer": "https://bscscan.com/token/0xbFE94F45Abb25d0Fd998a8E1C09b6813d9E5C7e8",
+  "type": "BEP20",
+  "symbol": "MCH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbFE94F45Abb25d0Fd998a8E1C09b6813d9E5C7e8"
+}
