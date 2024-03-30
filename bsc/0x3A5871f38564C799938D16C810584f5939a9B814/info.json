@@ -1,0 +1,11 @@
+{
+ "name": "Open Source",
+ "website": "-",
+ "description": "Open Source is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x3A5871f38564C799938D16C810584f5939a9B814",
+ "type": "BEP20",
+ "symbol": " Osc ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3A5871f38564C799938D16C810584f5939a9B814"
+}
