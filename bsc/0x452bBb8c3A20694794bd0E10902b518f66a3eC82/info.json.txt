@@ -1,0 +1,11 @@
+{
+ "name": "UPUP",
+ "website": "https://x.com/UPUP_BSC",
+ "description": "$UPUP – the MEME token on BNB Chain that embodies every crypto folk's dream of "to da moon!".",
+ "explorer": "https://bscscan.com/token/0x452bBb8c3A20694794bd0E10902b518f66a3eC82",
+ "type": "BEP20",
+ "symbol": "UPUP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x452bBb8c3A20694794bd0E10902b518f66a3eC82"
+}
