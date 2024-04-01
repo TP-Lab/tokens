@@ -1,0 +1,11 @@
+{
+  "name": "Satoshi Panda",
+  "website": "https://satoshipanda.io",
+  "description": "A high-vibed meme culture & NFT project inspired by Satoshi’s vision & cute red pandas rewarding Bitcoin to SAP holders.",
+  "explorer": "https://bscscan.com/address/0xf251d850898758775958691df66895d0b5f837ad",
+  "type": "BEP20",
+  "symbol": "SAP",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xF251D850898758775958691Df66895d0b5F837AD"
+}
