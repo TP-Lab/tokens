@@ -1,0 +1,11 @@
+{
+ "name": "Boss Token",
+ "website": "https://bossun.io/",
+ "description": "BOSS is the token for the bossun project",
+ "explorer": "https://bscscan.com/token/0xAE478986C89AFA9203ACBb753c3DfE139C999999",
+ "type": "BEP20",
+ "symbol": "BOSS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAE478986C89AFA9203ACBb753c3DfE139C999999"
+}
