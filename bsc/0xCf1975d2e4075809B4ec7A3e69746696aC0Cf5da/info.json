@@ -1,0 +1,11 @@
+{
+ "name": "MM: Asphalt Game",
+ "website": "https://www.asphalt.win",
+ "description": "a racing club formed by a group of passionate Monopoly people. It brings us joy, and provides generous rewards to the winners.",
+ "explorer": "https://bscscan.com/token/0xcf1975d2e4075809b4ec7a3e69746696ac0cf5da",
+ "type": "BEP20",
+ "symbol": "MMDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCf1975d2e4075809B4ec7A3e69746696aC0Cf5da"
+}
