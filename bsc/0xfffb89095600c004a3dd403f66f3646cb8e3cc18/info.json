@@ -1,0 +1,11 @@
+{
+ "name": "HYL Token",
+ "website": "https://bscscan.com/token/0xfffb89095600c004a3dd403f66f3646cb8e3cc18",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xfffb89095600c004a3dd403f66f3646cb8e3cc18",
+ "type": "BEP20",
+ "symbol": "HYL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfffb89095600C004A3dd403F66f3646cb8e3Cc18"
+}
