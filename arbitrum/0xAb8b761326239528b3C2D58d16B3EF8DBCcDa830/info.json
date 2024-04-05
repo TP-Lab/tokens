@@ -1,0 +1,11 @@
+{
+ "name": "Bala",
+ "website": "https://balancedao.finance/",
+ "description": "Bala is a token of BalanceDAO, which is a DAO distributed organization based on Arbitrum one, focusing on DEFI projects. Bala aims to enable users to user a balanced portfolio and finally achieve better performance.",
+ "explorer": "https://arbiscan.io/address/0xab8b761326239528b3c2d58d16b3ef8dbccda830",
+ "type": "ERC20",
+ "symbol": "BALA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAb8b761326239528b3C2D58d16B3EF8DBCcDa830"
+}
