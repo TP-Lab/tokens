@@ -1,0 +1,11 @@
+{
+  "name": "COMBO",
+  "website": "https://combonetwork.io",
+  "description": "COMBO is a leading provider of scaling solutions for Web3 game development. By leveraging the world's top game engine, COMBO is building an open-source, decentralized, game-oriented Layer2 that is accessible to everyone. It aims to maximize the potential of Web3 games by connecting game developers with the entire ecosystem in an efficient, affordable, and secure way.",
+  "explorer": "https://bscscan.com/token/0xc03fBF20A586fa89C2a5f6F941458E1Fbc40c661",
+  "type": "BEP20",
+  "symbol": "COMBO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc03fBF20A586fa89C2a5f6F941458E1Fbc40c661"
+}
