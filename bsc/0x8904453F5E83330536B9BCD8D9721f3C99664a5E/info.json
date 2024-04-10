@@ -2,10 +2,10 @@
     "name": "MAIH",
     "website": "https://metaaihome.com",
     "description": "Meta Ai Home is a unique and innovative metaverse world that integrates metaverse, NFT, and BRC-20 based on inscriptions, while utilizing cross chain technology to expand to the Binance Smart Chain (BSC). This project not only focuses on the deep application of technology, but also combines GameFi with the metaverse to build a comprehensive digital ecosystem.",
-    "explorer": "https://bscscan.com/token/0x8904453F5E83330536B9BCD8D9721f3C99664a5E",
+    "explorer": "https://bscscan.com/token/0x044f6cada8c6dff443763f30307a36145ac87b11",
     "decimals": 18,
     "type": "BEP20",
     "symbol": "MAIH",
     "status": "active",
-    "id": "0x8904453F5E83330536B9BCD8D9721f3C99664a5E"
+    "id": "0x044f6cada8c6dff443763f30307a36145ac87b11"
 }
