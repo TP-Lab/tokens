@@ -1,0 +1,11 @@
+{
+ "name": "BTA2.0",
+ "website": "-",
+ "description": "BTA2.0 is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xc9Ac765A3863D686Db301373f6080fB75e85F1Ed",
+ "type": "BEP20",
+ "symbol": " BTA2.0 ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc9Ac765A3863D686Db301373f6080fB75e85F1Ed"
+}
