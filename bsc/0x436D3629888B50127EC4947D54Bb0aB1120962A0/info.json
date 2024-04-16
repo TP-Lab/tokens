@@ -1,0 +1,11 @@
+{
+ "name": "Mars Token (MARS)",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x436D3629888B50127EC4947D54Bb0aB1120962A0",
+ "type": "BEP20",
+ "symbol": "MARS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x436D3629888B50127EC4947D54Bb0aB1120962A0"
+}
