@@ -1,0 +1,11 @@
+{
+ "name": "DVTS.network ",
+ "website": "https://www.dvts.network",
+ "description": "DVTS (Decentralized Stake Infrastructure) is a decentralized staking infrastructure that powers the future of multiple staking applications.",
+ "explorer": "https://arbiscan.io/token/0x4057efe94743d53c87e0845a92ab210e6bee01c5",
+ "type": "Arbitrum One",
+ "symbol": "DVTS",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x4057efe94743d53c87E0845A92AB210e6BeE01c5"
+}
