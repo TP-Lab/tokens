@@ -1,0 +1,11 @@
+{ 
+"name": "Grass",
+"website": "https://www.getgrass.io",
+"description": "Grass is the underlying infrastructure that powers AI models. By installing the Grass web extension, the application will automatically sell your unused internet to AI companies, who use it to scrape the internet and train their models. ",
+"explorer": "https://bscscan.com/token/0x4dCb3Fa6556290b7612031278b60B6F176cA557b",
+"type": "BEP20",
+"symbol": "Grass",
+"decimals": 1,
+"status": "active",
+"id": "0x4dCb3Fa6556290b7612031278b60B6F176cA557b"
+}
