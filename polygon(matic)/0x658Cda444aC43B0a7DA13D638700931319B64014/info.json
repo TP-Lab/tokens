@@ -1,0 +1,11 @@
+{
+ "name": "SMARTMALL TOKEN",
+ "website": "https://smartmall.ai",
+ "description": "SmartMall is a Web3 application aggregation platform, The platform fully adopts DAO governance. "Users are both owners" is the core development concept of the platform. Users are participants and the biggest beneficiaries. Provide the most comprehensive Web3 service, create a channel to enter the Metaverse space, and provide professional support such as software, hardware and technology for all users participating in the Metaverse space, such as Web3 application development, Metaverse wearable device recommendation, holographic imaging technology, etc., to contribute to the rapid construction of Web3.",
+ "explorer": "https://polygonscan.com/address/0x658cda444ac43b0a7da13d638700931319b64014",
+ "type": "ERC20",
+ "symbol": "SMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x658Cda444aC43B0a7DA13D638700931319B64014"
+}
