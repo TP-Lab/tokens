@@ -1,0 +1,11 @@
+{
+ "name": "VISA",
+ "website": "-",
+ "description": "VISA is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x04A52F280F7fFC7a08462463903883Ccdf6B95A7",
+ "type": "BEP20",
+ "symbol": " VISA ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x04A52F280F7fFC7a08462463903883Ccdf6B95A7"
+}
