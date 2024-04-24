@@ -1,0 +1,11 @@
+{
+    "name": "Seed Token",
+    "website": "https://arbiscan.io/address/0xcC37D81d0e63c4733C5B0176422d9407714606d9",
+    "description": "Seed Token",
+    "explorer": "https://arbiscan.io/address/0xcC37D81d0e63c4733C5B0176422d9407714606d9",
+    "type": "ERC20",
+    "symbol": "SEED",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xcC37D81d0e63c4733C5B0176422d9407714606d9"
+   }
