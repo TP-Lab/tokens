@@ -1,0 +1,11 @@
+{
+  "name": "Big health industry coin",
+  "website": "www.alipay.com",
+  "description": "BHIC (Big Health Industry Coin) is a digital token specially designed for the big health industry, aiming to promote the deep integration of technology and human health, with a total circulation of 30 million coins. The emergence of BHIC is not only a perfect combination of technology and health industry, but also a powerful promotion of healthy lifestyle. BHIC not only innovates in technology, but also demonstrates its value in practical applications, providing trust and security to consumers by ensuring the quality and safety of products and services. Holding BHIC means holding health and the future. Let us use BHIC to open a new chapter of healthy life together.",
+  "explorer": "https://bscscan.com/token/0x8A9622894F22BeE102D811a3bAC830Cb2D0b3E4A",
+  "type": "BEP20",
+  "symbol": "BHIC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8A9622894F22BeE102D811a3bAC830Cb2D0b3E4A"
+}
