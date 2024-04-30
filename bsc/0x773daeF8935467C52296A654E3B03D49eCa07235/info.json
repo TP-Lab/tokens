@@ -1,0 +1,11 @@
+{
+    "name": "FMD",
+    "website": "www.fmutual.org",
+    "description": "Fraternity mutual FMD will be used to build a medical mutual assistance ecosystem, especially for low-income groups. This mechanism allows users of FM to establish a transparent ecosystem for helping and being helped by whole FM community. FM is designed as a non profitable platform in order to fulfil the  duty of mutual assistance ecosystem operation，as being a neutral, impartial and public ecosystem.",
+    "explorer": "https://www.bscscan.com/token/0x773daef8935467c52296a654e3b03d49eca07235",
+    "type": "BEP20",
+    "symbol": "FMD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x773daeF8935467C52296A654E3B03D49eCa07235"
+  }
