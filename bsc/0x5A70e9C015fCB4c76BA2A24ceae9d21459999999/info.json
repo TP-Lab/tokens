@@ -1,0 +1,11 @@
+{
+ "name": "OSK",
+ "website": "-",
+ "description": "OSK is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x5A70e9C015fCB4c76BA2A24ceae9d21459999999",
+ "type": "BEP20",
+ "symbol": " OSK ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5A70e9C015fCB4c76BA2A24ceae9d21459999999"
+}
