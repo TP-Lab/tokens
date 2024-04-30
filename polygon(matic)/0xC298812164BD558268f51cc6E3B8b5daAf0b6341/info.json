@@ -1,0 +1,11 @@
+{
+    "name": "Plata Token",
+    "website": "https://www.plata.ie",
+    "description": "$PLT Token for ACTM, Automated Crypto Teller Machine Project. From a kiosk.",
+    "explorer": "https://polygonscan.com/address/0xC298812164BD558268f51cc6E3B8b5daAf0b6341",
+    "type": "Polygon",
+    "symbol": "PLT",
+    "decimals": 4,
+    "status": "active",
+    "id": "0xC298812164BD558268f51cc6E3B8b5daAf0b6341"
+   }
