@@ -1,0 +1,11 @@
+{
+  "name": "MDC",
+  "website": "https://mdc.mobi",
+  "description": "Freedom,Web3,Gold",
+  "explorer": "https://bscscan.com/token/0xd1ba69a44888ee50819C554D3D6F4Ee457622894",
+  "type": "BEP20",
+  "symbol": "MDC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd1ba69a44888ee50819C554D3D6F4Ee457622894"
+}
