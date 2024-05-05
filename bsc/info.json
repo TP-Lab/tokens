@@ -1,11 +1,11 @@
 {
- "name": "Hive Network",
- "website": "https://hivenetworks.io",
- "description": "a new era in the world of cryptocurrency. Hive is a decentralized secure network based on blockchain technology. ",
- "explorer": "https://bscscan.com/token/0xaf6e18ee53693c3bcd144c27df54320e29097595",
+ "name": "BT coin",
+ "website": "https://bt-coin.net",
+ "description": "BT Coin: A global platform serve as the cornerstone uniting the cryptocurrency community. With our innovative approach and globally renowned intelligent hashing power deployment solutions, we are poised to shape the future of finance.",
+ "explorer": "https://bscscan.com/token/0x7428b7a625fc3ce6a53a6288a1565c40298463be",
  "type": "BEP20",
- "symbol": "HNY",
- "decimals": 8,
+ "symbol": "BT",
+ "decimals": 18,
  "status": "active",
- "id": "0xAF6E18Ee53693C3bcd144C27Df54320e29097595"
+ "id": "0x7428B7A625Fc3ce6A53a6288a1565C40298463bE"
 }
