@@ -1,11 +1,11 @@
 {
- "name": "Hive Network",
- "website": "https://hivenetworks.io",
- "description": "a new era in the world of cryptocurrency. Hive is a decentralized secure network based on blockchain technology. ",
- "explorer": "https://bscscan.com/token/0xaf6e18ee53693c3bcd144c27df54320e29097595",
+ "name": "TokenPocket Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
  "type": "BEP20",
- "symbol": "HNY",
- "decimals": 8,
+ "symbol": "TPT",
+ "decimals": 4,
  "status": "active",
- "id": "0xAF6E18Ee53693C3bcd144C27Df54320e29097595"
+ "id": "0xECa41281c24451168a37211F0bc2b8645AF45092"
 }
