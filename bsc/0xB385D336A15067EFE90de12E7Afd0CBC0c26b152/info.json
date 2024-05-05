@@ -1,0 +1,11 @@
+{
+    "name": "TB Token",
+    "website": "https://tbtbtb.cc",
+    "description": "Enabling everyone to experience Web3.",
+    "explorer": "https://bscscan.com/address/0xb385d336a15067efe90de12e7afd0cbc0c26b152",
+    "type": "BEP20",
+    "symbol": "TB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB385D336A15067EFE90de12E7Afd0CBC0c26b152"
+   }
