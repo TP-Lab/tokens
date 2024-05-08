@@ -1,0 +1,11 @@
+{
+ "name": "Tuna Entertainment",
+ "website": "https://Entertainment.Tuna.com",
+ "description": "Intelligent games, combined with blockchain technology and using smart contracts to design game architectures, automatically execute smart contracts, and achieve blockchain entertainment completely controlled by smart contracts on the blockchain.",
+ "explorer": "https://bscscan.com/token/0x3B64a333A3d815F1AE0b5E7f9A8e93F1007C3D8a",
+ "type": "BEP20",
+ "symbol": "TNT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3B64a333A3d815F1AE0b5E7f9A8e93F1007C3D8a"
+}
