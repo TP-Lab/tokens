@@ -1,0 +1,11 @@
+{
+ "name": "MTE",
+ "website": "-",
+ "description": "MTE  is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xd0eD3529D95C51B326dA2E997e37a10b89333333",
+ "type": "BEP20",
+ "symbol": "MTE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd0eD3529D95C51B326dA2E997e37a10b89333333"
+}
