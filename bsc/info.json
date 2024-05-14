@@ -1,11 +1,11 @@
 {
- "name": "Knowledge Graph Coin",
- "website": "http://www.gzaiengine.com",
- "description": "World culture and multi universe knowledge base, KGC is used for knowledge payment and cultural reward.",
- "explorer": "https://bscscan.com/token/0x4f58674f9eA4541A55fa96DFD3FFbF1e9e77c4de",
- "type": "BEP20",
- "symbol": "kgc",
- "decimals": 8,
- "status": "active",
- "id": "0x4f58674f9eA4541A55fa96DFD3FFbF1e9e77c4de"
+  "name": "Domino Effect Coin ",
+  "website": "web3.huanqiuxweb3.com",
+  "description": "Global web3 is a professional digital solution provider",
+  "explorer": "https://bscscan.com/token/0x33e7345d6f152f816fc9dc31b1010d65c2be66af",
+  "type": "BEP20",
+  "symbol": "DEC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x33E7345D6F152F816FC9Dc31b1010d65C2bE66AF"
 }
