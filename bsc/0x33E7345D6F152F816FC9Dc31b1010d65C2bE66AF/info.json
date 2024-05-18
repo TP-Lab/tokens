@@ -1,0 +1,11 @@
+{
+  "name": "Domino Effect Coin ",
+  "website": "web3.huanqiuxweb3.com",
+  "description": "Global web3 is a professional digital solution provider",
+  "explorer": "https://bscscan.com/token/0x33e7345d6f152f816fc9dc31b1010d65c2be66af",
+  "type": "BEP20",
+  "symbol": "DEC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x33E7345D6F152F816FC9Dc31b1010d65C2bE66AF"
+}
