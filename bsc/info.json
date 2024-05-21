@@ -1,11 +1,11 @@
 {
- "name": "BT coin",
- "website": "https://bt-coin.net",
- "description": "BT Coin: A global platform serve as the cornerstone uniting the cryptocurrency community. With our innovative approach and globally renowned intelligent hashing power deployment solutions, we are poised to shape the future of finance.",
- "explorer": "https://bscscan.com/token/0x7428b7a625fc3ce6a53a6288a1565c40298463be",
+ "name": "X42",
+ "website": "https://X42.pro",
+ "description": "X42 is an innovative decentralized social application (dApp) built on the Binance Smart Chain (BSC).",
+ "explorer": "https://bscscan.com/token/0x1a5466846fa24e9bd4758f2f0f2e2ede4ad1d997",
  "type": "BEP20",
- "symbol": "BT",
- "decimals": 18,
+ "symbol": "X42",
+ "decimals": 10,
  "status": "active",
- "id": "0x7428B7A625Fc3ce6A53a6288a1565C40298463bE"
+ "id": "0x1a5466846FA24e9bd4758F2f0f2E2EDe4AD1d997"
 }
