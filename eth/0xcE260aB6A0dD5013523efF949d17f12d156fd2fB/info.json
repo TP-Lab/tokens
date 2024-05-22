@@ -1,0 +1,11 @@
+{
+ "name": "Simpson",
+ "website": "",
+ "description": ".",
+ "explorer": "https://cn.etherscan.com/token/0xcE260aB6A0dD5013523efF949d17f12d156fd2fB",
+ "type": "ERC20",
+ "symbol": "Biden",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcE260aB6A0dD5013523efF949d17f12d156fd2fB"
+}
