@@ -1,11 +1,11 @@
-{
- "name": "BT coin",
- "website": "https://bt-coin.net",
- "description": "BT Coin: A global platform serve as the cornerstone uniting the cryptocurrency community. With our innovative approach and globally renowned intelligent hashing power deployment solutions, we are poised to shape the future of finance.",
- "explorer": "https://bscscan.com/token/0x7428b7a625fc3ce6a53a6288a1565c40298463be",
+﻿{
+ "name": "Full-Self Driving",
+ "website": "https:usfsd.org",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xB1B48f5F5b025F693E81797f17b2C5dF43f4E7E5",
  "type": "BEP20",
- "symbol": "BT",
- "decimals": 18,
+ "symbol": "FSD",
+ "decimals": 8,
  "status": "active",
- "id": "0x7428B7A625Fc3ce6A53a6288a1565C40298463bE"
+ "id": "0xB1B48f5F5b025F693E81797f17b2C5dF43f4E7E5"
 }
