@@ -1,0 +1,11 @@
+{ 
+"name": "Loong",
+"website": "https://pancakeswap.finance/",
+"description": "loong ",
+"explorer": "https://bscscan.com/token/0x87b132eaf3bd7a137a356953d80123fd45c66688",
+"type": "BEP20",
+"symbol": "Loong",
+"decimals": 18,
+"status": "active",
+"id": "0x87b132eaf3bd7a137a356953d80123fd45c66688"
+}

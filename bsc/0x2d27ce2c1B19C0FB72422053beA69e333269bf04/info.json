@@ -1,0 +1,11 @@
+{
+  "name": "AISC",
+  "website": "www.aisc.tech",
+  "description": "Adescription: AISC is a global AI supercomputing platform provides distributed storage and supercomputing power, offering stable and affordable services.",
+  "explorer": "https://bscscan.com/address/0x2d27ce2c1b19c0fb72422053bea69e333269bf04",
+  "type": "BEP20",
+  "symbol": "AISC",
+  "decimals": 4,
+  "status": "active",
+  "id": "0x2d27ce2c1B19C0FB72422053beA69e333269bf04"
+}

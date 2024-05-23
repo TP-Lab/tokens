@@ -1,0 +1,11 @@
+{
+ "name": "ETX Token",
+ "website": "https://x.com/etxtokens?s=21&t=qMXOh79yRgbq9VLjO4vfvA",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xde2bdd4c2d2288658457b901fcce3edf4134b999",
+ "type": "BEP20",
+ "symbol": "ETX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDE2bDD4c2d2288658457b901FcCE3eDf4134B999"
+}

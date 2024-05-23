@@ -1,0 +1,11 @@
+{
+ "name": "MIMIC",
+ "website": "-",
+ "description": "MIMIC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://etherscan.io/address/0xd8Bdf71FAc62032cDa441034b98130a6B6dAfb26",
+ "type": "ERC20",
+ "symbol": "MIMIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x000000e29fa2bd3E5C215fFc71aA66b29c9769A2"
+}

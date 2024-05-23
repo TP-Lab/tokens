@@ -1,0 +1,11 @@
+{
+ "name": "LF",
+ "website": "-",
+ "description": "LF is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xE6ae1138515B740fA649e5c39E0926d602fF6666",
+ "type": "BEP20",
+ "symbol": "LF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE6ae1138515B740fA649e5c39E0926d602fF6666"
+}

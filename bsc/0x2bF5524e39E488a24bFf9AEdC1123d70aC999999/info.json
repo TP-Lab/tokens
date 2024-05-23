@@ -1,0 +1,11 @@
+{
+ "name": "DAO9",
+ "website": "https://www.dao9.website",
+ "description": "DAO9 is a platform focused on providing coin mixing services, and our vision is to create continuous coin mixing revenue for users.",
+ "explorer": "https://bscscan.com/token/0x2bF5524e39E488a24bFf9AEdC1123d70aC999999",
+ "type": "BEP20",
+ "symbol": "DAO9",
+ "decimals": 32,
+ "status": "active",
+ "id": "0x2bF5524e39E488a24bFf9AEdC1123d70aC999999"
+}

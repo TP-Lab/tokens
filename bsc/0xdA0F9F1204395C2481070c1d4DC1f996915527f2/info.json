@@ -1,0 +1,11 @@
+{
+  "name": "Tour Billion Coin",
+  "website": "www.tourbillion.app",
+  "description": "GameFi Launchpad merges gaming with decentralized finance (DeFi), offering an ecosystem where developers can innovate and players can enjoy and earn from blockchain-integrated games",
+  "explorer": "https://bscscan.com/token/0xdA0F9F1204395C2481070c1d4DC1f996915527f2",
+  "type": "BEP20",
+  "symbol": "TBC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdA0F9F1204395C2481070c1d4DC1f996915527f2"
+}

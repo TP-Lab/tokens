@@ -1,0 +1,11 @@
+{
+ "name": "GMM",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xf80c2eCF0d651dd9D008e486b5207e294c6a1B00",
+ "type": "BEP20",
+ "symbol": "GMM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf80c2eCF0d651dd9D008e486b5207e294c6a1B00"
+}

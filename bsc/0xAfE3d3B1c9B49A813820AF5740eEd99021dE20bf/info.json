@@ -1,0 +1,11 @@
+{
+ "name": "IBN-314",
+ "website": "https://ibn314.ibnairdrop.io",
+ "description": "IBN314 popularized the ERC-314 standard, a game changer designed to cut Ethereum’s notoriously high transaction fees.",
+ "explorer": "https://bscscan.com/token/0xafe3d3b1c9b49a813820af5740eed99021de20bf",
+ "type": "BEP20",
+ "symbol": "IBN314",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAfE3d3B1c9B49A813820AF5740eEd99021dE20bf"
+}
