@@ -1,0 +1,11 @@
+﻿{
+ "name": "Full-Self Driving",
+ "website": "https://usfsd.org",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xB1B48f5F5b025F693E81797f17b2C5dF43f4E7E5",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 12,
+ "status": "active",
+ "id": "0xB1B48f5F5b025F693E81797f17b2C5dF43f4E7E5"
+}
