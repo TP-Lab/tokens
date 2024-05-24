@@ -1,0 +1,11 @@
+{
+ "name": "XT",
+ "website": "https://dapp.x-trading.io/",
+ "description": "X-TRADING is a professional decentralized digital asset derivatives service platform created by Hong Kong Virtual Asset Management Group and Singapore TA-EARTH FUND, focusing on the aggregation services of cryptocurrency derivatives tools.",
+ "explorer": "https://bscscan.com/token/0x76df7BfC943024A8C1045F9D2EC0385bE942D2A2",
+ "type": "BEP20",
+ "symbol": "XT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x76df7BfC943024A8C1045F9D2EC0385bE942D2A2"
+}
