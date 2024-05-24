@@ -1,0 +1,11 @@
+{
+ "name": "TDAN",
+ "website": "https://swap.dkchain.xyz/",
+ "description": "The beast MEME.",
+ "explorer": "https://bscscan.com/token/0xf1a9508210e3471e3730ca75625109482c95d202",
+ "type": "BEP20",
+ "symbol": "TDAN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xF1A9508210e3471E3730Ca75625109482C95d202"
+}
