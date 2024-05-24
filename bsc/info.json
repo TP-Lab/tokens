@@ -1,11 +1,11 @@
 {
- "name": "X42",
- "website": "https://X42.pro",
- "description": "X42 is an innovative decentralized social application (dApp) built on the Binance Smart Chain (BSC).",
- "explorer": "https://bscscan.com/token/0x1a5466846fa24e9bd4758f2f0f2e2ede4ad1d997",
- "type": "BEP20",
- "symbol": "X42",
- "decimals": 10,
- "status": "active",
- "id": "0x1a5466846FA24e9bd4758F2f0f2E2EDe4AD1d997"
+	"name": "Super btcoin",
+	"website": "-",
+	"description": "Super btcoin is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+	"explorer": "https://bscscan.com/address/0x427E5adcfe2f588CE60931BBE7D53a3773835a5A",
+	"type": "BEP20",
+	"symbol": "BTCS",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x427E5adcfe2f588CE60931BBE7D53a3773835a5A"
 }
