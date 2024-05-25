@@ -1,0 +1,11 @@
+{
+  "name": "King INternational coin ",
+  "website": "web3.huanqiuxweb3.com",
+  "description": "King International Coin (KIC) is a revolutionary digital token jointly created by Boao Tianshan Snow Lotus, Diwangchi Winery, Zhixiuxuan Biotechnology, and a coalition of major health enterprises.",
+  "explorer": "https://bscscan.com/token/0x74b3ff7051d25a263beb01faed8b2694549aa285",
+  "type": "BEP20",
+  "symbol": "KIC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x74B3Ff7051D25A263beB01faED8b2694549Aa285"
+}
