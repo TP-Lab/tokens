@@ -1,0 +1,11 @@
+{
+ "name": "PEP",
+ "website": "https://dapp.pepdat.com/",
+ "description": "Web3.0 decentralized crowdfunding platform",
+ "explorer": "https://bscscan.com/token/0x89A26AD625fDceCEcA5701f7abe035De4e0AB821",
+ "type": "BEP20",
+ "symbol": "PEP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x89A26AD625fDceCEcA5701f7abe035De4e0AB821"
+}
