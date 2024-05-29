@@ -1,0 +1,11 @@
+{
+ "name": "KABOSU",
+ "website": "https://kabosu.top/",
+ "description": "Kabosu is the king of meme. In order to commemorate it, we will take it on a trip to the moon.",
+ "explorer": "https://bscscan.com/token/0x4811d9A0B2655A5F317E466F2BE0139ff949297B",
+ "type": "BEP20",
+ "symbol": "KABOSU",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4811d9A0B2655A5F317E466F2BE0139ff949297B"
+}
