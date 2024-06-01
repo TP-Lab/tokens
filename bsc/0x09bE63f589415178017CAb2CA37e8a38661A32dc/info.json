@@ -5,7 +5,7 @@
     "explorer": "https://bscscan.com/token/0x09bE63f589415178017CAb2CA37e8a38661A32dc",
     "type": "BEP20",
     "symbol": "TCP314",
-    "decimals": 4,
+    "decimals": 18,
     "status": "active",
     "id": "0x09bE63f589415178017CAb2CA37e8a38661A32dc"
 }
