@@ -1,0 +1,11 @@
+{
+    "name": "Wu coin",
+    "website": "www.rousedao.com/",
+    "description": "First Tech Challenge is the world's first large-scale FTC public chain to incorporate probability elements such as Web3.0, sports games, DeFi, NFT, and Metaverse into popular ecological applications",
+    "explorer": "https://bscscan.com/token/0x1bb643b3D57359374Fadc850e58e64136Dea1D5E",
+    "type": "BEP20",
+    "symbol": "Wu",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1bb643b3D57359374Fadc850e58e64136Dea1D5E"
+  }
