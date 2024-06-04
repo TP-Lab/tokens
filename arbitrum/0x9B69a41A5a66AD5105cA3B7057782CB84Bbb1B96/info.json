@@ -1,0 +1,11 @@
+{
+    "name": "DISN",
+    "website": ".",
+    "description": "DISN is an API-integrated gaming eco-protocol that is based on ChatGPT. It allows users to, via the API, log into all ecosystems embedded in the platform with a single click. DISN AI aims to enable users to entertain themselves more efficiently through AI and Game while gaining profits in doing so.",
+    "explorer": "https://arbiscan.io/token/0x9B69a41A5a66AD5105cA3B7057782CB84Bbb1B96",
+    "decimals": 18,
+    "type": "Arbitrum One",
+    "symbol": "DISN",
+    "status": "active",
+    "id": "0x9B69a41A5a66AD5105cA3B7057782CB84Bbb1B96"
+}
