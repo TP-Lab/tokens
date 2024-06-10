@@ -1,0 +1,11 @@
+{
+ "name": "Aleo314",
+ "website": "https://dapp.aleox314.top",
+ "description": "The Aleo314 project adopts the latest technology Blockchain technology and advanced network protocols are committed to creating an efficient and secure decentralized network solution Resolution",
+ "explorer": "https://bscscan.com/token/0x715E52cd0335175C436635d02a0F6af70Fae3Df9",
+ "type": "BEP20",
+ "symbol": "Aleo314",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x715E52cd0335175C436635d02a0F6af70Fae3Df9"
+}
