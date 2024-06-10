@@ -1,0 +1,11 @@
+{
+ "name": "M-Fuel",
+ "website": "https://mbtcsuper.com",
+ "description": "MBTCs aims to build a global metaverse ecosystem by utilizing the geographical and climatic characteristics of the UAE.",
+ "explorer": "https://bscscan.com/token/0xf8ace032197d558eca6802b32be7580436fbe1b7",
+ "type": "BEP20",
+ "symbol": "MFuel",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf8ace032197d558eca6802b32be7580436fbe1b7"
+}
