@@ -1,0 +1,12 @@
+{
+    "name": "Wrapped Fibonacci",
+    "website": "https://www.fibochain.org/",
+    "description": "Wrapped Fibonacci",
+    "explorer": "https://bscscan.com/token/0xa4eacdf5b13a50358c6a995690e71d8ffc2cd6a2",
+    "type": "BEP20",
+    "symbol": "wFIBO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA4eACDF5B13a50358C6a995690E71d8fFC2cd6a2"
+}
+
