@@ -1,0 +1,11 @@
+{
+ "name": "ArkEx",
+ "website": "https://arkex.io",
+ "description": "ArkEx is a cutting-edge platform that provides real-time cryptocurrency data analysis and trading support.",
+ "explorer": "https://bscscan.com/tx/0x8f51c103152c68e860281a27b1fce77df037061af967a3add1a227690200f1ad",
+ "type": "BEP20",
+ "symbol": "Ark",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x403d1835Fb4bab520506dF256Ab3aBE9F582fb7B"
+}
