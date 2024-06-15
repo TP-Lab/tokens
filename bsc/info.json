@@ -1,0 +1,11 @@
+{ 
+"name": "PNC",
+"website": "https://prism-net.com/",
+"description": "Perfectly integrates creation and technology system ",
+"explorer": "https://bscscan.com/address/0xaac8A6e94F62F8Bd0aF54863D4C19100B7401C78",
+"type": "BEP20",
+"symbol": "PNC",
+"decimals": 18,
+"status": "active",
+"id": "0xaac8A6e94F62F8Bd0aF54863D4C19100B7401C78"
+}
