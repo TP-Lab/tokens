@@ -1,0 +1,11 @@
+{
+ "name": "SCG Token",
+ "website": "https://www.scgvip.com",
+ "description": "Star Citizen is a pan-Web3 integrated application service platform built by Star Citizen Technology Co., Ltd. in the United States after two years and with a total of more than 40 people in 8 technical teams around the world, integrating social networking, live broadcasting, meeting, witching, wallet and other functions. It aims to break the Internet aggregation monopoly through blockchain technology, let the value return to each creator, and build an open, fair and credible new generation of value interconnection ecosystem. As a platform circulation and governance token, SCG has issued a total of 100 million tokens to motivate platform contributors, and has many application scenarios such as transaction media, governance vouchers, equity certificates, and dividend vouchers.",
+ "explorer": "https://bscscan.com/address/0x866E1aB713AfA08B673560965418C58d09F7259F",
+ "type": "BEP20",
+ "symbol": "SCG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x866E1aB713AfA08B673560965418C58d09F7259F"
+}
