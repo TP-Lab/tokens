@@ -1,0 +1,11 @@
+{
+ "name": "Chronicles Of Warcraft",
+ "website": "https://www.chroniclesofwarcraft.com",
+ "description": "A web3 game based on token economy 3.0, Freedom for gamers.",
+ "explorer": "https://polygonscan.com/token/0xF30aabD8cBB8E1d827a79b4354868914040Ec155",
+ "type": "ERC20",
+ "symbol": "COW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF30aabD8cBB8E1d827a79b4354868914040Ec155"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "DIT",
+ "website": "-",
+ "description": "DIT  is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x094BA24360E3E3Ad7e082CeCFa4B05fDa35e1F1a",
+ "type": "BEP20",
+ "symbol": "DIT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x094BA24360E3E3Ad7e082CeCFa4B05fDa35e1F1a"
+}
