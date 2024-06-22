@@ -1,0 +1,11 @@
+{
+ "name": "EAR",
+ "website": ".",
+ "description": "The EAR (EAR) is the third public welfare sub-coin of the HELP Chain.",
+ "explorer": "https://bscscan.com/address/0x56e3fd421fb1d9ecea9f0e9d58cd5c6fb9d5be33",
+ "type": "BEP20",
+ "symbol": "EAR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x56E3FD421fb1d9ECeA9f0E9D58cd5C6fb9D5BE33"
+}
