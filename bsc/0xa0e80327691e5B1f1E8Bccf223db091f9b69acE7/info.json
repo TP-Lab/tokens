@@ -1,7 +1,7 @@
 {
- "name": "BBC Token",
+ "name": "BBC",
  "website": "https://bbcchain.top",
- "description": "BBC的规划目标在于建立一个支持多区块链以及传统货币清算领域的跨Token/资产类别的加密数字资产管理平台。BBC具备快速便捷，手续费低，安全可靠等诸多特点。",
+ "description": "BBC's planning goal is to build a crypto digital asset management platform that supports multiple blockchains as well as cross-token/asset classes in the traditional currency clearing space. The BBC has many characteristics, such as fast and convenient, low cost, safe and reliable.",
  "explorer": "https://bscscan.com/token/0xa0e80327691e5B1f1E8Bccf223db091f9b69acE7",
  "type": "BEP20",
  "symbol": "BBC",
