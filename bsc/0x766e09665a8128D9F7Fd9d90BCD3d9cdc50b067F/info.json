@@ -5,7 +5,7 @@
  "explorer": "https://bscscan.com/0x766e09665a8128D9F7Fd9d90BCD3d9cdc50b067F",
  "type": "BEP20",
  "symbol": "MOLI",
- "decimals": 4,
+ "decimals": 18,
  "status": "active",
  "id": "0x766e09665a8128D9F7Fd9d90BCD3d9cdc50b067F"
 }
