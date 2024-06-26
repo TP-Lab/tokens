@@ -1,0 +1,11 @@
+{
+ "name": "BitTV Coin",
+ "website": "https://www.bittv.co",
+ "description": "With the box office of the short play market expected to exceed 50 billion in 2024, the first Web3 short play platform - BitTV (Bit short play) came into being. BitTV is committed to providing a new kind of fragmented entertainment for blockchain users around the world.",
+ "explorer": "https://bscscan.com/token/0xD1Cb0F34a7924328BC2E7961A17209c54f17CfE6",
+ "type": "BEP20",
+ "symbol": "BTV",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD1Cb0F34a7924328BC2E7961A17209c54f17CfE6"
+}
