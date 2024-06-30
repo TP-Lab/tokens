@@ -1,0 +1,11 @@
+{
+ "name": "Time",
+ "website": "-",
+ "description": "Time  is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xD31Ccd619A9c7A6E9D393645fe9f26B975F0dA5e",
+ "type": "BEP20",
+ "symbol": "Time",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD31Ccd619A9c7A6E9D393645fe9f26B975F0dA5e"
+}
