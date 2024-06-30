@@ -1,0 +1,11 @@
+{
+ "name": "TEST TOKEN",
+ "website": "https://test.com",
+ "description": "TEST TOKEN IS A NEW TOKEN.",
+ "explorer": "https://solscan.io/token/TRS7Esex7Q4fu8hJU3pdCA1L1onvoqGkuM",
+ "type": "SPL",
+ "symbol": "TTK",
+ "decimals": 6,
+ "status": "active",
+ "id": "TRS7Esex7Q4fu8hJU3pdCA1L1onvoqGkuM"
+}
