@@ -1,0 +1,11 @@
+{
+ "name": "Block Web Services",
+ "website": "https://bytewallets.io/",
+ "description": "Charity token is created for donation purposes only. Charity token is a simple ERC-20 token designed for contributions to your favorite charities and disaster relief services.",
+ "explorer": "https://etherscan.io/token/0x227952cB66aa9A4397D11654740baf1a40C20CC4",
+ "type": "ERC20",
+ "symbol": "BWS",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x227952cB66aa9A4397D11654740baf1a40C20CC4"
+}
