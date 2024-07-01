@@ -1,7 +1,7 @@
 {
  "name": "Block Web Services",
  "website": "https://bytewallets.io/",
- "description": "Charity token is created for donation purposes only. Charity token is a simple ERC-20 token designed for contributions to your favorite charities and disaster relief services.",
+ "description": "Payment transactions are the foundation of socioeconomic activities, primarily managed by banks and regulated by banking regulatory authorities such as the China Banking and Insurance Regulatory Commission. With the rapid evolution of information technology, the proliferation of mobile payment scenarios, and the increasing frequency of small-value offline transactions, various payment and settlement scenarios and terminal demands have witnessed rapid growth. The traditional banking system is increasingly unable to cope with the growing demand for payments. Third-party payment providers complement traditional financial institutions by handling a large number of small-value, high-frequency payment settlement needs, offering customers more convenient and personalized payment services.",
  "explorer": "https://etherscan.io/token/0x227952cB66aa9A4397D11654740baf1a40C20CC4",
  "type": "ERC20",
  "symbol": "BWS",
