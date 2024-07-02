@@ -1,0 +1,11 @@
+{
+ "name": "MUSK314",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x26C5CBC85ad3344Be59d660fcc75Ec06dcE24E7d",
+ "type": "BEP20",
+ "symbol": "MUSK314",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x26C5CBC85ad3344Be59d660fcc75Ec06dcE24E7d"
+}
