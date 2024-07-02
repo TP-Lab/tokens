@@ -1,0 +1,11 @@
+{
+    "name": "FHW",
+    "website": "https://www.fhw-token.top/#/",
+    "description": "Decentralized trading applications",
+    "explorer": "https://bscscan.com/token/0x2367fbdc75004d0669c80119a8627ff067825a1f",
+    "type": "BEP20",
+    "symbol": "FHW",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2367fBdC75004D0669c80119A8627fF067825A1F"
+   }
