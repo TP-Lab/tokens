@@ -1,0 +1,11 @@
+{
+ "name": "ZTK Token",
+ "website": "https://www.zefilend.com/",
+ "description": "ZTK adheres to the concept of co-governance with users, opens community-type security nodes, and ensures the security of the core part of on-chain lending by implementing a multi-party joint verification mechanism",
+ "explorer": "https://bscscan.com/token/0xE2c189769bE2E46448C7841bE277606226E769E9",
+ "type": "BEP20",
+ "symbol": "ZTK ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE2c189769bE2E46448C7841bE277606226E769E9"
+} 
