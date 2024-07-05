@@ -1,0 +1,11 @@
+{
+ "name": "MH",
+ "website": "https://mhb168.com",
+ "description": "The MH protocol changes the traditional way DEX contracts interact on the chain, where users transfer BNB to the contract as a buy, and MH to the contract as a sell, without the need for any SWAP transactions. A leading multi-chain wallet that supports  BSC",
+ "explorer": "https://bscscan.com/token/0xF5760E9938A6aEd92C1dD0120b456e6a6D3e8445",
+ "type": "BEP20",
+ "symbol": "MH",
+ "decimals": 18
+ "status": "active",
+ "0xF5760E9938A6aEd92C1dD0120b456e6a6D3e8445"
+}
