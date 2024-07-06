@@ -1,0 +1,11 @@
+{
+    "name": "Digit-Security-Protocol",
+    "website": "huiguanjia.it.com/dapp",
+    "description": "Digit-Security-Protocol",
+    "explorer": "https://bscscan.com/token/0x0Aa42502322F12E737d68a5B6dd4F00bb6fcE29C",
+    "type": "BEP20",
+    "symbol": "DSP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0Aa42502322F12E737d68a5B6dd4F00bb6fcE29C"
+}
