@@ -1,0 +1,11 @@
+{
+    "name": "JCF Token",
+    "website": "https://www.xjellyfactory.xyz/",
+    "description": "This is a jelly candy production game.",
+    "explorer": "https://polygonscan.com/address/0x68d6e2fe99d831e0ab2cd4f064708db6af82a77b",
+    "type": "Polygon",
+    "symbol": "JCF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x68d6e2fe99d831e0ab2cd4f064708db6af82a77b"
+}
