@@ -1,0 +1,11 @@
+{
+	"name": "Fiery Phoenix",
+	"website": "-",
+	"description": "Fiery Phoenix is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+	"explorer": "https://bscscan.com/address/0xFabDdD8079b2419657C76196Bd84f62020ABd4d3",
+	"type": "BEP20",
+	"symbol": "FPEX",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xFabDdD8079b2419657C76196Bd84f62020ABd4d3"
+}
