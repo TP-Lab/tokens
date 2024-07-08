@@ -1,0 +1,11 @@
+{
+  "name": "BeautifulCall Token",
+  "website": "https://www.bc1913.com",
+  "description": "Beautiful Call Advanced conferencing software ecological token.",
+  "explorer": "https://bscscan.com/token/0x27656aa99e9aFa197Cc0664130110DD561ba3cd3",
+  "type": "BEP20",
+  "symbol": "BC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x27656aa99e9aFa197Cc0664130110DD561ba3cd3"
+}
