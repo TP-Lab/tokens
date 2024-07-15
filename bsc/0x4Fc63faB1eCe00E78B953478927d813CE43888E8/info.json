@@ -1,0 +1,11 @@
+{
+    "name": "BTCC",
+    "website": "",
+    "description": "Decentralized trading applications",
+    "explorer": "https://bscscan.com/token/0x4Fc63faB1eCe00E78B953478927d813CE43888E8",
+    "type": "BEP20",
+    "symbol": "BTCC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4Fc63faB1eCe00E78B953478927d813CE43888E8"
+   }
