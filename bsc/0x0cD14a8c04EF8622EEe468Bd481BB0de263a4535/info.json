@@ -1,0 +1,11 @@
+{
+ "name": "Wealth Pinnacle Coin",
+ "website": "",
+ "description": "WPC is the Wealth Pinnacie Community Governance Token, which allows users to trade on the platform to earn fee credits.",
+ "explorer": "https://bscscan.com/token/0x0cD14a8c04EF8622EEe468Bd481BB0de263a4535",
+ "type": "BEP20",
+ "symbol": "WPC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0cD14a8c04EF8622EEe468Bd481BB0de263a4535"
+}
