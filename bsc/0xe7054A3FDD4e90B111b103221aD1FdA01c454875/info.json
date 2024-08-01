@@ -1,0 +1,11 @@
+{
+    "name": "Election",
+    "website": "-",
+    "description": "It is a decentralized cross-chain derivatives exchange that unleashes the full potential of borderless decentralized finance",
+    "explorer": "https://bscscan.com/address/0xe7054A3FDD4e90B111b103221aD1FdA01c454875",
+    "type": "BEP20",
+    "symbol": "ETN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe7054A3FDD4e90B111b103221aD1FdA01c454875"
+}
