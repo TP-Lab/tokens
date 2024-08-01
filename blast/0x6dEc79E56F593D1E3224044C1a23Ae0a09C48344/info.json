@@ -1,0 +1,11 @@
+{
+ "name": "Wings",
+ "website": "https://phoenixnet.club",
+ "description": "WIN is the protocol contribution token of Phoenix Network. Its main function is to reward those who contribute to the growth of protocol users. At the same time, it can also serve as a burning mechanism to accelerate the release of WIN staking earnings.",
+ "explorer": "https://blastscan.io/address/0x6dec79e56f593d1e3224044c1a23ae0a09c48344",
+ "type": "ERC-20",
+ "symbol": "WIN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6dEc79E56F593D1E3224044C1a23Ae0a09C48344"
+}
