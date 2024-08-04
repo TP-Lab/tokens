@@ -1,0 +1,11 @@
+{
+ "name": "Phoenix",
+ "website": "https://phoenixnet.club",
+ "description": "PEX is the protocol governance token of Phoenix Network.PEX is used for voting rights in platform governance.Another important role of PEX is that it is the main value storage point for all types of revenue of the protocol derivatives exchange.",
+ "explorer": "https://blastscan.io/address/0xae57fe379494b30ec1e085fb8a87d9c2fdcbca2a",
+ "type": "ERC-20",
+ "symbol": "PEX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xae57fe379494B30Ec1E085Fb8a87d9C2FdcbcA2a"
+}
