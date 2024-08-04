@@ -1,0 +1,11 @@
+{
+ "name": "APT",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x16F19575C5CDD0291A609843D5821d295e91e9bd",
+ "type": "BEP20",
+ "symbol": "APT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x16F19575C5CDD0291A609843D5821d295e91e9bd"
+}

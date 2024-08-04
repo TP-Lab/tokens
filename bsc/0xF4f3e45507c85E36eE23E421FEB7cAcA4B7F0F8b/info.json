@@ -1,0 +1,11 @@
+{
+ "name": " JTS Protocol",
+ "website": "https:// JTSProtocol.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xF4f3e45507c85E36eE23E421FEB7cAcA4B7F0F8b",
+ "type": "BEP20",
+ "symbol": "ALD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF4f3e45507c85E36eE23E421FEB7cAcA4B7F0F8b"
+}

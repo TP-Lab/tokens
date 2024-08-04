@@ -1,0 +1,11 @@
+{
+ "name": "Cats World Food",
+ "website": "https://catsworld.io/",
+ "description": "Here is the Cat's World, a creative P2E game based on BSC and powerful economic mechanism.",
+ "explorer": "https://bscscan.com/token/0xf853ab433b92954e8c8cc0ba903d82e8e4cf81e9",
+ "type": "BEP20",
+ "symbol": "CWF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf853ab433b92954e8c8cc0ba903d82e8e4cf81e9"
+}

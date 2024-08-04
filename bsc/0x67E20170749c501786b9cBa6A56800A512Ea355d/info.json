@@ -1,0 +1,10 @@
+{
+ "name": "X-MASK Stock",
+ "website": "https://www.x-mask.com",
+ "explorer": "https://bscscan.com/token/0x67E20170749c501786b9cBa6A56800A512Ea355d",
+ "type": "BEP20",
+ "symbol": "XMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x67E20170749c501786b9cBa6A56800A512Ea355d"
+}

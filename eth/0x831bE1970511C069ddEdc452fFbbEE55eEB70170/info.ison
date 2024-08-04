@@ -1,0 +1,11 @@
+{
+ "name": "ELF wallet",
+ "website": "https://www.elfwallets.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, DRAC and so on.",
+ "explorer": "https://etherscan.io/token/0x831be1970511c069ddedc452ffbbee55eeb70170",
+ "type": "ERC20",
+ "symbol": "ELF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x831bE1970511C069ddEdc452fFbbEE55eEB70170"
+}

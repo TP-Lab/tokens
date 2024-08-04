@@ -1,0 +1,11 @@
+{
+  "name": "WK GAME TOKEN",
+  "website": "https://wktoken.one",
+  "description": "WK (World King) is a decentralized DAO community governance platform",
+  "explorer": "https://bscscan.com/token/0xb7a4462328b99dD83445d36Bb28dFA19c0f242bb",
+  "type": "BEP20",
+  "symbol": "WK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb7a4462328b99dD83445d36Bb28dFA19c0f242bb"
+ }

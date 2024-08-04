@@ -1,0 +1,11 @@
+{
+    "name": "Cosmic element",
+    "website": "https://www.yzbnet.vip",
+    "description": "YZB is a decentralized organization DAO, a decentralized organization of De F i finance established by global Internet personnel",
+    "explorer": "https://bscscan.com/token/0x83AAa9246d38F5CDf4508552610919c788a8E2bb",
+    "type": "BEP20",
+    "symbol": "YZB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x83AAa9246d38F5CDf4508552610919c788a8E2bb"
+}

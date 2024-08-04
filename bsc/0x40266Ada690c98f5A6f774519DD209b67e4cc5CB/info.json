@@ -1,0 +1,11 @@
+{
+ "name": "Spurs",
+ "website": "http://www.spurs-nft.com",
+ "description": "The first edition of the Rainbow Genesis Series NFT, released by Spurs, is an credential in the Spurs meta-world.",
+ "explorer": "https://bscscan.com/token/0x40266Ada690c98f5A6f774519DD209b67e4cc5CB",
+ "type": "BEP20",
+ "symbol": "Spurs",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x40266Ada690c98f5A6f774519DD209b67e4cc5CB"
+}

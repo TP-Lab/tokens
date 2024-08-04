@@ -1,0 +1,11 @@
+{
+ "name": "Trust",
+ "website": "http://dogtoken.cc",
+ "description": "Trust is the sub-coin of dog Community 413, which solves the blockchain trust problem, with a total of 100 million coins.",
+ "explorer": "https://bscscan.com/token/0xeb5FeaAd9C8F8265cC3a53c5e16468833708BF22",
+ "type": "BEP20",
+ "symbol": "Trust",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xeb5FeaAd9C8F8265cC3a53c5e16468833708BF22"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "SARIRA",
+ "website": "No",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x598cf2715a563aed9e9772fe15da70fdb2be4776",
+ "type": "BEP20",
+ "symbol": "SARIRA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x598cf2715a563aed9e9772fe15da70fdb2be4776"
+}

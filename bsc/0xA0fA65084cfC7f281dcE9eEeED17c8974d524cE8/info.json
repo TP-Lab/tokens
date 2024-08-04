@@ -1,0 +1,11 @@
+﻿{
+ "name": "BBC Token",
+ "website": "http://www.bbctoken.pro/",
+ "description": "BBC BEP20 Token.",
+ "explorer": "https://bscscan.com/token/0xA0fA65084cfC7f281dcE9eEeED17c8974d524cE8",
+ "type": "BEP20",
+ "symbol": "BBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA0fA65084cfC7f281dcE9eEeED17c8974d524cE8"
+}

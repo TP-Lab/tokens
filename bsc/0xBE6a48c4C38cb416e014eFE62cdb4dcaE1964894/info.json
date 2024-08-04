@@ -1,0 +1,11 @@
+{
+ "name": "MetaSango Token",
+ "website": "https://www.metasango.com",
+ "description": " Metaverse of The Three Kingdoms Game.",
+ "explorer": "https://bscscan.com/token/0xBE6a48c4C38cb416e014eFE62cdb4dcaE1964894",
+ "type": "BEP20",
+ "symbol": "MVSG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBE6a48c4C38cb416e014eFE62cdb4dcaE1964894"
+}

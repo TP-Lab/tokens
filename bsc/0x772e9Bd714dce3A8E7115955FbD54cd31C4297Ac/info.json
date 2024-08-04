@@ -1,0 +1,11 @@
+{
+ "name": "F8 DAO",
+ "website": "https://f8dao.com",
+ "description": "F8 (f8dao) is an experiment in the construction of decentralized community. F8 is the native token of f8dao. It is the first token combined with NFT and gamefi for incentive layer.",
+ "explorer": "https://bscscan.com/token/0x772e9Bd714dce3A8E7115955FbD54cd31C4297Ac",
+ "type": "BEP20",
+ "symbol": "F8",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x772e9Bd714dce3A8E7115955FbD54cd31C4297Ac"
+}

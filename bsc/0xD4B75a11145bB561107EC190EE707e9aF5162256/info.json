@@ -1,0 +1,11 @@
+{
+ "name": "WEB GOLD",
+ "website": "https://webgold.me",
+ "description": "WEB GOLD 是一个建立在BNB Chain 上的去中心化自治组织和区块链去中心化全金融生态服务平台，提供Binance Smart Chain上的首个DAO去中心化自治的加密资产BGD。BGD目标是为不熟悉区块链技术规则、或希望比认真交易者更少投入的方式获取最大化的收益。",
+ "explorer": "https://bscscan.com/token/0xd4b75a11145bb561107ec190ee707e9af5162256",
+ "type": "BEP20",
+ "symbol": "BGD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD4B75a11145bB561107EC190EE707e9aF5162256"
+}

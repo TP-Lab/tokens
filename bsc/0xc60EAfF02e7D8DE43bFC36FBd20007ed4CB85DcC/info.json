@@ -1,0 +1,11 @@
+{ 
+"name": "TOBIT",
+"website": "https://www.tobitdao.org/",
+"description": "Tobit's vision is to build a revolutionary ecosystem on the blockchain to help rescue and impoverished elderly, disabled, and children around the world through our community.",
+"explorer": "https://bscscan.com/token/0xc60eaff02e7d8de43bfc36fbd20007ed4cb85dcc",
+"type": "BEP20",
+"symbol": "TOBIT",
+"decimals": 18,
+"status": "active",
+"id": "0xc60EAfF02e7D8DE43bFC36FBd20007ed4CB85DcC"
+}

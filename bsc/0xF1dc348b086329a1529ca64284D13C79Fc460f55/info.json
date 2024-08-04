@@ -1,0 +1,11 @@
+{
+ "name": "STAR",
+ "website": "https://bscscan.com/token/0xF1dc348b086329a1529ca64284D13C79Fc460f55",
+ "description": "STAR TOKEN.",
+ "explorer": "https://bscscan.com/token/0xF1dc348b086329a1529ca64284D13C79Fc460f55",
+ "type": "BEP20",
+ "symbol": "STAR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF1dc348b086329a1529ca64284D13C79Fc460f55"
+}

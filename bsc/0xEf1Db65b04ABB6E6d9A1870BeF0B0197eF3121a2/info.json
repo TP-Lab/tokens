@@ -1,0 +1,11 @@
+{ 
+"name": "MekaWarrior Token",
+"website": "https://www.mekawarrior.io",
+"description": "MekaWarrior is an online game based on Binance Smart Chain (BSC). The gameplay modes includes mining, PVP, PVE. Players can participate in battles to get triple token rewards of $EGC+$MET+$BUSD! ",
+"explorer": "https://bscscan.com/token/0xEf1Db65b04ABB6E6d9A1870BeF0B0197eF3121a2",
+"type": "BEP20",
+"symbol": "EGC",
+"decimals": 18,
+"status": "active",
+"id": "0xEf1Db65b04ABB6E6d9A1870BeF0B0197eF3121a2"
+}

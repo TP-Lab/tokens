@@ -1,0 +1,11 @@
+{
+"name": "Good DAO",
+"website": "https://gooddao.com.es",
+"description": "An excellent project jointly initiated by a group of believers in philanthropy and blockchain technology. The team adheres to the essence of blockchain, uses the underlying logic of blockchain as the basis, and combines community ecology to realize the combination of real community and blockchain.",
+"explorer": "https://bscscan.com/address/0x048FFa8aAE293470932388b615A90A8265bFB25F",
+"type": "BEP20",
+"symbol": "GDG",
+"decimals": 9,
+"status": "active",
+"id": "0x048FFa8aAE293470932388b615A90A8265bFB25F"
+}

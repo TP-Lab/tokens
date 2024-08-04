@@ -1,0 +1,11 @@
+{
+ "name": "SAN",
+ "website": "https://www.staraliance.app/",
+ "description": "SAN(StarAlliance) is a new Fi+ meta-universe platform under Web3.0 created by R8 FOUNDATION. In the multiple parallel universes of SAN(StarAlliance)",
+ "explorer": "https://bscscan.com/token/0x96e0749e9c0501498a195573cf86b59d5c2f200a",
+ "type": "BEP20",
+ "symbol": "SAN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x96e0749e9c0501498A195573cf86B59d5C2F200a"
+}

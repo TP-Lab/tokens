@@ -1,0 +1,9 @@
+ "name": "ShenQuan",
+ "website": "http://shenquan.shop/",
+ "description": "SHQ is an innovative cryptocurrency that aims to build an efficient, secure, and easy-to-use blockchain platform.",
+ "explorer": "https://bscscan.com/token/0x5f7b02c502b960346fc0eaaff3c96ee1163f6356",
+ "type": "BEP20",
+ "symbol": "SHQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5f7b02c502b960346FC0EAaFF3c96ee1163F6356"

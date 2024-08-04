@@ -1,0 +1,19 @@
+{
+
+"name": "FX",
+ 
+"website": "https://www.fx.pro",  
+"description": "New tokens on the BSC chain",
+
+"explorer": "https://bscscan.com/token/0x12f6EC9147695E77A36D61a5F44A61D631F80EB5",
+ 
+"type": "BEP20",
+
+"symbol": "FX",
+ 
+"decimals": 18,
+ 
+"status": "active",
+ 
+"id": "0x12f6EC9147695E77A36D61a5F44A61D631F80EB5"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "CYC",
+ "website": "http://www.cycy.top",
+ "description": "CYC-token為插畫師cinyeechiu二十四節氣nft代幣，插畫每只動物代表壹個節氣，動物花紋根據時令蔬果創作。cinyeechiu把應季蔬果融合，給24節氣對應24個“吉祥物”。二十四節氣nft將作為國潮nft的先行者被大家熟知。",
+ "explorer": "https://bscscan.com/token/0x73b7EcFaD3BD90834A79340328CC4d087db1F612",
+ "type": "BEP20",
+ "symbol": "CYC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x73b7EcFaD3BD90834A79340328CC4d087db1F612"
+}

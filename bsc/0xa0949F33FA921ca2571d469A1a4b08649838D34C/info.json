@@ -1,0 +1,11 @@
+{
+ "name": "Binance-Peg BSC-HOS",
+ "website": "https://bschoswap.halo.land/swap",
+ "description": "HOS is the governance token of HOSwap of HALO NETWORK. HALO NETWORK is an efficient blockchain network system that provides one stop integration of DeFi application level with decentralized, energy efficient and low-cost transaction structure with traditional financial instruments.",
+ "explorer": "https://bscscan.com/token/0xa0949F33FA921ca2571d469A1a4b08649838D34C,
+ "type": "BEP20",
+ "symbol": "BSC-HOS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa0949F33FA921ca2571d469A1a4b08649838D34C"
+}

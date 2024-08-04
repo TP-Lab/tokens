@@ -1,0 +1,11 @@
+{ 
+"name": "Big Winners",
+"website": "https://bscscan.com/address/0xfDf71DF510CB6150fde5A23F35677ce692C8B0e8",
+"description": "DBWS is the token of the chain game union to provide services and drainage for the world's top chain game Apollo Project.",
+"explorer": "https://bscscan.com/token/0xfDf71DF510CB6150fde5A23F35677ce692C8B0e8",
+"type": "BEP20",
+"symbol": "DBWS",
+"decimals": 18,
+"status": "active",
+"id": "0xfDf71DF510CB6150fde5A23F35677ce692C8B0e8"
+}

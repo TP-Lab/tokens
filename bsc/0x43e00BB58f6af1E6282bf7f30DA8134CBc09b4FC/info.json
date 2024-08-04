@@ -1,0 +1,11 @@
+{
+ "name": "KTF",
+ "website": "www.btcdefi.vip",
+ "description": "KTF WILL GO GO GO ",
+ "explorer": "https://bscscan.com/token/0x43e00BB58f6af1E6282bf7f30DA8134CBc09b4FC",
+ "type": "BEP20",
+ "symbol": "KTF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x43e00BB58f6af1E6282bf7f30DA8134CBc09b4FC"
+}

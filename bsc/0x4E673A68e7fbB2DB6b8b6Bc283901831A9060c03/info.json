@@ -1,0 +1,11 @@
+{
+ "name": "tree",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x4E673A68e7fbB2DB6b8b6Bc283901831A9060c03",
+ "type": "BEP20",
+ "symbol": "TRE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4E673A68e7fbB2DB6b8b6Bc283901831A9060c03"
+}

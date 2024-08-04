@@ -1,0 +1,11 @@
+{
+ "name": "FUT",
+ "website": "",
+ "description": "Future Community, the first Future Pass FUT, is issued in a constant quantity of 9,999 pieces. ",
+ "explorer": "https://bscscan.com/address/0xaE21BFe30aFf40A66Bc9a950D61C1a6B1c82Ad2A",
+ "type": "BEP20",
+ "symbol": "FUT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaE21BFe30aFf40A66Bc9a950D61C1a6B1c82Ad2A"
+}

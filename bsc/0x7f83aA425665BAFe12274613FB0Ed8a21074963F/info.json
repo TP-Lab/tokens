@@ -1,0 +1,11 @@
+{
+ "name": "Hello World",
+ "website": "https://helloworld.cash/",
+ "description": "Hello world has built a decentralized meta universe enabling platform, which connects more creators to Hello world ecology through gamefi incubation, investment, distribution, Igo and other imaginative channels.",
+ "explorer": "https://bscscan.com/token/0x7f83aA425665BAFe12274613FB0Ed8a21074963F",
+ "type": "BEP20",
+ "symbol": "HWD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7f83aA425665BAFe12274613FB0Ed8a21074963F"
+}

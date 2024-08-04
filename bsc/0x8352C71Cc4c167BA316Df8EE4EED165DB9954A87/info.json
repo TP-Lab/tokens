@@ -1,0 +1,11 @@
+{
+ "name": "FE",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x8352C71Cc4c167BA316Df8EE4EED165DB9954A87",
+ "type": "BEP20",
+ "symbol": "FE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8352C71Cc4c167BA316Df8EE4EED165DB9954A87"
+}

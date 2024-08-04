@@ -1,0 +1,11 @@
+{
+ "name": "Aid Token",
+ "website": "http://aidtoken.vip/",
+ "description": "AID TOKEN was created by the original Coinbase core development team. It inspires everyone to access and use cryptocurrencies, and allows everyone to profit from the losses of cryptocurrencies.",
+ "explorer": "https://bscscan.com/token/0xf75a591ca4259cb3ca2ec20c74d9c1de79e812d8",
+ "type": "ERC20",
+ "symbol": "AID",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF75a591ca4259cb3ca2ec20C74D9c1de79E812d8"
+}

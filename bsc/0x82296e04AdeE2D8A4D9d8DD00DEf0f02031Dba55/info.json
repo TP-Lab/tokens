@@ -1,0 +1,11 @@
+{
+ "name": "BNG TOKEN",
+ "website": "https://bscscan.com/token/0x82296e04AdeE2D8A4D9d8DD00DEf0f02031Dba55",
+ "description": "BNG TOKEN.",
+ "explorer": "https://bscscan.com/token/0x82296e04AdeE2D8A4D9d8DD00DEf0f02031Dba55",
+ "type": "BEP20",
+ "symbol": "BNG",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x82296e04AdeE2D8A4D9d8DD00DEf0f02031Dba55"
+}

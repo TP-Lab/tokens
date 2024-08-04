@@ -1,0 +1,11 @@
+{
+  "name": "CAR",
+  "website": ".",
+  "description": ".",
+  "explorer": "https://bscscan.com/token/0xece9c60d31415195e5b797ef8a766b090843a8a6",
+  "type": "BEP20",
+  "symbol": "CAR",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xece9c60d31415195e5b797ef8a766b090843a8a6"
+} 

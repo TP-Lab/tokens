@@ -1,0 +1,11 @@
+{
+  "name": "RL Token",
+  "website": "http://pancakeswap.com",
+  "description": "维权联盟是由不同国家及地区的社区成员自治的DAO实验。这是前所未有颠覆性的创新。通过在PancakeSwap上建池来获得挖矿激励。",
+  "explorer": "https://bscscan.com/token/0x4bBfae575Dd47BCFD5770AB4bC54Eb83DB088888",
+  "type": "BEP20",
+  "symbol": "RL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x4bBfae575Dd47BCFD5770AB4bC54Eb83DB088888"
+}

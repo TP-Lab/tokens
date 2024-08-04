@@ -1,0 +1,11 @@
+{
+ "name": "Ominilink",
+ "website": "https://www.omnilink.club",
+ "description": "Ominilink is a globally integrated super app that encompasses all aspects of the digital economy, serving as a 'connect and link everything' super super-app. It's a platform that connects users worldwide, provides borderless living and working experiences, and offers a convenient life for users, enabling the aggregation of individual strengths into a vast ocean-like power.",
+ "explorer": "https://bscscan.com/token/0x149CA18e98D25feAC6ABeF1Ea1F15d45Ad76d7CA",
+ "type": "BEP20",
+ "symbol": "ONK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x149CA18e98D25feAC6ABeF1Ea1F15d45Ad76d7CA"
+}

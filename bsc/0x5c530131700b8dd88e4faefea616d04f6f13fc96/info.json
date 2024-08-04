@@ -1,0 +1,11 @@
+{
+ "name": "BNQ",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x5c530131700b8dd88e4faefea616d04f6f13fc96",
+ "type": "BEP20",
+ "symbol": "BNQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5c530131700b8dd88e4faefea616d04f6f13fc96"
+}

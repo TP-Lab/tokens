@@ -1,0 +1,11 @@
+{
+ "name": "DogeLover Token",
+ "website": "https://dogelover.org",
+ "description": "A meme token with wonderful NFTs and adult-shop online.",
+ "explorer": "https://bscscan.com/token/0x87892a631177a42af6db441fdb56dd74280cce49",
+ "type": "BEP20",
+ "symbol": "Dogelover",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x87892A631177A42Af6DB441fDB56dd74280cce49"
+}

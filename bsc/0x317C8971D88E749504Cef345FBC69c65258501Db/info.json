@@ -1,0 +1,11 @@
+{
+ "name": "Eternal World",
+ "website": "https://www.eternal-world.vip",
+ "description": "EternalWorld is a MMRPG with the theme of supernatural, and ETL token is the governance token of EternalWorld project.",
+ "explorer": "https://bscscan.com/token/0x317c8971d88e749504cef345fbc69c65258501db",
+ "type": "BEP20",
+ "symbol": "ETL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x317C8971D88E749504Cef345FBC69c65258501Db"
+}

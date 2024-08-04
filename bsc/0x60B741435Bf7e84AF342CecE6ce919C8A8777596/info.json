@@ -1,0 +1,11 @@
+{
+ "name": "YJR",
+ "website": "https://yuanboundary.yucircles.com/",
+ "description": "YJR is the latest technology in the field of blockchain, and the collection value of NFT is world-renowned.",
+ "explorer": "https://bscscan.com/token/0x60B741435Bf7e84AF342CecE6ce919C8A8777596",
+ "type": "BEP20",
+ "symbol": "YJR",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x60B741435Bf7e84AF342CecE6ce919C8A8777596"
+}

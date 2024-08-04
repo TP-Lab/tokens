@@ -1,0 +1,12 @@
+{ 
+"name": "AntDao",
+"website": "https://ai.antdao.co/",
+"description": "ANT DAO is committed to being the leader an pioneer of the decentralized asset management circuit.",
+"explorer": "https://bscscan.com/token/0x76E4EFB2c78b08c3fdE3eDF98c6503dd9Df9C5E8",
+"type": "BEP20",
+"symbol": "ANT",
+"decimals": 18,
+"status": "active",
+"id": "0x76E4EFB2c78b08c3fdE3eDF98c6503dd9Df9C5E8"
+}
+

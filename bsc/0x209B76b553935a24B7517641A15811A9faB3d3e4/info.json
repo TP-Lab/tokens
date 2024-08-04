@@ -1,0 +1,11 @@
+{
+  "name": "AI Meta Galaxy",
+  "website": "https://www.aimeta.club/",
+  "description": "AI META GALAXY (AMG) is the token for rewarding contributors of AI META CLUB, serving as a credential for recognizing the contributions made to the club.",
+  "explorer": "https://bscscan.com/address/0x209B76b553935a24B7517641A15811A9faB3d3e4",
+  "type": "BEP20",
+  "symbol": "AMG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x209B76b553935a24B7517641A15811A9faB3d3e4"
+ }

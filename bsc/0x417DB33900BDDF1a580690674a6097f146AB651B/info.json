@@ -1,0 +1,11 @@
+{
+ "name": "Zodiac Space Token",
+ "website": "https://www.zst123.com",
+ "description": "Zodiac Space 秉承生肖文化，以 DAO 治理为核心，以 SocialFi 为原动力，逐步完成 DeFi 产品、NFT 平台、GameFi 平台等生态板块的搭建，使人们能够在这个虚实混合的元宇宙中学习、生活、工作、购物、娱乐等。",
+ "explorer": "https://bscscan.com/token/0x417db33900bddf1a580690674a6097f146ab651b",
+ "type": "BEP20",
+ "symbol": "ZST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x417DB33900BDDF1a580690674a6097f146AB651B"
+}

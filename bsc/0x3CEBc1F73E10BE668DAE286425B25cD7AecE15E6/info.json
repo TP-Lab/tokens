@@ -1,0 +1,11 @@
+{
+"name": "Open star swap",
+"website": "http://os.openstarex.com/",
+"description": "The full English name is open star swap, or OSS for short. Open star swap platform equity token, an automatic market maker on the BSC chain, can deploy DAPP and osn20 Multi Chain Wallet ecological projects using smart contracts.",
+"explorer": "https://www.bscscan.com/address/0x3cebc1f73e10be668dae286425b25cd7aece15e6",
+"type": "BEP20",
+"symbol": "OSS",
+"decimals": 18,
+"status": "active",
+"id": "0x3CEBc1F73E10BE668DAE286425B25cD7AecE15E6"
+}

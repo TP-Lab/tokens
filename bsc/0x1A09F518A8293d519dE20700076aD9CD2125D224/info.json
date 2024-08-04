@@ -1,0 +1,11 @@
+{
+    "name": "ManiSwap",
+    "website": "https://mnswaps.com",
+    "description": "MNWap is the technical core of JustSwap. The technical team formed by Mani and Coinbase started to prepare to create innovative multi chain and cross chain technologies in September 2021.",
+    "explorer": "https://bscscan.com/token/0x1A09F518A8293d519dE20700076aD9CD2125D224",
+    "type": "BEP20",
+    "symbol": "MN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1A09F518A8293d519dE20700076aD9CD2125D224"
+}

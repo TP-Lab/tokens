@@ -1,0 +1,11 @@
+{
+ "name": "BTCS",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0xe19975D9806187bc7D7Bd5cfE352198A4B0d56b5",
+ "type": "HRC-2",
+ "symbol": "BTCS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe19975D9806187bc7D7Bd5cfE352198A4B0d56b5"
+}

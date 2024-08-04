@@ -1,0 +1,11 @@
+{
+    "name": "Meteorite Token",
+    "website": "https://www.mte.cool",
+    "description": "MTE is the only official token of Meteorite,  Meteorite is a decentralized quantitative strategy platform with full DAO management, a robust ecosystem, high-quality data services and a limited NFT series.",
+    "explorer": "https://etherscan.io/token/0xC120dBB74a1f9764D46dE19fb5C70cE71317cBEb",
+    "type": "ERC20",
+    "symbol": "MTE",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xC120dBB74a1f9764D46dE19fb5C70cE71317cBEb"
+   }

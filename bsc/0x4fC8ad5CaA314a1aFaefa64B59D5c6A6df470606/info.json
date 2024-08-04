@@ -1,0 +1,11 @@
+{
+ "name": "GreatTiger",
+ "website": "https://greattiger.cc",
+ "description": "The most rocket-speed token for the New Year of Tiger",
+ "explorer": "https://bscscan.com/token/0x4fC8ad5CaA314a1aFaefa64B59D5c6A6df470606",
+ "type": "BEP20",
+ "symbol": "GreatTiger",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4fC8ad5CaA314a1aFaefa64B59D5c6A6df470606"
+}

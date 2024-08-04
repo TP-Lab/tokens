@@ -1,0 +1,11 @@
+{
+ "name": "KOBE",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x090e1612015518e406fd8cf4e17423cdf47e5327",
+ "type": "BSC20",
+ "symbol": "KOBE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x090e1612015518e406fd8CF4E17423Cdf47e5327"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BTXJ Token",
+ "website": "https://bscscan.com/token/0x4c3952fae86df0450df573d803e2639083cc25c6",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x4c3952fae86df0450df573d803e2639083cc25c6",
+ "type": "BEP20",
+ "symbol": "BTXJ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4c3952FAE86dF0450dF573d803e2639083cC25C6"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BOBO Chicken",
+ "website": "https://bobochicken.club/ ",
+ "description": "BOBO Chicken $BOBO - The first meme token on BSC was born from the idea of the internet",
+ "explorer": "https://bscscan.com/token/0x79e3c340b11810a491326ee0cf91062cc2815dbd",
+ "type": "BEP20",
+ "symbol": "BOBO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x79e3c340b11810a491326ee0cf91062cc2815dbd"
+}

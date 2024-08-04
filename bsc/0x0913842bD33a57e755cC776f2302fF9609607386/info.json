@@ -1,0 +1,11 @@
+{
+ "name": "BabyDogeKing",
+ "website": "https://www.babydogeking.one",
+ "description": "BabyDogeKing is the funniest doge on BSC! A community-focused, decentralized cryptocurrency with instant rewards for holders.",
+ "explorer": "https://bscscan.com/token/0x0913842bD33a57e755cC776f2302fF9609607386",
+ "type": "BEP20",
+ "symbol": "BabyDogeKing",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0913842bD33a57e755cC776f2302fF9609607386"
+}

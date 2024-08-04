@@ -1,0 +1,11 @@
+{
+ "name": "ATMG Token",
+ "website": "https://atmgpancake.cc",
+ "description": "ATMG is a DEfi format based on the ATM ecosystem",
+ "explorer": "https://bscscan.com/token/0x70dF95168c90d21563b9dd2d5AE87364eE1ae05E",
+ "type": "BEP20",
+ "symbol": "ATMG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9154EBD3393b092415B98E3552C436FD1Cf62b91"
+} 

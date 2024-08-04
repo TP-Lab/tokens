@@ -1,0 +1,11 @@
+{
+    "name": "Ant Corps",
+    "website": "https://www.ant-corps.com/",
+    "description": "Ant corps open source, independent decentralized application.",
+    "explorer": "https://bscscan.com/token/0x30094F426ba90C0fCf9334596B18C83c54B8427A",
+    "type": "BEP20",
+    "symbol": "ANT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x30094F426ba90C0fCf9334596B18C83c54B8427A"
+   }

@@ -1,0 +1,11 @@
+{
+ "name": "ProMeta Token",
+ "website": "prometa.cc",
+ "description": "ProMeta is a decentralized virtual reality platform driven by SOL.",
+ "explorer": "https://solscan.io/token/FZVTWqHifiTAozipkCz5mtERSZQRPg9JV1GZFXXetRij",
+ "type": "SOL",
+ "symbol": "PTA",
+ "decimals": 9,
+ "status": "active",
+ "id": "FZVTWqHifiTAozipkCz5mtERSZQRPg9JV1GZFXXetRij"
+}

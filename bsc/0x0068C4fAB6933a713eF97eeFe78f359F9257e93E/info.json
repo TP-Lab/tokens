@@ -1,0 +1,11 @@
+{
+ "name": "World Cup coin",
+ "website": "http://wcc.web3metalab.com/",
+ "description": "WCC addresses the back-of-the-box operation of Sporting events-the lack of decentralisation, the scarcity of wcc-issued NFT, the commemoration of the World Cup, the collectible value.",
+ "explorer": "https://bscscan.com/token/0x0068C4fAB6933a713eF97eeFe78f359F9257e93E",
+ "type": "BEP20",
+ "symbol": "WCC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0068C4fAB6933a713eF97eeFe78f359F9257e93E"
+} 

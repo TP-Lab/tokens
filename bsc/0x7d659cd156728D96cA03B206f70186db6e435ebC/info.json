@@ -1,0 +1,9 @@
+ "name": "KCAL",
+ "website": "https://kcal.pro/",
+ "description": "KCAL is a true decentralized financial ecosystem.",
+ "explorer": "https://bscscan.com/token/0x7d659cd156728D96cA03B206f70186db6e435ebC",
+ "type": "BEP20",
+ "symbol": "KCAL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7d659cd156728D96cA03B206f70186db6e435ebC"

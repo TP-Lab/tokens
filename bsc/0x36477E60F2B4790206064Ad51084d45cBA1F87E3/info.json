@@ -1,0 +1,11 @@
+{
+  "name": "LITTLE BEE TOKEN",
+  "website": "",
+  "description": "With the smart contract of BSC dual public chain, adopt advanced web3 stacks to build an independent and autonomous decentralized network",
+  "explorer": "https://bscscan.com/address/0x36477E60F2B4790206064Ad51084d45cBA1F87E3",
+  "type": "BEP20",
+  "symbol": "LB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x36477E60F2B4790206064Ad51084d45cBA1F87E3"
+}

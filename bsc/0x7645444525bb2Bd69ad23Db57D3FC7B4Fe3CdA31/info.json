@@ -1,0 +1,12 @@
+{ 
+"name": "Bitcoin Dao
+",
+"website": "http://daoswap.financial",
+"description": "A tribute to Satoshi Nakamoto who created Bitcoin.",
+"explorer": "https://bscscan.com/token/0x7645444525bb2Bd69ad23Db57D3FC7B4Fe3CdA31",
+"type": "BEP20",
+"symbol": "BTCD",
+"decimals": 18,
+"status": "active",
+"id": "0x7645444525bb2Bd69ad23Db57D3FC7B4Fe3CdA31"
+}

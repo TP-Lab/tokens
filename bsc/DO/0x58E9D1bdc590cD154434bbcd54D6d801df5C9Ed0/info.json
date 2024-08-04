@@ -1,0 +1,11 @@
+{
+  "name": "DO  Token",
+  "website": "https://dogekingswaps.com",
+  "description": "BSC",
+  "explorer": "https://bscscan.com/token/0x58e9d1bdc590cd154434bbcd54d6d801df5c9ed0",
+  "type": "BEP20",
+  "symbol": "DO ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x58E9D1bdc590cD154434bbcd54D6d801df5C9Ed0"
+}

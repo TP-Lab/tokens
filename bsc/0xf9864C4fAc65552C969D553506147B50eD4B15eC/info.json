@@ -1,0 +1,11 @@
+{ 
+"name": "K0Army",
+"website": "https://K0Army.club",
+"description": "K0Army is automatic dividend K0, just hold it, K0 automatically to YOUR wallet",
+"explorer": "https://bscscan.com/token/0xf9864C4fAc65552C969D553506147B50eD4B15eC",
+"type": "BEP20",
+"symbol": "K0A",
+"decimals": 0,
+"status": "active",
+"id": "0xf9864C4fAc65552C969D553506147B50eD4B15eC"
+}

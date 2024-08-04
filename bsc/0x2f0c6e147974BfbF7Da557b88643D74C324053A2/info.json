@@ -1,0 +1,11 @@
+{
+    "name": "Catcoin",
+    "website": "https://www.catcoincrypto.me/",
+    "description": "Catcoin was launched on November 26, 2021 by Miaoshi Nekomoto (Satoshi Nakamoto's Cat) as a community-influenced project with big goals but little funding. Renounced by Miaoshi shortly after launch, Catcoin is now completely owned and run by its amazing community.",
+    "explorer": "https://bscscan.com/token/0x2f0c6e147974bfbf7da557b88643d74c324053a2",
+    "type": "BEP20",
+    "symbol": "CATS",
+    "decimals": 0,
+    "status": "active",
+    "id": "0x2f0c6e147974BfbF7Da557b88643D74C324053A2"
+   }

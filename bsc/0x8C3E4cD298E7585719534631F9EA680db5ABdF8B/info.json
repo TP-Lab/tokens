@@ -1,0 +1,11 @@
+{
+ "name": "Gorilla",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x8C3E4cD298E7585719534631F9EA680db5ABdF8B",
+ "type": "BEP20",
+ "symbol": "Gorilla",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8C3E4cD298E7585719534631F9EA680db5ABdF8B"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "X Doge",
+ "website": "https://xdoge.app",
+ "description": "X Doge is a cryptocurrency that strives to provide wide ranging DeFi services.",
+ "explorer": "https://bscscan.com/token/0xA2086F4a3955A520A1743D68CDbcf064Ee1746Cd",
+ "type": "BEP20",
+ "symbol": "X",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xA2086F4a3955A520A1743D68CDbcf064Ee1746Cd"
+}

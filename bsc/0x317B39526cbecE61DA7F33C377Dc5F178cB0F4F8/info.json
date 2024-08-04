@@ -1,0 +1,11 @@
+{
+ "name": "MDEX",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x317B39526cbecE61DA7F33C377Dc5F178cB0F4F8",
+ "type": "BEP20",
+ "symbol": "MDEX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x317B39526cbecE61DA7F33C377Dc5F178cB0F4F8"
+}

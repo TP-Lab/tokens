@@ -1,0 +1,11 @@
+{
+ "name": "OkxCat",
+ "website": "...",
+ "description": "...",
+ "explorer": "https://www.oklink.com/zh-cn/okc/address/0x8810f555e39784810683f0a70c4c7735241512be",
+ "type": "KIP20",
+ "symbol": "OkxCat",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8810f555e39784810683f0a70c4c7735241512be"
+}

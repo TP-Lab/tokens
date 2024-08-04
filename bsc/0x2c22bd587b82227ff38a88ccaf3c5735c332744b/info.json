@@ -1,0 +1,11 @@
+{
+    "name": "NRBTC",
+    "website": "http://www.nirvanarebornft.com/?utm_source=tokenpocket",
+    "description": "NRB｜涅槃重生！向阳而生！逆风而行！",
+    "explorer": "https://bscscan.com/token/0x2c22bd587b82227ff38a88ccaf3c5735c332744b",
+    "type": "BEP20",
+    "symbol": "NRBTC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2c22bd587b82227ff38a88ccaf3c5735c332744b"
+   }

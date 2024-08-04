@@ -1,0 +1,11 @@
+{
+ "name": "GDP",
+ "website": "-",
+ "description": "GDP is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x8624B3A4F29620390d06286DF207F6791C243389",
+ "type": "BEP20",
+ "symbol": "GDP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8624B3A4F29620390d06286DF207F6791C243389"
+}

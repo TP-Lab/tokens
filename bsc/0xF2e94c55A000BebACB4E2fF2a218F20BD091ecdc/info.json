@@ -1,0 +1,11 @@
+{
+ "name": "BSTCToken",
+ "website": "https://bscscan.com/token/0xF2e94c55A000BebACB4E2fF2a218F20BD091ecdc",
+ "description": "BSTC, also known as Quantum Coin, has a total issuance of 21 million pieces and has strong ecological application scenarios in fields such as web3, NFT, metaverse, and online gaming in the future!",
+ "explorer": "https://bscscan.com/token/0xF2e94c55A000BebACB4E2fF2a218F20BD091ecdc",
+ "type": "BEP20",
+ "symbol": "BSTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF2e94c55A000BebACB4E2fF2a218F20BD091ecdc"
+}

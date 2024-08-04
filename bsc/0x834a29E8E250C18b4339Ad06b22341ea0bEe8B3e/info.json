@@ -1,0 +1,11 @@
+{
+  "name": "OASI Experimento",
+  "website": "",
+  "description": "OASI is a blockchain decentralized endowment insurance experiment launched by (UAE Endowment Insurance Foundation) and the global blockchain enthusiasts in a fair way. It adopts the logic and technology of dei (decentralized finance), without any intervention of centralized institutions and individuals, and is a simulation experiment of fair participation. The experiment achieves absolute fairness and transparency on the chain, 0 reservation, 0 technical fee. (The block can be checked) This experiment uses the blockchain decentralization technology to explore the feasibility of private joint and mutual pension, and rejects any legal tender to participate in the experiment.",
+  "explorer": "https://bscscan.com/token/0x834a29E8E250C18b4339Ad06b22341ea0bEe8B3e",
+  "type": "BEP20",
+  "symbol": "OASI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x834a29E8E250C18b4339Ad06b22341ea0bEe8B3e"
+}

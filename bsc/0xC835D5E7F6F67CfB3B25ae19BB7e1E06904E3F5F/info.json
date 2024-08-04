@@ -1,0 +1,11 @@
+{
+ "name": "BtcKing Coin",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xc835d5e7f6f67cfb3b25ae19bb7e1e06904e3f5f",
+ "type": "BEP20",
+ "symbol": "BtcKing",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC835D5E7F6F67CfB3B25ae19BB7e1E06904E3F5F"
+}

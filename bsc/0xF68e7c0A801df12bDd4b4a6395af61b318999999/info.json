@@ -1,0 +1,11 @@
+{
+ "name": "DNBS",
+ "website": "-",
+ "description": "DNBS is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xF68e7c0A801df12bDd4b4a6395af61b318999999",
+ "type": "BEP20",
+ "symbol": " DNBS ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF68e7c0A801df12bDd4b4a6395af61b318999999"
+}

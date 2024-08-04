@@ -1,0 +1,11 @@
+{
+	"name": “ShadowFi”,
+	"website": "https://shadowfi.com”,
+	"description": "ShadowFi offramps crypto from BSC to real-world private spending.",
+	"explorer": "https://bscscan.com/token/0x91d5546564A31CE5f0f4F3302C55f6921E1916Af",
+	"type": "BEP20",
+	"symbol": "SDF",
+	"decimals": 9,
+	"status": "active",
+	"id": "0x91d5546564a31ce5f0f4f3302c55f6921e1916af"
+   }

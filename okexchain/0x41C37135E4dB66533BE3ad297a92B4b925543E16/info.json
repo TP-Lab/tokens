@@ -1,0 +1,11 @@
+{
+ "name": "HTS",
+ "website": "https://www.hts.vc",
+ "description": "Based on blockchain technology, HTS builds a decentralized, transparent and shared ecosystem to realize game mining.",
+ "explorer": "https://www.oklink.com/zh-cn/oec/tokenAddr/0x41c37135e4db66533be3ad297a92b4b925543e16",
+ "type": "ERC20",
+ "symbol": "HTS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x41C37135E4dB66533BE3ad297a92B4b925543E16"
+}

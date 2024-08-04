@@ -1,0 +1,11 @@
+{
+ "name": "LayerDao",
+ "website": "https://twitter.com/Layer__DAO",
+ "description": "The ecological governance token of the Layer DAO full-chain ecological platform. Through the three-stage development of the platform, this token has accumulated a large number of users and ecological application scenarios, providing Layer Zero main network traffic and data, becoming the first full-chain ecosystem on the Layer Zero chain. king.",
+ "explorer": "https://bscscan.com/token/0x1d65cb57efb96c674aede0c3423d41fc6fb76fe7",
+ "type": "BEP20",
+ "symbol": "LDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1D65Cb57eFB96c674aede0c3423D41FC6fB76FE7"
+}

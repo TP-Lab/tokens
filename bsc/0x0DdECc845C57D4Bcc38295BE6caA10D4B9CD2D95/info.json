@@ -1,0 +1,11 @@
+{
+ "name": "PEPEPLUS Token",
+ "website": "https://omniswap.io",
+ "description": "PEPE PLUS, OMNISWAP's first ecosystem token. PEPE PLUS will play a vital role in areas like liquidity mining and value transfer, empowering community members to better participate and share in the ecosystem's benefits.",
+ "explorer": "https://bscscan.com/token/0x0DdECc845C57D4Bcc38295BE6caA10D4B9CD2D95",
+ "type": "BEP20",
+ "symbol": "PEPEPLUS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0DdECc845C57D4Bcc38295BE6caA10D4B9CD2D95"
+}

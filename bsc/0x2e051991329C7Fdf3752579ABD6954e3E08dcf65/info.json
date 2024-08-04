@@ -1,0 +1,11 @@
+{
+ "name": "Alpha",
+ "website": "https://alphabot.vip/?ref=0x0000000002",
+ "description": "Alpha robot provides users with a non-destructive mining mode, and becoming an employer allows you to gain more ALP tokens from the trading pool without expending energy, and realize daily income.",
+ "explorer": "https://bscscan.com/token/0x2e051991329C7Fdf3752579ABD6954e3E08dcf65",
+ "type": "BEP20",
+ "symbol": "ALP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2e051991329C7Fdf3752579ABD6954e3E08dcf65"
+}

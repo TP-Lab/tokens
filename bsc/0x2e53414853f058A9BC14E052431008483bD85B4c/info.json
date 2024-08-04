@@ -1,0 +1,11 @@
+{
+ "name": "Grok",
+ "website": "https://grokx.codes",
+ "description": "Grok and GPT-4 belong to a class of AI models known as Large Language Models.",
+ "explorer": "https://bscscan.com/token/0x2e53414853f058A9BC14E052431008483bD85B4c",
+ "type": "BEP20",
+ "symbol": "GROK",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2e53414853f058A9BC14E052431008483bD85B4c"
+}

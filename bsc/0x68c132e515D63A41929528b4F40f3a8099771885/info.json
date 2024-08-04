@@ -1,0 +1,11 @@
+{
+ "name": "Gameking",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x68c132e515D63A41929528b4F40f3a8099771885",
+ "type": "BEP20",
+ "symbol": "Gameking",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x68c132e515D63A41929528b4F40f3a8099771885"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BB",
+ "website": ".",
+ "description": "BB Token , a social experiment for simple Big Burning mechanism. ",
+ "explorer": "https://bscscan.com/token/0x5672792829A5847911220534dD19822c96557271",
+ "type": "BEP20",
+ "symbol": "BB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5672792829A5847911220534dD19822c96557271"
+}

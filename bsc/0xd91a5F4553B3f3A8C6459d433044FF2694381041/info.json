@@ -1,0 +1,11 @@
+{
+ "name": "optimum earn track",
+ "website": "https://www.oettoken.com/",
+ "description": "Optimum Earn Track（簡稱OET）是由OET DAO社區發起的基於BSC智能鏈發行的共識合約協議，合約代碼開源，權限丟棄，以公平、公正、公開，DAO治理的方式建設超強共識多場景應用生態。",
+ "explorer": "https://bscscan.com/token/0xd91a5f4553b3f3a8c6459d433044ff2694381041",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd91a5F4553B3f3A8C6459d433044FF2694381041"
+}

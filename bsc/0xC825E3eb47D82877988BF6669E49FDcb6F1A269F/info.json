@@ -1,0 +1,11 @@
+{
+ "name": "WEB3-DAO",
+ "website": "https://www.metamickey.co/",
+ "description": "UMI-WEB3 is a decentralized finance (DeFi) algorithmic money market protocol on BNB Chain.",
+ "explorer": "https://bscscan.com/token/0xc825e3eb47d82877988bf6669e49fdcb6f1a269f",
+ "type": "BEP20",
+ "symbol": "UMI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC825E3eb47D82877988BF6669E49FDcb6F1A269F"
+}

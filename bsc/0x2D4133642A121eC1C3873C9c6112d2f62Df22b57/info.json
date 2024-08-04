@@ -1,0 +1,11 @@
+{
+ "name": "Detodocoin",
+ "website": "https://www.detodocointoken.org/",
+ "description": "A perfect token to grow financially",
+ "explorer": "https://bscscan.com/token/0x2d4133642a121ec1c3873c9c6112d2f62df22b57",
+ "type": "BEP20",
+ "symbol": "DTCN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2D4133642A121eC1C3873C9c6112d2f62Df22b57"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Worldcoin",
+ "website": "https://worldcoin.org",
+ "description": "A more human internet with global proof of personhood. Privacy‑First. Self‑custodial. Decentralized.",
+ "explorer": "https://bscscan.com/token/0xe9ce910e755f4982b4976d31cf4085dc1bdf69c7",
+ "type": "BEP20",
+ "symbol": "WLD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE9cE910e755F4982b4976D31cf4085Dc1BDF69C7"
+}

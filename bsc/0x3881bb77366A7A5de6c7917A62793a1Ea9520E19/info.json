@@ -1,0 +1,11 @@
+{
+    "name": "LSCB Token",
+    "website": "https://lscbtoken.com/",
+    "description": "LSCB is a DAO-autonomous Defi currency, but it solves the pain points of Defi promotion through the project ecology. It uses a mechanism to precipitate and destroy LSCB, thereby achieving a minimum price that continues to rise, and the price of LSCB can never break.",
+    "explorer": "https://bscscan.com/token/0x3881bb77366a7a5de6c7917a62793a1ea9520e19",
+    "type": "IERC20",
+    "symbol": "LSCB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3881bb77366A7A5de6c7917A62793a1Ea9520E19"
+   }

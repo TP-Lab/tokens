@@ -1,0 +1,11 @@
+{
+ "name": "GOLANG",
+ "website": "",
+ "description": "GOLANG is an integrated DeFi platform designed to meet the future needs of the industry and serve as a gateway for users to connect to any DeFi service on multiple blockchains. It accomplishes this mission through various technologies such as GLG wallet, GLG exchange, GLG public chain, and cross chain bridge.",
+ "explorer": "https://bscscan.com/token/0x0aB9D2AdcA4cE4Cd6F6CAc51f3e42ACBBC5d1b2D",
+ "type": "BEP20",
+ "symbol": "GLG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0aB9D2AdcA4cE4Cd6F6CAc51f3e42ACBBC5d1b2D"
+}

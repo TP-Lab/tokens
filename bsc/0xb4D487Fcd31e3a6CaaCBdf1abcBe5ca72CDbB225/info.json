@@ -1,0 +1,11 @@
+{
+ "name": "MochaSwap Token",
+ "website": "http://www.mochaswap.xyz/",
+ "description": "MochaSwap Token.",
+ "explorer": "https://bscscan.com/token/0xb4D487Fcd31e3a6CaaCBdf1abcBe5ca72CDbB225",
+ "type": "BEP20",
+ "symbol": "MCA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb4D487Fcd31e3a6CaaCBdf1abcBe5ca72CDbB225"
+}

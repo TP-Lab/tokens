@@ -1,0 +1,11 @@
+{
+  "name": "ETERNAL EXCHANGE TOKEN",
+  "website": "https://www.etnex.world",
+  "description": "Eternal Exchange, ETNEX, was established in 2020, not only as a cryptocurrency exchange but also as a forward-thinking financial technology company that combines innovative technology with global expertise. We focus on artificial intelligence (AI), Web3, and metaverse technologies by seamlessly integrating advanced technologies into everyday life, we are transforming the digital world and providing users with opportunities in areas like AI trading.",
+  "explorer": "https://bscscan.com/token/0x74b1Ca751067F3cd13Fdf18c11EC3f502ad747A6",
+  "type": "BEP20",
+  "symbol": "ETNEX",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x74b1Ca751067F3cd13Fdf18c11EC3f502ad747A6"
+}

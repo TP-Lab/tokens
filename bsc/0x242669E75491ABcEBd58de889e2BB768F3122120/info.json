@@ -1,0 +1,11 @@
+{
+ "name": "Super Car SPT",
+ "website": "-",
+ "description": "SPT is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x242669E75491ABcEBd58de889e2BB768F3122120",
+ "type": "BEP20",
+ "symbol": "SPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x242669E75491ABcEBd58de889e2BB768F3122120"
+}

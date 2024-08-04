@@ -1,0 +1,11 @@
+{undefined
+ "name": "BTCB Token",
+ "website": "",
+ "description": "Let everyone have their own bitcoin.",
+ "explorer": "https://bscscan.com/token/0x39eEC68DB00Ee576ccBdB49Fb76DDEe1e7617117",
+ "type": "BEP20",
+ "symbol": "BTCB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x39eEC68DB00Ee576ccBdB49Fb76DDEe1e7617117"
+}

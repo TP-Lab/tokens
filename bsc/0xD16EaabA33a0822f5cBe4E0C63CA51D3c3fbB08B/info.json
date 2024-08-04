@@ -1,0 +1,11 @@
+{
+ "name": "X AI",
+ "website": "https://xai.codes",
+ "description": "X AI intends to promptly establish a robust presence in the DeFi market by offering exceptional use cases.",
+ "explorer": "https://bscscan.com/address/0xD16EaabA33a0822f5cBe4E0C63CA51D3c3fbB08B",
+ "type": "BEP20",
+ "symbol": "XAI",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xD16EaabA33a0822f5cBe4E0C63CA51D3c3fbB08B"
+}

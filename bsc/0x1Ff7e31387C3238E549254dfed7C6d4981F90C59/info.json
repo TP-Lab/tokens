@@ -1,0 +1,11 @@
+{
+ "name": "TFWC2022",
+ "website": "http://TFWC2022.XYZ",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x1Ff7e31387C3238E549254dfed7C6d4981F90C59",
+ "type": "BEP20",
+ "symbol": "TFWC2022",
+ "decimals": 18,
+ "status": "not open",
+ "id": "0x1Ff7e31387C3238E549254dfed7C6d4981F90C59"
+}

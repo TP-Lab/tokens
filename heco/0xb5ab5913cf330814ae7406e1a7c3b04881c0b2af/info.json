@@ -1,0 +1,11 @@
+{
+ "name": "HTCQ",
+ "website": "http://htcq.host3v.club",
+ "description": "HTCQ community, DAO organization circulation of equity certificates and platform tokens",
+ "explorer": "https://www.hecoinfo.com/en-us/token/0xb5ab5913cf330814ae7406e1a7c3b04881c0b2af",
+ "type": "HRC20",
+ "symbol": "HTCQ",
+ "decimals": 0,
+ "status": "active",
+ "id": "0xb5ab5913cf330814ae7406e1a7c3b04881c0b2af"
+}

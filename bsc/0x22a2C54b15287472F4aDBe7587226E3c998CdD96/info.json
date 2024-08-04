@@ -1,0 +1,11 @@
+{
+ "name": "MDAO USD",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x22a2C54b15287472F4aDBe7587226E3c998CdD96",
+ "type": "BEP20",
+ "symbol": "MUSD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x22a2C54b15287472F4aDBe7587226E3c998CdD96"
+}

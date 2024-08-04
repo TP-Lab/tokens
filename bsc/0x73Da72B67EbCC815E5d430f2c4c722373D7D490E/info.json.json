@@ -1,0 +1,11 @@
+{
+ "name": "BabyApe",
+ "website": "https://www.baby-ape.com/",
+ "description": " BabyApe Coin is a meme coin on BSC that similar to existing ones such as ApeCoin.",
+ "explorer": "https://bscscan.com/token/0x73Da72B67EbCC815E5d430f2c4c722373D7D490E",
+ "type": "BEP20",
+ "symbol": "BabyApe",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x73Da72B67EbCC815E5d430f2c4c722373D7D490E"
+}

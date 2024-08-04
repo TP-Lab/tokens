@@ -1,0 +1,11 @@
+{
+ "name": "YU",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x488123b6185a42d9640e369DB9E77acBeE33DA72",
+ "type": "BEP20",
+ "symbol": "YU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x488123b6185a42d9640e369DB9E77acBeE33DA72"
+}

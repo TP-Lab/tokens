@@ -1,0 +1,11 @@
+{
+  "name": "Fire DAO Token",
+  "website": "https://dapp.firelink.finance/#/",
+  "description": "Fire is a decentralized community autonomous organization initiated by global geeks based on blockchain technology. At the same time, it is also a huge pan blockchain ecosystem. It integrates Dao into DEX, gamefi, NFT, mall, socielfi, chain, wallet and other ecosystems, forming a complete Dao ecological economic circle, aiming to continue the technical spirit of Dao and redefine the world of Dao. Twitter: https://twitter.com/firelinkdao Btok: https://s.denglianqiu.cn/FIREandTINDER ",
+  "explorer": "https://bscscan.com/token/0x036f3821B947970127782897ee687354D19F6371",
+  "type": "BEP20",
+  "symbol": "FDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x036f3821B947970127782897ee687354D19F6371"
+ }

@@ -1,0 +1,11 @@
+{
+ "name": "SSIDToken",
+ "website": "https://ssidmeta.io/#/home",
+ "description": "SSID Protocol enable you to connect your finance identity in the virtual world.",
+ "explorer": "https://bscscan.com/token/0xC3241e111CCd9CF6c5a11dADE9498070082F2ed3",
+ "type": "BEP20",
+ "symbol": "SSID",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC3241e111CCd9CF6c5a11dADE9498070082F2ed3"
+}

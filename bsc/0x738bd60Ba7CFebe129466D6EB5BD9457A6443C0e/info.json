@@ -1,0 +1,11 @@
+{
+ "name": "DOGEkiller",
+ "website": "",
+ "description": "DOGEkiller uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://bscscan.com/token/0x738bd60Ba7CFebe129466D6EB5BD9457A6443C0e",
+ "type": "BEP20",
+ "symbol": "DOGEkiller",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x738bd60Ba7CFebe129466D6EB5BD9457A6443C0e"
+}

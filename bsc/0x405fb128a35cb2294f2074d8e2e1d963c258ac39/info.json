@@ -1,0 +1,11 @@
+{
+ "name": "Firstmoon",
+ "website": "https://firstmoon.app/",
+ "description": "Firstmoon from Planet Moonstar in the country of Smartchain Land where I live in a moon-shaped house.",
+ "explorer": "https://bscscan.com/address/0x405fB128a35cb2294f2074D8e2e1d963C258aC39",
+ "type": "BEP-20",
+ "symbol": "Firstmoon",
+ "decimals": 3,
+ "status": "active",
+ "id": "0x405fB128a35cb2294f2074D8e2e1d963C258aC39"
+}

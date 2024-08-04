@@ -1,0 +1,11 @@
+{
+ "name": "Niao",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x8e1eaa85ce4353fa8c7fece08a8508f3ccd39632",
+ "type": "BEP20",
+ "symbol": "Niao",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8e1eaa85ce4353fa8c7fece08a8508f3ccd39632"
+}

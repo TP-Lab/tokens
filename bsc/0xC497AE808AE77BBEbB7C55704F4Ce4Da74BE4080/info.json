@@ -1,0 +1,11 @@
+{
+ "name": "WEEC DAO",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0xC497AE808AE77BBEbB7C55704F4Ce4Da74BE4080",
+ "type": "BEP20",
+ "symbol": "WEED",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC497AE808AE77BBEbB7C55704F4Ce4Da74BE4080"
+}

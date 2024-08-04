@@ -1,0 +1,11 @@
+{
+    "name": "Heavenly Book",
+    "website": "https://heavenly.org",
+    "description": "Coconut home army sent together Heavenly Book",
+    "explorer": "https://bscscan.com/address/0x4Da505612ee34105e43d007ef78E8bCfF2725D63",
+    "type": "BEP20",
+    "symbol": "HBK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4Da505612ee34105e43d007ef78E8bCfF2725D63"
+}

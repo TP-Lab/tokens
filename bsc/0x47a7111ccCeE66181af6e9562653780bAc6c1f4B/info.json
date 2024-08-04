@@ -1,0 +1,11 @@
+{
+ "name": "GLZ",
+ "website": ".",
+ "description": "A great DAO, unite all, unite strength, build the development of the whole system",
+ "explorer": "https://bscscan.com/token/0x47a7111cccee66181af6e9562653780bac6c1f4b",
+ "type": "BEP20",
+ "symbol": "GLZ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x47a7111ccCeE66181af6e9562653780bAc6c1f4B"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "SaharaToken",
+ "website": "-",
+ "description": "SaharaToken is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x257d455c84eCDB61bC4F71B612f3AD83f2d5E167",
+ "type": "BEP20",
+ "symbol": " SaharaToken ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x257d455c84eCDB61bC4F71B612f3AD83f2d5E167"
+}

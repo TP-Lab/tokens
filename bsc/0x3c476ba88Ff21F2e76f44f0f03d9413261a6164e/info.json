@@ -1,0 +1,11 @@
+{
+ "name": "DAYUDAO",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0x3c476ba88Ff21F2e76f44f0f03d9413261a6164e",
+ "type": "BEP20",
+ "symbol": "DAYUDAO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3c476ba88Ff21F2e76f44f0f03d9413261a6164e"
+}

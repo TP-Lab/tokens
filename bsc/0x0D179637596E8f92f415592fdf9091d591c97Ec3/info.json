@@ -1,0 +1,11 @@
+{
+ "name": "XJT Token",
+ "website": "https://goodswap.club",
+ "description": "A leading multi-chain wallet that supports BSC.",
+ "explorer": "https://bscscan.com/token/0x0D179637596E8f92f415592fdf9091d591c97Ec3",
+ "type": "BEP20",
+ "symbol": "XJT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0D179637596E8f92f415592fdf9091d591c97Ec3"
+}

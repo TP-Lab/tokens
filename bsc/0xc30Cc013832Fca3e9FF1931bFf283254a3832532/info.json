@@ -1,0 +1,11 @@
+{
+ "name": "belgrade beogradcoin",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xc30Cc013832Fca3e9FF1931bFf283254a3832532",
+ "type": "BEP20",
+ "symbol": "BGD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc30Cc013832Fca3e9FF1931bFf283254a3832532"
+}

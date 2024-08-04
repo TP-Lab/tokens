@@ -1,0 +1,11 @@
+{
+ "name": "YGBH",
+ "website": "http://www.ygbh.pro",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x9861496f9D281bc8229e9cA8CCC30a579F699b1f",
+ "type": "BEP20",
+ "symbol": "YGBH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9861496f9D281bc8229e9cA8CCC30a579F699b1f"
+}

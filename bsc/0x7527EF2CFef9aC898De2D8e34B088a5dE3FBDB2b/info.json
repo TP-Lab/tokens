@@ -1,0 +1,11 @@
+{
+ "name": "Win Hash Meta",
+ "website": "https://www.whmeta.info/#/home",
+ "description": "Win Hash Meta creates a decentralized Meta-universe Ecology based on Binance Smart Chain (BSC) .",
+ "explorer": "https://bscscan.com/0x7527EF2CFef9aC898De2D8e34B088a5dE3FBDB2b",
+ "type": "BEP20",
+ "symbol": "WHM",
+ "decimals": 18,
+ "status": "not open",
+ "id": "0x7527EF2CFef9aC898De2D8e34B088a5dE3FBDB2b"
+}

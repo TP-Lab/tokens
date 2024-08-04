@@ -1,0 +1,11 @@
+﻿{
+  "name": "Eternal Tower",
+  "website": "http://www.etr.bi/",
+  "description": "ETR TOKEN",
+  "explorer": "https://https://bscscan.com/token/0xbb3f368492F84883a7cD15358852aa3A330A304c",
+  "type": "BEP20",
+  "symbol": "ETR",
+  "decimals": 8,
+  "status": "active",
+  "id": "0xbb3f368492F84883a7cD15358852aa3A330A304c"
+}

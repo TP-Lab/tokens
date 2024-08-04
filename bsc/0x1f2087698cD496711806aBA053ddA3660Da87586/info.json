@@ -1,0 +1,21 @@
+{
+ 
+ "name": "Valkyrie Token",
+
+ "website": "https://vkcombat.com",
+
+ "description": "VK is the platform currency of Valkyrie. Valkyrie is a card development strategy battle game with the theme of world history and mythology. It will eventually create a rich, exciting and shocking metaverse encryption world. A fair betting combat GameFi platform that integrates game,finance,and social.",
+   
+ "explorer":"https://bscscan.com/token/0x1f2087698cD496711806aBA053ddA3660Da87586",
+
+ "type": "ERC20",
+ 
+ "symbol": "VK",
+ 
+ "decimals": 8,
+
+ "status": "active",
+
+ "id": "0x1f2087698cD496711806aBA053ddA3660Da87586"
+
+}

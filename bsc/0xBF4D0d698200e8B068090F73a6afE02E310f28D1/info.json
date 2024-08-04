@@ -1,0 +1,11 @@
+{
+ "name": "Platinum",
+ "website": "https://www.bj1913.com",
+ "description": "Platinum",
+ "explorer": "https://www.bscscan.com/token/0xBF4D0d698200e8B068090F73a6afE02E310f28D1",
+ "type": "BEP20",
+ "symbol": "BJ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBF4D0d698200e8B068090F73a6afE02E310f28D1"
+}

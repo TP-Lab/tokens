@@ -1,0 +1,11 @@
+{
+ "name": "SSR token",
+ "website": "http://www.ssrone.live/",
+ "description": "SSR currency is the top currency, SSR is an independent digital currency. Similar to Bitcoin, it emphasizes community input for open governance and sustainable funding and development in California.",
+ "explorer": "https://bscscan.com/token/0x105C1d3654b0327B589e890012865f2953c6F569",
+ "type": "BEP20",
+ "symbol": "SSR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x105C1d3654b0327B589e890012865f2953c6F569"
+} 

@@ -1,0 +1,11 @@
+{
+"name": "CCN",
+"website": "http://www.cannacoin.tech",
+"description": "ACCN是元宇宙和Web3.0的基石, 全球45位的科技公司，算力全球第一，元算力超过一千万亿,CCN是全球算力共享平台 ,聚合全球闲置算力进行整合检索，以就近原则重新分配给算力使用用户，大大降低了算力使用成本 。",
+"explorer": "https://bscscan.com/token/0x3bc1eaa2Ef413fA0E6CAC2Bb5f3CF8a8D4B83977",
+"type": "BEP20",
+"symbol": "CCN",
+"decimals": 8,
+"status": "active",
+"id": "0x3bc1eaa2Ef413fA0E6CAC2Bb5f3CF8a8D4B83977"
+}

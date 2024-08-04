@@ -1,0 +1,11 @@
+{
+ "name": "burnATM",
+ "website": "",
+ "description": "burn ATM 既是永动机也是提款机BSC首个燃烧形分红机制，持有1枚币即可开始享受暴力分红.",
+ "explorer": "https://bscscan.com/token/0x6DC1ce238862259BB768c4253aBcCAFaE88804A5",
+ "type": "BEP20",
+ "symbol": "burnATM",
+ "decimals": 18, 
+ "status": "active",
+ "id": "0x6DC1ce238862259BB768c4253aBcCAFaE88804A5"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BTGCASH",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xd54772BfD0eCd3de6E26CB4F65Bbe9A173Ced77E",
+ "type": "BEP20",
+ "symbol": "BTG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd54772BfD0eCd3de6E26CB4F65Bbe9A173Ced77E"
+}

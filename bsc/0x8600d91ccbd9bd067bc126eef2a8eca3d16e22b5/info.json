@@ -1,0 +1,11 @@
+{ 
+"name": "MBGB TOKEN",
+"website": "https://bscscan.com/token/0x8600d91ccbd9bd067bc126eef2a8eca3d16e22b5",
+"description": "MBGB is the original utility token in the Myth of freedom platform that can be used for platform governance. Users can aggregate liquidity pools on the platform, that is, ypool obtains this token to provide liquidity. Myth of freedom is a decentralized finance (DeFi) platform that aims to build a functional platform such as aggregated liquidity pools, leveraged trading platforms, and automatic market making. Myth of freedom currently provides services for blockchain technology,The platform will also release other products one after another, such as NFT Metaverse to provide more and more application service applications. ",
+"explorer": "https://bscscan.com/token/0x8600d91ccbd9bd067bc126eef2a8eca3d16e22b5",
+"type": "BEP20",
+"symbol": "MBGB",
+"decimals": 18,
+"status": "active",
+"id": "0x8600d91ccbd9bd067bc126eef2a8eca3d16e22b5"
+}

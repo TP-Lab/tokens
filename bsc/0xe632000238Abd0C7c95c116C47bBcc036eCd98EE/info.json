@@ -1,0 +1,11 @@
+{
+ "name": "Grand Tourer",
+ "website": "https://grandtourer.io",
+ "description": "GT (Grand Tourer) is a high-performance decentralized wallet based on Web3, which will be built into a global community autonomous wallet system",
+ "explorer": "https://bscscan.com/token/0xe632000238Abd0C7c95c116C47bBcc036eCd98EE",
+ "type": "BEP20",
+ "symbol": "GT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xe632000238Abd0C7c95c116C47bBcc036eCd98EE"
+}

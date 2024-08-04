@@ -1,0 +1,11 @@
+{
+ "name": "SHIKOKU INU",
+ "website": "https://shikoku.io/",
+ "description": "A decentralized memecoin experiment, set to take the world by storm.",
+ "explorer": "https://etherscan.io/token/0x24da31e7bb182cb2cabfef1d88db19c2ae1f5572",
+ "type": "ERC20",
+ "symbol": "SHIK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x24dA31e7BB182cb2cABfEF1d88db19C2AE1f5572"
+}

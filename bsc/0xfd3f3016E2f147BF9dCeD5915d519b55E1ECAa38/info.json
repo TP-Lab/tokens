@@ -1,0 +1,11 @@
+{ 
+"name": "LDCR",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0xfd3f3016E2f147BF9dCeD5915d519b55E1ECAa38",
+"type": "BEP20",
+"symbol": "LDCR",
+"decimals": 18,
+"status": "active",
+"id": "0xfd3f3016E2f147BF9dCeD5915d519b55E1ECAa38"
+}

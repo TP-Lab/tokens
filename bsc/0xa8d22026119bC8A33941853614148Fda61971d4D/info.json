@@ -1,0 +1,11 @@
+{
+ "name": "RedrubyDao",
+ "website": "https://www.redruby.live",
+ "description": "Redruby DAO is run by the nature of community autonomy and solves the pain point that the corruption of charitable funds is difficult to solve.",
+ "explorer": "https://bscscan.com/token/0xa8d22026119bC8A33941853614148Fda61971d4D",
+ "type": "BEP-20",
+ "symbol": "RRB",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xa8d22026119bC8A33941853614148Fda61971d4D"
+}

@@ -1,0 +1,11 @@
+{ 
+"name": "DIAMOND",
+"website": ".",
+"description": ". ",
+"explorer": "https://etherscan.io/token/0x4E40E998B87a377a4dDad7B476522bA562123A0d",
+"type": "ERC20",
+"symbol": "DIAMOND",
+"decimals": 9,
+"status": "active",
+"id": "0x4E40E998B87a377a4dDad7B476522bA562123A0d"
+}

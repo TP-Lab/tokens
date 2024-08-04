@@ -1,0 +1,11 @@
+{ 
+"name": "Globa DAO",
+"website": "http://gbca.co/",
+"description": "GBCA is a decentralized alliance organization centered on distributed DAO governance. It is committed to building a blockchain ecological platform, providing support and services for the diversified Metaverse, and the decentralized governance structure links the molecular structure of the entire ecological chain.",
+"explorer": "https://bscscan.com/token/0xde036645de3df4af95bfbb18dc4fc59d9f24a98a",
+"type": "BEP20",
+"symbol": "GDAO",
+"decimals": 18,
+"status": "active",
+"id": "0xde036645de3df4af95bfbb18dc4fc59d9f24a98a"
+}

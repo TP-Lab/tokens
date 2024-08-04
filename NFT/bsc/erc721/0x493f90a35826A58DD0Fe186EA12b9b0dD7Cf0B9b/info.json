@@ -1,0 +1,12 @@
+{
+	"name": "FREE ELF NFT",
+	"website": "https://bscscan.com/token/0x493f90a35826A58DD0Fe186EA12b9b0dD7Cf0B9b",
+	"description": "FREE ELF NFT《FREE ELF NFT》(自由精灵，简称FEEF) 是一款混合动漫风格的养成类Nursery GameFi。在web3.0中，这是一个你不想错过的神奇ELF NFT。拥有它，你可以更无限接近财务自由。
+创世ELF NFT是2000个独特的ELF NFT的集合--BSC智能链区块链上的独特稀有数字收藏品。ELF NFT持有者可以享有free world生态的所有福利及治理权。此外，所有NFT持有者都可以像打开盲盒一样来确定你的ELF NFT的稀有性。",
+	"explorer": "https://bscscan.com/token/0x493f90a35826A58DD0Fe186EA12b9b0dD7Cf0B9b",
+	"type": "BEP721",
+	"symbol": "FEEF",
+	"decimals": 4,
+	"status": "active",
+	"id": "0x493f90a35826A58DD0Fe186EA12b9b0dD7Cf0B9b"
+}

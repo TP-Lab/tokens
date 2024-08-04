@@ -1,0 +1,11 @@
+{
+  "name": "BFI Token",
+  "website": "https://bscscan.com/address/0x630b3af62ba5a83f62acf21eb8425d95aede6e05",
+  "description": "Big Billionaires Finance is a decentralized finance (DeFi) yield optimizer project that allows its users to spend cryptocurrencies to earn more cryptocurrencies. The ingenuity of a DeFi application is that it requires no authorization and trust, which means that anyone with a supported wallet can interact with it without a trusted intermediary. Big Billionaires Finance serves users by making it easy for them to earn returns on their crypto capital in a secure and decentralized manner. Through a set of smart contracts and multiple investment strategies, Big Billionaires Finance automatically maximizes user rewards from various liquidity pools (LPs), automated market making (AMM) projects and other liquidity mining opportunities in the DeFi ecosystem . Big Billionaires Finance is centered around its native governance token $BFI. Platform income is derived from a small percentage of all vault profits and distributed back to those holding $BFI. As a decentralized project with deep-rooted cryptocurrency thinking, Big Bilionaires Finance also has a strong governance system. Through the governance mechanism built around $BFI, decision-making power is handed over to project investors.",
+  "Explorer": "https://bscscan.com/address/0x630b3af62ba5a83f62acf21eb8425d95aede6e05",
+  "type": "BEP20",
+  "symbol": "BFI",
+  "decimal": 18,
+  "status": "active",
+  "id": "0x630b3AF62ba5A83F62Acf21Eb8425D95AeDE6E05"
+}

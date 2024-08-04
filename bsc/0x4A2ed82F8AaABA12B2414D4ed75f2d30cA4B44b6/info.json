@@ -1,0 +1,11 @@
+{
+ "name": "BOX",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/address/0x4A2ed82F8AaABA12B2414D4ed75f2d30cA4B44b6",
+ "type": "BEP20",
+ "symbol": "BOX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4A2ed82F8AaABA12B2414D4ed75f2d30cA4B44b6"
+}

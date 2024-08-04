@@ -1,0 +1,11 @@
+{
+    "name": "WGC",
+    "website": "https://twitter.com/wildginsengclub",
+    "description": "Wild ginseng base combines web3.0 concepts to create a physical asset on chain trading platform. The physical listing of wild ginseng and the uniqueness of the",
+    "explorer": "https://www.bscscan.com/token/0xCdEC75d1AcBC90452152d1C3D9Ff014C960AC9aC",
+    "type": "BEP20",
+    "symbol": "WGC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xCdEC75d1AcBC90452152d1C3D9Ff014C960AC9aC"
+ }

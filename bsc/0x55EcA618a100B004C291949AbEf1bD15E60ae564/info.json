@@ -1,0 +1,11 @@
+{
+ "name": "Smart game",
+ "website": "https://smartgame.finance",
+ "description": "Smart Finance's mission is to promote global gamefi and integrate WEB3-based Value Internet into society in a simple and efficient way.",
+ "explorer": "https://bscscan.com/token/0x55EcA618a100B004C291949AbEf1bD15E60ae564",
+ "type": "BEP20",
+ "symbol": "SMART",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x55EcA618a100B004C291949AbEf1bD15E60ae564"
+}

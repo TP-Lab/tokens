@@ -1,0 +1,11 @@
+{
+    "name": "BitValley",
+    "website": "https://bitvalley.io",
+    "description": "The Bitvalley idea is to be the biggest ecosystem in Crypto,All applications developed will use it for circulation, all assets are obtained by on-chain contracts.",
+    "explorer": "https://bscscan.com/address/0xdD8B490001D081eD065239644dae8D1a77b8A91F",
+    "type": "BEP20",
+    "symbol": "BitV",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdD8B490001D081eD065239644dae8D1a77b8A91F"
+   } 

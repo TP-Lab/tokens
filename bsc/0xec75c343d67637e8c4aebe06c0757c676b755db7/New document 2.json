@@ -1,0 +1,11 @@
+{
+  "name": "Spacecoin",
+  "website": "https://www.spacecoin.fun/",
+  "description": "Space metaverse ecology, game tokens in metaverse games, the team has been creating a new metaverse game ecology.",
+  "explorer": "https://bscscan.com/token/0xec75c343d67637e8c4aebe06c0757c676b755db7",
+  "type": "BEP20",
+  "symbol": "SpaceCoin",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xec75c343d67637e8c4aebe06c0757c676b755db7"
+}

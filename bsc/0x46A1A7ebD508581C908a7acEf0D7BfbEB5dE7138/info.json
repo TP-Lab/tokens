@@ -1,0 +1,11 @@
+{
+    "name": "KT",
+    "website": "..",
+    "description": "Bep20 token issued on BSC chain..",
+    "explorer": "https://bscscan.com/token/0x46a1a7ebd508581c908a7acef0d7bfbeb5de7138",
+    "type": "BEP20",
+    "symbol": "KT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x46a1a7ebd508581c908a7acef0d7bfbeb5de7138"
+}

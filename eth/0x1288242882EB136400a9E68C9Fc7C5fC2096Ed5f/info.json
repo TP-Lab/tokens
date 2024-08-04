@@ -1,0 +1,11 @@
+{
+ "name": "Altman",
+ "website": "..",
+ "description": "",
+ "explorer": "https://cn.etherscan.com/token/0x1288242882EB136400a9E68C9Fc7C5fC2096Ed5f",
+ "type": "ERC20",
+ "symbol": "Sam",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1288242882EB136400a9E68C9Fc7C5fC2096Ed5f"
+}

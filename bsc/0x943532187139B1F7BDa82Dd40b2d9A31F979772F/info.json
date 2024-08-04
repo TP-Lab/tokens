@@ -1,0 +1,11 @@
+{
+ "name": "SmToken",
+ "website": "https://fhcf.xyz",
+ "description": "灵猴币（SpiritCoin）是一种源自英国的创新数字货币，其命名灵感来自于中国传统文化中灵猴献瑞的寓意。灵猴，集才智与勇气于一身的祥瑞灵物，蕴含了灵猴币对web3的美好憧憬，致力于做数字货币圈子中出淤泥而不染的存在。灵猴币作为一个在WEB3.0和NFT领域深耕发展的全生态应用平台，将携手国际web3先行者构建新时代Web3.0的先驱。",
+ "explorer": "https://bscscan.com/token/0x943532187139B1F7BDa82Dd40b2d9A31F979772F",
+ "type": "BEP20",
+ "symbol": "SM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x943532187139B1F7BDa82Dd40b2d9A31F979772F"
+}

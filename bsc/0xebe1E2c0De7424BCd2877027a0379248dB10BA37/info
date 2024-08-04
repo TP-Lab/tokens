@@ -1,0 +1,11 @@
+{
+"name": "BL",
+"website": "-",
+"description": "BL",
+"explorer": "https://bscscan.com/address/0xebe1E2c0De7424BCd2877027a0379248dB10BA37",
+"type": "BEP20",
+"symbol": "BL",
+"decimals": 18,
+"status": "active",
+"id": "0xebe1E2c0De7424BCd2877027a0379248dB10BA37"
+}

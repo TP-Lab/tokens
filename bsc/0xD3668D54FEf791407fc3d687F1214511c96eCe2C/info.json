@@ -1,0 +1,11 @@
+{
+ "name": "Braves Game Guild",
+ "website": "https://bgg.club",
+ "description": "$BGG is the DAO governance token of the BGG guild, which is distributed to guild members in the form of NFTfi, and is used to incentivize nodes and ecological builders who have made outstanding contributions to the BGG guild.",
+ "explorer": "https://bscscan.com/token/0xD3668D54FEf791407fc3d687F1214511c96eCe2C",
+ "type": "BEP20",
+ "symbol": "BGG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD3668D54FEf791407fc3d687F1214511c96eCe2C"
+}

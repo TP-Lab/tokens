@@ -1,0 +1,11 @@
+{ 
+"name": "Wrapped GPT",
+"website": ".",
+"description": "WGPT is a very important ecological governance token of Aiswap. ",
+"explorer": "https://bscscan.com/token/0x1f415255f7E2a8546559a553E962dE7BC60d7942",
+"type": "BEP20",
+"symbol": "WGPT",
+"decimals": 18,
+"status": "active",
+"id": "0x1f415255f7E2a8546559a553E962dE7BC60d7942"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Farmer and Thief",
+ "website": "http://www.farmerandthief.io/html/game/",
+ "description": "farmer and thief is a chain game that creates a rural ecosystem for players.",
+ "explorer": "https://bscscan.com/token/0xCC617005ADB833Ff56A9DeEcc70d36d74959A5f8",
+ "type": "BEP20",
+ "symbol": "FNT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCC617005ADB833Ff56A9DeEcc70d36d74959A5f8"
+}

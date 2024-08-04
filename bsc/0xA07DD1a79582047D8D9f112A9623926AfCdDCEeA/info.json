@@ -1,0 +1,11 @@
+{
+  "name": "NFT Store ",
+  "website": "https://bscscan.com/token/0xA07DD1a79582047D8D9f112A9623926AfCdDCEeA",
+  "description": "SuperMeta is an ecological collection of NFTs based on the bsc chain. Your NFT can be used as the club's membership card, and it is also a symbol of the club's only rights granted to members.",
+  "explorer": "https://bscscan.com/token/0xA07DD1a79582047D8D9f112A9623926AfCdDCEeA",
+  "type": "BEP20",
+  "symbol": "NFTS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xA07DD1a79582047D8D9f112A9623926AfCdDCEeA"
+}

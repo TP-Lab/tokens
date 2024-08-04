@@ -1,0 +1,11 @@
+{
+"name": "HG",
+"website": "-",
+"description": "HG皇冠是2022年伟大的社会实验，完全真正意义上的去中心化项目,HG提供分布式计算资源、产品和服务。以优质的服务，卓越的科技能力打造从中心化互联网到分布式互联网的各类解决方案。未来目标成为全球最值得信赖的分布式云计算一站式服务生态位领航者",
+"explorer": "https://bscscan.com/address/0x5DDD28577a7635372517Cc52dDAcbCd05e48C87f",
+"type": "BEP20",
+"symbol": "HG",
+"decimals": 9,
+"status": "active",
+"id": "0x5DDD28577a7635372517Cc52dDAcbCd05e48C87f"
+}

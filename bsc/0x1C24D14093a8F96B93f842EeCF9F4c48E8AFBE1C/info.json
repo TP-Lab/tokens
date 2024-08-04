@@ -1,0 +1,11 @@
+{
+ "name": "WBF",
+ "website": "https://tokenpocket.pro",
+ "description": "由WBF(World Blockchain Fashion世界区块链风尚）开发团队推出的首款自研游戏：“Racing Player One”, 中文翻译《头号玩家》，是受原著电影启发的一款基于元宇宙概念+DeFi+NFT，以赛车为题材的GameFi游戏。任何人都可以通过参与游戏和对Racing Player One游戏世界作出贡献来获得WBF奖励。",
+ "explorer": "https://bscscan.com/token/0x1C24D14093a8F96B93f842EeCF9F4c48E8AFBE1C",
+ "type": "BEP20",
+ "symbol": "WBF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1C24D14093a8F96B93f842EeCF9F4c48E8AFBE1C"
+}

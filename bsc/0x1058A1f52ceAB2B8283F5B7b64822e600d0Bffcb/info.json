@@ -1,0 +1,11 @@
+{
+ "name": "ENERGY",
+ "website": "http://nrgdefi.com/",
+ "description": "This is an excellent project and we will produce multiple applications.",
+ "explorer": "https://bscscan.com/address/0x1058A1f52ceAB2B8283F5B7b64822e600d0Bffcb",
+ "type": "BEP20",
+ "symbol": "NRG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1058A1f52ceAB2B8283F5B7b64822e600d0Bffcb"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Matrix DAO",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x35803e77c3163FEd8A942536C1c8e0d5bF90f906",
+ "type": "BEP20",
+ "symbol": "MAI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x35803e77c3163FEd8A942536C1c8e0d5bF90f906"
+}

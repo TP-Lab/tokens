@@ -1,0 +1,11 @@
+{
+ "name": "Russian Cat Inu",
+ "website": "https://russiancatinu.com",
+ "description": "Russian Cat Inu comes at a time when the MEME Token trend is gaining popularity. Represent the strongest nation in the world and to save the russian cat.",
+ "explorer": "https://bscscan.com/token/0x14ca9ac097266296a4c74f1b3d85676c877b6ffb",
+ "type": "BEP20",
+ "symbol": "RCAT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x14ca9ac097266296a4c74f1b3d85676c877b6ffb"
+}

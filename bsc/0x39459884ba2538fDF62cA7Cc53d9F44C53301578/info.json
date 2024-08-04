@@ -1,0 +1,11 @@
+{
+    "name":"UP",
+    "website":"https://up123.io/",
+    "description":"$UP is the most popular meme in 2022, the first meme with auto-bonus for LP holders",
+    "explorer":"https://bscscan.com/token/0x39459884ba2538fDF62cA7Cc53d9F44C53301578",
+    "type":"BEP20",
+    "symbol":"UP",
+    "decimals":18,
+    "status":"active",
+    "id":"0x39459884ba2538fDF62cA7Cc53d9F44C53301578"
+}

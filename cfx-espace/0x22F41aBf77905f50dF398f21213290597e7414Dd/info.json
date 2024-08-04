@@ -1,0 +1,11 @@
+{
+ "name": "Swappi Token",
+ "website": "https://swappi.io/",
+ "description": "Swap or provide liquidity on the swappi Protocol",
+ "explorer": "https://evm.confluxscan.net/token/0x22f41abf77905f50df398f21213290597e7414dd",
+ "type": "ERC20",
+ "symbol": "PPI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x22F41aBf77905f50dF398f21213290597e7414Dd"
+}

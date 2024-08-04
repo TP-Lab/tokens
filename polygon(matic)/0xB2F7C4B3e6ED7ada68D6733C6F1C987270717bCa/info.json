@@ -1,0 +1,11 @@
+{
+    "name": "Tychex Token",
+    "website": "https://tychex.org",
+    "description": "Tychex Coin (TC) is the circulation token of the Tychex exchange. Users who hold sufficient TC can enjoy transaction fee discounts and pay with equivalent TC. In the future, TC will be applied to more of Tychex's ecology on the scene.",
+    "explorer": "https://polygonscan.com/token/0xB2F7C4B3e6ED7ada68D6733C6F1C987270717bCa",
+    "type": "ERC20",
+    "symbol": "TC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB2F7C4B3e6ED7ada68D6733C6F1C987270717bCa"
+}

@@ -1,0 +1,12 @@
+{
+ "name": "BTCF",
+ "website": "https://www.btcf365.com/index.html",
+ "description": "BTCF, is native yuan universe world game series of a governance currency battle "ocean", "sea battle" role equipment linkage chain game "glasses-free 3 d world", through the combination of highly modular component technology, to create and share spirit together, jointly explore community ecological construction, the infinite application scenario of both players and developers; Create a universally recognized ecological asset, and make each chain game asset uniquely valuable, allowing players to enjoy their inner content.
+The BTCF ecological chain is defined and shared by the community through a sustainable economic system to achieve "participants, win-win; Crowdfunders, earn together ", to create a complete meta-universe original blockchain aggregation ecology, so that more players will get the game experience at the same time will get the rewards of aggregation ecology.",
+ "explorer": "https://bscscan.com/token/0xd259F5621f0b3e1ED575B6169411cC9bcc44c851",
+ "type": "BEP20",
+ "symbol": "BTCF",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xd259F5621f0b3e1ED575B6169411cC9bcc44c851"
+}

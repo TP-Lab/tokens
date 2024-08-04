@@ -1,0 +1,11 @@
+{
+ "name": "Burn Income Continued Coin",
+ "website": "https://bicc.link",
+ "description": "BICSWAP: Create decentralized Multi Chain and Cross chain NFT digital asset trading platform.",
+ "explorer": "https://bscscan.com/token/0x9D16E6491633efbF218E4fC2ee3333E5b35a1d80",
+ "type": "BEP20",
+ "symbol": "BICC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9D16E6491633efbF218E4fC2ee3333E5b35a1d80"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Public Security",
+ "website": "http://www.pstdefi.com",
+ "description": " pst总发行量16.8万，无限销毁机制可销毁到0枚，最后5001枚代币可保险基金池进行资金兑换，最后一枚币将会成为币王。打造安全可靠的去中心化金融服务平台！",
+ "explorer": "https://bscscan.com/0x8a42899cc6d26b55967c5327e94e647fec48eebd",
+ "type": "BEP20",
+ "symbol": "PST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8a42899cc6d26b55967c5327e94e647fec48eebd"
+}

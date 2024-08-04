@@ -1,0 +1,11 @@
+{
+ "name": "Martis Life",
+ "website": "https://www.martis.life",
+ "description": "Martis is a large-scale distributed infrastructure network.",
+ "explorer": "https://bscscan.com/token/0x501100D9A56a8e140cdE43C8aEF2abEb278A8F2F",
+ "type": "BEP20",
+ "symbol": "Martis",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x501100D9A56a8e140cdE43C8aEF2abEb278A8F2F"
+}

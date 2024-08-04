@@ -1,0 +1,11 @@
+{
+ "name": " Financial Quotient ",
+ "website": "",
+ "description": "Financial Quotient token is a new token on Binance Smart Chain network. We want to help animals, forests and humans that be hurt by Financial Quotient.",
+ "explorer": "https://bscscan.com/token/0x2590d1e4108AAbdCEAa9FaB8c7e5d642b3E38Ee1",
+ "type": "BEP20",
+ "symbol": "FQ",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x2590d1e4108AAbdCEAa9FaB8c7e5d642b3E38Ee1"
+}

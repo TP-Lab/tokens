@@ -1,0 +1,11 @@
+{
+ "name": "BTCLONG",
+ "website": "-",
+ "description": "BTCLONG is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xD801606222126CBCA9de6016982D627881588888",
+ "type": "BEP20",
+ "symbol": " BTCLONG ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD801606222126CBCA9de6016982D627881588888"
+}

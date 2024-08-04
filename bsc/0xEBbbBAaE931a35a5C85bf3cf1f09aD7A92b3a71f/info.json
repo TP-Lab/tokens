@@ -1,0 +1,11 @@
+{
+ "name": "APACHECOIN",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xEBbbBAaE931a35a5C85bf3cf1f09aD7A92b3a71f",
+ "type": "BSC20",
+ "symbol": "APACHECOIN",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xEBbbBAaE931a35a5C85bf3cf1f09aD7A92b3a71f"
+}

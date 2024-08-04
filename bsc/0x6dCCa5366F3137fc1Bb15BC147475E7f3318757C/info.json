@@ -1,0 +1,11 @@
+{
+ "name": "TNUT¾ÆÈ¯",
+ "website": "-",
+ "description": "TNUT is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x6dCCa5366F3137fc1Bb15BC147475E7f3318757C",
+ "type": "BEP20",
+ "symbol": "TNUT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6dCCa5366F3137fc1Bb15BC147475E7f3318757C"
+}

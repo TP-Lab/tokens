@@ -1,0 +1,11 @@
+{
+ "name": "Galaxy",
+ "website": "-",
+ "description": "Galaxy is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x89f73B9acAB8dEBfB04Ce5e148c9814245462b91",
+ "type": "BEP20",
+ "symbol": " Galaxy ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x89f73B9acAB8dEBfB04Ce5e148c9814245462b91"
+}

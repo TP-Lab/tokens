@@ -1,0 +1,11 @@
+{
+ "name": "FlokiDoge",
+ "website": "www.floki-doge.com",
+ "description": "FlokiDoge is a new generation of Meme coin in honer of $Doge and Elon's Floki pet",
+ "explorer": "https://bscscan.com/token/0x23809ecbe0777d98fb5bc70d0155c6a994e78679",
+ "type": "BEP20",
+ "symbol": "FDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x23809ecbe0777d98fb5bc70d0155c6a994e78679"
+}

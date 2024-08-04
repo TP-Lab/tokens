@@ -1,0 +1,11 @@
+{
+ "name": "RTC DAO",
+ "website": "https://bscscan.com/address/0x0dC4A68E965e70bB78330F05640b432CB06F7d85",
+ "description": "RTC DAO is a Web3-focused investment DAO initiated by the Alpha Blockchain Foundation.",
+ "explorer": "https://bscscan.com/token/0x0dc4a68e965e70bb78330f05640b432Cb06f7d85",
+ "type": "BEP20",
+ "symbol": "RTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0dC4A68E965e70bB78330F05640b432CB06F7d85"
+}

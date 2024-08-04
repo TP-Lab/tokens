@@ -1,0 +1,11 @@
+{
+ "name": "ACE",
+ "website": "https://tarotxace.ru",
+ "description": "ACE uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://bscscan.com/token/0xc7fc0e4e13bd403cf0d41e4d0a51625a549b9b82",
+ "type": "BEP20",
+ "symbol": "ACE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC7FC0E4E13Bd403cF0d41E4D0A51625a549b9b82"
+}

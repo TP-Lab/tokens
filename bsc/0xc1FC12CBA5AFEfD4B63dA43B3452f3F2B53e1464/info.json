@@ -1,0 +1,11 @@
+{
+  "name": "Showtime Token",
+  "website": "https://showtimeweb3.com",
+  "description": "It aims to reshape a series of network and financial infrastructures such as public chain, DEFI, NFT, Web3, etc. with the idea of DAO, and distribute all governance rights, ownership rights, and dividend rights to every contributor.",
+  "explorer": "https://bscscan.com/address/0xc1fc12cba5afefd4b63da43b3452f3f2b53e1464",
+  "type": "BEP20",
+  "symbol": "STT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc1FC12CBA5AFEfD4B63dA43B3452f3F2B53e1464"
+ }

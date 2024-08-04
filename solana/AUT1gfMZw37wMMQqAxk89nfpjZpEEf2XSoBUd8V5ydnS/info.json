@@ -1,0 +1,11 @@
+{
+  "name": "Ave University Token",
+  "website": "https://zclub.app/",
+  "description": "AUT is socialfi project ZClub's governance token. It has 1 billion quantity, and is used as ZClub app NFT activities like mint/level up/boost up/repair.",
+  "explorer": "https://solscan.io/token/AUT1gfMZw37wMMQqAxk89nfpjZpEEf2XSoBUd8V5ydnS",
+  "type": "SPL",
+  "symbol": "AUT",
+  "decimals": 9,
+  "status": "active",
+  "id": "AUT1gfMZw37wMMQqAxk89nfpjZpEEf2XSoBUd8V5ydnS"
+}

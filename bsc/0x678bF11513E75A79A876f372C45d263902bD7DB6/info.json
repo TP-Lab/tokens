@@ -1,0 +1,11 @@
+{
+ "name": "torchbearer",
+ "website": "",
+ "description": "TBR will  fly",
+ "explorer": "https://bscscan.com/token/0x678bF11513E75A79A876f372C45d263902bD7DB6",
+ "type": "BEP20",
+ "symbol": "TBR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x678bF11513E75A79A876f372C45d263902bD7DB6"
+}

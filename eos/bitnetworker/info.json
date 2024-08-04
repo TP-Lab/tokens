@@ -1,0 +1,11 @@
+{
+    "name":"Bit Network Global",
+    "website":"http://www.bngone.github.io",
+    "description":"BNG is a Prove of Work coin on EOS Blockhain",
+    "explorer":"https://bloks.io/tokens/BNG-eos-bitnetworker#charts",
+    "type":"EOS",
+    "symbol":"BNG",
+    "decimals":8,
+    "status":"active",
+    "id":"https://bloks.io/tokens/BNG-eos-bitnetworker#charts"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BAIZE",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xb0dEbc77eC1a83FcE0aE8556D95341e536732771",
+ "type": "BSC20",
+ "symbol": "BAIZE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb0dEbc77eC1a83FcE0aE8556D95341e536732771"
+}

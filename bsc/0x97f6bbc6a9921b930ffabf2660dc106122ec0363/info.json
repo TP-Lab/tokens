@@ -1,0 +1,11 @@
+{
+ "name": "HC",
+ "website": "http://wealth.sudwp.io",
+ "description": "Multi-currency linkage takes DeFi3.0 as the core and combines NFT+GameFi and other fields of ecology.",
+ "explorer": "https://bscscan.com/token/0x97f6bbc6a9921b930ffabf2660dc106122ec0363",
+ "type": "BEP20",
+ "symbol": "HC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x97f6bbc6a9921b930ffabf2660dc106122ec0363"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Venus Token",
+ "website": "https://www.venus.vip/",
+ "description": "Venus NFT platform is the first ecological application of Venus DAO",
+ "explorer": "https://bscscan.com/token/0x9FE22D981F2C9F3563d044c43E14feEeCDe8FC54",
+ "type": "BSC20",
+ "symbol": "VUS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9FE22D981F2C9F3563d044c43E14feEeCDe8FC54"
+}

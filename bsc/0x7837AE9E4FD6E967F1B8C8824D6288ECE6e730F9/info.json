@@ -1,0 +1,11 @@
+{
+  "name": "Fitverse DAO Token",
+  "website": "https://fitverse.cc",
+  "description": "FitVerse is a Web3 lifestyle Dapp that combines FitFi and SocialFi elements.",
+  "explorer": "https://bscscan.com/address/0x1ac025FFEc8c00425B410Bc16aCF10A4F6E06Ff9",
+  "type": "BEP20",
+  "symbol": "FIT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1ac025FFEc8c00425B410Bc16aCF10A4F6E06Ff9"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "SHP Token",
+ "website": "https://umaproject.org/",
+ "description": "SHP is an BEP-20 compatible token built on the bscchain. It is designed to serve as a utility token for DeFi. The token has a fixed supply ",
+ "explorer": "https://bscscan.com/address/0xf437D1B1fEc609f4268Ae4bD00730B8dCa32E0A7",
+ "type": "BEP20",
+ "symbol": "SHP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf437D1B1fEc609f4268Ae4bD00730B8dCa32E0A7"
+}

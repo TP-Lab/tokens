@@ -1,0 +1,11 @@
+{
+  "name": "Catvills Coin",
+  "website": " https://catvillscoin.com",
+  "description": "Catvills coin is community token driven on BSC Network projects and will bring our investor whenever they want.",
+  "explorer": "https://bscscan.com/token/0xa531a733070a5fF4866D1327d82e403Fa35290A6",
+  "type": "BEP20",
+  "symbol": "CATVILLLS",
+  "decimals": 8,
+  "status": "active",
+  "id": "0xa531a733070a5fF4866D1327d82e403Fa35290A6"
+}

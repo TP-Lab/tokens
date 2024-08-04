@@ -1,0 +1,11 @@
+{
+ "name": "Taichi",
+ "website": "https://bscscan.com/token/0xF99adFB621eCE8977da9A748454F0C054Ec980b1",
+ "description": "Taichi TOKEN.",
+ "explorer": "https://bscscan.com/token/0xF99adFB621eCE8977da9A748454F0C054Ec980b1",
+ "type": "BEP20",
+ "symbol": "Taichi",
+ "decimals": 13,
+ "status": "active",
+ "id": "0xF99adFB621eCE8977da9A748454F0C054Ec980b1"
+}

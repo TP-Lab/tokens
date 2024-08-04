@@ -1,0 +1,11 @@
+{
+ "name": "Tao Te Ching",
+ "website": "http://taoteching.net.cn",
+ "description": "Tao Te Ching inherits famous ethnic culture.",
+ "explorer": "https://bscscan.com/token/0x152ad7Dc399269FA65D19BD7A790Ea8aa5b23DaD",
+ "type": "BEP20",
+ "symbol": "TTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x152ad7Dc399269FA65D19BD7A790Ea8aa5b23DaD"
+}

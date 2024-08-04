@@ -1,0 +1,11 @@
+{
+ "name": "SHIBCQ",
+ "website": "http://shibcq.top/",
+ "description": "SBCQ是基于HECO发行的代币",
+ "explorer": "https://hecoinfo.com/token/0xdE0748BAdA25fDF878f12AD3Fb5900a3f1792D33",
+ "type": "HRC20",
+ "symbol": "SBCQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdE0748BAdA25fDF878f12AD3Fb5900a3f1792D33"
+}

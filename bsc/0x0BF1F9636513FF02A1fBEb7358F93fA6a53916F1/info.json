@@ -1,0 +1,11 @@
+{
+ "name": "HM",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x0BF1F9636513FF02A1fBEb7358F93fA6a53916F1",
+ "type": "BEP20",
+ "symbol": "HM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0BF1F9636513FF02A1fBEb7358F93fA6a53916F1"
+}

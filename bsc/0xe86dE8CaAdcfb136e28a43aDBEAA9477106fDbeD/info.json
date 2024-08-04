@@ -1,0 +1,11 @@
+{ 
+"name": "TLP Token",
+"website": "https://supeinfinity.com",
+"description": "TLP(True Love Potion)为Supe Infinity链游平台内的底层链游的游戏代币。",
+"explorer": "https://bscscan.com/address/0xe86dE8CaAdcfb136e28a43aDBEAA9477106fDbeD",
+"type": "BEP20",
+"symbol": "TLP",
+"decimals": 18,
+"status": "active",
+"id": "0xe86dE8CaAdcfb136e28a43aDBEAA9477106fDbeD"
+}

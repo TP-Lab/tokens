@@ -1,0 +1,11 @@
+{
+ "name": "DiamondDoge",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x2b659f20A807b101c18842DE4B287533338B6f68",
+ "type": "BEP20",
+ "symbol": "DiamondDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2b659f20A807b101c18842DE4B287533338B6f68"
+}

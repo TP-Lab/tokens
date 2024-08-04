@@ -1,0 +1,11 @@
+{
+"name": "Coin Chain Swap",
+"website": "https://ccswap.cc",
+"description": "CCswap is an innovative blockchain trade model BAAS system as well as a DEX with an innovative trading model. It supports multiple token trading pairs, including custom token templates, allowing users to enjoy a trading experience with low latency, low transaction fees, and high security.",
+"explorer": "https://bscscan.com/token/0x1a97b0cf1eFB5228027dd782eD5D82C901694042",
+"type": "BEP20",
+"symbol": "CC",
+"decimals": 18,
+"status": "active",
+"id": "0x1a97b0cf1eFB5228027dd782eD5D82C901694042"
+}

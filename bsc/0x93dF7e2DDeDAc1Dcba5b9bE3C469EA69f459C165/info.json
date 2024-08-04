@@ -1,0 +1,11 @@
+{
+ "name": "Luca Token",
+ "website": "http://pool.lucaswap.net/",
+ "description": " LucaSwap is the leading Defi all-ecological aggregate DEX... ",
+ "explorer": "https://bscscan.com/token/0x93dF7e2DDeDAc1Dcba5b9bE3C469EA69f459C165",
+ "type": "BEP20",
+ "symbol": "Luca",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x93dF7e2DDeDAc1Dcba5b9bE3C469EA69f459C165"
+}

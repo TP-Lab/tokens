@@ -1,0 +1,11 @@
+{
+  "name": "MetaSpace",
+  "website": "https://mstflu.github.io/mst/",
+  "description": "MetaSpace is a virtual world where players can use the platform's utility token MST to build, own and monetize their gaming experience.",
+  "explorer": "https://bscscan.com/address/0xAC7Ae2ECa9Aa162590F884eFd36F29056953b49f",
+  "type": "BEP20",
+  "symbol": "MST",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xAC7Ae2ECa9Aa162590F884eFd36F29056953b49f"
+ }

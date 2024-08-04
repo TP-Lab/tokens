@@ -1,0 +1,11 @@
+{
+ "name": "VOM",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://etherscan.com/token/0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb",
+ "type": "ERC20",
+ "symbol": "VOM",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb"
+}

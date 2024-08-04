@@ -1,0 +1,11 @@
+{
+ "name": "Neuralink",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x33518f3e0beF8f1702d78E12f9c34955c941eb90",
+ "type": "BEP20",
+ "symbol": "NLINK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x33518f3e0beF8f1702d78E12f9c34955c941eb90"
+}

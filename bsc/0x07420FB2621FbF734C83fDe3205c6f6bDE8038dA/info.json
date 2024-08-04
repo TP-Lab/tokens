@@ -1,0 +1,11 @@
+{
+ "name": "BABYOKX",
+ "website": "http://www.babyokx.com/",
+ "description": "BABYOKX was born on April Fool's Day, April 1, 2022. However, this is definitely no joke! ",
+ "explorer": "https://bscscan.com/token/0x07420FB2621FbF734C83fDe3205c6f6bDE8038dA",
+ "type": "BEP20",
+ "symbol": "BABYOKX",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x07420FB2621FbF734C83fDe3205c6f6bDE8038dA"
+}

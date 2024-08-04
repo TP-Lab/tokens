@@ -1,0 +1,11 @@
+{ 
+"name": "Starbase Coin",
+"website": "https://www.starbase.finance/",
+"description": "In return for securing Cosmos Hub services, staking rewards will be distributed to Starbase Token stakers. ",
+"explorer": "https://bscscan.com/token/0x823B5Bc24Cd50B93845fdE53D386d6E6F4F6C649",
+"type": "BEP20",
+"symbol": ""Starbase",
+"decimals": 18,
+"status": "active",
+"id": "0x823B5Bc24Cd50B93845fdE53D386d6E6F4F6C649"
+} 

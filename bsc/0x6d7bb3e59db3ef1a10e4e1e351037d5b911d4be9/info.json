@@ -1,0 +1,11 @@
+{
+ "name": "GDC Token",
+ "website": "https://bscscan.com/token/0x6d7bb3e59db3ef1a10e4e1e351037d5b911d4be9",
+ "description": "https://bscscan.com/token/0x6d7bb3e59db3ef1a10e4e1e351037d5b911d4be9",
+ "explorer": "https://bscscan.com/token/0x6d7bb3e59db3ef1a10e4e1e351037d5b911d4be9",
+ "type": "BEP20",
+ "symbol": "GDC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6d7BB3e59dB3EF1A10E4E1e351037D5b911d4Be9"
+}

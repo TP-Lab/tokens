@@ -1,0 +1,11 @@
+{
+ "name": "Husky",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x8eBe54d857dFe3D18749C1408Ced35b26917cD0a",
+ "type": "BEP20",
+ "symbol": "Husky",
+ "decimals": 10,
+ "status": "not open",
+ "id": "0x8eBe54d857dFe3D18749C1408Ced35b26917cD0a"
+}

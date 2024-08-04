@@ -1,0 +1,11 @@
+{
+ "name": "SolarPeriod Token",
+ "website": "https://solarperiod.org",
+ "description": "SolarPeriod is a simulated survival game based on the blockchain",
+ "explorer": "https://www.bscscan.com/address/0x6d276631dbf883dbec2ff0fda36785a57ee73499",
+ "type": "BEP20",
+ "symbol": "SPD",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x6d276631dBf883dbec2ff0FdA36785a57EE73499"
+}

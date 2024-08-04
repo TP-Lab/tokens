@@ -1,0 +1,11 @@
+{
+    "name": "OPENAI COIN",
+    "website": "http://openaicoin.org",
+    "description": "Artificial intelligence (AI) is intelligence—perceiving, synthesizing, and inferring information—demonstrated by machines, as opposed to intelligence displayed by non-human animals and humans. OpenAiCoin base AI,best AI coin.",
+    "explorer": "https://bscscan.com/address/0x8e882064fb1785d59E55fed5d30Bd0a7f1Bc208D",
+    "type": "BEP20",
+    "symbol": "OPENAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8e882064fb1785d59E55fed5d30Bd0a7f1Bc208D"
+}

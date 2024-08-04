@@ -1,0 +1,11 @@
+{
+ "name": "Fire Fist Finance",
+ "website": "null",
+ "description": "A Fair Community Governance Token.",
+ "explorer": "https://bscscan.com/token/0x3A86693088985750F63db41373d8409f52be3fCc",
+ "type": "BEP20",
+ "symbol": "FIRE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3A86693088985750F63db41373d8409f52be3fCc"
+}

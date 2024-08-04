@@ -1,0 +1,11 @@
+{
+ "name": "GDK ",
+"website": "https://bscscan.com/token/0x86dee0d081bcf8642c038a90f2aad30bd784deeb",
+ "description": " BSC, GDK",
+ "explorer": "https://bscscan.com/token/0x86dee0d081bcf8642c038a90f2aad30bd784deeb",
+ "type": "BEP20",
+ "symbol": "GDK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x86dee0d081bcf8642c038a90f2aad30bd784deeb"
+}

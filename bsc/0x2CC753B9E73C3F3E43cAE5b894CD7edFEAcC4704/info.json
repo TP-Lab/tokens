@@ -1,0 +1,11 @@
+{
+ "name": "DaoDoge",
+ "website": "https://www.daodogebsc.com/",
+ "description": "DaoDoge is A Community-Focused, Decentralized Cryptocurrency. This is a Dao meme token,Ecosystem will be developed.",
+ "explorer": "https://bscscan.com/token/0x2CC753B9E73C3F3E43cAE5b894CD7edFEAcC4704",
+ "type": "BEP20",
+ "symbol": "DDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2CC753B9E73C3F3E43cAE5b894CD7edFEAcC4704"
+}

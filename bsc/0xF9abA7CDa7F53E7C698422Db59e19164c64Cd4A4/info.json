@@ -1,0 +1,11 @@
+{
+ "name": "MY",
+ "website": "-",
+ "description": "MY is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xF9abA7CDa7F53E7C698422Db59e19164c64Cd4A4",
+ "type": "BEP20",
+ "symbol": "MY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF9abA7CDa7F53E7C698422Db59e19164c64Cd4A4"
+}

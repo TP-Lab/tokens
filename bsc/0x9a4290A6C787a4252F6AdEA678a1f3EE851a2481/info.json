@@ -1,0 +1,11 @@
+{
+    "name": "FTA1",
+    "website": "https://fta.szxy.xyz/",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x9a4290A6C787a4252F6AdEA678a1f3EE851a2481",
+    "type": "BEP20",
+    "symbol": "FTA1",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9a4290A6C787a4252F6AdEA678a1f3EE851a2481"
+}

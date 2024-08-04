@@ -1,0 +1,11 @@
+{ 
+"name": "chicken",
+"website": "https://www.chikencoin.top",
+"description": "Chicken is a multiplayer online card duel game. It is a large-scale simulation game based on the meta universe, with the theme of machine style. The game provides a large number of scenes and NFT, which is a paradise for card players. ",
+"explorer": "https://bscscan.com/token/0x9E468F89D753A7Aabe4a48253687Aba3d43A7B33",
+"type": "BEP20",
+"symbol": "chicken",
+"decimals": 9,
+"status": "active",
+"id": "0x9E468F89D753A7Aabe4a48253687Aba3d43A7B33"
+}

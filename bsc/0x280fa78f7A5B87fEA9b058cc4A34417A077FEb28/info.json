@@ -1,0 +1,11 @@
+{
+ "name": "DARK_POOL",
+ "website": "https://ido.darkpoolchain.com",
+ "description": "DPC is a new commercial public chain ecology of 'Blockchain+Multi-Dimensional' based on DARK POOL dark protocol."
+ "explorer": "https://bscscan.com/token/0x280fa78f7a5b87fea9b058cc4a34417a077feb28",
+ "type": "BEP20",
+ "symbol": "DPC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x280fa78f7A5B87fEA9b058cc4A34417A077FEb28"
+}

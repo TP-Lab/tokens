@@ -1,0 +1,11 @@
+{
+ "name": "NewyearDoge",
+ "website": "",
+ "description": "Genesis Doge, based on the metacosmic world, this time we launched a huge number of tokens",
+ "explorer": "https://bscscan.com/address/0x14ffE5571a610d4De9adD02F1bDC2B8CB3A969b9",
+ "type": "BEP-20",
+ "symbol": "NewyearDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x14ffE5571a610d4De9adD02F1bDC2B8CB3A969b9"
+}

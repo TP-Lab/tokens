@@ -1,0 +1,11 @@
+{
+ "name": "Okx",
+ "website": "https://www.oklink.com/",
+ "description": "OKX去中心化娱乐项目,将陆续推出棋牌,元宇宙游戏.",
+ "explorer": "https://www.oklink.com/zh-cn/oec/tokenAddr/ex14g5d77ts626zk8e3x4smnu3mkq8qy54u0ddtfz",
+ "type": "KIP20",
+ "symbol": "Okx",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaa28df7970d2b42b1f313561b9f23bb00e0252bc"
+}

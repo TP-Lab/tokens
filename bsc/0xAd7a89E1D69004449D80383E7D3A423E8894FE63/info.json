@@ -1,0 +1,11 @@
+{
+ "name": "Small bit organization",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xAd7a89E1D69004449D80383E7D3A423E8894FE63",
+ "type": "BEP20",
+ "symbol": "LBTDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAd7a89E1D69004449D80383E7D3A423E8894FE63"
+}

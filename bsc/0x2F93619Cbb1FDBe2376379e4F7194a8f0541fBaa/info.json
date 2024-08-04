@@ -1,0 +1,11 @@
+{undefined
+ "name": "BscBtcb Token",
+ "website": "https://www.bscbtcb-dao.com",
+ "description": "bsc (btcb) is a coin issued by the bitcoin community and the desire of the community is that it is no longer a dream for everyone to have their own bitcoin.",
+ "explorer": "https://bscscan.com/token/0x2F93619Cbb1FDBe2376379e4F7194a8f0541fBaa",
+ "type": "BEP20",
+ "symbol": "bsc",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2F93619Cbb1FDBe2376379e4F7194a8f0541fBaa"
+}

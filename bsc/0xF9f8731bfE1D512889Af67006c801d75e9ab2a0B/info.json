@@ -1,0 +1,11 @@
+{
+ "name": "DDDS",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0xF9f8731bfE1D512889Af67006c801d75e9ab2a0B",
+ "type": "BEP20",
+ "symbol": "DDDS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF9f8731bfE1D512889Af67006c801d75e9ab2a0B"
+}

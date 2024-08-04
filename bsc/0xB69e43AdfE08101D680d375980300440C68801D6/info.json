@@ -1,0 +1,11 @@
+{
+ "name": "GEP",
+ "website": "",
+ "description": "green environmental protection token",
+ "explorer": "https://bscscan.com/token/0xb69e43adfe08101d680d375980300440c68801d6",
+ "type": "BEP20",
+ "symbol": "GEP",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xB69e43AdfE08101D680d375980300440C68801D6"
+}

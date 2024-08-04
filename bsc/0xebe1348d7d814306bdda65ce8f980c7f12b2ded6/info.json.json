@@ -1,0 +1,11 @@
+{
+  "name": "EAGLE",
+  "website": "https://the-eagle.co/",
+  "description": "We aiming to go back to the purest of tokens, we do not add any mode or features to our token but only expand the community consensus and build a complete ecosystem",
+  "explorer": "https://bscscan.com/token/0xebe1348d7d814306bdda65ce8f980c7f12b2ded6",
+  "type": "BEP20",
+  "symbol": "EAGLE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xEBe1348d7D814306bDDA65cE8f980c7f12B2DEd6"
+}

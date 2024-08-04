@@ -1,0 +1,11 @@
+{
+ "name": "DA COIN",
+ "website": "https://da.com",
+ "description": "DA COIN is the native token of DA CHAIN, which is mined through the POS mechanism. It is the first in the industry and is forced to be dispersed. There is no airdrop or private placement. Hundreds of communities work together to create a value of ten thousand times.",
+ "explorer": "https://bscscan.com/token/0x7be5c5Ca750ef8f2AD6100449F1cEab6b85B1Ce1",
+ "type": "BEP20",
+ "symbol": "DA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7be5c5Ca750ef8f2AD6100449F1cEab6b85B1Ce1"
+}

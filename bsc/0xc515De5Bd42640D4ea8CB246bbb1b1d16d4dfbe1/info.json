@@ -1,0 +1,11 @@
+{
+ "name": "LAN",
+ "website": "https://birdworld.io/",
+ "description": "LAB is the DAO token of BirdWorld",
+ "explorer": "https://bscscan.com/token/0xc515De5Bd42640D4ea8CB246bbb1b1d16d4dfbe1",
+ "type": "BEP20",
+ "symbol": "LAN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc515De5Bd42640D4ea8CB246bbb1b1d16d4dfbe1"
+}

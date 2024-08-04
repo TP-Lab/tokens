@@ -1,0 +1,11 @@
+{
+ "name": "PINE Protocol",
+ "website": "https://www.pineprotocol.io/",
+ "description": "PINE, as native governance tokens, access tokens, and financial incentives, will be distributed to encourage user efforts to contribute and participate in the PINE ecosystem, thereby creating a mutually beneficial system where each participant is fairly compensated for their efforts.",
+ "explorer": "https://bscscan.com/token/0x36a30A463442b0f4a0F5441D61f481a19385C9aC",
+ "type": "BEP20",
+ "symbol": "PINE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x36a30A463442b0f4a0F5441D61f481a19385C9aC"
+}

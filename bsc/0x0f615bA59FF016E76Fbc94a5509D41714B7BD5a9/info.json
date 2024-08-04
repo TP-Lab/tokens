@@ -1,0 +1,11 @@
+{
+ "name": "SQP",
+ "website": "http://www.sqp.net.cn",
+ "description": "SUPER QUANTUM POS SQP protocol is a decentralized application platform, which aims to make applications have similar usability to those on today's network. The network runs on a consensus mechanism named Binancechina (PoS) mining, which aims to provide dynamic scalability and stable fee rate.",
+ "explorer": "https://bscscan.com/token/0x0f615bA59FF016E76Fbc94a5509D41714B7BD5a9",
+ "type": "BEP20",
+ "symbol": "SQP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0f615bA59FF016E76Fbc94a5509D41714B7BD5a9"
+}

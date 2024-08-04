@@ -1,0 +1,11 @@
+{
+ "name": "FGDTOKEN",
+ "website": "https://fgd.ai",
+ "description": "Freedom God (FGD) is a DAO mysterious geek organization from different countries around the world. The new DAO organization has all the advantages of Bitcoin, and it has the characteristics of anonymity, security, Immutability, and payment without borders. Freedom God has its own value-added attributes and is efficient. Financial management resists inflation and is the preferred asset. ",
+ "explorer": "https://bscscan.com/token/0x0566B9a8fFb8908682796751EEd00722da967Be0",
+ "type": "BEP20",
+ "symbol": "FGD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0566B9a8fFb8908682796751EEd00722da967Be0"
+}

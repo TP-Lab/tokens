@@ -1,0 +1,11 @@
+{ 
+"name": "All In Battle",
+"website": ".",
+"description": "Yes, our auspicious rabbit is indeed this adorable bunny. ",
+"explorer": "https://bscscan.com/token/0x3a57D369d3a6D81d5e384cCb0e6B1BA9D42B1F9F",
+"type": "BEP20",
+"symbol": "ALLIN",
+"decimals": 18,
+"status": "active",
+"id": "0x3a57D369d3a6D81d5e384cCb0e6B1BA9D42B1F9F"
+}

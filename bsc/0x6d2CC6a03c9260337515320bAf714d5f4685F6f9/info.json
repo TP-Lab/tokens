@@ -1,0 +1,11 @@
+{
+ "name": "WINK Token",
+ "website": "https://www.winkinfo.com",
+ "description": "WINK is the only asset of WINK DAO built by a group of blockchain enthusiasts. It aims to provide decentralized financial instruments and products by focusing on on-chain interaction and collaboration, redefine the token economy, and give contribution incentives to all users participating in the ecological network. While assets leverage the community, promote the implementation of new business scenarios and ecological applications covering NFT、Metaverse、Web3.0、Gamefi etc.",
+ "explorer": "https://bscscan.com/token/0x6d2CC6a03c9260337515320bAf714d5f4685F6f9",
+ "type": "BEP20",
+ "symbol": "WINK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6d2CC6a03c9260337515320bAf714d5f4685F6f9"
+}

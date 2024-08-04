@@ -1,0 +1,11 @@
+{
+ "name": "TIANHU",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xBB353b525f46CB6a67FE456ac34852b8f43894E5",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xBB353b525f46CB6a67FE456ac34852b8f43894E5"
+}

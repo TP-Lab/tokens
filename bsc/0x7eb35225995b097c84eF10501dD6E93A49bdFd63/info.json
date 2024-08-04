@@ -1,0 +1,11 @@
+{
+ "name": "MELT",
+ "website": "https://www.metaelfland.com",
+ "description": "MELT",
+ "explorer": "https://bscscan.com/token/0x7eb35225995b097c84eF10501dD6E93A49bdFd63",
+ "type": "BEP20",
+ "symbol": "MELT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x7eb35225995b097c84eF10501dD6E93A49bdFd63"
+}

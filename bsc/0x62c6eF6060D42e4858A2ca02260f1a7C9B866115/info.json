@@ -1,0 +1,11 @@
+{
+    "name": "GBT",
+    "website": "http://ancient-coins.xyz",
+    "description": "The GBT Protocol is a community driven DeFi Token. Three built-in mechanisms occur on each trade: Market, Burn and Reward.",
+    "explorer": "https://bscscan.com/token/0x62c6ef6060d42e4858a2ca02260f1a7c9b866115",
+    "type": "ERC20",
+    "symbol": "GBT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x62c6ef6060d42e4858a2ca02260f1a7c9b866115"
+   }

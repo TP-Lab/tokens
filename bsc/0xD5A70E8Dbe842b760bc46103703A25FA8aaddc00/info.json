@@ -1,0 +1,11 @@
+{
+ "name": "ANT-EP",
+ "website": "https://github.com/clan-ant/clan-ant",
+ "description": "ANT-EP",
+ "explorer": "https://www.bscscan.com/token/0xd5a70e8dbe842b760bc46103703a25fa8aaddc00",
+ "type": "BEP20",
+ "symbol": "ANT-EP",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xD5A70E8Dbe842b760bc46103703A25FA8aaddc00"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "CoinMarket 100",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x00AD418CA33dc9c49592357086B88a939b293BB5",
+ "type": "BEP20",
+ "symbol": "CM100",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x00AD418CA33dc9c49592357086B88a939b293BB5"
+}

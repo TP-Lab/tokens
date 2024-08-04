@@ -1,0 +1,11 @@
+﻿{
+ "name": "SOF Token",
+ "website": "http://www.soulsocialf.com/",
+ "description": "Socialfi + Dao autonomous encrypted chat software based on defi application ecology.",
+ "explorer": "https://bscscan.com/token/0xea69227ef00EA358057B0bAa7a2dbD7dc8208b49",
+ "type": "BEP20",
+ "symbol": "SOF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xea69227ef00EA358057B0bAa7a2dbD7dc8208b49"
+}

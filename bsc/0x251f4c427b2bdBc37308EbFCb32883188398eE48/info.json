@@ -1,0 +1,11 @@
+{
+ "name": "Kill Zero",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x251f4c427b2bdBc37308EbFCb32883188398eE48",
+ "type": "BEP20",
+ "symbol": "S0",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x251f4c427b2bdBc37308EbFCb32883188398eE48"
+}

@@ -1,0 +1,11 @@
+{
+   "name": "REKALL REWARD TOKEN",
+   "website": "https://rekall.net",
+   "description": "EKA is the native token for REKALL, a digital asset based on the Binance Smart Chain, and is an integral part of the REKALL ecosystem.",
+   "explorer": "https://bscscan.com/token/0x9533fa068c12d03011ea15dc64d382930f15593d",
+   "type": "BEP20",
+   "symbol": "EKA",
+   "decimals": 18,
+   "status": "active",
+   "id": "0x9533fa068c12d03011Ea15Dc64d382930F15593d"
+}

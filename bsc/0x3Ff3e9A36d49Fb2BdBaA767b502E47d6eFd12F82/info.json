@@ -1,0 +1,11 @@
+{
+ "name": "Lucky Ball",
+ "website": "https://luckyballclub.github.io/index",
+ "description": "Lucky Ball (LB) is committed to creating a borderless blockchain world. The creators of LB envision it as an easy and interesting cryptocurrency. In the future, more luck value ecosystems will be built around him.",
+ "explorer": "https://bscscan.com/token/0x3ff3e9a36d49fb2bdbaa767b502e47d6efd12f82",
+ "type": "BEP20",
+ "symbol": "LB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3Ff3e9A36d49Fb2BdBaA767b502E47d6eFd12F82"
+}

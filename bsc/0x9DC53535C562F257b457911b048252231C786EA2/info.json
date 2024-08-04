@@ -1,0 +1,11 @@
+{ 
+"name": "MSToken",
+"website": "-",
+"description": "Production is closely related to NUWA, and nuwa, striving for WEB3.0",
+"explorer": "https://bscscan.com/token/0x9DC53535C562F257b457911b048252231C786EA2",
+"type": "BEP20",
+"symbol": "MS",
+"decimals": 6,
+"status": "active",
+"id": "0x9DC53535C562F257b457911b048252231C786EA2"
+}

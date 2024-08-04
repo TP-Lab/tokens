@@ -1,0 +1,11 @@
+{
+ "name": "Cyber Coin",
+ "website": "https://www.cybergames.me/",
+ "description": "CyberWorld（CyberHash Limited) aims to accelerate the world's transition to Web 3.0 era.",
+ "explorer": "https://bscscan.com/token/0xa28EA68177E6aE59d567aAaf365D570158995a63",
+ "type": "BEP20",
+ "symbol": "CC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xa28EA68177E6aE59d567aAaf365D570158995a63"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "THB_COIN",
+ "website": "-",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xa0be8cff382e80b2bf7766bbde1f408dc56c3202",
+ "type": "BEP20",
+ "symbol": "THB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA0BE8CFF382e80b2bF7766BbDE1f408DC56c3202"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Black Rabbits Token",
+ "website": "https://www.blackrabbits.info/",
+ "description": "Black Rabbits is a Meme Token early hold Black Rabbits and earn passive income paid in Usdt.",
+ "explorer": "https://bscscan.com/token/0xa36a69D3631046253850230ffaD265747821eCc3",
+ "type": "BEP20",
+ "symbol": "BRS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa36a69D3631046253850230ffaD265747821eCc3"
+}

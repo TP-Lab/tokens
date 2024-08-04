@@ -1,0 +1,11 @@
+{
+	"name": "SMT",
+	"website": "http://savemeta.org",
+	"description": "SAVE METAVERSE ECOSYSTEM is initiated by the METAVERSE Volunteer Advance Organization and originated from Silicon Valley in the United States.",
+	"explorer": "https://bscscan.com/token/0x57C704f406A7c270B227b3Cd09D7E88AcF1EB801",
+	"type": "BEP20",
+	"symbol": "SMT",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x57C704f406A7c270B227b3Cd09D7E88AcF1EB801"
+   }

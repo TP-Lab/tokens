@@ -1,0 +1,11 @@
+{
+  "name": "AnEraPi",
+  "website": "http://www.anerapi.top/",
+  "description": "AnEraPi is a community token, which is published in BSC. It has a very perfect mechanism.",
+  "explorer": "https://bscscan.com/address/0x6290C315e06d15FfB60AB50e706D487BD8e9Cf69",
+  "type": "BEP20",
+  "symbol": "AnEraPi",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x6290C315e06d15FfB60AB50e706D487BD8e9Cf69"
+}

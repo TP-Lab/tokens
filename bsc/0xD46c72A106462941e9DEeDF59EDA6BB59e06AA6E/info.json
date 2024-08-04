@@ -1,0 +1,11 @@
+{
+ "name": "SGY",
+ "website": "https://bscscan.com/token/0xD46c72A106462941e9DEeDF59EDA6BB59e06AA6E",
+ "description": "SGY TOKEN.",
+ "explorer": "https://bscscan.com/token/0xD46c72A106462941e9DEeDF59EDA6BB59e06AA6E",
+ "type": "BEP20",
+ "symbol": "SGY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD46c72A106462941e9DEeDF59EDA6BB59e06AA6E"
+}

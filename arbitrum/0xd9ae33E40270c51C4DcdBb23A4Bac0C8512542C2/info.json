@@ -1,0 +1,11 @@
+{
+"name": "SHAKA"
+"website": "https://shaka.guru",
+"description": "$SHAKA IS NOT (JUST) A MEME TOKEN ON ARBITRUM. WE ALSO PURELY DELIVER THE PEACE AND LOVE OF SHAKA TO YOU.",
+"explorer": "https://arbiscan.io/token/0xd9ae33E40270c51C4DcdBb23A4Bac0C8512542C2",
+"type": "ERC20",
+"symbol": "SHAKA",
+"decimals": 18,
+"status": "active",
+"id":"0xd9ae33E40270c51C4DcdBb23A4Bac0C8512542C2"
+}

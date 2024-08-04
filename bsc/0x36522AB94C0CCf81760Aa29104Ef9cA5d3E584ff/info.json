@@ -1,0 +1,11 @@
+{
+    "name": "BEL-Token",
+    "website": "http://www.wind.com/",
+    "description": "The best choice for football Sports Hedge arbitrage Hosting",
+    "explorer": "https://bscscan.com/token/0x36522AB94C0CCf81760Aa29104Ef9cA5d3E584ff",
+    "type": "BEP20",
+    "symbol": "BEL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x36522AB94C0CCf81760Aa29104Ef9cA5d3E584ff"
+   }

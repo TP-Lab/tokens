@@ -1,0 +1,11 @@
+{ 
+"name": "FERRARI",
+"website": ".",
+"description": ". ",
+"explorer": "https://etherscan.io/token/0x56fBb6112543e8E99402440F6F92ad6697b4F176",
+"type": "ERC20",
+"symbol": "FERRARI",
+"decimals": 9,
+"status": "active",
+"id": "0x56fBb6112543e8E99402440F6F92ad6697b4F176"
+}

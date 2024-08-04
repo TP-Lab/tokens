@@ -1,0 +1,11 @@
+{
+    "name": "KGT",
+    "website": "https://t.me/kgtdao",
+    "description": "KGTDAO通过社区自治通证KGT和DEFI3.0（激励机制+收入模式）机制，吸引更多全球各地的区块链爱好者、价值投资者和DAO社区参与到生态建设之中，构建一个高认知、高共识、高自治的顶级DAO，为优质项目赋能，共享行业巨大红利。",
+    "explorer": "https://bscscan.com/token/0x105B0e795E4ac3b5F1f9F6AFaC7EF8445905aA5b",
+    "type": "BEP20",
+    "symbol": "KGT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x105B0e795E4ac3b5F1f9F6AFaC7EF8445905aA5b"
+}

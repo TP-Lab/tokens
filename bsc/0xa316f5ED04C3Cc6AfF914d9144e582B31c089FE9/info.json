@@ -1,0 +1,11 @@
+{
+ "name": "Fistiana Circulates Token",
+ "website": "https://fistiana.org",
+ "description": "FCT is a total circulation of 10 billion, which will be generated from rewards when players participate in the arena or league.",
+ "explorer": "https://bscscan.com/token/0xa316f5ED04C3Cc6AfF914d9144e582B31c089FE9",
+ "type": "BEP20",
+ "symbol": "FCT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa316f5ED04C3Cc6AfF914d9144e582B31c089FE9"
+}

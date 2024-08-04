@@ -1,0 +1,21 @@
+{
+
+ "name": "Energy towe",
+
+ "website": "http://www.ent.ltd",
+
+ "description": "Energytower ENT community, DAO organization circulation of equity certificates and platform tokens",
+
+ "explorer":    "https://bscscan.com/token/0x06ae8137fec169487b7b3af21b09b4bd53b90ea2",
+
+ "type": "BEP20",
+
+ "symbol": "ENT",
+
+ "decimals": 18,
+
+ "status": "active",
+
+ "id": "0x06ae8137fec169487b7b3af21b09b4bd53b90ea2"
+
+}

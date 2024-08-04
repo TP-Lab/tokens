@@ -1,0 +1,11 @@
+{
+ "name": "SSUS",
+ "website": "",
+ "description": "Brief Introduction and Economic Model of SSUS Zibi,total 530000,Tank 30000 SSUS / 15000 oil,LP Discards Black Hole,Pot LP does not participate in slippage dividend.Slippage Buy 6%,Selling 6%.SSUS Adds Mobility Premium TRX",
+ "explorer": "https://bscscan.com/token/0xb3778ba684b58e87a9f05fe0b1681ec2d7252a94",
+ "type": "BEP20",
+ "symbol": "SSUS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB3778bA684b58e87A9f05fE0B1681eC2D7252a94"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "KING",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0xe9BfAE2eb2c81cAEFdaF372cB5E4F9398D7e05AB",
+ "type": "BEP20",
+ "symbol": "KING",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe9BfAE2eb2c81cAEFdaF372cB5E4F9398D7e05AB"
+}

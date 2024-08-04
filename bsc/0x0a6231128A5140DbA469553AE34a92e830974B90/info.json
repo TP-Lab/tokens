@@ -1,0 +1,11 @@
+{
+ "name": "Pi Network",
+ "website": "http://www.pi-network.in/",
+ "description": "Pi coin community leader and joint Dao Chuang community promote the globalization and marketization of Pi coin community.",
+ "explorer": "https://bscscan.com/token/0x0a6231128a5140dba469553ae34a92e830974b90",
+ "type": "BEP20",
+ "symbol": "Pi",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0a6231128A5140DbA469553AE34a92e830974B90"
+}

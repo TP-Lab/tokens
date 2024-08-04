@@ -1,0 +1,11 @@
+{
+ "name": "FDO finance",
+ "website": "https://fdo.finance",
+ "description": "A free, permission-free, decentralised investment bank is poised to bring unprecedented wealth opportunities.",
+ "explorer": "https://bscscan.com/token/0xA7EBB1a43f67246466351508b84d8927375D6C58",
+ "type": "BEP20",
+ "symbol": "FDO",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xA7EBB1a43f67246466351508b84d8927375D6C58"
+}

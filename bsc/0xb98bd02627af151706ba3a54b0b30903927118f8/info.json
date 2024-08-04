@@ -1,0 +1,11 @@
+{
+ "name": "Kubernetes",
+ "website": "http://www.kubernetese.com",
+ "description": "kubernetes is a decentralized multi-lending wallet for derivatives. It is a brave attempt in the web3.0 multi-financial industry.",
+ "explorer": "https://bscscan.com/token/0xb98bd02627af151706ba3a54b0b30903927118f8",
+ "type": "BEP20",
+ "symbol": "K8s",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB98bD02627AF151706BA3A54B0b30903927118F8"
+}

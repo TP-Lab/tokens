@@ -1,0 +1,11 @@
+{
+ "name": "HML",
+ "website": "https://hamy.vip",
+ "description": "a advanced platform in the web3 world intending to bring more and more users into this park with wonderful experiance and expectation",
+ "explorer": "https://bscscan.com/token/0xccD9ef8bd1e72FAaFAdf34b87f62E055fD57Ad56",
+ "type": "BEP20",
+ "symbol": "HML",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xccD9ef8bd1e72FAaFAdf34b87f62E055fD57Ad56"
+}

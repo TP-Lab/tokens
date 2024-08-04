@@ -1,0 +1,11 @@
+{ 
+"name": "Pirate",
+"website": "https://pirate.app",
+"description": "Web3 new cloud computing bitcoin.",
+"explorer": "https://bscscan.com/token/0x4b94f9f33091e45522d08f218ded293403077792",
+"type": "BEP20",
+"symbol": "Pirate",
+"decimals": 6,
+"status": "active",
+"id": "0x4b94F9f33091E45522d08f218Ded293403077792"
+}

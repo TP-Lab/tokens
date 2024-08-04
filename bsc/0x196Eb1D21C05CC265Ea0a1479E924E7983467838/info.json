@@ -1,0 +1,11 @@
+{ 
+"name": "Universe Token",
+"website": "https://www.uvtoken.com",
+"description": "UvToken is dedicated to the security, convenience and high efficiency of digital assets management with exclusive blockchain tech and various application scenarios.",
+"explorer": "https://bscscan.com/token/0x196Eb1D21C05CC265Ea0a1479E924E7983467838",
+"type": "BEP20",
+"symbol": "UVT",
+"decimals": 18,
+"status": "active",
+"id": "0x196Eb1D21C05CC265Ea0a1479E924E7983467838"
+}

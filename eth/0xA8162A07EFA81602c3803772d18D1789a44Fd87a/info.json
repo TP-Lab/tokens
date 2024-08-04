@@ -1,0 +1,11 @@
+{
+ "name": "ALEO",
+ "website": "https://www.aleo.org/",
+ "description": "ALEO Where Applications Become Private.",
+ "explorer": "https://etherscan.io/token/0xA8162A07EFA81602c3803772d18D1789a44Fd87a",
+ "type": "ERC20",
+ "symbol": "ALEO",
+ "decimals": 3,
+ "status": "active",
+ "id": "0xA8162A07EFA81602c3803772d18D1789a44Fd87a"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "LSBT",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xE9e1A940F1C2faE9eE3eAf49B6a679DfE2Da7b48",
+ "type": "BEP20",
+ "symbol": "LSBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE9e1A940F1C2faE9eE3eAf49B6a679DfE2Da7b48"
+}

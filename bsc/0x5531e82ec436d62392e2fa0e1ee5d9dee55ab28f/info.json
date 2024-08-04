@@ -1,0 +1,11 @@
+{
+ "name": "EABOX Token",
+ "website": "https://eabox.cc",
+ "description": "The co creation association will take inheritance, sharing, innovation, development, and green as its mission, unite and work together to promote ecological protection and environmental governance, and reach consensus on building a better ecology, a better economy, and a better life.",
+ "explorer": "https://bscscan.com/token/0x5531e82ec436d62392e2fa0e1ee5d9dee55ab28f",
+ "type": "BEP20",
+ "symbol": "EABOX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5531e82ec436d62392e2fa0e1ee5d9dee55ab28f"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Aquila Token",
+ "website": "https://aquilatoken.com",
+ "description": "Aquila Token on Huobi Eco(HECO) Chain",
+ "explorer": "https://hecoinfo.com/token/0x71F6Eccb2e8f18f17e1D4Fa3649cA07f56be858a",
+ "type": "HRC-20",
+ "symbol": "AQUILA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x71F6Eccb2e8f18f17e1D4Fa3649cA07f56be858a"
+}

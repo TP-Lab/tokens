@@ -1,0 +1,11 @@
+{ 
+"name": "SMPT",
+"website": "https://smpcoin.vercel.app/",
+"description": "SMPT creates the future",
+"explorer": "https://bscscan.com/token/0xDEa398116701EBC8bE8f08A9Aac69E2d30bE1B47",
+"type": "BEP20",
+"symbol": "SMPT",
+"decimals": 6,
+"status": "active",
+"id": "0xDEa398116701EBC8bE8f08A9Aac69E2d30bE1B47"
+}

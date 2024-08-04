@@ -1,0 +1,11 @@
+{
+  "name": "ASG",
+  "website": "https://asg.games/#/",
+  "description": "Asgard GameFi Base. A community-led & player-driven GameFi DAO, Making GameFi Redecentralized",
+  "explorer": "https://bscscan.com/token/0xebE7C1395E43465Ae7A041A686e957D9aa184b0d",
+  "type": "BEP20",
+  "symbol": "ASG",
+  "decimals": 6,
+  "status": "active",
+  "id": "0xebE7C1395E43465Ae7A041A686e957D9aa184b0d"
+}

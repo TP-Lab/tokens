@@ -1,0 +1,11 @@
+{
+ "name": "DreamDAO",
+ "website": "https://www.dreamdao.day",
+ "description": "DreamDAO is a decentralized DeFi project initiated by community organizations to help ordinary people realize their dream of buying a house.",
+ "explorer": "https://bscscan.com/token/0x930F3768f29030f9Bd7aD5D3E77B731C3411E95c",
+ "type": "BEP20",
+ "symbol": "DREAM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x930F3768f29030f9Bd7aD5D3E77B731C3411E95c"
+}

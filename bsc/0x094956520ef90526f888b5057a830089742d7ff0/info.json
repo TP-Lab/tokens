@@ -1,0 +1,11 @@
+{
+   "name": "Birdman",
+   "website": "https://www.birdman.fashion",
+   "description": "Birdman Fashion is the first decentralized Meme 2.0 project with true purpose to bring the popular cryptocurrency concept into the realm of fashion trends, completing the fusion of the crypto world with the fashion world.",
+   "explorer": "https://bscscan.com/token/0x094956520ef90526f888b5057a830089742d7ff0",
+   "type": "BEP20",
+   "symbol": "Birdman",
+   "decimals": 18,
+   "status": "active",
+   "id": "0x094956520ef90526f888b5057a830089742d7ff0"
+}

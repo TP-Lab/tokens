@@ -1,0 +1,11 @@
+{
+ "name": "The Fourth Universe",
+ "website": "https://tfu.ltd",
+ "description": "The world's leading intelligent trading service platform with AMA automatic market making as the core",
+ "explorer": "https://bscscan.com/token/0xC00AFa11e84f8684bE11Ae4D9073264E206a1CCC",
+ "type": "BEP20",
+ "symbol": "TFU",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xC00AFa11e84f8684bE11Ae4D9073264E206a1CCC"
+}

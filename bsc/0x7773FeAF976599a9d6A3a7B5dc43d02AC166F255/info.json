@@ -1,0 +1,11 @@
+{ 
+    "name": "Magic manor",
+    "website": "https://metaswap.cx/",
+    "description": "MGC is the sub-coin of the Metaswap Ecosystem, the value of which lies in providing Metaswap with an incubation fund for Web3. The new fund will invest in projects that expand the use cases of crypto assets and promote the popularity of Web3 and blockchain technology, which will inject more momentum and confidence in the long-term development of both Metaswap and MGC.",
+    "explorer": "https://bscscan.com/token/0x7773FeAF976599a9d6A3a7B5dc43d02AC166F255",
+    "type": "BEP20",
+    "symbol": "MGC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7773FeAF976599a9d6A3a7B5dc43d02AC166F255"
+}

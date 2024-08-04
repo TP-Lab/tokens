@@ -1,0 +1,11 @@
+{
+    "name": "MetacoinSwap Node Program",
+    "website": "https://mnp.metacoinswap.io/",
+    "description": "MetacoinSwap is a Orderbook-Based DEX for Cryptos and Derivatives Trading",
+    "explorer": "https://bscscan.com/address/0x9eb688046f2940889cf4890a2b788629086956fb",
+    "type": "BEP20",
+    "symbol": "MNP",
+    "decimals": 4,
+    "status": "active",
+    "id": "0x9eB688046F2940889cF4890A2b788629086956FB"
+}

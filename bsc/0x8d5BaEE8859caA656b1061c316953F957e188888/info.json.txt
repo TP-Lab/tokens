@@ -1,0 +1,11 @@
+{
+ "name": "MIX",
+ "website": "https://99mixer.co",
+ "description": "MIX is a decentralized value aggregation wallet created by the American blockchain technology company, Bain Capital MIX 99..",
+ "explorer": "https://bscscan.com/token/0x8d5BaEE8859caA656b1061c316953F957e188888",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8d5BaEE8859caA656b1061c316953F957e188888"
+}

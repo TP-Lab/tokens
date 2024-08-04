@@ -1,0 +1,11 @@
+{
+ "name": "ATM",
+ "website": "-",
+ "description": "ATM is a highly autonomous, decentralized, fair and just ecological community.",
+ "explorer": "https://bscscan.com/token/0x5304D049a629cFDDa53f675a0D18141cD46EC3C2",
+ "type": "BEP20",
+ "symbol": "ATM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5304D049a629cFDDa53f675a0D18141cD46EC3C2"
+}

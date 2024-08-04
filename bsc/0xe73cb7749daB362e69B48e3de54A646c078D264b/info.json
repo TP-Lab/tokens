@@ -1,0 +1,11 @@
+{
+ "name": "QJ-King",
+ "website": "-",
+ "description": "QJ-King is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xe73cb7749daB362e69B48e3de54A646c078D264b",
+ "type": "BEP20",
+ "symbol": " QJK ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe73cb7749daB362e69B48e3de54A646c078D264b"
+}

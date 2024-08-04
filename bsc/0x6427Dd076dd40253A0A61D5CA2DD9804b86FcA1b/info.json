@@ -1,0 +1,11 @@
+{
+  "name": "DeMedia Protocol",
+  "website": "https://www.demedia.tv",
+  "description": "The DeMedia project is a traffic aggregation platform for streaming media creation, open to global streaming media operators as a decentralized application. Transforming the Internet Streaming Economy to Realize the Web3.0 Traffic Value Ecosystem.",
+  "explorer": "https://bscscan.com/token/0x6427Dd076dd40253A0A61D5CA2DD9804b86FcA1b",
+  "type": "BEP20",
+  "symbol": "DMP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6427Dd076dd40253A0A61D5CA2DD9804b86FcA1b"
+ }

@@ -1,0 +1,11 @@
+{
+   "name": "Fitness Instructor",
+   "website": "http://www.fiti.cc",
+   "description": "FITI is a Web3.0 type DAPP, including Defi, Game-Fi and Social-Fi elements. Its goal is to bring people a healthy body and the joy of “sport to earn” in the FITI Metaverse.",
+   "explorer": "https://bscscan.com/token/0x639f689ba5f911180204703ca3038e09d38ab6ce",
+   "type": "BEP20",
+   "symbol": "FITI",
+   "decimals": 8,
+   "status": "active",
+   "id": "0x639f689ba5f911180204703ca3038e09d38ab6ce"
+}

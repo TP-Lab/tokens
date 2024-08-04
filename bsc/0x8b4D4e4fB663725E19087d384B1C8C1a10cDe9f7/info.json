@@ -1,0 +1,11 @@
+{
+  "name": "ZYC",
+  "website": "https://www.zhengyuanchain.io/",
+  "description": "ZYChain system has the characteristics of high stability, strong expansibility and fast speed; Help small and medium-sized enterprises to visualize configuration and easily chain up",
+  "explorer": "https://bscscan.com/address/0x8b4D4e4fB663725E19087d384B1C8C1a10cDe9f7",
+  "type": "BEP20",
+  "symbol": "ZYC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8b4D4e4fB663725E19087d384B1C8C1a10cDe9f7"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "The Golden Dog",
+ "website": "https://thegoldendog.com/",
+ "description": " no",
+ "explorer": "https://etherscan.io/token/0x47d920a911cb9a0ad4618698ba3fef800abc868d",
+ "type": "ERC20",
+ "symbol": "Dog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x47d920a911cb9a0ad4618698ba3fef800abc868d"
+}

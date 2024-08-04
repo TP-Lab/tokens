@@ -1,0 +1,11 @@
+{
+ "name": "CalorieToken",
+ "website": "https://calorie.finance",
+ "description": "Calorie Token (Calorie, CT) is committed to solving health problems in the post-epidemic era, and encourages users to burn calories through exercise, so as to obtain CT tokens.",
+ "explorer": "https://bscscan.com/address/0x4F5d136A1303C7795712afF28b86C0f2e796A2C7",
+ "type": "BEP20",
+ "symbol": "CT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4F5d136A1303C7795712afF28b86C0f2e796A2C7"
+}

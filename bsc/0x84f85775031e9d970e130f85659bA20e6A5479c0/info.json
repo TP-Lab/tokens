@@ -1,0 +1,11 @@
+{ 
+"name": "Kung Fu Panda",
+"website": "http://herounion.club",
+"description": "KFpanda is automatic dividend USDT, just hold it, USDT automatically to YOUR wallet",
+"explorer": "https://bscscan.com/token/0x84f85775031e9d970e130f85659bA20e6A5479c0",
+"type": "BEP20",
+"symbol": "KFpanda",
+"decimals": 18,
+"status": "active",
+"id": "0x84f85775031e9d970e130f85659bA20e6A5479c0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CDC TOKEN",
+  "website": "https://cdcswap.com/",
+  "description": "CDC is a creator economic ecosystem based on blockchain, divided into financial layer, sidechain Appchain, and application layer. It supports lending, blockchain gaming, social and information platforms, providing application incentives through Appchain sidechains for governance and providing capabilities for on chain applications.",
+  "explorer": "https://bscscan.com/address/0x360c163a7edb4faeaab9b2cf585df0fcba06b865",
+  "type": "BEP20",
+  "symbol": "CDC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x360c163a7edb4faeaab9b2cf585df0fcba06b865"
+}

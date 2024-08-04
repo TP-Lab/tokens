@@ -1,0 +1,11 @@
+{
+ "name": "Pyramid Management Trading",
+ "website": "https://www.pmtwallets.com/",
+ "description": "Use your PMT, earn and pay with PMT",
+ "explorer": "https://bscscan.com/token/0x09566Fd86533832017Dc7c45d570DC51403547d4",
+ "type": "BEP20",
+ "symbol": "PMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x09566Fd86533832017Dc7c45d570DC51403547d4"
+}

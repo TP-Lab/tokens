@@ -1,0 +1,11 @@
+{
+ "name": "Uniall Pay",
+ "website": "https://bscscan.com/token/0xa78e9e40bb247dafc64af79d13c446c9c7442643",
+ "description": "Uniall Pay 机构为金融机构提供了一个交易平台，使他们能够在 Uniall pay 上进行交易，同时保持遵守监管框架。",
+ "explorer": "https://bscscan.com/token/0xa78e9e40bb247dafc64af79d13c446c9c7442643",
+ "type": "BEP20",
+ "symbol": "UP",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xa78e9E40bB247dAfc64Af79d13c446c9C7442643"
+}

@@ -1,0 +1,11 @@
+{
+ "name": “SHIBA INU BABY”,
+ "website": "https://www.shibbtoken.com",
+ "description": "Shiba Inu Baby (SHIBB) is a decentralized Meme token.",
+ "explorer": "https://bscscan.com/token/0x0E0d97DdD63eb75fBACE026B8A3E56cBE225c298",
+ "type": “BEP20”,
+ "symbol": “SHIBB”,
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0E0d97DdD63eb75fBACE026B8A3E56cBE225c298"
+}

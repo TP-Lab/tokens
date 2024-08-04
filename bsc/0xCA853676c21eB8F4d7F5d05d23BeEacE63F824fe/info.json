@@ -1,0 +1,11 @@
+{
+ "name": "Crypto Spider",
+ "website": "https://www.spider-game.com",
+ "description": "Crypto Spider is a game in p2e&pvp mode. It will present a better experience. Realize the real earning game.",
+ "explorer": "https://bscscan.com/token/0xCA853676c21eB8F4d7F5d05d23BeEacE63F824fe",
+ "type": "BEP20",
+ "symbol": "Spider",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xCA853676c21eB8F4d7F5d05d23BeEacE63F824fe"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "AMMPIRE",
+ "website": "http://lbdao.net",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xA2cE2B0D961005aE2ADa4D886643Edc3B9a11704",
+ "type": "BEP20",
+ "symbol": "AMM",
+ "decimals": 18,
+ "status": "not open",
+ "id": "0xA2cE2B0D961005aE2ADa4D886643Edc3B9a11704"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "ZT",
+ "website": "",
+ "description": "ZT是由OSK超强共者联合发起，通过社区自治，社区高度共识的宗旨，旨在助力基于OSK生态，正心正念，联合坐庄，打造OSK生态全网最强共识，同时由PG Annie国际节点鼎力支持",
+ "explorer": "https://bscscan.com/token/0x526FCd7A4cc150A6feAf24F8469D531BE881F80F",
+ "type": "BEP20",
+ "symbol": "ZT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x526FCd7A4cc150A6feAf24F8469D531BE881F80F"
+}

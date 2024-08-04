@@ -1,0 +1,11 @@
+{
+ "name": "FST",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xea3c9612ed8f98a8a5ae04e9ff1175f38ee93ee5",
+ "type": "BEP20",
+ "symbol": "FST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xea3c9612ed8f98a8a5ae04e9ff1175f38ee93ee5"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BitMeme coin",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xE5195687390306f9E1adC81E21C9994c715C8A9D",
+ "type": "BEP20",
+ "symbol": "BitMeme",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xE5195687390306f9E1adC81E21C9994c715C8A9D"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Bulldog",
+    "website": "Bulldog.com",
+    "description": "BDC is the WEB3+DIFI DAO organization token, which is issued on the BSC chain.",
+    "explorer": "https://bscscan.com/token/0xE518A099b6f29e7324f665885D83fC737120774d",
+    "type": "BEP20",
+    "symbol": "BDC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE518A099b6f29e7324f665885D83fC737120774d"
+} 

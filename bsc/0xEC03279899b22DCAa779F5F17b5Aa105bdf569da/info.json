@@ -1,0 +1,11 @@
+{
+    "name": "MECT",
+    "website": "https://cointool.app/approve/bsc?utm_source=tokenpocket",
+    "description": "涅槃重生！向阳而生！逆风而行！",
+    "explorer": "https://bscscan.com/token/0xEC03279899b22DCAa779F5F17b5Aa105bdf569da",
+    "type": "BEP20",
+    "symbol": "MECT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xEC03279899b22DCAa779F5F17b5Aa105bdf569da"
+   }

@@ -1,0 +1,11 @@
+{
+ "name": "random",
+ "website": "..",
+ "description": "",
+ "explorer": "https://cn.etherscan.com/token/0x1c7E83f8C581a967940DBfa7984744646AE46b29",
+ "type": "ERC20",
+ "symbol": "RND",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1c7E83f8C581a967940DBfa7984744646AE46b29"
+}

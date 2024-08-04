@@ -1,0 +1,11 @@
+{
+  "name": "State Street Global Advisors",
+  "website": "http://ssga.io/",
+  "description": "SSGA token is a decentralized financial project developed based on Web3.0, ChatGPT and AI artificial intelligence computing power. It provides users with storage and transaction services of mainstream digital currencies, and at the same time provides users with mining pool mining and market incentives. Provide rich income opportunities.",
+  "explorer": "https://bscscan.com/token/0x5015b1b4112C77bCBF7A2549e2fA16b996Fd60c8",
+  "type": "BEP20",
+  "symbol": "SSGA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5015b1b4112C77bCBF7A2549e2fA16b996Fd60c8"
+}

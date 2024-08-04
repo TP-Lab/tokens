@@ -1,0 +1,11 @@
+{
+ "name": "FUTURE COIN",
+ "website": "www.ftc.org",
+ "description": "FTC is a defi scientific research project.",
+ "explorer": "https://bscscan.com/token/0x659A70Ed406043264C154CD1a4B5C3cAAdACD7F2",
+ "type": "BEP20",
+ "symbol": "FTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x659A70Ed406043264C154CD1a4B5C3cAAdACD7F2"
+}

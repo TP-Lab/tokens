@@ -1,0 +1,11 @@
+{
+ "name": "AI",
+ "website": "http://dapp.lin-x.live",
+ "description": "AI is a decentralized token based on the BSC chain issued by DEFI, with a deflationary destruction mechanism",
+ "explorer":    "https://bscscan.com/token/0x39a7daa7864125bf4c9c9fb478a6aab75f826efe",
+ "type": "BEP20",
+ "symbol": "AI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x39a7daa7864125bf4c9c9fb478a6aab75f826efe"
+}

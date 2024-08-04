@@ -1,0 +1,11 @@
+{
+ "name": "ORDI 2.0",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x05800C8635C53dCe61358BDF6C55eEC7ACE072ad",
+ "type": "BEP20",
+ "symbol": "ORDI2",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x05800C8635C53dCe61358BDF6C55eEC7ACE072ad"
+}

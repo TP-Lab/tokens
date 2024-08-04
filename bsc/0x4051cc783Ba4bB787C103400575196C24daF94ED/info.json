@@ -1,0 +1,11 @@
+{
+ "name": "Champion Bet Coins",
+ "website": "https://cbc.top",
+ "description": "Champion Bet Coins",
+ "explorer": "https://www.bscscan.com/token/0x4051cc783Ba4bB787C103400575196C24daF94ED",
+ "type": "BEP20",
+ "symbol": "CBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4051cc783Ba4bB787C103400575196C24daF94ED"
+}

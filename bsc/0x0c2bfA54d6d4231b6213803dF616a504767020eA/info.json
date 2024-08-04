@@ -1,0 +1,11 @@
+{
+  "name": "CloudChat Token",
+  "website": "https://cloudchat.cc",
+  "description": "We will empower cc and provide an application ecosystem based on the cc platform, including but not limited to DeFi, Finance, Social",
+  "explorer": "https://bscscan.com/address/0x0c2bfA54d6d4231b6213803dF616a504767020eA",
+  "type": "BEP20",
+  "symbol": "CC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0c2bfA54d6d4231b6213803dF616a504767020eA"
+}

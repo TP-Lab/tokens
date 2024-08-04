@@ -1,0 +1,11 @@
+{ 
+"name": "FOF TOKEN",
+"website": "https://fofswap.finance",
+"description": "",
+"explorer": "https://bscscan.com/token/0xFDD40CEbCDe1E98B6492Dfd016b9F8B99B7aF1C1",
+"type": "BEP20",
+"symbol": "FOF",
+"decimals": 9,
+"status": "active",
+"id": "0xFDD40CEbCDe1E98B6492Dfd016b9F8B99B7aF1C1"
+}

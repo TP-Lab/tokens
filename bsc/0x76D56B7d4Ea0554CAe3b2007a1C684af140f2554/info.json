@@ -1,0 +1,11 @@
+{
+  "name": "XT",
+  "website": "https://bscscan.com/token/0x76D56B7d4Ea0554CAe3b2007a1C684af140f2554",
+  "description": "LNG TOKEN.",
+  "explorer": "https://bscscan.com/token/0x76D56B7d4Ea0554CAe3b2007a1C684af140f2554",
+  "type": "BEP20",
+  "symbol": "XT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x76D56B7d4Ea0554CAe3b2007a1C684af140f2554"
+}

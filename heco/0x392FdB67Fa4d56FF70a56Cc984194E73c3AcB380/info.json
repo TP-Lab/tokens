@@ -1,0 +1,11 @@
+{
+ "name": "NASAToken",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://www.hecoinfo.com/en-us/token/0x392fdb67fa4d56ff70a56cc984194e73c3acb380",
+ "type": "HRC20",
+ "symbol": "NASA",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x392FdB67Fa4d56FF70a56Cc984194E73c3AcB380"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "AIDL Token",
+ "website": "http://www.ailp.link/",
+ "description": "AILP is a DAO autonomous Defi coin, whose ecosystem includes compatibility with thousands of AI automatic market making robots, DEX,The total amount of AILP is 2024W. When it is destroyed to 524W, the 100% transaction fee required for purchasing tokens will be immediately cancelled, 8% of the selling coins are destroyed, and 10% of the tokens are used to subsidize the entire market every day",
+ "explorer": "https://bscscan.com/token/0xd2ea2142033296ee8c5c07e10e6dd7679fbd590a",
+ "type": "BEP20",
+ "symbol": "AILP",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xD2eA2142033296Ee8c5C07e10E6DD7679fBd590A"
+}

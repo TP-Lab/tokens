@@ -1,0 +1,21 @@
+{
+
+ "name": "ABZ",
+
+ "website": "http://abz.net3v.net",
+
+ "description": "ABZ is committed to building the best token in Decentric Finance. And it will be a dark horse in the financial field.",
+
+ "explorer": "https://bscscan.com/token/0x0bA9579DACb29e9EFf3f8beA6afe49b24928E383",
+
+ "type": "BEP20",
+
+ "symbol": "ABZ",
+
+ "decimals": 18,
+
+ "status": "active",
+
+ "id": "0x0bA9579DACb29e9EFf3f8beA6afe49b24928E383"
+
+}

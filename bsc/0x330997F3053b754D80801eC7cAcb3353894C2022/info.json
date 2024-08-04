@@ -1,0 +1,11 @@
+{
+ "name": "lron Man",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x330997F3053b754D80801eC7cAcb3353894C2022",
+ "type": "BEP20",
+ "symbol": "LM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x330997F3053b754D80801eC7cAcb3353894C2022"
+}

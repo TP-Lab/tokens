@@ -1,0 +1,11 @@
+{
+ "name": "JUPITER",
+ "website": "-",
+ "description": "JUPITER is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x57CA2436f9f54F4909a521e24768E21E322cAe88",
+ "type": "BEP20",
+ "symbol": "JUPITER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x57CA2436f9f54F4909a521e24768E21E322cAe88"
+}

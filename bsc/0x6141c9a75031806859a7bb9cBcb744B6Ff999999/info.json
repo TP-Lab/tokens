@@ -1,0 +1,11 @@
+{
+ "name": "CPOW",
+ "website": "https://www.c-pow.com/",
+ "description": "CPOW, as an asset of the CloudPow platform, is applied in the fields of ecological circulation, governance, and payment. Realize a completely decentralized network value embodiment, making services and transactions more convenient and efficient.",
+ "explorer": "https://bscscan.com/token/0x6141c9a75031806859a7bb9cBcb744B6Ff999999",
+ "type": "BEP20",
+ "symbol": "CPOW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6141c9a75031806859a7bb9cBcb744B6Ff999999"
+}

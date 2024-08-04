@@ -1,0 +1,11 @@
+{
+ "name": "Tortoise and rabbit race",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xE94A60f6DE752260E9CA2D6B979d4177545409DE",
+ "type": "BEP20",
+ "symbol": "HareKing",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE94A60f6DE752260E9CA2D6B979d4177545409DE"
+}

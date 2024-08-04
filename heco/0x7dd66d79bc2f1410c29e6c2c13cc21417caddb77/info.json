@@ -1,0 +1,11 @@
+{
+ "name": "HOY",
+ "website": "https://hoydapp.github.io",
+ "description": "no",
+ "explorer": "https://hecoinfo.com/token/0x7dd66d79bc2f1410c29e6c2c13cc21417caddb77",
+ "type": "HECO",
+ "symbol": "HOY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7dd66d79bc2f1410c29e6c2c13cc21417caddb77"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Blue Tears",
+ "website": "https://www.bluetears.fit",
+ "description": "Blue tears.Tax: 8%(marketing2%+ 6% of the funds are locked)",
+ "explorer": "https://bscscan.com/token/0xc42a97de52d661486e1e98285ffb8dfaad128ec9",
+ "type": "BEP20",
+ "symbol": "Blue Tears",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xc42a97DE52D661486E1e98285Ffb8DFaAd128EC9"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Star Show",
+ "website": "www.starshow.com",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x37f96EbF0C24ddaEc0470f5260B3d7B1f4e4f812",
+ "type": "BEP20",
+ "symbol": "SRS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x37f96EbF0C24ddaEc0470f5260B3d7B1f4e4f812"
+}

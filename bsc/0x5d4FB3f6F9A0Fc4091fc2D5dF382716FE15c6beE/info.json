@@ -1,0 +1,11 @@
+{
+ "name": "RPO",
+ "website": "https://web.readyplayerone.vip",
+ "description": "秉承着把 NFT+元宇宙+DeFi 概念深入应用的理念，Ready Player One 生态形成了包括 DeFi 流动性挖矿、NFT、元宇宙、链游、盲盒、健康通证、支付、线上线下消费等在内的核心场景",
+ "explorer": "https://bscscan.com/token/0x5d4FB3f6F9A0Fc4091fc2D5dF382716FE15c6beE",
+ "type": "BEP20",
+ "symbol": "RPO",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x5d4FB3f6F9A0Fc4091fc2D5dF382716FE15c6beE"
+}

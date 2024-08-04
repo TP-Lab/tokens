@@ -1,0 +1,11 @@
+{
+    "name": "WorldFarm Token",
+    "website": "https://world-farm.org",
+    "description": "WorldFarm - A Web3 free metaverse game world",
+    "explorer": "https://bscscan.com/token/0xa62a7ac128f0734b68c4a998a9ce8325f1f2d7a3",
+    "type": "BEP20",
+    "symbol": "WFT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa62a7ac128F0734b68c4A998A9CE8325F1F2D7A3"
+   }

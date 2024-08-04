@@ -1,0 +1,11 @@
+{
+   "name":"HSD Token",
+   "website":"www.ftzo2o.com",
+   "description":"HSD tokens asset is issued 77777777 for HSD NFT at the BSC20 blockchain format with the contract address:0xb579327c4403eDfCB7F3d990D3C5E30E46671350.Customers can purchase HSD NFT by recharge and exchange BDD through the Parchim Free Trade Zone Exchange Multi-currency Digital Currency Wallet, withdraw to their personal accounts, and can exchange HSD NFT for BDD tokens for circulation, and also exchange cash through Parchim Free Trade Zone OTC Trading. Customers can purchase HSD NFT through the Parchim Free Trade online shop OTC recharge and exchangeBDD token in the digital assets column of Parchim Free Trade online shop.",
+   "explorer":"https://bscscan.com/token/0xb579327c4403eDfCB7F3d990D3C5E30E46671350",
+   "type":"BEP20",
+   "symbol":"P2E",
+   "decimals":18,
+   "status":"active",
+   "id":"0xb579327c4403eDfCB7F3d990D3C5E30E46671350"
+}

@@ -1,0 +1,11 @@
+{
+   "name": "DAOPORT",
+   "website": "https://daoport.io/",
+   "description": "DAOPORT is a decentralized DAO investment research and incubation platform. Metaverse and web3.0 will be the next direction of DAOPORT investment research. DAOPORT is a BSC-based DAO protocol, which can quickly run DAO functions.  ",
+   "explorer": "https://bscscan.com/token/0x3D40B9568d97064feAf6783ae1deE597BF40541e",
+   "type": "BEP20",
+   "symbol": "DAOT",
+   "decimals": 18,
+   "status": "active",
+   "id": "0x3D40B9568d97064feAf6783ae1deE597BF40541e"
+}

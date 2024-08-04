@@ -1,0 +1,10 @@
+{
+ "name": "Bomber Hero",
+ "website": "https://bombcrypto.io/",
+ "description": "#PlayToEarn Bomber game based on #Blockchain | Collect Bomber hero, mining to earn Bcoin tokens | #NFT #GameFi",
+ "explorer": "https://bscscan.com/token/0x30cc0553f6fa1faf6d7847891b9b36eb559dc618",
+ "type": "ERC721",
+ "symbol": "BHERO",
+ "status": "active",
+ "id": "0x30Cc0553F6Fa1fAF6d7847891b9b36eb559dC618"
+}

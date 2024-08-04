@@ -1,0 +1,11 @@
+{
+ "name": "Never Fall",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x5ABDe8B434133C98c36F4B21476791D95D888bF5",
+ "type": "BEP20",
+ "symbol": "Never Fall",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5ABDe8B434133C98c36F4B21476791D95D888bF5"
+}

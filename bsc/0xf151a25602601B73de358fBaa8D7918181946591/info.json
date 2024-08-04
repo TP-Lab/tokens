@@ -1,0 +1,11 @@
+{
+ "name": "CHN",
+ "website": "https://bscscan.com/token/0xf151a25602601B73de358fBaa8D7918181946591",
+ "description": "CHN TOKEN.",
+ "explorer": "https://bscscan.com/token/0xf151a25602601B73de358fBaa8D7918181946591",
+ "type": "BEP20",
+ "symbol": "CHN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf151a25602601B73de358fBaa8D7918181946591"
+}

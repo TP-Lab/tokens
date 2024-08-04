@@ -1,0 +1,9 @@
+{
+ "name": "TCP",
+ "explorer": "https://bscscan.com/token/0x89bb0af5ea1b98cbccd61b1af19baf581965d3ac",
+ "type": "BEP20",
+ "symbol": "TCP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x89BB0Af5eA1B98CbcCd61b1af19BAF581965d3ac"
+}

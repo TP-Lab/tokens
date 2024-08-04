@@ -1,0 +1,11 @@
+{
+  "name": "Volk Coin",
+  "website": "https://www.volkvlog.com",
+  "description": "VolkVlog is a decentralized short video app based on blockchain technology. Volk Coin is the token of Volk ecology.",
+  "explorer": "https://polygonscan.com/address/0xCa9E4c4eB8C75e3dA8B5738Ca58DC3632384492c",
+  "type": "Polygon",
+  "symbol": "VC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xCa9E4c4eB8C75e3dA8B5738Ca58DC3632384492c"
+}

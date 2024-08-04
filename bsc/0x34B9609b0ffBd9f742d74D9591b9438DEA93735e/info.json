@@ -1,0 +1,11 @@
+{
+ "name": "CTX",
+ "website": "https://ctxcoin.github.io",
+ "description": "CTX is a large scale multiplayer online simulation game (CTX), with interstellar space as the background and cyberpunk style as the main theme. The game provides a large number of galaxies home to various planets.",
+ "explorer": "https://bscscan.com/token/0x34B9609b0ffBd9f742d74D9591b9438DEA93735e",
+ "type": "BEP20",
+ "symbol": "CTX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x34B9609b0ffBd9f742d74D9591b9438DEA93735e"
+}

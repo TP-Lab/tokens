@@ -1,0 +1,11 @@
+{
+ "name": "IXBTC",
+ "website": "",
+ "description": "IXBTC public welfare + Defi + shared office, physical and digital economy industry and finance combined..",
+ "explorer": "https://bscscan.com/token/0x26bBE014369b4a3ae739D590Ee2f403189128f02",
+ "type": "BEP20",
+ "symbol": "IXBTC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x26bBE014369b4a3ae739D590Ee2f403189128f02"
+}

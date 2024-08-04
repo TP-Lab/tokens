@@ -1,0 +1,11 @@
+{
+ "name": "Minecraft",
+ "website": "https://mcdao.org/",
+ "description": "MC is the official game token of Minecraft DAO",
+ "explorer": "https://bscscan.com/token/0xd66B7fec3F891F8A732e489c4591d5e2C4303091",
+ "type": "BEP20",
+ "symbol": "MC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd66B7fec3F891F8A732e489c4591d5e2C4303091"
+}

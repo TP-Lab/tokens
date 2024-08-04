@@ -1,0 +1,11 @@
+{
+ "name": "JOCK",
+ "website": "https://jockeyclub.online",
+ "description": "JOCK is mainly used for rewards and consumption within the game system (horses, challenges, championships, breeding and synthesis, etc.), and can also be used as a proof of ecological governance to initiate proposals, participate in voting and other governance activities in the community.",
+ "explorer": "https://bscscan.com/token/0x950591b0f2e13453abdf627b83d30a2eb09c7eaa",
+ "type": "BEP20",
+ "symbol": "JOCK",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x950591b0f2e13453abdf627b83d30a2eb09c7eaa"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Twilight",
+    "website": "https://twilightgame.io/",
+    "description": "Twilight is the world's first BUSD-based NFT game with a Reverse-oracle mechanism. You can play the role of Vampires, Paladin and Hunters, build your army, fight against the powerful enemies and earn steady income while enjoying the strategy game. ",
+    "explorer": "https://bscscan.com/token/0x5936480923dB2183f8A9cCf609A133f432b0dD48",
+    "type": "BEP20",
+    "symbol": "TWI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5936480923dB2183f8A9cCf609A133f432b0dD48"
+}

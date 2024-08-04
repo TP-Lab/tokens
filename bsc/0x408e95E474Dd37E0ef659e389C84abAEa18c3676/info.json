@@ -1,0 +1,11 @@
+{ 
+"name": "1ETH",
+"website": "",
+"description": "",
+"explorer": "https://bscscan.com/address/0x408e95E474Dd37E0ef659e389C84abAEa18c3676",
+"type": "BEP20",
+"symbol": "1ETH",
+"decimals": 18,
+"status": "active",
+"id": "0x408e95E474Dd37E0ef659e389C84abAEa18c3676"
+}

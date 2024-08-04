@@ -1,0 +1,11 @@
+{
+ "name": "XYT Token",
+ "website": "http://www.xinyuetaitoken.site",
+ "description": "$XYT was born so that people can earn money through games to exchange for more goods.",
+ "explorer": "https://bscscan.com/token/0x7c5c1A274E7c297db988910C1446B9EEE763e26F",
+ "type": "BEP20",
+ "symbol": "XYT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7c5c1A274E7c297db988910C1446B9EEE763e26F"
+}

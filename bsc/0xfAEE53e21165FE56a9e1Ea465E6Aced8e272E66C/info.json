@@ -1,0 +1,11 @@
+{
+ "name": "All people DAO",
+ "website": "https://www.allpeopledao.link/",
+ "description": "All people DAO (All people) is the first to write DAO on the chain and exercise sovereignty",
+ "explorer": "https://www.bscscan.com/token/0xfAEE53e21165FE56a9e1Ea465E6Aced8e272E66C",
+ "type": "BEP20",
+ "symbol": "PDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfAEE53e21165FE56a9e1Ea465E6Aced8e272E66C"
+}

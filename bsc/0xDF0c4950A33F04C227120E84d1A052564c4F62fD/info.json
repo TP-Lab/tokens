@@ -1,0 +1,12 @@
+{
+ "name": "Clico Token",
+ "website": "https://xcl.clico.co",
+ "description": "The native token of Clico, $XCL, allows clients to purchase digital services and assets with cryptocurrency. Customers can pay with $XCL, as well as other popular tokens, such as BNB, CAKE, USDT, and more.
+ Additionally, clients who use or HODL the $XCL token for purchases on CLICO can earn special discounts and rewards, such as NFTs and airdrops.",
+ "explorer": "https://bscscan.com/token/0xdf0c4950a33f04c227120e84d1a052564c4f62fd",
+ "type": "BEP20",
+ "symbol": "XCL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDF0c4950A33F04C227120E84d1A052564c4F62fD"
+}

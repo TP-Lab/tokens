@@ -1,0 +1,11 @@
+{
+    "name": "LOTTERY SWAP",
+    "website": "https://dao.lotteryswap.finance",
+    "description": "A completely trustless and fair lottery deployed by on-chain smart contracts.",
+    "explorer": "https://bscscan.com/address/0x69eB32984043EA38996D872c43F935A3fFA7C06d",
+    "type": "BEP20",
+    "symbol": "LOTTO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x69eB32984043EA38996D872c43F935A3fFA7C06d"
+}

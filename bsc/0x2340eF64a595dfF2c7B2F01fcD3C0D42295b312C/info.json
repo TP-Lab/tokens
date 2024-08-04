@@ -1,0 +1,11 @@
+{
+ "name": "WODESWAP",
+ "website": "https://wodeswap.com",
+ "description": "The world's first aggregated decentralized trading application with features such as multi chain, multi scenario, and multi application. It adopts AISmart AMM intelligent market makers to effectively solve the pain points of chain listing value. Driven by DAO autonomy and incentive layers, it achieves steady growth in market value and K-line.",
+ "explorer": "https://bscscan.com/token/0x2340ef64a595dff2c7b2f01fcd3c0d42295b312c",
+ "type": "BEP20",
+ "symbol": "WOD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2340eF64a595dfF2c7B2F01fcD3C0D42295b312C"
+}

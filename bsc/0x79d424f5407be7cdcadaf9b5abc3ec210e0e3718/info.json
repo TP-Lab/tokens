@@ -1,0 +1,11 @@
+{
+ "name": "LCG",
+ "website": "https://www.lowcarbonglobal.world",
+ "description": "LCG低碳全球，共同倡导呼吁保护地球环境。",
+ "explorer": "https://bscscan.com/token/0x79d424f5407be7cdcadaf9b5abc3ec210e0e3718",
+ "type": "BEP20",
+ "symbol": "LCG",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x79d424f5407be7cdcadaf9b5abc3ec210e0e3718"
+}

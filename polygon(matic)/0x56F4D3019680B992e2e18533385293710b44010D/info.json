@@ -1,0 +1,11 @@
+{
+  "name": "Credit DAO Token",
+  "website": "0x56F4D3019680B992e2e18533385293710b44010D",
+  "description": "CD是Credit DAO的信用评级代币，该代币只可用SBT—CDP（EIP-5114协议）用时间证明机制（POT）来产出。可用来评估Web3社区成员对于DAO组织的贡献度和信用等级，平台收入和权益则根据等级优先分配。",
+  "explorer": "https://polygonscan.com/address/0x56F4D3019680B992e2e18533385293710b44010D",
+  "type": "ERC20",
+  "symbol": "CD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x56F4D3019680B992e2e18533385293710b44010D"
+}

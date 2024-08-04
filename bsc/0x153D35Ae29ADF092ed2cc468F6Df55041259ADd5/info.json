@@ -1,0 +1,11 @@
+{
+ "name": "OriginDAO",
+ "website": "-",
+ "description": "OriginDAO Tokenis an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x153D35Ae29ADF092ed2cc468F6Df55041259ADd5",
+ "type": "BEP20",
+ "symbol": "OriginDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x153D35Ae29ADF092ed2cc468F6Df55041259ADd5"
+}

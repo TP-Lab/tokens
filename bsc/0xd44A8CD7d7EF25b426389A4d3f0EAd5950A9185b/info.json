@@ -1,0 +1,11 @@
+{
+  "name": "Di TUI Coin",
+  "website": "http://www.dtctoken.top/",
+  "description": "Di TUI Coin (DTC) is a new token of encrypted network, which is published in BSC.",
+  "explorer": "https://bscscan.com/address/0xd44A8CD7d7EF25b426389A4d3f0EAd5950A9185b",
+  "type": "BEP20",
+  "symbol": "DTC",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xd44A8CD7d7EF25b426389A4d3f0EAd5950A9185b"
+}

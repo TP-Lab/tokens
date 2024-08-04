@@ -1,0 +1,11 @@
+{
+ "name": "CQH",
+ "website": ".",
+ "description": "CQH是CQH社区的治理代币",
+ "explorer": "https://bscscan.com/token/0x1798ad375FD2B3eE44E2300e95E4548fd5B21cF1",
+ "type": "BSC20",
+ "symbol": "CQH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1798ad375FD2B3eE44E2300e95E4548fd5B21cF1"
+}

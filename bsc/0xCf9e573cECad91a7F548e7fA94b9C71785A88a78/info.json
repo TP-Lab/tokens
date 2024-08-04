@@ -1,0 +1,11 @@
+{
+ "name": "KSC Token",
+ "website": "https://www.ksc.com",
+ "description": "KSC Token",
+ "explorer": "https://www.bscscan.com/token/0xcf9e573cecad91a7f548e7fa94b9c71785a88a78",
+ "type": "ERC20",
+ "symbol": "KSC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCf9e573cECad91a7F548e7fA94b9C71785A88a78"
+}

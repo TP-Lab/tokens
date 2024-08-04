@@ -1,0 +1,11 @@
+{
+   "name":"BDD Token",
+   "website":"www.ftzo2o.com",
+   "description":"BDD tokens asset is issued 1350 billion at the BSC20 blockchain format with the contract address:0xdFb0e306117907b8Ec3467361126BF7152E03977. BDD tokens are released through the collateralized block exchange of PCH tokens, which are asset-backed securitized tokens in the Parchim Free Trade Zone. BDD tokens can be exchanged at a one-to-one ratio with CNY and traded as equivalent on the Parchim Exchange. The Parchim Exchange reserves sufficient PCH digital asset tokens, with reserves in Euros, US Dollars, and Hong Kong Dollars, to ensure the liquidity and value stability of BDD tokens. BDD tokens can be exchanged and traded with other blockchain digital tokens.",
+   "explorer":"https://bscscan.com/address/0xdFb0e306117907b8Ec3467361126BF7152E03977",
+   "type":"BEP20",
+   "symbol":"BDD",
+   "decimals":18,
+   "status":"active",
+   "id":"0xdFb0e306117907b8Ec3467361126BF7152E03977"
+}

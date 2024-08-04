@@ -1,0 +1,11 @@
+{
+    "name": "BNB SUN",
+    "website": ".",
+    "description": "SUN is for the young, the restless, the meme-obsessed. We're talking savage burns, a community tighter than a black hole's singularity, and enough marketing fuel to launch us straight to the moon (and maybe even Mars, if we're feeling frisky). ",
+    "explorer": "https://etherscan.io/token/0x65b6b9DF13D2c2aAF5AE1A3956245a6aC2427192",
+    "type": ERC20",
+    "symbol": "Sun",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x65b6b9DF13D2c2aAF5AE1A3956245a6aC2427192"
+}

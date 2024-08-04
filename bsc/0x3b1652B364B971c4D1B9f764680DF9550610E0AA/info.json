@@ -1,0 +1,11 @@
+{
+ "name": "PEPEFANS token",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x3b1652B364B971c4D1B9f764680DF9550610E0AA",
+ "type": "BEP20",
+ "symbol": "PEPEFANS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3b1652B364B971c4D1B9f764680DF9550610E0AA"
+}

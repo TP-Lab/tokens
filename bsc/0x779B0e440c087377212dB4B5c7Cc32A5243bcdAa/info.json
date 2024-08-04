@@ -1,0 +1,11 @@
+{
+ "name": "CS",
+ "website": "-",
+ "description": "CS belongs to CS-SWAP 1.0 NFT Casting Token, issue: 1888, for 2.0NFT casting function.",
+ "explorer": "https://bscscan.com/address/0x779B0e440c087377212dB4B5c7Cc32A5243bcdAa",
+ "type": "BEP20",
+ "symbol": "CS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x779B0e440c087377212dB4B5c7Cc32A5243bcdAa"
+}  

@@ -1,0 +1,11 @@
+{ 
+"name": "AIGurner",
+"website": "http://www.agcoin.top/pc",
+"description": "AG代币是一种基于人工智能和区块链技术结合的代币，旨在推动人工智能领域的发展和应用。作为AIGPT生态系统的核心代币，AG代币具有多重功能和用途。它可以用于支付AIGPT智能合约的执行费用，支持AIGPT算法研究和开发，以及促进生态系统的发展和增加流动性。AG代币的发行和交易基于安全可靠的区块链技术，确保交易的透明性和安全性。AG代币的引入将进一步推动人工智能与区块链的融合，为用户和开发者提供更多创新和商业机会。",
+"explorer": "https://bscscan.com/token/0xAdBe99233db5A43c37Bce2D4f174F69E46dBB18a",
+"type": "BEP20",
+"symbol": "AG",
+"decimals": 18,
+"status": "active",
+"id": "0xAdBe99233db5A43c37Bce2D4f174F69E46dBB18a"
+}

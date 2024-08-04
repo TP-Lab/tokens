@@ -1,0 +1,11 @@
+{
+ "name": "iNFTspace",
+ "website": "https://www.inftspace.com/",
+ "description": "a NFT trading platform based on DAO incentives, and it will jointly promote the creation and value growth of the NFT field through collaboration. iNFTspace aims to support NFT creators in better promotion of works and community feedback through DAO community building and transaction mining model. ",
+ "explorer": "https://polygonscan.com/address/0xb988bd378a0754957d5d9471c96e0f8051645a26",
+ "type": "ERC20",
+ "symbol": "INS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb988Bd378A0754957d5D9471C96E0F8051645a26"
+}

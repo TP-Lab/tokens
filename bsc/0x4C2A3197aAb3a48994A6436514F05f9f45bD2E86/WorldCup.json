@@ -1,0 +1,11 @@
+{
+   "name": "WorldCup",
+   "website": "http://www.worldcupcoin321.com",
+   "description": "A leading multi-chain wallet that supports BSC",
+   "explorer": "https://bscscan.com/token/0x4c2a3197aab3a48994a6436514f05f9f45bd2e86",
+   "type": "BEP20",
+   "symbol": "WorldCup",
+   "decimals": 9,
+   "status": "active",
+   "id": "0x4C2A3197aAb3a48994A6436514F05f9f45bD2E86"
+}

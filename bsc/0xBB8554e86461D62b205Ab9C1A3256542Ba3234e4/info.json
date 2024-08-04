@@ -1,0 +1,11 @@
+{
+ "name": "DR",
+ "website": "http://drdao.shop/",
+ "description": "Diamonds are not the most dazzling, but they must be the fairest, the most bottom line, and never return to zero coins!",
+ "explorer": "https://bscscan.com/address/0xBB8554e86461D62b205Ab9C1A3256542Ba3234e4",
+ "type": "BEP20",
+ "symbol": "DR",
+ "decimals":18,
+ "status": "active",
+ "id": "0xBB8554e86461D62b205Ab9C1A3256542Ba3234e4"
+}

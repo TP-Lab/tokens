@@ -1,0 +1,12 @@
+{ 
+    "name": "Crypto Trends Fund",
+    "website": "https://www.cryptotrendsfund.org//",
+    "description": "Crypto Trends Fund是一个加密行业基金，跟踪行业趋势和机遇，建立一个完整的web3投资平台和生态系统，一个由用户拥有和管理的经济体。让全球散户和各大投资机构一样，有公平的投资机会，从而获得更可观的回报。
+Crypto Trends Fund主要业务包括launchpad、加密货币支付解决方案（网关）、DeFi、DEX、NFT、Metaverse、Web3.0等加密生态，涵盖多种融资形式。",
+    "explorer": "https://bscscan.com/token/0x5fBfF2e6dF6ba93C7A00E173ba598FfCe96A519A",
+    "type": "BEP20",
+    "symbol": "0x5fBfF2e6dF6ba93C7A00E173ba598FfCe96A519A",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5fBfF2e6dF6ba93C7A00E173ba598FfCe96A519A"
+}

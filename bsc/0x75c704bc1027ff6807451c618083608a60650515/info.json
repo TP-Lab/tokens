@@ -1,0 +1,11 @@
+{
+    "name": "HLW",
+    "website": "https://tokenpocket.pro",
+    "description": "HLW, a comprehensive metaverse chain game platform developed based on Binance Smart Chain",
+    "explorer": "https://bscscan.com/token/0x75c704bc1027ff6807451c618083608a60650515",
+    "type": "BEP20",
+    "symbol": "HLW",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x75c704bc1027ff6807451c618083608a60650515"
+   }

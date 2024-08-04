@@ -1,0 +1,11 @@
+{
+ "name": "YCAI Chain",
+ "website": "https://www.ycai.hk",
+ "description": "YCAI is a token token token token running on BSC that is suitable for offline business integration.",
+ "explorer": "https://bscscan.com/address/0x40C10F5268D4F6D1CB59E40e8b142e7EaF8E3ca2",
+ "type": "BEP20",
+ "symbol": "YCAI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x40C10F5268D4F6D1CB59E40e8b142e7EaF8E3ca2"
+}

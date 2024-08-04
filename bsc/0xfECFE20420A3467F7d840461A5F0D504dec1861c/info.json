@@ -1,0 +1,11 @@
+{
+ "name": "FutureStar",
+ "website": "https://www.futurestar.shop",
+ "description": "FCC 是未来社区基于 DeFi+NFT+元宇宙+社区生态落地的开放式应用平台，真正倡导去中心化DAO组织社区自治管理，已有多个社区形成强共识，为打造FCC市值超亿美金为共同目标，创建一个公平公正公开透明的交易环境!",
+ "explorer": "https://bscscan.com/token/0xfECFE20420A3467F7d840461A5F0D504dec1861c",
+ "type": "BEP20",
+ "symbol": "FCC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfECFE20420A3467F7d840461A5F0D504dec1861c"
+}

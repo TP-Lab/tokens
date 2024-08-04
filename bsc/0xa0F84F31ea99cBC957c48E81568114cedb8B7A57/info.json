@@ -1,0 +1,11 @@
+{
+ "name": "VENUS",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0xa0F84F31ea99cBC957c48E81568114cedb8B7A57",
+ "type": "BEP20",
+ "symbol": "VENUS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa0F84F31ea99cBC957c48E81568114cedb8B7A57"
+}

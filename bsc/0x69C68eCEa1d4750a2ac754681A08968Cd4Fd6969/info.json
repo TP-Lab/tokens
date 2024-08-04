@@ -1,0 +1,11 @@
+{
+ "name": "CatKing",
+ "website": " https://www.catkingdom.app/",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x69C68eCEa1d4750a2ac754681A08968Cd4Fd6969",
+ "type": "BEP20",
+ "symbol": "CatKing",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x69C68eCEa1d4750a2ac754681A08968Cd4Fd6969"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "CryptoClans token",
+    "website": "https://www.clashofclans.capital",
+    "description": "By operating your own village, players can gradually strengthen their forces, and then thousands of players can fight.",
+    "explorer": "https://bscscan.com/address/0xb43fcc44973738e7b8c0025cf25c7f1c46de1549",
+    "type": "BEP20",
+    "symbol": "COC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB43FCC44973738e7b8C0025Cf25C7f1c46dE1549"
+   } 

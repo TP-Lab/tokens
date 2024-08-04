@@ -1,0 +1,12 @@
+﻿{
+"name": "PicoGo",
+ "website":" www.picogo.io",
+"description": "task publishing platform for Web 3.0.",
+"explorer": "https://etherscan.io/token/0x4Dd981f0F2e7934B6B50c9d1bedA2B5456924DF6",
+"type": "ERC20",
+"symbol": "PICO",
+"decimals": 6,
+"status": "active",
+"id": "0x4Dd981f0F2e7934B6B50c9d1bedA2B5456924DF6"
+}
+    

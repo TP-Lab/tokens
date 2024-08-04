@@ -1,0 +1,11 @@
+{
+ "name": "moeny",
+ "website": "https://www.moytoken.com",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xa0cc4414019471bef0fe0b07a76da1f7cdc4ccf7",
+ "type": "BEP20",
+ "symbol": "MOY",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xa0cC4414019471bef0fe0b07a76dA1F7CDc4cCf7"
+}

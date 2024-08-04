@@ -1,0 +1,11 @@
+{
+	"name": "On-chain assets",
+	"website": "http://oca.tipppe.com",
+	"description": "TIP's first sub-ecosystem.",
+	"explorer": "https://bscscan.com/token/0x4E7a14cA1051Ae075C97d62bC90028dfaa2eeE2f",
+	"type": "BEP20",
+	"symbol": "OCA",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x4E7a14cA1051Ae075C97d62bC90028dfaa2eeE2f"
+   }

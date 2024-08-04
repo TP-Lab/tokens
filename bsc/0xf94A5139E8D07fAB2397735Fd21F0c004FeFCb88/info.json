@@ -1,0 +1,11 @@
+{
+    "name": "Babybone",
+    "website": "https://babybone.org/",
+    "description": "$BabyBone is a very powerful concept designed to 'force' us to work together and save our beloved doggies.",
+    "explorer": "https://bscscan.com/address/0xf94A5139E8D07fAB2397735Fd21F0c004FeFCb88",
+    "type": "BEP20",
+    "symbol": "BBone",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf94A5139E8D07fAB2397735Fd21F0c004FeFCb88"
+}

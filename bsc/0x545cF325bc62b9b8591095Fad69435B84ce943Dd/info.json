@@ -1,0 +1,11 @@
+{
+ "name": "DogeDa",
+ "website": "-",
+ "description": "DogeDa is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x545cF325bc62b9b8591095Fad69435B84ce943Dd",
+ "type": "BEP20",
+ "symbol": "DogeDa",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x545cF325bc62b9b8591095Fad69435B84ce943Dd"
+}

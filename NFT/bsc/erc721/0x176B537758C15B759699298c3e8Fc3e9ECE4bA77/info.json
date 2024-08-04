@@ -1,0 +1,10 @@
+{
+    "name": "FGD NFT",
+    "website": "https://fgd.ai",
+    "description": "FGD NFT is an FGD ecological empowerment certificate, holding NFT can obtain FGD ecological dividends and airdrops of game currency, etc.",
+    "explorer": "https://bscscan.com/token/0x176b537758c15b759699298c3e8fc3e9ece4ba77",
+    "type": "ERC721",
+    "symbol": "FGDNFT",
+    "status": "active",
+    "id": "0x176B537758C15B759699298c3e8Fc3e9ECE4bA77"
+   }

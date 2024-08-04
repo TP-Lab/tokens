@@ -1,0 +1,11 @@
+{
+ "name": "Pyy Token",
+ "website": "https://www.pyytoken.com/",
+ "description": "Pyy token A complete decentralized aggregation ecosystem based on artificial intelligence",
+ "explorer": "https://bscscan.com/token/0x9b74af7100b1B6997983175DFCa19BbdDe8e449D",
+ "type": "BEP20",
+ "symbol": "PYY",
+ "decimals": 10,
+ "status": "active",
+ "id": "0x9b74af7100b1B6997983175DFCa19BbdDe8e449D"
+}

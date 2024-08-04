@@ -1,0 +1,11 @@
+{
+	"name": "Fmiltoken",
+	"website": "https://dapp.wewallet.ink/",
+	"description": "Fmil将成为集链治理代币，允许代币持有者参与管理集链生态。代币持有者将能够创建治理提案并对其进行投票，并在协议级别对生态进行更改。",
+	"explorer": "https://polygonscan.com/token/0x4c97553C374F1b212c404f7766fC740a43A02CFe",
+	"type": "Polygon",
+	"symbol": "FMIL",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x4c97553C374F1b212c404f7766fC740a43A02CFe"
+}

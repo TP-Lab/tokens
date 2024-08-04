@@ -1,0 +1,11 @@
+{
+ "name": "GNA",
+ "website": "www.gnadapp.space",
+ "description": "戛纳【GNA】由戛纳影视慈善基金会投资发行 该基金会自成立以来，一直本着“帮助弱势群体，帮助青少年健康成长，共建美好的人文和自然环境”的组织宗旨，倡导 “以德为怀，以善为本，于人施慈，于己修善”的理念，传播弘扬慈善文化，秉承着“让大家的爱通过我们得以实现”的目标从事公益事业，得到了社会各界爱心人士的认可和支持。",
+ "explorer": "https://bscscan.com/token/0x0bc5772c76d274f2d387592b832dd3dae2aeedf5",
+ "type": "BEP20",
+ "symbol": "GNA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0Bc5772C76d274f2d387592b832dd3daE2AeEdF5"
+}

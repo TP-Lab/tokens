@@ -1,0 +1,11 @@
+{
+  "name": "Bull BTC Club",
+  "website": "https://bullbtc.club",
+  "description": "Bull BTC Club,Decentralized one-stop BTC cloud computing power financial service platform.",
+  "explorer": "https://bscscan.com/token/0x37e5da11b6A4DC6d2f7Abe232cDd30B0B8Fc63B1",
+  "type": "BEP20",
+  "symbol": "BBC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x37e5da11b6A4DC6d2f7Abe232cDd30B0B8Fc63B1"
+ }

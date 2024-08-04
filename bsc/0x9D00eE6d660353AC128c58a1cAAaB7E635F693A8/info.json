@@ -1,0 +1,11 @@
+{
+    "name": "YZT Token",
+    "website": "https://www.yzbnet.vip",
+    "description": "YZT is a new blockchain protocol that integrates the concepts of Metauniverse, DeFi, Web3.0, NFT and GameFi to build the world's first Web3.0 ecological application aggregation DAO platform.",
+    "explorer": "https://bscscan.com/token/0x9D00eE6d660353AC128c58a1cAAaB7E635F693A8",
+    "type": "BEP20",
+    "symbol": "YZT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9D00eE6d660353AC128c58a1cAAaB7E635F693A8"
+}

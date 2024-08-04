@@ -1,0 +1,11 @@
+{
+    "name": "THS",
+    "website": "https://themis.capital/",
+    "description": "Themis Protocol is the largest and most active protocol on Filecoin-FEVM as well as the highest TVL, and is the cornerstone protocol of the Filecoin eco-financial layer.THS is the platform token for Themis Pro and Themis Swap. 70% of Themis Pro's trading fees and position profits are used to repurchase THS, and 33% of Themis Swap's trading fees are used to repurchase THS in a highly deflationary model.",
+    "explorer": "https://filscan.io/address/0x005E02A4A934142d8Dd476F192d0dD9c381b16b4",
+    "type": "ERC20",
+    "symbol": "THS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x005E02A4A934142d8Dd476F192d0dD9c381b16b4"
+   }

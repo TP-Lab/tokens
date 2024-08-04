@@ -1,0 +1,11 @@
+{
+ "name": "MarsHero",
+ "website": "http://marsherocoin.com",
+ "description": "MarsHero is a free, equal, democratic and friendly community",
+ "explorer": "https://bscscan.com/token/0x7248C915828151576E6B4B1B20A318C2D96381e5",
+ "type": "BEP20",
+ "symbol": "MarsHero",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7248C915828151576E6B4B1B20A318C2D96381e5"
+}

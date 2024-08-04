@@ -1,0 +1,11 @@
+{
+ "name": "MetaSocial",
+ "website": "-",
+ "description": "MetaSocial can enable the global consensus to achieve economic freedom.",
+ "explorer": "https://bscscan.com/address/0x11270eDeC5570ca0F59022cC94bfEf5Bde5b7618",
+ "type": "BEP20",
+ "symbol": "MESO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x11270eDeC5570ca0F59022cC94bfEf5Bde5b7618"
+}

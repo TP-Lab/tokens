@@ -1,0 +1,11 @@
+{
+ "name": "PEOPLE",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x579ed15b52bcf5a3D1EdaDAdA79a312C14C635E9",
+ "type": "BEP20",
+ "symbol": "PEOPLE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x579ed15b52bcf5a3D1EdaDAdA79a312C14C635E9"
+}

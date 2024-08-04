@@ -1,0 +1,11 @@
+{
+ "name": "Pi",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0xe9e39fC1c4308F44D92f5A5f2609f55eE9F0E1A1",
+ "type": "BEP20",
+ "symbol": "Pi",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe9e39fC1c4308F44D92f5A5f2609f55eE9F0E1A1"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "冰敦敦",
+ "website": "https://fishinglife.games/",
+ "description": "吉祥物",
+ "explorer": "https://bscscan.com/token/0x6c77df570e1bfd0f3854491b492fab8ba27502e3",
+ "type": "BEP20",
+ "symbol": "BDD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6C77df570e1bfd0F3854491B492faB8Ba27502e3"
+}

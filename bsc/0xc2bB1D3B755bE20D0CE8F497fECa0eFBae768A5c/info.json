@@ -1,0 +1,11 @@
+{
+ "name": "FlyMoonCoin",
+ "website": "http://www.flymooncoin.shop",
+ "description": "Secure, nft+defi encrypted virtual currency.",
+ "explorer": "https://bscscan.com/token/0xc2bb1d3b755be20d0ce8f497feca0efbae768a5c",
+ "type": "BEP20",
+ "symbol": "FMC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xc2bB1D3B755bE20D0CE8F497fECa0eFBae768A5c"
+}

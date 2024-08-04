@@ -1,0 +1,11 @@
+{
+	"name": "WORLD WRESTLING ENTERTAINMENT",
+	"website": "http://wwenft.cc/home/#/",
+	"description": "WWE-NFT transaction platform is jointly set up by the technological team and the WWE.",
+	"explorer": "https://bscscan.com/token/0xB69166e5d3C50Da161d7CbFfBCd2Cd89d50Cb41C",
+	"type": "BEP20",
+	"symbol": "WWE",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xB69166e5d3C50Da161d7CbFfBCd2Cd89d50Cb41C"
+   }

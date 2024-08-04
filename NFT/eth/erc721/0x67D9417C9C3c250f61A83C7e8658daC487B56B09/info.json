@@ -1,0 +1,10 @@
+{
+ "name": "Phanta Bear",
+ "website": "https://ezek.io/",
+ "description": "The PhantaBear project was jointly launched by Jay Chou's PHANTACi and Ezek. PhantaBear is a collection of 10,000 algorithmically generated digital collectibles that double as membership cards for the Ezek Club. Each PhantaBear has a unique set of traits and unlocks varying, unique levels of access and perks for its owner.",
+ "explorer": "https://etherscan.io/token/0x67D9417C9C3c250f61A83C7e8658daC487B56B09",
+ "type": "ERC721",
+ "symbol": "PHB",
+ "status": "active",
+ "id": "0x67D9417C9C3c250f61A83C7e8658daC487B56B09"
+}

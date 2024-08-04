@@ -1,0 +1,11 @@
+{
+ "name": "Knowledge Graph Token",
+ "website": "http://www.gzaiengine.com",
+ "description": "World culture and multi universe knowledge base, KGT is used for knowledge payment and cultural reward.",
+ "explorer": "https://bscscan.com/token/0x3b3069b2e5467c834d32f676afcaf4d1d21e3fd8",
+ "type": "BEP20",
+ "symbol": "KGT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x3b3069b2e5467c834d32f676afcaf4d1d21e3fd8"
+}

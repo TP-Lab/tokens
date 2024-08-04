@@ -1,0 +1,11 @@
+{ 
+"name": "nuwa",
+"website": "https://www.nuwaswap.vip",
+"description": "-",
+"explorer": "https://bscscan.com/token/0xad76Db17f7b3f641a930a3Ae7ae984da9452F1f3",
+"type": "BEP20",
+"symbol": "numa",
+"decimals": 6,
+"status": "active",
+"id": "0xad76Db17f7b3f641a930a3Ae7ae984da9452F1f3"
+}

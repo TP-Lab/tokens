@@ -1,0 +1,11 @@
+{
+    "name": "BBY TOKEN",
+    "website": "https://bby.fund",
+    "description": "BBY Blockchain, building the largest digital currency application platform",
+    "explorer": "https://bscscan.com/token/0xFa641fEc5257b131238037138E0C4272Af558E04",
+    "type": "BEP20",
+    "symbol": "BBY",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xFa641fEc5257b131238037138E0C4272Af558E04"
+}

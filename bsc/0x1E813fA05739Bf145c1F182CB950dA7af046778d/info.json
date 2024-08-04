@@ -1,0 +1,11 @@
+{ 
+"name": "LPC",
+"website": "http://luckyplanet.io/",
+"description": "Lucky planet has conducted in-depth explorations around the meta-universe, from GameFi to SocialFi, opening up games, social networking, and public chain ecology.",
+"explorer": "https://bscscan.com/token/0x1E813fA05739Bf145c1F182CB950dA7af046778d",
+"type": "BEP20",
+"symbol": "LPC",
+"decimals": 18,
+"status": "active",
+"id": "0x1E813fA05739Bf145c1F182CB950dA7af046778d"
+}

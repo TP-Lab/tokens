@@ -1,0 +1,11 @@
+{
+    "name": "CAT",
+    "website": "https://www.catcattoken.com",
+    "description": "Cat token carries the important task of future digital currency connection, and DAO is our purpose.",
+    "explorer": "https://bscscan.com/token/0x0173295183685F27C84db046B5F0bea3e683c24b",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "CAT",
+    "status": "active",
+    "id": "0x0173295183685F27C84db046B5F0bea3e683c24b"
+}

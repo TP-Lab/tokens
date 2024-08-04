@@ -1,0 +1,9 @@
+ "name": "WEB",
+ "website": "https://tokenpocket.pro",
+ "description": "A decentralized token on the BNB Chain.",
+ "explorer": "https://bscscan.com/token/0x86b63b3e74e60ce8c53eee94c50f6d85419fabef",
+ "type": "BEP20",
+ "symbol": "WEB",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x86B63B3e74e60cE8c53EeE94C50f6D85419FAbEf"

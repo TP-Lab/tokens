@@ -1,0 +1,11 @@
+{
+ "name": "HSB TOKEN",
+ "website": "https://hsbdex.com",
+ "description": "HSB is an abbreviation for Computational Power Consensus Mechanism. The computing power consensus mechanism compensates for all the shortcomings in the DeFi field. Improve the imbalanced areas of consensus mechanisms. Tokens for the HSBdex platform, King Returns",
+ "explorer": "https://bscscan.com/token/0x1580F263D0ce2b72ae4d87Bf9F937abF592Fa509",
+ "type": "BEP20",
+ "symbol": "HSB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1580F263D0ce2b72ae4d87Bf9F937abF592Fa509"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "DL",
+ "website": ".",
+ "description": "All LP shareholders of Da Niu Community jointly create 1 NFT for every 10 LPs to reach a consensus and confirm ownership. The value-added portion realized by each NFT will be distributed as follows: 50% to the museum or author that owns the artwork, and 50% to the 10 LP shareholders who created the NFT.",
+ "explorer": "https://bscscan.com/token/0x494aB118746D0d9c779D2BA62acEc3d16D676b9E",
+ "type": "BEP20",
+ "symbol": "DL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x494aB118746D0d9c779D2BA62acEc3d16D676b9E"
+}

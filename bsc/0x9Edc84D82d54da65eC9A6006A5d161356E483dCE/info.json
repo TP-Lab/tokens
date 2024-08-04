@@ -1,0 +1,11 @@
+{ 
+"name": "BFX",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0x9Edc84D82d54da65eC9A6006A5d161356E483dCE",
+"type": "BEP20",
+"symbol": "BFX",
+"decimals": 18,
+"status": "active",
+"id": "0x9Edc84D82d54da65eC9A6006A5d161356E483dCE"
+}

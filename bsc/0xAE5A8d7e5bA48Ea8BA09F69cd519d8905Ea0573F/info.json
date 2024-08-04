@@ -1,0 +1,11 @@
+{
+    "name": "DDEX",
+    "website": "https://ddex.site",
+    "description": "The new business growth model of mining through DDEX trading allows profit users to move into the NFT wealth sector.",
+    "explorer": "https://bscscan.com/token/0xAE5A8d7e5bA48Ea8BA09F69cd519d8905Ea0573F",
+    "type": "BEP20",
+    "symbol": "DD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xAE5A8d7e5bA48Ea8BA09F69cd519d8905Ea0573F"
+}

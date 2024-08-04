@@ -1,0 +1,11 @@
+{
+ "name": "HDX",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xdd8551c7530df59a6fe6818661659e8b13395e6d",
+ "type": "BEP20",
+ "symbol": "HDX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdd8551c7530df59a6fe6818661659e8b13395e6d"
+}

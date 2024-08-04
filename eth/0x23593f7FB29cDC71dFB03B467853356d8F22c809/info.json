@@ -1,0 +1,11 @@
+{
+ "name": "DORK LORD",
+ "website": "https://www.dorklerc.com",
+ "description": "Dork Lord is here to take over the Ethereum chain. Pepe has long been causing trouble over there.",
+ "explorer": "https://etherscan.io/token/0x23593f7fb29cdc71dfb03b467853356d8f22c809",
+ "type": "ERC20",
+ "symbol": "DORKL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x23593f7fb29cdc71dfb03b467853356d8f22c809"
+}

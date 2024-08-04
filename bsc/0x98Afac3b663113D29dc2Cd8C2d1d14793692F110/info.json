@@ -1,0 +1,11 @@
+{
+    "name": "Multiverse",
+    "website": "https://mvscoin.org",
+    "description": "A Decentralized Currency in Multiverse, One Coin Traverses all Metaverses.",
+    "explorer": "https://bscscan.com/token/0x98afac3b663113d29dc2cd8c2d1d14793692f110",
+    "type": "BEP20",
+    "symbol": "MVS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x98Afac3b663113D29dc2Cd8C2d1d14793692F110"
+}

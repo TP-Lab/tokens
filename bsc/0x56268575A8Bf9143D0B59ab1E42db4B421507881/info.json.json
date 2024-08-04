@@ -1,0 +1,11 @@
+{
+  "name": "Aurora",
+  "website": "http://blockchain.auroradao.vip",
+  "description": "Aurora is an NFT trading platform led by Carley Foundation of the United States, led by A16Z of Wall Street and venture capital of multi-investment fund companies.",
+  "explorer": "https://bscscan.com/token/0x56268575a8bf9143d0b59ab1e42db4b421507881",
+  "type": "BEP20",
+  "symbol": "ARA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x56268575A8Bf9143D0B59ab1E42db4B421507881"
+}

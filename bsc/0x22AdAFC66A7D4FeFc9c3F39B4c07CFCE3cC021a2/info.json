@@ -1,0 +1,11 @@
+{
+    "name": "YYDS Token",
+    "website": "https://www.yyds.money",
+    "description": "We are dedicated to space exploration in the blockchain era!",
+    "explorer": "https://bscscan.com/address/0x22AdAFC66A7D4FeFc9c3F39B4c07CFCE3cC021a2",
+    "type": "BEP20",
+    "symbol": "YYDS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x22AdAFC66A7D4FeFc9c3F39B4c07CFCE3cC021a2"
+}

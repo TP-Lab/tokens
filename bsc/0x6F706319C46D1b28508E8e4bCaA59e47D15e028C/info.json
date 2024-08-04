@@ -1,0 +1,11 @@
+{
+ "name": "Sealem Token",
+ "website": "https://sealemlab.com/",
+ "description": "The next-generation DeFi+GameFi protocol.",
+ "explorer": "https://bscscan.com/token/0x6F706319C46D1b28508E8e4bCaA59e47D15e028C",
+ "type": "BEP20",
+ "symbol": "ST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6F706319C46D1b28508E8e4bCaA59e47D15e028C"
+}

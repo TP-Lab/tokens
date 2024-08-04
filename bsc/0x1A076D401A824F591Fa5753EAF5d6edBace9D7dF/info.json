@@ -1,0 +1,11 @@
+{
+    "name": "HPG",
+    "website": "-",
+    "description": "Win win cooperation",
+    "explorer": "https://bscscan.com/address/0x1A076D401A824F591Fa5753EAF5d6edBace9D7dF",
+    "type": "BEP20",
+    "symbol": "HPG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1A076D401A824F591Fa5753EAF5d6edBace9D7dF"
+   }

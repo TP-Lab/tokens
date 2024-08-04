@@ -1,0 +1,11 @@
+{
+ "name": "firsthare",
+ "website": "https://firsthare.com/",
+ "description": "FirstsHare, In order to manage the current market's delimma and re-establish a new order.",
+ "explorer": "https://bscscan.com/token/0x432B4F994760Ea0C5f48BaAb6217e82A2B7F2c55",
+ "type": "BEP-20",
+ "symbol": "firsthare",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x432B4F994760Ea0C5f48BaAb6217e82A2B7F2c55"
+}

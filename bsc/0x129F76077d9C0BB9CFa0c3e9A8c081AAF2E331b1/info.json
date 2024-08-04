@@ -1,0 +1,11 @@
+{
+ "name": "Business development coin",
+ "website": ".",
+ "description": "BDC is a platform built by a team from Hong Kong to manage and use eco-identity authentication. The platform uses blockchain to store the necessary eco-identity information, which can be used in areas as diverse as enterprise traceability identity and eco-business services.",
+ "explorer": "https://bscscan.com/token/0x129F76077d9C0BB9CFa0c3e9A8c081AAF2E331b1",
+ "type": "BEP20",
+ "symbol": "BDC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x129F76077d9C0BB9CFa0c3e9A8c081AAF2E331b1"
+}

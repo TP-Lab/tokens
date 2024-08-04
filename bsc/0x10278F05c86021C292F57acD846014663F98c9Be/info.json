@@ -1,0 +1,11 @@
+{
+ "name": "BabyShenZhou",
+ "website": "https://babyshenzhou.finance",
+ "description": "BabyShenZhou is the MeMe upgrade token of the Shenzhou team to help China's space industry.",
+ "explorer": "https://bscscan.com/address/0x10278F05c86021C292F57acD846014663F98c9Be",
+ "type": "BEP20",
+ "symbol": "BabyShenZhou",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x10278F05c86021C292F57acD846014663F98c9Be"
+}

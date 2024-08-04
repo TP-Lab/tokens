@@ -1,0 +1,11 @@
+{
+    "name": "Guinness NFT",
+    "website": "https://gnsnft.com/#/",
+    "description": "UNINFT is the industry's leading professional meta-universe ecological aggregation trading platform established under Guinness referred to as GNS (Guinness) meta-universe decentralized protocol. The platform supports ERC20, 721 and 1155 asset protocols and MATIC, SOL, BSC, WAX and other multi-chain assets. It is equipped with Turing-complete trading engine, architecture and multi-practice asset circulation module to meet users' needs of purchasing, selling, auction and other chain game asset circulation. At the same time, it guarantees the property right transaction of each metauniverse asset and builds the property right consensus attribute, aiming to become the chain game ecological value circulation platform with the largest transaction volume and the most user carriers in the world.",
+    "explorer": "https://bscscan.com/address/0xC5717beb3d8eda80Fbd91EC50e7F1643Fc981df3",
+    "type": "ERC721",
+    "symbol": "GNS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC5717beb3d8eda80Fbd91EC50e7F1643Fc981df3"
+   }

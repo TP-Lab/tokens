@@ -1,0 +1,11 @@
+{
+ "name": "solana xmitter ",
+ "website": "https://soxmer.com",
+ "description": "A xmitter  based on solana ecology, dedicated to creating more possibilities for blockchain",
+ "explorer": "https://bscscan.com/address/0xbfb6cfa8113ad45998e5407592720a69975276f7",
+ "type": "BEP20",
+ "symbol": "SOXM",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xbFB6CFa8113Ad45998E5407592720a69975276F7"
+}

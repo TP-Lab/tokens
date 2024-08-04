@@ -1,0 +1,11 @@
+{
+    "name": "XDOGE",
+    "website": "https://xdoge.pro",
+    "description": "A new era of unique digital assets on the Drc-20 chain.",
+    "explorer": "https://bscscan.com/token/0xbDfB08D83BFA46E79a9fE89B0032A3eBF43869A3",
+    "type": "BEP20",
+    "symbol": "XDOGE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbDfB08D83BFA46E79a9fE89B0032A3eBF43869A3"
+   }

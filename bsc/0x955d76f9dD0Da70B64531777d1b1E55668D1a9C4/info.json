@@ -1,0 +1,11 @@
+{
+ "name": "Maze",
+ "website": "https://www.mazegamefi.com/",
+ "description": "Maze is a large-scale VR game based on blockchain, providing high fidelity graphics and fascinating game experience. Through VR technology, players will explore the maze, use magic, lead magic pets and obtain various resources. These resources (including tokens, props, etc.) will become valuable assets.",
+ "explorer": "https://bscscan.com/token/0x955d76f9dD0Da70B64531777d1b1E55668D1a9C4",
+ "type": "BEP20",
+ "symbol": "MAZE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x955d76f9dD0Da70B64531777d1b1E55668D1a9C4"
+}

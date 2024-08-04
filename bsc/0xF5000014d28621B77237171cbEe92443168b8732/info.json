@@ -1,0 +1,11 @@
+{
+ "name": "G Payment",
+ "website": "-",
+ "description": "G Payment is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xF5000014d28621B77237171cbEe92443168b8732",
+ "type": "BEP20",
+ "symbol": "GZF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF5000014d28621B77237171cbEe92443168b8732"
+}

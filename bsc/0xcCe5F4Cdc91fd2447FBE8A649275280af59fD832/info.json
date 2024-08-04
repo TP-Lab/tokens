@@ -1,0 +1,11 @@
+{
+ "name": "FREY",
+ "website": "https://freyglobal.com",
+ "description": "Frey is a blockchain product built by the FREY DAO  community based on blockchain, dedicated to building a decentralized virtual world on the chain, such as FREY DAO, Gamefi, NFT.",
+ "explorer": "https://bscscan.com/token/0xcCe5F4Cdc91fd2447FBE8A649275280af59fD832",
+ "type": "BEP20",
+ "symbol": "FREY",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xcCe5F4Cdc91fd2447FBE8A649275280af59fD832"
+}

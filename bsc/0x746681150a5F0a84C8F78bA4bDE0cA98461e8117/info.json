@@ -1,0 +1,11 @@
+{
+  "name": "PlayTime Token",
+  "website": "https://playtimedao.io",
+  "description": "PLAYTIME is a community-driven project based on Binance Smart Chain with real-world use cases. PLAYTIMEThe main goal is to enable everyone to start earning passive income without having to understand this complex world of Defi. We are developing a complete reward ecosystem that is efficient and easy to use. The goal of PLAYTIME is to build a large investor community on Binance Smart Chain and deliver a secure project. We are also working on four main products: blockchain games, decentralized exchanges, metaverse, community autonomy, all of which will be available soon. Therefore, you must pay close attention to PLAYTIME to enjoy all these features and more in the future.",
+  "explorer": "https://bscscan.com/token/0x746681150a5F0a84C8F78bA4bDE0cA98461e8117",
+  "type": "BEP20",
+  "symbol": "PLAY",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x746681150a5F0a84C8F78bA4bDE0cA98461e8117"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Mac",
+    "website": "https://bscscan.com/address/0x640119B529AF20FbbfBabC880aE54d8eCf4fA4DD#code",
+    "description": "MAC hopes to make people aware of the long-term significance of decentralized consensus, relying on unparalleled financial logic, which is the difference between it and any kind of autonomous community in the crypto world we have ever seen. It will become a truly decentralized global autonomous community, bringing true wealth freedom to the world.",
+    "explorer": "https://bscscan.com/token/0x640119B529AF20FbbfBabC880aE54d8eCf4fA4DD",
+    "type": "BEP20",
+    "symbol": "Mac",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x640119B529AF20FbbfBabC880aE54d8eCf4fA4DD"
+}

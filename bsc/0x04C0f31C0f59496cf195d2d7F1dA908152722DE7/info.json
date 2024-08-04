@@ -1,0 +1,11 @@
+{ 
+"name": "Alliance",
+"website": "https://alliance.tips",
+"description": "ALL DAO is a win-win concept with smart contracts as the core. Realize the common autonomy of the global community, truly realize community management, and benefit the community. Focus on DAO investment management protocols, rebuild community trust and security, and build a DAO community ecosystem that integrates DeFi2.0, NFT, GameFi, SocialFi, and Swap.",
+"explorer": "https://www.bscscan.com/token/0x04C0f31C0f59496cf195d2d7F1dA908152722DE7",
+"type": "BEP20",
+"symbol": "ALL",
+"decimals": 18,
+"status": "active",
+"id": "0x04C0f31C0f59496cf195d2d7F1dA908152722DE7"
+}

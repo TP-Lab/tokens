@@ -1,0 +1,11 @@
+{
+ "name": "Kirby CEO",
+ "website": "",
+ "description": ".",
+ "explorer": "https://etherscan.io/token/0xf6760bbC5fD0eebe293A019184EE004810B7Fee0",
+ "type": "ERC20",
+ "symbol": "KIRBYCEO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf6760bbC5fD0eebe293A019184EE004810B7Fee0"
+}

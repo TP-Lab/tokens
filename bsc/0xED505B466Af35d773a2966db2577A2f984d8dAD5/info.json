@@ -1,0 +1,11 @@
+{
+ "name": "AtlasToken",
+ "website": "https://altas.vip",
+ "description": "a advanced platform in the web3 world intending to bring more and more users into this park with wonderful experiance and expectation",
+ "explorer": "https://bscscan.com/token/0xED505B466Af35d773a2966db2577A2f984d8dAD5",
+ "type": "BEP20",
+ "symbol": "ATAS",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xED505B466Af35d773a2966db2577A2f984d8dAD5"
+}

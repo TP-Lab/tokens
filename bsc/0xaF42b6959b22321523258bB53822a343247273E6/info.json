@@ -1,0 +1,11 @@
+{
+	"name": "LaFly",
+	"website": "",
+	"description": "拉飞是一个基于区块链技术开发的去中心化慈善工具，能够帮助更多受灾的人群或者是重大疫病人群，通过拉飞捐款帮助更多的人",
+	"explorer": "https://bscscan.com/token/0xaF42b6959b22321523258bB53822a343247273E6",
+	"type": "BEP20",
+	"symbol": "LF",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xaF42b6959b22321523258bB53822a343247273E6"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MTL Token",
+ "website": "https://game.timess.co/",
+ "description": "MTL is a token on Huobi Eco(HECO) Chain boasting a number of impressive features.",
+ "explorer": "https://hecoinfo.com/token/0x0d5c211ea5e9c0920c81101936e5c76048598005",
+ "type": "HRC - 20",
+ "symbol": "MTL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0D5c211ea5E9c0920c81101936E5c76048598005"
+}

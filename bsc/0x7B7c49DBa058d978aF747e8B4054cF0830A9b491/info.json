@@ -1,0 +1,11 @@
+{ 
+  "name": "Oracle Capital",
+  "website": "https://oraclecapital.finance/",
+  "description": "Oracle Capital - Defi3.0 Future of Finance Revolution.",
+  "explorer": "https://bscscan.com/token/0x7B7c49DBa058d978aF747e8B4054cF0830A9b491",
+  "type": "BEP20",
+  "symbol": "OC",
+  "decimals": 5,
+  "status": "active",
+  "id": "0x7B7c49DBa058d978aF747e8B4054cF0830A9b491"
+  }

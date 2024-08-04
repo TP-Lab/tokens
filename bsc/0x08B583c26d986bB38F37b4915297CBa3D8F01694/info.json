@@ -1,0 +1,11 @@
+{
+ "name": "JDC",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x08B583c26d986bB38F37b4915297CBa3D8F01694",
+ "type": "BEP20",
+ "symbol": "JDC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x08B583c26d986bB38F37b4915297CBa3D8F01694"
+}

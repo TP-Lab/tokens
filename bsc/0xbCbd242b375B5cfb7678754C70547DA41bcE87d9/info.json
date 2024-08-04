@@ -1,0 +1,11 @@
+{
+    "name": "OSL",
+    "website": ".",
+    "description": "OR is an ecological governance token launched by ORDAM in 2023, with a total circulation of 12 million. It runs on the BNB Intelligent Chain (BEP20) platform.",
+    "explorer": "https://bscscan.com/token/0xbCbd242b375B5cfb7678754C70547DA41bcE87d9",
+    "type": "BEP20",
+    "symbol": "OSL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbCbd242b375B5cfb7678754C70547DA41bcE87d9"
+}

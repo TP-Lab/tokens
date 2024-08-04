@@ -1,0 +1,11 @@
+{
+ "name": "GCB",
+ "website": "-",
+ "description": "GCB is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x3f92df3c0dd4928766EB0267238d099b8e134B34",
+ "type": "BEP20",
+ "symbol": "GCB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3f92df3c0dd4928766EB0267238d099b8e134B34"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "RTHO",
+ "website": "-",
+ "description": "RTHO is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x01EDa3Fa3d80021b85aEa838eAE6aC2a373e201C",
+ "type": "BEP20",
+ "symbol": " RTHO ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x01EDa3Fa3d80021b85aEa838eAE6aC2a373e201C"
+}

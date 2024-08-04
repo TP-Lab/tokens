@@ -1,0 +1,11 @@
+{
+ "name": "LITE",
+ "website": "https://liteusd.com/",
+ "description": "Lite is a decentralized stable coin casting protocol that allows users to use Lite as collateral to forge lusd.",
+ "explorer": "https://www.bscscan.com/token/0x4a846D300F793752eE8bd579192C477130C4B369",
+ "type": "BEP20",
+ "symbol": "LITE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4a846D300F793752eE8bd579192C477130C4B369"
+}

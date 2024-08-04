@@ -1,0 +1,11 @@
+{
+    "name": "FOLWCOIN Token",
+    "website": "https://www.flowcoin.live/admin.php",
+    "description": "FOLWCOIN (FLW) is a distributed traffic storage blockchain network based on IPFS. Through decentralized, distributed, fragmented and repetitive storage methods, FOLWCOIN makes data more secure and transmission more efficient. Combined with DiFi decentralized financial system, it creates an application + financial ecological chain system.",
+    "explorer": "https://bscscan.com/token/0xd8bd38029df39b4466b58b624aaf4be91863714d",
+    "type": "BEP20",
+    "symbol": "FLW",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd8bd38029df39b4466b58b624aaf4be91863714d"
+   }

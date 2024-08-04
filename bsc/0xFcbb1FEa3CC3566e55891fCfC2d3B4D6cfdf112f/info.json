@@ -1,0 +1,11 @@
+{
+ "name": "ETHmining",
+ "website": "-",
+ "description": "ETHmining Tokenis an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xFcbb1FEa3CC3566e55891fCfC2d3B4D6cfdf112f",
+ "type": "BEP20",
+ "symbol": "ETHmining",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFcbb1FEa3CC3566e55891fCfC2d3B4D6cfdf112f"
+}

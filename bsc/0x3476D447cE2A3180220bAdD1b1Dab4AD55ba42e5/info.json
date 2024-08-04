@@ -1,0 +1,11 @@
+{
+ "name": "BOSS",
+ "website": "",
+ "description": "让娱乐更有价值。",
+ "explorer": "https://bscscan.com/token/0x3476D447cE2A3180220bAdD1b1Dab4AD55ba42e5",
+ "type": "BEP20",
+ "symbol": "BOSS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3476D447cE2A3180220bAdD1b1Dab4AD55ba42e5"
+}

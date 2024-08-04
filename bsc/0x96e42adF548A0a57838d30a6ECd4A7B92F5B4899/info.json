@@ -1,0 +1,9 @@
+{
+ "name": "ACP",
+ "explorer": "https://bscscan.com/token/0x96e42adf548a0a57838d30a6ecd4a7b92f5b4899",
+ "type": "BEP20",
+ "symbol": "ACP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x96e42adF548A0a57838d30a6ECd4A7B92F5B4899"
+}

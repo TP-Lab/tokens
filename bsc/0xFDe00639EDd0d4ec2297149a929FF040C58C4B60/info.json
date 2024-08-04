@@ -1,0 +1,11 @@
+{
+    "name": "VANGUARD TOKEN",
+    "website": "https://vgtoken.co/",
+    "description": "Vanguard adopts the blockchain DAO management concept, inviting like-minded people to become shareholders",
+    "explorer": "https://bscscan.com/token/0xfde00639edd0d4ec2297149a929ff040c58c4b60",
+    "type": "BEP20",
+    "symbol": "VG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFDe00639EDd0d4ec2297149a929FF040C58C4B60"
+   }

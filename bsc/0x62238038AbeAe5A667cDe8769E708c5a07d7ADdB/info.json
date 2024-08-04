@@ -1,0 +1,12 @@
+{
+ "name": "WHEE-TOKEN",
+ "website": "-",
+ "description": "It was born on Bitcoin on May 10 2023,It is released fairly based on the Ordinals protocol. The minting time is 3 hours and consumes over one million USDT gas fees.
+ Aims to become the largest alliance token in the BRC20 ecosystem. ",
+ "explorer": "https://bscscan.com/token/0x62238038abeae5a667cde8769e708c5a07d7addb",
+ "type": "BEP20",
+ "symbol": "WHEE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x62238038AbeAe5A667cDe8769E708c5a07d7ADdB"
+}

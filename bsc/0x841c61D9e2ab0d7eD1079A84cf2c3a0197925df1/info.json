@@ -1,0 +1,11 @@
+{
+    "name": "BAB Aggregator Plan",
+    "website": "http://blockbox.top/",
+    "description": "BAB Aggregator Plan,Your blockchain home",
+    "explorer": "https://www.bscscan.com/address/0x841c61D9e2ab0d7eD1079A84cf2c3a0197925df1",
+    "type": "BEP20",
+    "symbol": "BAB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x841c61D9e2ab0d7eD1079A84cf2c3a0197925df1"
+}

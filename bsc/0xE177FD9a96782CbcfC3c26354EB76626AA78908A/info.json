@@ -1,0 +1,11 @@
+{
+ "name": "Rabbit",
+ "website": "-",
+ "description": "Rabbit is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xE177FD9a96782CbcfC3c26354EB76626AA78908A",
+ "type": "BEP20",
+ "symbol": "Rabbit",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE177FD9a96782CbcfC3c26354EB76626AA78908A"
+}

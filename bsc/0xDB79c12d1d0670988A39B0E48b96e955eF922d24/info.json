@@ -1,0 +1,11 @@
+{
+ "name": "Teddy Doge V2",
+ "website": "https://teddydoge.finance/",
+ "description": "Teddy Doge is a DEFI tool developed based on DRAC Network. We have cross-chain bridges, NFT coin auctions, and wallets.",
+ "explorer": "https://bscscan.com/token/0xDB79c12d1d0670988A39B0E48b96e955eF922d24",
+ "type": "BEP20",
+ "symbol": "Teddy V2",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDB79c12d1d0670988A39B0E48b96e955eF922d24"
+}

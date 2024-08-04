@@ -1,0 +1,11 @@
+{
+ "name": "ROYAL NEW GAMEFI",
+ "website": ".",
+ "description": "ROYAL NEW GAMEFI是一个由玩家和投资者组成的去中心化游戏公会",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x747d7dc9794d18C4F73316CD08CB6b98EaDD2dC6",
+ "type": "KIP20",
+ "symbol": "RNG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x747d7dc9794d18C4F73316CD08CB6b98EaDD2dC6"
+}

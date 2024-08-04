@@ -1,0 +1,11 @@
+{
+ "name": "JINGW",
+ "website": "-",
+ "description": "JINGW Tokenis an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xef56555E5F98DF633303be29F446FE4e4ec9c342",
+ "type": "BEP20",
+ "symbol": "JINGW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xef56555E5F98DF633303be29F446FE4e4ec9c342"
+}

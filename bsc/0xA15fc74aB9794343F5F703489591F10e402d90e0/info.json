@@ -1,0 +1,11 @@
+{ 
+"name": "Animal Token",
+"website": "https://www.jungle.pet",
+"description": "The Jungle Kingdom  is an NFT gamefi with the theme of pixel animal land. Based on the concept of the metaverse",
+"explorer": "https://bscscan.com/token/0xA15fc74aB9794343F5F703489591F10e402d90e0",
+"type": "BEP20",
+"symbol": "AMT",
+"decimals": 18,
+"status": "active",
+"id": "0xA15fc74aB9794343F5F703489591F10e402d90e0"
+}

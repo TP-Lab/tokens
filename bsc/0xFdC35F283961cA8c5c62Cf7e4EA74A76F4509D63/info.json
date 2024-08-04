@@ -1,0 +1,11 @@
+{
+    "name": "PH Token",
+    "website": "https://goldwirem.com",
+    "description": "Perfect World(PH)是赐能PH去中心化衍生品与社区治理的原生代币",
+    "explorer": "https://bscscan.com/token/0xFdC35F283961cA8c5c62Cf7e4EA74A76F4509D63",
+    "type": "BEP20",
+    "symbol": "PH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFdC35F283961cA8c5c62Cf7e4EA74A76F4509D63"
+}

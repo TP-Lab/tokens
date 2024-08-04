@@ -1,0 +1,11 @@
+{
+ "name": "WhiteBox Token",
+ "website": "https://whitebox.world",
+ "description": "WhiteBox(白盒子)是一种创新机制的Defi产品，流动性提供者除了享有稳定的交易费分红之外，还有高额的中奖分红，相当于买了一台免费USDT的矿机，暴力分红USDT。既有联合坐庄分红的优势，又有彩票中奖的乐趣。除了模式新颖有趣之外，社区还会不断推出诸如锁仓平台等实用的DEFI生态产品，不断扩大整个社区的生态优势。",
+ "explorer": "https://bscscan.com/address/0x4dab5f02bb7e8fd99a8592509dc43eef53812407",
+ "type": "BEP20",
+ "symbol": "WBOX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4Dab5F02Bb7e8FD99a8592509dC43EEF53812407"
+}

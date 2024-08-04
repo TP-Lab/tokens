@@ -1,0 +1,11 @@
+{
+ "name": "TopManager Token",
+ "website": "https://topgoal.io",
+ "description": "TopGoal is a football metaverse with officially licensed digital collectibles, GameFi & SocialFi",
+ "explorer": "https://bscscan.com/token/0x4803ac6b79f9582f69c4fa23c72cb76dd1e46d8d",
+ "type": "BEP20",
+ "symbol": "TMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4803Ac6b79F9582F69c4fa23c72cb76dD1E46d8d"
+}

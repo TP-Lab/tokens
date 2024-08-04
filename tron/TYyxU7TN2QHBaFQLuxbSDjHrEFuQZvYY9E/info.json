@@ -1,0 +1,11 @@
+{
+ "name": "ACC",
+ "website": "https://trade.aishangmall.com.cn/#/",
+ "description": "ACC Digital Tokens are issued by the ACC Lab, established by Hong Kong Zhong Han Tong International Group Limited and a top global technology research and development team, based on the decentralized concept of Web3.0+DAO.",
+ "explorer": "https://tronscan.org/#/token20/TYyxU7TN2QHBaFQLuxbSDjHrEFuQZvYY9E",
+ "type": "TRC20",
+ "symbol": "ACC",
+ "decimals": 18,
+ "status": "active",
+ "id": "TYyxU7TN2QHBaFQLuxbSDjHrEFuQZvYY9E"
+}

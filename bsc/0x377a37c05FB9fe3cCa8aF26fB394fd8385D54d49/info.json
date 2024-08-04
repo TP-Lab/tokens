@@ -1,0 +1,11 @@
+{
+  "name": "JKC",
+  "website": "http://jkc.finance/",
+  "description": "JKC coins belong to completely decentralized autonomous organizations. JKC Coins have a strong DAO and SWAP that allows JKC coins to circulate within their own ecosystem. At the same time, the number of JKC coins is decreasing, and every JKC coin is precious.",
+  "explorer": "https://bscscan.com/token/0x377a37c05FB9fe3cCa8aF26fB394fd8385D54d49",
+  "type": "BEP20",
+  "symbol": "JKC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x377a37c05FB9fe3cCa8aF26fB394fd8385D54d49"
+}

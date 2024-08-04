@@ -1,0 +1,11 @@
+{
+ "name": "RecoveryDAO",
+ "website": "www.recoverydao.org",
+ "description": "Recovery is a decentralized crowdfunding protocol driven by the community",
+ "explorer": "https://bscscan.com/token/0xb922AA024e71A25077D78B593Bd6f11f2F412e72",
+ "type": "BEP20",
+ "symbol": "REC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb922AA024e71A25077D78B593Bd6f11f2F412e72"
+}

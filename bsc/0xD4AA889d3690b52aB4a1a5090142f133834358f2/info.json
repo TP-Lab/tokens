@@ -1,0 +1,11 @@
+{
+ "name": "iGameS",
+ "website": "http://igames.world/#/",
+ "description": "iGames is a decentralized game aggregation platform based on Web3.0. It is committed to building the world's first GameFi aggregation platform that integrates Game Market, NFT Transaction, Game Centre, Game Release, Game Live, Game Forum, GameFi Transform, Original Planet, Original Workshop, Event Prediction, Advertisement Service and other businesses. In order to ensure the success of logging in to the head CEX, we have reserved the tax adjustment authority. Taxes will be canceled according to project development, please be informed!",
+ "explorer": "https://bscscan.com/address/0xD4AA889d3690b52aB4a1a5090142f133834358f2",
+ "type": "BEP20",
+ "symbol": "IGS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD4AA889d3690b52aB4a1a5090142f133834358f2"
+}

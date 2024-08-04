@@ -1,0 +1,11 @@
+{
+	"name": "WINCLOUD",
+	"website": "-",
+	"description": "WINCLOUD is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+	"explorer": "https://bscscan.com/address/0xa9898D6C64162e6232808Ba55202383E8715Eda3",
+	"type": "BEP20",
+	"symbol": "WINC",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xa9898D6C64162e6232808Ba55202383E8715Eda3"
+}

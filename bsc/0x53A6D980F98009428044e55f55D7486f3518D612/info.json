@@ -1,0 +1,11 @@
+{
+ "name": "Shun Mei Ji Fen",
+ "website": "http://www.sm1608.com/",
+ "description": "SMC是舜美集团基于BSC币安智能链发行的虚拟数字股票，仅供企业会员福利兑换，是会员尊贵身份的象征",
+ "explorer": "https://bscscan.com/token/0x53A6D980F98009428044e55f55D7486f3518D612",
+ "type": "BEP20",
+ "symbol": "SMC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x53A6D980F98009428044e55f55D7486f3518D612"
+}

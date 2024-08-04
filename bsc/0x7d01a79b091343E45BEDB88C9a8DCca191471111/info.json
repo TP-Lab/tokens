@@ -1,0 +1,11 @@
+{ 
+"name": "Ether Shen crypto ",
+"website": "https://pancakeswap.finance/",
+"description": "In order to commemorate V God’s great contribution in the blockchain field and the 111 months since Ethereum was listed, the Ethereum God Commemorative Token was born",
+"explorer": "https://bscscan.com/address/0x7d01a79b091343e45bedb88c9a8dcca191471111",
+"type": "BEP20",
+"symbol": "ETS",
+"decimals": 18,
+"status": "active",
+"id": "0x7d01a79b091343E45BEDB88C9a8DCca191471111"
+}

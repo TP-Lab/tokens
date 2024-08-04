@@ -1,0 +1,11 @@
+{
+ "name": "Ethereum Dex",
+ "website": "..",
+ "description": "",
+ "explorer": "https://cn.etherscan.com/token/0x469fc807543A766199C07d3a76A3e7A6EC1A2004",
+ "type": "ERC20",
+ "symbol": "ETX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x469fc807543A766199C07d3a76A3e7A6EC1A2004"
+}

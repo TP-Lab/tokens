@@ -1,0 +1,11 @@
+{
+ "name": "HTRY",
+ "website": "https://www.hecoinfo.com/",
+ "description": "HTRY, Maintaining the Highest Standards of Security and Innovation",
+ "explorer":    "https://www.hecoinfo.com/en-us/token/0x6fa1fc0866cc0f153160d1eb31d546fbda33b7db",
+ "type": "HRC20",
+ "symbol": "HTRY",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x6fa1fc0866cc0f153160d1eb31d546fbda33b7db"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "KGT",
+	"website": "https://www.kgtdao.top",
+	"description": "A token that realizes the mutually beneficial sharing of creators and fans on the chain of bound economic value.",
+	"explorer": "https://bscscan.com/address/0xe63023e0ab9261838a9790c16ad10ffc0a553c37",
+	"type": "BEP20",
+	"symbol": "KGT",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xe63023E0AB9261838a9790C16Ad10fFc0a553C37"
+ }

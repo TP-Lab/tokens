@@ -1,0 +1,11 @@
+{
+ "name": "rats Token",
+ "website": "https://bscscan.com/token/0xe7ba7ca550805caf538419e5cc62c0394a666666",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xe7ba7ca550805caf538419e5cc62c0394a666666",
+ "type": "BEP20",
+ "symbol": "rats",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE7BA7CA550805cAF538419e5cC62c0394A666666"
+}

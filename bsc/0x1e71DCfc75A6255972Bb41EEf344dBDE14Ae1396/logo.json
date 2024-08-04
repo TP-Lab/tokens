@@ -1,0 +1,11 @@
+{
+ "name": "Moon Rabbit Coin",
+ "website": "",
+ "description": "Moon Rabbit Coin is a new ecological project based on FstSwap",
+ "explorer": "https://bscscan.com/token/0x1e71DCfc75A6255972Bb41EEf344dBDE14Ae1396",
+ "type": "BEP20",
+ "symbol": "Moon Rabbit",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x1e71DCfc75A6255972Bb41EEf344dBDE14Ae1396"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Gangster",
+    "website": "https://www.richmonkey.vip/",
+    "description": "Gangster",
+    "explorer": "https://bscscan.com/address/0xe778ED42852A4bc1a24618449f7e5d18DB279053",
+    "type": "ERC721",
+    "symbol": "GST",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xe778ED42852A4bc1a24618449f7e5d18DB279053"
+}

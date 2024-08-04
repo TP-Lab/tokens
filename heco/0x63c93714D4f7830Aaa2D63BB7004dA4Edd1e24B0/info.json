@@ -1,0 +1,11 @@
+{
+    "name": "Pil Link",
+    "website": "https://www.pimoondao.com/",
+    "description": "PIL is the token of the consensus of 10,000 super nodes of PiMoon community worldwide.",
+    "explorer": "https://hecoinfo.com/token/0x63c93714D4f7830Aaa2D63BB7004dA4Edd1e24B0",
+    "type": "HRC-20",
+    "symbol": "PIL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x63c93714D4f7830Aaa2D63BB7004dA4Edd1e24B0"
+   }

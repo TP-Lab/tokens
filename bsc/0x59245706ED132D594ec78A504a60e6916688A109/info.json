@@ -1,0 +1,11 @@
+{
+    "name": "DeMarket",
+    "website": "https://demarket.io",
+    "description": "Next Generation Decentralized E-commerce Platform on Web3.0.",
+    "explorer": "https://bscscan.com/token/0x59245706ED132D594ec78A504a60e6916688A109",
+    "type": "BEP20",
+    "symbol": "DMA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x59245706ED132D594ec78A504a60e6916688A109"
+   }

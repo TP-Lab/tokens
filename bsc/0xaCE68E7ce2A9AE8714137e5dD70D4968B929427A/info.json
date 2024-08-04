@@ -1,0 +1,11 @@
+{
+ "name": "Green Game Business",
+ "website": "https://www.ggb.buzz/",
+ "description": "Green Game Business will be the first and rarest Green Game Business NFTs to ever exist! if you missed the sale, you can still buy them on opensea.",
+ "explorer": "https://bscscan.com/token/0xaCE68E7ce2A9AE8714137e5dD70D4968B929427A",
+ "type": "BEP20",
+ "symbol": "GGB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaCE68E7ce2A9AE8714137e5dD70D4968B929427A"
+}

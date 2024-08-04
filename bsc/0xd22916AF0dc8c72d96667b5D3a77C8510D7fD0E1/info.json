@@ -1,0 +1,11 @@
+{
+ "name": "BOBDAO",
+ "website": "bob-dao.com",
+ "description": "BOB Dao is spontaneously driven by Dao organization and will build a multi ecological decentralized ecosystem.",
+ "explorer": "https://bscscan.com/token/0xd22916AF0dc8c72d96667b5D3a77C8510D7fD0E1",
+ "type": "BEP20",
+ "symbol": "BOB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd22916AF0dc8c72d96667b5D3a77C8510D7fD0E1"
+}

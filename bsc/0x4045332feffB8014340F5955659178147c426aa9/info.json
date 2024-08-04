@@ -1,0 +1,11 @@
+{
+ "name": "SHP",
+ "website": "-",
+ "description": "SHP is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x4045332feffB8014340F5955659178147c426aa9",
+ "type": "BEP20",
+ "symbol": " SHP ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4045332feffB8014340F5955659178147c426aa9"
+}

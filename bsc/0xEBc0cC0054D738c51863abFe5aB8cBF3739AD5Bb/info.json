@@ -1,0 +1,11 @@
+{
+ "name": "kbx-etf Token",
+ "website": "https://bscscan.com/token/0xebc0cc0054d738c51863abfe5ab8cbf3739ad5bb",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xebc0cc0054d738c51863abfe5ab8cbf3739ad5bb",
+ "type": "BEP20",
+ "symbol": "kbx-etf",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEBc0cC0054D738c51863abFe5aB8cBF3739AD5Bb"
+}

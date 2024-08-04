@@ -1,0 +1,11 @@
+{
+ "name": "farmer coin",
+ "website": "https://hpc.earth",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x359158B4354Cd245C6958E98Ab3395D6266751e1",
+ "type": "BEP20",
+ "symbol": "FMC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x359158B4354Cd245C6958E98Ab3395D6266751e1"
+}

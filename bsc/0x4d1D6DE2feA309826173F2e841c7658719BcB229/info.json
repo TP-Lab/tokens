@@ -1,0 +1,11 @@
+{
+ "name": "SCAR",
+ "website": "https://supercarsvip.com",
+ "description": "SCAR Token",
+ "explorer": "https://bscscan.com/token/0x4d1D6DE2feA309826173F2e841c7658719BcB229",
+ "type": "BEP20",
+ "symbol": "SCAR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4d1D6DE2feA309826173F2e841c7658719BcB229"
+}

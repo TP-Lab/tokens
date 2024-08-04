@@ -1,0 +1,11 @@
+{
+ "name": "VC",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0xfF0cF95b71C8e191eE855a6a32a78a48677B5885",
+ "type": "BEP20",
+ "symbol": "VC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfF0cF95b71C8e191eE855a6a32a78a48677B5885"
+}

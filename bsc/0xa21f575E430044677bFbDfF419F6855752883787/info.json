@@ -1,0 +1,11 @@
+{
+ "name": "babylong",
+ "website": "-",
+ "description": "babylong is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xa21f575E430044677bFbDfF419F6855752883787",
+ "type": "BEP20",
+ "symbol": "babylong",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa21f575E430044677bFbDfF419F6855752883787"
+}

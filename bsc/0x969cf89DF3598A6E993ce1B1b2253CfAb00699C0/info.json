@@ -1,0 +1,11 @@
+{
+ "name": "TOCKT",
+ "website": "-",
+ "description": "TOCKT is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x969cf89DF3598A6E993ce1B1b2253CfAb00699C0",
+ "type": "BEP20",
+ "symbol": "TOCKT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x969cf89DF3598A6E993ce1B1b2253CfAb00699C0"
+}

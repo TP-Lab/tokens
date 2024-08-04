@@ -1,0 +1,11 @@
+{
+ "name": "Node Token",
+ "website": "https://nodeswap.org",
+ "description": "NodeSwap adds Gamefi and NFT gameplay, and also adds Token financial management functions.",
+ "explorer": "https://hecoinfo.com/token/0x6E4C891255DeBc46cc456F6921926023395f697A",
+ "type": "HECO",
+ "symbol": "NT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6E4C891255DeBc46cc456F6921926023395f697A"
+}

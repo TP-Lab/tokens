@@ -1,0 +1,11 @@
+{
+ "name": "zjdao",
+ "website": "..",
+ "description": "ZJDAO is a fully decentralized formula platform that is in the early stages of development and has unlimited potential.",
+ "explorer": "https://bscscan.com/token/0x71648e92c422f81B3eF86a09D00A07e719A2A7EF",
+ "type": "BEP20",
+ "symbol": "zj",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x71648e92c422f81B3eF86a09D00A07e719A2A7EF"
+}

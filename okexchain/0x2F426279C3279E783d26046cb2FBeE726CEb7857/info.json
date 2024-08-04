@@ -1,0 +1,11 @@
+﻿{
+ "name": "JFDAO",
+ "website": "http://jfdao.cc/",
+ "description": "Jfdao is a jfdao community token. All owners of transaction tax pay fair dividends according to their positions, JF token and automatically add liquidity.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x2f426279c3279e783d26046cb2fbee726ceb7857",
+ "type": "KIP20",
+ "symbol": "JFDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2f426279c3279e783d26046cb2fbee726ceb7857"
+}

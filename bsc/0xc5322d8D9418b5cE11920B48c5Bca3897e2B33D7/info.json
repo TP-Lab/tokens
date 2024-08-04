@@ -1,0 +1,11 @@
+{
+ "name": "KTBK",
+ "website": "https://www.knight-trade.com/",
+ "description": "A revolutionary digital token.",
+ "explorer": "https://bscscan.com/token/0xc5322d8d9418b5ce11920b48c5bca3897e2b33d7",
+ "type": "BEP20",
+ "symbol": "KTBK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc5322d8D9418b5cE11920B48c5Bca3897e2B33D7"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BusiNess token",
+ "website": "-",
+ "description": "Business transactions, merchandise transactions, virtual real estate transactions, AR, VR, artificial intelligence, virtual reality transactions, virtual payments.",
+ "explorer": "https://bscscan.com/token/0x6fFD83Ccfe9B663c91Fdd60FE14e200d468Add0d",
+ "type": "BEP20",
+ "symbol": "BusiNess",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6fFD83Ccfe9B663c91Fdd60FE14e200d468Add0d"
+}

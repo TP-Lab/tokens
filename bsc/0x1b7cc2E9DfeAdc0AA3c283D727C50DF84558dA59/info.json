@@ -1,0 +1,11 @@
+{ 
+"name": "BAO",
+"website": "https://www.sss.city/",
+"description": "BAO is a yield-generating deflationary charitable cryptocurrency that runs on Binance Smart Chain. It rewards holders through reflections by taxing transactions. ",
+"explorer": "https://bscscan.com/token/0x1b7cc2E9DfeAdc0AA3c283D727C50DF84558dA59",
+"type": "BEP20",
+"symbol": "BAO",
+"decimals": 18,
+"status": "active",
+"id": "0x1b7cc2E9DfeAdc0AA3c283D727C50DF84558dA59"
+}

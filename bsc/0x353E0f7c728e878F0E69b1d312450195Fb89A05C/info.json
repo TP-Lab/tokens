@@ -1,0 +1,11 @@
+{
+  "name": "AIB",
+  "website": "https://xbot.nl",
+  "description": "A pioneering force in AI blockchain finance, driven by a team of experts in data science, software engineering, and blockchain research. AIBOT aims to bridge the gap between intelligent technology and finance, offering innovative solutions to complex financial challenges in WEB2 and WEB3 world.",
+  "explorer": "https://bscscan.com/token/0x353E0f7c728e878F0E69b1d312450195Fb89A05C",
+  "type": "BEP20",
+  "symbol": "AIB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x353E0f7c728e878F0E69b1d312450195Fb89A05C"
+}

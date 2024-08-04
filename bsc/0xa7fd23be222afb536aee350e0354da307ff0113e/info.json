@@ -1,0 +1,12 @@
+{
+    "name": "BTG",
+    "website": "https://github.com/BitGo/bitgod",
+    "description": "BitGod",
+    "explorer": "https://bscscan.com/address/0xa7fd23be222afb536aee350e0354da307ff0113e",
+    "type": "BEP20",
+    "symbol": "BTG",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xA7Fd23bE222AFB536aEe350e0354da307FF0113e"
+    
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BTC FREE",
+ "website": "-",
+ "description": "BTC FREE is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x6eF9bF58B3ec2B7F581DAf427bE21e831E531bCe",
+ "type": "BEP20",
+ "symbol": "Btcfree",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6eF9bF58B3ec2B7F581DAf427bE21e831E531bCe"
+}

@@ -1,0 +1,9 @@
+{
+ "name": "TEO",
+ "explorer": "https://bscscan.com/address/0xafda600b05e21a732e1d1755a63945d96c1121aa",
+ "type": "BEP20",
+ "symbol": "TEO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAFDa600b05E21a732e1d1755a63945D96c1121Aa"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Ethereum Express",
+ "website": "https://www.ethereumexpress.net/",
+ "description": "Ethereum Express Network.Ethereum EVM L1 Faster, Safer, and Cheaper.",
+ "explorer": "https://etherscan.io/token/0x000000e29fa2bd3E5C215fFc71aA66b29c9769A2#code",
+ "type": "ERC20",
+ "symbol": "ETE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x000000e29fa2bd3E5C215fFc71aA66b29c9769A2"
+}

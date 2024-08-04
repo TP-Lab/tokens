@@ -1,0 +1,11 @@
+{
+ "name": "Space Dex",
+ "website": "https://dapp.spacedex.pro/#/",
+ "description": "Space Dex is a decentralized trading platform driven by an automatic market maker (AMM) algorithm. It is the first contract exchange in the derivatives market at present. The original algorithm protocol creates a Web3.0 traffic portal platform.",
+ "explorer": "https://bscscan.com/address/0x00C109655351ab19C81d999Fa1F1dA35384e51fD",
+ "type": "BEP20",
+ "symbol": "SPD",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x00C109655351ab19C81d999Fa1F1dA35384e51fD"
+}

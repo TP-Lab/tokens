@@ -1,0 +1,11 @@
+{
+  "name": "ONE Token",
+  "website": "https://www.onedexcloud.com",
+  "description": "ONEDEX is a decentralized trading platform based on memory blockchain investment services, derivatives, and option trading, initiated by the world's top memory blockchain investment fund, the NFT Foundation, and centered around DAO autonomy.",
+  "explorer": "https://bscscan.com/token/0x6e6eb51040ae0e399c57d2807513ea63d52bfd32",
+  "type": "BEP20",
+  "symbol": "ONE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6E6Eb51040Ae0E399C57d2807513ea63d52bfd32"
+}

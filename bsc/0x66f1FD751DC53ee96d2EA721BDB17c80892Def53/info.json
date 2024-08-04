@@ -1,0 +1,11 @@
+{
+ "name": "DianMao Token",
+ "website": "https://dianmao.work",
+ "description": "Blockchain can also be applied to energy trading scenarios. Through smart contracts and blockchain technology.",
+ "explorer": "https://bscscan.com/token/0x66f1fd751dc53ee96d2ea721bdb17c80892def53",
+ "type": "BEP20",
+ "symbol": "DMC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x66f1fd751dc53ee96d2ea721bdb17c80892def53"
+}

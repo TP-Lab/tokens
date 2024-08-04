@@ -1,0 +1,11 @@
+{ 
+"name": "RRXY",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/address/0x2aCfaFdeb59AB030a871eCc6346BC66d3142585f",
+"type": "BEP20",
+"symbol": "RRXY",
+"decimals": 18,
+"status": "active",
+"id": "0x2aCfaFdeb59AB030a871eCc6346BC66d3142585f"
+}

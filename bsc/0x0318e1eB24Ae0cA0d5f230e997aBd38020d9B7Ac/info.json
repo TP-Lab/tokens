@@ -1,0 +1,11 @@
+{
+    "name": "Benfolds",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0x0318e1eB24Ae0cA0d5f230e997aBd38020d9B7Ac",
+    "type": "BEP20",
+    "symbol": "BF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0318e1eB24Ae0cA0d5f230e997aBd38020d9B7Ac"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "ETP",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x89679307c3d2e4e289Da2ccD4D3c44FF39292189",
+ "type": "BEP20",
+ "symbol": "ETP",
+"decimals": 18,
+ "status": "active",
+ "id": "0x89679307c3d2e4e289Da2ccD4D3c44FF39292189"
+}

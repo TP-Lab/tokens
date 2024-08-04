@@ -1,0 +1,11 @@
+{ 
+"name": "Hotkeep",
+"website": "",
+"description": "Hotkeep NFT exchange aims to build the first NFT initial offering ecosystem exchange.",
+"explorer": "https://bscscan.com/token/0x84062C89C608D33E06D8Fa3Bf6946c3D64022e1D",
+"type": "BEP20",
+"symbol": "HTP",
+"decimals": 18,
+"status": "active",
+"id": "0x84062C89C608D33E06D8Fa3Bf6946c3D64022e1D"
+}

@@ -1,0 +1,9 @@
+ "name": "Specialty Branch",
+ "website": "https://tokenpocket.pro",
+ "description": "A decentralized token on the BNB Chain.",
+ "explorer": "https://bscscan.com/token/0x2bb0daf8faffd8489edbc79785c72cddd5b1aeb8",
+ "type": "BEP20",
+ "symbol": "PB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2bB0daF8FAFfD8489Edbc79785c72CdDd5b1Aeb8"

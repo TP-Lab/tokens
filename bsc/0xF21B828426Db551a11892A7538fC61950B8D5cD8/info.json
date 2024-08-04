@@ -1,0 +1,11 @@
+{
+ "name": "GalileoNetwork",
+ "website": "http://www.galipool.vip/",
+ "description": "Galileo Network is a new DEFI and meta-universe Dao governance Token based on BSC public chain, which is a cross-chain Token of the original Gali extended TRON chain.",
+ "explorer": "https://bscscan.com/token/0xF21B828426Db551a11892A7538fC61950B8D5cD8",
+ "type": "BEP20",
+ "symbol": "GALI",
+ "decimals": 18,
+ "status": "not open",
+ "id": "0xF21B828426Db551a11892A7538fC61950B8D5cD8"
+}

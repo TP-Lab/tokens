@@ -1,0 +1,11 @@
+{
+ "name": "HBOB",
+ "website": "-",
+ "description": "HBOB is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://hecoinfo.com/token/0x05Cf203c7f541b8cBC4d0BB9880Bc903a92d9Ab4",
+ "type": "HECO",
+ "symbol": "HBOB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x05Cf203c7f541b8cBC4d0BB9880Bc903a92d9Ab4"
+}

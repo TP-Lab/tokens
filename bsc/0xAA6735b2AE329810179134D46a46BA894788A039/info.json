@@ -1,0 +1,11 @@
+{
+    "name": "CULS",
+    "website": "http://culs.ysdipfs.cn/",
+    "description": "CULS数字基金会采用基于大数据，运用人工智能构建统计模型，用机器学习结合金融工程，量化交易和风险管理技术",
+    "explorer": "https://bscscan.com/token/0xaa6735b2ae329810179134d46a46ba894788a039",
+    "type": "BEP20",
+    "symbol": "CULS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xAA6735b2AE329810179134D46a46BA894788A039"
+}

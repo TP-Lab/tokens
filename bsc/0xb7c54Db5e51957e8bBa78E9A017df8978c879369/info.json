@@ -1,0 +1,11 @@
+{
+ "name": "HLG",
+ "website": "http://www.bsc-hlg.com/",
+ "description": "HLG is truly decentralized, open, notarized, transparent, and tamper proof. Using quantitative trading to make every active participant a big winner!",
+ "explorer": "https://bscscan.com/address/0xb7c54Db5e51957e8bBa78E9A017df8978c879369",
+ "type": "BEP20",
+ "symbol": "HLG",
+ "decimals": 10,
+ "status": "active",
+ "id": "0xb7c54Db5e51957e8bBa78E9A017df8978c879369"
+}

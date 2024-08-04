@@ -1,0 +1,11 @@
+{
+  "name": "novak",
+  "website": "http://www.novaknk.com",
+  "description": "Novak is a decentralized autonomous organization, DAO, responsible for the governance and management of PUSch Energy's corporate products. Novak, born in March 2023, is a highly scalable DeFi ecosystem",
+  "explorer": "https://bscscan.com/token/0x6fFF754C846ecf074e10d11F6Ca169BDD61Fb375",
+  "type": "BEP20",
+  "symbol": "nk",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6fFF754C846ecf074e10d11F6Ca169BDD61Fb375"
+}

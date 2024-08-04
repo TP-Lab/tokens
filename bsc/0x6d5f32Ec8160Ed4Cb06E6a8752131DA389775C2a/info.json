@@ -1,0 +1,11 @@
+{
+ "name": "FCS",
+ "website": "https://fcs.futdao.io",
+ "description": "Based on the future community, Future Capital is committed to becoming a large professional financial service institution mainly in the blockchain field, continuously investing and incubating blockchain projects with development potential.",
+ "explorer": "https://bscscan.com/address/0x6d5f32Ec8160Ed4Cb06E6a8752131DA389775C2a",
+ "type": "BEP20",
+ "symbol": "FCS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6d5f32Ec8160Ed4Cb06E6a8752131DA389775C2a"
+}

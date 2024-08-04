@@ -1,0 +1,11 @@
+{
+ "name": "Jizhengguang",
+ "website": "http://jzgcoin.com",
+ "description": "Tokens issued by X.com blogger @jizhengguang. Holding JZG can receive dividends from the blogger's projects.",
+ "explorer": "https://bscscan.com/token/0x730f320004Db7A5b6a426E6f4a5ebBBac8D88730",
+ "type": "BEP20",
+ "symbol": "JZG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x730f320004Db7A5b6a426E6f4a5ebBBac8D88730"
+}

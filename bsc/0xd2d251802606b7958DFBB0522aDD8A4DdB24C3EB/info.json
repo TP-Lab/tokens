@@ -1,0 +1,11 @@
+{
+ "name": "FID",
+ "website": "https://www.fistdao.org/",
+ "description": "FISTDAO",
+ "explorer": "https://bscscan.com/token/0xd2d251802606b7958DFBB0522aDD8A4DdB24C3EB",
+ "type": "BEP20",
+ "symbol": "FID",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd2d251802606b7958DFBB0522aDD8A4DdB24C3EB"
+} 

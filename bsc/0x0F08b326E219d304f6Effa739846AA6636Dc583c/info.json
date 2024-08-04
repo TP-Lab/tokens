@@ -1,0 +1,11 @@
+{
+ "name": "RedBullCoin",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x0F08b326E219d304f6Effa739846AA6636Dc583c",
+ "type": "BEP20",
+ "symbol": "RedBull",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x0F08b326E219d304f6Effa739846AA6636Dc583c"
+}

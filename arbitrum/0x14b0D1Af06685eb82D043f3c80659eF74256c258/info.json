@@ -1,0 +1,11 @@
+{
+ "name": "Arbi Shib",
+ "website": "https://arbishib.org/",
+ "description": "Arbi Shib token is a memecoin/utility token, launched on arbitrum Blockchain. We built the first (Arbitrum portfolio tracker dapps)",
+ "explorer": "https://arbiscan.io/token/0x14b0D1Af06685eb82D043f3c80659eF74256c258",
+ "type": "Arbitrum",
+ "symbol": "Ashib",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x14b0D1Af06685eb82D043f3c80659eF74256c258"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "LK",
+    "website": "https://www.superlk.vip",
+    "description": "The LK Blockchain Project is a comprehensive project initiated by the MTDC Foundation of Malaysia to build a meta-universe, public chain technology innovation and decentralized exchange.",
+    "explorer": "https://bscscan.com/token/0x7980D84FFCB623f492273B4FBd9289aA32Dc62d2",
+    "type": "BEP20",
+    "symbol": "LK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7980D84FFCB623f492273B4FBd9289aA32Dc62d2"
+}

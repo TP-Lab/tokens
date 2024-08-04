@@ -1,0 +1,11 @@
+{
+ "name": "Bethe Coin",
+ "website": "-",
+ "description": "Bethe Coin is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xF0C6e96DF7298259b66DAfAa1225ffe1d2187eAE",
+ "type": "BEP20",
+ "symbol": " BTB ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF0C6e96DF7298259b66DAfAa1225ffe1d2187eAE"
+}

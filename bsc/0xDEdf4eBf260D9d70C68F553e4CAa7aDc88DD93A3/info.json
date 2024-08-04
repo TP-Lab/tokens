@@ -1,0 +1,11 @@
+{
+ "name": "CatKingToken",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/address/0xDEdf4eBf260D9d70C68F553e4CAa7aDc88DD93A3",
+ "type": "BEP20",
+ "symbol": "CatKing",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xDEdf4eBf260D9d70C68F553e4CAa7aDc88DD93A3"
+}

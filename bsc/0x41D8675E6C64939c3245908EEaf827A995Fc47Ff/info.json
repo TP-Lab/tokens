@@ -1,0 +1,11 @@
+{
+ "name": "Donald John Trump",
+ "website": "https://www.djtgame.com/",
+ "description": "Trump (DJT) integrates a number of defi products and applications into one platform (DAPP in TP wallet), provides greater financial liquidity for defi ecology, provides convenient, efficient and high-yield investment solutions for users, and helps the healthy and stable development of defi liquidity mining and innovation reward pool mode.",
+ "explorer": "https://bscscan.com/token/0x41D8675E6C64939c3245908EEaf827A995Fc47Ff",
+ "type": "BEP20",
+ "symbol": "DJT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x41D8675E6C64939c3245908EEaf827A995Fc47Ff"
+}

@@ -1,0 +1,21 @@
+{
+
+"name": "CCarbon Token",
+
+"website": "http://www.ccarbons.com",
+
+"description": "CCarbon (Carbon credit economic Network) consists of carbon credits, carbon footprints, carbon finance, carbon futures, carbon pledges, carbon quotas, carbon credits, carbon trading and other derivative instruments. Use distributed storage, DeFi, WEB3.0 and other solutions to solve the carbon trading market information transparency, single regulatory means, data traceability and carbon credit data incompatibility of the industry pain points!",
+
+"explorer": "https://bscscan.com/token/0xe6f935dd49346a86da554cb5d329774ad750e09b",
+
+"type": "BEP20",
+
+"symbol": "CC",
+
+"decimals": 18,
+
+"status": "active",
+
+"id": "0xE6F935dD49346A86da554cb5D329774AD750E09B"
+
+}

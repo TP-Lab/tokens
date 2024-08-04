@@ -1,0 +1,11 @@
+{ 
+"name": "CPB",
+"website": "",
+"description": "cpb is a large scale multiplayer online simulation game ",
+"explorer": "https://bscscan.com/token/0xd496ca047647abce8b57a03dbd47cdbf090fb03e",
+"type": "BEP20",
+"symbol": "CPB",
+"decimals": 18,
+"status": "active",
+"id": "0xd496ca047647abce8b57a03dbd47cdbf090fb03e"
+}

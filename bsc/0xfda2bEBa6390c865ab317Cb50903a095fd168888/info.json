@@ -1,0 +1,11 @@
+{
+ "name": "TurtleKing",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0xfda2bEBa6390c865ab317Cb50903a095fd168888",
+ "type": "BEP20",
+ "symbol": "TurtleKing",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfda2bEBa6390c865ab317Cb50903a095fd168888"
+}

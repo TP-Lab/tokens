@@ -1,0 +1,11 @@
+{ 
+"name": "VICTOR",
+"website": "www.victorsdex.com",
+"description": "VICTOR public chain is a blockchain meta-protocol, which is different from almost all other blockchain protocols. VICTOR is a DPOS, BPFT, and POOL hybrid consensus mechanism, which is regarded as the most promising in the blockchain field and the most competitive of Ethereum. It is more in line with the essence of the blockchain, and VICTOR will become the next system-level general smart contract platform and decentralized application integration platform. ",
+"explorer": "https://bscscan.com/token/0x363C73b9e6aF84F1bDb647d4c8dD63Aa4836738F",
+"type": "BEP20",
+"symbol": "VIC",
+"decimals": 9,
+"status": "active",
+"id": "0x363C73b9e6aF84F1bDb647d4c8dD63Aa4836738F"
+}

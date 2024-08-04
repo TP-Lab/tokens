@@ -1,0 +1,11 @@
+{
+ "name": "DFW Token",
+ "website": "..",
+ "description": "..",
+ "explorer": "https://bscscan.com/token/0xFD4A18a96dC03a5602294C5b9Af70A006b02b193",
+ "type": "BEP20",
+ "symbol": "DFW ",
+ "decimals": 12,
+ "status": "active",
+ "id": "0xFD4A18a96dC03a5602294C5b9Af70A006b02b193"
+}

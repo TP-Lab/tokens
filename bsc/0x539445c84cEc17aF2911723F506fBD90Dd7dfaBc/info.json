@@ -1,0 +1,11 @@
+{
+ "name": "TG",
+ "website": "-",
+ "description": "TG is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x539445c84cEc17aF2911723F506fBD90Dd7dfaBc",
+ "type": "BEP20",
+ "symbol": "TG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x539445c84cEc17aF2911723F506fBD90Dd7dfaBc"
+}

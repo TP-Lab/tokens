@@ -1,0 +1,11 @@
+{
+ "name": "哈希值",
+ "website": "https://hct.finance",
+ "description": "HCT is a new generation network based on blockchain 4.0 digital asset sharing technology, which can serve as a platform to create and manage decentralized applications and services in real time.",
+ "explorer": "https://bscscan.com/token/0x01B7b50221523342591933b1b424ee14F50f4994",
+ "type": "BEP20",
+ "symbol": "HCT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x01B7b50221523342591933b1b424ee14F50f4994"
+}

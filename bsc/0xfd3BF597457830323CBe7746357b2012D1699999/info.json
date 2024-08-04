@@ -1,0 +1,11 @@
+{ 
+"name": "CX100s",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/address/0xfd3BF597457830323CBe7746357b2012D1699999",
+"type": "BEP20",
+"symbol": "CX100s",
+"decimals": 18,
+"status": "active",
+"id": "0xfd3BF597457830323CBe7746357b2012D1699999"
+}

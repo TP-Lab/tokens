@@ -1,0 +1,11 @@
+{
+  "name": "SHIBMiniKing",
+  "website": "http://shibminiking.com",
+  "description": "SHIBMiniKing is an encrypted underlying trading experiment, SHIBMiniKing trading 8% dividend SHIB",
+  "explorer": "https://bscscan.com/token/0xc6a5d1e0ee0aa299467882c27c4eebd7329bf272",
+  "type": "BEP20",
+  "symbol": "SHIBMiniKing",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc6a5d1e0ee0aa299467882c27c4eebd7329bf272"
+ }

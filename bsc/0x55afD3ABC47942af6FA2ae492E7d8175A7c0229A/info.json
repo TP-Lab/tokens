@@ -1,0 +1,11 @@
+{
+ "name": "NEOT",
+ "website": ".",
+ "description": "The token issued on the BSC public chain.",
+ "explorer": "https://bscscan.com/token/0x55afD3ABC47942af6FA2ae492E7d8175A7c0229A",
+ "type": "BEP20",
+ "symbol": "NEOT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x55afD3ABC47942af6FA2ae492E7d8175A7c0229A"
+}

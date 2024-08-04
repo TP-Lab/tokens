@@ -1,0 +1,11 @@
+{
+    "name": "strategiceconomy",
+    "website": "strategiceconomy.cn",
+    "description": " Strategic Economy(SCE)，是全球专注于完善战略经济输出和盈利的生态。",
+    "explorer": "https://bscscan.com/address/0xC9521ae6719DBDecCb5036145D0De14dc44FF8Be",
+    "type": "BEP20",
+    "symbol": "SCE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC9521ae6719DBDecCb5036145D0De14dc44FF8Be"
+} 

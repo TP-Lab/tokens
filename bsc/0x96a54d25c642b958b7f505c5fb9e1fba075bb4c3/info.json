@@ -1,0 +1,11 @@
+{
+ "name": "YZFMeta Link Token",
+ "website": "https://metapaylink.xyz/",
+ "description": "YZF's mission is to build a simple, borderless currency and monetary infrastructure and metaverse connector that serves billions of people.",
+ "explorer": "https://bscscan.com/token/0x96a54d25c642b958b7f505c5fb9e1fba075bb4c3",
+ "type": "BEP20",
+ "symbol": "YZF",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x96a54d25c642b958b7f505c5fb9e1fba075bb4c3"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "PDB",
+ "website": "-",
+ "description": "PDB is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://etherscan.io/token/0x4cF85b86f9876d852C2c0AB3A828821642d85DFb",
+ "type": "ERC20",
+ "symbol": " PDB ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4cF85b86f9876d852C2c0AB3A828821642d85DFb"
+}

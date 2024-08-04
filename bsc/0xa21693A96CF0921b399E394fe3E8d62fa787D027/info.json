@@ -1,0 +1,11 @@
+{
+ "name": "Next-Gen Xploration",
+ "website": "-",
+ "description": "Next-Gen Xploration is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xa21693A96CF0921b399E394fe3E8d62fa787D027",
+ "type": "BEP20",
+ "symbol": " NX ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa21693A96CF0921b399E394fe3E8d62fa787D027"
+}

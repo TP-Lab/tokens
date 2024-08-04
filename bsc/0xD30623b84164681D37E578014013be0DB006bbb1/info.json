@@ -1,0 +1,11 @@
+{
+ "name": "dogeball Token",
+ "website": "https://www.dogeball.games",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xd30623b84164681d37e578014013be0db006bbb1",
+ "type": "BEP20",
+ "symbol": "DGB",
+ "decimals": 2,
+ "status": "active",
+ "id": "0xD30623b84164681D37E578014013be0DB006bbb1"
+}

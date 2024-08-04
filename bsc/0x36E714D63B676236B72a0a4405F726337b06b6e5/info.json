@@ -1,0 +1,11 @@
+{
+ "name": "GenesisUniverseToken",
+ "website": "-",
+ "description": "GenesisUniverseToken is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x36E714D63B676236B72a0a4405F726337b06b6e5",
+ "type": "BEP20",
+ "symbol": "GUT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x36E714D63B676236B72a0a4405F726337b06b6e5"
+}

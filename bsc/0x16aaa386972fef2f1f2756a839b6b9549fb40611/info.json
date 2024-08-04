@@ -1,0 +1,11 @@
+{
+ "name": "FD2.0",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x16aaa386972fef2f1f2756a839b6b9549fb40611",
+ "type": "BEP20",
+ "symbol": "FD2.0",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x16aaa386972fef2f1f2756a839b6b9549fb40611"
+}

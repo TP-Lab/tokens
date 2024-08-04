@@ -1,0 +1,11 @@
+{
+ "name": "PDL",
+ "website": "https://pdl.ink/",
+ "description": "Pandora is a social laboratory focusing on the ecological construction of DeFi in BSC chain, relying on the intelligent contract between community and open source.",
+ "explorer": "https://bscscan.com/token/0x839c2EE05d163979c42233F10aa71142F5193803",
+ "type": "BEP20",
+ "symbol": "PDL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x839c2EE05d163979c42233F10aa71142F5193803"
+}

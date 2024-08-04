@@ -1,0 +1,11 @@
+{
+	"name": "WATCH",
+	"website": "-",
+	"description": "WATCH is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+	"explorer": "https://bscscan.com/address/0x87B599Fbf0c006F9A8CFE51B9F0Ce9C46Bc17bB0",
+	"type": "BEP20",
+	"symbol": "WATCH",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x87B599Fbf0c006F9A8CFE51B9F0Ce9C46Bc17bB0"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "TheSecondLand Token",
+ "website": "https://www.thesecond.land",
+ "description": "A simulation metaverse game on BSC, a fun, new world built from scratch, where you can create and build your ideal home.",
+ "explorer": "https://www.bscscan.com/address/0xac678cfed36df8ed6f2a2676340bf8ae4c5ea304",
+ "type": "BEP20",
+ "symbol": "LAND",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAC678CFEd36DF8Ed6f2A2676340bf8Ae4C5Ea304"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "FAN Token",
+    "website": "https://fanbsc.github.io/",
+    "description": "The design studio of the Balinstone metaverse investment company has launched a digital art experiment on the blockchain. This experiment was jointly established by technology geeks and encryption enthusiasts in Silicon Valley in the United States. The project pays tribute to the cypherpunks in London in the early 1970s, and is committed to letting practitioners understand the ultimate form of NFT.",
+    "explorer": "https://bscscan.com/address/0x084a5a277ad07bed569fb9515279c40bbeccbcf8",
+    "type": "BSC",
+    "symbol": "FAN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x084a5a277ad07bed569fb9515279c40bbeccbcf8"
+   }

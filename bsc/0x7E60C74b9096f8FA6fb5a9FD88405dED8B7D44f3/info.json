@@ -1,0 +1,11 @@
+{
+ "name": "INFIBLUE WORLD",
+ "website": "https://infiblue.world",
+ "description": "Infiblue world is a GameFi SocialFi metaverse where players can start with 0 money down and build up fortune by finding a job, running a business, and creating content.",
+ "explorer": "https://bscscan.com/token/0x7E60C74b9096f8FA6fb5a9FD88405dED8B7D44f3",
+ "type": "BEP20",
+ "symbol": "MONIE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7E60C74b9096f8FA6fb5a9FD88405dED8B7D44f3"
+} 

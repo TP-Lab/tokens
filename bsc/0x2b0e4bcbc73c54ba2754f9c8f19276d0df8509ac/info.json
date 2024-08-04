@@ -1,0 +1,11 @@
+{
+ "name": "SH",
+ "website": "no",
+ "description": " no",
+ "explorer": "https://bscscan.com/0x2b0e4bcbc73c54ba2754f9c8f19276d0df8509ac",
+ "type": "BEP20",
+ "symbol": "SH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2b0e4bcbc73c54ba2754f9c8f19276d0df8509ac"
+}

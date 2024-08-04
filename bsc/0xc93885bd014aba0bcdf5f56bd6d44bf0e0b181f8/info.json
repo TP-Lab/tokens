@@ -1,0 +1,11 @@
+{
+  "name": "ANTI PYRAMID",
+  "website": "https://antidao.org/",
+  "description": "https://antidao.org/",
+  "explorer": "https://bscscan.com/token/0xc93885bd014aba0bcdf5f56bd6d44bf0e0b181f8",
+  "type": "BEP20",
+  "symbol": "ANTI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc93885bd014aba0bcdf5f56bd6d44bf0e0b181f8"
+}

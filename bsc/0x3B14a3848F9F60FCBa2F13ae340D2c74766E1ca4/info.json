@@ -1,0 +1,11 @@
+{
+ "name": "DIDAO",
+ "website": "https://didaoalliance.net",
+ "description": "DI is the only ecological currency of DIDAO and the only cryptocurrency with correct supply level",
+ "explorer": "https://bscscan.com/token/0x3B14a3848F9F60FCBa2F13ae340D2c74766E1ca4",
+ "type": "BEP20",
+ "symbol": "DI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3B14a3848F9F60FCBa2F13ae340D2c74766E1ca4"
+}

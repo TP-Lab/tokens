@@ -1,0 +1,11 @@
+{
+ "name": "MTAW",
+ "website": "https://mtaw.pro",
+ "description": "MTAW (MetaTrader Autonomy world) is jointly issued by the three major ecosystems of foreign exchange, mining farms and intelligent robots. Committed to establishing a new order that combines decentralization, autonomy and ecological application token economic incentives, it is the next generation transaction payment universal token.",
+ "explorer": "https://bscscan.com/token/0x5639d895a232e6100416E4a7d23093adAfE48037",
+ "type": "BEP20",
+ "symbol": "MTAW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5639d895a232e6100416E4a7d23093adAfE48037"
+}

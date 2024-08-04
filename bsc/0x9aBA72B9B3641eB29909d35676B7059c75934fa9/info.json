@@ -1,0 +1,11 @@
+{ 
+"name": "BDC",
+"website": ".",
+"description": "BDC is a platform established by a team from Hong Kong for the management and utilization of ecological identity authentication. This platform utilizes blockchain to store essential ecological identity information, which can be used in various fields such as enterprise source tracing, identity recognition, and ecological business services.. ",
+"explorer": "https://bscscan.com/token/0x9aBA72B9B3641eB29909d35676B7059c75934fa9",
+"type": "BEP20",
+"symbol": "BDC",
+"decimals": 18,
+"status": "active",
+"id": "0x9aBA72B9B3641eB29909d35676B7059c75934fa9"
+}

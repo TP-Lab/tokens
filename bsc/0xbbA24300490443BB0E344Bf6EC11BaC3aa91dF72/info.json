@@ -1,0 +1,11 @@
+{
+    "name": "Doom Hero Gold",
+    "webiste": "https://doomhero.io/",
+    "description": "Doom Hero is the world's first NFT+ DeFi+ RPG+SLG 3D strategy game developed by Heroic Sword Studio, which focuses on the gaming field, based on the BSC chain. Players can raise their own heroes in this world, form unique battle teams, forge and upgrade unique equipment, join alliance organizations, and acquire gold coins (Token) through battles and quests, which can be exchanged and traded in Pancake. At the same time, each hero of different qualities is an independent NFT asset that users can trade through the official channel.$DHD and $DHG are used as payment methods for the purchase of Mystery Chests and they can currently be redeemed at pancake swap.",
+    "explorer": "https://bscscan.com/token/0xbba24300490443bb0e344bf6ec11bac3aa91df72",
+    "type": "BEP20",
+    "symbol": "DHG",
+    "decimals": "18",
+    "status": "active",
+    "id": "0xbbA24300490443BB0E344Bf6EC11BaC3aa91dF72"
+}

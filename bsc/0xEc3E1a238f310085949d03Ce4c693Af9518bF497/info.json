@@ -1,0 +1,11 @@
+{
+ "name": "BTA Token",
+ "website": "https://bt.bitstargames.com/#/",
+ "description": "The BTS public chain transaction fee refers to the BTA fee that needs to be paid when using BTS for transactions. This fee can be used as an incentive mechanism to encourage users to use public chain resources more rationally and avoid excessive waste",
+ "explorer": "https://bscscan.com/token/0xEc3E1a238f310085949d03Ce4c693Af9518bF497",
+ "type": "BEP20",
+ "symbol": "BTA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEc3E1a238f310085949d03Ce4c693Af9518bF497"
+} 

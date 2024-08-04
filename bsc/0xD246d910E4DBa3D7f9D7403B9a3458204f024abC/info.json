@@ -1,0 +1,11 @@
+{
+    "name":"Being Token",
+    "website":"https://beingdex.com",
+    "description":"BDX token is the platform token of BeingDex, which provide users with rich exclusive rights and at the same time build the ecological development of BeingDex with users.",
+    "explorer":"https://bscscan.com/address/0xD246d910E4DBa3D7f9D7403B9a3458204f024abC",
+    "type":"BEP20",
+    "symbol":"BDX",
+    "decimals":18,
+    "status":"active",
+    "id":"0xD246d910E4DBa3D7f9D7403B9a3458204f024abC"
+}

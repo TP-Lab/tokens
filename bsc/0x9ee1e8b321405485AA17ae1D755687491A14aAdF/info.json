@@ -1,0 +1,11 @@
+{
+ "name": "WCBS",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x9ee1e8b321405485AA17ae1D755687491A14aAdF",
+ "type": "BEP20",
+ "symbol": "WCBS",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x9ee1e8b321405485AA17ae1D755687491A14aAdF"
+}

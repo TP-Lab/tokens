@@ -1,0 +1,11 @@
+{
+ "name": "Bibcock coin",
+ "website": "https://tronscan.io/",
+ "description": "BKC龙头币，发行方AMGEN，香港安进公司。联合新加坡顶级区块链技术团队（Blue key）参与设计，为重构市场化，全球治理化模式而生。主要致力于去中心化服务中集成信用元素，打造一个币圈银行。",
+ "explorer": "https://tronscan.io/#/contract/TXDALK33asZY3h2TcuUJpiHxf3xJmC6HYY",
+ "type": "TRC20",
+ "symbol": "BKC",
+ "decimals": 6,
+ "status": "active",
+ "id": "TXDALK33asZY3h2TcuUJpiHxf3xJmC6HYY"
+}

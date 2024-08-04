@@ -1,0 +1,11 @@
+{
+    "name": "Chocolate Share",
+    "website": "https://chocolatecash.org",
+    "description": "A algorithm stable coin",
+    "explorer": "https://hecoinfo.com/address/0x7F4D7F2f19E993E713FE85e877f34C949178Bf55",
+    "type": "HRC20",
+    "symbol": "CHS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7F4D7F2f19E993E713FE85e877f34C949178Bf55"
+   }

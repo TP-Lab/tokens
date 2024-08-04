@@ -1,0 +1,11 @@
+{
+ "name": "UP",
+ "website": "https://www.uptoken.xyz",
+ "description": "UP ecology uses DEFI, GAMEFI, DAO, etc.",
+ "explorer": "https://bscscan.com/token/0xc3ad8676e74ba014d137686a42ea17a015b1d9ec",
+ "type": "BEP20",
+ "symbol": "UP",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC3ad8676e74ba014d137686a42ea17A015b1d9Ec"
+}

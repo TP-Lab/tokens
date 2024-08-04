@@ -1,0 +1,11 @@
+{
+    "name": "Alvey Chain",
+    "website": "https://alveychain.com/",
+    "description": "Alvey is a decentralized Layer 2 blockchain POA, POS, POB based on Ethereum Virtual Machine.",
+    "explorer": "https://etherscan.io/address/0x256d1fce1b1221e8398f65f9b36033ce50b2d497",
+    "type": "ERC20",
+    "symbol": "wALV",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x256D1fCE1b1221e8398f65F9B36033CE50B2D497"
+   }

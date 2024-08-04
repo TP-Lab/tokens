@@ -1,0 +1,11 @@
+{
+ "name": "MOMO COIN",
+ "website": "https://www.imomo.la",
+ "description": "MOMO COIN is a token following the ERC20 standard. It is the common currency for all web3 projects developed by the MOMO team now and in the future. Users can share the benefits of the web3 project developed by the MOMO team by holding and trading MOMO tokens.",
+ "explorer": "https://arbiscan.io/address/0xab88d66bc82ac67b5a7eaa96b5fac127d0daaaaa",
+ "type": "ERC20",
+ "symbol": "MOMO",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xAB88D66Bc82AC67b5a7eAa96B5FAC127D0DAAAAa"
+}

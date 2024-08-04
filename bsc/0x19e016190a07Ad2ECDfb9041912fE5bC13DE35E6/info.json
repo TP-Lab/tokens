@@ -1,0 +1,11 @@
+{
+  "name": "New Farm Coin    Token",
+  "website": "https://newfarmtoken.com/",
+  "description": "BSC",
+  "explorer": "https://bscscan.com/address/0x19e016190a07ad2ecdfb9041912fe5bc13de35e6",
+  "type": "BEP20",
+  "symbol": "NFC  ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x19e016190a07Ad2ECDfb9041912fE5bC13DE35E6"
+}

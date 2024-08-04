@@ -1,0 +1,11 @@
+{
+  "name": "ARK",
+  "website": "https://www.arkfintech.co",
+  "description": "ARK Fintech is rolling out a cutting-edge Web3 digital union system built on the Binance Smart Chain. This innovative system enables instantaneous transfers, consumer payments, and synchronized settlements between digital assets and banks, seamlessly blending digital payment functionalities with the traditional banking ecosystem. Furthermore, it employs decentralized tools such as DAO, Megadrop, Launchpad, and PancakeSwap as foundational elements, expanding into the comprehensive ARK Web3 digital union ecosystem. This unique ARK Fintech union system integrates both physical and virtual card exchanges within its digital framework. By surpassing conventional settlement systems, it establishes a robust ecosystem for ARK digital transactions, cross-border payments, foreign currency exchanges, GameFi, SocialFi, RWA, and the ARK public chain infrastructure, crafting an all-encompassing digital union Web3 ecosystem.",
+  "explorer": "https://bscscan.com/token/0x6b954B64EF0E5dbe738a4eBe466Bd5A8529E7844",
+  "type": "BEP20",
+  "symbol": "ARK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6b954B64EF0E5dbe738a4eBe466Bd5A8529E7844"
+}

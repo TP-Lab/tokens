@@ -1,0 +1,11 @@
+{
+ "name": "inSF",
+ "website": "http://insf.fmtci.com/",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xF02188236708F2461E4ea726F9229fE4596be698",
+ "type": "BEP20",
+ "symbol": "inSF",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xF02188236708F2461E4ea726F9229fE4596be698"
+}

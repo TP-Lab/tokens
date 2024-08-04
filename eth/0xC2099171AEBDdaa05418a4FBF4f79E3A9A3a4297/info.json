@@ -1,0 +1,11 @@
+{
+ "name": "Silly Dragon",
+ "website": "https://sillydragon.co",
+ "description": "2024 will be the year of the wood dragon. What awaits you in the year of the Wood Dragon.",
+ "explorer": "https://etherscan.io/token/0xc2099171aebddaa05418a4fbf4f79e3a9a3a4297",
+ "type": "ERC20",
+ "symbol": "SILLY",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC2099171AEBDdaa05418a4FBF4f79E3A9A3a4297"
+}

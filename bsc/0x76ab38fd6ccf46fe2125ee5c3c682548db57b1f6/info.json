@@ -1,0 +1,11 @@
+{
+ "name": "PointSwap Token",
+ "website": "",
+ "description": "PointSwap is an innovative blockchain trading engine that supports customized model trading and also supports conventional Swap trading.",
+ "explorer": "https://bscscan.com/token/0x76ab38fd6ccf46fe2125ee5c3c682548db57b1f6",
+ "type": "BEP20",
+ "symbol": "PET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x76Ab38FD6CCf46fe2125EE5c3c682548DB57b1F6"
+}

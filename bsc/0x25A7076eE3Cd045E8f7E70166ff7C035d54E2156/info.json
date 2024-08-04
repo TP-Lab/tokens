@@ -1,0 +1,11 @@
+{
+ "name": "SH",
+ "website": "https://www.shswap.vip/",
+ "description": "Consensus who collects the characters of Water Margin, collects 108 heroes by using blockchain technology, each character is lifelike...",
+ "explorer": "https://bscscan.com/token/0x25A7076eE3Cd045E8f7E70166ff7C035d54E2156",
+ "type": "BEP20",
+ "symbol": "SH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x25A7076eE3Cd045E8f7E70166ff7C035d54E2156"
+}

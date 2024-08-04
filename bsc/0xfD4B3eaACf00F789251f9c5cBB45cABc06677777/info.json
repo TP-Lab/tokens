@@ -1,0 +1,11 @@
+{ 
+"name": "CXLM",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0xfD4B3eaACf00F789251f9c5cBB45cABc06677777",
+"type": "BEP20",
+"symbol": "CXLM",
+"decimals": 18,
+"status": "active",
+"id": "0xfD4B3eaACf00F789251f9c5cBB45cABc06677777"
+}

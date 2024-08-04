@@ -1,0 +1,11 @@
+{
+ "name": "Bright Fonvity Classic",
+ "website":"https://twitter.com/BrightFonvity",
+ "description":"BONC(Bright Fonvity Classic),as the first ecology of BON.",
+ "explorer": "https://bscscan.com/token/0x3FaEef373E4FB1e79F39c328a99710AF35Ae9c43",
+ "type": "BEP20",
+ "symbol": "BONC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3FaEef373E4FB1e79F39c328a99710AF35Ae9c43"
+}

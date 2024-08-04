@@ -1,0 +1,11 @@
+{
+ "name": "HANABC",
+ "website": "https://kuihut.pro",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0xebcea4544d56806c987098c6623c5e2232d4a6d1",
+ "type": "BEP20",
+ "symbol": "HANABC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xebcea4544d56806c987098c6623c5e2232d4a6d1"
+}

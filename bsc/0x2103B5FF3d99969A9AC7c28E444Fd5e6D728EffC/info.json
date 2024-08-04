@@ -1,0 +1,11 @@
+{
+  "name": "KFFF Token",
+  "website": "",
+  "description": "KFFF is the world's first DEFI2.0 + NFT neutralization application platform released by KFFF-DAO. KFFF manages tokens for the platform, with a total circulation of 10 million",
+  "explorer": "https://bscscan.com/token/0x2103B5FF3d99969A9AC7c28E444Fd5e6D728EffC",
+  "type": "BEP20",
+  "symbol": "KFFF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2103B5FF3d99969A9AC7c28E444Fd5e6D728EffC"
+}

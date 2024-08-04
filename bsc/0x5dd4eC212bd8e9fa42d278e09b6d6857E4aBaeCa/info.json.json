@@ -1,0 +1,11 @@
+{
+  "name": "FOMO DAO",
+  "website": "https://fomo-dao.com/",
+  "description": "The FOMO DAO is the world's first encrypted autonomous community operated in the DeFi domain. Its full name is FOMO DECENTRALIZED AUTONNMOUS CORPORATIONS.",
+  "explorer": "https://bscscan.com/token/0x5dd4eC212bd8e9fa42d278e09b6d6857E4aBaeCa",
+  "type": "BEP20",
+  "symbol": "FOMO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5dd4eC212bd8e9fa42d278e09b6d6857E4aBaeCa"
+}

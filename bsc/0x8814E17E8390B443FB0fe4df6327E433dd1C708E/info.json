@@ -1,0 +1,11 @@
+{
+ "name": "AJS Token",
+ "website": "-",
+ "description": "AJS Token is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x8814E17E8390B443FB0fe4df6327E433dd1C708E",
+ "type": "BEP20",
+ "symbol": "AJS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8814E17E8390B443FB0fe4df6327E433dd1C708E"
+}

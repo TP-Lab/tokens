@@ -1,0 +1,11 @@
+{
+ "name": "DSNFT",
+ "website": "https://dsnft.mystrikingly.com/",
+ "description": "A painting to earn project on the BNB chain.",
+ "explorer": "https://bscscan.com/token/0x4ef36ea887aab4c8f645c172661b3738ae0ee725",
+ "type": "BEP-20",
+ "symbol": "DSNFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4Ef36eA887AAb4c8F645c172661b3738AE0ee725"
+}

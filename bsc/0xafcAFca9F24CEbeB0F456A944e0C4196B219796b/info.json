@@ -1,0 +1,11 @@
+{
+ "name": "BTCDoge",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xafcAFca9F24CEbeB0F456A944e0C4196B219796b",
+ "type": "BEP20",
+ "symbol": "BTCDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xafcAFca9F24CEbeB0F456A944e0C4196B219796b"
+}

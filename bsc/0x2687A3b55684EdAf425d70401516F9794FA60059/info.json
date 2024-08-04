@@ -1,0 +1,11 @@
+{
+ "name": "ETHKing",
+ "website": "https://ethking.vip/",
+ "description": "MEME Navigator",
+ "explorer": "https://bscscan.com/token/0x2687A3b55684EdAf425d70401516F9794FA60059",
+ "type": "BEP20",
+ "symbol": "ETHK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2687A3b55684EdAf425d70401516F9794FA60059"
+}

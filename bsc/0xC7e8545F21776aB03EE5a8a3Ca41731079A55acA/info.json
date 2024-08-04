@@ -1,0 +1,11 @@
+{
+    "name": "ZR Token",
+    "website": "http://zrzhurong-dao.com/",
+    "description": "Zhurong $ZR token reflects the evolution of fist token. Zhu Rong's goal is to optimize the profits of the holders through our revenue generating efforts and innovative use cases..",
+    "explorer": "https://bscscan.com/address/0xC7e8545F21776aB03EE5a8a3Ca41731079A55acA",
+    "type": "BEP20",
+    "symbol": "ZR",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xC7e8545F21776aB03EE5a8a3Ca41731079A55acA"
+   }

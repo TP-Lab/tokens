@@ -1,0 +1,11 @@
+{ 
+"name": "OAS",
+"website": "https://www.microcosm.finance/",
+"description": "OAS是元宇宙mic第一个子生态，后续gamefi和NFT也将陆续呈现，从而真正打造出一个强大富足的元宇宙绿洲。",
+"explorer": "https://bscscan.com/token/0x80B4Bc8B96B29d9FbF7d8E04e66F5bd96EFbb167",
+"type": "BEP20",
+"symbol": "OAS",
+"decimals": 18,
+"status": "active",
+"id": "0x80B4Bc8B96B29d9FbF7d8E04e66F5bd96EFbb167"
+}

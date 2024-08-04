@@ -1,0 +1,11 @@
+{
+ "name": "TDBM Token",
+ "website": "http://pancakeswap.com/",
+ "description": "TDBM是由台湾及其他多个地区，及社区成员共同自治的DAO实验。这是前所未有颠覆性的创新。通过在PancakeSwap上交易来获得7倍挖矿激励。",
+ "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+ "type": "BEP20",
+ "symbol": "TDBM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x165462b09f9a049ab572b302cc2e047c28ce8888"
+}

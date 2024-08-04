@@ -1,0 +1,11 @@
+{
+ "name": "SuperDoge Coin",
+ "website": "https://superdoge.live",
+ "description": "SuperDoge将作为STKO唯一通证，用于支持整个生态系统STKO是以社交功能为起点，集合了即时通讯客户端、Dapp浏览器、轻钱包的移动端应用，能够让使用STKO的用户相互发送加密信息、智能合约和数字货币。为去中心化应用提供其聊天API（应用程序接口）和开发工具，使得用户可以软件内使用dApp服务。STKO的目标是成为一个区块链上的流量入口，在通过这个入口分发流量下去到各方，用户不仅可以通过STKO加密聊天通讯，支付，并可视作一个钱包使用。类比微信模式，STKO目标以社交功能为起点最终成为去中心化应用软件的“入口”，可以看做是一个基于去中心化应用的操作系统，用户可以通过STKO建立去中心化应用程序，同时STKO可以帮助DApp开发者覆盖新的用户。",
+ "explorer": "https://bscscan.com/token/0xd942ed6b052537b5f67675e68020351a12764099",
+ "type": "BEP20",
+ "symbol": "SuperDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd942Ed6b052537b5f67675e68020351a12764099"
+}

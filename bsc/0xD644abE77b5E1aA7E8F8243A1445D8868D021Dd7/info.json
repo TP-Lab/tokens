@@ -1,0 +1,11 @@
+{ 
+    "name": "Artemis Token",
+    "website": "https://beastlegends.games/#/",
+    "description": "ARTS is the utility token used throughout Beast Legends ecosystem as the basis of transactions and interactions. It is an BEP-20 utility token built on the Binance Smart Chain. It will be used across the ecosystem by gamers, developers, and publishers, allowing Creators and Players to exchange ASSETS and Games and build a user-based platform of rewards while developing an ecosystem where Creators and Players will share various truly unique gaming experiences.",
+    "explorer": "https://bscscan.com/token/0xD644abE77b5E1aA7E8F8243A1445D8868D021Dd7",
+    "type": "BEP20",
+    "symbol": "ARTS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xD644abE77b5E1aA7E8F8243A1445D8868D021Dd7"
+}

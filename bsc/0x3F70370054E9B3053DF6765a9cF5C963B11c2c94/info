@@ -1,0 +1,11 @@
+{
+"name": "GoldDoge",
+"website": "-",
+"description": "GoldDoge",
+"explorer": "https://bscscan.com/address/0x3F70370054E9B3053DF6765a9cF5C963B11c2c94",
+"type": "BEP20",
+"symbol": "GD",
+"decimals": 18,
+"status": "active",
+"id": "0x3F70370054E9B3053DF6765a9cF5C963B11c2c94"
+}

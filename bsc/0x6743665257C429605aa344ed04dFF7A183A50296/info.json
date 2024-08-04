@@ -1,0 +1,11 @@
+{
+ "name": "QJ",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0x6743665257C429605aa344ed04dFF7A183A50296",
+ "type": "BEP20",
+ "symbol": "QJ",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6743665257C429605aa344ed04dFF7A183A50296"
+}

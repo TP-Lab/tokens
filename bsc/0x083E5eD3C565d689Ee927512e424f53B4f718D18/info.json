@@ -1,0 +1,11 @@
+{
+ "name": "YPT",
+ "website": "https://www.ztb.im/exchange?coin=YPT_USDT",
+ "description": "YPT 为京安神龙发行的稳定企业通证,由顶级艺术品作为实物标的；1:1锚定人民币，YPT是京安神龙平台所有生态的基石，是京安神龙所有生态板块及合作企业间流转的稳定通证",
+ "explorer": "https://bscscan.com/token/0x083E5eD3C565d689Ee927512e424f53B4f718D18",
+ "type": "BEP20",
+ "symbol": "YPT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x083E5eD3C565d689Ee927512e424f53B4f718D18"
+}

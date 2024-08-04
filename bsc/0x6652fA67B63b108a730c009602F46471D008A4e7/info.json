@@ -1,0 +1,11 @@
+{
+ "name": "wha token",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x6652fA67B63b108a730c009602F46471D008A4e7",
+ "type": "BEP20",
+ "symbol": WHA
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6652fA67B63b108a730c009602F46471D008A4e7"
+}

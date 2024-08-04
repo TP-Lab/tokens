@@ -1,0 +1,11 @@
+{
+ "name": "Doge2.0",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x35bB94258EB3fB42114dbdC0e29e00e5aBe0bc46",
+ "type": "BEP20",
+ "symbol": "Doge2.0",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x35bB94258EB3fB42114dbdC0e29e00e5aBe0bc46"
+}

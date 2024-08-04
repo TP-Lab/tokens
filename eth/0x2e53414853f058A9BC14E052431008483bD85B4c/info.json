@@ -1,0 +1,11 @@
+{
+ "name": "MAGA",
+ "website": "https://trump.gd",
+ "description": "MAGA - Make America Great Again with AI.",
+ "explorer": "https://etherscan.io/address/0xA1d5ACC25eA8e6dC85e3Fb2A592a1AeBC6385df5",
+ "type": "ERC20",
+ "symbol": "TRUMP",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4f4a556361B8B4869F97b8709ff47c1B057Ea13b"
+}

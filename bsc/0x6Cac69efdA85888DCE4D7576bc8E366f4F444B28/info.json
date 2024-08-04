@@ -1,0 +1,11 @@
+{
+ "name": "ATAR",
+ "website": "https://avatargames.info",
+ "description": "Avatar is a large and completely decentralized ecological project built on BSC. Anyone can be rewarded by ATAR and NFT by contributing his participation.",
+ "explorer": "https://bscscan.com/token/0x6Cac69efdA85888DCE4D7576bc8E366f4F444B28",
+ "type": "BEP20",
+ "symbol": "ATAR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6Cac69efdA85888DCE4D7576bc8E366f4F444B28"
+}

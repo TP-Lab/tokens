@@ -1,0 +1,11 @@
+{
+ "name": "API Inu",
+ "website": "https://apiinu.com",
+ "description": "API Inu provide a traditional API service to smart contracts in a decentralized way.",
+ "explorer": "https://bscscan.com/token/0xA1943Bc4a417ffd2E9e11A97383fa3f9548291c3",
+ "type": "BEP20",
+ "symbol": "API",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xA1943Bc4a417ffd2E9e11A97383fa3f9548291c3"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Smart Finance Token",
+ "website": "www.smartgame.finance",
+ "description": "Smart Finance's mission is to promote global gamefi and integrate WEB3-based Value Internet into society in a simple and efficient way.",
+ "explorer": "https://etherscan.io/token/0xce20BB92CCF9BbF5091ef85649E71E552819AD8c",
+ "type": "ERC20",
+ "symbol": "SMART",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xce20BB92CCF9BbF5091ef85649E71E552819AD8c"
+}

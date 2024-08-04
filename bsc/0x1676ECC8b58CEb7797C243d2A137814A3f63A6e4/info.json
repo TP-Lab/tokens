@@ -1,0 +1,11 @@
+{ 
+    "name": "ISPACE",
+    "website": "http://www.ispace.work",
+    "description": "IMAGENATIONSPACE,中文译名:想象空间。我们的重点是通过 ISPACE元宇宙生态进行创新，ISPACE为基础母币，扩展WEB3.0、DAO、NFT、DEFI等多个生态，给ISPACE持有者带来长久持续的收益。",
+    "explorer": "https://bscscan.com/token/0x1676ECC8b58CEb7797C243d2A137814A3f63A6e4",
+    "type": "BEP20",
+    "symbol": "ISPACE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1676ECC8b58CEb7797C243d2A137814A3f63A6e4"
+}

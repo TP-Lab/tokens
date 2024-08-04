@@ -1,0 +1,11 @@
+{ 
+"name": "MAS",
+"website": ".",
+"description": ". ",
+"explorer": "https://bscscan.com/token/0x590F912470CC27671687438E5cd5976BeC7A0666",
+"type": "BEP20",
+"symbol": "MAS",
+"decimals": 18,
+"status": "active",
+"id": "0x590F912470CC27671687438E5cd5976BeC7A0666"
+}

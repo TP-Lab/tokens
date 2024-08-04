@@ -1,0 +1,11 @@
+{
+ "name": "Dragon King Dao",
+ "website": "https://www.dragonkingdao.com/",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xd2AEA01eC8670b386EeBb2d614af8Cc8C736A02C",
+ "type": "BEP20",
+ "symbol": "DKD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd2AEA01eC8670b386EeBb2d614af8Cc8C736A02C"
+}

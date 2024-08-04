@@ -1,0 +1,11 @@
+{
+ "name": "DAOCoin Token",
+ "website": "-",
+ "description": "DAOCoin token is Web3.0 opportunity: a defi one-stop blockchain platform built at the bottom of BSC ecological chain",
+ "explorer": "https://bscscan.com/token/0x38c0112784CF7eE83Db816290ebA761ce91b0FfD",
+ "type": "BEP20",
+ "symbol": "DC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x38c0112784CF7eE83Db816290ebA761ce91b0FfD"
+} 

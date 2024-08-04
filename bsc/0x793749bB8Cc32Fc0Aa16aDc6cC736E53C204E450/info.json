@@ -1,0 +1,11 @@
+{
+ "name": "BNCQ",
+ "website": "www.bncq.me",
+ "description": "The BNCQ ecological platform is a platform for building the interconnection of the blockchain world. With the super system of data interaction, it provides an unbounded interactive system of blockchain technology and blockchain cross-border Internet of Things + business + games + ecological customization services..",
+ "explorer": "https://www.bscscan.com/address/0x793749bB8Cc32Fc0Aa16aDc6cC736E53C204E450",
+ "type": "BEP20",
+ "symbol": "BNCQ",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x793749bB8Cc32Fc0Aa16aDc6cC736E53C204E450"
+}

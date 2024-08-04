@@ -1,0 +1,11 @@
+{
+  "name": "ForeverDiamondDAO Token",
+  "website": "https://www.foreverdiamonddao.com",
+  "description": "With FDD, safely and simply invest in cryptocurrencies, The FDD trinity: community, methodology, and technology, Built on an open protocol, not on a platform.",
+  "explorer": "https://bscscan.com/address/0xdc89a11d2c67ab93d2ef73a159c69523644001ff",
+  "type": "BEP20",
+  "symbol": "FDD",
+  "decimals": 4,
+  "status": "active",
+  "id": "0xdc89a11D2c67AB93D2ef73a159c69523644001ff"
+ }

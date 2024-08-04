@@ -1,0 +1,11 @@
+{
+ "name": "YUTU Token",
+ "website": "https://ttcswap.finance",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0x97Ea465e7Ed3B817364dd096A614122D6082320D",
+ "type": "BEP20",
+ "symbol": "YUTU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x97Ea465e7Ed3B817364dd096A614122D6082320D"
+}

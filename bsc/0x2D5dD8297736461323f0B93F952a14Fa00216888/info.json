@@ -1,0 +1,11 @@
+{
+ "name": "yihuang",
+ "website": ".",
+ "description": ". ",
+ "explorer": "https://bscscan.com/token/0x2D5dD8297736461323f0B93F952a14Fa00216888",
+ "type": "BEP20",
+ "symbol": "YH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2D5dD8297736461323f0B93F952a14Fa00216888"
+}

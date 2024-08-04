@@ -1,0 +1,11 @@
+{
+ "name": "AIBT",
+ "website": "-",
+ "description": "AIBT (AIBT) is a highly autonomous, decentralized, fair and just ecological community.",
+ "explorer": "https://bscscan.com/token/0x42Fbf31332c90780ad4c3a9fef1066d971c1984c",
+ "type": "BEP20",
+ "symbol": "AIBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x42Fbf31332c90780ad4c3a9fef1066d971c1984c"
+}

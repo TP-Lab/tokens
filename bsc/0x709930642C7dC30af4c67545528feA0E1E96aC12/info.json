@@ -1,0 +1,11 @@
+{
+ "name": "Dotty",
+ "website": "https://bscscan.com/token/0x709930642C7dC30af4c67545528feA0E1E96aC12",
+ "description": "Dotty TOKEN.",
+ "explorer": "https://bscscan.com/token/0x709930642C7dC30af4c67545528feA0E1E96aC12",
+ "type": "BEP20",
+ "symbol": "Dotty",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x709930642C7dC30af4c67545528feA0E1E96aC12"
+}

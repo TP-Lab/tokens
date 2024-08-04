@@ -1,0 +1,11 @@
+{
+ "name": "iMST",
+ "website": "https://meta.mvcontrol.app",
+ "description": "a important and innovative ground in the web3 world aiming to invite more and more users into this park with great expectation",
+ "explorer": "https://bscscan.com/token/0xF42a22352737c70D0f3b2581a279fC977bc87f91",
+ "type": "BEP20",
+ "symbol": "iMST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF42a22352737c70D0f3b2581a279fC977bc87f91"
+}

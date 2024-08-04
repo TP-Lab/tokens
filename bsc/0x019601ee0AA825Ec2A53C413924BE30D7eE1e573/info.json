@@ -1,0 +1,11 @@
+{ 
+"name": "MBUS",
+"website": "https://www.mbusdao.com/",
+"description": "MBUS is the latest NFT card game.",
+"explorer": "https://bscscan.com/token/0x019601ee0AA825Ec2A53C413924BE30D7eE1e573",
+"type": "BEP20",
+"symbol": "MBUS",
+"decimals": 18,
+"status": "active",
+"id": "0x019601ee0AA825Ec2A53C413924BE30D7eE1e573"
+}

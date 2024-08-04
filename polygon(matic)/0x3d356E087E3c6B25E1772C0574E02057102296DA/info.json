@@ -1,0 +1,11 @@
+{
+ "name": "Matic Ecology",
+ "website": "https://matic-eco.com/",
+ "description": "Matic Ecology is a dapp with matic ecology system,increasing the value of matic tokens",
+ "explorer": "https://polygonscan.com/token/0x3d356e087e3c6b25e1772c0574e02057102296da",
+ "type": "Polygon",
+ "symbol": "MEC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3d356E087E3c6B25E1772C0574E02057102296DA"
+}

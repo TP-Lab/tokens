@@ -1,0 +1,11 @@
+{
+	"name": "DAC",
+	"website": "https://dac.leadpaydac.com/",
+	"description": "DAC (Decentralized Aid Coin) is the token of the Lead Pay cryptocurrency payment platform, granting users the rights to make payments and participate on the platform. It also plays a significant role in ecosystem development, governance decisions, and partnerships. With a total supply of 21 million coins, 1.0 is produced through donation mining, with global mining accounting for 1/21 of it. This is driven by a global consensus mechanism to build a decentralized cryptocurrency payment system.",
+	"explorer": "https://bscscan.com/token/0x1c2619d4496a7eee4cd2a3b99b634c0691ca8a15",
+	"type": "BEP20",
+	"symbol": "DAC",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x1c2619d4496a7eee4cd2a3b99b634c0691ca8a15"
+}

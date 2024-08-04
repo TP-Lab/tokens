@@ -1,0 +1,11 @@
+{
+ "name": "RMC",
+ "website": "https://www.runningmancoin.com/",
+ "description": "An auto-dividend and run to earn project",
+ "explorer": "https://bscscan.com/token/0xa13daffebd4a42c0cf59068fca3a46bae2542817",
+ "type": "BEP20",
+ "symbol": "RMC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa13DAffEBd4a42c0cF59068fca3A46bAe2542817"
+}

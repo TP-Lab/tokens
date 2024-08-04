@@ -1,0 +1,11 @@
+{
+    "name": "MED Token",
+    "website": "https://www.medici.market/",
+    "description": "MED is the token of MEDICI On-Chain Market.",
+    "explorer": "https://bscscan.com/token/0xee0eD249325a8284D66Af5F98dCbB7C620ebbe45",
+    "type": "BEP20",
+    "symbol": "MED",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xee0eD249325a8284D66Af5F98dCbB7C620ebbe45"
+}

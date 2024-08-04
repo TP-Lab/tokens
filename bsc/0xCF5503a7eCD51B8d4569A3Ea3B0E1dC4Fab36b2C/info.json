@@ -1,0 +1,11 @@
+{
+ "name": "ZJNFTYSM",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xCF5503a7eCD51B8d4569A3Ea3B0E1dC4Fab36b2C",
+ "type": "BEP20",
+ "symbol": "ZJNFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCF5503a7eCD51B8d4569A3Ea3B0E1dC4Fab36b2C"
+}

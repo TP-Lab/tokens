@@ -1,0 +1,11 @@
+{
+ "name": "YP DAO Token",
+ "website": "https://yapdao.finance/#/",
+ "description": "YapDao is building Dream Reserve (DR), a community-owned, decentralized and censorship-resistant reserve currency that is asset-backed, deeply liquid and widely-used across Web3.",
+ "explorer": "https://bscscan.com/token/0xD6c5cF948DD3c8139e18dBa87d3978c411cF204c",
+ "type": "BEP20",
+ "symbol": "YP",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xD6c5cF948DD3c8139e18dBa87d3978c411cF204c"
+}

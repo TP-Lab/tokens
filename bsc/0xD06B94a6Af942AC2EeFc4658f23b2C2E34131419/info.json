@@ -1,0 +1,11 @@
+{
+ "name": "Morning Star",
+ "website": "https://bscscan.com/token/0xD06B94a6Af942AC2EeFc4658f23b2C2E34131419",
+ "description": "Morning Star Token.",
+ "explorer": "https://bscscan.com/token/0xD06B94a6Af942AC2EeFc4658f23b2C2E34131419",
+ "type": "BEP20",
+ "symbol": "MorningStar",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD06B94a6Af942AC2EeFc4658f23b2C2E34131419"
+}

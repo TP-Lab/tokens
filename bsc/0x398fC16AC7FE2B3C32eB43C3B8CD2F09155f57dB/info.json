@@ -1,0 +1,11 @@
+{
+ "name": "Fishing Wild Hunt ",
+ "website": "http://home.djs-mall.com/",
+ "description": "Fishing Wild Hunt is the pinnacle of blockchain gaming innovation, and FWH is the official game token for lingjing.",
+ "explorer": "https://bscscan.com/token/0x398fC16AC7FE2B3C32eB43C3B8CD2F09155f57dB",
+ "type": "BEP20",
+ "symbol": "FWH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x398fC16AC7FE2B3C32eB43C3B8CD2F09155f57dB"
+}

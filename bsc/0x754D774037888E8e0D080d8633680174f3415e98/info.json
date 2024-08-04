@@ -1,0 +1,11 @@
+{
+    "name": "Candy",
+    "website": "https://candybsc.com",
+    "description": "A charity-oriented token that trying to contribute the world to be a better place , and bring a sweet candy to every corner of the world. For the better future ,let's move forward together with CANDY.",
+    "explorer": "https://bscscan.com/address/0x754D774037888E8e0D080d8633680174f3415e98",
+    "type": "BEP20",
+    "symbol": "Candy",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x754D774037888E8e0D080d8633680174f3415e98"
+   } 

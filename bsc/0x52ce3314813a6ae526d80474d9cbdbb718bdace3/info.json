@@ -1,0 +1,11 @@
+{
+  "name": "Fuding Seed ",
+  "website": "http://www.fidedigital.net",
+  "description": "FDS is a sub-currency of FD, with a total issuance of 1 billion, all of which are used for mining and airdrops to motivate the community.",
+  "explorer": "https://bscscan.com/address/0x52ce3314813a6ae526d80474d9cbdbb718bdace3",
+  "type": "BEP20",
+  "symbol": "FDS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x52CE3314813a6AE526d80474D9CbdbB718BdACE3"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "BKcash",
+    "website": "https://www.gstheroes.space",
+    "description": "Galactic Heroes is a highly anticipated BSC chain game produced by American League Games",
+    "explorer": "https://bscscan.com/token/0xc83B202cB69FA2BfC75f46076B74128BeD11E809",
+    "type": "BEP20",
+    "symbol": "BKH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc83B202cB69FA2BfC75f46076B74128BeD11E809"
+}

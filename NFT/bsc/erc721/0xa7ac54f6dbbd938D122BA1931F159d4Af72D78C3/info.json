@@ -1,0 +1,10 @@
+{
+    "name": "ShareNFT",
+    "website": "https://sharenft2008.com",
+    "description": "ShareNFT is the sharenft project's non-fungible token",
+    "explorer": "https://bscscan.com/token/0xa7ac54f6dbbd938D122BA1931F159d4Af72D78C3",
+    "type": "BEP-721",
+    "symbol": "ShareNFT",
+    "status": "active",
+    "id": "0xa7ac54f6dbbd938D122BA1931F159d4Af72D78C3"
+   }

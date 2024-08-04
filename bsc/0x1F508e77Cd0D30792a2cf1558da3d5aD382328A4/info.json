@@ -1,0 +1,11 @@
+{
+    "name": "FOMO",
+    "website": "https://fomo-global.com",
+    "description": "FOMO is a BEP-20 token,with liquidity generation function and deflationary autonomous rate of return.",
+    "explorer": "https://bscscan.com/address/0x1F508e77Cd0D30792a2cf1558da3d5aD382328A4",
+    "type": "BEP20",
+    "symbol": "FOMO",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x1F508e77Cd0D30792a2cf1558da3d5aD382328A4"
+   } 

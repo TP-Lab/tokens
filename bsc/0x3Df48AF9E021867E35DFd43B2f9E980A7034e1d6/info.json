@@ -1,0 +1,11 @@
+{
+"name": "FOOTKING",
+"website": "-",
+"description": "FOTK",
+"explorer": "https://bscscan.com/address/0x3Df48AF9E021867E35DFd43B2f9E980A7034e1d6",
+"type": "BEP20",
+"symbol": "FOTK",
+"decimals": 18,
+"status": "active",
+"id": "0x3Df48AF9E021867E35DFd43B2f9E980A7034e1d6"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "New Wish",
+ "website": "https://fastswap.tools/#/swap",
+ "description": "A standard token on the BSC public chain. Liquidity output through pledge",
+ "explorer": "https://bscscan.com/token/0xA1E637397a733a1EF7220eC4a93C68644aCD23ed",
+ "type": "BEP20",
+ "symbol": "NWISH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA1E637397a733a1EF7220eC4a93C68644aCD23ed"
+}

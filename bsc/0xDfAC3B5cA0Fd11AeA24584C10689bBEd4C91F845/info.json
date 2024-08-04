@@ -1,0 +1,11 @@
+{
+ "name": "Meta-Cosmic Mineral Pool",
+ "website": "https://www.mcmp.pro/",
+ "description": "Meta-Cosmic Mineral Pool (MCMP)是種去中心化與持久化的線上三維虛擬環境统",
+ "explorer": "https://bscscan.com/address/0xDfAC3B5cA0Fd11AeA24584C10689bBEd4C91F845",
+ "type": "BEP20",
+ "symbol": "MCMP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDfAC3B5cA0Fd11AeA24584C10689bBEd4C91F845"
+}

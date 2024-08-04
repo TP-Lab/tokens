@@ -1,0 +1,11 @@
+{
+ "name": "CX100",
+ "website": "-",
+ "description": "CX100 is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xcfBe1C0514cfEE3E3730f6B8AeEC76cf11577777",
+ "type": "BEP20",
+ "symbol": " CX100 ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcfBe1C0514cfEE3E3730f6B8AeEC76cf11577777"
+}

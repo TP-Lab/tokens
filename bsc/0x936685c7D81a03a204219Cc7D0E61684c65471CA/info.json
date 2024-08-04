@@ -1,0 +1,11 @@
+{
+  "name": "UFD",
+  "website": "https://ufd.capital",
+  "description": "UFD——Combining more excellent DAO organization resources in the blockchain world, jointly initiated by a group of UFD alliance mine owners, will use the UFD alliance DAO organization, blockchain protocol contract ecological alliance value application innovation, to change the financial ecology of the blockchain world For the mission, create the infinite value of life together!",
+  "explorer": "https://bscscan.com/token/0x936685c7D81a03a204219Cc7D0E61684c65471CA",
+  "type": "BEP20",
+  "symbol": "UFD",
+  "decimals": 18, 
+  "status": "active",
+  "id": "0x936685c7D81a03a204219Cc7D0E61684c65471CA"
+ }

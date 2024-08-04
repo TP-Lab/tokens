@@ -1,0 +1,11 @@
+{
+ "name": "CrazyKitty",
+ "website": "https://crazykitty.app",
+ "description": "CrazyKitty is a token initiated by the community with full autonomy.Tokens are 100% decentralized through UNCX.",
+ "explorer": "https://bscscan.com/address/0x715f86e4bac227634667e2bcc6cffa09f34a1645",
+ "type": "BEP-20",
+ "symbol": "CrazyKitty",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x715F86e4Bac227634667e2bcC6CFFA09f34A1645"
+}

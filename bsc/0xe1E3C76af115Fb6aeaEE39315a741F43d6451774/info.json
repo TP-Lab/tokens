@@ -1,0 +1,11 @@
+{
+ "name": "Lusail Stadium Coin",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0xe1E3C76af115Fb6aeaEE39315a741F43d6451774",
+ "type": "BEP20",
+ "symbol": "Lusail",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe1E3C76af115Fb6aeaEE39315a741F43d6451774"
+}

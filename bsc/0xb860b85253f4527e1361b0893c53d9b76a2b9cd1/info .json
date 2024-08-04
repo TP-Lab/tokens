@@ -1,0 +1,20 @@
+1 {
+
+2 name": "Star cluster protocol",
+
+3  "website": "http://www.starcluster.top/star/",
+
+4 "description": "STCL has fast block confirmation, multiple cross-link bridges, storage applications, and STCL will be the most successful public chain project in the grafted storage sector.
+
+5 "explorer": "https://bscscan.com/0xb860b85253f4527e1361b0893c53d9b76a2b9cd1",
+
+6  "type": "BEP20",
+
+7 "symbol": "STCL",
+
+8 "decimals": 18,
+
+9 "status": "active",
+
+10 "id": "0xb860b85253f4527e1361b0893c53d9b76a2b9cd1"
+11 }

@@ -1,0 +1,11 @@
+{
+ "name": "Initial Star Coin",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0xA3B697974309b3211E6a3757E7ED74D086789ecA",
+ "type": "BEP20",
+ "symbol": "ISC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA3B697974309b3211E6a3757E7ED74D086789ecA"
+}

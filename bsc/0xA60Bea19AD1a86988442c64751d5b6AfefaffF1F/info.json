@@ -1,0 +1,11 @@
+{ 
+"name": " HFH TOKEN",
+"website": "www.hfhtoken.com",
+"description": "HFH  TOKEN  是由一群区块链爱好者通过DAO的发行方式致力于让每一个普通人都能通过HFH进入DeFi这条超级金融赛道、获取传统金融领域只有垄断阶层、顶部阶层少数人才能得到的利益的革命、让这种机会惠及每一位普通人！",
+"explorer": "https://bscscan.com/token/0xA60Bea19AD1a86988442c64751d5b6AfefaffF1F",
+"type": "BEP20",
+"symbol": "HFH",
+"decimals": 8,
+"status": "active",
+"id": "0xA60Bea19AD1a86988442c64751d5b6AfefaffF1F"
+}

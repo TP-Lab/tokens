@@ -1,0 +1,11 @@
+{
+ "name": "ROBOTS",
+ "website": "https://www.riserobots.xyz/",
+ "description": "Robots are about to set sail! Rise of Robots is a Dao Autonomous Community!",
+ "explorer": "https://bscscan.com/token/0x56946c0f9bf6308119f03b67a1ad0c598bac8d2d",
+ "type": "BEP20",
+ "symbol": "ROBOTS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x56946c0F9BF6308119F03b67A1ad0C598BaC8d2D"
+}

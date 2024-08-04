@@ -1,0 +1,12 @@
+
+{
+ "name": "Birb",
+ "website": "https://birb.com",
+ "description": "Birb is a highly usable token with multiple use cases such as E-Commerce plugins, Birb NFTs, upcoming social $BIRB sending, and more.",
+ "explorer": "https://bscscan.com/token/0x88888888Fc33e4ECba8958c0c2AD361089E19885",
+ "type": "BEP20",
+ "symbol": "BIRB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x88888888Fc33e4ECba8958c0c2AD361089E19885"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Meme Pro",
+    "website": "https://memepro.io",
+    "description": "MMP is a Community-Driven Token.",
+    "explorer": "https://bscscan.com/token/0x8c2d4a28f07de861ae6c7fd7a446ea64fc6cc642",
+    "type": "BEP20",
+    "symbol": "MMP",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x8C2D4A28F07de861aE6C7FD7A446ea64fC6cc642"
+}

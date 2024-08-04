@@ -1,0 +1,11 @@
+{
+ "name": "UniDao Token",
+ "website": "https://unidao.red/",
+ "description": "The pancake LP liquidity pool consists of multiple users, the slip point should be greater than or equal to 5%, and the transaction fee dividends to the LP holding address.",
+ "explorer": "https://bscscan.com/token/0xb58b50d7b2f4adaf17495e8b43a1624aace334de",
+ "type": "BEP20",
+ "symbol": "UniDao",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb58B50d7B2F4ADAf17495E8b43a1624AACe334DE"
+}

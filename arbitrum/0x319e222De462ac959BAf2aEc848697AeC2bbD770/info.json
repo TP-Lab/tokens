@@ -1,0 +1,36 @@
+{
+    "name": "OreoSwap",
+    "website": "https://oreoswap.finance/",
+    "description": "OreoSwap - Your wonderfilled DeFi protocol for trading, automated liquidity, farming and more on Arbitrum",
+    "explorer": "https://arbiscan.io/token/0x319e222de462ac959baf2aec848697aec2bbd770",
+    "type": "Arbitrum",
+    "symbol": "OREO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x319e222De462ac959BAf2aEc848697AeC2bbD770",
+    "tags": [
+        "defi"
+    ],
+	"links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/oreoswap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/OreoSwap"
+        },
+		{
+            "name": "docs",
+            "url": "https://docs.oreoswap.finance"
+        },
+		{
+            "name": "discord",
+            "url": "https://discord.gg/uvann6f4e3"
+        },
+		{
+            "name": "github",
+            "url": "https://github.com/oreoswapfinance/contracts"
+        }
+    ]
+}

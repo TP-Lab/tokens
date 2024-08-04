@@ -1,0 +1,11 @@
+{
+ "name": "FPtoken",
+ "website": "https://www.freeplanet.me",
+ "description": "Free planet is committed to building a DAO autonomous fair, just, open, safe and transparent decentralized game entertainment platform.",
+ "explorer": "https://www.bscscan.com/token/0x2938b1D4fEb1ecfA636ef65bA1c6c7F4244DcB71",
+ "type": "BEP20",
+ "symbol": "FPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2938b1D4fEb1ecfA636ef65bA1c6c7F4244DcB71"
+}

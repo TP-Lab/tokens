@@ -1,0 +1,11 @@
+{
+ "name": "Animal World",
+ "website": "",
+ "description": "Animal World will fly",
+ "explorer": "https://bscscan.com/token/0x8A81B5408AB55E6D006dC155a8B10876b87579c9",
+ "type": "BEP20",
+ "symbol": "AW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8A81B5408AB55E6D006dC155a8B10876b87579c9"
+}

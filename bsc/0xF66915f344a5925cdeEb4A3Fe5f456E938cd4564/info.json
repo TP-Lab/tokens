@@ -1,0 +1,11 @@
+{ 
+"name": "ASS",
+"website": "https://assdao.com",
+"description": "A new NFT ecosystem",
+"explorer": "https://bscscan.com/token/0xF66915f344a5925cdeEb4A3Fe5f456E938cd4564",
+"type": "BEP20",
+"symbol": "ASS",
+"decimals": 18,
+"status": "active",
+"id": "0xF66915f344a5925cdeEb4A3Fe5f456E938cd4564"
+}

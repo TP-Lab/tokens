@@ -1,0 +1,11 @@
+{
+    "name": "BovineVerse",
+    "website": "https://www.bovine-verse.games/",
+    "description": "BovineVerse, a new Fi+ Metaverse Gaming Platform, deeply integrates DeFi, GameFi, and SocialFi. A brand new parallel world is built to realize the tokenization of social influence in the game and allow players to earn while playing.",
+    "explorer": "https://bscscan.com/token/0x1DaCbcD9B3fc2d6A341Dca3634439D12bC71cA4d",
+    "type": "BEP20",
+    "symbol": "BVT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1DaCbcD9B3fc2d6A341Dca3634439D12bC71cA4d"
+}

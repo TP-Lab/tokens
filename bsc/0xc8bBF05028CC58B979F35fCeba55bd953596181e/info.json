@@ -1,0 +1,11 @@
+{ 
+"name": "SLAM DUNK",
+"website": "https://ido.slamdunk.live",
+"description": "SLAM DUNK competitive platform is a decentralized game competitive platform, which integrates NFT cards and competitive games to create a multi language arena. ",
+"explorer": "https://bscscan.com/address/0xc8bBF05028CC58B979F35fCeba55bd953596181e",
+"type": "BEP20",
+"symbol": "SLD",
+"decimals": 18,
+"status": "active",
+"id": "0xc8bBF05028CC58B979F35fCeba55bd953596181e"
+}

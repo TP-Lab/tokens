@@ -1,0 +1,11 @@
+{
+ "name": "XFT",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x991c9a17762c0e55C2b3539fff08354ce72e6B6C",
+ "type": "BSC20",
+ "symbol": "XFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x991c9a17762c0e55C2b3539fff08354ce72e6B6C"
+}

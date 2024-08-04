@@ -1,0 +1,11 @@
+{
+ "name": "SpiderMan",
+ "website": "https://spidermantoken.wixsite.com/home",
+ "description": "A community governance project. It was issued on the basis of Binance Smart Chain (BSC).",
+ "explorer": "https://bscscan.com/token/0xa5A0aaE1c78e8c554BE9963B0F7a4Ea27F4dEfED",
+ "type": "BEP20",
+ "symbol": "SpiderMan",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xa5A0aaE1c78e8c554BE9963B0F7a4Ea27F4dEfED"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "CryptosTribe",
+ "website": "https://cryptostribe.io/",
+ "description": "CryptosTribe is a game for earning cryptocurrency based on the Binance Smart Chain. Players will use Cryptos Tribe ($CSTC) to summon heroes, agriculture, monster battles, and competitive games. They can get rewards by winning battles, completing tasks, and more importantly , having fun!",
+ "explorer": "https://bscscan.com/token/0x78F1a611cceba2fF17EA53570DBee7D43629E8bc",
+ "type": "BEP20",
+ "symbol": "CryptosTribe",
+ "decimals": 18,
+ "status": "not open",
+ "id": "0x78F1a611cceba2fF17EA53570DBee7D43629E8bc"
+}

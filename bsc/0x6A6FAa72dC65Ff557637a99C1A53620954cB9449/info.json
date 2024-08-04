@@ -1,0 +1,11 @@
+{
+	"name": "Roki Metaverse",
+	"website": "https://www.rokiward.org/",
+	"description": "Roki Metaverse is a tactical multiplayer role playing game which combines Free-to-PlayandPlay-to-Earn to provide an open economy for every player. ",
+	"explorer": "https://bscscan.com/token/0x6A6FAa72dC65Ff557637a99C1A53620954cB9449",
+	"type": "BEP20",
+	"symbol": "Roki",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x6A6FAa72dC65Ff557637a99C1A53620954cB9449"
+}

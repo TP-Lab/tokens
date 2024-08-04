@@ -1,0 +1,11 @@
+{
+ "name": "StarlinkDAO",
+ "website": "",
+ "description": "StarlinkDAO is a Dao token issued by StarlinkDAO",
+ "explorer": "https://bscscan.com/token/0x77780B782a51aA48559379225b8Fa9bc04E2D0f5",
+ "type": "BEP20",
+ "symbol": "StarlinkDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x77780B782a51aA48559379225b8Fa9bc04E2D0f5"
+}

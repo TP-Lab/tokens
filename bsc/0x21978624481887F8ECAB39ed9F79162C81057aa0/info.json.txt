@@ -1,0 +1,11 @@
+{
+ "name": "LOD ",
+"website": "https://bscscan.com/token/0x21978624481887F8ECAB39ed9F79162C81057aa0",
+ "description": " BSC, LOD",
+ "explorer": "https://bscscan.com/token/0x21978624481887F8ECAB39ed9F79162C81057aa0",
+ "type": "BEP20",
+ "symbol": "LOD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x21978624481887F8ECAB39ed9F79162C81057aa0"
+}

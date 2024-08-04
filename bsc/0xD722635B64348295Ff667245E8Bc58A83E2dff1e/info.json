@@ -1,0 +1,11 @@
+{
+ "name": "KB",
+ "website": "-",
+ "description": "KB is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xD722635B64348295Ff667245E8Bc58A83E2dff1e",
+ "type": "BEP20",
+ "symbol": " KB ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD722635B64348295Ff667245E8Bc58A83E2dff1e"
+}

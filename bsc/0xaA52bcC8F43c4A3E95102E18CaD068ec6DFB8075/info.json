@@ -1,0 +1,11 @@
+{
+ "name": "GetDAO",
+ "website": "https://www.getdao.global",
+ "description": "GetDAO is a decentralized exchange, providing liquidity and enabling peer-to-peer transactions on the Binance Network.",
+ "explorer": "https://bscscan.com/token/0xaA52bcC8F43c4A3E95102E18CaD068ec6DFB8075",
+ "type": "BEP20",
+ "symbol": "GETDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaA52bcC8F43c4A3E95102E18CaD068ec6DFB8075"
+}

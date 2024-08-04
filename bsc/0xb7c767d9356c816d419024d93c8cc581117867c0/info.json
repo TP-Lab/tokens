@@ -1,0 +1,11 @@
+{
+ "name": "BCK",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xb7c767d9356c816d419024d93c8cc581117867c0",
+ "type": "BEP20",
+ "symbol": "BCK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb7c767d9356c816d419024d93c8cc581117867c0"
+}

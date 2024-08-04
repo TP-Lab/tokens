@@ -1,0 +1,10 @@
+{
+ "name": "Sandbox's ASSETs",
+ "website": "https://www.sandbox.game",
+ "description": "The Sandbox is a virtual gaming world where players can build, own, and monetize their gaming experiences.",
+ "explorer": "https://etherscan.io/token/0xa342f5d851e866e18ff98f351f2c6637f4478db5",
+ "type": "ERC1155",
+ "symbol": "ASSET",
+ "status": "active",
+ "id": "0xa342f5D851E866E18ff98F351f2c6637f4478dB5"
+}

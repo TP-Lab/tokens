@@ -1,0 +1,10 @@
+{
+ "name": "Perfect Planet Token",
+ "website": "https://www.gameperfectplanet.io/",
+ "description": "Perfect Planet Token of PPF",
+ "explorer": "https://bscscan.com/token/0x98640F21E39364f2fbD077B604eaEF1cdaca6D8a",
+ "type": "BEP20",
+ "symbol": "PPF",
+ "status": "active",
+ "id": "0x98640F21E39364f2fbD077B604eaEF1cdaca6D8a"
+}

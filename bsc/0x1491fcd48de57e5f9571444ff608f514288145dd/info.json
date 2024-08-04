@@ -1,0 +1,11 @@
+{
+ "name": "USDollar PAX",
+ "website": "paxDefi.com",
+ "description": "USDollar PAX简称USDP(PAX)是基于虚拟货币技术优势与美元体系等值的稳定数字货币，作为安全稳定的数字货币兑换媒介让法币与数字货币实现自由流通。USDP(PAX)是受纽约州金融服务管理局（The New York State Department of Financial Services）直接监管并在其监管下稳定运营的加密数字货币。",
+ "explorer": "https://bscscan.com/token/0x1491fCd48dE57e5F9571444ff608f514288145dD",
+ "type": "BEP20",
+ "symbol": "USDP(PAX)",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1491fCd48dE57e5F9571444ff608f514288145dD"
+}

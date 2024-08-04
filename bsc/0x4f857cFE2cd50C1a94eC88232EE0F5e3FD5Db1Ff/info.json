@@ -1,0 +1,11 @@
+{
+ "name": "DNDMetaverse",
+ "website": "https://www.dndmetaverse.live/",
+ "description": "There are castle wars in the guild system.NFT with real utility and rarity value",
+ "explorer": "https://bscscan.com/token/0x4f857cFE2cd50C1a94eC88232EE0F5e3FD5Db1Ff",
+ "type": "BEP20",
+ "symbol": "DNDB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4f857cFE2cd50C1a94eC88232EE0F5e3FD5Db1Ff"
+}

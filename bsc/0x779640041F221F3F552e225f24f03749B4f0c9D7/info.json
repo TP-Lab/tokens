@@ -1,0 +1,11 @@
+{
+ "name": "HBTCQ",
+ "website": "www.btcdefi.vip",
+ "description": "Perfect smart contract mechanism: 16% commission, 2% global dividend, 2% deflationary destruction, 5% reflow bottom, 7% promotion dividend!",
+ "explorer": "https://bscscan.com/token/ 0x779640041F221F3F552e225f24f03749B4f0c9D7",
+ "type": "BEP20",
+ "symbol": "HBTCQ",
+ "decimals": 18,
+ "status": "active",
+ "id": " 0x779640041F221F3F552e225f24f03749B4f0c9D7"
+}

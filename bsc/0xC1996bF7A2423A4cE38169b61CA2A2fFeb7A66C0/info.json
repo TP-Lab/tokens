@@ -1,0 +1,11 @@
+{
+ "name": "TS Token",
+ "website": "https://www.ts.com",
+ "description": "TS Token",
+ "explorer": "https://www.bscscan.com/token/0xc1996bf7a2423a4ce38169b61ca2a2ffeb7a66c0",
+ "type": "ERC20",
+ "symbol": "TS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC1996bF7A2423A4cE38169b61CA2A2fFeb7A66C0"
+}

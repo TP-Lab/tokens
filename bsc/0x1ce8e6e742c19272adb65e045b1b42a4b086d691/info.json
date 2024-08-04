@@ -1,0 +1,11 @@
+{
+ "name": "X-DG Token",
+ "website": "https://bscscan.com/token/0x1ce8e6e742c19272adb65e045b1b42a4b086d691",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x1ce8e6e742c19272adb65e045b1b42a4b086d691",
+ "type": "BEP20",
+ "symbol": "X-DG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1Ce8e6e742C19272ADb65e045B1B42a4B086d691"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MetaCredit Token",
+  "website": "https://metacredit.vip",
+  "description": "META CREDIT builds a complete set of application scenarios for NFT",
+  "explorer": "https://polygonscan.com/token/0x7F72b0Ab913C169966F827E31B52C62ecaC32Ef9",
+  "type": "MEP20",
+  "symbol": "MC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7F72b0Ab913C169966F827E31B52C62ecaC32Ef9"
+ }

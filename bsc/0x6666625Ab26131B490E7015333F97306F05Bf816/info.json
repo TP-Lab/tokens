@@ -1,0 +1,11 @@
+{
+    "name": "SDAO",
+    "website": "https://metasdao.net",
+    "description": "SDAO is the governance token of SportsDAO, a community-driven autonomous organization for sports.",
+    "explorer": "https://bscscan.com/token/0x6666625Ab26131B490E7015333F97306F05Bf816",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "SDAO",
+    "status": "active",
+    "id": "0x6666625Ab26131B490E7015333F97306F05Bf816"
+}

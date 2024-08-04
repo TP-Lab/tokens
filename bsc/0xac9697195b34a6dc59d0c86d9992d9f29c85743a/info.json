@@ -1,0 +1,11 @@
+{
+    "name": "Novel Cash Earn",
+    "website": "https://renaisn.com/",
+    "description": "Renaisn is a content sharing platform based on Web3.0. NCE is the governance token of the Renaisn platform.",
+    "explorer": "https://www.bscscan.com/token/0xAc9697195B34A6DC59d0c86D9992d9F29C85743A",
+    "type": "BEP20",
+    "symbol": "NCE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xAc9697195B34A6DC59d0c86D9992d9F29C85743A"
+}

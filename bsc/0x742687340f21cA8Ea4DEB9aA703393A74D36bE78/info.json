@@ -1,0 +1,11 @@
+{
+    "name": "FTU",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0x742687340f21cA8Ea4DEB9aA703393A74D36bE78",
+    "type": "BEP20",
+    "symbol": "FTU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x742687340f21cA8Ea4DEB9aA703393A74D36bE78"
+}

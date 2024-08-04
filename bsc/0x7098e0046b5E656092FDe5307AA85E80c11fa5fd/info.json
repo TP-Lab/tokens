@@ -1,0 +1,11 @@
+{
+ "name": "NLK",
+ "website": "https://www.neuralink.pw",
+ "description": "NEURALINK is a Musk company specializing in brain-computer interface technology, its tokens created on the BSC chain, dedicated to the meta-universe META, NFT, SWAP, multiple cross-chain protocols of the project crypto ecosystem, buying and selling fees 14%",
+ "explorer": "https://bscscan.com/token/0x7098e0046b5E656092FDe5307AA85E80c11fa5fd",
+ "type": "BEP20",
+ "symbol": "NLK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7098e0046b5E656092FDe5307AA85E80c11fa5fd"
+}

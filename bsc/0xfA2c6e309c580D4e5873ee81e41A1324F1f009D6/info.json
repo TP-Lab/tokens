@@ -1,0 +1,11 @@
+{
+    "name": "DRAY",
+    "website": "https://dracarys.network/",
+    "description": "DRACARYS Metaverse Integrated Ecological Token. ",
+    "explorer": "https://bscscan.com/token/0xfA2c6e309c580D4e5873ee81e41A1324F1f009D6",
+    "type": "BEP20",
+    "symbol": "DRAY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xfA2c6e309c580D4e5873ee81e41A1324F1f009D6"
+}

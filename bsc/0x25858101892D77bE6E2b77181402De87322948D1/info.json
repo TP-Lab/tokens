@@ -1,0 +1,11 @@
+{
+ "name": "SquidKing",
+ "website": "https://www.squidktoken.com",
+ "description": "A decentralized Meme token, a vibrant ecosystem of community autonomy. Squid game Rescue Plan.",
+ "explorer": "https://bscscan.com/token/0x25858101892D77bE6E2b77181402De87322948D1",
+ "type": "BEP20",
+ "symbol": "SQUIDK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x25858101892D77bE6E2b77181402De87322948D1"
+}

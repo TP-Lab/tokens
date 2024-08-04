@@ -1,0 +1,11 @@
+{
+	"name": "SNT",
+	"website": "http://sdc-web.com/nftInfoCN.html",
+	"description": " SNT Network enables DID aggregation, verification, and credit calculation/grading. .",
+	"explorer": "https://bscscan.com/token/0x26E8E141144231479D4d7aC01f6E3a6835CbcD94",
+	"type": "BEP20",
+	"symbol": "SNT",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x26E8E141144231479D4d7aC01f6E3a6835CbcD94"
+   }

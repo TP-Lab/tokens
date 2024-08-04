@@ -1,0 +1,12 @@
+{
+ "name": "VPANDA DAO",
+ "website": "https://www.vpanda.co",
+ "description": "The VPANDA DAO was established in May 2021 as a Web3 native, with 70+ communities worldwide, serving 3W+ users, and focusing on ecological empowerment and development in the blockchain field.
+VPANDA DAO always adheres to the concept of "service empowerment", deeply cultivates technological innovation in various Web3 tracks, incubates and aggregates high-quality blockchain projects, and helps traditional Web2 digital transformation link. It has many well-known strategic partners in the industry.",
+ "explorer": "https://bscscan.com/token/0x2a8dba970ba9750fa1c81b1be4c0e19c1aacca9d",
+ "type": "BEP20",
+ "symbol": "VPANDA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2A8DBa970BA9750Fa1c81b1be4C0E19C1AaCca9D"
+}

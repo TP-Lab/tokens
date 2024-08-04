@@ -1,0 +1,11 @@
+{
+ "name": "TBS",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x0a959Ee4f85aAA59d6144f7E4B4aB3CCF01165aE",
+ "type": "BEP20",
+ "symbol": "TBS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0a959Ee4f85aAA59d6144f7E4B4aB3CCF01165aE"
+}

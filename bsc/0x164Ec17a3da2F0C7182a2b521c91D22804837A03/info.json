@@ -1,0 +1,11 @@
+{
+ "name": "leek token",
+ "website": "www.leek.la",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/ 0x164Ec17a3da2F0C7182a2b521c91D22804837A03",
+ "type": "BEP20",
+ "symbol": "leek",
+ "decimals": 18,
+ "status": "active",
+ "id": " 0x164Ec17a3da2F0C7182a2b521c91D22804837A03"
+}

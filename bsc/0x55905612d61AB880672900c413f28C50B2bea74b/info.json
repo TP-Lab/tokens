@@ -1,0 +1,11 @@
+{
+  "name": "MUS Token",
+  "website": "https://musterwallet.net/",
+  "description": "MUSTER WALLET is not just an ordinary token wallet; it represents a project filled with vision and ambition. Our vision is to redefine the digital consumer experience, making every transaction bring greater value and convenience. In modern life, consumption has become an indispensable part, and we are committed to integrating digital finance and blockchain technology into it to provide users with an outstanding consumer experience.",
+  "explorer": "https://bscscan.com/token/0x55905612d61AB880672900c413f28C50B2bea74b",
+  "type": "BEP20",
+  "symbol": "MUS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x55905612d61AB880672900c413f28C50B2bea74b"
+}

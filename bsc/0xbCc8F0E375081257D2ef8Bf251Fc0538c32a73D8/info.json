@@ -1,0 +1,11 @@
+{
+ "name": "Together enjoy rich",
+ "website": "http://www.tertoken.com/",
+ "description": "Together enjoy rich",
+ "explorer": "https://bscscan.com/token/0xbcc8f0e375081257d2ef8bf251fc0538c32a73d8",
+ "type": "BEP20",
+ "symbol": "TER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbCc8F0E375081257D2ef8Bf251Fc0538c32a73D8"
+}

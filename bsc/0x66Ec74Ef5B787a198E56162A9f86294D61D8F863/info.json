@@ -1,0 +1,11 @@
+{
+ "name": "Tornoth of Metal Element",
+ "website": "https://fightfortornoth.com",
+ "description": "A breathtaking land known as Tornoth,a place filled with mystical powers.",
+ "explorer": "https://bscscan.com/token/0x66Ec74Ef5B787a198E56162A9f86294D61D8F863",
+ "type": "BEP20",
+ "symbol": "TME",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x66Ec74Ef5B787a198E56162A9f86294D61D8F863"
+}

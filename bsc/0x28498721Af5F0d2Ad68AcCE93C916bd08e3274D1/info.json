@@ -1,0 +1,11 @@
+{
+ "name": "Guide Dog",
+ "website": "..",
+ "description": "..",
+ "explorer": "https://bscscan.com/token/0x28498721Af5F0d2Ad68AcCE93C916bd08e3274D1",
+ "type": "BEP20",
+ "symbol": "GUDOG ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x28498721Af5F0d2Ad68AcCE93C916bd08e3274D1"
+}

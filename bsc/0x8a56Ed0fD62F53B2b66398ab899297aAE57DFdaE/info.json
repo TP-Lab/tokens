@@ -1,0 +1,11 @@
+{
+ "name": "ZANGold",
+ "website": "https://zan.gold",
+ "description": "ZANGold will provide instant, verifiable guarantees for BNB, USDT, ZAN and other assets, suitable for any real-world application.",
+ "explorer": "https://bscscan.com/token/0x8a56ed0fd62f53b2b66398ab899297aae57dfdae",
+ "type": "BEP20",
+ "symbol": "ZAN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8a56Ed0fD62F53B2b66398ab899297aAE57DFdaE"
+}

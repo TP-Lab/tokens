@@ -1,0 +1,11 @@
+{
+ "name": "BTYC",
+ "website": "",
+ "description": "The BTYC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value",
+ "explorer": "https://bscscan.com/token/0x5391c33Ec425947334324C400a06a6855c8A3900",
+ "type": "BEP20",
+ "symbol": "BTYC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5391c33Ec425947334324C400a06a6855c8A3900"
+}

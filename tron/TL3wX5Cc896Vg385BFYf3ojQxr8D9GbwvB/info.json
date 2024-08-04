@@ -1,0 +1,11 @@
+{
+ "name": "LCC",
+ "website": "..",
+ "description": "",
+ "explorer": "https://tronscan.org/#/token20/TL3wX5Cc896Vg385BFYf3ojQxr8D9GbwvB",
+ "type": "TRC20",
+ "symbol": "LCC",
+ "decimals": 18,
+ "status": "active",
+ "id": "TL3wX5Cc896Vg385BFYf3ojQxr8D9GbwvB"
+}

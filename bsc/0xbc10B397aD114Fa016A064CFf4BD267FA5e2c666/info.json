@@ -1,0 +1,11 @@
+{
+    "name": "spacex",
+    "website": ".",
+    "description": "SpaceX, an American space exploration technology company, which designs, tests and builds components inside rockets, is expected to spend on the starship program.",
+    "explorer": "https://bscscan.com/token/0xbc10B397aD114Fa016A064CFf4BD267FA5e2c666",
+    "type": "BEP20",
+    "symbol": "SX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbc10B397aD114Fa016A064CFf4BD267FA5e2c666"
+}

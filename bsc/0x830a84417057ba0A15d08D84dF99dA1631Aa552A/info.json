@@ -1,0 +1,11 @@
+{
+ "name": "YFSC",
+ "website": "http://xyfcoin.info",
+ "description": "XYF coin developed the first landing online mall application--YFSC coin.",
+ "explorer": "https://bscscan.com/token/0x830a84417057ba0A15d08D84dF99dA1631Aa552A",
+ "type": "BEP20",
+ "symbol": "YFSC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x830a84417057ba0A15d08D84dF99dA1631Aa552A"
+}

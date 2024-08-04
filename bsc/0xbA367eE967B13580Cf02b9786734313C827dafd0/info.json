@@ -1,0 +1,11 @@
+{
+ "name": "SOM",
+ "website": "https://wap-somnus.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xba367ee967b13580cf02b9786734313c827dafd0",
+ "type": "BEP20",
+ "symbol": "SOM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xba367ee967b13580cf02b9786734313c827dafd0"
+}

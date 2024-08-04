@@ -1,0 +1,11 @@
+{
+    "name": "SermonToken",
+    "website": "",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x06bDcB5AFbAEE3Af3c71Ccae942eD152b8397191",
+    "type": "BEP20",
+    "symbol": "SM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x06bDcB5AFbAEE3Af3c71Ccae942eD152b8397191"
+   }

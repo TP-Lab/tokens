@@ -1,0 +1,11 @@
+{
+    "name": "TGR Token",
+    "website": "https://www.wonderfulday.io",
+    "description": "Wonderful Day is a crypto culture-driven collection of 10,000 unique, diverse tigers. Wonderful represents a belief, a culture, and a community. WONers, the tiger holders, are building a metaverse that serves true crypto believers.",
+    "explorer": "https://bscscan.com/token/0x47ba48378e36e3513dbBf58B4506b8BAE313E330",
+    "type": "BEP20",
+    "symbol": "TGR",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x47ba48378e36e3513dbBf58B4506b8BAE313E330"
+}

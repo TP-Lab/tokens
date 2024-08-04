@@ -1,0 +1,11 @@
+{
+ "name": "TeslaToekn",
+ "website": "-",
+ "description": "TeslaToekn is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x6F0BFa4E309a8eF5c5DC1ECFC6505be4C2812F76",
+ "type": "BEP20",
+ "symbol": " Tesla ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6F0BFa4E309a8eF5c5DC1ECFC6505be4C2812F76"
+}

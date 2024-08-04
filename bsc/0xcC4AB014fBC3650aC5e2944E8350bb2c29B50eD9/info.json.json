@@ -1,0 +1,11 @@
+{
+  "name": "Fast Access Blockchain",
+  "website": "http://xfab.info/home",
+  "description": "FAB is a highly liquid equity asset jointly developed by the super consensus team, together with the Canadian technical team and Singapore funds.",
+  "explorer": "https://bscscan.com/token/0xcc4ab014fbc3650ac5e2944e8350bb2c29b50ed9",
+  "type": "BEP20",
+  "symbol": "FAB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcC4AB014fBC3650aC5e2944E8350bb2c29B50eD9"
+}

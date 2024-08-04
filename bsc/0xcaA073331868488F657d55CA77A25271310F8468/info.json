@@ -1,0 +1,11 @@
+{
+ "name": "Astronaut",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xcaA073331868488F657d55CA77A25271310F8468",
+ "type": "BEP20",
+ "symbol": "Astronaut",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcaA073331868488F657d55CA77A25271310F8468"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "DarkHorse DAO",
+ "website": "-",
+ "description": "DarkHorse DAO is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x0a1210AA0F6F915552C6A1a4C8B79B17E3B14FC7",
+ "type": "BEP20",
+ "symbol": "DH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0a1210AA0F6F915552C6A1a4C8B79B17E3B14FC7"
+}

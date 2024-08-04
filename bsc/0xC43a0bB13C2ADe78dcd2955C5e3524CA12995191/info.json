@@ -1,0 +1,11 @@
+{
+    "name": "Mother COINS of WOWswap",
+    "website": "https://wowswap.xyz",
+    "description": "Wowswap is a decentralized exchange that offers automatic market making, limit trading, and DOTC.Chi is its parent currency.",
+    "explorer": "https://bscscan.com/token/0xC43a0bB13C2ADe78dcd2955C5e3524CA12995191",
+    "type": "BEP20",
+    "symbol": "chi",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC43a0bB13C2ADe78dcd2955C5e3524CA12995191"
+   }

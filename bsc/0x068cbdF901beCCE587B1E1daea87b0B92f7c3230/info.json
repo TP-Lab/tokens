@@ -1,0 +1,11 @@
+{ 
+"name": "KING Token",
+"website": "https://supeinfinity.com",
+"description": "KING为Supe Infinity链游平台内的底层链游的游戏代币。",
+"explorer": "https://bscscan.com/address/0x068cbdF901beCCE587B1E1daea87b0B92f7c3230",
+"type": "BEP20",
+"symbol": "KING",
+"decimals": 18,
+"status": "active",
+"id": "0x068cbdF901beCCE587B1E1daea87b0B92f7c3230"
+}

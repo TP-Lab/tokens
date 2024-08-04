@@ -1,0 +1,11 @@
+{
+  "name": "Fuding Token ",
+  "website": "http://www.fidedigital.net",
+  "description": "Fuding token is the ecological currency of Fuding platform, which is used for community incentives, ecological construction and circulation.",
+  "explorer": "https://bscscan.com/token/0x43e9a9E4C5793cbF6b754e11171dbF43dc70095b",
+  "type": "BEP20",
+  "symbol": "FD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x43e9a9E4C5793cbF6b754e11171dbF43dc70095b"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Lymex",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/00x8657132C72260851D74dE180c35bE37e9af223D2",
+ "type": "BEP20",
+ "symbol": "LYMX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8657132C72260851D74dE180c35bE37e9af223D2"
+}

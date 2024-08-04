@@ -1,0 +1,11 @@
+{
+ "name": "TAP",
+ "website": "-",
+ "description": "TAP is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xC5268009F5146BBA33521c9355E1eD0a1B060550",
+ "type": "BEP20",
+ "symbol": "TAP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC5268009F5146BBA33521c9355E1eD0a1B060550"
+}

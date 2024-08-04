@@ -1,0 +1,11 @@
+{
+ "name": "FILEDOGE",
+ "website": "https://www.filedoge.io/",
+ "description": "Filedoge-The First 100% Decentralized MEME Token And Dex On Filecoin!It is a 100% community-based project dedicated to bringing the spirit of DOGE's MEME culture to the FIL ecology and beyond.",
+ "explorer": "https://filscan.io/address/general?address=0x2646bb363851d31dca3de045e0eb63d0afeb427d",
+ "type": "ERC20",
+ "symbol": "FILEDOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2646bb363851d31dca3de045e0eb63d0afeb427d"
+}

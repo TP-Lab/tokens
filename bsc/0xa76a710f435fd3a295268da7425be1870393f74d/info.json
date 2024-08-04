@@ -1,0 +1,11 @@
+{
+ "name": "DOGEFOOD",
+ "website": "https://www.dogefoodbsc.com/",
+ "description": "DOGEFOOD ($DOGEFOOD) Is A Community-Focused,Decentralized Cryptocurrency.We create NFTs,swap,wallet and gamefi.",
+ "explorer": "https://bscscan.com/address/0xa76a710f435fd3a295268da7425be1870393f74d",
+ "type": "BEP20",
+ "symbol": "DOGEFOOD",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xa76A710f435FD3a295268DA7425BE1870393F74d"
+}

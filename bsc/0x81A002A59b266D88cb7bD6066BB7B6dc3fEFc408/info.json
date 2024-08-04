@@ -1,0 +1,11 @@
+{
+    "name": "Super Pig Token",
+    "website": "http://superpig.finance/",
+    "description": "SuperPig is a token on the Binance Smart Chain that boasts many impressive features. It is a token with a dividend design, and it can continue to receive trading dividends when held. PIG quickly combines it with the innovative automatic liquidity of tokens.",
+    "explorer": "https://bscscan.com/token/0x81A002A59b266D88cb7bD6066BB7B6dc3fEFc408",
+    "type": "BEP20",
+    "symbol": "SuperPig",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x81A002A59b266D88cb7bD6066BB7B6dc3fEFc408"
+   }

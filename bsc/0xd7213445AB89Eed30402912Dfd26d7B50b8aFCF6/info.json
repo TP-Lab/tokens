@@ -1,0 +1,11 @@
+{
+ "name": "Future Star",
+ "website": "..",
+ "description": "It is a new type of cryptocurrency and a digital asset currency that can be mined on mobile phones.",
+ "explorer": "https://bscscan.com/token/0xd7213445AB89Eed30402912Dfd26d7B50b8aFCF6",
+ "type": "BEP20",
+ "symbol": "FST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd7213445AB89Eed30402912Dfd26d7B50b8aFCF6"
+}

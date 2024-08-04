@@ -1,0 +1,11 @@
+{
+ "name": "GAYA Coin",
+ "website": "https://gaya.bet/",
+ "description": "Gaya (GAYA) was initiated by the GAYA Foundation in Los Angeles and 50 blockchain communities around the world. It has distributed community autonomy and a minting mechanism that only rises but never falls. It achieves triple-core drive, sustainable operation, and decentralized distributed pool. Top security. Industry ceiling, DeFi weather vane",
+ "explorer": "https://bscscan.com/address/0x55C3aA8188F089d0bfad471B017367261C666666",
+ "type": "BEP20",
+ "symbol": "GAYA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x55C3aA8188F089d0bfad471B017367261C666666"
+}

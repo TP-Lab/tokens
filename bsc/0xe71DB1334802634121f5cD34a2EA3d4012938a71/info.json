@@ -1,0 +1,11 @@
+{
+    "name": "Mars",
+    "website": "https://game.mars.cm",
+    "description": "MARS是新一代去中心化资产聚合器的代表，由MARS FOUNDATION推动开发并部署。MARS完全依靠开源的智能合约即可完成业务执行，具有图灵完备、模块化组建、协议自动化、身份匿名等特点，因其极大丰富了去中心化金融的边界而被用户广泛接受。",
+    "explorer": "https://bscscan.com/token/0xe71DB1334802634121f5cD34a2EA3d4012938a71",
+    "type": "BEP20",
+    "symbol": "MARS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe71DB1334802634121f5cD34a2EA3d4012938a71"
+}

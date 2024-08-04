@@ -1,0 +1,11 @@
+{
+ "name": "VoteP2E",
+ "website": "https://www.pls2e.io",
+ "description": "PLS2E. IO, referred to as p2e for short, is a blockchain game infrastructure platform. It has passed the code audit review of the well-known American certik company, bringing a safe and secure decentralized trading platform environment for all blockchain players. It aims to provide developers and players in the field of play 2 earn with a set of standard smart contracts including game playing methods, marketing strategies, liquidity provision and technical specifications, Help gamefi lovers build product rules and application value in the form of Lego, and promote the ecological development of p2e through a recyclable incentive mechanism.",
+ "explorer": "https://bscscan.com/token/0xA8D4399d591f035ABD3C58Aa0c4Df47938bb774E",
+ "type": "BEP20",
+ "symbol": "V2E",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA8D4399d591f035ABD3C58Aa0c4Df47938bb774E"
+}

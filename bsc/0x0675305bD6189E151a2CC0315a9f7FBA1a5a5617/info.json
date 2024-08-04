@@ -1,0 +1,11 @@
+{
+ "name": "Acara",
+ "website": "https://acara.im/",
+ "description": "Acara is an ever-expanding ecosystem of decentralized information social applications and services, built for the future of decentralized information social network",
+ "explorer": "https://bscscan.com/token/0x0675305bD6189E151a2CC0315a9f7FBA1a5a5617",
+ "type": "BEP20",
+ "symbol": "ACR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0675305bD6189E151a2CC0315a9f7FBA1a5a5617"
+}

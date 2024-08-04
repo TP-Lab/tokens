@@ -1,0 +1,11 @@
+{
+ "name": "Distributed Alliance",
+ "website": "http://fbslmst.com",
+ "description": "Alliance enterprises can realize network collaboration and resource sharing among distributed enterprises.",
+ "explorer": "https://bscscan.com/address/0x8340700A33a1c76ecCfE03e180e1243f23C54328",
+ "type": "BEP20",
+ "symbol": "LMST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8340700A33a1c76ecCfE03e180e1243f23C54328"
+}

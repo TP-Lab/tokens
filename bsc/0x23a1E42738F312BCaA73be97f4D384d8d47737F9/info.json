@@ -1,0 +1,11 @@
+{
+ "name": "Sparta Coin",
+ "website": "..",
+ "description": "..",
+ "explorer": "https://bscscan.com/token/0x23a1E42738F312BCaA73be97f4D384d8d47737F9",
+ "type": "BEP20",
+ "symbol": "Sparta ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x23a1E42738F312BCaA73be97f4D384d8d47737F9"
+}

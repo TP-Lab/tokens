@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Token",
+  "website": "https://dracarys.network",
+  "description": "DRAC is the in-game currency in DRACARYS and the application built on the DRACARYS DEFI3.0, GAMEFI2.0,WEB3 system.",
+  "explorer": "https://bscscan.com/token/0xa29f2F0B3DF01794bB475B32169203eddFabd46A",
+  "type": "BEP20",
+  "symbol": "DRAC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa29f2F0B3DF01794bB475B32169203eddFabd46A"
+}

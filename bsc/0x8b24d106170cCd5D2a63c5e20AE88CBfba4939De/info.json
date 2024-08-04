@@ -1,0 +1,11 @@
+{
+ "name": "AIDFS Token",
+ "website": "diffusiondao.org",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x8b24d106170ccd5d2a63c5e20ae88cbfba4939de",
+ "type": "BEP20",
+ "symbol": "AIDFS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8b24d106170cCd5D2a63c5e20AE88CBfba4939De"
+}

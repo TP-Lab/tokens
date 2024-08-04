@@ -1,0 +1,11 @@
+{
+	"name": "SPORT NFT",
+	"website": "http://sportuniverse.co/",
+	"description": "SPORT UNIVERSE Club is the NFT (PFP) Project which is the attempt with a sport artist in crypto market.",
+	"explorer": "https://bscscan.com/token/0xa3D9A53dDb66c1D2Eb94a2c93F8A19e28123CEbD",
+	"type": "BEP721",
+	"symbol": "SPORT NFT",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xa3D9A53dDb66c1D2Eb94a2c93F8A19e28123CEbD"
+   }

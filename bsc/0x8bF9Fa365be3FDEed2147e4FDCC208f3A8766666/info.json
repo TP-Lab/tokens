@@ -1,0 +1,11 @@
+{
+  "name": "DaoBank Coin",
+  "website": "https://home.daobankcoin.com",
+  "description": "is a Web3.0 meta-universe ecological project invested by Singapore's Du Capital Founder",
+  "explorer": "https://bscscan.com/token/0x8bf9fa365be3fdeed2147e4fdcc208f3a8766666",
+  "type": "BEP20",
+  "symbol": "DBC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8bF9Fa365be3FDEed2147e4FDCC208f3A8766666"
+}

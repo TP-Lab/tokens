@@ -1,0 +1,11 @@
+{ 
+"name": "SpaceDoge",
+"website": "http://spacedoge.online",
+"description": "Spacedoge will create a new world. On this fantastic planet, we can do everything we want. Let's create our own world in this universe! The future belongs to all blockchain digital asset players. Let's participate and witness together!",
+"explorer": "https://bscscan.com/token/0x5AD36E9a675d37eA998fDCF17aCD078d6E1b9DD4",
+"type": "BEP20",
+"symbol": "SpaceDoge",
+"decimals": 18,
+"status": "active",
+"id": "0x5AD36E9a675d37eA998fDCF17aCD078d6E1b9DD4"
+}

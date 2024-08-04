@@ -1,0 +1,11 @@
+{ 
+"name": "StepG Token",
+"website": "https://supeinfinity.com",
+"description": "StepG为Supe Infinity链游平台上首款运动赚链游StepG的游戏代币。",
+"explorer": "https://bscscan.com/token/0x5e6D3BB496301ECdfa34FA1Ed2d3BaDa250f0409",
+"type": "BEP20",
+"symbol": "STEPG",
+"decimals": 18,
+"status": "active",
+"id": "0x5e6D3BB496301ECdfa34FA1Ed2d3BaDa250f0409"
+}

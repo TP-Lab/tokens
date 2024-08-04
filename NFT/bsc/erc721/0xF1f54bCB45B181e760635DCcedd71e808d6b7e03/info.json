@@ -1,0 +1,11 @@
+{
+    "name": "Sultan",
+    "website": "https://www.richmonkey.vip/",
+    "description": "Sultan",
+    "explorer": "https://bscscan.com/address/0xF1f54bCB45B181e760635DCcedd71e808d6b7e03",
+    "type": "ERC721",
+    "symbol": "SLT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xF1f54bCB45B181e760635DCcedd71e808d6b7e03"
+}

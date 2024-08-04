@@ -1,0 +1,11 @@
+{
+"name": "YYDS",
+"website": "https://yydsd.io/",
+"description": "YYDS",
+"explorer": "https://bscscan.com/address/0x2faae89c5ff2a62e40ed8f3d0750829692399c3f",
+"type": "BEP20",
+"symbol": "YYDS",
+"decimals": 18,
+"status": "active",
+"id": "0x2FaAe89C5fF2A62e40eD8f3D0750829692399c3F"
+}

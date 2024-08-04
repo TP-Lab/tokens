@@ -1,0 +1,11 @@
+{
+    "name": "FreeUbi",
+    "website": "https://www.freeubi.org",
+    "description": "FreeUbi DAO is a community project for Socialfi + Defi + Gamefi that aims to increase awareness and community autonomy.",
+    "explorer": "https://bscscan.com/token/0x20dd7f9faf67d1991911c50be8cc547184097518",
+    "type": "BEP20",
+    "symbol": "FUBI",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x20dd7F9FaF67D1991911c50BE8cC547184097518"
+   }

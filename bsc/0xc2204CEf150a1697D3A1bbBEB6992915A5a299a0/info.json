@@ -1,0 +1,11 @@
+﻿{
+ "name": "WBBC Token",
+ "website": "http://www.wbbctoken.pro/",
+ "description": "WBBC BEP20 Token.",
+ "explorer": "https://bscscan.com/token/0xc2204CEf150a1697D3A1bbBEB6992915A5a299a0",
+ "type": "BEP20",
+ "symbol": "WBBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc2204CEf150a1697D3A1bbBEB6992915A5a299a0"
+}

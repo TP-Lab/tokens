@@ -1,0 +1,11 @@
+{
+ "name": "3M Company",
+ "website": "https://3mswap.bond/",
+ "description": "Bep20 token issued on BSC chain..",
+ "explorer": "https://bscscan.com/token/0xbb8874987da697798322869a1568CFE0E1271FB0",
+ "type": "BEP20",
+ "symbol": "3M",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbb8874987da697798322869a1568CFE0E1271FB0"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Time Of Victory",
+ "website": "https://www.tov.systems/",
+ "description": "Time Of Victory(TOV) initially issued 100000000, deflated to 10000! Community autonomy decentralized defi project.",
+ "explorer": "https://bscscan.com/token/0x8c20dc91724b176273506536cfbe7a35f8416560",
+ "type": "BEP20",
+ "symbol": "TOV",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8c20DC91724B176273506536Cfbe7A35f8416560"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "GST",
+ "website": "-",
+ "description": "GST is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xDC7264E71362f674A2240cce5a944B946BD299a4",
+ "type": "BEP20",
+ "symbol": "GST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDC7264E71362f674A2240cce5a944B946BD299a4"
+}

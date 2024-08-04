@@ -1,0 +1,11 @@
+{
+ "name": "Seawater",
+ "website": ".",
+ "description": "Blockchain combined with artificial intelligence multi-model public chain.",
+ "explorer": "https://bscscan.com/token/0xf1965B35050834F231E05498765FaE62BC362fb0",
+ "type": "BEP20",
+ "symbol": "Seawater",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf1965B35050834F231E05498765FaE62BC362fb0"
+}

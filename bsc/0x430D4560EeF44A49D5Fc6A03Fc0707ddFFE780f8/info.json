@@ -1,0 +1,11 @@
+{
+  "name": "lalaDeFi",
+  "website": "la2.finance",
+  "description": "lalaDeFi is a decentralized finance protocol that creates an easy gateway for financing and investment in the crypto market for everyone.",
+  "explorer": "https://bscscan.com/token/0x430D4560EeF44A49D5Fc6A03Fc0707ddFFE780f8",
+  "type": "BEP20",
+  "symbol": "LALA",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x430D4560EeF44A49D5Fc6A03Fc0707ddFFE780f8"
+}

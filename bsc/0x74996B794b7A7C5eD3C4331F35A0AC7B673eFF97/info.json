@@ -1,0 +1,11 @@
+{
+ "name": "Meta Cloth",
+ "website": "https://www.metaclothus.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/address/0x74996B794b7A7C5eD3C4331F35A0AC7B673eFF97",
+ "type": "BEP20",
+ "symbol": "Meta Cloth",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x74996B794b7A7C5eD3C4331F35A0AC7B673eFF97"
+}

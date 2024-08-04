@@ -1,0 +1,11 @@
+{ 
+"name": "ZEED",
+"website": "https://zeed.life",
+"description": "ZEED is a decentralized blockchain infrastructure built on the blockchain 3.0 architecture. It's a integrated decentralized financial ecosystem that's been co-created by users of the global community. ",
+"explorer": "https://bscscan.com/token/0xb2f53069e1555793481aafe639f8e274f4ec8435",
+"type": "BEP20",
+"symbol": "ZEED",
+"decimals": 18,
+"status": "active",
+"id": "0xB2F53069E1555793481aAfe639F8E274f4Ec8435"
+}

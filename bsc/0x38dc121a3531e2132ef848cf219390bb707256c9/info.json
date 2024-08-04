@@ -1,0 +1,11 @@
+{
+ "name": "SU",
+ "website": "",
+ "description": "su e token is a new token on Binance Smart Chain network. We want to help animals, forests and humans that be hurt by sw.",
+ "explorer": "https://bscscan.com/token/0x38dc121a3531e2132ef848cf219390bb707256c9",
+ "type": "BEP20",
+ "symbol": "SU ",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x38dc121a3531e2132ef848cf219390bb707256c9"
+}

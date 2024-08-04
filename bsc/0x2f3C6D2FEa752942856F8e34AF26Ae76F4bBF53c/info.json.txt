@@ -1,0 +1,11 @@
+{
+ "name": "LY ",
+"website": "https://bscscan.com/token/0x2f3C6D2FEa752942856F8e34AF26Ae76F4bBF53c",
+ "description": " BSC, LY",
+ "explorer": "https://bscscan.com/token/0x2f3C6D2FEa752942856F8e34AF26Ae76F4bBF53c",
+ "type": "BEP20",
+ "symbol": "LY",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x2f3C6D2FEa752942856F8e34AF26Ae76F4bBF53c"
+}

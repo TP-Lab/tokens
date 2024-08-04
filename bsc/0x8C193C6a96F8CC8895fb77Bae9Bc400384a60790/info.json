@@ -1,0 +1,11 @@
+{
+  "name": "BtaiToken",
+  "website": "",
+  "description": "BTAI",
+  "explorer": "https://bscscan.com/address/0x8C193C6a96F8CC8895fb77Bae9Bc400384a60790",
+  "type": "BEP20",
+  "symbol": "BTAI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8C193C6a96F8CC8895fb77Bae9Bc400384a60790"
+}

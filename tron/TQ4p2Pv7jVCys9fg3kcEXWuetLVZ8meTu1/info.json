@@ -1,0 +1,11 @@
+{
+ "name": "MTNB Coin",
+ "website": "http://www.metafishgame.com/",
+ "description": "MTNB是TNB元宇宙生态代币，总量60亿枚，永不增发。他包含了gamefi2.0游戏，DEX交易所，NFT等应用，在所有的生态应用中MTNB作为最基础的应用手续费支持应用运行，同时各生态应用的盈利将定期回收销毁MTNB保持通缩.MTNB持有者将定期得到元宇宙生态应用分红。",
+ "explorer": "https://tronscan.org/#/token1155/TQ4p2Pv7jVCys9fg3kcEXWuetLVZ8meTu1",
+ "type": "TRC20",
+ "symbol": "MTNB",
+ "decimals": 8,
+ "status": "active",
+ "id": "TQ4p2Pv7jVCys9fg3kcEXWuetLVZ8meTu1"
+}

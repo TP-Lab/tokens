@@ -1,0 +1,12 @@
+{
+ "name": "Helium-3(ESG)",
+ "website": "game.helium-3.io",
+ "description": "ESG is its native utility token, which allows users to purchase NFT blind boxes from the game and participate in staking.",
+ "explorer": "https://bscscan.com/address/0xc40b6e88fd7b09eb8f768f402bf5dad6bf2bc622",
+ "type": "BEP20",
+ "symbol": "ESG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc40B6e88FD7b09Eb8F768f402bF5dad6bF2bC622"
+}
+

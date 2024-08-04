@@ -1,0 +1,11 @@
+{
+ "name": "BNBFootball token",
+ "website": "http://www.bnb-football.com/",
+ "description": "Football is the world's largest sport. Binance recently sponsored Porto Football Club and the African Cup of Nations. CZ,The boss of Binance， like Football verymuch. BNBFootball project is committed to creating a collection of P2E football game,Star's NFT,PVP and Skill challenge game, and is committed to creating the first football brand in the blockchain field. The project is in preparation, please look forward to it！",
+ "explorer": "https://bscscan.com/token/0x521bAcc9b1d18bE4732a9bB5239835a8d1A7e1B3",
+ "type": "BEP20",
+ "symbol": "BNBFootball",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x521bAcc9b1d18bE4732a9bB5239835a8d1A7e1B3"
+} 

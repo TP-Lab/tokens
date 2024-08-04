@@ -1,0 +1,11 @@
+{
+ "name": "Spark Token",
+ "website": "https://skt.finance",
+ "description": "A metaverse community governance token.",
+ "explorer": "https://bscscan.com/token/0x638828295b676d15e760EfAb9DC7920557656eFa",
+ "type": "BEP20",
+ "symbol": "SKT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x638828295b676d15e760EfAb9DC7920557656eFa"
+}

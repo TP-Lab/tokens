@@ -1,0 +1,11 @@
+{
+    "name": "CatBoy",
+    "website": "https://catboytoken.com/",
+    "description": "BSCs first CatBoy token 100% community driven ready to melt faces",
+    "explorer": "https://bscscan.com/token/0x39C3F75B837EAE0d6d0eA87425Ac99bD646a7B1E",
+    "type": "BEP20",
+    "symbol": "CATBOY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x39C3F75B837EAE0d6d0eA87425Ac99bD646a7B1E"
+}

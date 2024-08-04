@@ -1,0 +1,11 @@
+{
+  "name": "Football coin",
+  "website": "www.ftccoin.cn",
+  "description": "First Tech Challenge is the world's first large-scale FTC public chain to incorporate probability elements such as Web3.0, sports games, DeFi, NFT, and Metaverse into popular ecological applications",
+  "explorer": "https://bscscan.com/token/0x3a91ae428251cd0ffad64d591b6b7c421b7c11f4",
+  "type": "BEP20",
+  "symbol": "FTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0X3A91AE428251CD0FFAD64D591B6B7C421B7C11F4"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MMM314",
+  "website": "",
+  "description": "1. Contract: MMM314 token contract is ERC314 contract\n2. Buy: Transfer the wallet address to the MMM314 contract and buy BNB.\n3. Sell: Transfer the wallet address to the MMM314 contract and sell the MMM314 token.\n4. Pledge: Transfer the wallet address to the pledge contract and transfer MMM314 tokens to the pledge.\n5. Deflation: deflation the tokens in the trading pool by 0.3% every hour, increasing the value of tokens\n6. Address: 0xE08A7da5A14f5Bbf814a897EfB0dC6aF7aeB0cAa\n7. Code: Open source address: https://bscscan.com/address/0xE08A7da5A14f5Bbf814a897EfB0dC6aF7aeB0cAa#code\n8. Total amount: 2100w\n9. Issuance chain: BSC",
+  "explorer": "https://bscscan.com/token/0xE08A7da5A14f5Bbf814a897EfB0dC6aF7aeB0cAa",
+  "type": "BEP20",
+  "symbol": "MMM314",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xE08A7da5A14f5Bbf814a897EfB0dC6aF7aeB0cAa"
+}

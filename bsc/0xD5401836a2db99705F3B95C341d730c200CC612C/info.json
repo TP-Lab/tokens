@@ -1,0 +1,11 @@
+{
+ "name": "BAK Token",
+ "website": "https://bak-finance.net/",
+ "description": "BAK is a decentralized, cross-chain predictor network that defines and implements a new solution for generating on-chain value on the blockchain.",
+ "explorer": "https://www.bscscan.com/token/0xD5401836a2db99705F3B95C341d730c200CC612C",
+ "type": "BEP20",
+ "symbol": "BAK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD5401836a2db99705F3B95C341d730c200CC612C"
+}

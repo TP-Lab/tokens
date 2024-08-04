@@ -1,0 +1,11 @@
+{
+ "name": "Magic",
+ "website": ".",
+ "description": "The Magic Blockchain Magic World is an innovative blockchain industry project aimed at combining blockchain technology with entertainment, virtual reality, and digital assets to create a digital world filled with magic, fantasy, and creativity. The project is dedicated to providing users with a unique, interactive virtual experience by utilizing blockchain technology for the creation, trading, and sharing of digital magic and digital assets.",
+ "explorer": "https://bscscan.com/token/0x7e13Ec7601f5CffEC5175Ad28667507A1fCA89b0",
+ "type": "BEP20",
+ "symbol": "Magic",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7e13Ec7601f5CffEC5175Ad28667507A1fCA89b0"
+}

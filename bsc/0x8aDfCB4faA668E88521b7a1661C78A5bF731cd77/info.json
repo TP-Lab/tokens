@@ -1,0 +1,11 @@
+{
+    "name": "SCT",
+    "website": "",
+    "description": "A leading community autonomy model, equity incentive token.",
+    "explorer": "https://bscscan.com/token/0x8aDfCB4faA668E88521b7a1661C78A5bF731cd77",
+    "type": "BEP20",
+    "symbol": "SCT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8aDfCB4faA668E88521b7a1661C78A5bF731cd77"
+}

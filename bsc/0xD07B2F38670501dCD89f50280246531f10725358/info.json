@@ -1,0 +1,11 @@
+{
+ "name": "ME",
+ "website": "-",
+ "description": "ME is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xD07B2F38670501dCD89f50280246531f10725358",
+ "type": "BEP20",
+ "symbol": "ME",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD07B2F38670501dCD89f50280246531f10725358"
+}

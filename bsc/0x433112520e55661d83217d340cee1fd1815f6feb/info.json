@@ -1,0 +1,11 @@
+{
+ "name": "Coalash Token",
+ "website": "-",
+ "description": "CLS is a game for earning cryptocurrency based on the Binance Smart Chain. Players will use CLS to summon heroes, agriculture, monster battles, and competitive games. They can get rewards by winning battles, completing tasks, and more importantly , having fun!",
+ "explorer": "https://bscscan.com/token/0x433112520e55661d83217d340cee1fd1815f6feb",
+ "type": "BEP20",
+ "symbol": "CLS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x433112520e55661d83217d340cee1fd1815f6feb"
+}

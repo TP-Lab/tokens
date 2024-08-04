@@ -1,0 +1,11 @@
+{
+ "name": "OKGO Token",
+ "website": "",
+ "description": "Okgo issued 1330000 pieces worldwide and eventually destroyed 10000 pieces",
+ "explorer": "https://bscscan.com/token/0x2Ae2643146F3e14066ca06276A726c034A33d141",
+ "type": "BEP20",
+ "symbol": "OKGO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2Ae2643146F3e14066ca06276A726c034A33d141"
+}

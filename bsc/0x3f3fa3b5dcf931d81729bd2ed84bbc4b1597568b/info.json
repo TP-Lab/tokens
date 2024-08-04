@@ -1,0 +1,11 @@
+{
+ "name": "NSK",
+ "website": "No",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x3f3fa3b5dcf931d81729bd2ed84bbc4b1597568b",
+ "type": "BEP20",
+ "symbol": "NSK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3f3fa3b5dcf931d81729bd2ed84bbc4b1597568b"
+}

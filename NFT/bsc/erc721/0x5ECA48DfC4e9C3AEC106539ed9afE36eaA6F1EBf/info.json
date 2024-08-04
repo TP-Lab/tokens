@@ -1,0 +1,11 @@
+{
+ "name": "LYDigitMall",
+ "website": "https://lycc.superbitmall.io",
+ "description": "LYDigitMall（爱你商贸数字商城），打造web3.0商城生态。生态发展目标：NFT权益孵化web3.0商城生态香港上市，打造币股同权。NFT卡牌名称LYCC，共发行70000张，一期30000张（50u），二期30000张（100u），三期10000张（200u）。",
+ "explorer": "https://bscscan.com/token/0x5ECA48DfC4e9C3AEC106539ed9afE36eaA6F1EBf",
+ "type": "ERC721",
+ "symbol": "LYCC",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x5ECA48DfC4e9C3AEC106539ed9afE36eaA6F1EBf"
+}

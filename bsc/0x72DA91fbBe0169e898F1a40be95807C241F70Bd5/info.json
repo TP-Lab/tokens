@@ -1,0 +1,11 @@
+{
+ "name": "SMU",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x72DA91fbBe0169e898F1a40be95807C241F70Bd5",
+ "type": "BEP20",
+ "symbol": "SMU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x72DA91fbBe0169e898F1a40be95807C241F70Bd5"
+}

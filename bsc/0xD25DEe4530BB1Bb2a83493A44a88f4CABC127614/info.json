@@ -1,0 +1,11 @@
+{undefined
+ "name": "BSCDAO Token",
+ "website": "http://www.bscbtcb-dao.com",
+ "description": "Subcoin of BTCB-BSC.",
+ "explorer": "https://bscscan.com/token/0xD25DEe4530BB1Bb2a83493A44a88f4CABC127614",
+ "type": "BEP20",
+ "symbol": "BSCDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD25DEe4530BB1Bb2a83493A44a88f4CABC127614"
+}

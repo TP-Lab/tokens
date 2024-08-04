@@ -1,0 +1,11 @@
+﻿{
+ "name": "DogPi",
+ "website": "https://DogPi.cc/",
+ "description": "A brand new Pidog can bring wealth and happiness to people.",
+ "explorer": "https://bscscan.com/token/0x73b8c6c06aaf7b629e704efeb2c9d5eb16616631",
+ "type": "BEP20",
+ "symbol": "DogPi",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x73b8c6c06aaf7b629e704efeb2c9d5eb16616631"
+}

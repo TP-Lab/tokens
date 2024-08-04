@@ -1,0 +1,11 @@
+{
+ "name": "GIN",
+ "website": "http://smncoin.net/zh/",
+ "description": "Founded in 2021, GIN is the world's first blockchain encrypted digital asset that uses blockchain technology to mathematically divide physical gold and complete asset anchoring and value benchmarking. GIN POT mechanism makes ordinary transaction and consumption data become chain assets, which generates compound income, value empowerment and value feedback for user transaction and consumption data. In the end, GIN will make money by buying, selling, rising, falling, LP and consumer shopping.",
+ "explorer": "https://bscscan.com/token/0xECC1BB82EF8EfE55F5cfa6356ECba9a1ef96Af31",
+ "type": "BEP20",
+ "symbol": "GIN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xECC1BB82EF8EfE55F5cfa6356ECba9a1ef96Af31"
+}

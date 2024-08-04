@@ -1,0 +1,11 @@
+{
+  "name": "Footballworld",
+  "website": "https://footballworld.finance",
+  "description": "Football world is a Web3 jointly launched by senior big V from Telegraph group and Hupu community 0's football community!",
+  "explorer": "https://bscscan.com/token/0x7a97761a6dbb5109ec3a1a67e4e2bdc3a9ea58f0",
+  "type": "BEP20",
+  "symbol": "FTB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7a97761a6dbb5109ec3a1a67e4e2bdc3a9ea58f0"
+}

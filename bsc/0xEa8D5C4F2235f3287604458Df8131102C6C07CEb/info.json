@@ -1,0 +1,11 @@
+{
+ "name": "LYC",
+ "website": "",
+ "description": "The LYC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value",
+ "explorer": "https://bscscan.com/token/0xEa8D5C4F2235f3287604458Df8131102C6C07CEb",
+ "type": "BEP20",
+ "symbol": "LYC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEa8D5C4F2235f3287604458Df8131102C6C07CEb"
+}

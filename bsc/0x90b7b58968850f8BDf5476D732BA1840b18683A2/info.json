@@ -1,0 +1,11 @@
+{
+  "name": "BK Token ",
+  "website": "https://bscscan.com/address/0x90b7b58968850f8bdf5476d732ba1840b18683a2",
+  "description": "A Web3.0 platform based on NFT aggregation will endow NFT with more application ecological value and integrate fragmented market liquidity.",
+  "explorer": "https://bscscan.com/address/0x90b7b58968850f8bdf5476d732ba1840b18683a2",
+  "type": "BEP20",
+  "symbol": "BK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x90b7b58968850f8BDf5476D732BA1840b18683A2"
+}

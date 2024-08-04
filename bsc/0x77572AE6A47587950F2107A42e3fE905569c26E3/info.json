@@ -1,0 +1,11 @@
+{
+  "name": "METAS",
+  "website": "https://greenstargame.io/home",
+  "description": "GREEN STAR is the First Referral Play-to-Earn Metaverse NFT Game on Binance Smart Chain",
+  "explorer": "https://bscscan.com/token/0x77572AE6A47587950F2107A42e3fE905569c26E3",
+  "type": "BEP20",
+  "symbol": "METAS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x77572AE6A47587950F2107A42e3fE905569c26E3"
+}

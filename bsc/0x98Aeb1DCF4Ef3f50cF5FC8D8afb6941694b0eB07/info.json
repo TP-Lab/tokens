@@ -1,0 +1,11 @@
+{
+ "name": "101",
+ "website": "http://dogtoken.cc",
+ "description": "101 is the sub-coin of dog Community,total of 10100.",
+ "explorer": "https://bscscan.com/token/0x98Aeb1DCF4Ef3f50cF5FC8D8afb6941694b0eB07",
+ "type": "BEP20",
+ "symbol": "101",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x98Aeb1DCF4Ef3f50cF5FC8D8afb6941694b0eB07"
+}

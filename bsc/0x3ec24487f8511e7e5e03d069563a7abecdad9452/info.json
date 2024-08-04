@@ -1,0 +1,11 @@
+{
+ "name": "QUESTMETAVERSE",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x3ec24487f8511e7e5e03d069563a7abecdad9452",
+ "type": "BEP20",
+ "symbol": "BNQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3ec24487f8511e7e5e03d069563a7abecdad9452"
+}

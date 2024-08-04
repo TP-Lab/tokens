@@ -1,0 +1,11 @@
+{
+ "name": "EthMoon",
+ "website": "https://ethmoond.app",
+ "description": "EthMoon ecology uses DEFI, GAMEFI, DAO, etc.",
+ "explorer": "https://etherscan.io/token/0xE493F107bDBA58Fcb45bcE7e5ED753272eDd6361",
+ "type": "ERC20",
+ "symbol": "EthMoon",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xE493F107bDBA58Fcb45bcE7e5ED753272eDd6361"
+}

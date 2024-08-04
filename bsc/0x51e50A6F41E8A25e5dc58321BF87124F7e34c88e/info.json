@@ -1,0 +1,11 @@
+{
+ "name": "ST",
+ "website": "-",
+ "description": "ST is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x51e50A6F41E8A25e5dc58321BF87124F7e34c88e",
+ "type": "BEP20",
+ "symbol": "ST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x51e50A6F41E8A25e5dc58321BF87124F7e34c88e"
+}

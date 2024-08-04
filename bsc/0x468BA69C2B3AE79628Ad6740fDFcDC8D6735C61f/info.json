@@ -1,0 +1,11 @@
+{
+ "name": "SafetyDAO Token",
+ "website": "https://treasureswap.net/",
+ "description": "SafetyDAO is a set of highly integrated and precise organizational structure, the bottom layer is the protocol layer, the top is the DAO organizational structure layer, then the industry platform layer, the business ecological layer, and the top is the distributed application layer, covering the entire WEB3.0 industry. The core link is completely ahead of the layout of WEB3.0 from the kernel to the application, from the finance to the industry.",
+ "explorer": "https://bscscan.com/token/0x468BA69C2B3AE79628Ad6740fDFcDC8D6735C61f",
+ "type": "BEP20",
+ "symbol": "SYD",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x468BA69C2B3AE79628Ad6740fDFcDC8D6735C61f"
+}

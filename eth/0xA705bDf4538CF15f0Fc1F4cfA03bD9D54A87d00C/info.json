@@ -1,0 +1,11 @@
+{
+ "name": "LuckyApe",
+ "website": "https://www.lucky-ape.com/",
+ "description": "LuckyApe is a built-in jackpot contract that grants buyers the opportunity to win a 2x, 5x or even a 10x on their investment.",
+ "explorer": "https://etherscan.io/address/0xa705bdf4538cf15f0fc1f4cfa03bd9d54a87d00c",
+ "type": "ERC20",
+ "symbol": "LUCKY",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xA705bDf4538CF15f0Fc1F4cfA03bD9D54A87d00C"
+}

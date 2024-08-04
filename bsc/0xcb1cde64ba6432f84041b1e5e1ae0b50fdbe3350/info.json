@@ -1,0 +1,11 @@
+{
+ "name": "BYZ",
+ "website": "http://byz.byzcoin.xyz/",
+ "description": "BYZ由冰岛Riot Blockchain机构，联合德克萨斯州的 Rockdale 以及加拿大加密货币采矿公司.Hut8，联合深圳投资公司 Bitcoin Group SE投资公司共同打造，为世界各地消费者提供绿色安全消费，为社会减轻能源消耗及专业网络拥有者提供硬件设备、软件、服务和解决方案。.",
+ "explorer": "https://bscscan.com/token/0xcb1cde64ba6432f84041b1e5e1ae0b50fdbe3350",
+ "type": "BEP20",
+ "symbol": "BYZ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcb1cde64ba6432f84041b1e5e1ae0b50fdbe3350"
+}

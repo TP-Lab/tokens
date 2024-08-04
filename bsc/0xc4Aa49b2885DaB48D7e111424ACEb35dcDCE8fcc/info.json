@@ -1,0 +1,11 @@
+{ 
+"name": "LK",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/address/0xc4Aa49b2885DaB48D7e111424ACEb35dcDCE8fcc",
+"type": "BEP20",
+"symbol": "LK",
+"decimals": 18,
+"status": "active",
+"id": "0xc4Aa49b2885DaB48D7e111424ACEb35dcDCE8fcc"
+}

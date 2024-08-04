@@ -1,0 +1,11 @@
+{
+  "name": "Day of Defeat 2.0",
+  "website": "https://dayofdefeat.app",
+  "description": "$DOD is a hyper deflationary token with a destruction mechanism. At the end of the token there will be 100m $LUSD prize pool to be claimed by the $DOD holders ",
+  "explorer": "https://bscscan.com/token/0x0e9729a1db9e45ff08f64e6c4342be3921e993e0",
+  "type": "BEP20",
+  "symbol": "DOD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0e9729a1Db9E45FF08F64E6C4342Be3921e993e0"
+}

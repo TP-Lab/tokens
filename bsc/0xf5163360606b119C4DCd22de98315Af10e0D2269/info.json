@@ -1,0 +1,11 @@
+{
+ "name": "GBS",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xf5163360606b119c4dcd22de98315af10e0d2269",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf5163360606b119c4dcd22de98315af10e0d2269"
+}

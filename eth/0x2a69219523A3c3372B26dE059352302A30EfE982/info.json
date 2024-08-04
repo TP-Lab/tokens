@@ -1,0 +1,11 @@
+{
+    "name": "Ethereum Dex",
+    "website": "https://etx-token.com/",
+    "description": "ETX open source, independent decentralized application.",
+    "explorer": "https://etherscan.io/token/0x2a69219523A3c3372B26dE059352302A30EfE982",
+    "type": "ERC20",
+    "symbol": "ETX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2a69219523A3c3372B26dE059352302A30EfE982"
+   }

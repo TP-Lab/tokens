@@ -1,0 +1,11 @@
+{
+ "name": "SevenC",
+ "website": "https://www.winow.io",
+ "description": "Seven DAO是一个建立在区块链之上的DAO组织,旨在让更多的人通过参与DAO来体验Web3的乐趣。",
+ "explorer": "https://bscscan.com/token/0xfa66a5187655cd41e6c4c6e459914aea86cab2a2",
+ "type": "BEP20",
+ "symbol": "SevenC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfa66a5187655cd41e6c4c6e459914aea86cab2a2"
+}

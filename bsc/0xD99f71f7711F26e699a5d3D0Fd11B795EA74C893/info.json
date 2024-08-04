@@ -1,0 +1,11 @@
+{
+ "name": "PG",
+ "website": "-",
+ "description": "PG是区块链上的一个新项目，会受到广大用户的喜爱.",
+ "explorer": "https://bscscan.com/token/0xD99f71f7711F26e699a5d3D0Fd11B795EA74C893",
+ "type": "BEP20",
+ "symbol": "PG",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xD99f71f7711F26e699a5d3D0Fd11B795EA74C893"
+}

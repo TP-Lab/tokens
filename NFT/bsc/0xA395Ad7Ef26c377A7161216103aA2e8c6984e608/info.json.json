@@ -1,0 +1,10 @@
+{
+  "name": "PandaDao",
+  "website": "http://xfab.info/home",
+  "description": "An unique set of magical panda NFTs with 6 characters, each with their own story.",
+  "explorer": "https://bscscan.com/token/0xa395ad7ef26c377a7161216103aa2e8c6984e608",
+  "type": "BEP721",
+  "symbol": "PanDao",
+  "status": "active",
+  "id": "0xA395Ad7Ef26c377A7161216103aA2e8c6984e608"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BFSHIB",
+ "website": "",
+ "description": "BFSHIB由shib大户组织发起的DEFI项目",
+ "explorer": "https://bscscan.com/token/0x4ccecfbf1fb1d09120a5fd0125d2fd0a165a4f6c",
+ "type": "BEP20",
+ "symbol": "BFSHIB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4CCECfBf1FB1D09120a5Fd0125D2FD0a165A4F6c"
+}

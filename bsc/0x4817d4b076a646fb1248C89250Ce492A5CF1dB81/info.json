@@ -1,0 +1,11 @@
+{ 
+"name": "World Knowledge Token",
+"website": "https://www.metaclassn.com",
+"description": "WKT(World Knowledge Token) is issued by Metaclassn. Users can earn WKT by joining classes on Metaclassn.",
+"explorer": "https://bscscan.com/token/0x4817d4b076a646fb1248C89250Ce492A5CF1dB81",
+"type": "BEP20",
+"symbol": "WKT",
+"decimals": 18,
+"status": "active",
+"id": "0x4817d4b076a646fb1248C89250Ce492A5CF1dB81"
+}

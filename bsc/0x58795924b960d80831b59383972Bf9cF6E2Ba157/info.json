@@ -1,0 +1,11 @@
+{
+ "name": "KJ",
+ "website": "-",
+ "description": "KJ is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x58795924b960d80831b59383972Bf9cF6E2Ba157",
+ "type": "BEP20",
+ "symbol": "KJ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x58795924b960d80831b59383972Bf9cF6E2Ba157"
+}

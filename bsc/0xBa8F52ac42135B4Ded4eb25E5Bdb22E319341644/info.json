@@ -1,0 +1,11 @@
+{
+ "name": "TY Token",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xBa8F52ac42135B4Ded4eb25E5Bdb22E319341644",
+ "type": "BSC20",
+ "symbol": "TY",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xBa8F52ac42135B4Ded4eb25E5Bdb22E319341644"
+}

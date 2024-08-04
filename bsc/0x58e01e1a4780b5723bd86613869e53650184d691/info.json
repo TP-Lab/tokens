@@ -1,0 +1,11 @@
+{
+"name": "PUBG",
+"website": "https://t.me/btckoo1",
+"description": "PUBG is a blockchain project based on the e-sports game PUBG and integrated into the metaverse, web3.0 concept",
+"explorer": "https://bscscan.com/address/0x58e01e1a4780b5723bd86613869e53650184d691",
+"type": "BEP20",
+"symbol": "PUBG",
+"decimals": 18,
+"status": "active",
+"id": "0x58e01e1a4780b5723bd86613869e53650184d691"
+}

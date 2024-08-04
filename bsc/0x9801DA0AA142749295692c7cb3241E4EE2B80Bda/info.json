@@ -1,0 +1,11 @@
+{
+  "name": "STRAC",
+  "website": "https://sswap.vip",
+  "description": "The first web 3.0 innovative financial mechanism DEX industry aggregator.",
+  "explorer": "https://bscscan.com/token/0x9801DA0AA142749295692c7cb3241E4EE2B80Bda",
+  "type": "BEP20",
+  "symbol": "STRAC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9801DA0AA142749295692c7cb3241E4EE2B80Bda"
+}

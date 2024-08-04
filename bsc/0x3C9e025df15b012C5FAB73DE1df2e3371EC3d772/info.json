@@ -1,0 +1,11 @@
+{
+    "name": "Wrold of Ghost",
+    "website": "https://www.WorldofGhost.com",
+    "description": "WOG 是幽灵世界的游戏代币; 总量10亿.The World of Ghost 是BSC上领先的NFT游戏平台，利用推荐、股权分享和NFT市场，激励玩家共同创建我们的可持续社区。玩家可以在幽灵元宇宙中享受、创建不同类型的游戏，并相互社交，同时分享游戏世界平台的利润",
+    "explorer": "https://bscscan.com/token/0x3C9e025df15b012C5FAB73DE1df2e3371EC3d772",
+    "type": "BEP20",
+    "symbol": "WOG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3C9e025df15b012C5FAB73DE1df2e3371EC3d772"
+   }

@@ -1,0 +1,11 @@
+{
+ "name": "ALEO",
+ "website": "-",
+ "description": "ALEO is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xA45D0072937c5009C86d6a2622a2c4181d89B0E2",
+ "type": "BEP20",
+ "symbol": "ALEO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA45D0072937c5009C86d6a2622a2c4181d89B0E2"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "FISTKING",
+ "website": "http://KINGFIST.COM",
+ "description": "An unstoppable economy enabled by decentralized assets, decentralized technologies, and decentralized organizations.",
+ "explorer": "https://bscscan.com/token/0xeAA1f7dEb0e5E3d15Cab5C251a0CBe54f1281510",
+ "type": "BEP20",
+ "symbol": "FISTKING",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xeAA1f7dEb0e5E3d15Cab5C251a0CBe54f1281510"
+}

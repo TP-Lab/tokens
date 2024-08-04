@@ -1,0 +1,11 @@
+{ 
+"name": "Datp NFT",
+"website": "https://ctcdao.com",
+"description": "Dtap Pioneer Music is a music intellectual property digital collection platform, providing original musicians with intellectual property (music copyright) on-chain storage, circulation, digital collection, rights protection and other services. We provide blockchain solutions to improve the music streaming industry. It removes the middleman and brings the greatest benefit to musicians and listeners. In this way, NFTs (Non-Fungible Tokens) will be used in the ecosystem to tokenize music rights and their associated revenue in subsequent releases of Dtap Pioneer Music. We analyze the impact of blockchain technology on the real world, examine the impact of smart contracts on music platforms, and analyze the changes and processing methods of information on the blockchain. Dtap's groundbreaking music platform was built for mass acceptance, and it's happening.",
+"explorer": "https://bscscan.com/address/0x9c9e1e0aFE458fb2C06d24296DaC440141bFC101",
+"type": "BEP20",
+"symbol": "Datp NFT",
+"decimals": 0,
+"status": "active",
+"id": " 0x9c9e1e0aFE458fb2C06d24296DaC440141bFC101"
+}

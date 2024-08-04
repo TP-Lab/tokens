@@ -1,0 +1,11 @@
+{
+    "name": "Keen Reward Token",
+    "website": "https://keenone.finance/",
+    "description": "Keen Finance is a next-generation micro-transaction platform that makes trading easy and lucrative. Our goal is to be the best place for everyone to trade and make money.",
+    "explorer": "https://bscscan.com/token/0x3fa38e76eebf9192d47f723b0d41b2cefac4275a",
+    "type": "BEP20",
+    "symbol": "KEEN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3fa38E76EEBF9192D47f723B0D41b2CeFaC4275A"
+}

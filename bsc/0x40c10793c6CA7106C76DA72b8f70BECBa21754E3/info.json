@@ -1,0 +1,11 @@
+{
+    "name": "GLH",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0x40c10793c6CA7106C76DA72b8f70BECBa21754E3",
+    "type": "BSC20",
+    "symbol": "GLH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x40c10793c6CA7106C76DA72b8f70BECBa21754E3"
+}

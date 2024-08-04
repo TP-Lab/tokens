@@ -1,0 +1,11 @@
+{
+ "name": "KOI",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xd9504a9CC309eBfD82F4E715cf475A781319543C",
+ "type": "BEP20",
+ "symbol": "KOI",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd9504a9CC309eBfD82F4E715cf475A781319543C"
+}

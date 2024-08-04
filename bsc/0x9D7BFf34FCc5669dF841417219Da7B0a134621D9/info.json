@@ -1,0 +1,11 @@
+{
+ "name": "MirrorX",
+ "website": "https://mirrorx.cc",
+ "description": "MirrorX is based on web3 diversified infrastructure and open platform to help traditional industries, enterprises, service organizations, DAOs, studios and so on with a one-stage blockchain service and metaverse scenarios tookit",
+ "explorer": "https://bscscan.com/token/0x9d7bff34fcc5669df841417219da7b0a134621d9",
+ "type": "BEP20",
+ "symbol": "MRX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9D7BFf34FCc5669dF841417219Da7B0a134621D9"
+}

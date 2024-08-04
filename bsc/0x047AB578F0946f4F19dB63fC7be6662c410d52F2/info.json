@@ -1,0 +1,11 @@
+{
+ "name": "MCC",
+ "website": "https://www.mcc-chain.pro",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x047AB578F0946f4F19dB63fC7be6662c410d52F2",
+ "type": "BEP20",
+ "symbol": "MCC",
+ "decimals": 18,
+ "status": "not open yet",
+ "id": "0x047AB578F0946f4F19dB63fC7be6662c410d52F2"
+}

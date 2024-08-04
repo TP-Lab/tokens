@@ -1,0 +1,11 @@
+{
+ "name": "MVS",
+ "website": "http://mvs-vip.com",
+ "description": "MVS is a public chain system based on the music industry developed by Singapore Golden foundation and SVDL (Silicon Valley digital laboratory) for one and a half years. It authorizes the world-famous performance organizer Live Nation to operate to create a new music NFT platform and open Web3.0 music new track.",
+ "explorer": "https://bscscan.com/address/0x435802D8f34Fd36A66e86423592Ed2Cc763C4C38",
+ "type": "BEP20",
+ "symbol": "MVS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x435802D8f34Fd36A66e86423592Ed2Cc763C4C38"
+}

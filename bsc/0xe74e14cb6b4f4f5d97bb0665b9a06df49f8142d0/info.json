@@ -1,0 +1,11 @@
+{
+  "name": "Scary Bunny",
+  "website": "https://www.scarybunnybsc.com/",
+  "description": "🩸 Scary bunny is a meme token with game utility, you can use the NFT to create character and hunt zombie 🩸",
+  "explorer": "https://bscscan.com/token/0xe74e14cb6b4f4f5d97bb0665b9a06df49f8142d0",
+  "type": "BEP20",
+  "symbol": "SB",
+  "decimals": 9,
+  "status": "inactive",
+  "id": "0xe74e14cb6b4f4f5d97bb0665b9a06df49f8142d0"
+}

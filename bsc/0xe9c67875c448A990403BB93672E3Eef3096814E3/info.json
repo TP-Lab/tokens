@@ -1,0 +1,11 @@
+{
+ "name": "Hello doge ",
+ "website": "",
+ "description": "做一只开心的狗子",
+ "explorer": "https://bscscan.com/token/0xe9c67875c448A990403BB93672E3Eef3096814E3",
+ "type": "BEP20",
+ "symbol": "Hello doge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe9c67875c448A990403BB93672E3Eef3096814E3"
+}

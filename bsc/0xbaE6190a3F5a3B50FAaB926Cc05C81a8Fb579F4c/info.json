@@ -1,0 +1,11 @@
+{
+ "name": "AMIC",
+ "website": "-",
+ "description": "AMIC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xbaE6190a3F5a3B50FAaB926Cc05C81a8Fb579F4c",
+ "type": "BEP20",
+ "symbol": " AMIC ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbaE6190a3F5a3B50FAaB926Cc05C81a8Fb579F4c"
+}

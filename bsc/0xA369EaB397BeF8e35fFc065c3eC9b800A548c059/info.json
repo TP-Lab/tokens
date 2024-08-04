@@ -1,0 +1,11 @@
+{
+    "name": "WerewolvesToken",
+    "website": "https://werewolves.game",
+    "description": "The world’s first Werewolves NFT Game which rewards players in BNB.You will get 3 NFT roles: Seers: Guaranteed 10% income+Winning bonus; Werewolves: Super High income; Villagers: Ordinary income.",
+    "explorer": "https://bscscan.com/token/0xA369EaB397BeF8e35fFc065c3eC9b800A548c059",
+    "type": "BEP20",
+    "symbol": "WOLF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA369EaB397BeF8e35fFc065c3eC9b800A548c059"
+}

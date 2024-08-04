@@ -1,0 +1,11 @@
+{
+ "name": "GEM token",
+ "website": "http://gemking.site/",
+ "description": "Gem coins belong to completely decentralized autonomous organizations. Gem Coins have a strong DAO and SWAP that allows gem coins to circulate within their own ecosystem. At the same time, the number of gem coins is decreasing, and every gem coin is precious.",
+ "explorer": "https://bscscan.com/token/0x2A35eD564e20d7D9bFD70eDbe10dbc45CF30b18D",
+ "type": "BEP20",
+ "symbol": "GEM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2A35eD564e20d7D9bFD70eDbe10dbc45CF30b18D"
+}

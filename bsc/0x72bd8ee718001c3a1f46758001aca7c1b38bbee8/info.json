@@ -1,0 +1,11 @@
+{
+ "name": "ARK",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x72bd8ee718001c3a1f46758001aca7c1b38bbee8",
+ "type": "BEP20",
+ "symbol": "ARK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x72bd8ee718001c3a1f46758001aca7c1b38bbee8"
+}

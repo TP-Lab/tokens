@@ -1,0 +1,11 @@
+{
+ "name": "MOONDOG Token",
+ "website": "http://moondog.bz/",
+ "description": "Holiday celebration token for the MOONDOG",
+ "explorer": "https://bscscan.com/token/0xe01Aa9E90116E6D713B21703874De2865bf3E804",
+ "type": "BEP20",
+ "symbol": "MOONDOG",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe01Aa9E90116E6D713B21703874De2865bf3E804"
+}

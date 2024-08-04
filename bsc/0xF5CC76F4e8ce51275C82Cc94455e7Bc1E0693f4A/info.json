@@ -1,0 +1,11 @@
+{
+  "name": "DissShib",
+  "website": "http://www.dissshib.top/",
+  "description": "DissShib is a community token, which is published in BSC. Its goal is to create a perfect DAO community.",
+  "explorer": "https://bscscan.com/address/0xF5CC76F4e8ce51275C82Cc94455e7Bc1E0693f4A",
+  "type": "BEP20",
+  "symbol": "DissShib",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xF5CC76F4e8ce51275C82Cc94455e7Bc1E0693f4A"
+}

@@ -1,0 +1,11 @@
+{
+ "name": “SHIBA INU FATHER”,
+ "website": "https://www.shibf.com",
+ "description": "Shiba Inu Father (SHIBf) is a decentralized Meme token.",
+ "explorer": "https://bscscan.com/token/0x7Ffbf46EA92152E6e7b4015Ce8790C536a9a1e1b",
+ "type": “BEP20”,
+ "symbol": “SHIBF”,
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7Ffbf46EA92152E6e7b4015Ce8790C536a9a1e1b"
+}

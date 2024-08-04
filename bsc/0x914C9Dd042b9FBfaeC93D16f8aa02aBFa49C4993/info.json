@@ -1,0 +1,11 @@
+{
+ "name": "DWB",
+ "website": "https://dwbdao.com",
+ "description": "A transaction mining model based on the DAO protocol. Governance model: Adopt zero-knowledge verification, multi-governance community governance model. Project support: Former Binance technical team, led by Animoca Brands.",
+ "explorer": "https://bscscan.com/token/0x914C9Dd042b9FBfaeC93D16f8aa02aBFa49C4993",
+ "type": "BEP20",
+ "symbol": "DWB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x914C9Dd042b9FBfaeC93D16f8aa02aBFa49C4993"
+}

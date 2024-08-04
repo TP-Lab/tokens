@@ -1,0 +1,11 @@
+{
+    "name": "NEW LITE",
+    "website": "https://liteusd.com/",
+    "description": "Create a community governance token that include algorithmically stablecoin/Swap/Crypto Wallet/Gamefi/LP staking and other comprehensive Web3 elements.",
+    "explorer": "https://www.bscscan.com/token/0xEad44e4f49b697ab98b15a4859c74E2846A9bFFD",
+    "type": "BEP20",
+    "symbol": "NLITE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xEad44e4f49b697ab98b15a4859c74E2846A9bFFD"
+}

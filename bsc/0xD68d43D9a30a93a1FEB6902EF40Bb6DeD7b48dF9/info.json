@@ -1,0 +1,11 @@
+{
+ "name": "Artistone Token",
+ "website": "https://www.artistone.xyz",
+ "description": "Artistone is an NFT Marketplace supported by blockchain Web3.0 technology system",
+ "explorer": "https://bscscan.com/token/0xD68d43D9a30a93a1FEB6902EF40Bb6DeD7b48dF9",
+ "type": "BEP20",
+ "symbol": "ARTS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD68d43D9a30a93a1FEB6902EF40Bb6DeD7b48dF9"
+}

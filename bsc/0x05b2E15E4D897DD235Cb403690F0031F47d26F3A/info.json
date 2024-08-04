@@ -1,0 +1,11 @@
+{
+ "name": "PE Consensus Agreement",
+ "website": "https://sportsfinance.live",
+ "description": "PE Consensus Agreement",
+ "explorer": "https://bscscan.com/token/0x05b2E15E4D897DD235Cb403690F0031F47d26F3A",
+ "type": "BEP20",
+ "symbol": "PECA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x05b2E15E4D897DD235Cb403690F0031F47d26F3A"
+}

@@ -1,0 +1,31 @@
+{
+
+
+"name": "TokenPocket Token",
+
+
+"website": "https://tokenpocket.pro",
+
+
+"description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+
+
+"explorer": "https://bscscan.com/token/0x3F480346df08Ca77E1e64fc4F39883045A6fc3F3",
+
+
+"type": "BEP20",
+
+
+"symbol": "GOSPEL",
+
+
+"decimals": 4,
+
+
+"status": "active",
+
+
+"id": "0x3F480346df08Ca77E1e64fc4F39883045A6fc3F3"
+
+
+}

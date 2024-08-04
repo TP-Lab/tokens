@@ -1,0 +1,11 @@
+{
+  "name": "BIBToken ",
+  "website": "http://bibmeta.net/",
+  "description": "To build trust by providing adequate service to users and be a channel to onboard people easily to decentralized protocol. ",
+  "explorer": "https://bscscan.com/token/0x2b339d46e157cf93de6a919aa05350e952f67359",
+  "type": "BEP20",
+  "symbol": "BIB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2b339d46e157cf93de6a919aa05350e952f67359"
+}

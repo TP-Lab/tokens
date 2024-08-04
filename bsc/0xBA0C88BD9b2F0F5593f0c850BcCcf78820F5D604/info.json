@@ -1,0 +1,11 @@
+{
+    "name": "FTTX",
+    "website": "http://www.fttx.live",
+    "description": "FTTX blockchain, which integrates blockchain + community ecology + real economy, will give the world a new ecological outlook, a new platform and a new and beautiful future",
+    "explorer": "https://bscscan.com/token/0xba0c88bd9b2f0f5593f0c850bcccf78820f5d604",
+    "type": "BEP20",
+    "symbol": "FTTX",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xBA0C88BD9b2F0F5593f0c850BcCcf78820F5D604"
+}

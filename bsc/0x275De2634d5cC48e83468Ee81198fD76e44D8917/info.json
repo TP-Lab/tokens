@@ -1,0 +1,11 @@
+{
+ "name": "EAE",
+ "website": "http://eaglenft.top",
+ "description": "Eagle is initiated by Todi Kelly's famous block chain senior experts and has rich block experience. The three ecological enabling super DAO combined with the new financial wed3.0 agreement (market terminal, SWAP, metasonic applications use 100U cast 1000EAE tokens as the only pass for ecological circulation)",
+ "explorer": "https://bscscan.com/token/0x275De2634d5cC48e83468Ee81198fD76e44D8917",
+ "type": "BEP20",
+ "symbol": "EAE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x275De2634d5cC48e83468Ee81198fD76e44D8917"
+}

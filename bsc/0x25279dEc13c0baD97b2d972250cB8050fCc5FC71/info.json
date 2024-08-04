@@ -1,0 +1,11 @@
+{
+ "name": "zbcvs",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x25279dEc13c0baD97b2d972250cB8050fCc5FC71",
+ "type": "BEP20",
+ "symbol": "zbcvs",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x25279dEc13c0baD97b2d972250cB8050fCc5FC71"
+}

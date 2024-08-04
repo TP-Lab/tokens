@@ -1,0 +1,11 @@
+{
+ "name": "CFA",
+ "website": "-",
+ "description": "CFA is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x1bE83D1e44bC76b1136bF395611A76da9EDda61a",
+ "type": "BEP20",
+ "symbol": " CFA ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1bE83D1e44bC76b1136bF395611A76da9EDda61a"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "GMPC",
+ "website": "http://www.gmpcpay.com/",
+ "description": "GMPC proposes a revolutionary hybrid chain architecture, independently develops the GMPC BFT innovative consensus mechanism, integrates the pan-POS Staking ecology, and realizes multi-chain-relay chain-cross-chain fusion chain protocol interaction and hybrid storage.",
+ "explorer": "https://bscscan.com/token/0xb8bde37e053dff25649b8928badcee1ffe1c0005",
+ "type": "BEP20",
+ "symbol": "GMPC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB8BDe37E053DFf25649B8928BaDcEE1Ffe1C0005"
+}

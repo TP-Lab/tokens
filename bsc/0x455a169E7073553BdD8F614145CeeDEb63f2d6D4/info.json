@@ -1,0 +1,11 @@
+{
+ "name": "Freeter",
+ "website": "-",
+ "description": "FTSwap platform pass,Through the continuous application of empowerment and consensus,Build the leading public chain of community autonomy"
+ "explorer": "https://bscscan.com/token/0x455a169E7073553BdD8F614145CeeDEb63f2d6D4",
+ "type": "BEP20",
+ "symbol": "FT",
+ "decimals": 18,
+ "status": "not open",
+ "id": "0x455a169E7073553BdD8F614145CeeDEb63f2d6D4"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "XYG",
+ "website": "https://t.me/xyg_2022",
+ "description": "An innovative contract mechanism, which deployed on BSC chain.",
+ "explorer": "https://bscscan.com/token/0x1Ed943C63102b871dC49cb40E3C2db0caae9F602",
+ "type": "BEP20",
+ "symbol": "XYG",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x1Ed943C63102b871dC49cb40E3C2db0caae9F602"
+}

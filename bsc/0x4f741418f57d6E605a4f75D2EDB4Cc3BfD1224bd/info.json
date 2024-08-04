@@ -1,0 +1,11 @@
+{
+ "name": "ETN token",
+ "website": "http://etndex.cn",
+ "description": "ETN Decentralized Exchange.",
+ "explorer": "https://www.bscscan.com/address/0x4f741418f57d6E605a4f75D2EDB4Cc3BfD1224bd",
+ "type": "BEP20",
+ "symbol": "ETN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4f741418f57d6E605a4f75D2EDB4Cc3BfD1224bd"
+}

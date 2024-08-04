@@ -1,0 +1,11 @@
+{
+    "name": "Christmas Games",
+    "website": "http://www.christmasgames.top",
+    "description": "Have a nice game for Christmas Day!",
+    "explorer": "https://bscscan.com/token/0x9E3190dC47cF17c492AB0C0c04Bfc3993F067038",
+    "type": "BEP20",
+    "symbol": "CMG",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x9E3190dC47cF17c492AB0C0c04Bfc3993F067038"
+}

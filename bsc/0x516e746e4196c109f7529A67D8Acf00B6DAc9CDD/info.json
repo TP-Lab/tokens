@@ -1,0 +1,11 @@
+{
+    "name": "BNSTAR",
+    "website": "https://bnstar.finance/?utm_source=tokenpocket",
+    "description": "BNSTAR a new star built on Binance Chain is a game platform with Mystery box + DeFi mining.",
+    "explorer": "https://bscscan.com/address/0x516e746e4196c109f7529A67D8Acf00B6DAc9CDD",
+    "type": "BEP20",
+    "symbol": "BNSTAR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x516e746e4196c109f7529A67D8Acf00B6DAc9CDD"
+   } 

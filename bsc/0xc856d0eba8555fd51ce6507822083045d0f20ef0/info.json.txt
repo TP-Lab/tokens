@@ -1,0 +1,11 @@
+{
+ "name": "BNBprince ",
+"website": "",
+ "description": " BSC, BNBprince",
+ "explorer": "https://bscscan.com/token/0xc856d0eba8555fd51ce6507822083045d0f20ef0",
+ "type": "BEP20",
+ "symbol": "BNBprince",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc856d0eba8555fd51ce6507822083045d0f20ef0"
+}

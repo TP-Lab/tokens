@@ -1,0 +1,10 @@
+{
+ "name": "Jelly Fish",
+ "description": "Jellyfish(JFC) initially issued 8391, deflated to 2391! Community autonomy decentralized defi project.",
+ "explorer": "https://bscscan.com/token/0x3b1ebf374c25f78a856532e181840ba9eae20800",
+ "type": "BEP20",
+ "symbol": "JFC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x3B1Ebf374C25f78A856532E181840BA9eAE20800"
+}

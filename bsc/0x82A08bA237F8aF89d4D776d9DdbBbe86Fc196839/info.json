@@ -1,0 +1,11 @@
+{
+    "name": "CCL",
+    "website": "",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x82A08bA237F8aF89d4D776d9DdbBbe86Fc196839",
+    "type": "BEP20",
+    "symbol": "CCL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x82A08bA237F8aF89d4D776d9DdbBbe86Fc196839"
+}

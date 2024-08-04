@@ -1,0 +1,11 @@
+{
+ "name": "E2X",
+ "website": "https://the-eagle.co/",
+ "description": "As VEAGLE CAPITAL foundation hatching the second project, the EAGLE coin, its purpose is to better enable mother COINS",
+ "explorer": "https://bscscan.com/token/0x3607C4AA409170A41b2DAA6bB5F0B0e19289bA9f",
+ "type": "BEP20",
+ "symbol": "E2X",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3607C4AA409170A41b2DAA6bB5F0B0e19289bA9f"
+}

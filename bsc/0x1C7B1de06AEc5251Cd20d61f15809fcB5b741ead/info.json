@@ -1,0 +1,11 @@
+{
+ "name": "Farmer and Thief",
+ "website": "http://www.farmerandthief.io/",
+ "description": "An online farm, but giving you real products and benefits!",
+ "explorer": "https://bscscan.com/token/0x1c7b1de06aec5251cd20d61f15809fcb5b741ead",
+ "type": "BEP20",
+ "symbol": "FNT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1C7B1de06AEc5251Cd20d61f15809fcB5b741ead"
+}

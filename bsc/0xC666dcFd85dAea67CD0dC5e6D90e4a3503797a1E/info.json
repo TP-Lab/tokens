@@ -1,0 +1,11 @@
+{
+  "name": "BTCKing",
+  "website": "https://btcking.io/",
+  "description": "BTCKing is the governance token of BTCKing, the smart contract is completely decentralized, the code is all open source, and the bottom pool is completely black hole mode to give up ownership.",
+  "explorer": "https://bscscan.com/token/0xC666dcFd85dAea67CD0dC5e6D90e4a3503797a1E",
+  "type": "BEP20",
+  "symbol": "BTCK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xC666dcFd85dAea67CD0dC5e6D90e4a3503797a1E"
+}

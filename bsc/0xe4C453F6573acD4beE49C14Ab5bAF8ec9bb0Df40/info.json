@@ -1,0 +1,11 @@
+{
+ "name": "TATG",
+ "website": "https://bscscan.com/token/0xe4C453F6573acD4beE49C14Ab5bAF8ec9bb0Df40",
+ "description": "Share Together, Win Together",
+ "explorer": "https://bscscan.com/token/0xe4C453F6573acD4beE49C14Ab5bAF8ec9bb0Df40",
+ "type": "BEP20",
+ "symbol": "TATG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe4C453F6573acD4beE49C14Ab5bAF8ec9bb0Df40"
+}

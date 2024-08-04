@@ -1,0 +1,11 @@
+{
+    "name": "MAVRToken",
+    "website": "https://hk.mmmwbank.club",
+    "description": "MAVR首个实现了只涨不跌，越卖越涨，单边上涨的完美商业模型，七大生态价值流通，属于BSC链上真正硬通货币。",
+    "explorer": "https://bscscan.com/token/0xAD6F92557D26fE2d8402b5524f5A6dB5Dd541678",
+    "type": "BEP20",
+    "symbol": "MAVR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xAD6F92557D26fE2d8402b5524f5A6dB5Dd541678"
+}

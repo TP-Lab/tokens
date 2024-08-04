@@ -1,0 +1,11 @@
+{
+	"name": "AiStarLink",
+	"website": "https://aistarlink.top",
+	"description": "The AIstarlink team believes that true asset freedom comes from the privacy and security of information, and only by allowing assets to flow according to their own wishes and always be in a safe place is true asset freedom",
+	"explorer": "https://bscscan.com/token/0x1Eb0429e549Ca85355AEB08d8A1e69aB2b90E9fa",
+	"type": "BEP20",
+	"symbol": "AiSLK",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x1Eb0429e549Ca85355AEB08d8A1e69aB2b90E9fa"
+}

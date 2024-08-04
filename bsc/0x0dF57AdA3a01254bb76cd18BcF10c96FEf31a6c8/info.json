@@ -1,0 +1,11 @@
+{
+ "name": "Apollo",
+ "website": "https://apolloplan.pro/",
+ "description": "APO is the official token of Apollo Plan",
+ "explorer": "https://bscscan.com/token/0x0dF57AdA3a01254bb76cd18BcF10c96FEf31a6c8",
+ "type": "BEP20",
+ "symbol": "APO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0dF57AdA3a01254bb76cd18BcF10c96FEf31a6c8"
+}

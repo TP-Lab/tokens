@@ -1,0 +1,11 @@
+{
+ "name": "PG",
+ "website": "https://bscscan.com/token/0xdc748bBE3cEA1d85133954252CC8e9Add270e1fA",
+ "description": "PG Coin.",
+ "explorer": "https://bscscan.com/token/0xdc748bBE3cEA1d85133954252CC8e9Add270e1fA",
+ "type": "BEP20",
+ "symbol": "PG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdc748bBE3cEA1d85133954252CC8e9Add270e1fA"
+}

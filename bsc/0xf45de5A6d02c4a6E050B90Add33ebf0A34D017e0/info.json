@@ -1,0 +1,11 @@
+{
+ "name": "WEB3 Doge",
+ "website": "https://web3doge.io",
+ "description": "Web3 Doge allows you to enter the metaverse by employing a 3D NFT avatar of your real pet on the Web3 Doge platform.",
+ "explorer": "https://bscscan.com/token/0xf45de5A6d02c4a6E050B90Add33ebf0A34D017e0",
+ "type": "BEP20",
+ "symbol": "WEB3",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xf45de5A6d02c4a6E050B90Add33ebf0A34D017e0"
+}

@@ -1,0 +1,11 @@
+{ 
+"name": "ZUA",
+"website": "https://3.game3.club/",
+"description": "This is a blockchain game called san guo",
+"explorer": "https://bscscan.com/token/0x4793520074D024a75dD3112fE57a66347efaBA3f",
+"type": "BEP20",
+"symbol": "ZUA",
+"decimals": 18,
+"status": "active",
+"id": "0x4793520074D024a75dD3112fE57a66347efaBA3f"
+}

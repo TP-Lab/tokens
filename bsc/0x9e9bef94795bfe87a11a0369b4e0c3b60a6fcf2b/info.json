@@ -1,0 +1,11 @@
+{
+ "name": "MBANK",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x9e9bef94795bfe87a11a0369b4e0c3b60a6fcf2b",
+ "type": "BEP20",
+ "symbol": "MBANK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9e9bef94795bfe87a11a0369b4e0c3b60a6fcf2b"
+}

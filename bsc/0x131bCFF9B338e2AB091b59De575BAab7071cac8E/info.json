@@ -1,0 +1,11 @@
+{
+ "name": "OSK",
+ "website": "https://fastswap.tools/#/swap",
+ "description": "A standard token on the BSC public chain. Liquidity output through pledge",
+ "explorer": "https://bscscan.com/token/0x131bCFF9B338e2AB091b59De575BAab7071cac8E",
+ "type": "BEP20",
+ "symbol": "OSK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x131bCFF9B338e2AB091b59De575BAab7071cac8E"
+}

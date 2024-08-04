@@ -1,0 +1,11 @@
+{
+ "name": "Guinness Token",
+ "website": "http://www.guinness.mobi",
+ "description": "TokenPocket.",
+ "explorer": "https://bscscan.com/address/0x5ef447ffb316719ac5ff82079b2379020fce01ec",
+ "type": "BEP20",
+ "symbol": "GNS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5ef447ffb316719ac5ff82079b2379020fce01ec"
+} 	

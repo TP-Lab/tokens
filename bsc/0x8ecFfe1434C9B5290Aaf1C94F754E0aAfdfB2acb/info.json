@@ -1,0 +1,11 @@
+{
+ "name": "Big Bang Token",
+ "website": "https://bbgdex.github.io",
+ "description": "BigBang's total platform governance token BBG is 21 million, of which 1% is pre-mined to provide the initial flow pool, and the remaining 99% is mined for about 21 years.",
+ "explorer": "https://bscscan.com/token/0x8ecFfe1434C9B5290Aaf1C94F754E0aAfdfB2acb",
+ "type": "BEP20",
+ "symbol": "BBG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8ecFfe1434C9B5290Aaf1C94F754E0aAfdfB2acb"
+}

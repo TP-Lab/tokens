@@ -1,0 +1,21 @@
+{
+
+"name": "CakeDAO",
+
+"website": "https://www.cakedao.app",
+
+"description": "CakeDAO is a decentralized DAO organization based on the BSC Binance Smart Chain decentralized exchange PancakeSwap platform ecology. It is committed to empowering Cake ecology through community autonomy, improving its product structure, and returning ecological value to community builders and ecological contributions. By. CakeDAO introduces financially complex AI-managed funds into DeFi and deploys it in CakeDAO's pledge section so that investors can obtain optimal returns.",
+
+"explorer": "https://bscscan.com/token/0x757a7b4767fd3e72a1263138fc529238e4f33361",
+
+"type": "BEP20",
+
+"symbol": "CEO",
+
+"decimals": 8,
+
+"status": "active",
+
+"id": "0x757a7b4767fd3e72a1263138fc529238e4f33361"
+
+}

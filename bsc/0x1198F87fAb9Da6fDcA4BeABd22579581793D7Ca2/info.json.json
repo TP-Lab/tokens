@@ -1,0 +1,11 @@
+{
+  "name": "Politician",
+  "website": "https://www.politiciantoken.com/",
+  "description": "PTC - the first politician project built on a BSC link to the real world",
+  "explorer": "https://bscscan.com/token/0x1198F87fAb9Da6fDcA4BeABd22579581793D7Ca2",
+  "type": "BEP20",
+  "symbol": "PTC",
+  "decimals": 3,
+  "status": "active",
+  "id": "0x1198F87fAb9Da6fDcA4BeABd22579581793D7Ca2"
+}

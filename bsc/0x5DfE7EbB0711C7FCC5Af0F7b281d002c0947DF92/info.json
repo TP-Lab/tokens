@@ -1,0 +1,11 @@
+{
+ "name": "BW Token",
+ "website": "------",
+ "description": "BW is the token of bsc chain web3.0 chain travel, the latest economic model, combining dynamic and static, double mining mechanism leading the market, and dozens of studios jointly promote and build the foundation",
+ "explorer": "https://bscscan.com/token/0x5dfe7ebb0711c7fcc5af0f7b281d002c0947df92",
+ "type": "BEP20",
+ "symbol": "BW",
+ "decimals": 9,
+ "status": "Inactive",
+ "id": "0x5DfE7EbB0711C7FCC5Af0F7b281d002c0947DF92"
+}

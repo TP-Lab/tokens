@@ -1,0 +1,11 @@
+{
+ "name": "Snoopy Token",
+ "website": "https://t.me/snoopycnn",
+ "description": "Snoopy is an epoch-spanning digital currency.",
+ "explorer": "https://bscscan.com/token/0x5739f3a8DC08fbd8f941Ba1e554a347457BACca5",
+ "type": "BEP20",
+ "symbol": "Snoopy",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5739f3a8DC08fbd8f941Ba1e554a347457BACca5"
+}

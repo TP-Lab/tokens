@@ -1,0 +1,11 @@
+{
+ "name": "AOK-4 Token",
+ "website": "https://bscscan.com/token/0xC26f3E033FEEB95F38F462dd1a4D9458F075d18C",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xC26f3E033FEEB95F38F462dd1a4D9458F075d18C",
+ "type": "BEP20",
+ "symbol": "AOK-4",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xC26f3E033FEEB95F38F462dd1a4D9458F075d18C"
+}

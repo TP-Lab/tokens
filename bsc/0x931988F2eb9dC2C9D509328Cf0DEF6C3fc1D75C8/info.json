@@ -1,0 +1,11 @@
+{ 
+"name": "MAYBACH TOKEN",
+"website": "https://maybach.finance",
+"description": "",
+"explorer": "https://bscscan.com/token/0x931988F2eb9dC2C9D509328Cf0DEF6C3fc1D75C8",
+"type": "BEP20",
+"symbol": "MAYBACH",
+"decimals": 9,
+"status": "active",
+"id": "0x931988F2eb9dC2C9D509328Cf0DEF6C3fc1D75C8"
+}

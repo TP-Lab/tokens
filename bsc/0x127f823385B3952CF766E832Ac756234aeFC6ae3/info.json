@@ -1,0 +1,11 @@
+{
+ "name": "MXDL",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/00x127f823385B3952CF766E832Ac756234aeFC6ae3",
+ "type": "BEP20",
+ "symbol": "BMXDL",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x127f823385B3952CF766E832Ac756234aeFC6ae3"
+}

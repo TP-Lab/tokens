@@ -1,0 +1,11 @@
+{
+  "name": "BabyHT  Token",
+  "website": "BabyHT.com",
+  "description": "HECO",
+  "explorer": "https://hecoinfo.com/address/0xc9C709bbEB29F6F89062ECd5468625ECA81D0C5C",
+  "type": "HECO",
+  "symbol": "BabyHT ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc9C709bbEB29F6F89062ECd5468625ECA81D0C5C"
+}

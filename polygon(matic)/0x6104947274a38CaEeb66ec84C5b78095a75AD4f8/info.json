@@ -1,0 +1,11 @@
+{
+ "name": "Energy Guardian",
+ "website": "https://EnergyGuardian.com",
+ "description": "Energy Guardian.",
+ "explorer": "https://polygonscan.com/address/0x6104947274a38caeeb66ec84c5b78095a75ad4f8",
+ "type": "Polygon",
+ "symbol": "EG",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x6104947274a38CaEeb66ec84C5b78095a75AD4f8"
+}

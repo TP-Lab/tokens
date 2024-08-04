@@ -1,0 +1,11 @@
+{
+"name": "PotaCoin",
+"website": "--",
+"description": "PotaCoin",
+"explorer": "https://bscscan.com/token/0xe15115c8b03E0F30b74272d53ACB3b6cB8496a96",
+"type": "BEP-20",
+"symbol": "POTA",
+"decimals": 18,
+"status": "active",
+"id": "0xe15115c8b03E0F30b74272d53ACB3b6cB8496a96"
+}

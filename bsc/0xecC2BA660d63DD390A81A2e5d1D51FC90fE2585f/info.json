@@ -1,0 +1,11 @@
+{
+ "name": "BLC",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xecC2BA660d63DD390A81A2e5d1D51FC90fE2585f",
+ "type": "BEP20",
+ "symbol": "BLC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xecC2BA660d63DD390A81A2e5d1D51FC90fE2585f"
+}
