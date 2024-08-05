@@ -1,0 +1,11 @@
+{
+    "name": "TPT",
+    "website": "",
+    "description": "TPT is the governance token of Chaowan Tribe, a cryptocurrency art trading aggregation platform under FirstFund in Hong Kong. It has a total issuance of one light year (9460730472580800 tokens) and is airdropped to users holding NFT on the platform using ERC404 token agreement. The ecosystem feeds back, repurchases, and destroys deflation to 21 million tokens. The platform has a complete product line, including limit trading, market trading, GameFi, token agreement, and other ecosystems. It has received round investments from Binance Labs, OKEX, Sequoia Capital (Hong Kong), and many other institutions, aiming to create the world's most popular cryptocurrency art aggregation trading platform.",
+    "explorer": "https://bscscan.com/token/0x7d1a8981173553EA7c9d8e2cB01Ec7f4ad8496fF",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "TPT",
+    "status": "active",
+    "id": "0x7d1a8981173553EA7c9d8e2cB01Ec7f4ad8496fF"
+}
