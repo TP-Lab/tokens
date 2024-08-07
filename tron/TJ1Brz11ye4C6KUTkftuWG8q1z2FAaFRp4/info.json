@@ -1,0 +1,11 @@
+{
+ "name": "TVIP",
+ "website": "https://tronscan.io",
+ "description": "TVIP",
+ "explorer": "https://tronscan.io/#/token20/TJ1Brz11ye4C6KUTkftuWG8q1z2FAaFRp4",
+ "type": "TRC20",
+ "symbol": "TVIP",
+ "decimals": 6,
+ "status": "active",
+ "id": "TJ1Brz11ye4C6KUTkftuWG8q1z2FAaFRp4"
+}
