@@ -1,0 +1,11 @@
+{
+ "name": "HELLO Token",
+ "website": "-",
+ "description": "HELLO Token is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xB87e006dc6BfB19B7F584822C03083C03166A4fc",
+ "type": "BEP20",
+ "symbol": " HELLO ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB87e006dc6BfB19B7F584822C03083C03166A4fc"
+}
