@@ -1,0 +1,11 @@
+{
+ "name": "SunPumpTrading",
+ "website": "https://www.sol.win",
+ "description": "Xiaou is launching the official token for its first meme trading bot on the TRON network.",
+ "explorer": "https://tronscan.org/#/token20/TN2tRjEMhgHSVKzj4ssy4gvHpXQNh5weSg",
+ "type": "TRC20",
+ "symbol": "SPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "TN2tRjEMhgHSVKzj4ssy4gvHpXQNh5weSg"
+}
