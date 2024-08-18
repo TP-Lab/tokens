@@ -1,0 +1,11 @@
+{
+  "name": "TGcoin",
+  "website": ": "https://TGC.bu",
+  "description": "TGC",
+  "explorer": "https://bscscan.com/token/0x91fca023f418851001c29552c89af474caa56d83",
+  "type": "BEP20",
+  "symbol": "TGC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x91fca023f418851001c29552c89af474caa56d83"
+}
