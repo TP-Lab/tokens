@@ -2,7 +2,7 @@
 {
   "name": "HS Token",
   "website": "hs-token.com",
-  "description": "",
+  "description": "The DCP(HS) business model focuses on creating a global distributed GPU computing platform that connects computing power providers with users. By integrating global data centers, GPUs, and servers, DCP(HS) offers efficient, secure, and flexible computing resources. Providers can rent out idle resources in exchange for DCP (HS) Tokens, while users can access these resources on demand for applications like AI training, 3D rendering, and scientific computing. The platform earns revenue through rental fees and transaction commissions, while prioritizing sustainability by following ESG principles, promoting green computing, and supporting social welfare projects. This model maximizes resource use and offers a flexible marketplace for global users.",
   "explorer": "https://bscscan.com/token/0x1110515cEfcAaa83004845d6587FB28CadC6A57d",
   "type": "BEP20",
   "symbol": "HS",
