@@ -1,1 +1,12 @@
 
+{
+  "name": "HS Token",
+  "website": "hs-token.com",
+  "description": "",
+  "explorer": "https://bscscan.com/token/0x1110515cEfcAaa83004845d6587FB28CadC6A57d",
+  "type": "BEP20",
+  "symbol": "HS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1110515cEfcAaa83004845d6587FB28CadC6A57d"
+}
