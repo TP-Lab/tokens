@@ -1,0 +1,11 @@
+{
+ "name": "SVT Wallet",
+ "website": "https://svt.cash",
+ "description": "SVT 钱包是一款结合AI技术，追踪“聪明钱”，并提供多链资产管理、智能跟单和自动化交易的加密货币交易工具",
+ "explorer": "https://bscscan.com/token/0x16ea2773f8d53f8031cd7a75f6991b15d4777777",
+ "type": "BEP20",
+ "symbol": "SVT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x16eA2773F8d53f8031Cd7A75f6991b15d4777777"
+}
