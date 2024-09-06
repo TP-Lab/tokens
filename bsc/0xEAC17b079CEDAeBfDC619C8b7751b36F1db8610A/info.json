@@ -1,0 +1,11 @@
+{
+ "name": "BOBO",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0xEAC17b079CEDAeBfDC619C8b7751b36F1db8610A",
+ "type": "BEP20",
+ "symbol": "BOBO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEAC17b079CEDAeBfDC619C8b7751b36F1db8610A"
+}
