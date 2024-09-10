@@ -1,0 +1,11 @@
+{
+  "name": "PAI Soul Token",
+  "website": "https://www.projectpai.com",
+  "description": "PAI Soul Token can be used in web3 application of project PAI. Such as: AI chat bot with specific Soul; Meta Human, etc.",
+  "explorer": "https://solscan.io/token/paiiRLHDZdvZ5iqsc8Xmn9YjioCtki4wvQex2e8xRY9",
+  "type": "SPL",
+  "symbol": "PAI",
+  "decimals": 6,
+  "status": "active",
+  "id": "paiiRLHDZdvZ5iqsc8Xmn9YjioCtki4wvQex2e8xRY9"
+}
