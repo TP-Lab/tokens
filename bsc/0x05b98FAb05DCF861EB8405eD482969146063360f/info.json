@@ -1,0 +1,11 @@
+{
+    "name": "Dream World",
+    "website": "http://dreamworld.services",
+    "description": "The Token for The World's First Web3-Based Social Gaming Platform.",
+    "explorer": "https://bscscan.com/token/0x05b98fab05dcf861eb8405ed482969146063360f",
+    "type": "BEP20",
+    "symbol": "DWB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x05b98FAb05DCF861EB8405eD482969146063360f"
+}
