@@ -1,0 +1,11 @@
+{
+ "name": "WUKONG",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://tronscan.io/#/token20/TA6WG8Dodq5bcSwaprCVAVsg2heqP3zDVi",
+ "type": "TRC20",
+ "symbol": "WUKONG",
+ "decimals": 18,
+ "status": "active",
+ "id": "TA6WG8Dodq5bcSwaprCVAVsg2heqP3zDVi"
+}
