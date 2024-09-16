@@ -1,0 +1,11 @@
+{
+    "name": "MATIC DAO",
+    "website": "-",
+    "description": "MATIC DAO is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+    "explorer": "https://polygonscan.com/address/0x70EACa15f340b64C5F5E1017EDa7fD00D724CBc3",
+    "type": "MATIC",
+    "symbol": "MDD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x70EACa15f340b64C5F5E1017EDa7fD00D724CBc3"
+   }

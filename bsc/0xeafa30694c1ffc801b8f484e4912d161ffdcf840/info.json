@@ -1,0 +1,11 @@
+{
+ "name": "DA COIN",
+ "website": "https://da-coin.space",
+ "description": "DA coin is a native token of DAchain, which is mined and produced through the Dpos mechanism. It is a pioneer in the industry and is forcibly dispersed. There is no air drop or private placement, and it is jointly created by hundreds of communities to create a value of tens of thousands of times.",
+ "explorer": "https://bscscan.com/token/0xeafa30694c1ffc801b8f484e4912d161ffdcf840",
+ "type": "BEP20",
+ "symbol": "DA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xeafa30694c1ffc801b8f484e4912d161ffdcf840"
+}

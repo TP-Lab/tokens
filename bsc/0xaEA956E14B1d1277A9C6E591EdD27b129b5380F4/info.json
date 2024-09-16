@@ -1,0 +1,11 @@
+{ 
+"name": "WFTC",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0xaEA956E14B1d1277A9C6E591EdD27b129b5380F4",
+"type": "BEP20",
+"symbol": "WFTC",
+"decimals": 18,
+"status": "active",
+"id": "0xaEA956E14B1d1277A9C6E591EdD27b129b5380F4"
+}

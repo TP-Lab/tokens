@@ -1,0 +1,11 @@
+{
+ "name": "GHT",
+ "website": "-",
+ "description": "GHT is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x7B9Da6b244D8cF19a7a1235F6ec05E65b226BF1c",
+ "type": "BEP20",
+ "symbol": "GHT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7B9Da6b244D8cF19a7a1235F6ec05E65b226BF1c"
+}

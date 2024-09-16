@@ -1,0 +1,11 @@
+{
+ "name": "TIMES Token",
+ "website": "https://game.timess.co/",
+ "description": "TIMES is the platform token of the MetaLives ecosystem. The holders of TIMES have various rights and interests on the MetaLives platform.",
+ "explorer": "https://bscscan.com/token/0x319e56aB9f72cF9BB99f7CD104375824f0519132",
+ "type": "BEP20",
+ "symbol": "TIMES",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x319e56aB9f72cF9BB99f7CD104375824f0519132"
+}

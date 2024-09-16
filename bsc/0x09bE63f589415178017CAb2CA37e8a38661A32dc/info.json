@@ -1,0 +1,11 @@
+{
+    "name": "TCP314 Token",
+    "website": "https://tcp314.com",
+    "description": "The TCP314 protocol changes the traditional on-chain DEX contract interaction mode. Users transfer BNB to the contract to buy, and transfer $TCP314 to the contract to sell, without any SWAP transaction. The original 314 protocol is upgraded and expanded, and the pool automatically destroys 6% of the current total number of TCP314 every 24 hours.",
+    "explorer": "https://bscscan.com/token/0x09bE63f589415178017CAb2CA37e8a38661A32dc",
+    "type": "BEP20",
+    "symbol": "TCP314",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x09bE63f589415178017CAb2CA37e8a38661A32dc"
+}

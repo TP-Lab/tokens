@@ -1,0 +1,11 @@
+{
+ "name": "Aronia",
+ "website": "https://bscv3.cwtoken.net",
+ "description": "Aronia Token is a certificate issued by the International Aronia Dao Organization, representing the original equity of the Mountain Ash Enterprise",
+ "explorer": "https://bscscan.com/token/0x0364bf9F0524bCD3DC5799f279D5aD709C3A4d71",
+ "type": "BEP20",
+ "symbol": "Aronia",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0364bf9F0524bCD3DC5799f279D5aD709C3A4d71"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "KOA Token",
+ "website": "https://tokenpocket.pro",
+ "description": "Koala AI is a metaverse development platform supported by four major technologies: artificial intelligence, metaverse, big data, and cloud computing. It integrates numerous AI development tools, creating a new production relationship between developers, users, and platforms, allowing any user to participate in metaverse scene development with low barriers. Greatly promoting the arrival of the global virtual universe era. KOA is the digital asset of Koala AI, and in the process of building the Koala AI meta community, it undertakes functions such as incentive distribution, ecological payment, and value transmission.",
+ "explorer": "https://bscscan.com/token/0xc98e64bc7bfe7241a24e30730333c439f40ac10a",
+ "type": "BEP20",
+ "symbol": "KOA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc98e64bC7Bfe7241a24e30730333c439F40aC10A"
+}

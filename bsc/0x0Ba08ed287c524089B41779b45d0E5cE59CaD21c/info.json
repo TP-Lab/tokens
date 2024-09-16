@@ -1,0 +1,11 @@
+{
+ "name": "Super Car",
+ "website": "-",
+ "description": "Super Car is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x0Ba08ed287c524089B41779b45d0E5cE59CaD21c",
+ "type": "BEP20",
+ "symbol": "SPA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0Ba08ed287c524089B41779b45d0E5cE59CaD21c"
+}

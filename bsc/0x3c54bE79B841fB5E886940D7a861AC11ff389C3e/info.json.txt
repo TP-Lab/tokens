@@ -1,0 +1,11 @@
+{ 
+"name": "oknetwork",
+"website": "https://oknetwork.net/en",
+"description": "Web3'S New Defi Deflationary Ecological Model",
+"explorer": "https://bscscan.com/token/0x3c54be79b841fb5e886940d7a861ac11ff389c3e",
+"type": "BEP20",
+"symbol": "OK",
+"decimals": 18,
+"status": "active",
+"id": "0x3c54bE79B841fB5E886940D7a861AC11ff389C3e"
+}

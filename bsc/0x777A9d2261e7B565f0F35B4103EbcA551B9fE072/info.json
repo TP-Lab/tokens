@@ -1,0 +1,11 @@
+{
+ "name": "Sats",
+ "website": "-",
+ "description": "Sats is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x777A9d2261e7B565f0F35B4103EbcA551B9fE072",
+ "type": "BEP20",
+ "symbol": "Sats",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x777A9d2261e7B565f0F35B4103EbcA551B9fE072"
+}

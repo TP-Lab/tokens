@@ -1,0 +1,11 @@
+{ 
+"name": "XL",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0x5A9Efb4F07BbdC4B40AE12DCC9782e7591E33333",
+"type": "BEP20",
+"symbol": "XL",
+"decimals": 18,
+"status": "active",
+"id": "0x5A9Efb4F07BbdC4B40AE12DCC9782e7591E33333"
+}

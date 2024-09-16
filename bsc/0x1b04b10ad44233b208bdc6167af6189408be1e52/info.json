@@ -1,0 +1,11 @@
+{
+    "name": "IRON",
+    "website": "http://ironman.irondapp.org/ironman",
+    "description": "IronSwap中采用了业界顶级的安全标准。通过将中心池中的流动性细分为更小的LP代币，并直接转移到用户钱包，我们为用户赋予了完全的资产控制权。此外，我们的系统确保了买入和卖出活动的持续向上趋势。固定发行量为1600万枚代币，缩减至160万枚，将自动进行代币销毁和捐赠，促进通缩。官网：http://ironman.irondapp.org/ironman。twitter：https://twitter.com/ironmanweb3",
+    "explorer": "https://bscscan.com/token/0x1b04b10ad44233b208bdc6167af6189408be1e52",
+    "type": "BEP20",
+    "symbol": "IRON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1b04b10ad44233b208bdc6167af6189408be1e52"
+}

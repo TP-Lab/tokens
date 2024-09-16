@@ -1,0 +1,11 @@
+{
+  "name": "LCT web",
+  "website": "https://www.lctweb.live",
+  "description": "LCT web is the basic currency of a social live broadcast platform, which is used to reward anchors, chain games, and even the ecological circulation currency of the entire LIVE MARKET platform.",
+  "explorer": "https://bscscan.com/token/0x2B8F0750C7849f7311967f4Faa4d48F694195E58",
+  "type": "BEP20",
+  "symbol": "LCT web",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2B8F0750C7849f7311967f4Faa4d48F694195E58"
+}

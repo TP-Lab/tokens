@@ -1,0 +1,11 @@
+{
+    "name": "Longinus",
+    "website": "https://originworld.org/",
+    "description": "ORIGIN is a DeFi 3.0 protocol based on the algorithmic non-stable currency LGNS. It aims to build the world's first private and anonymous stablecoin payment ecosystem, set a global financial benchmark and guide future financial development",
+    "explorer": "https://polygonscan.com/token/0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01",
+    "type": "ERC20",
+    "symbol": "LGNS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xeb51d9a39ad5eef215dc0bf39a8821ff804a0f01"
+   }

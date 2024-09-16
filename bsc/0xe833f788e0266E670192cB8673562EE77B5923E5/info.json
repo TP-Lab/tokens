@@ -1,0 +1,11 @@
+{
+ "name": "Vanta Token",
+ "website": "www.vantabtc.vip",
+ "description": "Vanta is a comprehensive digital ecosystem developed with significant investment from the Singapore Hash International Foundation. ",
+ "explorer": "https://bscscan.com/token/0xe833f788e0266E670192cB8673562EE77B5923E5",
+ "type": "BEP20",
+ "symbol": "VTB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe833f788e0266E670192cB8673562EE77B5923E5"
+}

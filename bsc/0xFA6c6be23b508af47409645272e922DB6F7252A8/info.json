@@ -1,0 +1,11 @@
+{
+ "name": "AI coin",
+ "website": "-",
+ "description": "AI coin is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xFA6c6be23b508af47409645272e922DB6F7252A8",
+ "type": "BEP20",
+ "symbol": "AI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFA6c6be23b508af47409645272e922DB6F7252A8"
+}

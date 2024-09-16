@@ -1,0 +1,11 @@
+{
+ "name": "Dudu Memecoin",
+ "website": "https://dudu.bio",
+ "description": "DUDU Coin –  your ultimate MEME token, Designed to bring joy to the crypto world, $DUDU is packed with hilarious memes and endless entertainment.",
+ "explorer": "https://bscscan.com/token/0x7d2d09831e7559955da00995a65bef15141e36a3",
+ "type": "BEP20",
+ "symbol": "DUDU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7d2d09831E7559955da00995a65BeF15141e36A3"
+}

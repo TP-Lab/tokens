@@ -1,0 +1,11 @@
+{ 
+"name": "HGL",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0x16681a36C822d808735F4d3e76F40aa3cc8AFF36",
+"type": "BEP20",
+"symbol": "HGL",
+"decimals": 18,
+"status": "active",
+"id": "0x16681a36C822d808735F4d3e76F40aa3cc8AFF36"
+}

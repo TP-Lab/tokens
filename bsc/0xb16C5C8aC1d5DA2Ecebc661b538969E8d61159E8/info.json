@@ -1,0 +1,11 @@
+{
+ "name": "MCC",
+ "website": "-",
+ "description": "MCC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xb16C5C8aC1d5DA2Ecebc661b538969E8d61159E8",
+ "type": "BEP20",
+ "symbol": " MCC ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb16C5C8aC1d5DA2Ecebc661b538969E8d61159E8"
+}

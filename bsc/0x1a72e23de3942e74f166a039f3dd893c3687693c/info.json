@@ -1,0 +1,11 @@
+{
+    "name": "Roc",
+    "website": "",
+    "description": "RoAc is based on third-generation blockchain technology and takes practical scenarios for secure applications as the starting point. While ensuring the existing security advantages of blockchain technology, it transforms traditional network boundary protection into a new security protection mode involving all network nodes. Through a distributed node consensus mechanism, it resists attacks from malicious nodes and deeply integrates the four dimensions of technology, finance, application, and operation and maintenance, Build a comprehensive blockchain system security and value symbiosis system.",
+    "explorer": "https://bscscan.com/token/0x1a72e23de3942e74f166a039f3dd893c3687693c",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "Roc",
+    "status": "active",
+    "id": "0x1a72e23de3942e74f166a039f3dd893c3687693c"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "WE ARE RATS",
+ "website": "https://sunrats.com/",
+ "description": "Sunrats to the sun.",
+ "explorer": "https://tronscan.io/#/token20/TXq5y1AjZZhbJRzRCA6UYYAxeTa3U4Lh3P",
+ "type": "TRC20",
+ "symbol": "SUNRATS",
+ "decimals": 6,
+ "status": "active",
+ "id": "TXq5y1AjZZhbJRzRCA6UYYAxeTa3U4Lh3P"
+}

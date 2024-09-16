@@ -1,0 +1,11 @@
+{ 
+"name": "UDD",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0x50E448Ca0b1ee7Cd05262559819C00C15963C688",
+"type": "BEP20",
+"symbol": "UDD",
+"decimals": 18,
+"status": "active",
+"id": "0x50E448Ca0b1ee7Cd05262559819C00C15963C688"
+}

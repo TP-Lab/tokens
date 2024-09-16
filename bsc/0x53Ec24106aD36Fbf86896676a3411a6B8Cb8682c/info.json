@@ -1,0 +1,11 @@
+{ 
+"name": "ASB",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0x53Ec24106aD36Fbf86896676a3411a6B8Cb8682c",
+"type": "BEP20",
+"symbol": "ASB",
+"decimals": 18,
+"status": "active",
+"id": "0x53Ec24106aD36Fbf86896676a3411a6B8Cb8682c"
+}

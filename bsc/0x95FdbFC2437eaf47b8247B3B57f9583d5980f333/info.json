@@ -1,0 +1,11 @@
+{
+ "name": "Help Beta",
+ "website": "-",
+ "description": "HELP is the test token for HelpChain on BEP20",
+ "explorer": "https://bscscan.com/address/0x95FdbFC2437eaf47b8247B3B57f9583d5980f333",
+ "type": "BEP20",
+ "symbol": "HELP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x95FdbFC2437eaf47b8247B3B57f9583d5980f333"
+}

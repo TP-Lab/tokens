@@ -1,0 +1,11 @@
+{
+ "name": "FTC",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x36CcD389d863282406609fBA0d2f4ad13E1Ef712",
+ "type": "BEP20",
+ "symbol": "FTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x36CcD389d863282406609fBA0d2f4ad13E1Ef712"
+}

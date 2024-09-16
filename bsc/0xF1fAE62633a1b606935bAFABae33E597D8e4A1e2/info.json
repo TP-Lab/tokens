@@ -1,0 +1,11 @@
+{
+ "name": "MTU",
+ "website": "https://meta.metaspace.cc",
+ "description": "MTU是基于区块链技术采用BNBmint产生的完全去中心化游戏测试点券，由用户mint产生和赎回，可作用于游戏生态测试.",
+ "explorer": "https://bscscan.com/token/0xF1fAE62633a1b606935bAFABae33E597D8e4A1e2",
+ "type": "BEP20",
+ "symbol": "MTU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF1fAE62633a1b606935bAFABae33E597D8e4A1e2"
+}

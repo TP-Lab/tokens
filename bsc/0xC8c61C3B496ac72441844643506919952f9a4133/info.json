@@ -1,0 +1,11 @@
+{
+ "name": "X-413",
+ "website": "-",
+ "description": "X-413 is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xC8c61C3B496ac72441844643506919952f9a4133",
+ "type": "BEP20",
+ "symbol": "X-413",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC8c61C3B496ac72441844643506919952f9a4133"
+}

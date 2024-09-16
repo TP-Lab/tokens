@@ -1,0 +1,11 @@
+{
+    "name": "rSPD",
+    "website": "https://sft.network/",
+    "description": "SFT Chain, a 'Chain of Chains', bridges physical infra with Web3, focusing on a DePIN platform that integrates storage, computing, edge CDN , and beyond.",
+    "explorer": "https://filfox.info/en/token/0x97AAe66a1D2a41eAC573397B7a5656a9cF3E5616",
+    "type": "ERC20",
+    "symbol": "rSPD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x97AAe66a1D2a41eAC573397B7a5656a9cF3E5616"
+}

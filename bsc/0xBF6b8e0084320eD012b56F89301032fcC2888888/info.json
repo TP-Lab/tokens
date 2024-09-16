@@ -1,0 +1,11 @@
+{
+ "name": "ZGL",
+ "website": "-",
+ "description": "ZGL is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xBF6b8e0084320eD012b56F89301032fcC2888888",
+ "type": "BEP20",
+ "symbol": "ZGL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBF6b8e0084320eD012b56F89301032fcC2888888"
+}

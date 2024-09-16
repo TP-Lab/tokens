@@ -1,0 +1,11 @@
+{
+ "name": "Token SunEx",
+ "website": "-",
+ "description": "Token SunEx  is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x64AFFb591Ae12c597Fef6009B176eB5D66289B0d",
+ "type": "BEP20",
+ "symbol": "SunEx",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x64AFFb591Ae12c597Fef6009B176eB5D66289B0d"
+}

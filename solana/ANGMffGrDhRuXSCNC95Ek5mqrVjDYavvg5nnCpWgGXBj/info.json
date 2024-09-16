@@ -1,0 +1,11 @@
+{
+    "name": "SOLE",
+    "website": "solanasole.com",
+    "description": "Sole is a liquidity inscription Fair Launchpad.Sole Total Supply:21000000.",
+    "explorer": "https://explorer.solana.com/address/ANGMffGrDhRuXSCNC95Ek5mqrVjDYavvg5nnCpWgGXBj",
+    "decimals": 9,
+    "type": "Solana",
+    "symbol": "SOLE",
+    "status": "active",
+    "id": "ANGMffGrDhRuXSCNC95Ek5mqrVjDYavvg5nnCpWgGXBj"
+}

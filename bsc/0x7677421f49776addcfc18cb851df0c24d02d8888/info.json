@@ -1,0 +1,11 @@
+{
+ "name": "Mu Token",
+ "website": "https://bscscan.com/token/0x7677421f49776addcfc18cb851df0c24d02d8888",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x7677421f49776addcfc18cb851df0c24d02d8888",
+ "type": "BEP20",
+ "symbol": "Mu",
+ "decimals":18,
+ "status": "active",
+ "id": "0x7677421F49776AddcfC18CB851df0C24d02D8888"
+}

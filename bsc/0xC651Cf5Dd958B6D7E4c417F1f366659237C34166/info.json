@@ -1,0 +1,11 @@
+{ 
+"name": "MOSS",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0xC651Cf5Dd958B6D7E4c417F1f366659237C34166",
+"type": "BEP20",
+"symbol": "MOSS",
+"decimals": 18,
+"status": "active",
+"id": "0xC651Cf5Dd958B6D7E4c417F1f366659237C34166"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "E=MC²",
+	"website": "-",
+	"description": "E=MC² is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+	"explorer": "https://bscscan.com/address/0xC298d75509943156f1B43F8ba9F484827a22c2C2",
+	"type": "BEP20",
+	"symbol": "E=MC²",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xC298d75509943156f1B43F8ba9F484827a22c2C2"
+}

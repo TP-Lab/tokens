@@ -1,0 +1,11 @@
+{ 
+"name": "BabyPando",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0x5e088F555df28634134CD76d4839534049b8BD9c",
+"type": "BEP20",
+"symbol": "BabyPando",
+"decimals": 18,
+"status": "active",
+"id": "0x5e088F555df28634134CD76d4839534049b8BD9c"
+}

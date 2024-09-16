@@ -1,0 +1,11 @@
+{
+  "name": "TokenPocket Token",
+  "website": "https://eth30.cc/",
+  "description": "ETH3.0 is a hard fork coin upgraded from Ethereum Cancun, built on the Ethereum blockchain as the Ethereum ERC-20 version.",
+  "explorer": "https://etherscan.io/token/0xc5ca105cd995df3ee156112dd94e843fd06771b6",
+  "type": "ERC20",
+  "symbol": "ETH3.0",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc5ca105cd995df3ee156112dd94e843fd06771b6"
+}

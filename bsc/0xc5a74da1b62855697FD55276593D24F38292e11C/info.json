@@ -1,0 +1,11 @@
+{
+    "name": "Trump407",
+    "website": "https://trump407.xyz",
+    "description": "The first memecoin based on the ERC-407 protocol, built on the BNB Chain.",
+    "explorer": "https://bscscan.com/token/0xc5a74da1b62855697FD55276593D24F38292e11C",
+    "type": "BEP20",
+    "symbol": "Trump407",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc5a74da1b62855697FD55276593D24F38292e11C"
+   }

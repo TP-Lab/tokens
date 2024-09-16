@@ -1,0 +1,11 @@
+{
+ "name": "BEBE",
+ "website": "-",
+ "description": "BEBE is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://arbiscan.io/token/0x406d59819Bc2AeF682F4Ff2769085c98a264F97b",
+ "type": "Arbitrum",
+ "symbol": "BEBE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x406d59819Bc2AeF682F4Ff2769085c98a264F97b"
+}

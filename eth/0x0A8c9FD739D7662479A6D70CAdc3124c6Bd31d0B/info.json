@@ -1,0 +1,11 @@
+{
+ "name": "BRCP Token",
+ "website": "https://web.brcc.pro/zh-CN/",
+ "description": "BRCC flat NT dollars, fuel fees for transactions on various platforms",
+ "explorer": "https://etherscan.io/address/0x0a8c9fd739d7662479a6d70cadc3124c6bd31d0b",
+ "type": "ERC20",
+ "symbol": "BRCP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0A8c9FD739D7662479A6D70CAdc3124c6Bd31d0B"
+}

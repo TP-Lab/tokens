@@ -1,0 +1,11 @@
+{ 
+"name": "RATS",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0x1fB51187A0a5e9f200D8abfeda8DeFF6ef663355",
+"type": "BEP20",
+"symbol": "RATS",
+"decimals": 18,
+"status": "active",
+"id": "0x1fB51187A0a5e9f200D8abfeda8DeFF6ef663355"
+}

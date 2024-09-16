@@ -1,0 +1,11 @@
+{
+ "name": "DVTS.network",
+ "website": "https://app.dvts.network",
+ "description": "The infrastructure for building high-performance, secure, and decentralized Ethereum re/staking applications. ",
+ "explorer": "https://etherscan.io/address/0x4057efe94743d53c87E0845A92AB210e6BeE01c5",
+ "type": "ERC20",
+ "symbol": "DVTS",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x4057efe94743d53c87E0845A92AB210e6BeE01c5"
+}

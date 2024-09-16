@@ -1,0 +1,11 @@
+{
+ "name": "MOMOJI",
+ "website": "https://momoji.org",
+ "description": "emoji is a gamefi nft project, meme. takes ideas from emotional expressions that belong to hundreds of millions of users. are using it all over the world.",
+ "explorer": "https://bscscan.com/token/0xCb3Ae3099Dc997616b907CEFc9Af5c850a067a4B",
+ "type": "BEP20",
+ "symbol": "EMOJI",
+ "decimals": 18,
+ "status": "active",
+ "id": 0xCb3Ae3099Dc997616b907CEFc9Af5c850a067a4B
+}

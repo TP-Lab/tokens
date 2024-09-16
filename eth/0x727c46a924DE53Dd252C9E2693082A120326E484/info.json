@@ -1,0 +1,11 @@
+{
+ "name": "Hyperlayer",
+ "website": "https://hyperlayer.pro",
+ "description": "The HyperLayer is dedicated to building a more efficient, intelligent, and user-friendly blockchain ecosystem, promoting the widespread adoption and application of blockchain technology, and offering a powerful and flexible infrastructure for users, developers, and enterprises.",
+ "explorer": "https://etherscan.io/token/0x727c46a924de53dd252c9e2693082a120326e484",
+ "type": "ERC20",
+ "symbol": "HL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x727c46a924DE53Dd252C9E2693082A120326E484"
+}

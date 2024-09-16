@@ -1,0 +1,11 @@
+{ 
+"name": "GDS",
+"website": "https://gdsbsc.com/",
+"description": "GDS creates the future",
+"explorer": "https://bscscan.com/token/0xc28F2CFE7407fA6De10544Aa6A286371725982e4",
+"type": "BEP20",
+"symbol": "GDS",
+"decimals": 18,
+"status": "active",
+"id": "0xc28F2CFE7407fA6De10544Aa6A286371725982e4"
+}

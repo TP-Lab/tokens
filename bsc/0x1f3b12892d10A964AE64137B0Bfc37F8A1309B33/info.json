@@ -1,0 +1,11 @@
+{
+ "name": "Ocean Coin",
+ "website": ".",
+ "description": "The Ocean Coin (OCE) is the first public welfare sub-coin of the HELP Chain.",
+ "explorer": "https://bscscan.com/address/0x1f3b12892d10a964ae64137b0bfc37f8a1309b33",
+ "type": "BEP20",
+ "symbol": "OCE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1f3b12892d10A964AE64137B0Bfc37F8A1309B33"
+}

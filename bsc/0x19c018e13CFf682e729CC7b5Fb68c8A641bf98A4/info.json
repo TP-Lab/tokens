@@ -1,0 +1,11 @@
+{
+  "name": "BurnedFi",
+  "website": "https://burnedfi.com",
+  "description": "Burn is the Binance Dragon Head Rune, featuring the world's first dual-burning mechanism, fair, just, and transparent!",
+  "explorer": "https://bscscan.com/token/0x19c018e13cff682e729cc7b5fb68c8a641bf98a4",
+  "type": "BEP20",
+  "symbol": "burn",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x19c018e13CFf682e729CC7b5Fb68c8A641bf98A4"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "DRDA COIN",
+ "website": "https://DRDA.com/",
+ "description": "DRDA is a native token of the DR Alliance, jointly created by hundreds of founding team members of the DR Alliance to create DeFi. Together, they establish permanent dividends and jointly create a market value of tens of thousands of times in the DeFi field",
+ "explorer": "https://bscscan.com/token/0xdc4f6960864f8f8187d626814e27a51d1f44a3d7",
+ "type": "BEP20",
+ "symbol": "DRDA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdc4f6960864F8f8187D626814E27a51D1f44a3d7"
+}
