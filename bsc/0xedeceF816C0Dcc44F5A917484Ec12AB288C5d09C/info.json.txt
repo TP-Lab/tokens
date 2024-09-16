@@ -1,0 +1,11 @@
+{
+ "name": "ATTS",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x73F583DdB5ea7323F82323D8aFf413De89E385b0",
+ "type": "BEP20",
+ "symbol": "ATTS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xedeceF816C0Dcc44F5A917484Ec12AB288C5d09C"
+}
