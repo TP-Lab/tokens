@@ -1,0 +1,11 @@
+{
+ "name": "CopXToken",
+ "website": "https://copx.ai",
+ "description": "copx",
+ "explorer": "https://bscscan.com/address/0x0d4629Ff6D6cA422178dC66A21Eea0DfB182e72c",
+ "type": "BEP20",
+ "symbol": "COPX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0d4629Ff6D6cA422178dC66A21Eea0DfB182e72c"
+}
