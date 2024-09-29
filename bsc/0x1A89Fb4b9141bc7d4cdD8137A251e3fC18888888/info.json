@@ -1,0 +1,11 @@
+{ 
+"name": "FCC",
+"website": ".",
+"description": "Caishen, the Chinese God of Wealth, is a prominent figure in Chinese mythology and folklore. Often depicted with a joyful expression, he is associated with prosperity, abundance, and good fortune. ",
+"explorer": "https://bscscan.com/token/0x1A89Fb4b9141bc7d4cdD8137A251e3fC18888888",
+"type": "BEP20",
+"symbol": "FCC",
+"decimals": 18,
+"status": "active",
+"id": "0x1A89Fb4b9141bc7d4cdD8137A251e3fC18888888"
+}
