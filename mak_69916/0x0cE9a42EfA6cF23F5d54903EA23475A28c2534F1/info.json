@@ -1,0 +1,11 @@
+{ 
+"name": "BCM",
+"website": ".",
+"description": " ",
+"explorer": "https://scan.mak.top/token/0x0cE9a42EfA6cF23F5d54903EA23475A28c2534F1",
+"type": "ERC-20",
+"symbol": "BCM",
+"decimals": 18,
+"status": "active",
+"id": "0x0cE9a42EfA6cF23F5d54903EA23475A28c2534F1"
+}
