@@ -1,7 +1,7 @@
 {
  "name": "CopXToken",
  "website": "https://copx.ai",
- "description": "copx",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
  "explorer": "https://bscscan.com/address/0x0d4629Ff6D6cA422178dC66A21Eea0DfB182e72c",
  "type": "BEP20",
  "symbol": "COPX",
