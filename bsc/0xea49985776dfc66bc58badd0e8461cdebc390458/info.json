@@ -1,0 +1,11 @@
+{ 
+"name": "	PanGuDAO",
+"website": "https://app.fstswap.vip",
+"description": "PGDAO Decentralized DEFI Financial ecology ",
+"explorer": "https://bscscan.com/token/0xea49985776dfc66bc58badd0e8461cdebc390458",
+"type": "BEP20",
+"symbol": "PGDAO",
+"decimals": 18,
+"status": "active",
+"id": "0xea49985776dfc66bc58badd0e8461cdebc390458"
+}
