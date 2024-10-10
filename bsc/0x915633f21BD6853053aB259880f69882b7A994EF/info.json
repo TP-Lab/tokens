@@ -1,0 +1,11 @@
+{
+ "name": "WFAI",
+ "website": "https://wfai.io",
+ "description": "wfai",
+ "explorer": "https://bscscan.com/token/0x915633f21BD6853053aB259880f69882b7A994EF",
+ "type": "BEP20",
+ "symbol": "WFAI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x915633f21BD6853053aB259880f69882b7A994EF"
+}
