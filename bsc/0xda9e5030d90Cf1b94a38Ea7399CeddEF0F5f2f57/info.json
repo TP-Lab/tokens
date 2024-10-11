@@ -1,11 +1,11 @@
 {
-  "name": "big health industry coin  ",
-  "website": "http://www.bhic.cc",
-  "description": "BHIC A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
-  "explorer": "https://bscscan.com/token/0xda9e5030d90cf1b94a38ea7399ceddef0f5f2f57",
-  "type": "BEP20",
-  "symbol": "BHIC",
-  "decimals": 18,
-  "status": "active",
-  "id": "0xda9e5030d90Cf1b94a38Ea7399CeddEF0F5f2f57"
+ "name": "big health industry coin",
+ "website": "http://www.bhic.cc",
+ "description": "BHIC A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xda9e5030d90cf1b94a38ea7399ceddef0f5f2f57",
+ "type": "BEP20",
+ "symbol": "BHIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xda9e5030d90Cf1b94a38Ea7399CeddEF0F5f2f57"
 }
