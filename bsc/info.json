@@ -1,11 +1,11 @@
 {
- "name": "Matrix",
- "website": "https://matrixpro.org",
- "description": "$Reel is the GoLive ecosystem token, and GoLive has created an innovative short video platform. The $Reel token not only incentivizes content creators but also ensures transparent and instant distribution of earnings. Blockchain protects content copyright and user data privacy, promoting fairness and transparency on the platform.",
- "explorer": "https://bscscan.com/token/0x9F21C84F0fD93462955f2Bb07C308647DD09e35E",
- "type": "BEP20",
- "symbol": "Reel",
- "decimals": 18,
- "status": "active",
- "id": "0x9F21C84F0fD93462955f2Bb07C308647DD09e35E"
+  "name": "big health industry coin",
+  "website": "http://www.bhic.cc",
+  "description": "BHIC is the token of a health alliance",
+  "explorer": "https://bscscan.com/token/0xda9e5030d90cf1b94a38ea7399ceddef0f5f2f57",
+  "type": "BEP20",
+  "symbol": "BHIC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xda9e5030d90Cf1b94a38Ea7399CeddEF0F5f2f57"
 }
