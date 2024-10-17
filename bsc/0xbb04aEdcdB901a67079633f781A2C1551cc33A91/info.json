@@ -1,0 +1,11 @@
+{
+  "name": "SIRE COIN",
+  "website": "https://home.coinsire.com",
+  "description": "COIN SIRE is a Web3 aggregated social media platform jointly created by Coin Sire Fund Foundation, Blockchain Association Singapore (BAS), veloza Foundation, Consensys Labs, and other internationally renowned investment organizations. The platform combines innovative technologies such as NFT for IoT users, DID digital identity, Artificial Intelligence Generated Content (AIGC) and Zero Knowledge Proof (ZKP) to ensure the privacy and security of users' data, and is committed to providing a decentralized information distribution and interaction platform for global users through blockchain and Web3 technologies.",
+  "explorer": "https://bscscan.com/address/0xbb04aEdcdB901a67079633f781A2C1551cc33A91",
+  "type": "BEP20",
+  "symbol": "SIRE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbb04aEdcdB901a67079633f781A2C1551cc33A91"
+}
