@@ -1,7 +1,7 @@
 {
     "name": "MIN Token",
     "website": "http://www.minmotions.com",
-    "description": "MIN永动机是基于BSC链MIN代币发射平台，解决MIN赛道，VC机构垄断筹码的痛点，打造健康，可持续，繁荣，公平，公正的MIN币生态.",
+    "description": "",
     "explorer": "https://bscscan.com/token/0xC812316bE6A3Ee958679bb858b11310aDD3aF759",
     "type": "BEP20",
     "symbol": "MIN",
