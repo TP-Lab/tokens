@@ -1,0 +1,11 @@
+{
+ "name": "GoldenRat",
+ "website": "https://goldenrat.org",
+ "description": "original rat | golden rat on @bnbchain",
+ "explorer": "https://bscscan.com/token/0x45787821a0BD5e6bba8E709783C773A386e34D65",
+ "type": "BEP20",
+ "symbol": "RATS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x45787821a0BD5e6bba8E709783C773A386e34D65"
+}
