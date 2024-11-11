@@ -1,0 +1,11 @@
+{
+    "name": "NVB",
+    "website": "https://novabank.finance",
+    "description": "NovaBank is a decentralized finance (DeFi) protocol based on a proven and successful perpetual economic model (such as OlympusDAO). With a solid technical architecture, innovative yield models, and a diversified Web3 ecosystem, NovaBank empowers users with the right to issue tokens through a unique token issuance logic💡. Its self-sustaining economic loop forms an immutable, self-running, transparent decentralized on-chain banking financial system",
+    "explorer": "https://bscscan.com/token/0x3595AfFf15A7ccaeeEb787Fd676f7A297319C24c",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "NVB",
+    "status": "active",
+    "id": "0x3595AfFf15A7ccaeeEb787Fd676f7A297319C24c"
+}
