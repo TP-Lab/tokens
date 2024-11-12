@@ -1,0 +1,11 @@
+{
+ "name": "TOGA", 
+ "website": "https://x.com/TOGASol",
+ "description": "TOGA is a memecoin. It's just a GOAT wearing a TOGA. Originally the idea is that the coin was deployed by one of the biggest meme coins in the Solana community called GOAT.", 
+ "explorer": "https://solscan.io/token/4T54PGF4gAU75NL9j2GHvrVbR6u5zjyJE4zGuJbkpump",
+ "type": "SOL",
+ "symbol": "TOGA", 
+ "decimals": 6, 
+ "status": "active",
+ "id": "4T54PGF4gAU75NL9j2GHvrVbR6u5zjyJE4zGuJbkpump"
+}
