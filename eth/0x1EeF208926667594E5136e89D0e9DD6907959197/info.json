@@ -1,0 +1,11 @@
+{
+ "name": "PEAQ Network",
+ "website": "https://www.peaq.network/",
+ "description": "peaq is a layer-1 blockchain powering the Machine Economy. It is designed to power Decentralized Physical Infrastructure Networks (DePINs)",
+ "explorer": "https://etherscan.io/token/0x1EeF208926667594E5136e89D0e9DD6907959197#code",
+ "type": "ERC20",
+ "symbol": "PEAQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1EeF208926667594E5136e89D0e9DD6907959197"
+}
