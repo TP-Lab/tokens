@@ -1,0 +1,11 @@
+{
+ "name": "MetaTreasure",
+ "website": "https://metatreasure.io",
+ "description": "MTT is a deflationary PRC20 asset on PulseChain, driving value growth through a community-focused, buy-and-burn model within the MetaTreasure ecosystem.",
+ "explorer": "https://bscscan.com/token/0x8ab5bab83e62d647af74631479885556ee9f3410",
+ "type": "ERC20",
+ "symbol": "MTT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8aB5BAB83E62D647aF74631479885556Ee9f3410"
+}
