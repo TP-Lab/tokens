@@ -1,11 +1,11 @@
 {
   "name": "Mars Doge",
   "website":   "-",
-  "description": "Mars Doge: Honoring Elon Musk's vision of Mars and humanity's interstellar future. Starship's ascents herald boundless possibilities, with Mars as the first step. Dogecoin, as a memecoin, uniquely connects with this ambition, inspiring reflection on our future and celebrating Musk's pioneering role.",
+  "description": "Mars Doge: Honoring Elon Musk's vision of Mars and humanity's interstellar future,Starship's ascents herald boundless possibilities, with Mars as the first step. Dogecoin, as a memecoin, uniquely connects with this ambition, inspiring reflection on our future and celebrating Musk's pioneering role.",
   "explorer": "https://bscscan.com/token/0x77ed4e6d616bcd773328d61cf2690225e4cca238",
   "type": "BEP20",
   "symbol": "MDOGE",
   "decimals": 18,
   "status": "active",
   "id": "0x77ED4E6d616BcD773328D61CF2690225E4Cca238"
-}
+ }
