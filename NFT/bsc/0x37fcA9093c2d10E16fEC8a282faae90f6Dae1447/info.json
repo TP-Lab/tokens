@@ -1,0 +1,11 @@
+{
+    "name": "INFINITAR",
+    "website": "https://www.infinitar.com",
+    "description": "Holders will also benefit from exclusive airdrops of INF, the native game NFT, further enhancing their gameplay experience within the Infinitar universe.",
+    "explorer": "https://bscscan.com/token/0x37fcA9093c2d10E16fEC8a282faae90f6Dae1447",
+    "type": "ERC721",
+    "symbol": "NFT",
+    "decimals": 4,
+    "status": "active",
+    "id": "0x37fcA9093c2d10E16fEC8a282faae90f6Dae1447"
+   }
