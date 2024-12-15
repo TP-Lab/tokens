@@ -1,0 +1,13 @@
+{
+    "name": "AVC",
+    "website": "https://www.alterverse.com",
+    "description": "Alterverse is a multi-genre game platform, a leading-edgegame creator with AAA graphics, conversational Al, and nativeWeb3 functionalities.
+Following the completion of the Binance Labs IncubationProgram, AlterVerse announced fundingifrom Binance, Polygon Ventures, Gate.io, Ankr, DuckDAOBaselayer Capital, AltcoinBuzz, lobc Capital, and EnjinStarter.
+The team members' experience comes from their work oniseveral well-known gaming projects and renowned companiesThey have contributed to the development of various famousigames such as "The Witcher" series, "Call of Duty," "World ofWarcraft," "StarCraft," "Destiny," "Guitar Hero," "Clash," "LittleLegends," "Tony Hawk," "Diablo," and "Medal of Honor." Thesegames enjoy high levels of recognition and influence globally",
+    "explorer": "https://bscscan.com/token/0xD34984D7bfF492dC3b2336EAbD1758cE16DDFC2D",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "AVC",
+    "status": "active",
+    "id": "0xD34984D7bfF492dC3b2336EAbD1758cE16DDFC2D"
+}
