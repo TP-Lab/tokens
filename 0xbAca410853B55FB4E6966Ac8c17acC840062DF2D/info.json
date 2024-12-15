@@ -1,0 +1,11 @@
+{
+    "name": "TPTC",
+    "website": "",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xbAca410853B55FB4E6966Ac8c17acC840062DF2D",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "TPTC",
+    "status": "active",
+    "id": "0xbAca410853B55FB4E6966Ac8c17acC840062DF2D"
+}
