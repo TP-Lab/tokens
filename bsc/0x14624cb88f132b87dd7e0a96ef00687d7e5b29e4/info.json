@@ -1,0 +1,10 @@
+{
+ "name": "AIE",
+ "website": "https://aie.zone/",
+ "description": "AI Eutopia: Constructing Digital Eternity, Challenging the Core of Human Understanding\nAs you stand before this world woven from boundless data, envision a realm where blockchain technology ensures not merely the persistence but the eternal flourishing of thoughts, memories, and consciousness. Here, death's veil thins as digital immortality becomes attainable: an age in which humanity and AI no longer merely exchange roles of creator and tool, but evolve into a civilization coexisting, co-building, and co-thriving in new dimensions.",
+ "explorer": "https://bscscan.com/address/0x14624cb88f132b87dd7e0a96ef00687d7e5b29e4",
+ "type": "BEP20",
+ "symbol": "AIE",
+ "decimals": 18,
+ "status": "active"
+}
