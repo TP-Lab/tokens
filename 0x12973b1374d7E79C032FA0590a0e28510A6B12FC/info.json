@@ -1,0 +1,11 @@
+{ 
+"name": "GoKu Black ",
+"website": "https://gokublack.vip",
+"description": "Japanese anime IP Black Goku",
+"explorer": "https://bscscan.com/address/0x12973b1374d7E79C032FA0590a0e28510A6B12FC",
+"type": "BEP20",
+"symbol": "GKB",
+"decimals": 18,
+"status": "active",
+"id": "0x12973b1374d7E79C032FA0590a0e28510A6B12FC"
+}
