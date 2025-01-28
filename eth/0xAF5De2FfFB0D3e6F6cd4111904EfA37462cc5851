@@ -1,0 +1,11 @@
+{
+	"name": "X",
+	"website": "http://x-alliance.online",
+	"description": "X币，作为数字货币领域的一个前沿分支，结合了区块链技术、密码学以及智能合约等先进技术，正逐步成为数字经济时代的重要支付和交易工具。",
+	"explorer": "https://etherscan.io/address/0xAF5De2FfFB0D3e6F6cd4111904EfA37462cc5851",
+	"type": "ERC20",
+	"symbol": "X",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xAF5De2FfFB0D3e6F6cd4111904EfA37462cc5851"
+}
