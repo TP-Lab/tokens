@@ -1,0 +1,11 @@
+{
+ "name": "VTC",
+ "website": "https://vex-co.com",
+ "description": "VTC is the core governance and utility token of the VEX Digital Asset Exchange platform (referred to as VEX). It has a wide range of applications within the VEX ecosystem. The total supply is 100 million tokens, which will later be continuously burned through various ecosystem applications until it deflates to 10 million tokens.",
+ "explorer": "https://bscscan.com/token/0xD01B00251da90fD8D6c8920A577Cd72939c9ce47",
+ "type": "BEP20",
+ "symbol": "VTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD01B00251da90fD8D6c8920A577Cd72939c9ce47"
+}
