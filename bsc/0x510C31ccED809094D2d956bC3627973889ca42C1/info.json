@@ -1,0 +1,11 @@
+{
+  "name": "MetaLink Coin",
+  "website": "https://home.metalinkcoin.com/",
+  "description": "is a Web3.0 meta-universe ecological project invested by Singapore's Du Capital Founder",
+  "explorer": "https://bscscan.com/token/0x510C31ccED809094D2d956bC3627973889ca42C1",
+  "type": "BEP20",
+  "symbol": "ML",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x510C31ccED809094D2d956bC3627973889ca42C1"
+}

@@ -1,0 +1,11 @@
+{ 
+"name": "Fair Token",
+"website": "https://gameverse.vip",
+"description": "Game Mining Token",
+"explorer": "https://bscscan.com/address/0xcc21f75ff719ae44e9acabd59d899c7b364b60c0",
+"type": "BEP20",
+"symbol": "FT",
+"decimals": 18,
+"status": "active",
+"id": "0xcc21f75ff719ae44e9acabd59d899c7b364b60c0"
+}

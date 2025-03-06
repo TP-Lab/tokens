@@ -1,0 +1,11 @@
+{
+    "name": "BurnToMoon",
+    "website": "https://x.com/BurnToMoon",
+    "description": "BurnToMoon",
+    "explorer": "https://arbiscan.io/token/0x09dE1513f9406eD44F713f59e9F712Ae12448D58",
+    "type": "ERC20",
+    "symbol": "BurnToMoon",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x09dE1513f9406eD44F713f59e9F712Ae12448D58"
+   }

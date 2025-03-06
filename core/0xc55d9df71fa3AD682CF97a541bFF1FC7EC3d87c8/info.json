@@ -1,0 +1,11 @@
+{
+    "name": "TuGou",
+    "website": ".",
+    "description": "TuGouToKen is initiated by the CoreChain TuGou community in collaboration with many outstanding community leaders. The TuGou dog embodies admirable qualities such as honesty, loyalty, and bravery, promoting the ancient and traditional Oriental cultural atmosphere. It aims to challenge various Western pet dogs in the meme sector of the crypto field!",
+    "explorer": "https://scan.coredao.org/token/0xc55d9df71fa3ad682cf97a541bff1fc7ec3d87c8",
+    "type": ERC20",
+    "symbol": "TuGou",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc55d9df71fa3AD682CF97a541bFF1FC7EC3d87c8"
+}

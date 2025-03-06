@@ -1,0 +1,11 @@
+{
+ "name": "GoldenCat",
+ "website": "https://goldencat.io/",
+ "description": "Golden Cat was born at BnbChain and is on the path to become a true Golden Cat",
+ "explorer": "https://bscscan.com/token/0x4f7eA8F6487a7007ca054F35c4a7b961f5b18961",
+ "type": "BEP20",
+ "symbol": "CATS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4f7eA8F6487a7007ca054F35c4a7b961f5b18961"
+}

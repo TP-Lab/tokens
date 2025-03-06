@@ -1,0 +1,11 @@
+{
+ "name": "Super Pay Club",
+ "website": "http://www.superpay.club",
+ "description": "The project team is a joint effort of top geeks from Singapore, Malaysia, South Korea, and TRON mining nodes to launch Superpay. To obtain Superpay SPC, you must participate in TRON International.",
+ "explorer": "https://bscscan.com/token/0xe2fad42f87bb7aac8384339f08b37d495ce02ccc",
+ "type": "BEP20",
+ "symbol": "SPC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xE2FaD42f87BB7AAc8384339f08b37D495ce02CCC"
+}

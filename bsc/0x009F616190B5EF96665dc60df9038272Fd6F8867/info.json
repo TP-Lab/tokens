@@ -1,0 +1,11 @@
+{
+ "name": "ATTS",
+ "website": "-",
+ "description": "ATTS is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x009F616190B5EF96665dc60df9038272Fd6F8867",
+ "type": "BEP20",
+ "symbol": " ATTS ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x009F616190B5EF96665dc60df9038272Fd6F8867"
+}

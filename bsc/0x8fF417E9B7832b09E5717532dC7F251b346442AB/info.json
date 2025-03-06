@@ -1,0 +1,11 @@
+{
+ "name": "unamano",
+ "website": "-",
+ "description": "unamano is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x8fF417E9B7832b09E5717532dC7F251b346442AB",
+ "type": "BEP20",
+ "symbol": " whypad ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8fF417E9B7832b09E5717532dC7F251b346442AB"
+}

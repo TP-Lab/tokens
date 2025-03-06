@@ -1,0 +1,12 @@
+{ 
+"name": "ENTT",
+"website": "https://youtube.com/@FruttiDinoOfficial?si=zj3Hz2D7D5TwboTI",
+"description": "Entropy platform’s blockchain game ecosystem will launch its first GameFi+DeFi Dino protocol, officially on July 1.
+As the first DeFi protocol introduced by the platform, the issuance of the game application token, Dino, will not only be utilized within the initial game but will also circulate across multiple game ecosystems in the future.",
+"explorer": "https://bscscan.com/token/0xAAd4D857B13562e94D6c24FeF05353A155F7D984",
+"type": "BEP20",
+"symbol": "ENTT",
+"decimals": 18,
+"status": "active",
+"id": "0xAAd4D857B13562e94D6c24FeF05353A155F7D984"
+}

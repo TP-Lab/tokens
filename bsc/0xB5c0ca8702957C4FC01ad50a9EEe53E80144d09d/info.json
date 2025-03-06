@@ -1,0 +1,11 @@
+{
+ "name": "BET",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xB5c0ca8702957C4FC01ad50a9EEe53E80144d09d",
+ "type": "BEP20",
+ "symbol": "BET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB5c0ca8702957C4FC01ad50a9EEe53E80144d09d"
+}

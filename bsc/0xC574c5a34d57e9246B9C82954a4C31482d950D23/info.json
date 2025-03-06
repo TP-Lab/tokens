@@ -1,0 +1,11 @@
+{ 
+"name": "Game Value ",
+"website": "https://gameverse.vip",
+"description": "Hamster Run Game Mining Token",
+"explorer": "https://bscscan.com/address/0xC574c5a34d57e9246B9C82954a4C31482d950D23",
+"type": "BEP20",
+"symbol": "GV",
+"decimals": 18,
+"status": "active",
+"id": "0xC574c5a34d57e9246B9C82954a4C31482d950D23"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "TNU",
+	"website": "-",
+	"description": "TNU is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+	"explorer": "https://bscscan.com/address/0xc858731BC6f4172bdDa198293CD7cdF9A40e51D0",
+	"type": "BEP20",
+	"symbol": "TNU",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xc858731BC6f4172bdDa198293CD7cdF9A40e51D0"
+}

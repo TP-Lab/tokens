@@ -1,0 +1,11 @@
+{
+ "name": "HARRIS",
+ "website": "https://kamala.vip",
+ "description": "Kamala Harris - When we fight, we win.",
+ "explorer": "https://etherscan.io/address/0x2b640A99991dea2916205ECdc9F9c58F80017ed8",
+ "type": "ERC20",
+ "symbol": "KAMALA",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2b640A99991dea2916205ECdc9F9c58F80017ed8"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MadHouse Token",
+ "website": "https://madhouse404.com",
+ "description": Memecoin based on TRX.",
+ "explorer": "https://tronscan.io/#/token20/TBoupmmqSwULKpa3jQJZuWNPDpbzfT2Grh",
+ "type": "TRC20",
+ "symbol": "MAD",
+ "decimals": 6,
+ "status": "active",
+ "id": "TBoupmmqSwULKpa3jQJZuWNPDpbzfT2Grh"
+}

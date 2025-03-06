@@ -1,0 +1,11 @@
+{
+ "name": "YOZI",
+ "website": "https://bscscan.com/token/0x71fD2ae67d6550c3a0b92382a742957FF8B38CBC",
+ "description": "YOZI",
+ "explorer": "https://bscscan.com/token/0x71fD2ae67d6550c3a0b92382a742957FF8B38CBC",
+ "type": "BEP20",
+ "symbol": "YOZI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0X71FD2AE67D6550C3A0B92382A742957FF8B38CBC"
+}
