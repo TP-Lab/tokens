@@ -1,0 +1,12 @@
+{
+  "name": "Dreamwalker Token",
+  "website": "www.dreamwalker.im",
+  "description": "DREAM's First Principles: Play-to-Earn, Powered by Elon Musk's Philosophy,DREAM ensures endless opportunities to earn",
+  "explorer": "https://bscscan.com/token/0xc6b5830fEF20b518Fd5ef757AD78Ea93b13a12Af",
+  "type": "BEP20",
+  "symbol": "DREAM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc6b5830fEF20b518Fd5ef757AD78Ea93b13a12Af"
+  "logoURI": "https://github.com/enjintoken/tokens/blob/master/bsc/0xc6b5830fEF20b518Fd5ef757AD78Ea93b13a12Af.png"
+}
