@@ -1,0 +1,11 @@
+{
+ "name": "samsung",
+ "website": "https://bsc.sgtmoon.com/h5/",
+ "description": "In 2024, Samsung Gold, a subsidiary of Samsung Group in South Korea, launched an art digitization project and established the world's first art digitization public chain SGC, with the underlying token~SGT.",
+ "explorer": "https://bscscan.com/address/0xC29fd86D3A1AA82eBc56e6Fe2AC9D3795D1d4bda",
+ "type": "BEP20",
+ "symbol": "SGT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC29fd86D3A1AA82eBc56e6Fe2AC9D3795D1d4bda"
+}
