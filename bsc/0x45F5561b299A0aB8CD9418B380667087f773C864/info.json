@@ -1,0 +1,11 @@
+{
+ "name": "OPA",
+ "website": "https://dapp.opab.world/",
+ "description": "OPA is Building a decentralized, secure, and transparent smart contract project based on blockchain technology.",
+ "explorer": "https://bscscan.com/token/0x45F5561b299A0aB8CD9418B380667087f773C864",
+ "type": "BEP20",
+ "symbol": "OPA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x45F5561b299A0aB8CD9418B380667087f773C864"
+}
