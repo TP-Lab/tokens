@@ -1,0 +1,21 @@
+{
+    "name": "Ramestta",
+    "symbol": "RAMA",
+    "decimals": 18,
+    "chainId": 1370,
+    "rpc": [
+      "https://blockchain.ramestta.com",
+      "https://blockchain2.ramestta.com"
+    ],
+    "explorer": "https://ramascan.com/",
+    "logoURI": "https://raw.githubusercontent.com/abhishekrajput1235/tokens/main/blockchains/ramestta/logo.png",
+    "website": "https://ramestta.com",
+    "description": "Ramestta is an Layer 2 EVM-compatible blockchain where Layer 1 is Polygon with fast, secure, and scalable infrastructure for DeFi, NFTs, and dApps.",
+    "tags": [
+      "evm",
+      "defi",
+      "nfts",
+      "Layer 2"
+    ]
+  }
+  
