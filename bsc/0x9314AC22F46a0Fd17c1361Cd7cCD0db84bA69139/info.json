@@ -1,0 +1,11 @@
+{
+    "name": "SPT Coin",
+    "website": "https://superplanet.vip/",
+    "description": "SPT is a universal token for the Super Planet Exchange platform.",
+    "explorer": "https://bscscan.com/token/0x9314AC22F46a0Fd17c1361Cd7cCD0db84bA69139",
+    "type": "BEP20",
+    "symbol": "SPT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9314AC22F46a0Fd17c1361Cd7cCD0db84bA69139"
+}
