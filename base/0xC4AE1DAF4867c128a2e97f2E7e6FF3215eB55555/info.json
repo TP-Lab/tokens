@@ -1,0 +1,11 @@
+{
+  "name": "Akashi Core",
+  "website": "https://www.akashicore.com",
+  "description": "This is a meme token built based on the Akashi public chain brand",
+  "explorer": "https://basescan.org/token/0xc4ae1daf4867c128a2e97f2e7e6ff3215eb55555",
+  "type": "ERC20",
+  "symbol": "AKC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xC4AE1DAF4867c128a2e97f2E7e6FF3215eB55555"
+}
