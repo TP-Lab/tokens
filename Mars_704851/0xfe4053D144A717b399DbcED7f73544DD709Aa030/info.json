@@ -2,7 +2,7 @@
     "name": "MCD",
     "website": "https://www.mars-chain.io.",
     "description": " ",
-    "explorer": "https://explorer.marschain.io/token/0xfe4053D144A717b399DbcED7f73544DD709Aa030",
+    "explorer": "https://explorer.mars-chain.io/token/0xfe4053D144A717b399DbcED7f73544DD709Aa030",
     "type": "ERC20",
     "symbol": "MCD",
     "decimals": 18,
