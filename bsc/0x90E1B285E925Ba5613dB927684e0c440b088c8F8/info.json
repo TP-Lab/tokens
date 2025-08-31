@@ -1,0 +1,11 @@
+{
+ "name": "ACME",
+ "website": "https://acmeweb.cc",
+ "description": "Virtual Coins Based on CoinSafe Chain and Web3 Technology.",
+ "explorer": "https://bscscan.com/token/0x90e1b285e925ba5613db927684e0c440b088c8f8",
+ "type": "BEP20",
+ "symbol": "ACME",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x90E1B285E925Ba5613dB927684e0c440b088c8F8"
+}
