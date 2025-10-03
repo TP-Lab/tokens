@@ -1,0 +1,11 @@
+{
+ "name": "FreeType",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x6B89cc437dDE3C1Df8cB357ECA59ffA577888888",
+ "type": "BEP20",
+ "symbol": "FT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6B89cc437dDE3C1Df8cB357ECA59ffA577888888"
+}

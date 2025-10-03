@@ -1,0 +1,11 @@
+{
+ "name": "GamePunks",
+ "website": "www.gamepunk.io",
+ "description": "GamePunks is a GameFi platform inspired by CryptoPunks and the first app on AIConnect a blockchain for AI supercomputing",
+ "explorer": "https://bscscan.com/address/0x1f25b56c6f282fad629f7e871bc0ab4711d70f72",
+ "type": "BEP20",
+ "symbol": "GPS",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x1f25B56C6f282FAd629f7E871bc0ab4711d70f72"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "ME",
+ "website": "",
+ "description": ".",
+ "explorer": "https://blockscout-mainnet.akashicrecords.io/token/0x1a70923a28D60Cbc7787c3c1BBbDfbd542750fF4",
+ "type": "ERC20",
+ "symbol": "ME ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1a70923a28D60Cbc7787c3c1BBbDfbd542750fF4"
+}

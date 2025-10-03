@@ -1,0 +1,11 @@
+{
+ "name": "AnyDex",
+ "website": "https://www.anydex.org/",
+ "description": "AnyDex is a decentralized exchange (DEX) for gasless, taxless trading of DeFi assets, real-world assets (RWAs), and traditional financial assets like stocks and options. Using a synthetic trades model backed by USDT, it avoids high fees and depegging risks, unlocking a multi-trillion-dollar market.",
+ "explorer": "https://etherscan.io/token/0x83389cb4e4f0bff39915efa839cb827460e70d26",
+ "type": "ERC20",
+ "symbol": "ADX",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x83389cb4e4F0bFF39915efa839CB827460e70D26"
+}

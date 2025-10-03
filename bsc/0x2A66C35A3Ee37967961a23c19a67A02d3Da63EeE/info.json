@@ -1,0 +1,11 @@
+{
+ "name": "BGN",
+ "website": "-",
+ "description": "BGN is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x2A66C35A3Ee37967961a23c19a67A02d3Da63EeE",
+ "type": "BEP20",
+ "symbol": "BGN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2A66C35A3Ee37967961a23c19a67A02d3Da63EeE"
+}

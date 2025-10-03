@@ -1,0 +1,11 @@
+{
+ "name": "FIST",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x49717878ffCf8945c627ADC7f9D056eDee1feb1e",
+ "type": "BEP20",
+ "symbol": "FIST",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x49717878ffCf8945c627ADC7f9D056eDee1feb1e"
+}

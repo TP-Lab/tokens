@@ -1,0 +1,11 @@
+{
+ "name": "BTC Energy Stone",
+ "website": "http://www.energystoneco.com/",
+ "description": "BTC Energy Stone",
+ "explorer": "https://bscscan.com/token/0x1D50EDfD9f756dB67ee4f43B7Af156bc3DCf1A68",
+ "type": "BEP20",
+ "symbol": "BES",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1D50EDfD9f756dB67ee4f43B7Af156bc3DCf1A68"
+}
