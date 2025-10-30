@@ -1,0 +1,11 @@
+{
+  "name": "VTF Token",
+  "symbol": "VTF",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf1094ca0c4b2EF11b9fCd36550ac322A39E666F1",
+  "website": "",
+  "description": "VTF 是 VTGO 生态的金融引擎，构建「能量 + 金融 + 共识」的去中心化生态。",
+  "explorer": "https://bscscan.com/token/0xf1094ca0c4b2EF11b9fCd36550ac322A39E666F1"
+}
