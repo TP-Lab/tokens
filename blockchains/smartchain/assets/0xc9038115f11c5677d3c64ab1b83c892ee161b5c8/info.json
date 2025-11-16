@@ -1,0 +1,16 @@
+{
+  "name": "ArriveOnTime",
+  "symbol": "AOT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "ArriveOnTime (AOT) is a Web3 token that focuses on public welfare and mutual assistance. 1% of each transaction is used for the global aid pool, and community members can initiate proposals for various public welfare actions.",
+  "website": "https://arriveontime.xyz",
+  "explorer": "https://bscscan.com/token/0xc9038115f11c5677d3c64ab1b83c892ee161b5c8",
+  "status": "active",
+  "id": "0xc9038115f11c5677d3c64ab1b83c892ee161b5c8",
+  "social": {
+    "telegram": "https://t.me/ArriveOnTime_Community",
+    "twitter": "https://twitter.com/arrive_ontime",
+    "email": "arriveontime2025@gmail.com"
+  }
+}
