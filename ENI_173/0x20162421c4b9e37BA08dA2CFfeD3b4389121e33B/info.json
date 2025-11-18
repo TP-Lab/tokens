@@ -1,0 +1,11 @@
+{
+    "name": "Melex",
+    "website": ".",
+    "description": " ",
+    "explorer": "https://scan.eniac.network/token/0x20162421c4b9e37BA08dA2CFfeD3b4389121e33B",
+    "type": ERC20",
+    "symbol": "Melex",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x20162421c4b9e37BA08dA2CFfeD3b4389121e33B"
+}
