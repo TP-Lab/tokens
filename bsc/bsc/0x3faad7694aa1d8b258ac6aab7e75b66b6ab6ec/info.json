@@ -1,0 +1,11 @@
+{
+  "name": "OnlyBinary",
+  "symbol": "BNRY",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "BNRY is a meme-token promoting the idea of biological duality – male and female – as a foundation of life.",
+  "website": "https://onlybinary.com",
+  "explorer": "https://bscscan.com/token/0xf3adad7694aa1d8b5285ac6aab7e7505b66ba6ec",
+  "status": "active",
+  "id": "0xf3adad7694aa1d8b5285ac6aab7e7505b66ba6ec"
+}
