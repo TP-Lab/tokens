@@ -3,7 +3,7 @@
     "website": ".",
     "description": " ",
     "explorer": "https://scan.eniac.network/token/0x32ff5Ca0B271873aB51794714Ec637e17C13754D",
-    "type": ERC20",
+    "type": "ERC20",
     "symbol": "FOX",
     "decimals": 18,
     "status": "active",
