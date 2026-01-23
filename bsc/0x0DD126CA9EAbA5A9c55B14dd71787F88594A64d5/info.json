@@ -1,0 +1,25 @@
+{
+  "name": "Turbo USD Finance",
+  "symbol": "USDT",
+  "type": "BEP20",
+  "decimals": 18,
+  "website": "https://turbousd.io",
+  "description": "Turbo USD Finance is an independent USD-pegged stablecoin on BNB Smart Chain. 1:1 USD-backed token designed for fast, low-cost DeFi transactions. Independent project - not affiliated with Tether Holdings Limited.",
+  "explorer": "https://bscscan.com/token/0x0DD126CA9EAbA5A9c55B14dd71787F88594A64d5",
+  "status": "active",
+  "id": "0x0DD126CA9EAbA5A9c55B14dd71787F88594A64d5",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/nenzybrown"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/turbousdcommunity"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/Nenzy10/Turbousd.io"
+    }
+  ]
+}
