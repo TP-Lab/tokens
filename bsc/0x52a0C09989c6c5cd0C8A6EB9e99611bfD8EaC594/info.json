@@ -1,0 +1,11 @@
+{
+  "name": "bfb",
+  "website": "http://www.bfbokok.com",
+  "description": "BFB（Blockchain Foundation BFB）是Web3.0 生态级基础设施项目，定位于重构数字资产流通体系，打造多维度价值互联网。其核心理念是“技术驱动生态互通”，通过统一的底层协议与开放的应用接口，实现不同业务模块之间的高效协同。项目在设计之初便将区块链性能、合规性与生态应用的落地作为整体架构的三大核心支柱，力求在复杂的行业环境中建立一个可持续、开放、包容的去中心化生态。",
+  "explorer": "https://bscscan.com/token/0x52a0c09989c6c5cd0c8a6eb9e99611bfd8eac594",
+  "type": "BEP20",
+  "symbol": "BFB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x52a0C09989c6c5cd0C8A6EB9e99611bfD8EaC594"
+}
