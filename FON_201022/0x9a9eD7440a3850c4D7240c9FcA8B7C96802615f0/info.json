@@ -2,7 +2,7 @@
  "name": "USDT",
  "website": "",
  "description": "not official USDT issued by Tether, please use at your own risks.",
- "explorer": "",
+ "explorer": "https://fonscan.io/token/0x9a9eD7440a3850c4D7240c9FcA8B7C96802615f0",
  "type": "ERC20",
  "symbol": "USDT",
  "decimals": 18,
