@@ -1,0 +1,11 @@
+{
+ "name": "Mova USD1",
+ "website": "..",
+ "description": "",
+ "explorer": "https://scan.movachain.com/token/0x57B84A31E00eF4378E6b2D30703b73d02Aee13f8",
+ "type": "MRC-20",
+ "symbol": "USD1 ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x57B84A31E00eF4378E6b2D30703b73d02Aee13f8"
+}
