@@ -1,0 +1,11 @@
+{ 
+    "name": "密马.com",
+    "website": "https://密马.com",
+    "description": "The world's largest-ever Merkel tree airdrop system, distributing 31.1 million wallet addresses; a Turing-complete Web3 chat app featuring post-quantum lattice-based encryption.",
+    "explorer": "https://bscscan.com/token/0x9999991DDb8aAfc8d761e14D4909b98E35999999",
+    "type": "BEP20",
+    "symbol": "密马.com",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9999991DDb8aAfc8d761e14D4909b98E35999999"
+}
