@@ -1,0 +1,11 @@
+{
+ "name": "JiuCaiBi",
+ "website": "",
+ "description": "JiuCaiBi (JCC) - BEP20 Token on BNB Smart Chain",
+ "explorer": "https://bscscan.com/token/0x992c30DD833E65586c6CEe32686dBE0cdCA077cc",
+ "type": "BEP20",
+ "symbol": "JCC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x992c30DD833E65586c6CEe32686dBE0cdCA077cc"
+}
