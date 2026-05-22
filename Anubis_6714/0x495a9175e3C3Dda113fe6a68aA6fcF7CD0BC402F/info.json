@@ -1,0 +1,11 @@
+{
+  "name": "AOS",
+  "website": "",
+  "description": "AOS token on Anubis.",
+  "explorer": "https://browser.anubispace.org/token/0x495a9175e3C3Dda113fe6a68aA6fcF7CD0BC402F",
+  "type": "ERC-20",
+  "symbol": "AOS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x495a9175e3C3Dda113fe6a68aA6fcF7CD0BC402F"
+}

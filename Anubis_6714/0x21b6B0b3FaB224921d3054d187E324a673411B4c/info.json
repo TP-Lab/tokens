@@ -1,0 +1,11 @@
+{
+  "name": "GD",
+  "website": "",
+  "description": "GD token on Anubis.",
+  "explorer": "https://browser.anubispace.org/token/0x21b6B0b3FaB224921d3054d187E324a673411B4c",
+  "type": "ERC-20",
+  "symbol": "GD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x21b6B0b3FaB224921d3054d187E324a673411B4c"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "LGNS",
+  "website": "",
+  "description": "LGNS token on Anubis.",
+  "explorer": "https://browser.anubispace.org/token/0x4D1D808a081FdAc440703b3765FC61f8028C06B8",
+  "type": "ERC-20",
+  "symbol": "LGNS",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x4D1D808a081FdAc440703b3765FC61f8028C06B8"
+}

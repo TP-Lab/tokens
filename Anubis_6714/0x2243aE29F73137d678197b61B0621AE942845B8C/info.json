@@ -1,0 +1,11 @@
+{
+  "name": "sLGNS",
+  "website": "",
+  "description": "sLGNS token on Anubis.",
+  "explorer": "https://browser.anubispace.org/token/0x2243aE29F73137d678197b61B0621AE942845B8C",
+  "type": "ERC-20",
+  "symbol": "sLGNS",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x2243aE29F73137d678197b61B0621AE942845B8C"
+}
