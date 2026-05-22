@@ -1,0 +1,11 @@
+{
+  "name": "USDT",
+  "website": "https://anubischain.ai/",
+  "description": "USDT token on Anubis.",
+  "explorer": "https://browser.anubispace.org/token/0xDfb6a28BC6DC51fed17c27C880F2c66cDd040A3e",
+  "type": "ERC-20",
+  "symbol": "USDT",
+  "decimals": 6,
+  "status": "active",
+  "id": "0xDfb6a28BC6DC51fed17c27C880F2c66cDd040A3e"
+}

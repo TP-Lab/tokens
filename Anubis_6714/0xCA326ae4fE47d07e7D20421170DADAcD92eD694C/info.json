@@ -1,0 +1,11 @@
+{
+  "name": "ETH",
+  "website": "https://anubischain.ai/",
+  "description": "ETH token on Anubis.",
+  "explorer": "https://browser.anubispace.org/token/0xCA326ae4fE47d07e7D20421170DADAcD92eD694C",
+  "type": "ERC-20",
+  "symbol": "ETH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xCA326ae4fE47d07e7D20421170DADAcD92eD694C"
+}
