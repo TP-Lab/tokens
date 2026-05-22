@@ -1,6 +1,6 @@
 {
   "name": "Dai Stablecoin",
-  "website": "",
+  "website": "https://anubischain.ai/",
   "description": "DAI token on Anubis.",
   "explorer": "https://browser.anubispace.org/token/0x83fd06F0846d9D90B3016bF670Efe2E0B11cDe14",
   "type": "ERC-20",

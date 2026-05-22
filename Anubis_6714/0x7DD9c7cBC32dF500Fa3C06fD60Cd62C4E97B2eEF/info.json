@@ -1,6 +1,6 @@
 {
   "name": "USDC",
-  "website": "",
+  "website": "https://anubischain.ai/",
   "description": "USDC token on Anubis.",
   "explorer": "https://browser.anubispace.org/token/0x7DD9c7cBC32dF500Fa3C06fD60Cd62C4E97B2eEF",
   "type": "ERC-20",

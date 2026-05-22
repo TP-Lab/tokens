@@ -1,6 +1,6 @@
 {
   "name": "AOS",
-  "website": "",
+  "website": "https://anubischain.ai/",
   "description": "AOS token on Anubis.",
   "explorer": "https://browser.anubispace.org/token/0x495a9175e3C3Dda113fe6a68aA6fcF7CD0BC402F",
   "type": "ERC-20",

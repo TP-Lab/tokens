@@ -1,6 +1,6 @@
 {
   "name": "POL",
-  "website": "",
+  "website": "https://anubischain.ai/",
   "description": "POL token on Anubis.",
   "explorer": "https://browser.anubispace.org/token/0x72cf15f74657Bb00dd1D8Dd475248dEe644F689A",
   "type": "ERC-20",

@@ -1,6 +1,6 @@
 {
   "name": "BNB",
-  "website": "",
+  "website": "https://anubischain.ai/",
   "description": "BNB token on Anubis.",
   "explorer": "https://browser.anubispace.org/token/0x699D13487Ed6b78953da2750887B58Ef738f9636",
   "type": "ERC-20",

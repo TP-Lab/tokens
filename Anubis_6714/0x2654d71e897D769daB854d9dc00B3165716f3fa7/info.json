@@ -1,6 +1,6 @@
 {
   "name": "Sweets",
-  "website": "",
+  "website": "https://anubischain.ai/",
   "description": "Sweets token on Anubis.",
   "explorer": "https://browser.anubispace.org/token/0x2654d71e897D769daB854d9dc00B3165716f3fa7",
   "type": "ERC-20",

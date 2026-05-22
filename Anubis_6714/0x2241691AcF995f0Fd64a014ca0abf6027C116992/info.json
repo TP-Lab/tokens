@@ -1,6 +1,6 @@
 {
   "name": "VST",
-  "website": "",
+  "website": "https://anubischain.ai/",
   "description": "VST token on Anubis.",
   "explorer": "https://browser.anubispace.org/token/0x2241691AcF995f0Fd64a014ca0abf6027C116992",
   "type": "ERC-20",
