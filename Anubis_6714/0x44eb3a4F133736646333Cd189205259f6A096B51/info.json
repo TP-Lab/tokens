@@ -1,0 +1,11 @@
+{
+  "name": "LEE",
+  "website": "https://github.com/yvonlcy/lee-anubis-token",
+  "description": "LEE is a fixed-supply ERC20 token deployed on Anubis Chain Mainnet to test real on-chain token deployment, gasDAI usage, Blockscout explorer behavior, and RocketSwap liquidity operations.",
+  "explorer": "https://browser.anubispace.org/token/0x44eb3a4F133736646333Cd189205259f6A096B51",
+  "type": "ERC20",
+  "symbol": "LEE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x44eb3a4F133736646333Cd189205259f6A096B51"
+}
