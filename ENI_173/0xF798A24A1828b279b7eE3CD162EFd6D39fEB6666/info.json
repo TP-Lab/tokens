@@ -1,0 +1,11 @@
+{
+    "name": "GMG",
+    "website": "https://www.eniac.network",
+    "description": " ",
+    "explorer": "https://scan.eniac.network/token/0xF798A24A1828b279b7eE3CD162EFd6D39fEB6666",
+    "type": "ERC20",
+    "symbol": "GMG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF798A24A1828b279b7eE3CD162EFd6D39fEB6666"
+}
