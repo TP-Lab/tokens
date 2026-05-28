@@ -1,0 +1,11 @@
+{
+  "name": "gLGNS",
+  "website": "https://anubischain.ai/",
+  "description": "gLGNS token on Anubis.",
+  "explorer": "https://browser.anubispace.org/token/0xf140a92C156e76F5A1d3D6f96284b250330F8F4c",
+  "type": "ERC-20",
+  "symbol": "gLGNS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf140a92C156e76F5A1d3D6f96284b250330F8F4c"
+}
