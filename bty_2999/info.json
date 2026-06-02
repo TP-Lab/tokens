@@ -1,0 +1,20 @@
+{
+  "name": "bityuan",
+  "website": "https://bityuan.com/",
+  "description": "BityuanChain is an EVM-compatible high-performance public chain.",
+  "explorer": "https://mainnet.bityuan.com/",
+  "type": "coin",
+  "symbol": "BTY",
+  "decimals": 18,
+  "status": "active",
+  "links": {
+    "github": "https://github.com/bityuan/bityuan",
+    "twitter": "https://x.com/Bityuanofficial",
+    "telegram": "https://t.me/bityuanblockchain",
+    "medium": "https://bityuanofficial.medium.com"
+  },
+  "tags": [
+    "pos",
+    "evm-compatible"
+  ]
+}
