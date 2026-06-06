@@ -1,0 +1,11 @@
+{ 
+"name": "AIEFI",
+"website": ".",
+"description": ".",
+"explorer": "https://scan.eniac.network/token/0x5ab3E0A1bE70bEa882DC38C5b93A295369036122",
+"type": "BEP20",
+"symbol": "AIEFI",
+"decimals": 18,
+"status": "active",
+"id": "0x5ab3E0A1bE70bEa882DC38C5b93A295369036122"
+}
