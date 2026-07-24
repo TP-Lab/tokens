@@ -1,0 +1,11 @@
+{
+ "name": "Money",
+ "website": "..",
+ "description": "",
+ "explorer": "https://scan.botchain.ai/token/0xdaaABBD103c95395197c79890858922549a7a5e2",
+ "type": "ERC-20",
+ "symbol": "Money",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdaaABBD103c95395197c79890858922549a7a5e2"
+}
