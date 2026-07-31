@@ -1,0 +1,11 @@
+{
+ "name": "NAORIS",
+ "website": "..",
+ "description": "",
+ "explorer": "https://scan.movachain.com/token/0x94953A186878EDA5aDd30807ddE5569c938CeeBb",
+ "type": "MRC-20",
+ "symbol": "NAORIS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x94953A186878EDA5aDd30807ddE5569c938CeeBb"
+}
