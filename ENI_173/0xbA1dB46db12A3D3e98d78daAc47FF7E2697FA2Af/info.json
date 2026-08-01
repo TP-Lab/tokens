@@ -1,0 +1,11 @@
+{
+    "name": "OMNI",
+    "website": "https://www.eniac.network",
+    "description": " ",
+    "explorer": "https://scan.eniac.network/token/0xbA1dB46db12A3D3e98d78daAc47FF7E2697FA2Af",
+    "type": "ERC20",
+    "symbol": "ALK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbA1dB46db12A3D3e98d78daAc47FF7E2697FA2Af"
+}
