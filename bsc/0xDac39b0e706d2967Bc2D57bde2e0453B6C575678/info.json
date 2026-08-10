@@ -1,0 +1,11 @@
+{
+  "name": "AIF",
+  "website": "https://aif.zone/",
+  "description": "The financial markets of the future will no longer be a competition between people; rather, a competition between AI systems.",
+  "explorer": "https://bscscan.com/address/0xDac39b0e706d2967Bc2D57bde2e0453B6C575678",
+  "type": "BEP20",
+  "symbol": "AIF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xDac39b0e706d2967Bc2D57bde2e0453B6C575678"
+}
