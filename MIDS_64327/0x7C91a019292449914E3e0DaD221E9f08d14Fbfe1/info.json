@@ -1,0 +1,11 @@
+{
+    "name": "XAUMD",
+    "website": "https://onmidas.xyz",
+    "description": "XAUMD is the gold token of Midas Chain testnet: 1 XAUMD stands for 1 gram of test gold. Testnet tokens, no monetary value.",
+    "explorer": "https://explorer.testnet.onmidas.xyz/token/0x7C91a019292449914E3e0DaD221E9f08d14Fbfe1",
+    "type": "ERC20",
+    "symbol": "XAUMD",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x7C91a019292449914E3e0DaD221E9f08d14Fbfe1"
+}
