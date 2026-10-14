@@ -1,0 +1,11 @@
+{
+    "name": "XAUMD",
+    "website": "https://onmidas.xyz",
+    "description": "XAUMD is the gold token of Midas Chain testnet: 1 XAUMD stands for 1 troy ounce of test gold. Testnet tokens, no monetary value.",
+    "explorer": "https://explorer.testnet.onmidas.xyz/token/0xf271913BBF0ab91a38F9978390D767F0b186E770",
+    "type": "ERC20",
+    "symbol": "XAUMD",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xf271913BBF0ab91a38F9978390D767F0b186E770"
+}
