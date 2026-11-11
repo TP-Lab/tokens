@@ -1,0 +1,11 @@
+{
+ "name": "USDT",
+ "website": "https://tether.to/",
+ "description": "Tether Token for Tether USD.",
+ "explorer": "",
+ "type": "",
+ "symbol": "USDTT",
+ "decimals": 6,
+ "status": "active",
+ "id": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs"
+}

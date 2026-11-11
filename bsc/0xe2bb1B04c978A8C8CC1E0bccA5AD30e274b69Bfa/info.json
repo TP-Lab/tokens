@@ -1,0 +1,11 @@
+{
+ "name": "UtopiaSphere",
+ "website": "https://bscscan.com/token/0xe2bb1b04c978a8c8cc1e0bcca5ad30e274b69bfa",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xe2bb1b04c978a8c8cc1e0bcca5ad30e274b69bfa",
+ "type": "BEP20",
+ "symbol": "UPS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe2bb1b04c978a8c8cc1e0bcca5ad30e274b69bfa"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Aitradinge ATE Token",
+ "website": "https://aitradinge.com",
+ "description": "ATE is the token produced by aitradide and is used for mining rewards",
+ "explorer": "https://bscscan.com/address/0x737B38584Cbb5541D0b184fF40BbA30C707C78f5",
+ "type": "BEP20",
+ "symbol": "ATE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x737B38584Cbb5541D0b184fF40BbA30C707C78f5"
+}

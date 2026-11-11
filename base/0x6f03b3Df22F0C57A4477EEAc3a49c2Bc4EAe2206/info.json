@@ -1,0 +1,11 @@
+{
+ "name": "Lions",
+ "website": "https://lionsclubs.cc",
+ "description": "Lions Token (Lions) is a innovative protocol born for meme coin and strive to become the meme launch platform. LIONS is jointly launched by Lions Clubs International (LCI), a core member of Lions Clubs. Through innovative blockchain technology, LCI hopes to further expand its humanitarian mission and influence.",
+ "explorer": "https://basescan.org/token/0x6f03b3Df22F0C57A4477EEAc3a49c2Bc4EAe2206",
+ "type": "Base",
+ "symbol": "Lions",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6f03b3Df22F0C57A4477EEAc3a49c2Bc4EAe2206"
+}

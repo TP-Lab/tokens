@@ -1,0 +1,11 @@
+{
+  "name": "ANTS",
+  "website": "www.ftccoin.cn",
+  "description": "Ants token is an innovative decentralized cryptographic token that builds a new financial solution for the blockchain - a financial ecosystem that distributes public chain and exchange fee dividends to the co-founders. It introduces a new economic model to the construction of the financial system of the cryptocurrency world and injects a new narrative into the development of blockchain!",
+  "explorer": "https://bscscan.com/token/0x53f54b827FbfA659996fC5f306a8963F5aaC2FC3",
+  "type": "BEP20",
+  "symbol": "ANTS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x53f54b827FbfA659996fC5f306a8963F5aaC2FC3"
+}

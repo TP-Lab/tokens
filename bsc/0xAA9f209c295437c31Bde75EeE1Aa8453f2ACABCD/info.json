@@ -1,0 +1,11 @@
+{
+  "name": "AID",
+  "website": "https://aidatify.com",
+  "description": "Aidatify provides a more precise intelligent data analysis platform, we offer comprehensive support to traders during their trading processes. We are dedicated to establishing an ecological loop system where users' computing power enhances AI models, allowing continuous learning and optimization to improve analysis capabilities. AlDatify will integrate high-quality yield scenarios and a liquidity voucher distribution system, utilizing the Lossless CycleRestaking protocol to provide users with flexible and diverse income sources. In the future, we will expand to more yield-generating scenarios, using automated smart contracts to enhance asset management efficiency and effectiveness. This comprehensive empowerment of the blockchain ecosystem will drive industry innovation and development.",
+  "explorer": "https://bscscan.com/address/0xAA9f209c295437c31Bde75EeE1Aa8453f2ACABCD",
+  "type": "BEP20",
+  "symbol": "AID",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xAA9f209c295437c31Bde75EeE1Aa8453f2ACABCD"
+}

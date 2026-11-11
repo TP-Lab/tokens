@@ -1,0 +1,11 @@
+{
+ "name": "IEX",
+ "website": "https://infinityiex.io",
+ "description": "Infinity Exchange (IEX) is an innovative Real-World Asset (RWA) trading platform designed for decentralized finance (DeFi). We specialize in the digitization and tokenization of RWAs, including real estate , art , and precious metals . Our mission is to seamlessly connect traditional financial markets with the digital economy. Join us in driving global asset digitization and expanding investment opportunities for investors worldwide",
+ "explorer": "https://bscscan.com/token/0x48eDdDCFa36F81B5F7531f86540825405D5AC41D",
+ "type": "BEP20",
+ "symbol": "IEX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x48eDdDCFa36F81B5F7531f86540825405D5AC41D"
+}

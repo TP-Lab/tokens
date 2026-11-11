@@ -1,0 +1,11 @@
+{
+ "name": "BHT",
+ "website": "..",
+ "description": "",
+ "explorer": "https://scan.movachain.com/token/0x97D6e3A6f2F57F7391FfB4F412243e35116193B0",
+ "type": "MRC-20",
+ "symbol": "BHT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x97D6e3A6f2F57F7391FfB4F412243e35116193B0"
+}

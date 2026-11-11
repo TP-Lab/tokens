@@ -1,0 +1,11 @@
+{
+ "name": "Chi Yamada Cat",
+ "website": "https://cycat.art/",
+ "description": "CYCat. Algorithm-stabilized Cat. A memecoin system that is currently shaking the crypto market. It's time to make meme tokens great again.",
+ "explorer": "https://bscscan.com/token/0xc94660716C5579fE28deA46Bd3C27624f8581Fd6",
+ "type": "BEP20",
+ "symbol": "CYCat",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc94660716C5579fE28deA46Bd3C27624f8581Fd6"
+}

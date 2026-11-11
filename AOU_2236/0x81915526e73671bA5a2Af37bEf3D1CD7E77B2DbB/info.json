@@ -1,0 +1,11 @@
+{
+    "name": "LP-AOU",
+    "website": "https://aouchain.com/",
+    "description": " ",
+    "explorer": "https://aouchain.com/token/0x81915526e73671bA5a2Af37bEf3D1CD7E77B2DbB",
+    "type": "ARC-20",
+    "symbol": "LP-AOU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x81915526e73671bA5a2Af37bEf3D1CD7E77B2DbB"
+}

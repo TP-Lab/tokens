@@ -1,0 +1,11 @@
+{
+ "name": "PHRYGES",
+ "website": "https://phryges.vip/",
+ "description": "Phryges is the official mascot of the 2024 Paris Olympics",
+ "explorer": "https://etherscan.io/address/0x96e99106d9c58573171dd6c19d767d2ae7ec0435",
+ "type": "ERC20",
+ "symbol": "PHRYGES",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x96e99106d9c58573171dd6C19d767d2aE7ec0435"
+}

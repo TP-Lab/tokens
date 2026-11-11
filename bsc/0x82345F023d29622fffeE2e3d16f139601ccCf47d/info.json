@@ -1,0 +1,11 @@
+{
+  "name": "Dumbo",
+  "website": "http://dumbo.gold/",
+  "description": "Freedom,Web3,Gold",
+  "explorer": "https://bscscan.com/token/0x82345F023d29622fffeE2e3d16f139601ccCf47d",
+  "type": "BEP20",
+  "symbol": "DMBO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x82345F023d29622fffeE2e3d16f139601ccCf47d"
+}

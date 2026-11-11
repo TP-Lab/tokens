@@ -1,0 +1,11 @@
+{
+ "name": "Mobile Liquidity",
+ "website": "https://www.moli.one",
+ "description": "We will build the most powerful AI cluster system,Help people publish information to tens of thousands of websites.",
+ "explorer": "https://bscscan.com/0x766e09665a8128D9F7Fd9d90BCD3d9cdc50b067F",
+ "type": "BEP20",
+ "symbol": "MOLI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x766e09665a8128D9F7Fd9d90BCD3d9cdc50b067F"
+}

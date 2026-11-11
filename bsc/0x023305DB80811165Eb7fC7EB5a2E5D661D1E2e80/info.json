@@ -1,0 +1,11 @@
+{
+    "name": "IEBB",
+    "website": "https://inscriptionera.com/en",
+    "description": "Through the game ecosystem, more people can experience the fun brought by blockchain.",
+    "explorer": "https://bscscan.com/token/0x023305DB80811165Eb7fC7EB5a2E5D661D1E2e80",
+    "type": "BEP20",
+    "symbol": "IEBB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x023305DB80811165Eb7fC7EB5a2E5D661D1E2e80"
+}

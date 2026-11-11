@@ -1,0 +1,11 @@
+{
+ "name": "Gamex Coin",
+ "website": "https://www.gamex.life",
+ "description": "Game X is a decentralized web3 game ecosvstem and incubation platform.",
+ "explorer": "https://polygonscan.com/token/0x75C551adE6762B5aD4EBd50DcA4238c9de4D357D",
+ "type": "ERC20",
+ "symbol": "GXC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x75C551adE6762B5aD4EBd50DcA4238c9de4D357D"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ADAO2",
+  "website": "",
+  "description": "Anubis DAO2.",
+  "explorer": "https://browser.anubispace.org/token/0x7a242e5815c9B406dAb597388F33C83BB0caa79e",
+  "type": "ERC-20",
+  "symbol": "ADAO2",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7a242e5815c9B406dAb597388F33C83BB0caa79e"
+}

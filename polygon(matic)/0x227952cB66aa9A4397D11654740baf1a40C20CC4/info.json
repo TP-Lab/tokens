@@ -1,0 +1,11 @@
+{
+ "name": "Block Web Services",
+ "website": "https://bytewallets.io/",
+ "description": "BWS is the currency used by ByteWallets to realize ecological circulation, cross-border payments, global finance, and value circulation in various physical scenarios.",
+ "explorer": "https://etherscan.io/token/0x227952cB66aa9A4397D11654740baf1a40C20CC4",
+ "type": "ERC20",
+ "symbol": "BWS",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x227952cB66aa9A4397D11654740baf1a40C20CC4"
+}

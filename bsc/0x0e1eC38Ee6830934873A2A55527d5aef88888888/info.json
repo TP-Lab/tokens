@@ -1,0 +1,11 @@
+{ 
+"name": "WAR",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0x0e1eC38Ee6830934873A2A55527d5aef88888888",
+"type": "BEP20",
+"symbol": "WAR",
+"decimals": 18,
+"status": "active",
+"id": "0x0e1eC38Ee6830934873A2A55527d5aef88888888"
+}

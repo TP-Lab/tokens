@@ -1,0 +1,11 @@
+{
+ "name": "ATM (ATM)",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xC9b228F5086433e94D0f4339f5891eDf046a556B",
+ "type": "ARC-20",
+ "symbol": "ATM ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC9b228F5086433e94D0f4339f5891eDf046a556B"
+}

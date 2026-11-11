@@ -1,0 +1,11 @@
+{
+    "name": "ORCI",
+    "website": "",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x0489e719668e9b8802150a982f27fb6b7ba76277",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "ORCI",
+    "status": "active",
+    "id": "0x0489e719668e9b8802150a982f27fb6b7ba76277"
+}

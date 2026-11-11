@@ -1,0 +1,11 @@
+{
+ "name": "BAMBOO Token",
+ "website": "https://bamboo.byd.finance",
+ "description": "A decentralized plateform related with BYD Token which is stands for Bulid Your Dream",
+ "explorer": "https://arbiscan.io/token/0xDf3c5195E438D9750c82db9057398619d454fEcC",
+ "type": "ERC20",
+ "symbol": "BAMBOO",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xDf3c5195E438D9750c82db9057398619d454fEcC"
+}

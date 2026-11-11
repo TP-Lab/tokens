@@ -1,0 +1,11 @@
+{
+ "name": "Matrix",
+ "website": "https://matrixpro.org",
+ "description": "$Reel is the GoLive ecosystem token, and GoLive has created an innovative short video platform. The $Reel token not only incentivizes content creators but also ensures transparent and instant distribution of earnings. Blockchain protects content copyright and user data privacy, promoting fairness and transparency on the platform.",
+ "explorer": "https://bscscan.com/token/0x9F21C84F0fD93462955f2Bb07C308647DD09e35E",
+ "type": "BEP20",
+ "symbol": "Reel",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9F21C84F0fD93462955f2Bb07C308647DD09e35E"
+}

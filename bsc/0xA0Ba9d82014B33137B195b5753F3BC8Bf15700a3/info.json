@@ -1,0 +1,11 @@
+{
+  "name": "MRP",
+  "website": "",
+  "description": "英文： Mint Rises Prices(MRP) \n中文： 铸涨协议\n一个只涨不跌的加密财富协议！\n颠覆Mint，颠覆交易\n颠覆涨价，颠覆LP池\n无需DAPP，无需swap.\n往合约转账BNB即铸币，21天线性释放．\n往合约转账MRP即卖出．\n权威审计，合约干净，权限丢弃．\n铸涨合约：\n0xA0Ba9d82014B33137B195b5753F3BC8Bf15700a3\n注意请不要相信以MRP官方名义私聊你的用户，具体政策信息以及新资讯请联系官方X账号：@MintRisesPrices",
+  "explorer": "https://bscscan.com/token/0xA0Ba9d82014B33137B195b5753F3BC8Bf15700a3",
+  "type": "BEP20",
+  "symbol": "MRP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xA0Ba9d82014B33137B195b5753F3BC8Bf15700a3"
+}

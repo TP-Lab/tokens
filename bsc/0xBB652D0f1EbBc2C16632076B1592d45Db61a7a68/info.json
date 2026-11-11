@@ -1,0 +1,11 @@
+{
+ "name": "ZongZi",
+ "website": "https://zongzi.io/#/burned?invAdd=0x9631E177b258295802bd036d02CA278dB0d44ab1",
+ "description": "Binance Chain's first rune-burning launchpad coin, and the first burning meme coin. All ZongZi coins originate from fair minting.",
+ "explorer": "https://bscscan.com/address/0xBB652D0f1EbBc2C16632076B1592d45Db61a7a68",
+ "type": "BEP20",
+ "symbol": "ZongZi",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBB652D0f1EbBc2C16632076B1592d45Db61a7a68"
+}

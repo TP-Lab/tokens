@@ -1,0 +1,11 @@
+{
+  "name": "AFI",
+  "website": "..",
+  "description": "",
+  "explorer": "https://scan.movachain.com/token/0x7bd972fc7e1fa4cd750e29ccb81327abed3cb338",
+  "type": "MRC-20",
+  "symbol": "AFI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7bd972fc7e1fa4cd750e29ccb81327abed3cb338"
+}

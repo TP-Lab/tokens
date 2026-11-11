@@ -1,0 +1,11 @@
+{
+ "name": "Bayesian Token",
+ "website": "https://bayesian.global",
+ "description": "Bayesian supercomputers provide supercomputing power to the global community.",
+ "explorer": "https://bscscan.com/token/0x32135e8d0409Bb5Bb71b237534a5fb3eaa057b7F",
+ "type": "BEP20",
+ "symbol": “BAYE”,
+ "decimals": 18,
+ "status": "active",
+ "id": "0x32135e8d0409Bb5Bb71b237534a5fb3eaa057b7F"
+}

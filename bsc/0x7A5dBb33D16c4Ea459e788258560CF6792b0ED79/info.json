@@ -1,0 +1,11 @@
+{ 
+"name": "Token Bank",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0x7A5dBb33D16c4Ea459e788258560CF6792b0ED79",
+"type": "BEP20",
+"symbol": "TB",
+"decimals": 18,
+"status": "active",
+"id": "0x7A5dBb33D16c4Ea459e788258560CF6792b0ED79"
+}

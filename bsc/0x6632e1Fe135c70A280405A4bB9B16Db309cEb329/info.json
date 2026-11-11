@@ -1,0 +1,11 @@
+{
+  "name": "HRP",
+  "website": "",
+  "description": "英文：Help Raises Prices（HRP）\n中文：助涨协议\n基于MRP首个生态合约，原创升级只涨不跌的加密财富协议，为“铸涨协议”在web3.0布局蓄势，共铸WEB3.0加密生态发展！\n\n铸造：往合约地址转账BNB即为进行24天铸币（锁单期3天）。\n售出：往合约转账HRP即为售出。\n交易税：铸造0%、售出8%。内置合约添加LP，共享交易税分红。\n\n邀请铸造，得丰厚bnb奖励。无发行总量，按需铸造，售出等值双倍销毁。\n无需dapp、无需Swap、无需授权，交易冷却60秒，防夹子。\n\n注意请不要相信以MRP官方名义私聊你的用户，具体政策信息以及新资讯请联系官方X账号：@MintRisesPrices",
+  "explorer": "https://bscscan.com/address/0x6632e1fe135c70a280405a4bb9b16db309ceb329",
+  "type": "BEP20",
+  "symbol": "HRP",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6632e1Fe135c70A280405A4bB9B16Db309cEb329"
+}

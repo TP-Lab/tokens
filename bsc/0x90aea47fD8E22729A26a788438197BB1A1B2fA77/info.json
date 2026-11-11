@@ -1,0 +1,11 @@
+{
+ "name": "future plan",
+ "website": "http://www.future-plan.cc/",
+ "description": "A diversified application ecosystem based on Web3.0.",
+ "explorer": "https://bscscan.com/address/0x90aea47fD8E22729A26a788438197BB1A1B2fA77",
+ "type": "BEP20",
+ "symbol": "FP",
+ "decimals": 5,
+ "status": "active",
+ "id": "0x90aea47fD8E22729A26a788438197BB1A1B2fA77"
+}

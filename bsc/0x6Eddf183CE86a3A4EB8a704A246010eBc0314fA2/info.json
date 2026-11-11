@@ -1,0 +1,11 @@
+{
+ "name": "YBCoin",
+ "website": "http://yaboworld.in",
+ "description": "YBCoin It is the token certificate of the entire ecology of YaBo world. You can obtain it by simulating operations in the YaBo world game, or obtain it by participating in the airdrop and pledge LP in the early stage, also can obtain it through the exchange. Yabo world is committed to building an online 2022 World Cup quiz platform.",
+ "explorer": "https://bscscan.com/token/0x6Eddf183CE86a3A4EB8a704A246010eBc0314fA2",
+ "type": "BEP20",
+ "symbol": "YBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6Eddf183CE86a3A4EB8a704A246010eBc0314fA2"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MASKCZDAO",
+ "website": "-",
+ "description": "MASKCZDAO  is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xE7f2a83977CE6BaC8C44d6e0C62782D4Ed54772c",
+ "type": "BEP20",
+ "symbol": "MASKCZDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE7f2a83977CE6BaC8C44d6e0C62782D4Ed54772c"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "SETAI",
+	"website": "-",
+	"description": "SETAI is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+	"explorer": "https://bscscan.com/address/0xDaf41FfFf171B0F1Fd6f5b22593605bc81FC7276",
+	"type": "BEP20",
+	"symbol": "SETAI",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xDaf41FfFf171B0F1Fd6f5b22593605bc81FC7276"
+}

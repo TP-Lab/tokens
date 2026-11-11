@@ -1,0 +1,10 @@
+{
+ "name": "ETSR",
+ "website": "https://www.etsr.cloud/",
+ "description": "",
+ "type": "BEP20",
+ "symbol": "ETSR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbb2b9dd3cc3b556cc05dcc798a8efc4d10e4d46a"
+}

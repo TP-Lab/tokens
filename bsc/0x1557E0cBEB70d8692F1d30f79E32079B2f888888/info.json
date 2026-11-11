@@ -1,0 +1,11 @@
+{
+ "name": "IDN Encrypted Network",
+ "website": "-",
+ "description": "IDN Encrypted Network  is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x1557E0cBEB70d8692F1d30f79E32079B2f888888",
+ "type": "BEP20",
+ "symbol": "IDN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1557E0cBEB70d8692F1d30f79E32079B2f888888"
+}

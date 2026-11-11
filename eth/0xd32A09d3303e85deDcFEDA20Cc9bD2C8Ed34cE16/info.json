@@ -1,0 +1,11 @@
+{
+ "name": "LayerUP",
+ "website": "http://layerup.info",
+ "description": "LayerUP is a series of expansion schemes aimed at significantly improving ETH scalability and throughput.",
+ "explorer": "https://etherscan.io/token/0xd32a09d3303e85dedcfeda20cc9bd2c8ed34ce16",
+ "type": "ERC20",
+ "symbol": "UP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd32A09d3303e85deDcFEDA20Cc9bD2C8Ed34cE16"
+}

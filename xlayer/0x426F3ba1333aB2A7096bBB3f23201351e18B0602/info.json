@@ -1,0 +1,11 @@
+{
+ "name": "Ark",
+ "website": "https://www.314ark.com",
+ "description": "AekEx is a DEX trend aggregation platform built on the Xlayer Layer-2 network",
+ "explorer": "https://www.oklink.com/zh-hans/xlayer/address/0x426f3ba1333ab2a7096bbb3f23201351e18b0602",
+ "type": "XLayer",
+ "symbol": "Ark",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x426F3ba1333aB2A7096bBB3f23201351e18B0602"
+}

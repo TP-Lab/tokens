@@ -1,0 +1,11 @@
+{
+	"name": "Peri Finance Token",
+	"website": "https://pynths.com",
+	"description": "PERI Finance is a decentralized cross-chain synthetic issuance and derivative exchange protocol that provides unlimited liquidity on Polkadot network. It gives an opportunity to access a wide range of both traditional financial and crypto assets in the forms of leveraged and none-leveraged synthetic products.",
+	"explorer": "https://bscscan.com/token/0xb49B7e0742EcB4240ffE91661d2A580677460b6A",
+	"type": "BEP20",
+	"symbol": "PERI",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xb49B7e0742EcB4240ffE91661d2A580677460b6A"
+}

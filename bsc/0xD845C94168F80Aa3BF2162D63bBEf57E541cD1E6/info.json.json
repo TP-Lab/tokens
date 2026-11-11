@@ -1,0 +1,11 @@
+{
+  "name": "TG Coin",
+  "website": "https://tgctoken.com/#/",
+  "description": "TG Coin is a digital incentive token issued by a foundation on the BSC chain, used for the incentive and creation of the candy community",
+  "explorer": "https://bscscan.com/token/0xD845C94168F80Aa3BF2162D63bBEf57E541cD1E6",
+  "type": "BEP20",
+  "symbol": "TGC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xD845C94168F80Aa3BF2162D63bBEf57E541cD1E6"
+}

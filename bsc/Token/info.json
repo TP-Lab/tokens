@@ -1,0 +1,11 @@
+{
+ "name": "DDH",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xa328cdC8426579D3Cd1147D0dD1DaDee5f1c169b",
+ "type": "BEP20",
+ "symbol": "DDH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa328cdC8426579D3Cd1147D0dD1DaDee5f1c169b"
+}

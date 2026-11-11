@@ -1,0 +1,11 @@
+{
+ "name": "XAI-314",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x644F48d6670969391f6e84a8D03a7F984219E7A5",
+ "type": "BEP20",
+ "symbol": "XAI314",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x644F48d6670969391f6e84a8D03a7F984219E7A5"
+}

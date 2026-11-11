@@ -1,0 +1,11 @@
+{
+ "name": "BBC",
+ "website": "https://bbcchain.top",
+ "description": "BBC's planning goal is to build a crypto digital asset management platform that supports multiple blockchains as well as cross-token/asset classes in the traditional currency clearing space. The BBC has many characteristics, such as fast and convenient, low cost, safe and reliable.",
+ "explorer": "https://bscscan.com/token/0xa0e80327691e5B1f1E8Bccf223db091f9b69acE7",
+ "type": "BEP20",
+ "symbol": "BBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa0e80327691e5B1f1E8Bccf223db091f9b69acE7"
+}

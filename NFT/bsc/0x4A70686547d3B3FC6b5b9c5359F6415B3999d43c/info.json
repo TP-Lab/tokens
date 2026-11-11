@@ -1,0 +1,11 @@
+{
+    "name": "TCP314FounderNFT",
+    "website": "https://tcp314.com",
+    "description": "Becoming a founder can get 1 founder NFT identity and 100K TCP314 coins. Users holding the founder NFT identity can pledge tokens to obtain all transaction dividends of TCP314. The NFT founder identity can be resold and transferred. After the blockchain transfers the NFT, the new address will inherit the founder identity. The NFT founder identity can participate in the proposal voting on the TCP314 operating ecology. The NFT founder identity can enjoy the dividends of the chain game enabled by TCP314.",
+    "explorer": "https://bscscan.com/token/0x4A70686547d3B3FC6b5b9c5359F6415B3999d43c",
+    "type": "ERC721",
+    "symbol": "TFND",
+    "decimals": 4,
+    "status": "active",
+    "id": "0x4A70686547d3B3FC6b5b9c5359F6415B3999d43c"
+}

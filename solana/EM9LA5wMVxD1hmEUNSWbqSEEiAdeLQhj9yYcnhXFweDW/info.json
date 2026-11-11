@@ -1,0 +1,11 @@
+{
+ "name": "TEC",
+ "website": "-",
+ "description": "TEC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://solscan.io/token/EM9LA5wMVxD1hmEUNSWbqSEEiAdeLQhj9yYcnhXFweDW",
+ "type": "Solana",
+ "symbol": "TEC",
+ "decimals": 9,
+ "status": "active",
+ "id": "EM9LA5wMVxD1hmEUNSWbqSEEiAdeLQhj9yYcnhXFweDW"
+}

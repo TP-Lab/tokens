@@ -1,0 +1,11 @@
+{
+ "name": "Low Carbon Ecology",
+ "website": "www.lcewebs.org",
+ "description": "Create a new web3 low-carbon ecosystem launch platform for global users.",
+ "explorer": "https://solscan.io/token/3U7vk4dZZoeV9X77JkmvkkQ3nandiDqcv81rJMmcwjkD",
+ "type": "Solana",
+ "symbol": "LCE",
+ "decimals": 9,
+ "status": "active",
+ "id": "3U7vk4dZZoeV9X77JkmvkkQ3nandiDqcv81rJMmcwjkD"
+}

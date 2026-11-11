@@ -1,0 +1,11 @@
+{
+ "name": "Alpaca",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x9dAbBE3e05Ac8BafB857dB4844b6b584a3F85A7F",
+ "type": "BEP20",
+ "symbol": "Alpaca",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9dAbBE3e05Ac8BafB857dB4844b6b584a3F85A7F"
+}

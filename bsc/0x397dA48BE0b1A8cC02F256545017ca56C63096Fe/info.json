@@ -1,0 +1,11 @@
+{
+	"name": "LPC Token",
+	"website": "-",
+	"description": "LPC Token is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+	"explorer": "https://bscscan.com/address/0x397dA48BE0b1A8cC02F256545017ca56C63096Fe",
+	"type": "BEP20",
+	"symbol": "LPC",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x397dA48BE0b1A8cC02F256545017ca56C63096Fe"
+}

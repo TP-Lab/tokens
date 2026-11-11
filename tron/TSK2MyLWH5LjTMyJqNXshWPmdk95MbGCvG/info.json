@@ -1,0 +1,11 @@
+{
+ "name": "TiMi",
+ "website": "www.timi.com",
+ "description": "TiMi代币是TiMi哈希的平台币，TiMi哈希是基于波场区块哈希值为开奖结果的哈希竞猜平台。，独家创新开奖画面，颠覆传统哈希体验！",
+ "explorer": "https://tronscan.org/#/token20/TSK2MyLWH5LjTMyJqNXshWPmdk95MbGCvG",
+ "type": "TRC20",
+ "symbol": "TiMi",
+ "decimals": 18,
+ "status": "active",
+ "id": "TSK2MyLWH5LjTMyJqNXshWPmdk95MbGCvG"
+}

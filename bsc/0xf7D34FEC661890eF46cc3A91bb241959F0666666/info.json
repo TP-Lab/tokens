@@ -1,0 +1,11 @@
+{
+ "name": "THOMAS托马斯",
+ "website": "https://twitter.com/TS_thomas_",
+ "description": "TS托马斯（THOMAS）是首个融合Meme+ATM持币分红+BURN燃烧通缩+额外100%无损分红等多种创新机制的BSC Meme生态项目。 我们希望打造一台属于全网共识者永不停止的提款机，所有机制已经全部写入链上，合约已开源，权限已丢弃，全网首个真正公平的区块链项目！ BSC链上超级龙头，全网共识者永不停止的提款机",
+ "explorer": "https://bscscan.com/token/0xf7d34fec661890ef46cc3a91bb241959f0666666",
+ "type": "BEP20",
+ "symbol": "TS",
+ "decimals": 1,
+ "status": "active",
+ "id": "0xf7D34FEC661890eF46cc3A91bb241959F0666666"
+}

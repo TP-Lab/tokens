@@ -1,0 +1,11 @@
+{ 
+"name": "FBF",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/address/0xAdeCF50f5b5293450256F93E8819217D72a52730",
+"type": "BEP20",
+"symbol": "FBF",
+"decimals": 18,
+"status": "active",
+"id": "0xAdeCF50f5b5293450256F93E8819217D72a52730"
+}

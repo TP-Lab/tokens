@@ -1,0 +1,11 @@
+{
+ "name": "PK",
+ "website": "https://h5.park2.xyz/#/",
+ "description": "A leading multi-chain wallet that supports ",
+ "explorer": "https://bscscan.com/token/0xd3f218835bc784e31a70188ff4d3db79d7e44ea1",
+ "type": "BEP20",
+ "symbol": "PK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd3f218835bc784e31a70188ff4d3db79d7e44ea1"
+{

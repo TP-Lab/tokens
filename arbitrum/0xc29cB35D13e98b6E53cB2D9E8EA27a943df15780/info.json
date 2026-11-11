@@ -1,0 +1,11 @@
+{
+    "name": "Happyplanet",
+    "website": "https://arbiscan.io/address/0xc29cB35D13e98b6E53cB2D9E8EA27a943df15780",
+    "description": "Happyplanet",
+    "explorer": "https://arbiscan.io/address/0xc29cB35D13e98b6E53cB2D9E8EA27a943df15780",
+    "type": "ERC20",
+    "symbol": "Happyplanet",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc29cB35D13e98b6E53cB2D9E8EA27a943df15780"
+   }

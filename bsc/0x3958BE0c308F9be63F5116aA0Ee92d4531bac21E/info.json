@@ -1,0 +1,11 @@
+{
+    "name": "rSPD",
+    "website": "https://sft.network/",
+    "description": "SFT Chain, a 'Chain of Chains', bridges physical infra with Web3, focusing on a DePIN platform that integrates storage, computing, edge CDN , and beyond.",
+    "explorer": "https://bscscan.com/token/0x3958BE0c308F9be63F5116aA0Ee92d4531bac21E",
+    "type": "BEP20",
+    "symbol": "rSPD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3958BE0c308F9be63F5116aA0Ee92d4531bac21E"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Money Bin",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xc4259cC35F3d1D474Dd9DF3919Ce8570B2ABfB84",
+ "type": "BEP20",
+ "symbol": "Money Bin",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc4259cC35F3d1D474Dd9DF3919Ce8570B2ABfB84"
+}

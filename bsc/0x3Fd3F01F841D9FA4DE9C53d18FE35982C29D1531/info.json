@@ -1,0 +1,11 @@
+{
+ "name": "Quantum Project Coin",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x3Fd3F01F841D9FA4DE9C53d18FE35982C29D1531",
+ "type": "BEP20",
+ "symbol": "QTP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3Fd3F01F841D9FA4DE9C53d18FE35982C29D1531"
+}

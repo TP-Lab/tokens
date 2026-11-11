@@ -1,0 +1,11 @@
+{
+ "name": "MetaMars",
+ "website": "https://www.metamars.io/",
+ "description": "MetaMars is a Web3 metaverse platform with Mars as its theme.",
+ "explorer": "https://bscscan.com/address/0x07c15e4ADD8c23D2971380dde6C57B6f88902Ec1",
+ "type": "BEP20",
+ "symbol": "MARS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x07c15e4ADD8c23D2971380dde6C57B6f88902Ec1"
+}

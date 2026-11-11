@@ -1,0 +1,11 @@
+{
+ "name": "Credit Check Coin",
+ "website": "https://ccchain.us",
+ "description": "Credit Check Chain - 'Credit Score of Ethereum' is an ETH L2 public chain based on the credit system, dedicated to creating a new Ethereum World with the principle of 'no trade without credit check'.",
+ "explorer": "https://polygonscan.com/token/0x0907B8B13970DF091ECc9d4d4c7AE12A599Ad923",
+ "type": "ERC20",
+ "symbol": "CCC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0907B8B13970DF091ECc9d4d4c7AE12A599Ad923"
+}

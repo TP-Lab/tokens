@@ -1,0 +1,11 @@
+{
+    "name": "Virtual Reality",
+    "website": ".",
+    "description": ". ",
+    "explorer": "https://etherscan.io/token/0x3Dd9c3ace377Fe44943fc3f0Da0c130aD8a6523D",
+    "type": ERC20",
+    "symbol": "VR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3Dd9c3ace377Fe44943fc3f0Da0c130aD8a6523D"
+}

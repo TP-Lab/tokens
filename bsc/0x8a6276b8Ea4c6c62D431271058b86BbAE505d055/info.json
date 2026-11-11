@@ -1,0 +1,11 @@
+{
+	"name": "CBD",
+	"website": "-",
+	"description": "CBD is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+	"explorer": "https://bscscan.com/address/0x8a6276b8Ea4c6c62D431271058b86BbAE505d055",
+	"type": "BEP20",
+	"symbol": "CBD",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x8a6276b8Ea4c6c62D431271058b86BbAE505d055"
+}

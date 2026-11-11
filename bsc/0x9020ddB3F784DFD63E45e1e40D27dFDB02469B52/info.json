@@ -1,0 +1,11 @@
+{
+    "name": "USDM",
+    "website": "https://memetoon.io/",
+    "description": "USDM, launched in 2024, is a stablecoin used in the MEMETOON ecosystem, linked 1:1 with fiat currency (1 USDM = 1 USD)",
+    "explorer": "https://bscscan.com/token/0x9020ddB3F784DFD63E45e1e40D27dFDB02469B52",
+    "type": "BEP20",
+    "symbol": "USDM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9020ddB3F784DFD63E45e1e40D27dFDB02469B52"
+}

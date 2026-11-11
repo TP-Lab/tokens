@@ -1,0 +1,11 @@
+{
+  "name": "moke",
+  "website": "https://mokecoin.org",
+  "description": "MOKE is a staking platform where users can stake CAKE to earn MOKE. MOKE has various use cases.",
+  "explorer": "https://bscscan.com/address/0xF537ac9F10Dc67E8a7e3404FD62bCAC00FF01b4A",
+  "type": "BEP20",
+  "symbol": "MOKE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xF537ac9F10Dc67E8a7e3404FD62bCAC00FF01b4A"
+}

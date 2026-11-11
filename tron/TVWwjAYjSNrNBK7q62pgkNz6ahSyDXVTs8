@@ -1,0 +1,11 @@
+{
+	"name": "X",
+	"website": "https://www.xtokens.online",
+	"description": "X币，作为数字货币领域的一个前沿分支，结合了区块链技术、密码学以及智能合约等先进技术，正逐步成为数字经济时代的重要支付和交易工具。",
+	"explorer": "https://tronscan.io/#/token20/TVWwjAYjSNrNBK7q62pgkNz6ahSyDXVTs8",
+	"type": "TRC20",
+	"symbol": "X",
+	"decimals": 18,
+	"status": "active",
+	"id": "TVWwjAYjSNrNBK7q62pgkNz6ahSyDXVTs8"
+}

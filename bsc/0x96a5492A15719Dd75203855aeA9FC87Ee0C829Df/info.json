@@ -1,0 +1,11 @@
+{
+  "name": "Oasis Token",
+  "website": "https://oasisland.org",
+  "description": "The virtual world's metropolis Genesis City is composed of individual LAND plots that can be bought, sold, and rented in the OASIS Marketplace, and anyone can own it. At the same time, the operation and future of the platform are proposed, voted, and decided by the community in the governance forum.",
+  "explorer": "https://bscscan.com/token/0x96a5492A15719Dd75203855aeA9FC87Ee0C829Df",
+  "type": "BEP20",
+  "symbol": "OS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x96a5492A15719Dd75203855aeA9FC87Ee0C829Df"
+}

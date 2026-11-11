@@ -1,0 +1,12 @@
+{
+ "name": "Build Your Dream",
+ "website": "https://www.byd.finaince",
+ "description": "A novel decentralized finance platform that allows users to build their dream by providing a wide range of financial services.",
+ "explorer": "https://arbiscan.io/token/0x65FA064E808B33462A214DeE8b8B715C3424FDDA",
+ "type": "ERC20",
+ "symbol": "BYD",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x65FA064E808B33462A214DeE8b8B715C3424FDDA"
+}
+

@@ -1,0 +1,11 @@
+{
+    "name": "evENI",
+    "website": "https://www.eniac.network",
+    "description": " ",
+    "explorer": "https://scan.eniac.network/token/0xb751DCFFd17D9b97d3b5D711e130De5B8c11F52F",
+    "type": "ERC20",
+    "symbol": "evENI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb751DCFFd17D9b97d3b5D711e130De5B8c11F52F"
+}

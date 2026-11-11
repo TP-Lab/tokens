@@ -1,0 +1,11 @@
+{
+ "name": "FIFA",
+ "website": "-",
+ "description": "FIFA is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x30d7952d52AD2Cc92F9B56645Ab85f6C3743c81e",
+ "type": "BEP20",
+ "symbol": "FIFA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x30d7952d52AD2Cc92F9B56645Ab85f6C3743c81e"
+}

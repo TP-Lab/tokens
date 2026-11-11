@@ -1,0 +1,11 @@
+{
+    "name": "FRO",
+    "website": "https://www.eniac.network",
+    "description": " ",
+    "explorer": "https://scan.eniac.network/token/00x55dee555419f5Fc38Cd3f262bedcF2F2689dC661",
+    "type": "ERC20",
+    "symbol": "FRO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x55dee555419f5Fc38Cd3f262bedcF2F2689dC661"
+}

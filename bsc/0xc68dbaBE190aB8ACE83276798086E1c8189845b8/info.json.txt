@@ -1,0 +1,11 @@
+{
+ "name": "KGC",
+ "website": "",
+ "description": "Web3 赛道最有潜力的百倍代币",
+ "explorer": "https://bscscan.com/token/0xc68dbaBE190aB8ACE83276798086E1c8189845b8",
+ "type": "BEP20",
+ "symbol": "KGC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc68dbaBE190aB8ACE83276798086E1c8189845b8"
+}

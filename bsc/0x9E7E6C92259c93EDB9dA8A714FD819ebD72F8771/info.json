@@ -1,0 +1,11 @@
+{
+  "name": "LAK",
+  "website": "",
+  "description": "",
+  "explorer": "https://bscscan.com/token/0x9E7E6C92259c93EDB9dA8A714FD819ebD72F8771",
+  "type": "BEP20",
+  "symbol": "LAK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9E7E6C92259c93EDB9dA8A714FD819ebD72F8771"
+}

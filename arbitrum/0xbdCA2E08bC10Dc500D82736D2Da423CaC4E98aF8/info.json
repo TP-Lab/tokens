@@ -1,0 +1,11 @@
+{
+    "name": "ARC",
+    "website": "-",
+    "description": "ARC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+    "explorer": "https://arbiscan.io/token/0xbdCA2E08bC10Dc500D82736D2Da423CaC4E98aF8",
+    "decimals": 18,
+    "type": "Arbitrum One",
+    "symbol": "ARC",
+    "status": "active",
+    "id": "0xbdCA2E08bC10Dc500D82736D2Da423CaC4E98aF8"
+}

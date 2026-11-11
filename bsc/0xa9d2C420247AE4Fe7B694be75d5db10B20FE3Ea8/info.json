@@ -1,0 +1,11 @@
+{
+    "name": "TCP Token",
+    "website": "https://tcp314.com",
+    "description": "The TCP 2.0",
+    "explorer": "https://bscscan.com/token/0xa9d2C420247AE4Fe7B694be75d5db10B20FE3Ea8",
+    "type": "BEP20",
+    "symbol": "TCP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa9d2C420247AE4Fe7B694be75d5db10B20FE3Ea8"
+}

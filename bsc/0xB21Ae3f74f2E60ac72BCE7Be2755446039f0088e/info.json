@@ -1,0 +1,11 @@
+{
+ "name": "Clicks Program",
+ "website": "-",
+ "description": "CLICKS is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xB21Ae3f74f2E60ac72BCE7Be2755446039f0088e",
+ "type": "BEP20",
+ "symbol": " CLICKS ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB21Ae3f74f2E60ac72BCE7Be2755446039f0088e"
+}

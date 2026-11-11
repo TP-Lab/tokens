@@ -1,0 +1,11 @@
+{
+ "name": "Cera",
+ "website": "https://www.cera.land",
+ "description": "A memecoin for new era of human, for human.",
+ "explorer": "https://etherscan.io/token/0x8f32373421ec314ac3a0acd889e705f281f15bfa",
+ "type": "ERC20",
+ "symbol": "CERA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8f32373421EC314AC3A0acd889e705f281f15bfa"
+}

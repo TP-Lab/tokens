@@ -1,0 +1,11 @@
+{
+    "name": "SFT",
+    "website": "https://sft.network/",
+    "description": "SFT Chain, a 'Chain of Chains', bridges physical infra with Web3, focusing on a DePIN platform that integrates storage, computing, edge CDN , and beyond.",
+    "explorer": "https://filfox.info/en/token/0xC5eA96Dd365983cfEc90E72b6A2daC9562f458Ba",
+    "type": "ERC20",
+    "symbol": "SFT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC5eA96Dd365983cfEc90E72b6A2daC9562f458Ba"
+}

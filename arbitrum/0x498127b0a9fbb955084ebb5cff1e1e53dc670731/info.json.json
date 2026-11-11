@@ -1,0 +1,11 @@
+{
+  "name": "HAYA",
+  "website": "https://haya.finance/",
+  "description": "Haya Token (HAYA) serves as the lifeblood of the Haya Ecosystem, fueling its growth and rewarding participants who contribute to its success.",
+  "explorer": "https://arbiscan.io/token/0x498127b0a9fbb955084ebb5cff1e1e53dc670731",
+  "type": "ERC20",
+  "symbol": "HAYA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x498127B0A9fBB955084ebB5cFf1e1e53dC670731"
+}

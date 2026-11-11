@@ -1,0 +1,11 @@
+{
+    "name": "Naka Token",
+    "website": "https://www.nakatoken.io",
+    "description": "Developed on the Polygon platform, Naka Token (NKT) ensures security, scalability and compatibility at every step.",
+    "explorer": "https://polygonscan.com/token/0x5dd1cbf142f4b896d18af835c1734363b0d50fb0",
+    "type": "ERC20",
+    "symbol": "NKT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5dd1cbf142F4B896D18aF835C1734363b0d50fB0"
+   }

@@ -1,0 +1,11 @@
+{
+ "name": "Artificial Intelligence",
+ "website": "https://aicoin.fans",
+ "description": "Blockchain combined with artificial intelligence multi-model public chain.",
+ "explorer": "https://bscscan.com/token/0xF9C57FdF310ca6a5c34B15385cD8b18207Ff7a74",
+ "type": "BEP20",
+ "symbol": "AI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF9C57FdF310ca6a5c34B15385cD8b18207Ff7a74"
+}

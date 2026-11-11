@@ -1,0 +1,11 @@
+{
+  "name": "AABTC",
+  "website": "https://myaitm.com",
+  "description": "The AABTC technology team has significantly enhanced the Bitcoin transaction experience through a series of technological innovations and architectural optimizations. They adopted efficient consensus mechanisms and blockchain technology, optimized transaction processes and block generation speeds, significantly reducing transaction processing times and ensuring rapid transaction confirmations. Additionally, addressing the high miner fees associated with Bitcoin, the team innovatively reduced transfer costs by optimizing transaction strategies and employing advanced transaction matching algorithms. Moreover, to overcome Bitcoin's limitations with smart contracts, AABTC introduced flexible smart contract functionalities, enabling users to create and execute various contracts on the platform, which has promoted the development of decentralized applications (DApps) and digital asset management. AABTC also focuses on user experience by providing an intuitive and friendly interface, and ensures platform security by using the latest encryption technologies and security protocols. These improvements offer users faster, more economical, flexible, and secure digital asset trading and management solutions, helping them better participate in the digital economy and enjoy the conveniences and innovations brought by blockchain technology.",
+  "explorer": "https://bscscan.com/token/0xeE2F295b3a424604f58D417CE9cF3BDF3c784D5E",
+  "type": "BEP20",
+  "symbol": "AABTC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xeE2F295b3a424604f58D417CE9cF3BDF3c784D5E"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MBTCs",
+ "website": "https://mbtcsuper.com",
+ "description": "MBTCs aims to build a global metaverse ecosystem by utilizing the geographical and climatic characteristics of the UAE.",
+ "explorer": "https://bscscan.com/token/0x043ac3fa3d596e7c0d5e16b33ef4f7f64fc9b99f",
+ "type": "BEP20",
+ "symbol": "MBTCs",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x043ac3fa3d596e7c0d5e16b33ef4f7f64fc9b99f"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Single slot finality",
+ "website": "-",
+ "description": "Single slot finality is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xb7bE8dE32d59aa3C3FF0Cc826Ec8e53A2ac7AA9B",
+ "type": "BEP20",
+ "symbol": "SSF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb7bE8dE32d59aa3C3FF0Cc826Ec8e53A2ac7AA9B"
+}

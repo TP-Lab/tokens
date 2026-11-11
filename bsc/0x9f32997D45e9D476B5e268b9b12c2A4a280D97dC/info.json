@@ -1,0 +1,11 @@
+{
+    "name": "NRAL Token",
+    "website": "http://www.neuralcoin.co/",
+    "description": "NRAL is the first decentralized digital asset established through the collaboration of AI intelligent neural network technology on the BSC network.",
+    "explorer": "https://bscscan.com/token/0x9f32997d45e9d476b5e268b9b12c2a4a280d97dc",
+    "type": "BEP20",
+    "symbol": "NRAL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9f32997D45e9D476B5e268b9b12c2A4a280D97dC"
+   }

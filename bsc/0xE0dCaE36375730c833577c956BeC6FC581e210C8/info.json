@@ -1,0 +1,11 @@
+{
+ "name": "MBTnet Coin",
+ "website": "https://www.mbtchain.com",
+ "description": "MBT aims to create a blockchain network that links major intelligent AI models and learns and evolves independently.",
+ "explorer": "https://bscscan.com/token/0xE0dCaE36375730c833577c956BeC6FC581e210C8",
+ "type": "BEP20",
+ "symbol": "MBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE0dCaE36375730c833577c956BeC6FC581e210C8"
+}

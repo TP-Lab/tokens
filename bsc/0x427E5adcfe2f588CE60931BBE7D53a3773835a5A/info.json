@@ -1,0 +1,11 @@
+{
+ "name": "Super btcoin",
+ "website": "-",
+ "description": "Super btcoin is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x427E5adcfe2f588CE60931BBE7D53a3773835a5A",
+ "type": "BEP20",
+ "symbol": "BTCS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x427E5adcfe2f588CE60931BBE7D53a3773835a5A"
+}

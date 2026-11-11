@@ -1,0 +1,11 @@
+{
+ "name": "BMC",
+ "website": "-",
+ "description": "BMC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x7FA2b501cba64dd586Ed4b05eD260E2b31B2c81F",
+ "type": "BEP20",
+ "symbol": " BMC ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7FA2b501cba64dd586Ed4b05eD260E2b31B2c81F"
+}

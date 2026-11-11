@@ -1,0 +1,11 @@
+{
+    "name": "AGB",
+    "website": "https://ido.age.lat?i=1720927024",
+    "description": "AGB（母币）由300个共识社区联合发起.分布式社区共建,上线100%代币进底池,零预留,公平公正,买卖15%滑点分配如下:3%销毁,5%社区奖励,7%铸造子币(买入).7%进子币池子（卖出）.314协议交易.完全去中心化,杜绝端池子关网风险,联动子币AGE,永动机模式,行业天花板,共识者的天堂. 推特 @ling_nian46874 飞机 t.me/age_9999",
+    "explorer": "https://bscscan.com/token/0x04E618805540C675A26D62518597611D3620a8ce",
+    "type": "BEP20",
+    "symbol": "AGB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x04E618805540C675A26D62518597611D3620a8ce"
+}

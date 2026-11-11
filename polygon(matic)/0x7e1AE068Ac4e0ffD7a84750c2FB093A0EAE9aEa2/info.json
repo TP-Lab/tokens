@@ -1,0 +1,11 @@
+{
+    "name": "THE BULLS ARMY",
+    "website": "https://thebullsarmy.com",
+    "description": "The Bulls Army is a meme coin with no utility or inherent value, built on Polygon's Matic Network. Its purpose is to showcase the speed and affordability of the Matic blockchain to crypto users. Despite its lack of functionality, it serves as a playful representation of the bullish sentiment in the crypto market.",
+    "explorer": "https://polygonscan.com/token/0x7e1AE068Ac4e0ffD7a84750c2FB093A0EAE9aEa2",
+    "type": "ERC20",
+    "symbol": "TBA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7e1AE068Ac4e0ffD7a84750c2FB093A0EAE9aEa2"
+   }

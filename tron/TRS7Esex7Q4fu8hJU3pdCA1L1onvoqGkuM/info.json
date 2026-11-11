@@ -1,0 +1,11 @@
+{
+ "name": "GQL",
+ "website": "https://gql.top",
+ "description": "GQL Quantify平台为您提供全球领先的一站式量化交易。 通过GQL Quantify工智能交易机器人，以科学数据为基础，利用大数据、人工智能等信息和计算优势，应用于金融投资领域。 帮助投资者实现资产保值、投资增值服务。",
+ "explorer": "https://tronscan.io/#/token20/TRS7Esex7Q4fu8hJU3pdCA1L1onvoqGkuM",
+ "type": "TRC20",
+ "symbol": "GQL",
+ "decimals": 18,
+ "status": "active",
+ "id": "TRS7Esex7Q4fu8hJU3pdCA1L1onvoqGkuM"
+}

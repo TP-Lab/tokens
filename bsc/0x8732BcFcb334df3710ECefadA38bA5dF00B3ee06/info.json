@@ -1,0 +1,11 @@
+{
+ "name": "MTF",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x8732BcFcb334df3710ECefadA38bA5dF00B3ee06",
+ "type": "BEP20",
+ "symbol": "MTF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8732BcFcb334df3710ECefadA38bA5dF00B3ee06"
+}

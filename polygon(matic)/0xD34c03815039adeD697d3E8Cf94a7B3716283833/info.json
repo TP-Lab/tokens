@@ -1,0 +1,11 @@
+{
+    "name": "Taurus",
+    "website": "https://taurustau.com",
+    "description": "Taurustau Token",
+    "explorer": "https://polygonscan.com/address/0xd34c03815039aded697d3e8cf94a7b3716283833",
+    "type": "ERC20",
+    "symbol": "TAU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd34c03815039aded697d3e8cf94a7b3716283833"
+}

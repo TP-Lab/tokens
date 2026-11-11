@@ -1,0 +1,11 @@
+{ 
+"name": "Content Generation Network (CGN)",
+"website": ".",
+"description": ".",
+"explorer": "https://blockscout-mainnet.akashicrecords.io/token/0x93E35149f65a5Deb5036C764EB711BE2297C64De",
+"type": "ERC-20",
+"symbol": "CGN",
+"decimals": 8,
+"status": "active",
+"id": "0x93E35149f65a5Deb5036C764EB711BE2297C64De"
+}

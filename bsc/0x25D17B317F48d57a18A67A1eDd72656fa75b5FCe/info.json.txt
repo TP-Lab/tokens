@@ -1,0 +1,11 @@
+{
+ "name": "WFTX",
+ "website": "https://x.com/wftx_cn?s=21&t=qMXOh79yRgbq9VLjO4vfvA",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x25D17B317F48d57a18A67A1eDd72656fa75b5FCe",
+ "type": "BEP20",
+ "symbol": "WFTX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x25D17B317F48d57a18A67A1eDd72656fa75b5FCe"
+}

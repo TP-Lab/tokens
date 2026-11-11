@@ -1,0 +1,11 @@
+{
+ "name": "Any Inu",
+ "website": "https://anyinu.xyz",
+ "description": "A multi-chain dog token powered by the Axelar Interchain Token Service",
+ "explorer": "https://snowtrace.io/token/0x2598c30330D5771AE9F983979209486aE26dE875",
+ "type": "ERC20",
+ "symbol": "AI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2598c30330D5771AE9F983979209486aE26dE875"
+}

@@ -1,0 +1,11 @@
+{ 
+"name": "LWD",
+"website": ".",
+"description": ".",
+"explorer": "https://explorer-mainnet.akashicrecords.io/search-address/0xA4a94769974554e2C8ed2Db3c0A9b0221eaB8899",
+"type": "ERC-20",
+"symbol": "LWD",
+"decimals": 8,
+"status": "active",
+"id": "0xA4a94769974554e2C8ed2Db3c0A9b0221eaB8899"
+}

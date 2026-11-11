@@ -1,0 +1,11 @@
+{
+ "name": "Hive Network",
+ "website": "https://hivenetworks.io",
+ "description": "a new era in the world of cryptocurrency. Hive is a decentralized secure network based on blockchain technology. ",
+ "explorer": "https://bscscan.com/token/0xaf6e18ee53693c3bcd144c27df54320e29097595",
+ "type": "BEP20",
+ "symbol": "HNY",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xAF6E18Ee53693C3bcd144C27Df54320e29097595"
+}

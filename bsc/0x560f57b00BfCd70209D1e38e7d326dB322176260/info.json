@@ -1,0 +1,11 @@
+{
+ "name": "Gaming World Token",
+ "website": "-",
+ "description": "Gaming World Token is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x560f57b00BfCd70209D1e38e7d326dB322176260",
+ "type": "BEP20",
+ "symbol": " GWT ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x560f57b00BfCd70209D1e38e7d326dB322176260"
+}

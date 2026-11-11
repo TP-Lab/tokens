@@ -1,0 +1,12 @@
+{
+ "name": "Space ice",
+ "website": ".",
+ "description": "
+Space Ice is a social experiment initiated by several leaders of the Core community and deployed on the Core Chain. It follows the powerful rise of Core.",
+ "explorer": "https://scan.coredao.org/address/0xEF8e5448A66A08F0223eC116D0E948b932d41111",
+ "type": "ERC-20",
+ "symbol": "Space ice",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEF8e5448A66A08F0223eC116D0E948b932d41111"
+}

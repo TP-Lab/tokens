@@ -1,0 +1,11 @@
+{
+  "name": "KANGAROO GIFT",
+  "website": "https://www.kangaroo.plus/",
+  "description": "Kangaroo is committed to providing first-hand information on DEFI, allowing users to obtain first-hand information first-hand. We work tirelessly to promote DeFi and create a blockchain information platform where at least one coin doubles every day. At the same time, we provide financial support for blockchain entrepreneurs and create an efficient channel for rapid breakthroughs from 0 to 1.",
+  "explorer": "https://bscscan.com/token/0x42E32147EEE41a35fE7e16c11f5aAe9F78e746Ed",
+  "type": "BEP20",
+  "symbol": "KOG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x42E32147EEE41a35fE7e16c11f5aAe9F78e746Ed"
+}

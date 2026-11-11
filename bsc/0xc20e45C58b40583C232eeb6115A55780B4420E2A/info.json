@@ -1,0 +1,11 @@
+{ 
+"name": "WLE",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0xc20e45C58b40583C232eeb6115A55780B4420E2A",
+"type": "BEP20",
+"symbol": "WLE",
+"decimals": 18,
+"status": "active",
+"id": "0xc20e45C58b40583C232eeb6115A55780B4420E2A"
+}

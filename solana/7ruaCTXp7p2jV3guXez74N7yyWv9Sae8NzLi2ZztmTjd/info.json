@@ -1,0 +1,11 @@
+{
+    "name": "rSPD-SOL v4 LP",
+    "website": "https://sft.network/",
+    "description": "rSPD-SOL v4 LP, Raydium AMM ID: ECsFHUjTSeiCe3uqKV67d7ubWxBxUph4XKAKwwUFpiLT",
+    "explorer": "https://solscan.io/token/7ruaCTXp7p2jV3guXez74N7yyWv9Sae8NzLi2ZztmTjd",
+    "type": "SPL",
+    "symbol": "rSPD-SOL-RLP",
+    "decimals": 9,
+    "status": "active",
+    "id": "7ruaCTXp7p2jV3guXez74N7yyWv9Sae8NzLi2ZztmTjd"
+}

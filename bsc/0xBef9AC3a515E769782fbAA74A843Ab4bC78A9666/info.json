@@ -1,0 +1,11 @@
+{
+ "name": "666",
+ "website": "-",
+ "description": "666 is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xBef9AC3a515E769782fbAA74A843Ab4bC78A9666",
+ "type": "BEP20",
+ "symbol": " 666 ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBef9AC3a515E769782fbAA74A843Ab4bC78A9666"
+}

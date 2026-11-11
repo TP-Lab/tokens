@@ -1,0 +1,11 @@
+{
+ "name": "GNB",
+ "website": "https://www.ginance.ai/",
+ "description": "GNB is the ecosystem token of GINANCE, with a total supply of 10 billion tokens, and no additional issuance. The distribution of GNB is clear, concise, and reasonable.",
+ "explorer": "https://arbiscan.io/token/0x439c0cf1038f8002a4cad489b427e217ba4b42ad",
+ "type": "Arbitrum One",
+ "symbol": "GNB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x439C0cF1038F8002A4CAD489b427e217BA4B42AD"
+}

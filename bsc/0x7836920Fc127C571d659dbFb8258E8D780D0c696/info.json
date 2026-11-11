@@ -1,0 +1,11 @@
+{
+  "name": "ATL",
+  "website": "",
+  "description": "",
+  "explorer": "https://bscscan.com/token/0x7836920Fc127C571d659dbFb8258E8D780D0c696",
+  "type": "BEP20",
+  "symbol": "ATL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7836920Fc127C571d659dbFb8258E8D780D0c696"
+}

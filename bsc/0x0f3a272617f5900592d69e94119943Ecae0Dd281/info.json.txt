@@ -1,0 +1,11 @@
+{
+ "name": "GGSQ",
+ "website": "https://t.me/QJKingBNB",
+ "description": "GGSQ呱呱社區是由一群有夢想，有團隊、有格局、有行動力的區塊鏈愛好者聯合發起，聚集著一批區塊鏈精英，呱呱社區一直秉承著公平、公正、公開的原則，集價值投資、散戶之家等各種屬性於一體。呱呱社區期待你的加入！！",
+ "explorer": "https://bscscan.com/token/0x0f3a272617f5900592d69e94119943Ecae0Dd281",
+ "type": "BEP20",
+ "symbol": "GGSQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0f3a272617f5900592d69e94119943Ecae0Dd281"
+}

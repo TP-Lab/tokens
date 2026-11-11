@@ -1,0 +1,11 @@
+{
+ "name": "Zillion Stars Dreamer",
+ "website": "https://zsdcoin.com/",
+ "description": "Zillion Stars Dreamere provides a blockchain-based BSC development platform that can serve developers around the world",
+ "explorer": "https://bscscan.com/token/0x09a6fb42E73e5a6926c5d3d6E9Ae01f2Fce9C6B7",
+ "type": "BEP20",
+ "symbol": "ZSD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x09a6fb42E73e5a6926c5d3d6E9Ae01f2Fce9C6B7"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "BG Coin",
+    "website": "https://bgswap.xyz",
+    "description": "A Defi ecosystem developed with BGC as the center, with features such as pledge, exchange, NFT, etc. Welcome to the new Web3, we are the new generation of Web3 paradigm.",
+    "explorer": "https://bscscan.com/token/0xd82e40973e4d2ed0c03b6efee3af07e5d14cf75c",
+    "type": "BEP20",
+    "symbol": "BGC",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xd82e40973e4d2ed0c03b6efee3af07e5d14cf75c"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Leba",
+ "website": "",
+ "description": "Leba coin",
+ "explorer": "https://bscscan.com/token/0xEE63883b8A7fE504d450B7455F6F3419036c2463",
+ "type": "BEP20",
+ "symbol": "LB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEE63883b8A7fE504d450B7455F6F3419036c2463"
+}

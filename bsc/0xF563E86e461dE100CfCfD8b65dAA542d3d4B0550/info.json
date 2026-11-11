@@ -1,0 +1,11 @@
+{
+  "name": "COCOCOIN",
+  "website": "https://cococoin.tech/",
+  "description": "SocialFi meme coin",
+  "explorer": "https://bscscan.com/token/0xF563E86e461dE100CfCfD8b65dAA542d3d4B0550",
+  "type": "BEP20",
+  "symbol": "COCO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xF563E86e461dE100CfCfD8b65dAA542d3d4B0550"
+}

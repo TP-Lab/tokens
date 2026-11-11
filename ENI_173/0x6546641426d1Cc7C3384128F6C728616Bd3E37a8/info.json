@@ -1,0 +1,11 @@
+{
+    "name": "MEX",
+    "website": ".",
+    "description": "MEX is for the young, the restless, the meme-obsessed. We're talking savage burns, a community tighter than a black hole's singularity, and enough marketing fuel to launch us straight to the moon (and maybe even Mars, if we're feeling frisky). ",
+    "explorer": "https://scan.eniac.network/token/0x6546641426d1Cc7C3384128F6C728616Bd3E37a8",
+    "type": ERC20",
+    "symbol": "MEX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6546641426d1Cc7C3384128F6C728616Bd3E37a8"
+}

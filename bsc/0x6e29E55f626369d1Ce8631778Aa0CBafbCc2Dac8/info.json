@@ -1,0 +1,12 @@
+{ 
+"name": "Dino",
+"website": "https://entropynetwork.io",
+"description": "Entropy platform’s blockchain game ecosystem will launch its first GameFi+DeFi Dino protocol, officially on July 1.
+As the first DeFi protocol introduced by the platform, the issuance of the game application token, Dino, will not only be utilized within the initial game but will also circulate across multiple game ecosystems in the future.",
+"explorer": "https://bscscan.com/token/0x6e29E55f626369d1Ce8631778Aa0CBafbCc2Dac8",
+"type": "BEP20",
+"symbol": "Dino",
+"decimals": 18,
+"status": "active",
+"id": "0x6e29E55f626369d1Ce8631778Aa0CBafbCc2Dac8"
+}

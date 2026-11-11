@@ -1,0 +1,11 @@
+{
+    "name": "Phecda",
+    "website": "https://pcddao.com",
+    "description": "PhecdaChain is a highly scalable PoS blockchain with integrated Phecda-Staking-Derivative Bridge.",
+    "explorer": "https://bscscan.com/token/0xCEb24C99579e6140517D59c8Dd4F5b36D84ED6de",
+    "type": "BEP20",
+    "symbol": "PCD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xCEb24C99579e6140517D59c8Dd4F5b36D84ED6de"
+   }

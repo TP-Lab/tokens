@@ -1,0 +1,11 @@
+{
+ "name": "PBIE",
+ "website": "http://pbietoken.com",
+ "description": "P2E, S2E, R2E, T2E, H2E NFT Platform focused on user reward system.",
+ "explorer": "https://bscscan.com/token/0xe825056eE107d8044F6f811CAE6bb2D96e011DFd",
+ "type": "BEP20",
+ "symbol": "PBIE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe825056eE107d8044F6f811CAE6bb2D96e011DFd"
+}

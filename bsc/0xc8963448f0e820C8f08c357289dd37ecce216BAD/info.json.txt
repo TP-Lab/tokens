@@ -1,0 +1,11 @@
+{
+ "name": "XHY",
+ "website": "https://hycoin.xyz/?ref=0x401ae7cdbc94db1fb2509850d0d10a813703f078&utm_source=tokenpocket",
+ "description": "天使公会推出双币挖矿，HY 主币和 XHY 子币各占 50%，每天约 1% 静态收益，还有丰富动态收益。HY 价格达到 3000 美元时，推出交易所，1 万美元时推出生态钱包，最终 HY 销毁至 888 枚，XHY 用于平台币兑换。",
+ "explorer": "https://bscscan.com/token/0xc8963448f0e820C8f08c357289dd37ecce216BAD",
+ "type": "BEP20",
+ "symbol": "XHY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc8963448f0e820C8f08c357289dd37ecce216BAD"
+}

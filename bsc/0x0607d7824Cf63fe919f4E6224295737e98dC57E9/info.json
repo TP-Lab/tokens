@@ -1,0 +1,11 @@
+{
+ "name": "ARF",
+ "website": "https://arf.defi.finance",
+ "description": "A Revolutionary Finance Token",
+ "explorer": "https://bscscan.com/token/0x0607d7824Cf63fe919f4E6224295737e98dC57E9",
+ "type": "ERC20",
+ "symbol": "ARF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0607d7824Cf63fe919f4E6224295737e98dC57E9"
+}

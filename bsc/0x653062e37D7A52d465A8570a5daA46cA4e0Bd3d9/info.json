@@ -1,0 +1,11 @@
+{
+ "name": "Forty Two DAO Token",
+ "website": "https://42dao.org",
+ "description": "Unlocking the potential of a stablecoin-powered future.",
+ "explorer": "https://bscscan.com/token/0x653062e37D7A52d465A8570a5daA46cA4e0Bd3d9",
+ "type": "BEP20",
+ "symbol": "FTD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x653062e37D7A52d465A8570a5daA46cA4e0Bd3d9"
+}

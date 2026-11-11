@@ -1,0 +1,11 @@
+{
+ "name": "Trading Exporting chain",
+ "website": "-",
+ "description": "TEC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xcF9D5b2F22E2f89e53E73b31A13D5aA7eDc8db78",
+ "type": "BEP20",
+ "symbol": "TEC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcF9D5b2F22E2f89e53E73b31A13D5aA7eDc8db78"
+}

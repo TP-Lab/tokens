@@ -1,0 +1,11 @@
+{
+ "name": "Neiro Inu",
+ "website": "https://neiroinu.org/",
+ "description": "Neiro Inu is a token inspired by Atsuko Sato's dog Neiro",
+ "explorer": "https://bscscan.com/token/0x3b650CAa75d6C3fcC479a4F3Ec93429cc26688a2",
+ "type": "BEP20",
+ "symbol": "NEIROINU",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3b650CAa75d6C3fcC479a4F3Ec93429cc26688a2"
+}

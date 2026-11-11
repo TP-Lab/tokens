@@ -1,0 +1,11 @@
+{
+ "name": "Sky Coin",
+ "website": ".",
+ "description": "The SKY (Sky Coin) is the second public welfare sub-coin of the HELP Chain.",
+ "explorer": "https://bscscan.com/address/0xbdc9464edf04be16f88a5cd6e54b8e8428dd8533",
+ "type": "BEP20",
+ "symbol": "SKY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBdC9464Edf04bE16f88A5Cd6E54B8E8428Dd8533"
+}

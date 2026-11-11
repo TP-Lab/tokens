@@ -1,0 +1,11 @@
+{
+ "name": "EXboy",
+ "website": "-",
+ "description": "EXboy is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xdf4895Cd8247284Ae3a7b3E28cf6c03113fADa5f",
+ "type": "BEP20",
+ "symbol": "EXboy",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdf4895Cd8247284Ae3a7b3E28cf6c03113fADa5f"
+}

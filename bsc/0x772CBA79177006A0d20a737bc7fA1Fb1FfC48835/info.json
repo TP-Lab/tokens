@@ -1,0 +1,11 @@
+{ 
+"name": "CXC",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0x772CBA79177006A0d20a737bc7fA1Fb1FfC48835",
+"type": "BEP20",
+"symbol": "CXC",
+"decimals": 18,
+"status": "active",
+"id": "0x772CBA79177006A0d20a737bc7fA1Fb1FfC48835"
+}

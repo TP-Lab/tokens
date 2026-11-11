@@ -1,0 +1,11 @@
+{
+ "name": "GODE",
+ "website": "https://godechain.com/  ",
+ "description": "About GODE Gode Chain is a cutting-edge  protocol designed for Web3.0. It employs a heterogeneous multi-chain framework, enabling seamless operation of private blockchain networks at scale. With features like multi-chain commonality, data interoperability, and transparent governance",
+ "explorer": "https://bscscan.com/token/0x262fCC86a33e9a741778d3DF3bAdB675a26563aa",
+ "type": "BEP20",
+ "symbol": "GODE",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x262fCC86a33e9a741778d3DF3bAdB675a26563aa"
+}

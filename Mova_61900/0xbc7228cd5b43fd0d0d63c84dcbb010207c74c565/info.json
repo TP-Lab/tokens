@@ -1,0 +1,11 @@
+{
+  "name": "TCL",
+  "website": "..",
+  "description": "",
+  "explorer": "https://scan.movachain.com/token/0xbc7228cd5b43fd0d0d63c84dcbb010207c74c565",
+  "type": "MRC-20",
+  "symbol": "TCL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbc7228cd5b43fd0d0d63c84dcbb010207c74c565"
+}

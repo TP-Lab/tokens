@@ -1,0 +1,11 @@
+{
+ "name": "NSM Token",
+ "website": "https://bscscan.com/token/0x61E0b5B4639b0B76661636a81C6c1a19a2141baE",
+ "description": "The NSM (New Star Main) Coin is a digital incentive token issued by the BSC Chain Foundation. It is used to incentivize and develop the T-PAY Global wallet gaming community.",
+ "explorer": "https://bscscan.com/token/0x61E0b5B4639b0B76661636a81C6c1a19a2141baE",
+ "type": "BEP20",
+ "symbol": "NSM",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x61E0b5B4639b0B76661636a81C6c1a19a2141baE"
+}

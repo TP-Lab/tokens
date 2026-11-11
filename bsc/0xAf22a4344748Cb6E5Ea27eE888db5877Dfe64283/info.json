@@ -1,0 +1,11 @@
+{
+ "name": "BOME-314",
+ "website": "https://bscscan.com/token/0xAf22a4344748Cb6E5Ea27eE888db5877Dfe64283",
+ "description": "BOME-314 Coin.",
+ "explorer": "https://bscscan.com/token/0xAf22a4344748Cb6E5Ea27eE888db5877Dfe64283",
+ "type": "BEP20",
+ "symbol": "BOME314",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAf22a4344748Cb6E5Ea27eE888db5877Dfe64283"
+}

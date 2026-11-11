@@ -1,0 +1,11 @@
+{
+ "name": "Aitradinge USDE Token",
+ "website": "https://aitradinge.com",
+ "description": "USDE is a token equivalent to USDT used by the aitradide platform",
+ "explorer": "https://bscscan.com/address/0xd0E42834260eC070A29c7503953033dAAd558746",
+ "type": "BEP20",
+ "symbol": "USDE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd0E42834260eC070A29c7503953033dAAd558746"
+}

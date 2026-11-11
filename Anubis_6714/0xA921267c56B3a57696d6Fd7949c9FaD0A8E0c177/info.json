@@ -1,0 +1,11 @@
+{
+  "name": "A",
+  "website": "https://anubischain.ai/",
+  "description": "A token on Anubis.",
+  "explorer": "https://browser.anubispace.org/token/0xA921267c56B3a57696d6Fd7949c9FaD0A8E0c177",
+  "type": "ERC-20",
+  "symbol": "A",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xA921267c56B3a57696d6Fd7949c9FaD0A8E0c177"
+}

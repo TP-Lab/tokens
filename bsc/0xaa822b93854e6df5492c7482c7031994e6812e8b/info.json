@@ -1,0 +1,11 @@
+{
+ "name": "PEX Token",
+ "website": "https://miner.pepdat.com/",
+ "description": "Web3.0 decentralized crowdfunding platform",
+ "explorer": "https://bscscan.com/token/0xaa822b93854e6df5492c7482c7031994e6812e8b",
+ "type": "BEP20",
+ "symbol": "PEX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaa822b93854e6df5492c7482c7031994e6812e8b"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Altruism Coin",
+ "website": "https://angelx.ac",
+ "description": "AC (Altruism Coin) is Angel X's contribution token, a symbol of trust, cooperation, and shared goals. AC rewards are not only recognition of community members, but also motivation for them to continuously create value for society.",
+ "explorer": "https://bscscan.com/token/0xc51690e452ce8e0155a0deb9d16c944a3c8aadcc",
+ "type": "BEP20",
+ "symbol": "AC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc51690e452ce8e0155a0deb9d16c944a3c8aadcc"
+}

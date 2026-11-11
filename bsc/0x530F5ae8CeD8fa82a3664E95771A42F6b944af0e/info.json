@@ -1,0 +1,11 @@
+{
+  "name": "Big Healthy ecological token ",
+  "website": "http://www.bhet.cc",
+  "description": "BHET stands for Big Healthy Ecological Token, an innovative digital asset issued based on a physical big health chain organization. The total issuance of BHET is 168 million, aiming to build a widely covered health ecosystem. ",
+  "explorer": "https://bscscan.com/token/0x530f5ae8ced8fa82a3664e95771a42f6b944af0e",
+  "type": "BEP20",
+  "symbol": "BHET",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x530F5ae8CeD8fa82a3664E95771A42F6b944af0e"
+}

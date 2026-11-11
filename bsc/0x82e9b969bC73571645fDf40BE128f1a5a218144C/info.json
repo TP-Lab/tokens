@@ -1,0 +1,11 @@
+{
+    "name": "AMA",
+    "website": "https://twitter.com/ama_safe",
+    "description": "The total number of AMAs is 26 million, which will help promote the better development of the web3 ecosystem and incubate more high-quality projects",
+    "explorer": "https://www.bscscan.com/token/0x82e9b969bC73571645fDf40BE128f1a5a218144C",
+    "type": "BEP20",
+    "symbol": "AMA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x82e9b969bC73571645fDf40BE128f1a5a218144C"
+ }

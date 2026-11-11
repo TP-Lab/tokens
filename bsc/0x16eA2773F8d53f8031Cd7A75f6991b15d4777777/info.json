@@ -1,0 +1,11 @@
+{
+ "name": "SVT Wallet",
+ "website": "https://svt.cash",
+ "description": "SVT Wallet is a cryptocurrency wallet that combines AI technology to track “smart money",
+ "explorer": "https://bscscan.com/token/0x16ea2773f8d53f8031cd7a75f6991b15d4777777",
+ "type": "BEP20",
+ "symbol": "SVT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x16eA2773F8d53f8031Cd7A75f6991b15d4777777"
+}

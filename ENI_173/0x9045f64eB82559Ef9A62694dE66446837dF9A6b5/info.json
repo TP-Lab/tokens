@@ -1,0 +1,11 @@
+{
+    "name": "ENIMZ",
+    "website": "https://www.eniac.network",
+    "description": " ",
+    "explorer": "https://scan.eniac.network/token/0x9045f64eB82559Ef9A62694dE66446837dF9A6b5",
+    "type": "ERC20",
+    "symbol": "ENIMZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9045f64eB82559Ef9A62694dE66446837dF9A6b5"
+}
