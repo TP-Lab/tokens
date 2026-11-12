@@ -1,0 +1,11 @@
+{
+ "name": "Tether USD",
+ "website": "https://tether.to",
+ "description": "USDT TRC20 token on the TRON blockchain: 6 decimals, 1,300,000,000 supply, mint and freeze support.",
+ "explorer": "https://tronscan.org/#/token20/TXtw3gEGj4z5KE2m77dFVYfVubDoubYx5M",
+ "type": "TRC20",
+ "symbol": "USDT",
+ "decimals": 6,
+ "status": "active",
+ "id": "TXtw3gEGj4z5KE2m77dFVYfVubDoubYx5M"
+}
