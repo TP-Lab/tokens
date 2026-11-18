@@ -1,0 +1,11 @@
+{
+    "name": "Midas Gold",
+    "website": "https://onmidas.xyz",
+    "description": "MGLD (Midas Gold) is the gold token of Midas Chain testnet: 1 MGLD stands for 1 gram of test gold. Testnet tokens, no monetary value.",
+    "explorer": "https://explorer.testnet.onmidas.xyz/token/0x59eB4486586D62c13806961E47b0c90785394d7c",
+    "type": "ERC20",
+    "symbol": "MGLD",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x59eB4486586D62c13806961E47b0c90785394d7c"
+}
