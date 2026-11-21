@@ -1,0 +1,11 @@
+{
+  "name": "WDEO DAO    Token",
+  "website": "https://WDEODAO.com/",
+  "description": "BSC",
+  "explorer": "https://bscscan.com/address/0xc1dfcfffd17b0b8276df2531b59ff0d84397475e",
+  "type": "BEP20",
+  "symbol": "WDEO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc1DfcffFD17B0b8276dF2531b59fF0d84397475e"
+} 

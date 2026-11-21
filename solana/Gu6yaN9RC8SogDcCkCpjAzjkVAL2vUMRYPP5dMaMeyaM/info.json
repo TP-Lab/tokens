@@ -1,0 +1,11 @@
+{
+ "name": "Hash",
+ "website": "https://www.hashcoin.world",
+ "description": "A stable currency.",
+ "explorer": "https://solscan.io/token/Gu6yaN9RC8SogDcCkCpjAzjkVAL2vUMRYPP5dMaMeyaM",
+ "type": "SPL",
+ "symbol": "HASH",
+ "decimals": 9,
+ "status": "active",
+ "id": "Gu6yaN9RC8SogDcCkCpjAzjkVAL2vUMRYPP5dMaMeyaM"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BIF",
+  "website": "https://dapp.bifverse.com",
+  "description": "The world's first pure contract economic model supports multi-ecological parallelism.",
+  "explorer": "https://bscscan.com/token/0x7b533Fe5dE54191C409F5A980CcA240582f862B8",
+  "type": "BEP20",
+  "symbol": "BIF",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7b533Fe5dE54191C409F5A980CcA240582f862B8"
+}

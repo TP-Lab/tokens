@@ -1,0 +1,11 @@
+{
+    "name": "AI Task (AIT)",
+    "website": "https://www.eniac.network",
+    "description": " ",
+    "explorer": "https://scan.eniac.network/token/0x4FAF56D37888f013f92cB30aB7afc37064F91180",
+    "type": "ERC20",
+    "symbol": "AIT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4FAF56D37888f013f92cB30aB7afc37064F91180"
+}

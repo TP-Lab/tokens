@@ -1,0 +1,11 @@
+{
+ "name": "Gold Seed",
+ "website": "https://blwm365.com",
+ "description": "GSD (Gold Seed) is decided by the Miracle Alliance DAO vote, based on the new IDO mechanism that provides the first reward of original digital assets,Every link around the Miracle Alliance, including community governance, application ecology, etc., is executed by smart contracts to ensure that the authenticity cannot be tampered with.To achieve sustainable and long-term development of the community.",
+ "explorer": "https://bscscan.com/token/0xb12e8eb6b1f24e14381514d2f3b75e7c61487016",
+ "type": "BEP20",
+ "symbol": "GSD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB12E8Eb6b1F24e14381514d2f3B75e7c61487016"
+}

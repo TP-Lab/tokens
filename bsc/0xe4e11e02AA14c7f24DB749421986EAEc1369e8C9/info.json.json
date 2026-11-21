@@ -1,0 +1,11 @@
+{
+ "name": "Minati",
+ "website": "https://minati.io/",
+ "description": "Minati is a leading digital currency platform, combining DeFi, AI, and blockchain to revolutionize finance.",
+ "explorer": "https://bscscan.com/token/0xe4e11e02AA14c7f24DB749421986EAEc1369e8C9",
+ "type": "BEP20",
+ "symbol": "MNTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe4e11e02AA14c7f24DB749421986EAEc1369e8C9"
+}

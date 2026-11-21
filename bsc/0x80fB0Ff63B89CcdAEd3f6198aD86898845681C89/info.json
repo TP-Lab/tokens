@@ -1,0 +1,11 @@
+{
+ "name": "MVCC Token",
+ "website": "https://mvcc.co",
+ "description": "MVCC token is a decentralized digital asset based on blockchain technology, a new generation of network currency based on P2P network and cryptography, with global circulation, constant total volume, anonymous transaction, scarcity features.",
+ "explorer": "https://bscscan.com/token/0x80fb0ff63b89ccdaed3f6198ad86898845681c89",
+ "type": "BEP20",
+ "symbol": "MVCC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x80fB0Ff63B89CcdAEd3f6198aD86898845681C89"
+}

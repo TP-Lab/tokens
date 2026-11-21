@@ -1,0 +1,11 @@
+{
+ "name": "LEGEND OF FOOTBALL",
+ "website": "https://www.lof.world",
+ "description": "The world’s first send to earn web3.0 sports platform.",
+ "explorer": "https://bscscan.com/token/0xCb1AF75AE11A64FE101d3529B91a026867B320d3",
+ "type": "BEP20",
+ "symbol": "LOL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCb1AF75AE11A64FE101d3529B91a026867B320d3"
+}

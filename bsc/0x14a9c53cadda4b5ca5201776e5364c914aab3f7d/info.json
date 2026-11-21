@@ -1,0 +1,11 @@
+{
+ "name": "Token LHGOXI",
+ "website": "https://queyi.pro",
+ "description": "BSC,
+ "explorer": "https://bscscan.com/token/0x14a9c53cadda4b5ca5201776e5364c914aab3f7d",
+ "type": "BEP20",
+ "symbol": "LHGOXI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x14a9c53cadda4b5ca5201776e5364c914aab3f7d"
+}

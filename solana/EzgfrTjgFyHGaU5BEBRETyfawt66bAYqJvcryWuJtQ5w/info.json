@@ -1,0 +1,11 @@
+{
+ "name": "Borzoi",
+ "website": "-",
+ "description": "Borzoi is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://solscan.io/token/EzgfrTjgFyHGaU5BEBRETyfawt66bAYqJvcryWuJtQ5w",
+ "type": "Solana",
+ "symbol": "Borzoi",
+ "decimals": 9,
+ "status": "active",
+ "id": "EzgfrTjgFyHGaU5BEBRETyfawt66bAYqJvcryWuJtQ5w"
+}

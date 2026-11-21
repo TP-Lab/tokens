@@ -1,0 +1,11 @@
+{
+ "name": "SHIBTC",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0xf9Db28c6DdfBBA75eCb5f17bE0165B415112729e",
+ "type": "HRC-2",
+ "symbol": "SHIBTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf9Db28c6DdfBBA75eCb5f17bE0165B415112729e"
+}

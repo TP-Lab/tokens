@@ -1,0 +1,11 @@
+{
+ "name": "TSTOKEN Token",
+ "website": "------",
+ "description": "Angel Forest is a super traffic platform for all things to share zero information difference in the era of web3.0",
+ "explorer": "https://bscscan.com/token/0x29b430be2f16ef7534d094016fc63a3cfef6afbc",
+ "type": "BEP20",
+ "symbol": "TS",
+ "decimals": 18,
+ "status": "Inactive",
+ "id": "0x29B430Be2f16eF7534d094016FC63A3cFeF6AfbC"
+}

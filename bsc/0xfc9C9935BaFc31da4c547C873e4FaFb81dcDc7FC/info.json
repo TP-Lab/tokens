@@ -1,0 +1,11 @@
+{
+ "name": "GalaxyArk",
+ "website": "-",
+ "description": "GalaxyArk Tokenis an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xfc9c9935bafc31da4c547c873e4fafb81dcdc7fc",
+ "type": "BEP20",
+ "symbol": "GalaxyArk",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfc9C9935BaFc31da4c547C873e4FaFb81dcDc7FC"
+}

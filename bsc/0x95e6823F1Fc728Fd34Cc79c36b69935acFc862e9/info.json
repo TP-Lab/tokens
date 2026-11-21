@@ -1,0 +1,11 @@
+{
+ "name": "NWN",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/address/0x95e6823F1Fc728Fd34Cc79c36b69935acFc862e9",
+ "type": "BEP20",
+ "symbol": "NWN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x95e6823F1Fc728Fd34Cc79c36b69935acFc862e9"
+}

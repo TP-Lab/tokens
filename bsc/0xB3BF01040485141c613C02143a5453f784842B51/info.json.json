@@ -1,0 +1,11 @@
+{
+  "name": "EMMET",
+  "website": "https://www.leek.la",
+  "description": "EMM (Ant Coin) is the king of insects! Unity, hard work, self-discipline! Full DAO autonomy, ceiling in DEFI! ",
+  "explorer": "https://bscscan.com/token/0xb3bf01040485141c613c02143a5453f784842b51",
+  "type": "BEP20",
+  "symbol": "EMM",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb3bf01040485141c613c02143a5453f784842b51"
+}

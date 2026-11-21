@@ -1,0 +1,11 @@
+{
+ "name": "Bitcoin Gold",
+ "website": "-",
+ "description": "Bitcoin Gold is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x0Bd74A50F0309Bc11158c4af11c20E5Fda5E43da",
+ "type": "BEP20",
+ "symbol": " BTG ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0Bd74A50F0309Bc11158c4af11c20E5Fda5E43da"
+}

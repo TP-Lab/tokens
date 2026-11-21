@@ -1,0 +1,11 @@
+{
+  "name": "BabyFist",
+  "website": "http://babyfist.net/",
+  "description": "Hold $BabyFist, Recive FIST bonus forever and forever!",
+  "explorer": "https://www.bscscan.com/token/0xa5c3ab116a8bc6cc055cf4f94b77a601c14fb1ee",
+  "type": "BEP20",
+  "symbol": "BabyFist",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa5c3ab116a8bC6CC055cf4F94B77A601C14fb1EE"
+}

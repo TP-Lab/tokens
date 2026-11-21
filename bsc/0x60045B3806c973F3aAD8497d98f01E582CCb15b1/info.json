@@ -1,0 +1,11 @@
+{
+ "name": "KingMetaChain",
+ "website": "https://www.jingyu77.com",
+ "description": "King Meta Cross 是深耕于文化和娱乐产业的数据互交领域的跨协议系统，集合虚拟现实（VR）、增强现实（AR）、混合现实（MR）及5G/6G、web3.0、区块链等技术，实现下一代互联网新形态。KMC是一种Join-Too-Earn机制共建概念，基于现实世界中的数据在不同层面上进行交互：链上和链下。链下保证了用户的体验感和活跃度，链上保证了用户的数据安全性，在符合DAO的治理规则的同时也推进WEB3的发展进程。",
+ "explorer": "https://bscscan.com/token/0x60045B3806c973F3aAD8497d98f01E582CCb15b1",
+ "type": "BEP20",
+ "symbol": "KMC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x60045B3806c973F3aAD8497d98f01E582CCb15b1"
+}

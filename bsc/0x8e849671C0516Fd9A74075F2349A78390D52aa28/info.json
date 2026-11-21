@@ -1,0 +1,11 @@
+{
+ "name": "DasBaby INU",
+ "website": "http://dasbabyinu.com",
+ "description": "DasBaby inspired by ElonMusk,Das Baby would be a hit!",
+ "explorer": "https://bscscan.com/token/0x8e849671C0516Fd9A74075F2349A78390D52aa28",
+ "type": "BEP20",
+ "symbol": "DasBaby",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8e849671C0516Fd9A74075F2349A78390D52aa28"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Torah Energy Guardian",
+ "website": "https://EnergyGuardian.com",
+ "description": "Torah Energy Guardian.",
+ "explorer": "https://bscscan.com/address/0x6104947274a38CaEeb66ec84C5b78095a75AD4f8",
+ "type": "BEP20",
+ "symbol": "TEG",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x6104947274a38CaEeb66ec84C5b78095a75AD4f8"
+}

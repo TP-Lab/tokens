@@ -1,0 +1,11 @@
+{
+ "name": "BFIC COIN",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x7f045e3c66A1F13b914200e061b010E50c7CCd67",
+ "type": "BSC20",
+ "symbol": "BFIC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x7f045e3c66A1F13b914200e061b010E50c7CCd67"
+}

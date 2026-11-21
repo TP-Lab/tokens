@@ -1,0 +1,11 @@
+{
+    "name": "Sunshine",
+    "website": "https://tokenpocket.pro",
+    "description": "Sunshine, a comprehensive metaverse chain game platform developed based on Binance Smart Chain",
+    "explorer": "https://bscscan.com/token/0xA06bD69d0214F0FCf257A76a11FFc3D4d1A656CF",
+    "type": "BEP20",
+    "symbol": "SUNS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA06bD69d0214F0FCf257A76a11FFc3D4d1A656CF"
+   }

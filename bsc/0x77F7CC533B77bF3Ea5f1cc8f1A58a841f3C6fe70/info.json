@@ -1,0 +1,11 @@
+{
+ "name": "DEST",
+ "website": "https://desertprot.com/",
+ "description": "DEST is a decentralized exchange (DEX) on binance smart Chain BSC.",
+ "explorer": "https://bscscan.com/token/0x77F7CC533B77bF3Ea5f1cc8f1A58a841f3C6fe70",
+ "type": "BEP20",
+ "symbol": "DEST",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x77F7CC533B77bF3Ea5f1cc8f1A58a841f3C6fe70"
+} 

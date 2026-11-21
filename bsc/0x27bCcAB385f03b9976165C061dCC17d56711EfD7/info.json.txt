@@ -1,0 +1,11 @@
+{
+ "name": "QS",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x27bCcAB385f03b9976165C061dCC17d56711EfD7",
+ "type": "BEP20",
+ "symbol": "QS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x27bCcAB385f03b9976165C061dCC17d56711EfD7"
+}

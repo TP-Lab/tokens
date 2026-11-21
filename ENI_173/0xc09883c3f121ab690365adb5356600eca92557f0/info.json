@@ -1,0 +1,11 @@
+{
+    "name": "SHOVEL",
+    "website": "https://www.eniac.network",
+    "description": " ",
+    "explorer": "https://scan.eniac.network/token/0xc09883c3f121AB690365adB5356600eca92557f0",
+    "type": "ERC20",
+    "symbol": "SHOVEL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc09883c3f121AB690365adB5356600eca92557f0"
+}

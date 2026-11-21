@@ -1,0 +1,11 @@
+{
+ "name": "Hello Metaverse Token",
+ "website": "https://www.hellodao.world",
+ "description": "Hello DAO is a Free-to-Play game built on Polygon featuring a completely free and fair minted launch. Ownership grants you access to the future in-game functions, along with unique giveaways and airdrops.",
+ "explorer": "https://polygonscan.com/token/0x25412B8e8fd20fD5C875227DA1641Ef490191a5d",
+ "type": "ERC20",
+ "symbol": "HELLO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x25412B8e8fd20fD5C875227DA1641Ef490191a5d"
+}

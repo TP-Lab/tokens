@@ -1,0 +1,11 @@
+{
+ "name": "BTDOG",
+ "website": "No",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x3e7960a0cd30dfde3c57e071936b98c7e98c8303",
+ "type": "BEP20",
+ "symbol": "BTDOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3e7960a0cd30dfde3c57e071936b98c7e98c8303"
+}

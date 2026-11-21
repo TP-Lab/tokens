@@ -1,0 +1,11 @@
+{
+ "name": "Pancake LPs",
+ "website": "https://gaya.bet/",
+ "description": "GAYA-USDT Cake-LP",
+ "explorer": "https://bscscan.com/token/0x5a04f220dc0b2e09e452dc72c134c22a2cee39cf",
+ "type": "BEP20",
+ "symbol": "Cake-LP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5A04F220Dc0b2E09e452dc72C134C22a2cee39Cf"
+}

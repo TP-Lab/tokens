@@ -1,0 +1,11 @@
+{
+ "name": "HonorLand",
+ "website": "https://www.honor.land",
+ "description": " HonorLand is most combative Metaverse game based on BSC Network",
+ "explorer": "https://bscscan.com/token/0xC385621cEb8C69D0d9d0b3F553265Ff79E7efE3b",
+ "type": "BEP20",
+ "symbol": "HLT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC385621cEb8C69D0d9d0b3F553265Ff79E7efE3b"
+}

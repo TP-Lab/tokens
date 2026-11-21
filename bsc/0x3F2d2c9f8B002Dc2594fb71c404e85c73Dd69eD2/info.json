@@ -1,0 +1,11 @@
+{
+    "name": "Binance Nacional University",
+    "website": ".",
+    "description": "BNU大学通证BNU发行总量2100000枚，BNU致力于打造币安智能链最繁荣的金融体系，赋能DeFi价值增值体系，实现生态体系共建，DeFi 可以为金融 3.0 指明道路，以及更广泛的基于区块链的分散式系统的 Web 3.0 生态系统，合约开源数据无法篡改，永不增发。",
+    "explorer": "https://bscscan.com/token/0x3F2d2c9f8B002Dc2594fb71c404e85c73Dd69eD2",
+    "type": "BEP20",
+    "symbol": "BNU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3F2d2c9f8B002Dc2594fb71c404e85c73Dd69eD2"
+   }

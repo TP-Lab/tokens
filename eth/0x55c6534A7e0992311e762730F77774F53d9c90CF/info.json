@@ -1,0 +1,11 @@
+{
+ "name": "The Phryges",
+ "website": "https://www.phryges.world",
+ "description": "The Mascots of the 2024 Summer #Olympics and 2024 Summer Paralympics (Paris). Make Ethereum Great Again.",
+ "explorer": "https://etherscan.io/token/0x55c6534a7e0992311e762730f77774f53d9c90cf",
+ "type": "ERC20",
+ "symbol": "PHRYGES",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x55c6534A7e0992311e762730F77774F53d9c90CF"
+}

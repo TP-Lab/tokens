@@ -1,0 +1,11 @@
+{
+ "name": "BTD",
+ "website": "No",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xf20d0dbd3c31c395254c6da85d278037fbcada8b",
+ "type": "BEP20",
+ "symbol": "BTD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf20d0dbd3c31c395254c6da85d278037fbcada8b"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Man of Wealth",
+ "website": "http://www.mow.mobi/",
+ "description": "MOW is a web  project initiated by a number of communities and led by the head of the organization, players can influence the direction of the game by electing six DAO members to participate in the management，the commemoration of the World Cup, the collectible value.",
+ "explorer": "https://bscscan.com/token/0x2B22d7d9587b50F38052C07de707702be3ef0ACE",
+ "type": "BEP20",
+ "symbol": "MOW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2B22d7d9587b50F38052C07de707702be3ef0ACE"
+} 

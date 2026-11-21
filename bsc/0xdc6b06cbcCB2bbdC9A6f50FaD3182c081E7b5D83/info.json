@@ -1,0 +1,29 @@
+{
+
+ "name": "Dimensional space Token",
+
+ "website": "https://www.metaspaced.app",
+
+ "description": "DLC is the Token of Dimensional Space in the game ecology. Players get DLC in the game.",
+
+ "explorer": "https://bscscan.com/token/0xdc6b06cbcCB2bbdC9A6f50FaD3182c081E7b5D83",
+
+ "type": "BEP20",
+
+ "symbol": "DLC",
+
+ "decimals": 18,
+
+ "id": "0xdc6b06cbcCB2bbdC9A6f50FaD3182c081E7b5D83"
+
+ "status": "active",
+
+ "name": "Twitter", 
+
+ "url": "https://twitter.com/RalphToken"
+
+ "name": "Telegram", 
+
+ "url": "https://t.me/+tIzTnU7xhGs2NGRl"
+
+}

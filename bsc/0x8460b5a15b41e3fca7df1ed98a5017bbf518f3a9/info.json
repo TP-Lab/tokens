@@ -1,0 +1,11 @@
+{
+    "name": "Ozagold",
+    "website": "https://fr.ozalentour.com/jeton-de-reserve.php",
+    "description": "OZAGOLD : The Coin of reserve for Ozalentour.The aim of OZAGOLD  is to offer a digital asset that acts as a valuation reserve across 3 liquidity PAIRS : BUSD, BTC, USD This inflationary Utility Token is used to guarantee the OZP token and to enhance the Ozalentour platform.",
+    "explorer": "https://bscscan.com/token/0x8460b5a15b41e3fca7df1ed98a5017bbf518f3a9",
+    "type": "BEP20",
+    "symbol": "OZG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8460b5a15b41e3fca7df1ed98a5017bbf518f3a9"
+   }

@@ -1,0 +1,11 @@
+{
+    "name": "Rebase Bunny King",
+    "website": "https://www.rebasebunny.org",
+    "description": "The prosperity of RebaseBunny Kingdom needs your contribution.",
+    "explorer": "https://bscscan.com/token/0x4a54d4b138996bf44e12c8cd6217e39b50f91e74",
+    "type": "BEP20",
+    "symbol": "RBK",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x4A54D4b138996BF44E12c8cD6217e39B50F91e74"
+}

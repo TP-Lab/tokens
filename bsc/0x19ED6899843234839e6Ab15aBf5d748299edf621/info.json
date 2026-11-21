@@ -1,0 +1,11 @@
+{
+ "name": "SuperBit DAO Token",
+ "website": "..",
+ "description": "SuperBit DAO believes that with the birth of Bitcoin, human society has undergone earth-shaking changes, Bitcoin has gained the trust and consensus of more and more people around the world, and gradually become a cryptocurrency in global circulation.",
+ "explorer": "https://bscscan.com/token/0x19ED6899843234839e6Ab15aBf5d748299edf621",
+ "type": "BEP20",
+ "symbol": "SBD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x19ED6899843234839e6Ab15aBf5d748299edf621"
+}

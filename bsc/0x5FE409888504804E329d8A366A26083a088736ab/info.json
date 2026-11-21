@@ -1,0 +1,11 @@
+{
+ "name": "Rbicycle Token",
+ "website": "http://rbicycle.io/",
+ "description": "Rbicycle is a "bike-for-money" health and fitness DAPP with built-in Game-Fi and Social-Fi elements on BSC. ",
+ "explorer": "https://bscscan.com/address/0x5fe409888504804e329d8a366a26083a088736ab",
+ "type": "BEP20",
+ "symbol": "CYCLE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5FE409888504804E329d8A366A26083a088736ab"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "UIV COIN",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/address/0x5c5530d54E6a983dE70B3383Da910e81815f93F6",
+ "type": "BEP20",
+ "symbol": "UIV",
+ "decimals": 16,
+ "status": "active",
+ "id": "0x5c5530d54E6a983dE70B3383Da910e81815f93F6"
+}

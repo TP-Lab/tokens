@@ -1,0 +1,11 @@
+{
+    "name": "TangQian",
+    "website": "http://ancient-coins.xyz",
+    "description": "The TQ Protocol is a community driven DeFi Token. Three built-in mechanisms occur on each trade: Fund, Liquidity and Dividend.",
+    "explorer": "https://bscscan.com/token/0xe42c011d14dae3234c02414a3663f2c572be56b5",
+    "type": "ERC20",
+    "symbol": "TQ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE42C011D14Dae3234C02414a3663f2c572Be56B5"
+   }

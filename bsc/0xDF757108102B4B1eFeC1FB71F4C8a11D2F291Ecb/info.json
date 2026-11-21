@@ -1,0 +1,11 @@
+{
+ "name": "Teddy dog",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xDF757108102B4B1eFeC1FB71F4C8a11D2F291Ecb",
+ "type": "BSC20",
+ "symbol": "Tdg",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xDF757108102B4B1eFeC1FB71F4C8a11D2F291Ecb"
+}

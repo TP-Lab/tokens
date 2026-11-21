@@ -1,0 +1,11 @@
+{
+    "name": "FomoDogeKing",
+    "website": "https://fomodogeking.com",
+    "description": "FomoDogeKing is a new cryptocurrency created to mimic Dogecoin with the help of Elon Musk.",
+    "explorer": "https://bscscan.com/token/0xf917eEbDa43B21ca9789f20098Fa609297D89440",
+    "type": "BEP20",
+    "symbol": "FomoDogeKing",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf917eEbDa43B21ca9789f20098Fa609297D89440"
+   }

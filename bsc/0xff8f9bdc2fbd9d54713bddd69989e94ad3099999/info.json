@@ -1,0 +1,11 @@
+{
+ "name": "HK Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xff8f9bdc2fbd9d54713bddd69989e94ad3099999",
+ "type": "BEP20",
+ "symbol": "HK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xff8f9bdc2fbd9d54713bddd69989e94ad3099999"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "METIS2.0",
+ "website": "https://www.metis.io/",
+ "description": "Metis is an open protocol and the Metis Andromeda network is open to any developer or team that wants to launch a DApp, token, or any other kind of project on our EVM-Equivalent platform..",
+ "explorer": "https://bscscan.com/token/0x38D360cD4CD79B3Ef8d99172384dC2CbeC09b663",
+ "type": "BEP20",
+ "symbol": "METIS2.0",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x38D360cD4CD79B3Ef8d99172384dC2CbeC09b663"
+}

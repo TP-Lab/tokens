@@ -1,0 +1,11 @@
+{
+ "name": "TESLAMETA ",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x5Ef31a3afF9871d47d8397EBd6Aa04215c3D33d9",
+ "type": "BEP20",
+ "symbol": "TSL ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5Ef31a3afF9871d47d8397EBd6Aa04215c3D33d9"
+}

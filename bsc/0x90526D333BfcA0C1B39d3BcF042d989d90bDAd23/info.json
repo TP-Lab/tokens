@@ -1,0 +1,11 @@
+{
+ "name": "HGL",
+ "website": "-",
+ "description": "HGL is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x90526D333BfcA0C1B39d3BcF042d989d90bDAd23",
+ "type": "BEP20",
+ "symbol": "HGL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x90526D333BfcA0C1B39d3BcF042d989d90bDAd23"
+}

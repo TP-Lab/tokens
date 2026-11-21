@@ -1,0 +1,11 @@
+{
+ "name": "Fist Token",
+ "website": "...",
+ "description": "okx链小拳头，在oec链我们重新万倍启航",
+ "explorer": "https://www.oklink.com/zh-cn/okc/address/0x0964B2dEaD397eDfb5a0fcF5A1260dC2926a55dE",
+ "type": "KIP20",
+ "symbol": "Fist",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0964B2dEaD397eDfb5a0fcF5A1260dC2926a55dE"
+}

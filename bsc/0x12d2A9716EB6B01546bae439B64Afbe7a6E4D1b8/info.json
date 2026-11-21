@@ -1,0 +1,11 @@
+{
+    "name": "BNBMoon",
+    "website": "",
+    "description": "BNBMonn",
+    "explorer": "https://www.bscscan.com/token/0x12d2A9716EB6B01546bae439B64Afbe7a6E4D1b8",
+    "type": "BEP20",
+    "symbol": "BNBMoon",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x12d2A9716EB6B01546bae439B64Afbe7a6E4D1b8"
+}

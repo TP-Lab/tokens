@@ -1,0 +1,11 @@
+{
+ "name": "HUO LONG",
+ "website": "-",
+ "description": "HUO LONG is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xBf3d42fd79719E6CFd3AA5866c4a476C32aCc999",
+ "type": "BEP20",
+ "symbol": "HUO LONG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBf3d42fd79719E6CFd3AA5866c4a476C32aCc999"
+}

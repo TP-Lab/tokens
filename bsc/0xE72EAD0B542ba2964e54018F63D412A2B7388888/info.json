@@ -1,0 +1,11 @@
+{
+ "name": "XSIJ",
+ "website": "-",
+ "description": "XSIJ is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xE72EAD0B542ba2964e54018F63D412A2B7388888",
+ "type": "BEP20",
+ "symbol": "XSIJ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE72EAD0B542ba2964e54018F63D412A2B7388888"
+}

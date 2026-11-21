@@ -1,0 +1,11 @@
+{
+ "name": "BAT",
+ "website": "https://www.bscai.live/",
+ "description": "Based on the Binance Chain artificial intelligence financial service platform, we aim to create a comprehensive data trading platform by combining web3.0 technology and AI trading techniques. This platform will enable users to trade a token using artificial intelligence.",
+ "explorer": "https://bscscan.com/token/0xBD2f6B7A19F2449675F7432d29d1DC1150CcD08f",
+ "type": "BEP20",
+ "symbol": "BAT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBD2f6B7A19F2449675F7432d29d1DC1150CcD08f"
+}

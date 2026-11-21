@@ -1,0 +1,11 @@
+{
+ "name": "Energy Stone",
+ "website": "http://www.energystoneco.com",
+ "description": "Energy Stone.",
+ "explorer": "https://bscscan.com/token/0xCb916dDa29fd362c05462160aA960D09B16f861B",
+ "type": "BEP20",
+ "symbol": "BES",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCb916dDa29fd362c05462160aA960D09B16f861B"
+}

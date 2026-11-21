@@ -1,0 +1,11 @@
+{
+    "name": "LYZ",
+    "website": "",
+    "description": "A highly autonomous ecosystem based on blockchain.",
+    "explorer": "https://bscscan.com/token/0x0B13393fEf447BcD8b74bfF56573278Db4631396",
+    "type": "BEP20",
+    "symbol": "LYZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0B13393fEf447BcD8b74bfF56573278Db4631396"
+}

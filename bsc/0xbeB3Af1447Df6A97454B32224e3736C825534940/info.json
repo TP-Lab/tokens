@@ -1,0 +1,11 @@
+{
+  "name": "GOSC",
+  "website": "http://dlworld.io/",
+  "description": "GOSC is a game currency issued by DL-WORLD, which can be obtained by participating in games and airdrops. Players can use GOSC to purchase game items, hatch, upgrade, and more. The GOSC you own can only be used in DL-WORLD games, and it is the highest token paid in the game scene.",
+  "explorer": "https://bscscan.com/token/0xbeB3Af1447Df6A97454B32224e3736C825534940",
+  "type": "BEP20",
+  "symbol": "GOSC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbeB3Af1447Df6A97454B32224e3736C825534940"
+}

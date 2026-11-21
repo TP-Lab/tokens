@@ -1,0 +1,11 @@
+{
+ "name": "BTCDAO Token",
+ "website": "https://tokenpocket.pro",
+ "description": "BTCDAO is a cross-chain DeFi + NFT + meta ological protocol and infrastructure and also an open NFT ecosystem.Anyone can create an NFT, initiate NFT mining, auctions, and deals.",
+ "explorer": "https://bscscan.com/token/0xd4ab7D68daCDC18772B6fE2797180ef2B9195ed5",
+ "type": "BEP20",
+ "symbol": "BTCDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd4ab7D68daCDC18772B6fE2797180ef2B9195ed5"
+}

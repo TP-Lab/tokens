@@ -1,0 +1,11 @@
+{
+ "name": "Metaverse Miner Token",
+ "website": "https://meta.auto",
+ "description": "Metaverse Miner is a blockchain GameFi+NFT game designed based on the "Dual-Circulation" economic model.",
+ "explorer": "https://bscscan.com/address/0x04073D16C6a08C27e8BbEbe262Ea4D1C6fa4C772”,
+ "type": "BEP20",
+ "symbol": "META",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x04073D16C6a08C27e8BbEbe262Ea4D1C6fa4C772"
+}

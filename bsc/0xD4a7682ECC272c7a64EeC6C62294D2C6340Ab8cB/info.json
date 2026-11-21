@@ -1,0 +1,11 @@
+{
+    "name": "WBFC",
+    "website": "",
+    "description": "WBFC is based on a Web3 metaverse's most advanced ChatGPT AI system, committed to creating an intelligent application platform for global users based on WEB 3.0 concepts that integrate smart contract constraints and DAO voting governance.",
+    "explorer": "https://bscscan.com/token/0xD4a7682ECC272c7a64EeC6C62294D2C6340Ab8cB",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "WBFC",
+    "status": "active",
+    "id": "0xD4a7682ECC272c7a64EeC6C62294D2C6340Ab8cB"
+}

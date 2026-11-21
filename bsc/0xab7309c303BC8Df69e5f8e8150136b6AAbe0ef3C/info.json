@@ -1,0 +1,11 @@
+{
+ "name": "BABY CORGI",
+ "website": "https://babycorgi.net/",
+ "description": "Buying and holding Baby Corgi will automatically receive Filecoin from the wallet approximately every 60 minutes.",
+ "explorer": "https://bscscan.com/token/0xab7309c303BC8Df69e5f8e8150136b6AAbe0ef3C",
+ "type": "BEP20",
+ "symbol": "BABYCORGI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xab7309c303BC8Df69e5f8e8150136b6AAbe0ef3C"
+}

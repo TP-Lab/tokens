@@ -1,0 +1,11 @@
+{
+ "name": "DNA",
+ "website": "-",
+ "description": "DNA is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x008105D3D143774Dd325F59f3e166e2D88888888",
+ "type": "BEP20",
+ "symbol": "DNA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x008105D3D143774Dd325F59f3e166e2D88888888"
+}

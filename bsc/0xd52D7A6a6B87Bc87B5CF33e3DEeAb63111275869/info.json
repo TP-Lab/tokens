@@ -1,0 +1,11 @@
+{
+ "name": "RKC",
+ "website": "-",
+ "description": "RKC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xd52D7A6a6B87Bc87B5CF33e3DEeAb63111275869",
+ "type": "BEP20",
+ "symbol": "RKC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd52D7A6a6B87Bc87B5CF33e3DEeAb63111275869"
+}

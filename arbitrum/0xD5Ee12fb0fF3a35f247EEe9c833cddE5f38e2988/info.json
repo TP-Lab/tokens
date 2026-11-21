@@ -1,0 +1,11 @@
+{
+ "name": "ParaFinance",
+ "website": "http://www.parafinance.network/",
+ "description": "ParaFinance is a decentralized lending platform designed to provide users with safe and efficient lending and deposit services.",
+ "explorer": "https://arbiscan.io/token/0xd5ee12fb0ff3a35f247eee9c833cdde5f38e2988",
+ "type": "Arbitrum",
+ "symbol": "PARA",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xD5Ee12fb0fF3a35f247EEe9c833cddE5f38e2988"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "HXRB",
+ "website": "-",
+ "description": "HXRB is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x97dEcB2527F6d1e2d4C09586F70B8Bcc35200e57",
+ "type": "BEP20",
+ "symbol": "HXRB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x97dEcB2527F6d1e2d4C09586F70B8Bcc35200e57"
+}

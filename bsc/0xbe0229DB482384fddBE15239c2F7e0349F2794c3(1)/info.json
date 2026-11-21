@@ -1,0 +1,11 @@
+{
+    "name": "Back ",
+    "website": "https://aboutusback.github.io/backfooterball/#/",
+    "description": "BACK is an on-chain unified collection of GameFi and Defi that integrates player recruitment, part-time jobs, group matches, and qualifying matches.",
+    "explorer": "https://bscscan.com/token/0xbe0229DB482384fddBE15239c2F7e0349F2794c3",
+    "type": "BEP20",
+    "symbol": "Back",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbe0229DB482384fddBE15239c2F7e0349F2794c3"
+}

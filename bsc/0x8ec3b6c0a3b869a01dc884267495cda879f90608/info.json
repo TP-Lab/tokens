@@ -1,0 +1,11 @@
+{
+ "name": "ShenShou",
+ "website": "https://www.shenshou.me/",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x8ec3b6c0a3b869a01dc884267495cda879f90608",
+ "type": "BEP20",
+ "symbol": "ShenShou",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8ec3b6c0a3b869a01dc884267495cda879f90608"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "USCC",
+    "website": "https://bscscan.com/address/0x09a0d93a12d20bf21b2a18225b5997f5d9729e38",
+    "description": "The USCC stable currency is a digital asset based on the carbon reserve. The carbon reserve refers to reducing the concentration of greenhouse gases in the atmosphere by capturing and storing greenhouse gases such as carbon dioxide. The issuer of the USCC stable currency will ensure the relative stability of its value by linking the income of the Carbon Reserve to the USCC stable currency. This stable currency based on the carbon reserve not only has the characteristics of traditional stable currencies, but also can bring more liquidity and participants to the carbon sink market. As a carbon sink benchmark digital asset based on the Carbon Reserve, the USCC stable currency has the characteristics of stability and reference. It brings more liquidity and participants to the carbon sink market by linking the carbon reserve to the stable currency.",
+    "explorer": "https://bscscan.com/token/0x09a0d93a12d20bf21b2a18225b5997f5d9729e38",
+    "type": "BEP20",
+    "symbol": "USCC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x09A0D93A12d20bF21b2a18225B5997F5d9729E38"
+}

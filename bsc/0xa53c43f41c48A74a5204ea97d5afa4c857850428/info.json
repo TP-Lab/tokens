@@ -1,0 +1,11 @@
+{
+    "name": "bluedao",
+    "website": "https://bscscan.com/token/0xa53c43f41c48A74a5204ea97d5afa4c857850428",
+    "description": "bluedao Token",
+    "explorer": "https://bscscan.com/token/0xa53c43f41c48A74a5204ea97d5afa4c857850428",
+    "type": "BEP20",
+    "symbol": "bluedao",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa53c43f41c48A74a5204ea97d5afa4c857850428"
+   } 

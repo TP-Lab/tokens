@@ -1,0 +1,11 @@
+{
+ "name": "Haglien",
+ "website":"https://haglien.com "
+ "description": "In the Haglien metaverse, HAG is a platform token based on Binance Smart Chain that can be used in all the games in Haglien.",
+ "explorer": "https://bscscan.com/token/0xce0c8e02bb33a70d1b91370cc65898c96ccd85e2",
+ "type": "BEP20",
+ "symbol": "HAG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcE0c8E02bB33A70d1b91370cC65898C96cCD85E2"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "WLF Coin",
+ "website": "https://wlf8800.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xcA254096668696beBd8e2823f5CF07E63a340Fa1",
+ "type": "BEP20",
+ "symbol": "WLF",
+ "decimals": 9,
+ "status": "active",
+ "0xcA254096668696beBd8e2823f5CF07E63a340Fa1"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "BitSC",
+    "website": ".",
+    "description": "Bitc shopping cart," abbreviated as Bitsc, is a DeFi token created by a team formerly associated with the Stellar community, empowering the BITC (Bitc Token).",
+    "explorer": "https://bscscan.com/token/0xF182b46290444ec063Cc3eC81D71Fa67AAD4C25d",
+    "type": "BEP20",
+    "symbol": "BitSC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF182b46290444ec063Cc3eC81D71Fa67AAD4C25d"
+}

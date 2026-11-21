@@ -1,0 +1,11 @@
+{
+ "name": "balance.finance",
+ "website": "https://www.balancei.finance/",
+ "description": "AACE is a self-built experiment in a decentralized community. It aims to create a completely decentralized DeFi protocol. The original vision is to achieve equality and cooperation for everyone. It will return 1% of each transaction and distribute 1% of the local currency to all holders.  It is suitable for deposits, agriculture, borrowing, payment, insurance, etc. and establishes a layer2 high-performance solution compatible with the web3.0 business ecosystem..",
+ "explorer": "https://bscscan.com/token/0xC22c2bD854696C2d33EFD1f021862f4Bd5c0Dc69",
+ "type": "BEP20",
+ "symbol": "AACE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC22c2bD854696C2d33EFD1f021862f4Bd5c0Dc69"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Magic metaverse coin",
+ "website": "https://bscscan.com/token/0x2700BC595607F154163471Ac2bD46eA8987d4cf0",
+ "description": "Magic metaverse coin",
+ "explorer": "https://bscscan.com/token/0x2700BC595607F154163471Ac2bD46eA8987d4cf0",
+ "type": "BEP20",
+ "symbol": "MAC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2700BC595607F154163471Ac2bD46eA8987d4cf0"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "SOD",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x486465AF3EC00bb133534a3aec58087fc373DcDe",
+ "type": "BEP20",
+ "symbol": "SOD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x486465AF3EC00bb133534a3aec58087fc373DcDe"
+}

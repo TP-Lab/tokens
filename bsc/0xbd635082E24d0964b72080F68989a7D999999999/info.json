@@ -1,0 +1,11 @@
+{
+ "name": "BOT",
+ "website": "https://txnbot.world",
+ "description": "BOT (Robotcoin) is issued by TXNBOT based on the Binance Smart Chain. Holders of BOT can open sandwich arbitrage robots and enjoy arbitrage profit dividends. TXNBOT will take DAO as the core, gradually absorb the global community, and jointly create the world's most valuable Token economy.",
+ "explorer": "https://bscscan.com/token/0xbd635082E24d0964b72080F68989a7D999999999",
+ "type": "BEP20",
+ "symbol": "BOT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbd635082E24d0964b72080F68989a7D999999999"
+}

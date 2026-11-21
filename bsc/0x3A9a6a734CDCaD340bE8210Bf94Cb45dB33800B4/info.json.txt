@@ -1,0 +1,11 @@
+{
+ "name": "Monzo ",
+"website": "https://bscscan.com/token/0x3A9a6a734CDCaD340bE8210Bf94Cb45dB33800B4",
+ "description": " BSC, Monzo",
+ "explorer": "https://bscscan.com/token/0x3A9a6a734CDCaD340bE8210Bf94Cb45dB33800B4",
+ "type": "BEP20",
+ "symbol": "Monzo",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3A9a6a734CDCaD340bE8210Bf94Cb45dB33800B4"
+}

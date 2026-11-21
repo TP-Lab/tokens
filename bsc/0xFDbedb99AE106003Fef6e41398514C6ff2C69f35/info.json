@@ -1,0 +1,11 @@
+{
+ "name": "Phic",
+ "website": "https://phic.io/",
+ "description": "The construction of the PhiC main chain began in February 2017. PhiC has launched applications such as Phiwallet, PhiFarm, and PhiStudio.",
+ "explorer": "https://bscscan.com/token/0xfdbedb99ae106003fef6e41398514c6ff2c69f35",
+ "type": "BEP20",
+ "symbol": "PHIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFDbedb99AE106003Fef6e41398514C6ff2C69f35"
+}

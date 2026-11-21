@@ -1,0 +1,11 @@
+{
+    "name": "TDR",
+    "website": "",
+    "description": "TDRtoken is initiated and operated by the Global Digital Asset Innovation Foundation, jointly established by Hong Kong (Global Digital MOJO) and Vietnam's largest blockchain service company specializing in the blockchain industry (BigCoinVietnam) and ChainExtreme Labs. The goal is to build a safer, more efficient, and more transparent digital asset trading ecosystem, inputting more energy into the Web.3 ecosystem, and AI artificial intelligence TDRtoken has been born from this.",
+    "explorer": "https://bscscan.com/token/0x003fAb51Ba9aE9518C5ACAEb53134ba4D4516B79",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "TDR",
+    "status": "active",
+    "id": "0x003fAb51Ba9aE9518C5ACAEb53134ba4D4516B79"
+}

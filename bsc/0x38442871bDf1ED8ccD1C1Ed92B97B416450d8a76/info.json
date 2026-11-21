@@ -1,0 +1,11 @@
+{ 
+  "name": "MeVerse Token", 
+  "website": "", 
+  "description": "One meverse is the passport for your identity in meta universe. Anyone can create it with your unique name and sayings.", 
+  "explorer": "https://bscscan.com/token/0x38442871bDf1ED8ccD1C1Ed92B97B416450d8a76", 
+  "type": "BEP20", 
+  "symbol": "MVS", 
+  "decimals": 18, 
+  "status": "active", 
+  "id": "0x38442871bDf1ED8ccD1C1Ed92B97B416450d8a76"
+}

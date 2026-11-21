@@ -1,0 +1,11 @@
+{
+ "name": "龙行龘龘",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x3C797cf495f581E82fAe34b61f0B13De0F308Efc",
+ "type": "BEP20",
+ "symbol": "龙行龘龘",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3C797cf495f581E82fAe34b61f0B13De0F308Efc"
+}

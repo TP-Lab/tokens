@@ -1,0 +1,11 @@
+{ 
+"name": "BABYLONG",
+"website": "www.babylong.info",
+"description": "Inspired by the legendary Dragon character, BabyLong has entered the captivating world of Dragon. Babylong combines the determination and solidarity of the whole community. ",
+"explorer": "https://bscscan.com/token/0xeceb785a646f2c5ac759aa30d0fc85841ba004f3",
+"type": "BEP20",
+"symbol": "BABYLONG",
+"decimals": 18,
+"status": "active",
+"id": "0xeceb785a646f2c5ac759aa30d0fc85841ba004f3"
+}

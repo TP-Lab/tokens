@@ -1,0 +1,11 @@
+{
+ "name": "PMM",
+ "website": "-",
+ "description": "PMM is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x6B11341c08CE6E403575B9dEbc286E5875fe2CAF",
+ "type": "BEP20",
+ "symbol": " PMM ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6B11341c08CE6E403575B9dEbc286E5875fe2CAF"
+}

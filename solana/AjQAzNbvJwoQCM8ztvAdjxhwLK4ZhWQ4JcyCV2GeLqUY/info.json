@@ -1,0 +1,11 @@
+{
+    "name": "rSPD Token",
+    "website": "https://sft.network/",
+    "description": "SFT Chain, a 'Chain of Chains', bridges physical infra with Web3, focusing on a DePIN platform that integrates storage, computing, edge CDN , and beyond.",
+    "explorer": "https://solscan.io/token/AjQAzNbvJwoQCM8ztvAdjxhwLK4ZhWQ4JcyCV2GeLqUY",
+    "type": "SPL",
+    "symbol": "rSPD",
+    "decimals": 9,
+    "status": "active",
+    "id": "AjQAzNbvJwoQCM8ztvAdjxhwLK4ZhWQ4JcyCV2GeLqUY"
+}

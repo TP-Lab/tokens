@@ -1,0 +1,11 @@
+{
+ "name": "NRGS",
+ "website": "https://nrgs.org",
+ "description": "Super business ecology",
+ "explorer": "https://www.bscscan.com/address/0x671ec076340d2ee06ccad3c5341e79eadf269577",
+ "type": "BEP20",
+ "symbol": "NRGS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x671eC076340D2Ee06cCad3c5341e79EAdf269577"
+}

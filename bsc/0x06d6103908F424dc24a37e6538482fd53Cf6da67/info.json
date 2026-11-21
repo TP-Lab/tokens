@@ -1,0 +1,11 @@
+{
+ "name": "pigking",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x06d6103908F424dc24a37e6538482fd53Cf6da67",
+ "type": "BEP20",
+ "symbol": " PKS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x06d6103908F424dc24a37e6538482fd53Cf6da67"
+}

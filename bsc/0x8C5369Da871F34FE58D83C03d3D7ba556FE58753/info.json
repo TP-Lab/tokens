@@ -1,0 +1,11 @@
+{
+ "name": "CTC",
+ "website": "http://www.creatordao.top",
+ "description": "CREATOR DAO hopes to make people aware of the long-term significance of decentralized consensus, relying on unparalleled financial logic, which is the difference between it and any kind of autonomous community in the crypto world we have ever seen. It will become a truly decentralized global autonomous community, bringing true wealth freedom to the world.",
+ "explorer": "https://bscscan.com/token/0x8C5369Da871F34FE58D83C03d3D7ba556FE58753",
+ "type": "BEP20",
+ "symbol": "CTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8C5369Da871F34FE58D83C03d3D7ba556FE58753"
+}

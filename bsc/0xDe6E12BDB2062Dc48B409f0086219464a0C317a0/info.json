@@ -1,0 +1,11 @@
+{
+ "name": "NIAO",
+ "website": "https://niao-swap.pro",
+ "description": "The origin of the bird is said to be due to the behavior of a certain angry KOL who couldn't stand Sun Gou's actions.",
+ "explorer": "https://bscscan.com/token/0xde6e12bdb2062dc48b409f0086219464a0c317a0",
+ "type": "BEP20",
+ "symbol": "NIAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDe6E12BDB2062Dc48B409f0086219464a0C317a0"
+}

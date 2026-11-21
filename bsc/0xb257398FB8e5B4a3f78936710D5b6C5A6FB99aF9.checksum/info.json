@@ -1,0 +1,11 @@
+{
+ "name": "BOM Token",
+ "website": "https://dapp.xboms.org/",
+ "description": "Science fiction warship gamefi XBOM, driving warships to swim through the universe, defeating the enemy and obtaining rich rewards.",
+ "explorer": "https://bscscan.com/token/0xb257398FB8e5B4a3f78936710D5b6C5A6FB99aF9",
+ "type": "BEP20",
+ "symbol": "BOM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb257398FB8e5B4a3f78936710D5b6C5A6FB99aF9"
+}

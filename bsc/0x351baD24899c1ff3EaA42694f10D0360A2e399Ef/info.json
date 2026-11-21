@@ -1,0 +1,11 @@
+{
+ "name": "TeslaBot",
+ "website": "https://tokenpocket.pro",
+ "description": "TeslaBot是致敬马斯克的特斯拉公司而发起的项目，为推进AI发展",
+ "explorer": "https://bscscan.com/address/0x351bad24899c1ff3eaa42694f10d0360a2e399ef",
+ "type": "BEP20",
+ "symbol": "TeslaBot",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x351baD24899c1ff3EaA42694f10D0360A2e399Ef"
+}

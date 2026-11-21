@@ -1,0 +1,11 @@
+{
+ "name": "SEAL Token",
+ "website": "-",
+ "description": "SEAL Token is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xd777e91F214c3fB9E21d5699D8114c30cb5d71Ad",
+ "type": "BEP20",
+ "symbol": " SEAL ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd777e91F214c3fB9E21d5699D8114c30cb5d71Ad"
+}

@@ -1,0 +1,11 @@
+{ 
+"name": "TROLL",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0x548a4B9F5D24a15AA5C2f1F19280bE333d244DCB",
+"type": "BEP20",
+"symbol": "TROLL",
+"decimals": 18,
+"status": "active",
+"id": "0x548a4B9F5D24a15AA5C2f1F19280bE333d244DCB"
+}

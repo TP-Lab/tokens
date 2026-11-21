@@ -1,0 +1,11 @@
+{
+    "name": "Make America Great Again",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://etherscan.io/token/0xdefb0b264032e4e128b00d02b3fd0aa00331237b",
+    "type": "ERC20",
+    "symbol": "MAGA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x25D01B5b39E58843291586a5D8afdDf744BdEB13"
+}

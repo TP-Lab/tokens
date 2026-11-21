@@ -1,0 +1,11 @@
+{
+ "name": "XHG",
+ "website": "http://www.hgtoken.site",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xf50c28170eda9e1749abbc6af35d812535521d5f",
+ "type": "BEP20",
+ "symbol": "XHG",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xf50c28170eda9e1749abbc6af35d812535521d5f"
+}

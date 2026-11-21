@@ -1,0 +1,11 @@
+   {
+ "name": "HAMB Ecology",
+ "website": "https://www.hamb.tech",
+ "description": "HAMB is everyone's favorite food in the meta universe, and it is the spiritual food that many elves can't do without.",
+ "explorer": "https://bscscan.com/token/0xa9a8ff2597f0fb674d4b7da10c80aaa8760ccd91",
+ "type": "BEP20",
+ "symbol": "HAMB",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xA9A8FF2597F0fB674d4B7Da10c80aAA8760Ccd91"
+}

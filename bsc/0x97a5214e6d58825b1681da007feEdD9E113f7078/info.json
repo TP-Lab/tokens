@@ -1,0 +1,11 @@
+{
+ "name": "MTL Token",
+ "website": "https://game.timess.co/",
+ "description": "MTL is a token on  BNB Chain boasting a number of impressive features.",
+ "explorer": "https://bscscan.com/token/0x97a5214e6d58825b1681da007feedd9e113f7078",
+ "type": "BEP20",
+ "symbol": "MTL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x97a5214e6d58825b1681da007feEdD9E113f7078"
+}

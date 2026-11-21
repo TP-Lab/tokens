@@ -1,0 +1,11 @@
+{
+ "name": "CRISPR-Cas9",
+ "website": "https://www.wehome.club/",
+ "description": "C9 tokens are designed and implemented for a seamless and efficient players' experience, eliminating barriers to entry around usability. It is a utility token based on the BEP-20 protocol running on the Binance Smart Chain. It is a repository of value for assets, objects, characters, etc. on the gaming platform..",
+ "explorer": "https://bscscan.com/token/0x166668918eD61121cF386240D90dc04411bCd41c",
+ "type": "BEP20",
+ "symbol": "C9",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x166668918eD61121cF386240D90dc04411bCd41c"
+}

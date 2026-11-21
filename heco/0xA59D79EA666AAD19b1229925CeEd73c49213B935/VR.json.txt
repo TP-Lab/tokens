@@ -1,0 +1,11 @@
+{
+ "name": "VR",
+ "website": "https://vrtokens.io",
+ "description": "VR, referred to as VR, is a meta-universe game ecological application based on HECO.",
+ "explorer": "https://hecoinfo.com/address/0xa59d79ea666aad19b1229925ceed73c49213b935",
+ "type": "HRC-20",
+ "symbol": "VR",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xA59D79EA666AAD19b1229925CeEd73c49213B935"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "GQCoin",
+    "website": "http://gqc.cc",
+    "description": "A leading community autonomy model, equity incentive token.",
+    "explorer": "https://bscscan.com/token/0x49c8550E37B473943a00A7890933974C1432CA35",
+    "type": "BEP20",
+    "symbol": "GQC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x49c8550E37B473943a00A7890933974C1432CA35"
+}

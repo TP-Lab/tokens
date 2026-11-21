@@ -1,0 +1,11 @@
+{
+ "name": "Boom",
+ "website": "-",
+ "description": "Boom is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x9Dc6Eb371CEBb28E3c85e800150A7EC9090B9Ca0",
+ "type": "BEP20",
+ "symbol": "Boom",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9Dc6Eb371CEBb28E3c85e800150A7EC9090B9Ca0"
+}

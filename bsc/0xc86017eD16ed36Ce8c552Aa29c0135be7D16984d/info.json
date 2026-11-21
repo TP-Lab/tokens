@@ -1,0 +1,11 @@
+{ 
+"name": "LALA",
+"website": "https://www.lalabxo.org",
+"description": "Liberty was born as a one-stop web3 application. It is an application platform that integrates social networking, mobile games, and decentralized finance.",
+"explorer": "https://bscscan.com/token/0xc86017eD16ed36Ce8c552Aa29c0135be7D16984d",
+"type": "BEP20",
+"symbol": "LALA",
+"decimals": 18,
+"status": "active",
+"id": "0xc86017eD16ed36Ce8c552Aa29c0135be7D16984d"
+}

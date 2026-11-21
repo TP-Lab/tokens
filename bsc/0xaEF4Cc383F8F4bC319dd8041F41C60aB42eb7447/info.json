@@ -1,0 +1,11 @@
+{
+  "name": "HB    Token",
+  "website": "https://HBTOKEN.FINANCE/",
+  "description": "BSC",
+  "explorer": "https://bscscan.com/token/0xaEF4Cc383F8F4bC319dd8041F41C60aB42eb7447",
+  "type": "BEP20",
+  "symbol": "HB	",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xaEF4Cc383F8F4bC319dd8041F41C60aB42eb7447"
+}

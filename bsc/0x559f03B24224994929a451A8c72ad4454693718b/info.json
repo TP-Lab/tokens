@@ -1,0 +1,11 @@
+{
+    "name": "firstcoin",
+    "website": "https://firstcoins.org",
+    "description": "Firstcoin is a new decentralized financial product, committed to creating a new direction of financial institutions on the chain.",
+    "explorer": "https://bscscan.com/token/0x559f03B24224994929a451A8c72ad4454693718b",
+    "type": "BEP20",
+    "symbol": "FTC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x559f03B24224994929a451A8c72ad4454693718b"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "PIPI",
+ "website": "https://www.pipibtc.com",
+ "description": "Relying on Ethereum layer 2 network technology and privacy computing technology, pipi token is committed to using blockchain to build pipi token project, autonomous management of community consensus, and generate platform strategic planning through node proposals and voting, build a distributed data sharing network, realize data asset security and ownership confirmation and transaction, and adopt sharding technology. Develop full-chain mining technology without the need for app.swap to achieve a disruptive blockchain mining protocol.",
+ "explorer": "https://bscscan.com/token/0xbB9F880bD841d07c76035D76021e613B44A73485",
+ "type": "BEP20",
+ "symbol": "PIPI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbB9F880bD841d07c76035D76021e613B44A73485"
+}

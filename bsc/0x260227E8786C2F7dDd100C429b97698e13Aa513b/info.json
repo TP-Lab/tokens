@@ -1,0 +1,11 @@
+{
+ "name": "TSHIB",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/00x260227E8786C2F7dDd100C429b97698e13Aa513b",
+ "type": "BEP20",
+ "symbol": "TSHIB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x260227E8786C2F7dDd100C429b97698e13Aa513b"
+}

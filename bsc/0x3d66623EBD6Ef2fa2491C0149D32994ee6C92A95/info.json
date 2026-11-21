@@ -1,0 +1,11 @@
+{
+ "name": "Cosmic Energy",
+ "website": "-",
+ "description": "NRG is the fuel of smart contracts and distributes intelligence to all contributors.",
+ "explorer": "https://bscscan.com/token/0x3d66623ebd6ef2fa2491c0149d32994ee6c92a95",
+ "type": "BEP-20",
+ "symbol": "NRG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3d66623EBD6Ef2fa2491C0149D32994ee6C92A95"
+}

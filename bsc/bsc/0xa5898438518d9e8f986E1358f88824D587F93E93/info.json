@@ -1,0 +1,11 @@
+{
+  "name": "Venus   Token",
+  "website": "https://Venus.com",
+  "description": "BSC",
+  "explorer": "https://bscscan.com/token/0xa5898438518d9e8f986e1358f88824d587f93e93",
+  "type": "BEP20",
+  "symbol": "Venus ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa5898438518d9e8f986E1358f88824D587F93E93"
+}

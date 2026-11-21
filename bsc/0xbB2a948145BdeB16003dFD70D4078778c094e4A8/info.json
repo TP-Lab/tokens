@@ -1,0 +1,11 @@
+{
+ "name": "NNB",
+ "website": "https://www.99token.org/",
+ "description": "a standardized cryptocurrency",
+ "explorer": "https://bscscan.com/address/0xbB2a948145BdeB16003dFD70D4078778c094e4A8",
+ "type": "BEP20",
+ "symbol": "NNB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbB2a948145BdeB16003dFD70D4078778c094e4A8"
+}

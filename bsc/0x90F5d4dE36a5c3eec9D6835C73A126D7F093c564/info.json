@@ -1,0 +1,11 @@
+{
+ "name": "Carbon Metaverse Social Token",
+ "website": " ",
+ "description": "CMS is the only circulating token of the decentralized social platform Carbon Metaverse Social",
+ "explorer": "https://bscscan.com/token/0x90F5d4dE36a5c3eec9D6835C73A126D7F093c564",
+ "type": "BEP20",
+ "symbol": "CMS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x90F5d4dE36a5c3eec9D6835C73A126D7F093c564"
+}

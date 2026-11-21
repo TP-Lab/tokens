@@ -1,0 +1,11 @@
+{
+ "name": "TKB Token",
+ "website": "https://bscscan.com/token/0x7ecc3090e261774689598d208e79641633ad5845",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x7ecc3090e261774689598d208e79641633ad5845",
+ "type": "BEP20",
+ "symbol": "TKB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7eCc3090E261774689598d208E79641633AD5845"
+}

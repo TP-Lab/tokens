@@ -1,0 +1,11 @@
+{
+ "name": "Vortex Protocol",
+ "website": "https://torah.ink",
+ "description": "Nodes in the Torah network can rent storage space to each other.",
+ "explorer": "https://polygonscan.com/token/0xf46cb10e8c5fb9368bbf497a3176b80c0af66d44",
+ "type": "Polygon",
+ "symbol": "VP",
+ "decimals": 11,
+ "status": "active",
+ "id": "0xf46CB10e8c5FB9368bbF497A3176b80c0AF66d44"
+}

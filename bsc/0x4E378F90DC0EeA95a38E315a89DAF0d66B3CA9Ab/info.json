@@ -1,0 +1,11 @@
+{
+ "name": "DFDD",
+ "website": "http://www.dfdd.vip",
+ "description": "DFDD is an utility token, holders can use various on-chain tools for free.",
+ "explorer": "https://bscscan.com/token/0x4E378F90DC0EeA95a38E315a89DAF0d66B3CA9Ab",
+ "type": "BEP20",
+ "symbol": "DFDD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4E378F90DC0EeA95a38E315a89DAF0d66B3CA9Ab"
+}

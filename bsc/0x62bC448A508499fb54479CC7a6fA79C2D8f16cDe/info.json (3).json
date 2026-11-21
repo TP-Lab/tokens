@@ -1,0 +1,11 @@
+{
+ "name": "Global Anti scam crypt",
+ "website": "https://www.gasccoin.com/",
+ "description": "The ultimate goal of GASC is to become a blockchain technology to give us the opportunity to make your financial growth faster and get better returns.",
+ "explorer": "https://bscscan.com/token/0x62bC448A508499fb54479CC7a6fA79C2D8f16cDe",
+ "type": "BEP-20",
+ "symbol": "GASC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x62bC448A508499fb54479CC7a6fA79C2D8f16cDe"
+}

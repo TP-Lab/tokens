@@ -1,0 +1,11 @@
+{
+    "name": "FIG",
+    "website": "https://filliquid.io/",
+    "description": "FILLiquid is a liquidity pool designed to be implemented on FVM (Filecoin Virtual Machine) as a fully open-sourced, decentralized,algorithm-based lending platform.FILLiquid facilitates a market that enables FIL token holders to stake their tokens and earn passive income, while also providing SPs with the ability to borrow FIL tokens for storage provisioning.",
+    "explorer": "https://filscan.io/address/0xc87FAb479B450993E8A7b498C631AdF81f3ca5B4",
+    "type": "ERC20",
+    "symbol": "FIG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc87FAb479B450993E8A7b498C631AdF81f3ca5B4"
+   }

@@ -1,0 +1,11 @@
+{
+ "name": "Arche Token ",
+ "website": "http://arche-c.xyz",
+ "description": "Arche million times is about to set sail  Total circulation: 10000 pieces.",
+ "explorer": "https://bscscan.com/address/0xcee3EC47CD84E287067D44a6d089f601f693012D",
+ "type": "BEP20",
+ "symbol": "Arche",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcee3EC47CD84E287067D44a6d089f601f693012D"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "PRC",
+ "website": "-",
+ "description": "PRC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xE8DD98aFc839955c34e2A08dcEb347A4a1D50CF7",
+ "type": "BEP20",
+ "symbol": "PRC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE8DD98aFc839955c34e2A08dcEb347A4a1D50CF7"
+}

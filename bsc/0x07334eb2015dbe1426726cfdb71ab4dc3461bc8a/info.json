@@ -1,0 +1,11 @@
+{
+ "name": "MvsDAO",
+ "website": "No",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x07334eb2015dbe1426726cfdb71ab4dc3461bc8a",
+ "type": "BEP20",
+ "symbol": "mvsdao",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x07334eb2015dbe1426726cfdb71ab4dc3461bc8a"
+}

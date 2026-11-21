@@ -1,0 +1,11 @@
+{ 
+"name": "AOSK",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0xe86775D9652f7FE38160aadD34Ff385B3E0B7aCe",
+"type": "BEP20",
+"symbol": "AOSK",
+"decimals": 18,
+"status": "active",
+"id": "0xe86775D9652f7FE38160aadD34Ff385B3E0B7aCe"
+}

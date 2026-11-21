@@ -1,0 +1,21 @@
+{
+  "name": "DogeBull",
+  "website": "https://www.dogecola.finance",
+  "description": "DogeBull is part of DogeCola ecosystem. Hold DogeBull and receive DogeCola rewards.",
+  "explorer": "https://bscscan.com/token/0xbD4a49e1a0bd8D17fAa881D057b48BC18b983E51",
+  "type": "BEP20",
+  "symbol": " DOGEBULL ",
+  "decimals": 18,
+  "status": "active",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/doge_cola"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/dogecola"
+    }
+  ],
+  "id": "0xbD4a49e1a0bd8D17fAa881D057b48BC18b983E51"
+}

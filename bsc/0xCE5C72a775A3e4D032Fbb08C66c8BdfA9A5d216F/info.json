@@ -1,0 +1,11 @@
+{
+    "name": "Gazelle Token",
+    "website": "http://gazotc.com",
+    "description": "Gaz is the platform currency of gazotc, a decentralized OTC trading platform, which is used for order release deposit, arbitration deposit, frozen insurance, appeal fee and governance in the ecosystem.",
+    "explorer": "https://bscscan.com/token/0xCE5C72a775A3e4D032Fbb08C66c8BdfA9A5d216F",
+    "type": "BEP20",
+    "symbol": "GAZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xCE5C72a775A3e4D032Fbb08C66c8BdfA9A5d216F"
+   }

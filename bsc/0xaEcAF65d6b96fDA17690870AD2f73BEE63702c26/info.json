@@ -1,0 +1,11 @@
+{
+    "name": "B-Evolution",
+    "webiste": "https://eto.fund",
+    "description": "BETO Metaverse Financial Protocol will build a decentralized game aggregation platform, and is committed to creating a GameFi game aggregation platform for global users based on the concept of Web 3.0, smart contract constraints, and DAO voting governance,A metaverse ecosystem that includes decentralized NFT transactions.",
+    "explorer": "https://bscscan.com/token/0xaEcAF65d6b96fDA17690870AD2f73BEE63702c26",
+    "type": "BEP20",
+    "symbol": "BETO",
+    "decimals": "18",
+    "status": "active",
+    "id": "0xaEcAF65d6b96fDA17690870AD2f73BEE63702c26"
+}

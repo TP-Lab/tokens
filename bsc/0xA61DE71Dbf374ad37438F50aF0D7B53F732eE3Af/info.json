@@ -1,0 +1,11 @@
+{
+ "name": "Linea",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xA61DE71Dbf374ad37438F50aF0D7B53F732eE3Af",
+ "type": "BEP20",
+ "symbol": "Linea",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA61DE71Dbf374ad37438F50aF0D7B53F732eE3Af"
+}

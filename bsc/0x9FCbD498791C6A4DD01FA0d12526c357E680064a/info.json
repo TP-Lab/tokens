@@ -1,0 +1,11 @@
+{
+  "name": "TFIL",
+  "website": "https://www.bbmfarmer.com/",
+  "description": "TFIL",
+  "explorer": "https://bscscan.com/token/0x9FCbD498791C6A4DD01FA0d12526c357E680064a",
+  "type": "BEP20",
+  "symbol": "TFIL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9FCbD498791C6A4DD01FA0d12526c357E680064a"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Meblox Protocol",
+ "website": "https://meblox.io",
+ "description": "Link the infinite possibilities of metaverse.",
+ "explorer": "https://bscscan.com/token/0x7268B479eb7CE8D1B37Ef1FFc3b82d7383A1162d",
+ "type": "BEP20",
+ "symbol": "MEB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7268B479eb7CE8D1B37Ef1FFc3b82d7383A1162d"
+}

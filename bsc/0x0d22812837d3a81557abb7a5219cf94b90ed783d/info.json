@@ -1,0 +1,11 @@
+{
+ "name": "BDD",
+ "website": "No",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x0d22812837d3a81557abb7a5219cf94b90ed783d",
+ "type": "BEP20",
+ "symbol": "BDD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0d22812837d3a81557abb7a5219cf94b90ed783d"
+}

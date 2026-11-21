@@ -1,0 +1,11 @@
+{
+ "name": "LOOF",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xF04f3B0fe02662c2Ca0e0961aC20904593Dbaa64",
+ "type": "BEP20",
+ "symbol": "LOOF",
+ "decimals": 18,
+ "status": "not open",
+ "id": "0xF04f3B0fe02662c2Ca0e0961aC20904593Dbaa64"
+}

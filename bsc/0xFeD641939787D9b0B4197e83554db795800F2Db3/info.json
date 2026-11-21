@@ -1,0 +1,11 @@
+{
+    "name": "World DAO",
+    "website": "",
+    "description": "WDAO世界级社区自治，任何个人及社区均可平等参与。链游，商城，广告等即将上线。打造生态内循环。",
+    "explorer": "https://bscscan.com/token/0xFeD641939787D9b0B4197e83554db795800F2Db3",
+    "type": "BEP20",
+    "symbol": "WDAO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFeD641939787D9b0B4197e83554db795800F2Db3"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "SafeFTX",
+ "website": "https://safeftx.com/",
+ "description": "Safe chain with DEFI,NFTs and Games for FTX users.",
+ "explorer": "https://bscscan.com/address/0x75f858fe9474F6c9Afceb4C852f18Bef519F549B",
+ "type": "BEP20",
+ "symbol": "SFTX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x75f858fe9474F6c9Afceb4C852f18Bef519F549B"
+}

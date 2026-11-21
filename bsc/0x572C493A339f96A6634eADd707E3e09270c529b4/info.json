@@ -1,0 +1,11 @@
+{
+ "name": "Real World Assets",
+ "website": "http://real-world-assets.net/",
+ "description": "RWA Chain aims to allow everyone to participate in the tide of digital asset investment,Leading the Future of World Finance",
+ "explorer": "https://bscscan.com/token/0x572C493A339f96A6634eADd707E3e09270c529b4",
+ "type": "BEP20",
+ "symbol": "$RWA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x572C493A339f96A6634eADd707E3e09270c529b4"
+}

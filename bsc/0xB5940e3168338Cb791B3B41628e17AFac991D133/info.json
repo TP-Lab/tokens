@@ -1,0 +1,11 @@
+{
+ "name": "Rabbitking",
+ "website": "-",
+ "description": "Rabbitking is a community autonomy DeFi project jointly launched by 30 well-known communities in the coin circle, hoping to build a high-quality IP with unlimited value in the year of the Rabbit in 2023 through a large fan base.",
+ "explorer": "https://bscscan.com/token/0xB5940e3168338Cb791B3B41628e17AFac991D133",
+ "type": "BEP20",
+ "symbol": "Rabbitking",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB5940e3168338Cb791B3B41628e17AFac991D133"
+}

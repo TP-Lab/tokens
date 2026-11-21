@@ -1,0 +1,11 @@
+{
+    "name": "金蝉币",
+    "website": "-",
+    "description": "Golden cicada Coin",
+    "explorer": "https://hecoinfo.com/token/0x6226644e72C4E85F98114c1C645ccfCABf0ff345",
+    "type": "HRC-20",
+    "symbol": "GCCB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6226644e72C4E85F98114c1C645ccfCABf0ff345"
+}

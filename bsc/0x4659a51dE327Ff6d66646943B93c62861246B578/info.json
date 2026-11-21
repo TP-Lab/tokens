@@ -1,0 +1,11 @@
+{
+ "name": "PAYPAYBOX",
+ "website": "",
+ "description": "PAYPAYBOX is a decentralized utility token focused on efficient digital payments and peer-to-peer transactions, supporting fast transfers and community governance within its ecosystem.",
+ "explorer": "https://bscscan.com/token/0x4659a51dE327Ff6d66646943B93c62861246B578",
+ "type": "BEP20",
+ "symbol": "PPB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4659a51dE327Ff6d66646943B93c62861246B578"
+}

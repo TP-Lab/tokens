@@ -1,0 +1,11 @@
+{
+ "name": "LuckyRabbit",
+ "website": "..",
+ "description": "LuckyRabbit wishes everyone, all the best for the new year.",
+ "explorer": "https://bscscan.com/token/0xc0C9Df3dFcbC0a56715770b75E8C0a5855f3B552",
+ "type": "BEP20",
+ "symbol": "LuckyRabbit",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc0C9Df3dFcbC0a56715770b75E8C0a5855f3B552"
+}

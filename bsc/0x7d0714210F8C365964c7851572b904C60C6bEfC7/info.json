@@ -1,0 +1,10 @@
+{
+ "name": "Future",
+ "website": "https://www.betterfuture.finance/",
+ "description": "Future Token",
+ "explorer": "https://bscscan.com/token/0x7d0714210F8C365964c7851572b904C60C6bEfC7",
+ "type": "BEP20",
+ "symbol": "FUO",
+ "status": "active",
+ "id": "0x7d0714210F8C365964c7851572b904C60C6bEfC7"
+}

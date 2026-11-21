@@ -1,0 +1,11 @@
+{
+ "name": "BOT",
+ "website": "https://txnbotmev.com",
+ "description": "BOT is a new generation of ecological application tokens.  Has long-term circulation value.",
+ "explorer": "https://bscscan.com/token/0x59a80DbCEa7C3537D91fdC780A4B58B888888888",
+ "type": "BEP20",
+ "symbol": "BOT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x59a80DbCEa7C3537D91fdC780A4B58B888888888"
+}

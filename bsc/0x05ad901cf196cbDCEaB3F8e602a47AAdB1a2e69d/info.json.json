@@ -1,0 +1,11 @@
+{
+  "name": "ZORO INU ",
+  "website": "https://zoroinu.io/",
+  "description": "5% slippage of all transactions in the ZORO INU ecosystem will be used to promote ZORO INU, support for the Warring States people and charity",
+  "explorer": "https://bscscan.com/token/0x05ad901cf196cbDCEaB3F8e602a47AAdB1a2e69d",
+  "type": "BEP20",
+  "symbol": "ZORO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x05ad901cf196cbDCEaB3F8e602a47AAdB1a2e69d"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Primordial Planet",
+ "website": "https://www.primordialplanet.net",
+ "description": "“初元星球”致力于成为一个由社区自治驱动的GameFi平台，打造一流的游戏体验，创造真正独特且永恒的GameFi生态系统。",
+ "explorer": "https://bscscan.com/token/0x07c6508fa39F46355df47f80E1E140d1c8247b23",
+ "type": "BEP20",
+ "symbol": "PMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x07c6508fa39F46355df47f80E1E140d1c8247b23"
+}

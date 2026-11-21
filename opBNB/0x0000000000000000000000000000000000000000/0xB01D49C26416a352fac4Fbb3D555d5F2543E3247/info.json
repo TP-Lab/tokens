@@ -1,0 +1,11 @@
+{
+ "name": "CUBI",
+ "website": "https://www.cubiswap.finance/",
+ "description": "CUBISWAP is a Decentralized Autonomous Organization (DAO) that offers a full suite of tools to explore and engage with decentralized finance opportunities. Using our products, users and partners can tap into this new wave of financial innovation in a secure, transparent, and globally accessible way.",
+ "explorer": "https://opbnbscan.com/token/0xB01D49C26416a352fac4Fbb3D555d5F2543E3247",
+ "type": "opBNB",
+ "symbol": "CUBI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB01D49C26416a352fac4Fbb3D555d5F2543E3247"
+}

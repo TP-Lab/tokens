@@ -1,0 +1,11 @@
+{
+ "name": "WhiteBox",
+ "website": "https://whitebox.world",
+ "description": "WhiteBox是一个由社区自治驱动的DAO平台,通过多样的奖励机制来提高用户的参与度,以社区的力量创造且共同受益的生态系统,一起实现各自的价值.",
+ "explorer": "https://bscscan.com/address/0x7950e4b5139abc86233879e2f2d6a816b0d9ed7d",
+ "type": "BEP20",
+ "symbol": "WBOX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7950E4b5139ABC86233879E2f2d6A816b0d9Ed7D"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MTC",
+ "website": "https://mopasscertificate.com/",
+ "description": "Mote coin English abbreviation: MTC, by the famous Russian blockchain technology team, Created by Desheng and the top blockchain team in Southeast Asia, the fourth-generation encrypted digital currency jointly launched by many large communities in Asia was born in December 2022. It adopts the POC destruction proof of rights mechanism, aiming to create a fairer, more More practical, lower entry threshold, green and environmental protection, a fair, just, open and transparent super consensus mechanism that everyone can participate in",
+ "explorer": "https://bscscan.com/address/0xeA71D842E401f89313812C59F65E1c0afc5411F6",
+ "type": "BEP20",
+ "symbol": "MTC",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xeA71D842E401f89313812C59F65E1c0afc5411F6"
+}

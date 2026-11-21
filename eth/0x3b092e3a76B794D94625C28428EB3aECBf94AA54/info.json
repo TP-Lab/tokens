@@ -1,0 +1,11 @@
+{ 
+"name": "SnowWhite",
+"website": "",
+"description": "",
+"explorer": "https://etherscan.io/token/0x3b092e3a76B794D94625C28428EB3aECBf94AA54",
+"type": "ERC20",
+"symbol": "SnowWhite",
+"decimals": 18,
+"status": "active",
+"id": "0x3b092e3a76B794D94625C28428EB3aECBf94AA54"
+}

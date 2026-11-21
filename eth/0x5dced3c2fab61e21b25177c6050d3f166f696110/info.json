@@ -1,0 +1,11 @@
+{
+ "name": "Tea Token",
+ "website": "https://www.teachain.com",
+ "description": "Teachain completely relies on the physical business model. We have reached cooperation with nearly ten well-known tea companies and will provide them with traceability services, laying traceability equipment for their tea mountains, processing plants, and tea products, and well-known teas that have obtained traceability services. Sell in the tea chain mall, and cooperate with tea companies, well-known platforms in the industry, and a large number of offline distributors for promotion.Then use TEA's innovative model to penetrate into the ecology of the tea industry. Based on a large amount of accurate traffic in the tea industry, launch such as tea credits and tea auctions to give TEA use value.",
+ "explorer": "https://cn.etherscan.com/token/0x5dced3c2fab61e21b25177c6050d3f166f696110",
+ "type": "ERC20",
+ "symbol": "TEA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5dced3c2fab61e21b25177c6050d3f166f696110"
+}

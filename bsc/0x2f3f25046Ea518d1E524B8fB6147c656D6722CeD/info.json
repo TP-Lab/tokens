@@ -1,0 +1,11 @@
+{
+ "name": "Metaverse Token",
+ "website": "-",
+ "description": "MT is the governance token and community token of the MTDAO platform, with an issue of 31339 coins. Jointly issued and autonomously managed by members of the global DAO organization. Create a decentralized crypto digital asset that belongs to the members of the DAO organization themselves. The contract is dead, the data cannot be tampered with, the funds are safe, and mt will always exist on the BSC chain.",
+ "explorer": "https://bscscan.com/token/0x2f3f25046Ea518d1E524B8fB6147c656D6722CeD",
+ "type": "BEP20",
+ "symbol": "MT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2f3f25046Ea518d1E524B8fB6147c656D6722CeD"
+} 

@@ -1,0 +1,11 @@
+{
+ "name": "Europa",
+ "website": "https://europa-token.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xC690c3Bc7244114a4b1F3DFC9591A28116A799A2",
+ "type": "BEP20",
+ "symbol": "Europa",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xC690c3Bc7244114a4b1F3DFC9591A28116A799A2"
+}

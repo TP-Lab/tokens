@@ -1,0 +1,11 @@
+{
+    "name": "HUFA Token",
+    "website": "https://bscscan.com/token/0x626D308990c875453eC387264F806a0cAE693262",
+    "description": "HUFA Token is a defi token on the bsc chain that cannot be tampered with and cannot be additionally issued with complete community autonomy.",
+    "Explorer": "https://bscscan.com/token/0x626D308990c875453eC387264F806a0cAE693262",
+    "type": "BEP20",
+    "symbol": "HUFA",
+    "decimal": 18,
+    "status": "active",
+    "id": "0x626D308990c875453eC387264F806a0cAE693262"
+}

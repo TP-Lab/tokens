@@ -1,0 +1,11 @@
+{
+ "name": "LaeebKing",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0x214b4a5447Bcde81aD56E4999fb104595ee417E9",
+ "type": "BEP20",
+ "symbol": "LaeebKing",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x214b4a5447Bcde81aD56E4999fb104595ee417E9"
+}

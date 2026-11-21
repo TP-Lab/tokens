@@ -1,0 +1,11 @@
+{
+ "name": "SAT",
+ "website": "https://explore.smartx.one/?lang=EN",
+ "description": "SAT (Smartx) is a Web3.0 original technology public chain developed by the Smartx community team, which supports sharding technology, Layer2 network, and PoW/PoS hybrid consensus in blockchain projects.",
+ "explorer": "https://bscscan.com/token/0xc488bB0E30ffc6E104d459C13BcAedFe1D443a71",
+ "type": "BEP20",
+ "symbol": "SAT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc488bB0E30ffc6E104d459C13BcAedFe1D443a71"
+}

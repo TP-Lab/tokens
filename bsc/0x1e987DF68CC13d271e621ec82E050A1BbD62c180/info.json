@@ -1,0 +1,11 @@
+{
+ "name": "WAGMI",
+ "website": "https://www.wagmigame.io/",
+ "description": "WAGMI Games is a Crypto gaming franchise powered by the WAGMI Token. Set for release end of March 2022, its first game, WAGMI Defense is a futuristic Tower Defense Game playable on mobile & desktop browsers. It is modeled after the blockbuster hit Clash Royale only with human and aliens battling over the earths core element NiFe.",
+ "explorer": "https://bscscan.com/token/0x1e987DF68CC13d271e621ec82E050A1BbD62c180",
+ "type": "BEP20",
+ "symbol": "WAGMI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1e987DF68CC13d271e621ec82E050A1BbD62c180"
+}

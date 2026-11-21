@@ -1,0 +1,11 @@
+{
+ "name": "SOACS",
+ "website": "",
+ "description": "SOACS token is a new token on Binance Smart Chain network. We want to help animals, forests and humans that be hurt by SOACS.",
+ "explorer": "https://bscscan.com/token/0x229f8E1F2e76913C3F0F03Da0B407505c297eeb3",
+ "type": "BEP20",
+ "symbol": "SOACS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x229f8E1F2e76913C3F0F03Da0B407505c297eeb3"
+}

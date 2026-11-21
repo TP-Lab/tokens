@@ -1,0 +1,11 @@
+{
+  "name": "LR",
+  "website": "www.irfm.pro",
+  "description": "Governance tokens for the IRFM platform",
+  "explorer": "https://bscscan.com/token/0x08AaEe41977A733D5849494a8D8b46F5A650619a",
+  "type": "BEP20",
+  "symbol": "LR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x08AaEe41977A733D5849494a8D8b46F5A650619a"
+}

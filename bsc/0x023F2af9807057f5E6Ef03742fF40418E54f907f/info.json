@@ -1,0 +1,11 @@
+{
+ "name": "Monopoly Meta Game",
+ "website": "https://monopolymeta.io",
+ "description": "MonopolyMeta is a play-to-earn game.",
+ "explorer": "https://bscscan.com/token/0x720b58ed741e488b64c23fe559d490dd8ae5c656",
+ "type": "BEP20",
+ "symbol": "MMDAO",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x720B58ED741E488b64C23fe559D490dD8AE5c656"
+}

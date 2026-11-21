@@ -1,0 +1,11 @@
+{
+ "name": "COPC Token",
+ "website": "",
+ "description": "An application-type token that links users and the project party's service platform!",
+ "explorer": "https://bscscan.com/token/0xC2931E66c361f22F2A3A331A8708D7BE383C3Cac",
+ "type": "BEP20",
+ "symbol": "COPC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC2931E66c361f22F2A3A331A8708D7BE383C3Cac"
+}

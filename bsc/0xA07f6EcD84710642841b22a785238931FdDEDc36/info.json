@@ -1,0 +1,11 @@
+{
+ "name": "SPF",
+ "website": "-",
+ "description": "SPFis an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xA07f6EcD84710642841b22a785238931FdDEDc36",
+ "type": "BEP20",
+ "symbol": "SPF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA07f6EcD84710642841b22a785238931FdDEDc36"
+}

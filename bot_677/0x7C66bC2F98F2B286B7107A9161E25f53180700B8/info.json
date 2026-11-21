@@ -1,0 +1,11 @@
+{
+ "name": "CASHCOW",
+ "website": "..",
+ "description": "",
+ "explorer": "https://scan.botchain.ai/token/0x7C66bC2F98F2B286B7107A9161E25f53180700B8",
+ "type": "ERC-20",
+ "symbol": "CASHCOW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7C66bC2F98F2B286B7107A9161E25f53180700B8"
+}

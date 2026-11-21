@@ -1,0 +1,13 @@
+{
+  "name": "WIFI",
+  "website": "https://ki-ka.info/",
+  "description": "Wifi coins belong to completely decentralized autonomous organizations. Wifi Coins have a strong DAO and SWAP that allows wifi coins to circulate within their own ecosystem. At the same time, the number of wifi coins is decreasing, and every wifi coin is precious.",
+  "explorer": "https://bscscan.com/token/0x5618Cbef91EFd2969Cec7Df49C69934952F317C3",
+  "type": "BEP20",
+  "symbol": "WIFI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5618Cbef91EFd2969Cec7Df49C69934952F317C3"
+}
+
+

@@ -1,0 +1,11 @@
+{
+	"name": "+TIP",
+	"website": "https://tipppe.com/",
+	"description": "+TIP Token of You That Change Your Life",
+	"explorer": "https://bscscan.com/token/0x15ac042230934d455cb700D8a7873d9784961785",
+	"type": "BEP20",
+	"symbol": "+TIP",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x15ac042230934d455cb700D8a7873d9784961785"
+   }

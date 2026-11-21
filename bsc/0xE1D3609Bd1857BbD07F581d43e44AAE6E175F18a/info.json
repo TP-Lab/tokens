@@ -1,0 +1,11 @@
+{
+    "name": "KLD",
+    "website": ".",
+    "description": ".",
+    "explorer": "https://bscscan.com/token/0xE1D3609Bd1857BbD07F581d43e44AAE6E175F18a",
+    "type": "BEP20",
+    "symbol": "KLD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE1D3609Bd1857BbD07F581d43e44AAE6E175F18a"
+}

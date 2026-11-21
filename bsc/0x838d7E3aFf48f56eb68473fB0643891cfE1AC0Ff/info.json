@@ -1,0 +1,11 @@
+{
+    "name": "GameBox Protocol",
+    "website": "https://gameboxprotocol.com",
+    "description": "GameBox Protocol (GEP) is the first GameBox finance protocol, aiming to build global GameBox aggregation platform.",
+    "explorer": "https://bscscan.com/address/0x838d7E3aFf48f56eb68473fB0643891cfE1AC0Ff",
+    "type": "BEP20",
+    "symbol": "GEP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x838d7E3aFf48f56eb68473fB0643891cfE1AC0Ff"
+   }

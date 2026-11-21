@@ -1,0 +1,11 @@
+{
+"name": "PRC",
+"website": "-",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0x4845ef99915cEa178603d1Ee2899c96f0c126348",
+"type": "BEP20",
+"symbol": "PRC",
+"decimals": 18,
+"status": "active",
+"id": "0x4845ef99915cEa178603d1Ee2899c96f0c126348"
+}

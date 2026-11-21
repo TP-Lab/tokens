@@ -1,0 +1,11 @@
+{
+ "name": "Btcx",
+ "website": "-",
+ "description": "Btcx is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xC16034Bf0fD7dB49b2311E240376354AD9999999",
+ "type": "BEP20",
+ "symbol": " Btcx ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC16034Bf0fD7dB49b2311E240376354AD9999999"
+}

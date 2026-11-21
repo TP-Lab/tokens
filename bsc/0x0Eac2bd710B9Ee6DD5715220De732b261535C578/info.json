@@ -1,0 +1,11 @@
+{
+ "name": "FISTX",
+ "website": "-",
+ "description": "FISTX is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x0Eac2bd710B9Ee6DD5715220De732b261535C578",
+ "type": "BEP20",
+ "symbol": " FISTX ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0Eac2bd710B9Ee6DD5715220De732b261535C578"
+}

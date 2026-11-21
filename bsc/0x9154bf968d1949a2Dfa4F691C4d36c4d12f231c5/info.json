@@ -1,0 +1,11 @@
+{
+ "name": "UVC",
+ "website": "https://www.oasisuvc.com/wap",
+ "description": "UVC is the first new DEFI with NFT attribute developed under the background of web3.0 The real application of blockchain technology, the world's first strong consensus mechanism, will certainly subvert the traditional DEFI",
+ "explorer": "https://bscscan.com/address/0x9154bf968d1949a2dfa4f691c4d36c4d12f231c5",
+ "type": "BEP20",
+ "symbol": "UVC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9154bf968d1949a2dfa4f691c4d36c4d12f231c5"
+}

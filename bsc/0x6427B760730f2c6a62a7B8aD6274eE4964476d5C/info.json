@@ -1,0 +1,11 @@
+{
+ "name": "Rabbit Finance 2023",
+ "website": "..",
+ "description": ".",
+ "explorer": "hhttps://bscscan.com/token/0x6427b760730f2c6a62a7b8ad6274ee4964476d5c",
+ "type": "BEP20",
+ "symbol": "RB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6427B760730f2c6a62a7B8aD6274eE4964476d5C"
+}

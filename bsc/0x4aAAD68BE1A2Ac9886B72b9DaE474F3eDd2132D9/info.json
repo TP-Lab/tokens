@@ -1,0 +1,11 @@
+{
+    "name": "BTCPi Token",
+    "website": "https://btc-pi.com",
+    "description": "BTCPi is a global experiment based on Bitcoin & Pi Network",
+    "explorer": "https://bscscan.com/token/0x4aAAD68BE1A2Ac9886B72b9DaE474F3eDd2132D9",
+    "type": "BEP20",
+    "symbol": "BTCPi",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4aAAD68BE1A2Ac9886B72b9DaE474F3eDd2132D9"
+   }

@@ -1,0 +1,11 @@
+{
+ "name": "FWB",
+ "website": "http://fwbmyhome.com/",
+ "description": "FWB",
+ "explorer": "https://bscscan.com/token/0xe0a817d1f1AF8a8FfC66Ee319424d416Ba89cf02",
+ "type": "BEP20",
+ "symbol": "FWB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe0a817d1f1AF8a8FfC66Ee319424d416Ba89cf02"
+}

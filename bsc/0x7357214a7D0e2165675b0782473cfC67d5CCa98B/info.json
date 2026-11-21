@@ -1,0 +1,11 @@
+{
+ "name": "9long",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0x7357214a7D0e2165675b0782473cfC67d5CCa98B",
+ "type": "BEP20",
+ "symbol": "9long",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7357214a7D0e2165675b0782473cfC67d5CCa98B"
+}

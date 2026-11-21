@@ -1,0 +1,11 @@
+{
+ "name": "BraveToken",
+ "website": "https://bravetoken.finance/",
+ "description": "BraveToken is an integrated project based on community operation, encompassing Defi, NFT copyright, online games, etc. Its unique token-holding BNB distribution mechanism and BNB Lottery mechanism can allow you to acquire more stable income in an interesting way.",
+ "explorer": "https://bscscan.com/token/0xadb5ab463c060632df20fac209e703799b146f50",
+ "type": "BEP20",
+ "symbol": "Brave",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xADB5AB463c060632df20fAc209E703799B146f50"
+}

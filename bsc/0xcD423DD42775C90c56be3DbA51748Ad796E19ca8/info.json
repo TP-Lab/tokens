@@ -1,0 +1,11 @@
+{
+ "name": "HS",
+ "website": ".",
+ "description": "Fire represents a thriving market, a booming trend, heralding that everything is moving in a positive direction",
+ "explorer": "https://bscscan.com/token/0xcD423DD42775C90c56be3DbA51748Ad796E19ca8",
+ "type": "BEP20",
+ "symbol": "HS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcD423DD42775C90c56be3DbA51748Ad796E19ca8"
+}

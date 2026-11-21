@@ -1,0 +1,11 @@
+1{
+2"name": "HEALTH",
+3"website": "http://www.Healthcoins.io",
+4"description": "In the future, related medical products and device products will be introduced into the $HEALTH system to provide a channel to trace their roots.  At this point, a comprehensive digital medical service system is completed, which can fully function for actual resident health data collection, realize the public synchronization of medical institutions and personal information, and change people's views on online medical services.",
+5"explorer": "https://bscscan.com/address/0x32b166e082993af6598a89397e82e123ca44e74e",
+6"type": "BEP20",
+7"symbol": "HEALTH",
+8 "decimals": 18,
+9"status": "active",
+10 "id": "0x32b166e082993af6598a89397e82e123ca44e74e"
+11}

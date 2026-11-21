@@ -1,0 +1,11 @@
+{ 
+"name": "CXs",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0xdc50bC3B4A101CEa49AA04650Bf981795a899999",
+"type": "BEP20",
+"symbol": "CXs",
+"decimals": 18,
+"status": "active",
+"id": "0xdc50bC3B4A101CEa49AA04650Bf981795a899999"
+}

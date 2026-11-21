@@ -1,0 +1,11 @@
+{
+ "name": "Beaver Stock",
+ "website": "-",
+ "description": "Beaver Stock  is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x3CA86227283f946f4c48448Eb8Cb1800fb5e01d3",
+ "type": "BEP20",
+ "symbol": "BRSK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3CA86227283f946f4c48448Eb8Cb1800fb5e01d3"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "JokerManor",
+ "website": "https://www.jokerfi.com",
+ "description": "JokerManor is a GameFi Aggregator and Launchpad, with a number of value added DeFi features, that add value for the community as a whole, making it more inclusive, integrated and focussed and that allows players to earn rewards and assets (NFTs) by playing their favorite games in the metaverse, as well, players can also increase their revenue via liquidity mining and yield farming.",
+ "explorer": "https://bscscan.com/token/0x8E8123e286437B281cAa8abbF3A7f0CDf72b0aE6",
+ "type": "BEP20",
+ "symbol": "JKT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8E8123e286437B281cAa8abbF3A7f0CDf72b0aE6"
+}

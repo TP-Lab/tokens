@@ -1,0 +1,11 @@
+{
+ "name": "Damin",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x9046eC9094f4f61e301294b8f78038c96db10C8A",
+ "type": "BEP20",
+ "symbol": "Damin",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9046eC9094f4f61e301294b8f78038c96db10C8A"
+}

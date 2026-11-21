@@ -1,0 +1,11 @@
+{
+    "name": "QWasp",
+    "website": "https://qwasp-token.com",
+    "description": "QWasp(QWASP) is a decentralized application",
+    "explorer": "https://bscscan.com/token/0x3246c21a24DC39AEd2dC9912EF049520d2024576",
+    "type": "BEP20",
+    "symbol": "QWASP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3246c21a24DC39AEd2dC9912EF049520d2024576"
+}

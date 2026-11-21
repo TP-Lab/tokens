@@ -1,0 +1,11 @@
+{
+ "name": "Eternal Tower",
+ "website": "https://www.etr.bi",
+ "description": "ETR TOKEN 是ETR 元宇宙链游生态治理币，未来 ETR 元宇宙生态将上线更多款游戏，打造全球首款元宇宙自治聚合器;永恒之塔是ETR生态中首款发行的角色类扮演游戏，首挖ETR TOKEN，当ETR生态越来越繁荣，团队将会不断拓展新链游进入生态，ETR治理币将会更加有价值。",
+ "explorer": "https://bscscan.com/token/0x975247d4688F3c7f8483bB2e2fEEf0Ae543fd40C",
+ "type": "BEP20",
+ "symbol": "ETR",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x975247d4688F3c7f8483bB2e2fEEf0Ae543fd40C"
+}

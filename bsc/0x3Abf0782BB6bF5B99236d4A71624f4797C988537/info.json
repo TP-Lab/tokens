@@ -1,0 +1,11 @@
+{
+ "name": "Blockchain Royal Club",
+ "website": "-",
+ "description": "BRC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x3Abf0782BB6bF5B99236d4A71624f4797C988537",
+ "type": "BEP20",
+ "symbol": "BRC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3Abf0782BB6bF5B99236d4A71624f4797C988537"
+}

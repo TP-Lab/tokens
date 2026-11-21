@@ -1,0 +1,11 @@
+{
+ "name": "TON",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x45Bc15C27F6f4C63d149aB0DC716ffe281f80509",
+ "type": "BEP20",
+ "symbol": "TON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x45Bc15C27F6f4C63d149aB0DC716ffe281f80509"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "CDN",
+ "website": "-",
+ "description": "CDN Content Delivery not work. Refers to the establishment and coverage of the hosting network, by different regions of the distributed network composed of servers. Caches source station resources to edge servers around the country for users to access nearby. Content delivery network to reduce network congestion and improve user access response and hit rate.",
+ "explorer": "https://bscscan.com/token/0xaC992DF476e89BEE14Ce123c7327408676e223e5",
+ "type": "BEP20",
+ "symbol": "CDN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xaC992DF476e89BEE14Ce123c7327408676e223e5"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "HN",
+ "website": "https://bscscan.com/token/0x8AFf4708672B5B220E37b332302c42331214b6aB",
+ "description": "HUNU Universal token name",
+ "explorer": "https://bscscan.com/token/0x8AFf4708672B5B220E37b332302c42331214b6aB",
+ "type": "BEP20",
+ "symbol": "HN",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x8AFf4708672B5B220E37b332302c42331214b6aB"
+}s

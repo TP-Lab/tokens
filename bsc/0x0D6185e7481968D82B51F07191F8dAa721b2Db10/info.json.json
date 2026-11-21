@@ -1,0 +1,11 @@
+{
+  "name": "HipHopDoge",
+  "website": "https://www.hiphopdogecoin.com/",
+  "description": "Meet HipHopDoge, the cool little hip hop coin which will take over the crypto animal coin market by teaming up with influencers, and rappers and promoting ourselves all over social media and music platforms!",
+  "explorer": "https://bscscan.com/token/0x0D6185e7481968D82B51F07191F8dAa721b2Db10",
+  "type": "BEP20",
+  "symbol": "HDOGE",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0D6185e7481968D82B51F07191F8dAa721b2Db10"
+}

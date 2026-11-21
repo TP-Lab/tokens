@@ -1,0 +1,11 @@
+{
+ "name": "UC",
+ "website": "..",
+ "description": "",
+ "explorer": "https://scan.movachain.com/token/0x4578618cc89306ef02992ee38e0b79beb966c3b0",
+ "type": "MRC-20",
+ "symbol": "UC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4578618cc89306ef02992ee38e0b79beb966c3b0"
+}

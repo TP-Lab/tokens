@@ -1,0 +1,11 @@
+{
+ "name": "Cash Cow Coin",
+ "website": "https://masterfund.top",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x4CD0a468212A3F75180E05e9DF08D70b417aaA22",
+ "type": "BEP20",
+ "symbol": "CCC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x4CD0a468212A3F75180E05e9DF08D70b417aaA22"
+}

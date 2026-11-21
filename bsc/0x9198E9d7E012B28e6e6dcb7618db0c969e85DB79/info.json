@@ -1,0 +1,11 @@
+{ 
+"name": "ARBT",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/address/0x9198E9d7E012B28e6e6dcb7618db0c969e85DB79",
+"type": "BEP20",
+"symbol": "ARBT",
+"decimals": 18,
+"status": "active",
+"id": "0x9198E9d7E012B28e6e6dcb7618db0c969e85DB79"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "NERO",
+ "website": "..",
+ "description": "",
+ "explorer": "https://scan.movachain.com/token/0x8E96aFAB33a90a30eE780F5B18B1d669598004fF",
+ "type": "MRC-20",
+ "symbol": "NERO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8E96aFAB33a90a30eE780F5B18B1d669598004fF"
+}

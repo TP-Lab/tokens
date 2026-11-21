@@ -1,0 +1,11 @@
+{
+  "name": "Binance Star-USD",
+  "website": "https://starstablecoin.com",
+  "description": "STAR is an algorithmic stable currency, anchored to USDT, and currency holders can obtain stable income",
+  "explorer": "https://bscscan.com/token/0x85cc88D38221D3dc551868627625973E9946E9B0",
+  "type": "BEP20",
+  "symbol": "STAR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x85cc88D38221D3dc551868627625973E9946E9B0"
+}

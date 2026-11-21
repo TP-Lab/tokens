@@ -1,0 +1,11 @@
+{
+ "name": "BAMBOOTOKEN",
+ "website": "https://bambootoken.org",
+ "description": "BAMBOOTOKEN is the governance, incentive, and application token of BAMBOOSWAP, ensuring its sustainable growth through mechanisms such as Market Value Management Funds.(MVMF)",
+ "explorer": "https://bscscan.com/token/0xDd6523336735b6bBBc5082f0B7c7D497375773b0",
+ "type": "BEP20",
+ "symbol": "BBT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xDd6523336735b6bBBc5082f0B7c7D497375773b0"
+}

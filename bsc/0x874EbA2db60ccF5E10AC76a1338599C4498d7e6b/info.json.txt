@@ -1,0 +1,11 @@
+{
+ "name": "AMNToken",
+ "website": "https://http://www.domino.work/",
+ "description": "AMN is Domino Ecology's equity token, enjoys the governance right, voting rights and other rights of.",
+ "explorer": "https://bscscan.com/token/0x874EbA2db60ccF5E10AC76a1338599C4498d7e6b",
+ "type": "BEP20",
+ "symbol": "AMN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x874EbA2db60ccF5E10AC76a1338599C4498d7e6b"
+}

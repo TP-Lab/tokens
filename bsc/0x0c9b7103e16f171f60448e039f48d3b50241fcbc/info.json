@@ -1,0 +1,11 @@
+{
+ "name": "Everex",
+ "website": "http://www.evx.plus",
+ "description": "The Unobtainium Token is for metaverse.It can only be obtained by pledge libra mining",
+ "explorer": "https://bscscan.com/token/0x0c9b7103e16f171f60448e039f48d3b50241fcbc",
+ "type": "BEP20",
+ "symbol": "EVX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0C9b7103E16f171f60448E039F48d3b50241fcBC"
+}

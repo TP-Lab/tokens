@@ -1,0 +1,11 @@
+{
+ "name": "ToNFT",
+ "website": "https://tcoins.vip/",
+ "description": "TO NFT Trading Pingyi is an NFT diversified trading Pingyi jointly created by the Singapore TO NFT Foundation and Disney in the United States",
+ "explorer": "https://bscscan.com/token/0xc8dfa3379a00C00CF033CE566AD13b93f9ACB636",
+ "type": "BEP20",
+ "symbol": "Tcoin",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc8dfa3379a00C00CF033CE566AD13b93f9ACB636"
+}

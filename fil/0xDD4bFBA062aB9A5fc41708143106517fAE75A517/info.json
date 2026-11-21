@@ -1,0 +1,11 @@
+{
+ "name": "FVM Token",
+ "website": "",
+ "description": "FVM Token - This is an ecological warrant issued based on the FIL chain.",
+ "explorer": "https://filscan.io/address/0xDD4bFBA062aB9A5fc41708143106517fAE75A517",
+ "type": "ERC20",
+ "symbol": "FVM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDD4bFBA062aB9A5fc41708143106517fAE75A517"
+}

@@ -1,0 +1,11 @@
+{ 
+"name": "Tangyuan",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0x64753F90Ec1eF2ef54d013E734ad3924a53Ff05b",
+"type": "BEP20",
+"symbol": "Tangyuan",
+"decimals": 18,
+"status": "active",
+"id": "0x64753F90Ec1eF2ef54d013E734ad3924a53Ff05b"
+}

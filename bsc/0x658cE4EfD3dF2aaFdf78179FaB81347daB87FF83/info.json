@@ -1,0 +1,11 @@
+{
+ "name": "Dawn of Gods",
+ "website": "https://dawnofgods.io",
+ "description": "The first game implements gas-compensation in BSC",
+ "explorer": "https://bscscan.com/token/0x658cE4EfD3dF2aaFdf78179FaB81347daB87FF83",
+ "type": "BEP20",
+ "symbol": "DAGO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x658cE4EfD3dF2aaFdf78179FaB81347daB87FF83"
+}

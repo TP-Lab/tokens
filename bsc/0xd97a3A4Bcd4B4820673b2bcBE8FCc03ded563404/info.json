@@ -1,0 +1,11 @@
+{ 
+"name": "PeopleKing",
+"website": "http://peoplekingdao.com/",
+"description": "People help people",
+"explorer": "https://bscscan.com/token/0xd97a3A4Bcd4B4820673b2bcBE8FCc03ded563404",
+"type": "BEP20",
+"symbol": "PeopleKing",
+"decimals": 18,
+"status": "active",
+"id": "0xd97a3A4Bcd4B4820673b2bcBE8FCc03ded563404"
+}

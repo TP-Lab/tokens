@@ -1,0 +1,11 @@
+{
+ "name": "HKDAO Token",
+ "website": "https://www.ispacen.com/",
+ "description": "A total of 70000 coins were issued, fully circulated, and any remaining coins were destroyed. 3% of the coins were directly destroyed until 700 coins were stopped from being destroyed.",
+ "explorer": "https://bscscan.com/token/0x9340bd2E1D36d1F2Ed79bEF7E1cA603ff1913Bf7",
+ "type": "BEP20",
+ "symbol": "HKDAO",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x9340bd2E1D36d1F2Ed79bEF7E1cA603ff1913Bf7"
+}

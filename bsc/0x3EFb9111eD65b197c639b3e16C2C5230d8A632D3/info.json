@@ -1,0 +1,11 @@
+{
+ "name": "Dogb Network",
+ "website": "http://yyz.changxiaoba.com/",
+ "description": "DOGB perfect space dog is a Chinese ancient martial arts universe as the background of the NFT CARD SET TCG game. ",
+ "explorer": "https://bscscan.com/token/0x3EFb9111eD65b197c639b3e16C2C5230d8A632D3",
+ "type": "BEP20",
+ "symbol": "DOGB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3EFb9111eD65b197c639b3e16C2C5230d8A632D3"
+}

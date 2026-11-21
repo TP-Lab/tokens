@@ -1,0 +1,11 @@
+{
+ "name": "Tiger Token",
+ "website": "-",
+ "description": "Tiger Token is a decentralized autonomous organization token",
+ "explorer": "https://bscscan.com/token/0x4a0678A5E1B329AdF9F621c5f99b0df834803f7C",
+ "type": "BEP20",
+ "symbol": "TIGER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4a0678A5E1B329AdF9F621c5f99b0df834803f7C"
+}

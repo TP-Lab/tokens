@@ -1,0 +1,11 @@
+{
+ "name": "Tether Queen",
+ "website": "https://tetherqueen.com/",
+ "description": "TQ is the BEP20 token on the BSC chain. The purpose of TQ is to get more consensus holders to own TQ.",
+ "explorer": "https://bscscan.com/token/0xDB7F73F8894387DA330710389Ae7BF0Ad6666666",
+ "type": "BEP20",
+ "symbol": "TQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDB7F73F8894387DA330710389Ae7BF0Ad6666666"
+}

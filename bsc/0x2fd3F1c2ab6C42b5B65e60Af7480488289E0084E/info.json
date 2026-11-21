@@ -1,0 +1,11 @@
+{
+ "name": "FootballDOGE",
+ "website": "https://footballdoge.xyz",
+ "description": "FootballDOGE is the only legitimate project of DAO in the community, with no pre-sale, no reservation and 10% bonus DOGE",
+ "explorer": "https://bscscan.com/token/0x2fd3F1c2ab6C42b5B65e60Af7480488289E0084E",
+ "type": "BEP20",
+ "symbol": "FootballDOGE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2fd3F1c2ab6C42b5B65e60Af7480488289E0084E"
+}

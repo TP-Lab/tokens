@@ -1,0 +1,11 @@
+{ 
+"name": "GCoin",
+"website": ".",
+"description": ".",
+"explorer": "https://block.metachain1.com/token/0x003A40c1715444D67ECaa1c288F6919823bCB2ED",
+"type": "MTC-20",
+"symbol": "GC",
+"decimals": 18,
+"status": "active",
+"id": "0x003A40c1715444D67ECaa1c288F6919823bCB2ED"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "RT",
+ "website": "-",
+ "description": "RT is a web  project initiated by a number of communities and led by the head of the organization, players can influence the direction of the game by electing six DAO members to participate in the management.",
+ "explorer": "https://bscscan.com/token/0x0d4CEc2aC8694d88A560b45C60B7990A866CD4BF",
+ "type": "BEP20",
+ "symbol": "RT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0d4CEc2aC8694d88A560b45C60B7990A866CD4BF"
+} 

@@ -1,0 +1,11 @@
+{
+ "name": "FloatedGyro",
+ "website": "https://bscscan.com/token/0x95Ac56E6b3f0e24e384ee52A84448fFcF4f1FDf7",
+ "description": "FloatedGyro Coin.",
+ "explorer": "https://bscscan.com/token/0x95Ac56E6b3f0e24e384ee52A84448fFcF4f1FDf7",
+ "type": "BEP20",
+ "symbol": "FG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x95Ac56E6b3f0e24e384ee52A84448fFcF4f1FDf7"
+}

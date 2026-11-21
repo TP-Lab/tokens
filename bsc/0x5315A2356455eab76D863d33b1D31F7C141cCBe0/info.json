@@ -1,0 +1,11 @@
+{
+    "name": "FLAME",
+    "website": "https://flamefi.org/",
+    "description": "Welcome to Flame, the flame center of the blockchain revolution. Here, we use a unique burning and destruction mechanism to ignite every value and illuminate the future blockchain world.",
+    "explorer": "https://bscscan.com/token/0x5315A2356455eab76D863d33b1D31F7C141cCBe0",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "FLAME",
+    "status": "active",
+    "id": "0x5315A2356455eab76D863d33b1D31F7C141cCBe0"
+}

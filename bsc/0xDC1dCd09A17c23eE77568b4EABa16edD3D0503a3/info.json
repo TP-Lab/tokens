@@ -1,0 +1,11 @@
+{
+ "name": "ADAF Token",
+ "website": "http://www.adaf1314.com",
+ "description": "Metadata Transaction Protocol.",
+ "explorer": "https://bscscan.com/token/0xDC1dCd09A17c23eE77568b4EABa16edD3D0503a3",
+ "type": "BEP20",
+ "symbol": "ADAF",
+ "decimals": 25,
+ "status": "active",
+ "id": "0xDC1dCd09A17c23eE77568b4EABa16edD3D0503a3"
+}

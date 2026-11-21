@@ -1,0 +1,11 @@
+{
+ "name": "UTOPIA",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xEf1ad13F64AC26b18d062832dF9AbD4eF887FEA6",
+ "type": "BEP20",
+ "symbol": "UTO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEf1ad13F64AC26b18d062832dF9AbD4eF887FEA6"
+}

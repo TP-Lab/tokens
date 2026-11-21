@@ -1,0 +1,11 @@
+{
+ "name": "Coinpad",
+ "website": "https://www.coinpadofficial.com",
+ "description": "Our goal is to revolutionize the crypto world by launching multiple projects with Unique Selling Propositions (USP) under one Ecosystem. We are here to break up monopolies and create a safe place for the crypto community, where investors can browse through multiple community projects with real world use case.",
+ "explorer": "https://bscscan.com/token/0x31Ce6ac6007eB0f5AbbC1CA824a9e62dB81e8933",
+ "type": "BEP20",
+ "symbol": "CP",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x31Ce6ac6007eB0f5AbbC1CA824a9e62dB81e8933"
+}

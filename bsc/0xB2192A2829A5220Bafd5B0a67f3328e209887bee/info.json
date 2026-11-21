@@ -1,0 +1,11 @@
+{
+ "name": "GETA Token",
+ "website": "https://getaverses.com",
+ "description": "Getaverse is a metaverse ecological service platform based on the Web3 digital authentication engine protocol.",
+ "explorer": "https://bscscan.com/token/0xB2192A2829A5220Bafd5B0a67f3328e209887bee",
+ "type": "BEP20",
+ "symbol": "GETA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB2192A2829A5220Bafd5B0a67f3328e209887bee"
+}

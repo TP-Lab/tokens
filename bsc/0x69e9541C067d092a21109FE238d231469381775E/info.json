@@ -1,0 +1,11 @@
+{
+ "name": "Jbking",
+ "website": "https://jbking.io",
+ "description": "JBKING is a decentralized DAO project initiated by the community collectively.",
+ "explorer": "https://www.bscscan.com/token/0x69e9541C067d092a21109FE238d231469381775E",
+ "type": "BEP20",
+ "symbol": "JBKING",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x69e9541C067d092a21109FE238d231469381775E"
+}

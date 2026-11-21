@@ -1,0 +1,11 @@
+{
+    "name": "Fisc Token",
+    "website": "https://fisc.cc",
+    "description": "Fisc is a defi project that securitizes fil mining machinery assets. Each FISC has corresponding real fil computing power.",
+    "explorer": "https://bscscan.com/token/0x9087cbA5477DdC96B7ca86656b879A6eD49b717C",
+    "type": "BEP20",
+    "symbol": "FISC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x9087cbA5477DdC96B7ca86656b879A6eD49b717C"
+   }

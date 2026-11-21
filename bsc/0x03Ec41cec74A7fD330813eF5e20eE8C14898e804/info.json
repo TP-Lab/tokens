@@ -1,0 +1,11 @@
+{
+ "name": "SR Token",
+ "website": "",
+ "description": "SR is an open source Web3.0 decentralized blockchain platform, focus on  improving the throughput of blockchain networks",
+ "explorer": "https://bscscan.com/token/0x03Ec41cec74A7fD330813eF5e20eE8C14898e804",
+ "type": "BEP20",
+ "symbol": "SR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x03Ec41cec74A7fD330813eF5e20eE8C14898e804"
+}

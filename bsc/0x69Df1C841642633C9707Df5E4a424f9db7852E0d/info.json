@@ -1,0 +1,11 @@
+{
+ "name": "Coin Manage Token",
+ "website": "http://dapp.cmtoken.net",
+ "description": "Coin Manage Token is a protocol established to provide investors with diversified configurations through intelligent research and judgment and automatic contract trading",
+ "explorer": "https://bscscan.com/token/0x69Df1C841642633C9707Df5E4a424f9db7852E0d",
+ "type": "BEP20",
+ "symbol": "CMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x69Df1C841642633C9707Df5E4a424f9db7852E0d"
+}

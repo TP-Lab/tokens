@@ -1,0 +1,11 @@
+{
+  "name": "Binance Helen Token",
+  "website": "https://helenswap.com",
+  "description": "HelenSwap uses the Automatic Market Maker (AMM) mechanism to build a DECENTRALIZED TRADING PLATFORM BASED ON BEP-20 on the Binance Smart Chain. HelenSwap's goal is to be a powerful liquidity provider on binance chains and a birthplace of innovative gamification mechanisms, driving their integration into other chains and other areas.",
+  "explorer": "https://bscscan.com/token/0x01074F2f213ebd00587a773e461B5BC7F7B04C3B",
+  "type": "BEP20",
+  "symbol": "HLN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x01074F2f213ebd00587a773e461B5BC7F7B04C3B"
+}

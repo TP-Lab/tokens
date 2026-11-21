@@ -1,0 +1,11 @@
+{
+ "name": "Tuna Entertainment",
+ "website": "https://Entertainment.Tuna.com",
+ "description": "Tuna Entertainment utilizes blockchain technology to securely protect players' private data and assets. This ensures that operators in the entertainment sector cannot tamper with or delete player game data at will, breaking down isolated economies and reducing transaction costs within the entertainment sector. Moreover, players' digital assets can circulate globally, extending beyond the confines of games, enabling a fully blockchain-controlled entertainment ecosystem governed by smart contracts.",
+ "explorer": "https://bscscan.com/token/0x3B64a333A3d815F1AE0b5E7f9A8e93F1007C3D8a",
+ "type": "BEP20",
+ "symbol": "TNT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3B64a333A3d815F1AE0b5E7f9A8e93F1007C3D8a"
+}

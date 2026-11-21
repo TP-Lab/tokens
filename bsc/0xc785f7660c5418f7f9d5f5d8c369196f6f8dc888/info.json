@@ -1,0 +1,11 @@
+{ 
+"name": "MTlong",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0xc785f7660c5418f7f9d5f5d8c369196f6f8dc888",
+"type": "BEP20",
+"symbol": "MTlong",
+"decimals": 18,
+"status": "active",
+"id": "0xc785f7660c5418f7f9d5f5d8c369196f6f8dc888"
+}

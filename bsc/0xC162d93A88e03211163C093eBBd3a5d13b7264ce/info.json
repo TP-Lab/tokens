@@ -1,0 +1,11 @@
+{
+ "name": "Meta Decentraland",
+ "website": "https://www.mdl.finance/",
+ "description": "Meta Decentraland is a fantastic 3D metaverse world featuring different kinds of NFTs.",
+ "explorer": "https://bscscan.com/token/0xC162d93A88e03211163C093eBBd3a5d13b7264ce",
+ "type": "BEP20",
+ "symbol": "MDL",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xC162d93A88e03211163C093eBBd3a5d13b7264ce"
+}

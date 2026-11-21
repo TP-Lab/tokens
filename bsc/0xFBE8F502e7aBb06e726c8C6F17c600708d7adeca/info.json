@@ -1,0 +1,11 @@
+{
+ "name": "AGTR",
+ "website": "-",
+ "description": "AGTR is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xFBE8F502e7aBb06e726c8C6F17c600708d7adeca",
+ "type": "BEP20",
+ "symbol": "AGTR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFBE8F502e7aBb06e726c8C6F17c600708d7adeca"
+}

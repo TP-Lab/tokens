@@ -1,0 +1,11 @@
+{
+"name": "STRAC",
+"website": "https://sswap.tech",
+"description": "Share the profits of the global industry.",
+"explorer": "https://bscscan.com/address/0xbcc527351606dd5c9a059e6b0fea56061767db9c",
+"type": "BEP20",
+"symbol": "STRAC",
+"decimals": 18,
+"status": "active",
+"id": "0xbcC527351606Dd5C9A059E6B0Fea56061767Db9c"
+}

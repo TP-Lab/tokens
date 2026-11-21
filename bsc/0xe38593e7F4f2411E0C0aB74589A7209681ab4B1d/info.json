@@ -1,0 +1,11 @@
+{
+ "name": "WILL",
+ "website": "https://willfi.ink",
+ "description": "WILL-Fi is the first BSC-based Double Trade model token, opening up the first unique protocol in the primary market.",
+ "explorer": "https://bscscan.com/token/0xe38593e7F4f2411E0C0aB74589A7209681ab4B1d",
+ "type": "BEP20",
+ "symbol": "WILL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe38593e7F4f2411E0C0aB74589A7209681ab4B1d"
+}

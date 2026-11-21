@@ -1,0 +1,11 @@
+{
+ "name": "Galaxy Heroes Coin",
+ "website": "https://galaxyheroescoin.com/",
+ "description": "Galaxy Heroes Coin (GHC) is a community driven bsc coin. If you're interested in super heroes, you will love GHC.",
+ "explorer": "https://cn.etherscan.com/token/0x2d9105814c1839b1950ea4fa5642308f7e4259c2",
+ "type": "ERC-20",
+ "symbol": "GHC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2D9105814c1839B1950ea4fa5642308f7E4259C2"
+}

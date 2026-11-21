@@ -1,0 +1,11 @@
+{
+ "name": "Pokemon Token",
+ "website": "https://chain-pokemon.com",
+ "description": "Chain Pokemon is an upgrade battle game based on blockchain network, PMC is the token of this game",
+ "explorer": "https://bscscan.com/token/0x697b821E49A9f0dA99a9504a96Bb3676b6cC9152",
+ "type": "BEP20",
+ "symbol": "PMC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x697b821E49A9f0dA99a9504a96Bb3676b6cC9152"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "SSA",
+    "website": "https://renaisn.com/",
+    "description": "SSA is a game token and a bonus that you will receive after reading; it can be used to upgrade BOOK NFT.",
+    "explorer": "https://www.bscscan.com/token/0x86faa8343927efD1dC34b0f958A81B635E2cFDA7",
+    "type": "BEP20",
+    "symbol": "SSA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x86faa8343927efD1dC34b0f958A81B635E2cFDA7"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "F1",
+ "website": "https://formulaclub.vip",
+ "description": "F1 is an NFT game based on Biance smart chain platform. The goal is to create an interesting and lasting metauniverse game and build a valuable ecosystem. Different from the traditional and existing rough and boring monster fighting games, MFC not only ensures the harvest income obtained during monster fighting, but also creates more than ten kinds of playing methods and multiple mappings, such as capturing elves, guild playing methods, blind box system, player war, NFT trading, food feeding and so on, on the premise of allowing players to operate through game mode development, making the game more interesting and NFT elves more valuable.",
+ "explorer": "https://bscscan.com/token/0x1c763C7De6fBe11287a1B5f8ddd9DAB3A77eBf71",
+ "type": "BEP20",
+ "symbol": "F1",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1c763C7De6fBe11287a1B5f8ddd9DAB3A77eBf71"
+}

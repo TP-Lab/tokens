@@ -1,0 +1,11 @@
+{
+ "name": "WEB3 Inu",
+ "website": "https://web3inu.org",
+ "description": "Web3 Inu is a Rent-To-Earn token concept based in real world data interacting in two different layers: On-Chain and Off-Chain.",
+ "explorer": "https://bscscan.com/token/0xd0c4BC1B89BbD105EeCb7EBa3f13E7648c0De38F",
+ "type": "BEP20",
+ "symbol": "WEB3",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd0c4BC1B89BbD105EeCb7EBa3f13E7648c0De38F"
+}

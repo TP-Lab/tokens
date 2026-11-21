@@ -1,0 +1,11 @@
+{
+ "name": "Bichon coin",
+ "website": "https://app.bichoncoin.io/#/home",
+ "description": "Bichon is a Lite Venture funded DeFi-Dapp with security audit by top cyber security company CertiK. ",
+ "explorer": "https://www.bscscan.com/token/0x9f1839d6dfbebfc1bbbc94869f5c57784b5c369e",
+ "type": "BEP20",
+ "symbol": "BCC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9f1839d6dfbebfc1bbbc94869f5c57784b5c369e"
+}

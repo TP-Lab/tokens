@@ -1,0 +1,36 @@
+{
+    "name": "MangoSwap",
+    "website": "https://app.mangodex.finance/",
+    "description": "MangoSwap is a BSC, Arb, FSC multi-chain aggregation DEX, easy to use, fast transaction",
+    "explorer": "https://arbiscan.io/token/0x16290a6eadfe4c291ae8f60057632797b63c556a",
+    "type": "Arbitrum",
+    "symbol": "Mango",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x16290a6eADFE4C291AE8F60057632797B63c556A",
+    "tags": [
+        "defi"
+    ],
+	"links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MangoSwapDex"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/mangoswap"
+        },
+		{
+            "name": "gitbook",
+            "url": "https://mangodex.gitbook.io/mangoswap"
+        },
+		{
+            "name": "discord",
+            "url": "https://discord.gg/ekSSKSqMSR"
+        },
+		{
+            "name": "github",
+            "url": "https://github.com/MangoSwapGitHub/MangoSwap"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+ "name": "ButterSwap Token",
+ "website": "https://butterswap.me/",
+ "description": "HBUTTER is a mapped token in BSC for BUTTER in HECO via AnySwap lock-mint bridge.",
+ "explorer": "https://bscscan.com/token/0x2F3BcA2631Fff538b8A55207F6C2081457e229F7",
+ "type": "BEP20",
+ "symbol": "HBUTTER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2F3BcA2631Fff538b8A55207F6C2081457e229F7"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MAX",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/address/0x07570b2A1EEFCd70C541a26e89Cb60D5f3e95386",
+ "type": "BEP20",
+ "symbol": "MAX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x07570b2A1EEFCd70C541a26e89Cb60D5f3e95386"
+}

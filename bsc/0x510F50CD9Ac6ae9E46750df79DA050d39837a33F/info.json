@@ -1,0 +1,11 @@
+{
+ "name": "ShengNong Token",
+ "website": "https://www.shengnong.net",
+ "description": "Total issue 7777, bottom pool locked, give up authority no mode no system sliding point low",
+ "explorer": "https://bscscan.com/token/0x510F50CD9Ac6ae9E46750df79DA050d39837a33F",
+ "type": "BEP20",
+ "symbol": "SN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x510F50CD9Ac6ae9E46750df79DA050d39837a33F"
+}

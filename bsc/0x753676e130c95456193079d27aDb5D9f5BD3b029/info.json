@@ -1,0 +1,11 @@
+{
+ "name": "CatKiller",
+ "website": "https://www.CatKiller.com",
+ "description": "This is an action dedicated to rectifying the chaos in the current market, which will make all cats fear his existence, and it will be a great task to lead the mainstream of the market!",
+ "explorer": "https://bscscan.com/token/0x753676e130c95456193079d27aDb5D9f5BD3b029",
+ "type": "BEP20",
+ "symbol": "CatKiller",
+ "decimals": 9,
+ "status": "active",
+ "id": 0x753676e130c95456193079d27aDb5D9f5BD3b029
+}

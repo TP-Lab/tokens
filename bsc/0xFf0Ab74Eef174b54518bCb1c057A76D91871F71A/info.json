@@ -1,0 +1,11 @@
+{
+ "name": "DWD",
+ "website": "-",
+ "description": "DWD is a DAO and used for self-organization",
+ "explorer": "https://bscscan.com/token/0xff0ab74eef174b54518bcb1c057a76d91871f71a",
+ "type": "BEP20",
+ "symbol": "DWD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xff0ab74eef174b54518bcb1c057a76d91871f71a"
+}

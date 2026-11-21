@@ -1,0 +1,11 @@
+{
+  "name": "TAMO Token",
+  "website": "..",
+  "description": "A brand new Dark Web bazaar applied to the metaverse world is coming soon!",
+  "explorer": "https://bscscan.com/address/0x6e1dbe662930622eeccfdfbdb439ca018e7d7b65",
+  "type": "BEP20",
+  "symbol": "TAMO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6e1DBE662930622eeCcfdFbDB439ca018e7d7b65"
+}

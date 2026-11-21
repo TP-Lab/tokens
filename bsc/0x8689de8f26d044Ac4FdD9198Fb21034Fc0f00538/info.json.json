@@ -1,0 +1,11 @@
+{
+ "name": "ARC",
+ "website": "https://arcfinance.net/",
+ "description": "ARC is pioneeringly applied in the Web3 financial field.",
+ "explorer": "https://bscscan.com/token/0x8689de8f26d044Ac4FdD9198Fb21034Fc0f00538",
+ "type": "BEP20",
+ "symbol": "ARC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8689de8f26d044Ac4FdD9198Fb21034Fc0f00538"
+}

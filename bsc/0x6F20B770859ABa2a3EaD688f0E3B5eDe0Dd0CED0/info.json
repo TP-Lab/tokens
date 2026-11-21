@@ -1,0 +1,11 @@
+{
+ "name": "VDS Token",
+ "website": "https://www.govds.com/",
+ "description": "VDS is based on WEB3 blockchain technology, with decentralized anonymity as the design principle.",
+ "explorer": "https://bscscan.com/token/0x6f20b770859aba2a3ead688f0e3b5ede0dd0ced0",
+ "type": "BEP20",
+ "symbol": "VDS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6F20B770859ABa2a3EaD688f0E3B5eDe0Dd0CED0"
+}

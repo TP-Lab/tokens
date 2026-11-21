@@ -1,0 +1,11 @@
+{
+ "name": "MONSTER",
+ "website": "https://www.monsterbsc.com",
+ "description": "MONSTER is the world's first metaspace project that combines the NFT, Defi and Roblox mechanisms. With mining, creative, social, trade and business at its heart, it allows easy and flexible management of your own NFT, Defi and MONSTER assets.",
+ "explorer": "https://bscscan.com/token/0x61686b6a713FD355F2B1986AecF4aB41204e4EA5",
+ "type": "BEP20",
+ "symbol": "MONSTER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x61686b6a713FD355F2B1986AecF4aB41204e4EA5"
+}

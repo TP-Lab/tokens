@@ -1,0 +1,11 @@
+{
+ "name": "Bingo.Coin",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0xe2cb61bc46200ea103d4aed8de49e5fbc752e7e5",
+ "type": "BSC20",
+ "symbol": "BGC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe2Cb61bc46200ea103D4Aed8dE49E5fBc752E7E5"
+}

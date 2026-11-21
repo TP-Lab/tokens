@@ -1,0 +1,11 @@
+{
+ "name": "Fraternity Coin",
+ "website": "https://ftndex.com/",
+ "description": "Highly decentralized and charity DeFi platform.",
+ "explorer": "https://bscscan.com/token/0x226039D64Cd91E06bdAcf67022b0369d47C2ba7A",
+ "type": "BEP20",
+ "symbol": "FTN",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x226039D64Cd91E06bdAcf67022b0369d47C2ba7A"
+}

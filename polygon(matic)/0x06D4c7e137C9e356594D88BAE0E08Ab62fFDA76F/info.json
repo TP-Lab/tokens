@@ -1,0 +1,11 @@
+{
+    "name": "MTC",
+    "website": "https://www.mtcswap.xyz",
+    "description": "MTC mining is easy and safe, the future of cryptocurrency mining is here",
+    "explorer": "https://polygonscan.com/token/0x06D4c7e137C9e356594D88BAE0E08Ab62fFDA76F",
+    "type": "Polygon",
+    "symbol": "MTC",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x06D4c7e137C9e356594D88BAE0E08Ab62fFDA76F"
+}

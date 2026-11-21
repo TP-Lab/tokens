@@ -1,0 +1,11 @@
+{ 
+"name": "Falcon 9's",
+"website": "",
+"description": "",
+"explorer": "https://bscscan.com/address/0xFc86168F78E329347a1bE1910eE9C54f496A9999",
+"type": "BEP20",
+"symbol": "Falcon 9's",
+"decimals": 18,
+"status": "active",
+"id": "0xFc86168F78E329347a1bE1910eE9C54f496A9999"
+}

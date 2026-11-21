@@ -1,0 +1,11 @@
+{
+    "name": "Alpah Dao Coin",
+    "website": "www.al-cex.com",
+    "description": "Alpha-Cex is the world's first exchange operated on a DAO (Decentralized Autonomous Organization) mechanism. With our innovative business model, user contributions become a part of the platform's revenue. At Alpha-Cex, everyone can become a shareholder and collectively share in the success of the exchange.",
+    "explorer": "https://bscscan.com/token/0x54aB9B3ef55D030E1AbD50e8dE3A4a38283E192f",
+    "type": "BEP20",
+    "symbol": "ADC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x54aB9B3ef55D030E1AbD50e8dE3A4a38283E192f"
+   }

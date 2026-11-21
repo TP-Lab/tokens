@@ -1,0 +1,11 @@
+{
+ "name": "HY314",
+ "website": "https://x.com/CQSanShao?s=09",
+ "description": "HY314 Protocol, is about to open a new chapterwelcome all blockchain enthusiasts to witness the.",
+ "explorer": "https://bscscan.com/token/0xb14f5Ce559F93bd59Be8D1361544A2Ac20723e57",
+ "type": "BEP20",
+ "symbol": "HY314",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb14f5Ce559F93bd59Be8D1361544A2Ac20723e57"
+}

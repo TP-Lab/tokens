@@ -1,0 +1,11 @@
+{
+ "name": "SQLM",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x8080Ddc18a32814Eb51F7017F5ee49794fe19999",
+ "type": "BEP20",
+ "symbol": "SQLM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8080Ddc18a32814Eb51F7017F5ee49794fe19999"
+}

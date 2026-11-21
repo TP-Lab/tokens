@@ -1,0 +1,11 @@
+{
+ "name": "ZHI DAO",
+ "website": "",
+ "description": "ZHI DAO token",
+ "explorer": "https://www.bscscan.com/token/0xAC428a652DD9452B978543eB6d83327168c119e2",
+ "type": "BEP20",
+ "symbol": "ZHI DAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAC428a652DD9452B978543eB6d83327168c119e2"
+}

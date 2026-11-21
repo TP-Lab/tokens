@@ -1,0 +1,11 @@
+{
+    "name": "Big Mouth Monster Token",
+    "website": "https://bmmgame.io/",
+    "description": "BMM is the native token of the Big Mouth Game. By using BMM tokens, you can summon monsters in the Big Mouth game. And you can also let monsters help you earn tokens in the game.",
+    "explorer": "https://bscscan.com/token/0xe45fB6F2D975d6D92fFe2ddB5136312938Fe9252",
+    "type": "BEP20",
+    "symbol": "BMM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe45fB6F2D975d6D92fFe2ddB5136312938Fe9252"
+}

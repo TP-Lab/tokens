@@ -1,0 +1,11 @@
+{
+ "name": "ETNCOINS.COM",
+ "website": "http://www.0xaaaac1846734e0edc24f74c4a7f2385f1d79eae5.com/",
+ "description": "Through cross-chain bridge technology, ETN opens bridge transactions between public chains and promotes free trade of commodities.",
+ "explorer": "https://bscscan.com/token/0xaaaac1846734e0edc24f74c4a7f2385f1d79eae5",
+ "type": "BEP20",
+ "symbol": "ETN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAaAaC1846734e0Edc24F74c4a7F2385F1D79EAe5"
+}

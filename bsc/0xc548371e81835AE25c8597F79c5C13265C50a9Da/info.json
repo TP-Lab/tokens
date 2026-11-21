@@ -1,0 +1,11 @@
+{
+ "name": "Bitcoin Gold",
+ "website": "https://aibtg.tech/",
+ "description": "Bitcoin Gold",
+ "explorer": "https://bscscan.com/token/0xc548371e81835AE25c8597F79c5C13265C50a9Da",
+ "type": "BEP20",
+ "symbol": "BTG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc548371e81835AE25c8597F79c5C13265C50a9Da"
+}

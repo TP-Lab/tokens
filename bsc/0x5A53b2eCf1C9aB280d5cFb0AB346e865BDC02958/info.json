@@ -1,0 +1,11 @@
+{
+ "name": "BTSA",
+ "website": "-",
+ "description": "BTSA is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x5A53b2eCf1C9aB280d5cFb0AB346e865BDC02958",
+ "type": "BEP20",
+ "symbol": "BTSA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5A53b2eCf1C9aB280d5cFb0AB346e865BDC02958"
+}

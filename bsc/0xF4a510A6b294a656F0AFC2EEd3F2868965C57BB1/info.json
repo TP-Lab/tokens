@@ -1,0 +1,11 @@
+{
+ "name": "Time2",
+ "website": "-",
+ "description": "Time2 is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xF4a510A6b294a656F0AFC2EEd3F2868965C57BB1",
+ "type": "BEP20",
+ "symbol": "Time2",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF4a510A6b294a656F0AFC2EEd3F2868965C57BB1"
+}

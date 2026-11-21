@@ -1,0 +1,11 @@
+{
+    "name": "BinanceCat",
+    "website": "http://binancecat.net/",
+    "description": "BinanceCat is the most powerful meme coin",
+    "explorer": "https://bscscan.com/token/0x34A8be144bc9AE56EcD2069bb9175b2D6B0db1b9",
+    "type": "BEP-20",
+    "symbol": "BinanceCat",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x34A8be144bc9AE56EcD2069bb9175b2D6B0db1b9"
+}

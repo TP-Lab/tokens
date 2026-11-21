@@ -1,0 +1,11 @@
+{
+ "name": "2024SDSS Coin",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x84b8d31108bE8FBfB5D0b30a1AFAE124e65F6666",
+ "type": "BEP20",
+ "symbol": "2024SDSS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x84b8d31108bE8FBfB5D0b30a1AFAE124e65F6666"
+}

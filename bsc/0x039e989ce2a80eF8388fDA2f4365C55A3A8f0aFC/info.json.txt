@@ -1,0 +1,11 @@
+{
+ "name": "emoNFT",
+ "website": "https://emo-nft.com",
+ "description": "eNFT is a comprehensive platform of emo NFT governance token + NFT platform + encrypted chat app + Metaverse Gamee.",
+ "explorer": "https://bscscan.com/token/0x039e989ce2a80eF8388fDA2f4365C55A3A8f0aFC",
+ "type": "BEP20",
+ "symbol": "eNFT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x039e989ce2a80eF8388fDA2f4365C55A3A8f0aFC"
+}

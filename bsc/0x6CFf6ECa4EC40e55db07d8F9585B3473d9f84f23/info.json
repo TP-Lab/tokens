@@ -1,0 +1,11 @@
+{
+ "name": "Biance Cash",
+ "website": "-",
+ "description": "Biance Cash(BNCH) is a highly autonomous, decentralized, fair and just ecological community.",
+ "explorer": "https://bscscan.com/token/0x6CFf6ECa4EC40e55db07d8F9585B3473d9f84f23",
+ "type": "BEP20",
+ "symbol": "BNCH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6CFf6ECa4EC40e55db07d8F9585B3473d9f84f23"
+}

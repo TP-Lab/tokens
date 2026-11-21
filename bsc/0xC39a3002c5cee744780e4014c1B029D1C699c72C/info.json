@@ -1,0 +1,11 @@
+{
+ "name": "ZOLO",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xC39a3002c5cee744780e4014c1B029D1C699c72C",
+ "type": "BSC20",
+ "symbol": "ZOLO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC39a3002c5cee744780e4014c1B029D1C699c72C"
+}

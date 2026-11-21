@@ -1,0 +1,11 @@
+{ 
+"name": "Monkey King Token",
+"website": "https://monkey-legend.com/",
+"description": "A New Generation Of New Ratail Ecosphere Chain.",
+"explorer": "https://bscscan.com/token/0x7BD1cb2B2331206Bac4D87308549108CF3994771",
+"type": "BEP20",
+"symbol": "MKT",
+"decimals": 6,
+"status": "active",
+"id": "0x7BD1cb2B2331206Bac4D87308549108CF3994771"
+}

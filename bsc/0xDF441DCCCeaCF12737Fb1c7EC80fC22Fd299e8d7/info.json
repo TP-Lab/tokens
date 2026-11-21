@@ -1,0 +1,11 @@
+{
+ "name": "Special Activities Division",
+ "website": "https://tokenpocket.pro",
+ "description": "SAD is a cross-chain DeFi + NFT + meta ological protocol and infrastructure and also an open NFT ecosystem.Anyone can create an NFT, initiate NFT mining, auctions, and deals.",
+ "explorer": "https://bscscan.com/token/0xDF441DCCCeaCF12737Fb1c7EC80fC22Fd299e8d7",
+ "type": "BEP20",
+ "symbol": "SAD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDF441DCCCeaCF12737Fb1c7EC80fC22Fd299e8d7"
+}

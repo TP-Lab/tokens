@@ -1,0 +1,11 @@
+{
+    "name": "DFG",
+    "website": "https://www.daofarmer.com",
+    "description": "DAO Farmer is a Play-to-Earn Metaverse GameFi that combines blockchain technology with traditional gaming connotations.",
+    "explorer": "https://bscscan.com/token/0xdae7a4aacbBCaf13E9A101A2bF376Fcb3931aD27",
+    "type": "BEP20",
+    "symbol": "DFG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdae7a4aacbBCaf13E9A101A2bF376Fcb3931aD27"
+}

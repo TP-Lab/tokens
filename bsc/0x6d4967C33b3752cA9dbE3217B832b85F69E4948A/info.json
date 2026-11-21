@@ -1,0 +1,11 @@
+{
+ "name": "Fistiana Governance Token",
+ "website": "https://fistiana.org",
+ "description": "FGT is produced in token activities, with a total of 3 billion cultivated.",
+ "explorer": "https://bscscan.com/token/0x6d4967C33b3752cA9dbE3217B832b85F69E4948A",
+ "type": "BEP20",
+ "symbol": "FGT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6d4967C33b3752cA9dbE3217B832b85F69E4948A"
+}

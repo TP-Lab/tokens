@@ -1,0 +1,11 @@
+{
+ "name": "PrimeFlow",
+ "website": "https://primeflow.us",
+ "description": "PrimeFlow is a revolutionary blockchain project that aims to revolutionize the status quo of blockchain technology through innovative Layer 3 solutions.",
+ "explorer": "https://etherscan.io/token/0xbfed56193a88e94c7d0c49289d2a7e99d53643ab",
+ "type": "ERC20",
+ "symbol": "ETFP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xBFed56193A88E94C7D0c49289d2a7e99d53643ab"
+}

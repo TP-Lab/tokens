@@ -1,0 +1,11 @@
+{
+    "name": "LT",
+    "website": "https://www.lt-token.com/",
+    "description": "Decentralized trading applications",
+    "explorer": "https://bscscan.com/token/0x3Ed148C6869605Aab432b834184B6AAEe4719646",
+    "type": "BEP20",
+    "symbol": "LT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3Ed148C6869605Aab432b834184B6AAEe4719646"
+   }

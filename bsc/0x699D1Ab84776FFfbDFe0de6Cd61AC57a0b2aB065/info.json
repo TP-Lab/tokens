@@ -1,0 +1,11 @@
+{
+    "name": "MT-G",
+    "website": "https://twitter.com/MythWorldStudio",
+    "description": "MT-G is a decentralized approach that utilizes peer-to-peer networks and consensus initiative, open source code, blockchain as the underlying technology, and is based on cutting-edge technology to create a cryptocurrency for future planetary payments",
+    "explorer": "https://www.bscscan.com/token/0x699D1Ab84776FFfbDFe0de6Cd61AC57a0b2aB065",
+    "type": "BEP20",
+    "symbol": "MT-G",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x699D1Ab84776FFfbDFe0de6Cd61AC57a0b2aB065"
+ }

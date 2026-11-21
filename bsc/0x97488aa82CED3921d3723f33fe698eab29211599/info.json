@@ -1,0 +1,11 @@
+{
+"name": "CATCoin",
+"website": "https://t.me/catcoins",
+"description": "Cat coin has the best IP. Just like doge coin. We firmly believe that he will fly to the height of dog coin.Join the community and become the best MEME coin with cat coins",
+"explorer": "https://bscscan.com/address/0x97488aa82CED3921d3723f33fe698eab29211599",
+"type": "BEP20",
+"symbol": "CAT",
+"decimals": 18,
+"status": "active",
+"id": "0x97488aa82CED3921d3723f33fe698eab29211599"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "XenoRunToken",
+ "website": "https://www.xrun.world",
+ "description": "XRT is a digital asset issued by the xDAO Foundation of the United States based on the Ethereum ERC-20 protocol.",
+ "explorer": "https://etherscan.io/token/0x95652e39E6FB55d41f6A975079035829293e0E16",
+ "type": "ERC20",
+ "symbol": "XRT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x95652e39E6FB55d41f6A975079035829293e0E16"
+}

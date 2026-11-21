@@ -1,0 +1,11 @@
+{
+    "name": "BTJ",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0xd6D5cF049083632C2b842DCCE2bc7Ac419Ea595f",
+    "type": "BEP20",
+    "symbol": "BTJ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd6D5cF049083632C2b842DCCE2bc7Ac419Ea595f"
+}

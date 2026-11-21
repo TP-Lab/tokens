@@ -1,0 +1,11 @@
+{
+ "name": "CFL",
+ "website": "https://www.cfl.life",
+ "description": "CFL is a landing application of blockchain technology and token economy in the debt sector of the legal industry",
+ "explorer": "https://bscscan.com/token/0x79a572e6A79E54dB55fb4099b4810BEFAFE77019",
+ "type": "BEP20",
+ "symbol": "CFL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x79a572e6A79E54dB55fb4099b4810BEFAFE77019"
+}

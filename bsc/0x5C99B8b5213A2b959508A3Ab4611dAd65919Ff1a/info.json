@@ -1,0 +1,11 @@
+{
+ "name": "LEGA Token",
+ "website": "https://lega.world",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x5C99B8b5213A2b959508A3Ab4611dAd65919Ff1a",
+ "type": "BEP20",
+ "symbol": "LEGA",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5C99B8b5213A2b959508A3Ab4611dAd65919Ff1a"
+}

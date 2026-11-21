@@ -1,0 +1,11 @@
+{
+    "name": "UV Token",
+    "website": "",
+    "description": "UV是UVSwap去中心化平台上基于币安智能链发行的平台代币，是系统运行和社区治理的重要组成部分，总发行量2100万枚。",
+    "explorer": "https://bscscan.com/token/0x46b1A7Adf57055D4347842D1EaB09376A0c81AAC",
+    "type": "BEP20",
+    "symbol": "UV",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x46b1A7Adf57055D4347842D1EaB09376A0c81AAC"
+   }

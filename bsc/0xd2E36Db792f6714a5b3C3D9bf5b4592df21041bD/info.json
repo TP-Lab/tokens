@@ -1,0 +1,11 @@
+{
+ "name": "MCDAO Token",
+ "website": "https://mcdao.org/",
+ "description": "MCT is the official game token of Minecraft DAO",
+ "explorer": "https://bscscan.com/token/0xd2E36Db792f6714a5b3C3D9bf5b4592df21041bD",
+ "type": "BEP20",
+ "symbol": "MCT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd2E36Db792f6714a5b3C3D9bf5b4592df21041bD"
+}

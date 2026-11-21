@@ -1,0 +1,11 @@
+{
+ "name": "AK Token",
+ "website": "https://ak.com",
+ "description": "AK Token (AK) serves as the equity token for the Ak.com platform, a blockchain-based equity fundraising platform. AK represents ownership and participation rights within the AK.com ecosystem, allowing holders to invest in real-world assets and projects, receive dividends, and participate in platform governance.",
+ "explorer": "https://arbiscan.io/token/0x5961cBc865728cb86CB9eFa293e897a81fa94b64",
+ "type": "ERC20",
+ "symbol": "AK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5961cBc865728cb86CB9eFa293e897a81fa94b64"
+}

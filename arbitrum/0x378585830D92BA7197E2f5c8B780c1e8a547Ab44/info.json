@@ -1,0 +1,11 @@
+{
+ "name": "SUN",
+ "website": "https://sunray.finance/",
+ "description": "Sunray Finance is a decentralized financial derivative DEX running on the Arbitrum protocol of the Layer2 network, developed and operated by Dynamics and SoftBank SBC Wallet Cards in Japan. It belongs to the ecological business part of Card Wallet and is an on chain asset (RWA) and decentralized DeFi protocol, solving the problem of no threshold open global financial business service platform.",
+ "explorer": "https://arbiscan.io/address/0x378585830d92ba7197e2f5c8b780c1e8a547ab44",
+ "type": "ERC20",
+ "symbol": "SUN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x378585830D92BA7197E2f5c8B780c1e8a547Ab44"
+}

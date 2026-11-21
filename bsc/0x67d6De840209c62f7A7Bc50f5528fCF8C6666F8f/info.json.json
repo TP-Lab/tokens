@@ -1,0 +1,11 @@
+{
+ "name": "Alpha global coin",
+ "website": "http://www.agc-token.com/h5/",
+ "description": "Alpha Global Coin is a universal token for a gaming aggregation platform that allows you to freely explore any game within the platform.",
+ "explorer": "https://bscscan.com/token/0x67d6de840209c62f7a7bc50f5528fcf8c6666f8f",
+ "type": "BEP20",
+ "symbol": "AGC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x67d6De840209c62f7A7Bc50f5528fCF8C6666F8f"
+}

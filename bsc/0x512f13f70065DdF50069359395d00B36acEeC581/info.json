@@ -1,0 +1,11 @@
+{
+    "name": "TCoin",
+    "website": "https://tracyswap.com",
+    "description": "Decentralized trading platform",
+    "explorer": "https://bscscan.com/token/0x512f13f70065DdF50069359395d00B36acEeC581",
+    "type": "BEP20",
+    "symbol": "TCoin",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x512f13f70065DdF50069359395d00B36acEeC581"
+}

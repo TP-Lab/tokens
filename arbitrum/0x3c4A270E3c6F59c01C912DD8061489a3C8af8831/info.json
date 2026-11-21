@@ -1,0 +1,11 @@
+{
+    "name": "NovaTrade",
+    "website": "https://novatrade.co",
+    "description": "Decentralized Trading Platform, Gain Exposure to A Variety of Assets with Up to 100x Leverage and Deep Liquidity.",
+    "explorer": "https://arbiscan.io/token/0x3c4a270e3c6f59c01c912dd8061489a3c8af8831",
+    "type": "ERC20",
+    "symbol": "NOVA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3c4A270E3c6F59c01C912DD8061489a3C8af8831"
+}

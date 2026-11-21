@@ -1,0 +1,11 @@
+{
+ "name": "AIGO",
+ "website": "https://aigorand.pro/",
+ "description": "Algorand is a financial institution founded and established by Silvio Mical in 2017 with a technical team that will integrate sports guessing elements to create the world's first web3.0 + metaverse + NFT trading platform. AIGO will usher in a new era of sports circulation and trading, providing users with a variety of innovative financial models with powerful traffic!",
+ "explorer": "https://bscscan.com/address/0x5373ab491efA0165A2DB418A1D34CF89EE798888",
+ "type": "BEP20",
+ "symbol": "AIGO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5373ab491efA0165A2DB418A1D34CF89EE798888"
+}

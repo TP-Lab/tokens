@@ -1,0 +1,11 @@
+{
+ "name": "Starlink",
+ "website": "https://starlink.golf/",
+ "description": "An Ethereum meme+ project that names after Elon Musk's space initiative, with Taylor Swift’s cat as mascot.",
+ "explorer": "https://etherscan.io/token/0x581d764279C8E93D6eB403B4Cf7EA1fcE2F06FD9",
+ "type": "ERC20",
+ "symbol": "Starlink",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x581d764279C8E93D6eB403B4Cf7EA1fcE2F06FD9"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "N3",
+    "website": "https://www.neomass.io",
+    "description": "N3 is the governance Token of NEOMASS.NEOMASS is a Hundred Thousand Stars Composed of NFT Mining and Competitive social galaxies.
+In neomass.io, we have our own interstellar home, she is our entertainment space, but also our spiritual playground, where everyone can create their own heroic epic..",
+    "explorer": "https://bscscan.com/token/0x8eC547fA5e7f080Bf478dCbF7967fE53C19Ba474",
+    "type": "BEP20",
+    "symbol": "N3",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8eC547fA5e7f080Bf478dCbF7967fE53C19Ba474"
+}

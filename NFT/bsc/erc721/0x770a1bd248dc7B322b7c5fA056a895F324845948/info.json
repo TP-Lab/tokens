@@ -1,0 +1,11 @@
+{
+ "name": "LittleBeeNFT",
+ "website": "",
+ "description": "With the smart contract of BSC dual public chain, adopt advanced web3 stacks to build an independent and autonomous decentralized network",
+ "explorer": "https://bscscan.com/token/0x770a1bd248dc7B322b7c5fA056a895F324845948",
+ "type": "ERC721",
+ "symbol": "LBNFT",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x770a1bd248dc7B322b7c5fA056a895F324845948"
+}

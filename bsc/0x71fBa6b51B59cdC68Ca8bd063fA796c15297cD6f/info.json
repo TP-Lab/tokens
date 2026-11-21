@@ -1,0 +1,11 @@
+{
+"name": "Vanner Token",
+"website": "-",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0x71fBa6b51B59cdC68Ca8bd063fA796c15297cD6f",
+"type": "BEP20",
+"symbol": "VAN",
+"decimals": 18,
+"status": "active",
+"id": "0x71fBa6b51B59cdC68Ca8bd063fA796c15297cD6f"
+}

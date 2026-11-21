@@ -1,0 +1,11 @@
+{
+ "name": "TFS",
+ "website": "",
+ "description": "TFS(Transformers)是一款以变形金刚为主题的nft+链游类项目，项目带5%燃烧定时分红功能。代币总发行2210亿",
+ "explorer": "https://bscscan.com/token/0x73c8da697fe5e145f6269c4c852e59a7328f9371",
+ "type": "BEP20",
+ "symbol": "TFS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x73C8dA697fe5E145f6269C4C852e59a7328F9371"
+}

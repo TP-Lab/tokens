@@ -1,0 +1,11 @@
+{
+ "name": "Tele Token",
+ "website": "https://tele-token.com",
+ "description": "Build a platform for traffic, promotion and entertainment Build a top DAO application ecosystem for DeFi, NFT, and Metaverse",
+ "explorer": "https://etherscan.io/address/0xde28b7965113310967a89da005349e5043e410ac",
+ "type": "ERC20",
+ "symbol": "TELE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdE28b7965113310967a89DA005349E5043E410ac"
+}

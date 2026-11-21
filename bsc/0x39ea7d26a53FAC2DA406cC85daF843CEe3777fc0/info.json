@@ -1,0 +1,11 @@
+{
+    "name": "HKT",
+    "website": "www.hktstar.co",
+    "description": "HKT-WEB3 is a decentralized finance (DeFi) algorithmic money market protocol on BNB Chain.",
+    "explorer": "https://bscscan.com/token/0x39ea7d26a53FAC2DA406cC85daF843CEe3777fc0",
+    "type": "BEP20",
+    "symbol": "HKT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x39ea7d26a53FAC2DA406cC85daF843CEe3777fc0"
+  }

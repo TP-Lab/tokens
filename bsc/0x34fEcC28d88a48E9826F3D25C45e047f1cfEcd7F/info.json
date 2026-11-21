@@ -1,0 +1,11 @@
+{
+ "name": Family DAO",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0x34fEcC28d88a48E9826F3D25C45e047f1cfEcd7F",
+ "type": "BEP20",
+ "symbol": "Family DAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x34fEcC28d88a48E9826F3D25C45e047f1cfEcd7F"
+}

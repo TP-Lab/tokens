@@ -1,0 +1,11 @@
+{
+ "name": "DEMON",
+ "website": "https://www.demonfinance.com",
+ "description": "Demon Ecosystem integrates a lucrative finance vault with unique Metaverse gamification making it one of the exclusive DeFi projects in the market! ",
+ "explorer": "https://bscscan.com/address/0x2E51b6f3181b342d098B1a939Ae1944ED6768fd4",
+ "type": "BEP20",
+ "symbol": "DEMON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2E51b6f3181b342d098B1a939Ae1944ED6768fd4"
+}

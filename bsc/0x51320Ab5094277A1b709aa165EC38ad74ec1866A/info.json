@@ -1,0 +1,11 @@
+{
+ "name": "SQDAO",
+ "website": "..",
+ "description": "Standard bep20 token",
+ "explorer": "https://bscscan.com/token/0x51320Ab5094277A1b709aa165EC38ad74ec1866A",
+ "type": "BEP20",
+ "symbol": "SQDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x51320Ab5094277A1b709aa165EC38ad74ec1866A"
+}

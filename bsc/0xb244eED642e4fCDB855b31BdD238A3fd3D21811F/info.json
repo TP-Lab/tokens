@@ -1,0 +1,11 @@
+{
+ "name": "Sudden wealth plan",
+ "website": "https://www.sudwp.io",
+ "description": "Multi-currency linkage takes DeFi3.0 as the core and combines NFT+GameFi and other fields of ecology.",
+ "explorer": "https://bscscan.com/token/0xb244eED642e4fCDB855b31BdD238A3fd3D21811F",
+ "type": "BEP20",
+ "symbol": "SWP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb244eED642e4fCDB855b31BdD238A3fd3D21811F"
+}

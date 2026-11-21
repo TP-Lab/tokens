@@ -1,0 +1,11 @@
+{
+ "name": "SVT",
+ "website": "https://smartvaluetoken.com",
+ "description": "Smart Value Token Wallet (SVT Wallet) is a multi-chain cryptocurrency management platform that combines AI and blockchain technology. It is deployed on the Solana chain and aims to develop efficient asset management and promote the development of Web3.",
+ "explorer": "https://solscan.io/token/C8kPRR4U9Gzu4mgHgVyDmdvSCHYjSz2k7h2FWKWdJaBo",
+ "type": "Solana",
+ "symbol": "SVT",
+ "decimals": 6,
+ "status": "active",
+ "id": "C8kPRR4U9Gzu4mgHgVyDmdvSCHYjSz2k7h2FWKWdJaBo"
+}

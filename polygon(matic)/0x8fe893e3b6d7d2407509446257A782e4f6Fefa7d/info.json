@@ -1,0 +1,11 @@
+{
+ "name": "Digital Rose Game",
+ "website": "https://www.drose.link",
+ "description": "Drose - Give you a NFT Rose",
+ "explorer": "https://polygonscan.com/token/0x8fe893e3b6d7d2407509446257a782e4f6fefa7d",
+ "type": "ERC20",
+ "symbol": "DROSE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8fe893e3b6d7d2407509446257A782e4f6Fefa7d"
+}

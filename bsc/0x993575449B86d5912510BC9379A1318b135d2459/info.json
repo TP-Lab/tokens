@@ -1,0 +1,11 @@
+{ 
+"name": "WDD",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0x993575449B86d5912510BC9379A1318b135d2459",
+"type": "BEP20",
+"symbol": "WDD",
+"decimals": 18,
+"status": "active",
+"id": "0x993575449B86d5912510BC9379A1318b135d2459"
+}

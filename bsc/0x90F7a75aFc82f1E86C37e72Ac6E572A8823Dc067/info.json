@@ -1,0 +1,11 @@
+{
+    "name": "MIN Token",
+    "website": "http://newmin.minmotions.com",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x90F7a75aFc82f1E86C37e72Ac6E572A8823Dc067",
+    "type": "BEP20",
+    "symbol": "MIN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x90F7a75aFc82f1E86C37e72Ac6E572A8823Dc067"
+   }

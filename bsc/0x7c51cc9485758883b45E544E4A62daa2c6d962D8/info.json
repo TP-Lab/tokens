@@ -1,0 +1,11 @@
+{
+ "name": "Wall Street",
+ "website": "-",
+ "description": "Wall Street is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x7c51cc9485758883b45E544E4A62daa2c6d962D8",
+ "type": "BEP20",
+ "symbol": " WST ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7c51cc9485758883b45E544E4A62daa2c6d962D8"
+}

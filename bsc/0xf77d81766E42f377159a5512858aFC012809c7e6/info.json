@@ -1,0 +1,11 @@
+{
+ "name": "INFinitar coin",
+ "website": "https://www.infinitar.com",
+ "description": "Holders will also benefit from exclusive airdrops of INF, the native game token, further enhancing their gameplay experience within the Infinitar universe.",
+ "explorer": "https://bscscan.com/token/0xf77d81766E42f377159a5512858aFC012809c7e6",
+ "type": "BEP20",
+ "symbol": "INF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf77d81766E42f377159a5512858aFC012809c7e6"
+}

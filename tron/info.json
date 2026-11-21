@@ -1,12 +1,11 @@
 {
- "name": "CENTURY Token",
- "website": "
-http://www.forestry.gov.cn/bhxh/index.html",
- "description": "CENTURY is a Phoenix autonomous token with a total of 10,000 pieces",
- "explorer": "https://tronscan.io/#/token20/TEYx5HjofwpsXrGDCPWoQCeTU4SzkxAiHL",
+ "name": "MadHouse Token",
+ "website": "https://madhouse404.com",
+ "description": Memecoin based on TRX.",
+ "explorer": "https://tronscan.io/#/token20/TBoupmmqSwULKpa3jQJZuWNPDpbzfT2Grh",
  "type": "TRC20",
- "symbol": "CENTURY",
- "decimals": 9,
+ "symbol": "MAD",
+ "decimals": 6,
  "status": "active",
- "id": "TEYx5HjofwpsXrGDCPWoQCeTU4SzkxAiHL"
+ "id": "TBoupmmqSwULKpa3jQJZuWNPDpbzfT2Grh"
 }

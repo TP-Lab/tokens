@@ -1,0 +1,11 @@
+{
+ "name": "CODTokenNew",
+ "website": "http://www.sportsx.ltd",
+ "description": "New Sports X Token On BSC",
+ "explorer": "https://bscscan.com/token/0xA4737E113ABf4C9D110F28cfD3DAa4d247ff69cB",
+ "type": "BEP20",
+ "symbol": "COD",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xA4737E113ABf4C9D110F28cfD3DAa4d247ff69cB"
+}

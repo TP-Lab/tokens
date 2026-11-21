@@ -1,0 +1,11 @@
+{
+ "name": "FUNBALL(FBL)",
+ "website": "https://fishinglife.games/",
+ "description": "大型元宇宙足球游戏",
+ "explorer": "https://bscscan.com/token/0xe2998520406b55cecec352e6fa6264cabd128bbc",
+ "type": "BEP20",
+ "symbol": "FBL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE2998520406b55ceceC352e6FA6264CabD128BbC"
+}

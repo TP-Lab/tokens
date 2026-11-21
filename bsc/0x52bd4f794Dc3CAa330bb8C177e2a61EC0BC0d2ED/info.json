@@ -1,0 +1,11 @@
+{
+ "name": "CBO",
+ "website": "https://cbo.asia/",
+ "description": "CBO is committed to creating a digital currency trading environment that is smooth, fast and secure. The platform is committed to meeting the needs of different traders by introducing diversified trading models and a comprehensive set of trading interfaces.",
+ "explorer": "https://bscscan.com/token/0x52bd4f794Dc3CAa330bb8C177e2a61EC0BC0d2ED",
+ "type": "BEP20",
+ "symbol": "CBO",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x52bd4f794Dc3CAa330bb8C177e2a61EC0BC0d2ED"
+}

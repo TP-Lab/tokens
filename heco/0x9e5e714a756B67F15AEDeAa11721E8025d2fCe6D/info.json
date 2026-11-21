@@ -1,0 +1,11 @@
+{
+ "name": "BMW",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x9e5e714a756B67F15AEDeAa11721E8025d2fCe6D",
+ "type": "HRC-2",
+ "symbol": "BMW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9e5e714a756B67F15AEDeAa11721E8025d2fCe6D"
+}

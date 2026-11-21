@@ -1,0 +1,11 @@
+{
+  "name": "METAVIRTU TOKEN",
+  "website": "https://www.metavirtu.co",
+  "description": "MetaVirtu is a virtual reality device that can perfectly combine blockchain and virtual reality through the built-in blockchain game platform. ",
+  "explorer": "https://bscscan.com/token/0x1a9Ab1F0547b03da0D7e365622135A5042541302",
+  "type": "BEP20",
+  "symbol": "MEV",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1a9Ab1F0547b03da0D7e365622135A5042541302"
+}

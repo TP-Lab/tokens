@@ -1,0 +1,11 @@
+{
+ "name": "Star Base Coin",
+ "website": "https://starbasecoin.org",
+ "description": "Star Base Coin helps more ordinary people who love space and SpaceX to realize their dreams of space travel",
+ "explorer": "https://bscscan.com/token/0x8404dCa1C18Adb735a413B5087Cd230683439Abe",
+ "type": "BEP20",
+ "symbol": "Star Base",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8404dCa1C18Adb735a413B5087Cd230683439Abe"
+}

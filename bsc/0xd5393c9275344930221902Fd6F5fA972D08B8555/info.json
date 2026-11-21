@@ -1,0 +1,11 @@
+{
+ "name": "TTStoken1",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xd5393c9275344930221902Fd6F5fA972D08B8555",
+ "type": "BEP20",
+ "symbol": "TTStoken1",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd5393c9275344930221902Fd6F5fA972D08B8555"
+}

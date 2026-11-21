@@ -1,0 +1,11 @@
+{
+ "name": "Yibee",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xE7b9666dab0732d41c7af16bc8ffFF176e6D484d",
+ "type": "BEP20",
+ "symbol": "Yibee",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE7b9666dab0732d41c7af16bc8ffFF176e6D484d"
+}

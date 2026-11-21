@@ -1,0 +1,11 @@
+{
+ "name": "Football Champion",
+ "website": "http://fcball.club",
+ "description": "Football Champion Wb3.0 is committed to building a user-driven, decentralized network ecology based on blockchain technology. In Web3.0, users interact to meet their needs and use blockchain technology to create, distribute and circulate value",
+ "explorer": "https://bscscan.com/token/0xdB9C45582518b032f826017EeE16c621Ccb0dc8d",
+ "type": "BEP20",
+ "symbol": "FC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xdB9C45582518b032f826017EeE16c621Ccb0dc8d"
+}

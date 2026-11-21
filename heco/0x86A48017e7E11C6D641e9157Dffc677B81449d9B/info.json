@@ -1,0 +1,11 @@
+{
+ "name": "NLB",
+ "website": "-",
+ "description": "NLB is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://hecoinfo.com/token/0x86A48017e7E11C6D641e9157Dffc677B81449d9B",
+ "type": "HRC20",
+ "symbol": "NLB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x86A48017e7E11C6D641e9157Dffc677B81449d9B"
+}

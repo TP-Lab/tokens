@@ -1,0 +1,11 @@
+{ 
+"name": "ME",
+"website": "https://www.messiah.exchange/",
+"description": ".",
+"explorer": "https://explorer-mainnet.akashicrecords.io/search-address/0x5B21070C270f1eC9C3f79f1612Dd024a3beeC25F",
+"type": "ERC-20",
+"symbol": "ME",
+"decimals": 18,
+"status": "active",
+"id": "0x5B21070C270f1eC9C3f79f1612Dd024a3beeC25F"
+}

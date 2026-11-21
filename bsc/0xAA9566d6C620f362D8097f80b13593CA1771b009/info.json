@@ -1,0 +1,11 @@
+{
+ "name": "BJX",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0xAA9566d6C620f362D8097f80b13593CA1771b009",
+ "type": "BEP20",
+ "symbol": "BJX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAA9566d6C620f362D8097f80b13593CA1771b009"
+}

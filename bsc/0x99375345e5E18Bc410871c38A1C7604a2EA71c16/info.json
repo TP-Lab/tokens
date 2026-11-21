@@ -1,0 +1,11 @@
+{
+ "name": "BUBBLE GUM",
+ "website": "https://bubgm.com",
+ "description": "BEGM is the native token of the Bubble Gum game ecosystem, providing a convenient payment and settlement model between Bubble Gum ecosystem participants, BEGM can be used to pay in-game, purchase props and game rewards, etc.",
+ "explorer": "https://bscscan.com/token/0x99375345e5E18Bc410871c38A1C7604a2EA71c16",
+ "type": "BEP20",
+ "symbol": "BEGM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x99375345e5E18Bc410871c38A1C7604a2EA71c16"
+}

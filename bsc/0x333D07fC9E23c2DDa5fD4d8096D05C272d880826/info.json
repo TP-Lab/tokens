@@ -1,0 +1,11 @@
+{
+  "name": "Susan",
+  "website": "",
+  "description": "",
+  "explorer": "https://bscscan.com/token/0x333D07fC9E23c2DDa5fD4d8096D05C272d880826",
+  "type": "BEP20",
+  "symbol": "Susan",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x333D07fC9E23c2DDa5fD4d8096D05C272d880826"
+}

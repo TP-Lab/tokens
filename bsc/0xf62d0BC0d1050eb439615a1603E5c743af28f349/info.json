@@ -1,0 +1,11 @@
+{
+ "name": "MI",
+ "website": "https://www.artificial.com",
+ "description": "AI区块链治理协议，支持用 Solidity 进行智能合约的开发，支持基于环签名的隐私保护，同时支持去中心化的跨链交易。已成功跨链集成Mobile intelligence、Home Intelligence、Travel intelligence三大领域。并且衍生了各自的生态通证MI、HI、TI，并设计提出了通用跨链框架 T- Bridge，旨在实现资产和数据在不同公链和联盟链间的自由流转。",
+ "explorer": "https://bscscan.com/token/0xf62d0BC0d1050eb439615a1603E5c743af28f349",
+ "type": "BEP20",
+ "symbol": "MI",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xf62d0BC0d1050eb439615a1603E5c743af28f349"
+}

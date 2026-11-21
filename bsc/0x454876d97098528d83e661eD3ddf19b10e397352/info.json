@@ -1,0 +1,11 @@
+{
+ "name": "DollarDoge",
+ "website": "https://usdtdoge.finance/",
+ "description": "DollarDoge is an easy-to-play P2E game that combines popular meme coin characteristics with lovely puppy NFTs feature a unique utility that allows players to use them in-game for a competitive edge and enhanced yield opportunities. Now It is time for DollarDoge to take over the play-to-earn industry.",
+ "explorer": "https://bscscan.com/token/0x454876d97098528d83e661eD3ddf19b10e397352",
+ "type": "BEP20",
+ "symbol": "DollarDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x454876d97098528d83e661eD3ddf19b10e397352"
+}

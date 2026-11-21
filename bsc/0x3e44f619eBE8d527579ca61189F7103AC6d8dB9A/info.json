@@ -1,0 +1,11 @@
+{
+ "name": "UFO TOKEN",
+ "website": "http://web.2022alienarena.com",
+ "description": "Fair and just arena, supporting multi chain applications such as USDT, UFO and BNB.",
+ "explorer": "https://bscscan.com/token/0x3e44f619eBE8d527579ca61189F7103AC6d8dB9A",
+ "type": "BEP20",
+ "symbol": "UFO",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x3e44f619eBE8d527579ca61189F7103AC6d8dB9A"
+}

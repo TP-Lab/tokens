@@ -1,0 +1,11 @@
+{
+ "name": "Mini Shiba",
+ "website": "",
+ "description": "MiniShiba is a new meme cryptocurrency that has been eagerly anticipated by cryptocurrency enthusiasts as a "knockoff" of Shiba Inu.",
+ "explorer": "https://bscscan.com/address/0xA56ab0c8D8343d706f7E45c5a0E79FF91f3d13A4",
+ "type": "BEP-20",
+ "symbol": "MINISHIB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xA56ab0c8D8343d706f7E45c5a0E79FF91f3d13A4"
+}

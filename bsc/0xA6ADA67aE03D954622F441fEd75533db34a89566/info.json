@@ -1,0 +1,11 @@
+{
+ "name": "MBC",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/address/0xA6ADA67aE03D954622F441fEd75533db34a89566",
+ "type": "BEP20",
+ "symbol": "MBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA6ADA67aE03D954622F441fEd75533db34a89566"
+}

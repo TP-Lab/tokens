@@ -1,0 +1,11 @@
+{
+ "name": "MetaDragon Stone",
+ "website": "https://metadragon.ai",
+ "description": "$MDS is a utility token of the MetaDragon ecosystem.MetaDragon is a P2E paradise.We are Lord of MetaDragon，let's play MCard，MEgg，MWars，Arena together.",
+ "explorer": "https://bscscan.com/token/0x24ac97d1F0F83068DE53CBFAF9C29e5a0b319fCB",
+ "type": "BEP20",
+ "symbol": "MDS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x24ac97d1F0F83068DE53CBFAF9C29e5a0b319fCB"
+}

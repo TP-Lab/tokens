@@ -1,0 +1,11 @@
+{
+ "name": "LIGHT",
+ "website": "https://bscscan.com/token/0x13fc78Fa46eC3Ff1aDC52904De0763473a873C84",
+ "description": "STARLIGHT TOKEN.",
+ "explorer": "https://bscscan.com/token/0x13fc78Fa46eC3Ff1aDC52904De0763473a873C84",
+ "type": "BEP20",
+ "symbol": "LIGHT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x13fc78Fa46eC3Ff1aDC52904De0763473a873C84"
+}

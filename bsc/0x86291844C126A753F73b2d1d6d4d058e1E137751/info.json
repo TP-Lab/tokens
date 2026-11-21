@@ -1,0 +1,11 @@
+{
+ "name": "QILINBI  Token",
+ "website": "https://bscscan.com/token/0x86291844C126A753F73b2d1d6d4d058e1E137751",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x86291844C126A753F73b2d1d6d4d058e1E137751",
+ "type": "BEP20",
+ "symbol": "QLB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x86291844C126A753F73b2d1d6d4d058e1E137751"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Ex30",
+ "website": "https://30post.com",
+ "description": "30post token",
+ "explorer": "https://polygonscan.com/token/0x6Ae1ad4444c2D4772F7E4f25428F070df9486572",
+ "type": "ERC20",
+ "symbol": "Ex30",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6Ae1ad4444c2D4772F7E4f25428F070df9486572"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Flames",
+ "website": "https://bscscan.com/token/0x6C5d567899c7edD04B1eD08Da28D936298405B21",
+ "description": "FLS as the only equity certificate of flsswap decentralized exchange",
+ "explorer": "https://bscscan.com/token/0x6C5d567899c7edD04B1eD08Da28D936298405B21",
+ "type": "BEP20",
+ "symbol": "FLS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6C5d567899c7edD04B1eD08Da28D936298405B21"
+}

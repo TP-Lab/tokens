@@ -1,0 +1,11 @@
+{
+ "name": "OXO Coin",
+ "website": "https://www.oxo-dao.com",
+ "description": "OXO COIN 由OXO基金会发起，是首个生态型加密资产概念的加密货币，运用场景包含慈善基金溯源化管理，元宇宙生态、WEB3.0及去中心化交易所等多个领域，以共建共享为治理理念，所有权限由共识者共有，所有生态加密资产由共建者共享。",
+ "explorer": "https://bscscan.com/token/0x29F6b1b7f024752fAe51A83c0515fE469508084F",
+ "type": "BEP20",
+ "symbol": "OXO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x29F6b1b7f024752fAe51A83c0515fE469508084F"
+}

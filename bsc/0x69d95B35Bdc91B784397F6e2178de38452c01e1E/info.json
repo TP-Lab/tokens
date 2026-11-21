@@ -1,0 +1,11 @@
+{
+ "name": "gmcoin",
+ "website": "https://goldminer.ltd/",
+ "description": "Tokens of goldminer platform",
+ "explorer": "https://bscscan.com/address/0x69d95B35Bdc91B784397F6e2178de38452c01e1E",
+ "type": "BEP20",
+ "symbol": "GM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x69d95B35Bdc91B784397F6e2178de38452c01e1E"
+}

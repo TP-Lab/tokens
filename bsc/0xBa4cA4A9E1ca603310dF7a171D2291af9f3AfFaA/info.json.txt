@@ -1,0 +1,11 @@
+{
+ "name": "SAI Pro Token",
+ "website": "www.saiprotocol.org",
+ "description": "SAI Protocol serves as the super AI infrastructure for the Web3 era, breaking down barriers through the integration of various GPU powers and Web3 storage systems.",
+ "explorer": "https://bscscan.com/address/0xba4ca4a9e1ca603310df7a171d2291af9f3affaa",
+ "type": "BEP20",
+ "symbol": "SAI",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xba4ca4a9e1ca603310df7a171d2291af9f3affaa"
+}

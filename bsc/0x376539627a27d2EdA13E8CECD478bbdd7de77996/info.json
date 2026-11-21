@@ -1,0 +1,11 @@
+{
+    "name": "OX Consensus",
+    "website": "http://www.oxc.la/#/",
+    "description": "Decentralized Finance Protocol",
+    "explorer": "https://bscscan.com/token/0x376539627a27d2EdA13E8CECD478bbdd7de77996",
+    "type": "BEP20",
+    "symbol": "OXC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x376539627a27d2EdA13E8CECD478bbdd7de77996"
+}

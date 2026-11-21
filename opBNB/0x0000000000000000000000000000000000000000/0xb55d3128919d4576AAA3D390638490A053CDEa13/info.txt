@@ -1,0 +1,9 @@
+ "name": "UIC",
+ "website": "https://uincubator.vc",
+ "description": "As a Web3 ecosystem service provider, UIIC aims to create a new era of the digital economy.",
+ "explorer": "https://opbnbscan.com/token/0xb55d3128919d4576AAA3D390638490A053CDEa13",
+ "type": "BEP20",
+ "symbol": "UIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb55d3128919d4576AAA3D390638490A053CDEa13"

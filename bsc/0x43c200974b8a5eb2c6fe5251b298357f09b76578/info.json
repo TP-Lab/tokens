@@ -1,0 +1,11 @@
+{
+ "name": "HROD Token",
+ "website": "https://bscrod.github.io",
+ "description": "Help Remember Our Dreams Token",
+ "explorer": "https://bscscan.com/address/0x43c200974b8a5eb2c6fe5251b298357f09b76578",
+ "type": "BSC",
+ "symbol": "HROD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x43c200974b8a5eb2c6fe5251b298357f09b76578"
+}

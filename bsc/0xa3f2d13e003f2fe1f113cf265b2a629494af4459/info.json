@@ -1,0 +1,11 @@
+{
+ "name":"TAD Coin",
+ "website":"https://tadcoin.sbs/",
+ "description":"Ted encryption currency will use TAD coin tokens rewards fair evaluators.",
+ "explorer":"https://www.bscscan.com/token/0xa3f2d13e003f2fe1f113cf265b2a629494af4459",
+ "type":"BEP20",
+ "symbol":"TAD",
+ "decimals":18,
+ "status":"active",
+ "id":"0xa3f2d13e003f2fe1f113cf265b2a629494af4459"
+}

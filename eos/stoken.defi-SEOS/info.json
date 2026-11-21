@@ -1,0 +1,11 @@
+{ 
+ "name": "sEOS", 
+ "website": "https://eos.defibox.io/vault/", 
+ "description": "The Vault protocol is the first single-currency non-destructive wealth management vault launched by Defibox.Users can earn corresponding token income by depositing tokens. Assets can be accessed flexibly. The chain is open and transparent without additional fees. At the same time, in order to improve the utilization rate of funds, the protocol will issue sToken, which represents the deposit certificate, which is a standard EOS token, and supports the combination with other protocols to obtain more benefits.", 
+ "explorer": "https://bloks.io/tokens/SEOS-eos-stoken.defi", 
+ "type": "EOS", 
+ "symbol": "SEOS", 
+ "decimals": 4, 
+ "status": "active", 
+ "id": "stoken.defi" 
+ } 

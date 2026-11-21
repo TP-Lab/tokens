@@ -1,0 +1,12 @@
+{ 
+"name": "SmartDiamond",
+"website": "https://www.smart-island.cc/#/",
+"description": "SD (Smart Diamond) will run through the entire Smart Island ecosystem, and users can use it to participate in all aspects of the platform's governance, transactions, social interaction, and entertainment. The distribution of SD (Smart Diamond) will be based on the user's contribution value, and there is no token distribution model, which means that users who actively participate in the ecosystem will have the opportunity to obtain more Smart Diamond rewards.
+",
+"explorer": "https://bscscan.com/token/0x312Ff3cdd390b4d3F24332f347f057eb71070e6B",
+"type": "BEP20",
+"symbol": "SD",
+"decimals": 18,
+"status": "active",
+"id": "0x312Ff3cdd390b4d3F24332f347f057eb71070e6B"
+}

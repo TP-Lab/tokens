@@ -1,0 +1,11 @@
+{ 
+"name": "X1020",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/address/0x8aA98bdbC4BF7E6A65aBBb19244b850f0cB32024",
+"type": "BEP20",
+"symbol": "X1020",
+"decimals": 18,
+"status": "active",
+"id": "0x8aA98bdbC4BF7E6A65aBBb19244b850f0cB32024"
+}

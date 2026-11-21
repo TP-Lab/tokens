@@ -1,0 +1,11 @@
+{
+ "name": "GoldDoge",
+ "website": "https://t.me/GoldDoge_BSC",
+ "description": "GoldDoge is a kind of MeMe cryptocurrency on BSC, which is a derivative token of DOGE. It is fully community-based and community-driven. It was launched both in Jswap.Finance on BSC and PancakeSwap in January 2022 simultaneously.",
+ "explorer": "https://bscscan.com/token/0x9301E20d79C01d61F81bC9a8A73D5C58F4c9B7dB",
+ "type": "BEP20",
+ "symbol": "GoldDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9301E20d79C01d61F81bC9a8A73D5C58F4c9B7dB"
+}

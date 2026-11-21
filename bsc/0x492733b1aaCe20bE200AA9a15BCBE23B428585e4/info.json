@@ -1,0 +1,12 @@
+{
+ "name": "StarCraft",
+ "website": "https://starcraft.fans/",
+ "description": "SCT is an incentive token for the game Starcraft, and is also used for DAO governance by the community.",
+ "explorer": "https://bscscan.com/token/0x492733b1aace20be200aa9a15bcbe23b428585e4",
+ "type": "BEP20",
+ "symbol": "SCT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x492733b1aace20be200aa9a15bcbe23b428585e4"
+}
+

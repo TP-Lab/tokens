@@ -1,0 +1,11 @@
+{
+ "name": "BFYB Token",
+ "website": "-",
+ "description": "BFYB  is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xc0200D90c428209633F3bf3119e792c2F729020b",
+ "type": "BEP20",
+ "symbol": "BFYB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc0200D90c428209633F3bf3119e792c2F729020b"
+}

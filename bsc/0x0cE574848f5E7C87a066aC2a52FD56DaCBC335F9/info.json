@@ -1,0 +1,11 @@
+{
+ "name": "CBK",
+ "website": "https://cyberdao.uk/",
+ "description": "CYBER-DAO builds a healthy venture capital ecosystem platform.  $CBK is a token for the entire cyber ecosystem.",
+ "explorer": "https://bscscan.com/address/0x0ce574848f5e7c87a066ac2a52fd56dacbc335f9",
+ "type": "BEP20",
+ "symbol": "CBK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0cE574848f5E7C87a066aC2a52FD56DaCBC335F9"
+}

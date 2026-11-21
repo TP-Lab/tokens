@@ -1,0 +1,11 @@
+{
+ "name": "Jade Rabbit",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0xaB0C06125549e6C57636850CA26019b06326B0BA",
+ "type": "BEP20",
+ "symbol": "Yutu",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaB0C06125549e6C57636850CA26019b06326B0BA"
+}

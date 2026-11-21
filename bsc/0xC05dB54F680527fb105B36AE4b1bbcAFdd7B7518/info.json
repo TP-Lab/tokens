@@ -1,0 +1,11 @@
+{
+    "name": "ADI Coin",
+    "website": "-",
+    "description": "A BEP-20 token supported by the ADI ecosystem",
+    "explorer": "https://bscscan.com/token/0xC05dB54F680527fb105B36AE4b1bbcAFdd7B7518",
+    "type": "BEP20",
+    "symbol": "ADI",
+    "decimals": 18,
+    "status": "-",
+    "id": "0xC05dB54F680527fb105B36AE4b1bbcAFdd7B7518"
+}

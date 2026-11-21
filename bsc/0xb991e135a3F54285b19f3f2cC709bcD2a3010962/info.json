@@ -1,0 +1,11 @@
+{
+ "name": "Bitvito",
+ "website": "https://bitvito.cc",
+ "description": "BVB（币位币）是币位交易所的平台币，为支持平台生态发展而发行的加密货币，作为整个经济体的平台流通币。币位将根据业绩和盈利情况不定期发布和实施回购市场流通的BVB并销毁的计划，与BVB投资者分享币位不断向前发展的红利。",
+ "explorer": "https://bscscan.com/token/0xb991e135a3F54285b19f3f2cC709bcD2a3010962",
+ "type": "BEP20",
+ "symbol": "BVB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb991e135a3F54285b19f3f2cC709bcD2a3010962"
+}

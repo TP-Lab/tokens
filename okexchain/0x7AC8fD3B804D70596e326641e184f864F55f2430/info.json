@@ -1,0 +1,11 @@
+{
+ "name": "JswapDAO",
+ "website": "https://app.jswap.finance",
+ "description": "JswapDAO (JDAO) is a permanent stock-rights voucher issued by Jswap Finance based on OEC.",
+ "explorer": "https://www.oklink.com/en/oec/address/0x7AC8fD3B804D70596e326641e184f864F55f2430",
+ "type": "OEC",
+ "symbol": "JDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7AC8fD3B804D70596e326641e184f864F55f2430"
+}

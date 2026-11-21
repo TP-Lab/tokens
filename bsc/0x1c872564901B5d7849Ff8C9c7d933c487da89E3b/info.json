@@ -1,0 +1,11 @@
+{
+  "name": "StarShip",
+  "website": "https://www.starship.icu/",
+  "description": "The Starship Rune track embarks on a journey with a ten thousand-fold surge, minting tickets to Mars and reaping trade dividends!",
+  "explorer": "https://bscscan.com/token/0x1c872564901B5d7849Ff8C9c7d933c487da89E3b",
+  "type": "BEP20",
+  "symbol": "StarShip",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1c872564901B5d7849Ff8C9c7d933c487da89E3b"
+}

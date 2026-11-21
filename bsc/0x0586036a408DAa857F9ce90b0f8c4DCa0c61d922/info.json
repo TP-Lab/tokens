@@ -1,0 +1,11 @@
+{
+ "name": "CCT Token",
+ "website": "https://www.chaincloud.ai",
+ "description": "CCT is a resource token of ChainCloud platform, and each CCT can be regarded as a resource unit flowing in the cloud service system.",
+ "explorer": "https://bscscan.com/address/0x0586036a408DAa857F9ce90b0f8c4DCa0c61d922",
+ "type": "BEP20",
+ "symbol": "CCT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0586036a408DAa857F9ce90b0f8c4DCa0c61d922"
+}

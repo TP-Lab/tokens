@@ -1,0 +1,11 @@
+{
+ "name": "Glory Infinity Token",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x2F8988f9547b2049B23113f81B4ab4976CFE1E75",
+ "type": "BSC20",
+ "symbol": "GOIT",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x2F8988f9547b2049B23113f81B4ab4976CFE1E75"
+}

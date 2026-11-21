@@ -1,0 +1,11 @@
+{
+ "name": "GeStone",
+ "website": "https://stoneagenft.com",
+ "description": "GeStone (GES) is deemed as the main mode of transaction within the Stone Age NFT Marketplace ecosystem",
+ "explorer": "https://bscscan.com/address/0x01aD5C8Ca6B2470CbC81c398336F83AAE22E4471",
+ "type": "BEP20",
+ "symbol": "GES",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x01aD5C8Ca6B2470CbC81c398336F83AAE22E4471"
+}

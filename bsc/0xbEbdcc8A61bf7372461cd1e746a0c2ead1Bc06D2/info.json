@@ -1,0 +1,11 @@
+{
+    "name": "Day of Defeat - Mini 100x",
+    "website": "https://dodmini.xyz",
+    "description": "DODmini is a hyper deflationary token designed after the original $DOD model. 100k Prize pool, 100x returns!",
+    "explorer": "https://bscscan.com/token/0xbebdcc8a61bf7372461cd1e746a0c2ead1bc06d2",
+    "type": "BEP20",
+    "symbol": "DOD100",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbEbdcc8A61bf7372461cd1e746a0c2ead1Bc06D2"
+}

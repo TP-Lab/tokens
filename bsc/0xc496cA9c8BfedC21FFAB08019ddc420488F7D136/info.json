@@ -1,0 +1,11 @@
+{
+    "name": "BAB FANS CLUB",
+    "website": "http://babfans.club/",
+    "description": "BFC is known as Bab Fans Club, a community fan project based on BNB Chain's soulbound token Binance Account Bound (BAB).",
+    "explorer": "https://bscscan.com/address/0xc496ca9c8bfedc21ffab08019ddc420488f7d136",
+    "type": "BEP20",
+    "symbol": "BFC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc496cA9c8BfedC21FFAB08019ddc420488F7D136"
+}

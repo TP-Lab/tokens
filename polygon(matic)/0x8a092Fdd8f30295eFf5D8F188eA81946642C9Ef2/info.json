@@ -1,0 +1,11 @@
+{
+  "name": "Super Toss Coin",
+  "website": "https://www.supertoss.app",
+  "description": "SuperToss is a pioneering GameFi platform that merges gaming excitement with prediction-based earning opportunities. Built on the Polygon blockchain, SuperToss ensures a transparent and secure experience for players, leveraging blockchain technology to maintain fairness and security through smart contracts. This platform allows users to engage in various prediction games, offering a chance to make insightful predictions and earn rewards in a decentralized environment.",
+  "explorer": "https://polygonscan.com/token/0x8a092Fdd8f30295eFf5D8F188eA81946642C9Ef2",
+  "type": "ERC20",
+  "symbol": "STC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8a092Fdd8f30295eFf5D8F188eA81946642C9Ef2"
+}

@@ -1,0 +1,11 @@
+{ 
+"name": "YOCHI",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/address/0xaa3b0c4527c3085251b2Bf9e48bB4cF9A533f879",
+"type": "BEP20",
+"symbol": "YOCHI",
+"decimals": 18,
+"status": "active",
+"id": "0xaa3b0c4527c3085251b2Bf9e48bB4cF9A533f879"
+}

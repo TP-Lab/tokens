@@ -1,0 +1,11 @@
+{
+	"name": "TIPBANK",
+	"website": "https://tipppe.com/",
+	"description": "Fusion Of Advantages, Focus On Highlights, Concept Upgrade.",
+	"explorer": "https://bscscan.com/token/0x20979D17c33A9ef2a0A8B67cFC342968c8D17CE1",
+	"type": "BEP721",
+	"symbol": "TIPBANK",
+	"decimals": 0,
+	"status": "active",
+	"id": "0x20979D17c33A9ef2a0A8B67cFC342968c8D17CE1"
+   }

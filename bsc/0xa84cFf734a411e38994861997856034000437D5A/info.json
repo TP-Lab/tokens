@@ -1,0 +1,11 @@
+{
+ "name": "DOG Token",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xa84cFf734a411e38994861997856034000437D5A",
+ "type": "BEP20",
+ "symbol": "DOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa84cFf734a411e38994861997856034000437D5A"
+}

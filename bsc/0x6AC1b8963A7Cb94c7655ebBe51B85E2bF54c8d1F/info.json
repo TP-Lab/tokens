@@ -1,0 +1,11 @@
+{
+    "name": "PUKE",
+    "website": "http://www.pukeweb3.com/",
+    "description": "PUKE is a Web3 economy that allows any holder to develop an ecosystem in the PUKE public chain.",
+    "explorer": "https://bscscan.com/token/0x6AC1b8963A7Cb94c7655ebBe51B85E2bF54c8d1F",
+    "type": "BEP20",
+    "symbol": "PUKE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6AC1b8963A7Cb94c7655ebBe51B85E2bF54c8d1F"
+}

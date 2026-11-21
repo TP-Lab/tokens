@@ -1,0 +1,11 @@
+{
+ "name": "SpaceFootball",
+ "website": "https://spacefootball.org/",
+ "description": "SpaceFootball SFB community, DAO organization circulation of equity certificates and platform tokens",
+ "explorer":    "https://bscscan.com/token/0x756fe94af18f0e2785ff6cab27238f80ef6a6597",
+ "type": "BEP20",
+ "symbol": "SFB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x756fe94af18f0e2785ff6cab27238f80ef6a6597"
+}

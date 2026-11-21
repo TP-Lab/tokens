@@ -1,0 +1,11 @@
+{
+    "name": "AILink Protocol",
+    "website": "https://www.eniac.network",
+    "description": " ",
+    "explorer": "https://scan.eniac.network/token/0x04Bdc30BD1ae7C0822ED38221DDFFc1CA4097717",
+    "type": "ERC20",
+    "symbol": "ALK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x04Bdc30BD1ae7C0822ED38221DDFFc1CA4097717"
+}

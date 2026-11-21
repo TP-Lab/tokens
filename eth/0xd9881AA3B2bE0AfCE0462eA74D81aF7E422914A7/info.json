@@ -1,0 +1,11 @@
+{
+ "name": "BRD",
+ "website": "https://brdcoin.org/",
+ "description": "BRD is an ecological public chain integrating social, GameFi and metaverse application ecology. Its mission is to provide support for the existing metaverse and actively build a fair public, decentralized, entertaining and innovative web3.0 era. BRD is a meta-universe public chain jointly initiated by multiple international communities to form a team. BRD is not managed by any single individual or company, and no one can make rules for the BRD meta-universe alone. It is committed to realizing decentralized ecological governance in a sense.",
+ "explorer": "https://etherscan.io/token/0xd9881AA3B2bE0AfCE0462eA74D81aF7E422914A7",
+ "type": "ERC20",
+ "symbol": "BRD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd9881AA3B2bE0AfCE0462eA74D81aF7E422914A7"
+}

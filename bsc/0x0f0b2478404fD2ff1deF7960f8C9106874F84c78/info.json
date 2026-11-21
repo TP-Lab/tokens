@@ -1,0 +1,11 @@
+{
+ "name": "Space Koala",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x0f0b2478404fD2ff1deF7960f8C9106874F84c78",
+ "type": "BEP20",
+ "symbol": "SK",
+"decimals": 18,
+ "status": "active",
+ "id": "0x0f0b2478404fD2ff1deF7960f8C9106874F84c78"
+}

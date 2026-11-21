@@ -1,0 +1,11 @@
+{
+ "name": "IronFish",
+ "website": ".",
+ "description": "Iron Fish Alliance to build Web3.0 global decentralized quantitative contract financial platform, Iron fish Alliance Web3.0 global decentralized quantitative contract financial platform will reach strategic cooperation with major exchanges this year and next year.",
+ "explorer": "https://bscscan.com/token/0xedb581667841dE585Ed67751381b906695099a4A",
+ "type": "BEP20",
+ "symbol": "IronFish",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xedb581667841dE585Ed67751381b906695099a4A"
+}

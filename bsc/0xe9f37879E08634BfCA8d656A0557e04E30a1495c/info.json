@@ -1,0 +1,11 @@
+{
+ "name": "Babymonsternian",
+ "website": "无",
+ "description": "A meme token on BSC.",
+ "explorer": "https://bscscan.com/token/0xe9f37879E08634BfCA8d656A0557e04E30a1495c",
+ "type": "BEP20",
+ "symbol": "BMONN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe9f37879E08634BfCA8d656A0557e04E30a1495c"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "TTTT",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x374DF15933567E9B3ef19361d64B708519D31695",
+ "type": "BEP20",
+ "symbol": "TTTT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x374DF15933567E9B3ef19361d64B708519D31695"
+}

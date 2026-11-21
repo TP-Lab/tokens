@@ -1,0 +1,11 @@
+{
+ "name": "WEB4 AI",
+ "website": "https://webfour.build",
+ "description": "Web4 AI strives to disrupt the Decentralized Finance cryptocurrency space using Artificial Intelligence.",
+ "explorer": "https://bscscan.com/token/0xeE7E8C85956D32C64bafDcdED3F43b3c39b1CE2f",
+ "type": "BEP20",
+ "symbol": "WEB4",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xeE7E8C85956D32C64bafDcdED3F43b3c39b1CE2f"
+}

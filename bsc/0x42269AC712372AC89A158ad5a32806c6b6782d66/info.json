@@ -1,0 +1,11 @@
+{
+    "name": "Vip Panda Community",
+    "website": "https://www.pandavpc.com",
+    "description": "The Vip Panda community is a Dao community formed",
+    "explorer": "https://bscscan.com/token/0x42269AC712372AC89A158ad5a32806c6b6782d66",
+    "type": "BEP20",
+    "symbol": "VPC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x42269AC712372AC89A158ad5a32806c6b6782d66"
+}

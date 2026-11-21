@@ -1,0 +1,11 @@
+{
+    "name": "Artificial intelligence robot",
+    "website": "https://app.aitdefi.com/",
+    "description": "ait is a decentralized finance (DeFi) algorithmic money market protocol on multi-chain.",
+    "explorer": "https://bscscan.com/token/0xD5B33544d03f54f4E4556Fe6CC53254c4FF43EF7",
+    "type": "BEP20",
+    "symbol": "AIT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xD5B33544d03f54f4E4556Fe6CC53254c4FF43EF7"
+   }

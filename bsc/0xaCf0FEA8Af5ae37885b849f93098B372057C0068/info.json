@@ -1,0 +1,11 @@
+{
+  "name": "NFR TOKEN",
+  "website": "https://nfrtoken.xyz/",
+  "description": "Vibranium is a large scale multiplayer online simulation game (MMOSLG), with interstellar space as the background and cyberpunk style as the main theme. The game provides a large number of galaxies home to various planets. Faster, higher, stronger",
+  "explorer": "https://bscscan.com/token/0xaCf0FEA8Af5ae37885b849f93098B372057C0068",
+  "type": "BEP20",
+  "symbol": "NFR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xaCf0FEA8Af5ae37885b849f93098B372057C0068"
+}

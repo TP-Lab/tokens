@@ -1,0 +1,11 @@
+{
+    "name": "CATS",
+    "website": "https://t.me/Catcoin_Global",
+    "description": "A 100% safe and healthy coin, a currency managed by the community itself, a coin without a project party, a coin that belongs to everyone.",
+    "explorer": "https://bscscan.com/token/0x3b3691d4c3ec75660f203f41adc6296a494404d0",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "TPT",
+    "status": "active",
+    "id": "0x3B3691d4C3EC75660f203F41adC6296a494404d0"
+}

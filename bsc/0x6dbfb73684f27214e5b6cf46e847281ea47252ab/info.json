@@ -1,0 +1,11 @@
+{
+ "name": "SPPY Token",
+ "website": "https://bscscan.com/token/0x6dbfb73684f27214e5b6cf46e847281ea47252ab",
+ "description": "Super Player ~ sppy network first on-chain position contract mining,Transaction fee 5% for each transaction,2%-lp,2%- Marketing,1%- Destroyed",
+ "explorer": "https://bscscan.com/token/0x6dbfb73684f27214e5b6cf46e847281ea47252ab",
+ "type": "BEP20",
+ "symbol": "SPPY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6DbFB73684F27214E5b6CF46e847281Ea47252ab"
+}

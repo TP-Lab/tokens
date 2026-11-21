@@ -1,0 +1,11 @@
+{
+ "name": "TomCat",
+ "website": "https://tomcatbsc.link/",
+ "description": "$TomCat(TCat) is unique decentralized and full-circulated Short-Form Video Platform token. $TCat will also be used for the trading of Instant Music Video and TomCat NFT.",
+ "explorer": "https://bscscan.com/address/0x3b368b649994dc33e08315e400f2ecd23723974f",
+ "type": "BEP20",
+ "symbol": "TCat",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x3b368B649994DC33E08315E400F2ECd23723974f"
+}

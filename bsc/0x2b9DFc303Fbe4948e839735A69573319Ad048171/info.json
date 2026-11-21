@@ -1,0 +1,11 @@
+{
+    "name": "KeleCoin",
+    "website": "http://www.korofinance.top",
+    "description": "KeleCoin open financial platform",
+    "explorer": "https://bscscan.com/address/0x2b9dfc303fbe4948e839735a69573319ad048171",
+    "type": "BEP20",
+    "symbol": "KELE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2b9DFc303Fbe4948e839735A69573319Ad048171"
+}

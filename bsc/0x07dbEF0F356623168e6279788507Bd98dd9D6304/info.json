@@ -1,0 +1,11 @@
+{ 
+"name": "SDAO",
+"website": "",
+"description": "",
+"explorer": "https://bscscan.com/address/0x07dbEF0F356623168e6279788507Bd98dd9D6304",
+"type": "BEP20",
+"symbol": "SDAO",
+"decimals": 18,
+"status": "active",
+"id": "0x07dbEF0F356623168e6279788507Bd98dd9D6304"
+}

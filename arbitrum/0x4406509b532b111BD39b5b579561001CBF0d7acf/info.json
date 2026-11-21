@@ -1,0 +1,11 @@
+{
+ "name": "ANTSpace",
+ "website": "https://antspace.xyz/",
+ "description": "$ANT Coin is poised to redefine digital assets, with each $ANT representing a symbol of power.",
+ "explorer": "https://arbiscan.io/token/0x4406509b532b111BD39b5b579561001CBF0d7acf",
+ "type": "Arbitum One",
+ "symbol": "ANT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x4406509b532b111BD39b5b579561001CBF0d7acf"
+}

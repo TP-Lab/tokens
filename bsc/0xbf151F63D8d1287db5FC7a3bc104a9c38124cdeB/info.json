@@ -1,0 +1,11 @@
+{
+ "name": "AVNRich Token",
+ "website": "https://www.avnrich.shop",
+ "description": "AVNRich was founded in 2019, AVNRich token is an innovative e-commerce and decentralized token based on the Binance Smart Chain Network that is used to reward users in a modern way by providing shopping, staking, farming, and IFO benefits to all users.",
+ "explorer": "https://bscscan.com/token/0xbf151F63D8d1287db5FC7a3bc104a9c38124cdeB",
+ "type": "BEP20",
+ "symbol": "AVN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbf151F63D8d1287db5FC7a3bc104a9c38124cdeB"
+} 

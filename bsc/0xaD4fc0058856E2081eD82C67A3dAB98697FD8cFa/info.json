@@ -1,0 +1,11 @@
+{ 
+"name": "GAUR Token",
+"website": "https://gaur.com",
+"description": "Supe Infinity Marketplace交易平台由Gaur交易引擎驱动，以NFT交易挖矿产出的方式将Gaur币随机赠送给买方和卖方。GaurSwap为全球首家永久0手续费的去中心化链上币币Swap兑换交易平台，以及提供NFT Marketplace交易引擎服务。",
+"explorer": "https://bscscan.com/address/0xaD4fc0058856E2081eD82C67A3dAB98697FD8cFa",
+"type": "BEP20",
+"symbol": "GAUR",
+"decimals": 18,
+"status": "active",
+"id": "0xaD4fc0058856E2081eD82C67A3dAB98697FD8cFa"
+}

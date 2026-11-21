@@ -1,0 +1,11 @@
+{
+    "name": "Socaverse",
+    "website": "https://socaverse.one/",
+    "description": "A soccer community with NFTs, Farms, DeFi, and sports betting platfrom.",
+    "explorer": "https://bscscan.com/token/0x6598463D6cBe4b51e9977437bf1200df4c45286C",
+    "type": "BEP20",
+    "symbol": "SOCA",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x6598463D6cBe4b51e9977437bf1200df4c45286C"
+}

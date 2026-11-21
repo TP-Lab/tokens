@@ -1,0 +1,11 @@
+{
+ "name": "BluSea Token",
+ "website": "https://bscscan.com/token/0x79fAcDe0fa8B6E4BE99e1eB38ED229cb79D4deb0",
+ "description": "BluSea Token",
+ "explorer": "https://bscscan.com/token/0x79fAcDe0fa8B6E4BE99e1eB38ED229cb79D4deb0",
+ "type": "BEP20",
+ "symbol": "BLUS",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x79fAcDe0fa8B6E4BE99e1eB38ED229cb79D4deb0"
+}

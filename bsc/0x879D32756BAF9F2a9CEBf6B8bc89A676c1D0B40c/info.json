@@ -1,0 +1,11 @@
+{
+ "name": "DEPM",
+ "website": "http://www.depm.link",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x879D32756BAF9F2a9CEBf6B8bc89A676c1D0B40c",
+ "type": "BEP20",
+ "symbol": "DEPM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x879D32756BAF9F2a9CEBf6B8bc89A676c1D0B40c"
+}

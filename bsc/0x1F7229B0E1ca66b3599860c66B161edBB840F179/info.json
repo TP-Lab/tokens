@@ -1,0 +1,11 @@
+{
+    "name": "Initial Star Coin",
+    "website": "https://www.initial-star.com/",
+    "description": "Initial Star is committed to creating a new free economic ecosystem of multi-chain DEX + GameFi + NFT + Aggregate DEFI+InitialStarSwap + Initial Star Metaverse.",
+    "explorer": "https://bscscan.com/token/0x1F7229B0E1ca66b3599860c66B161edBB840F179",
+    "type": "BSC20",
+    "symbol": "ISC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1F7229B0E1ca66b3599860c66B161edBB840F179"
+}

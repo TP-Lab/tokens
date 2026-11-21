@@ -1,0 +1,11 @@
+{
+  "name": "Angle",
+  "website": "http://web3.angletech.org",
+  "description": "AGL tokens, in the name of angels, lead the web3 revolution and create wealth. It is not only tokens, but also a symbol of freedom, transparency and fairness. Promote DEFI and smart contracts, liberate financial constraints, and open a new era of personal wealth.",
+  "explorer": "https://bscscan.com/address/0xE352BbAD13e77aEa766300f8E34f6df4cE18889e",
+  "type": "BEP20",
+  "symbol": "AGL",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xE352BbAD13e77aEa766300f8E34f6df4cE18889e"
+}

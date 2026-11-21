@@ -1,0 +1,11 @@
+{
+ "name": "BlackGoldCard",
+ "website": "https://bgc.lol",
+ "description": "$BGC Pay for goods and services instantly by using your crypto as collateral against your payments at the point of sale.",
+ "explorer": "https://bscscan.com/token/0xab02b4Fc0734951541629c59Ab479BCD716A3B97",
+ "type": "BEP20",
+ "symbol": "BGC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xab02b4Fc0734951541629c59Ab479BCD716A3B97"
+}

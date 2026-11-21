@@ -1,0 +1,21 @@
+{ 
+
+"name": "FSTswap",
+
+"website": "https://fstswap.org",
+
+"description": “The goal is to become the first liquidity provider and innovator on the binance smart chain“,
+
+"explorer": "https://bscscan.com/token/0x022686dAE123257aF8488B3A226A510abf8bbb7f",
+
+"type": "BEP20",
+
+"symbol": "FST",
+
+"decimals": 18,
+
+"status": "active",
+
+"id": "0x022686dAE123257aF8488B3A226A510abf8bbb7f"
+
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Hammer",
+ "website": "http://112.121.176.242:8003",
+ "description": "Hammer Token is issued based on Binance Smart Chain and entered into trading by PancakeSwap exchange. The first token of wab3.0 + Gamefi ecology + NFT + DAO model is committed to creating a completely decentralized linkage ecology, the mechanism model is open and transparent + Gamefi is the first in the world Token Model.",
+ "explorer": "https://bscscan.com/token/0x1BeaB9aD0380fc2549Ff215a11FDE01dfcEFd276",
+ "type": "BEP20",
+ "symbol": "HME",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1BeaB9aD0380fc2549Ff215a11FDE01dfcEFd276"
+}

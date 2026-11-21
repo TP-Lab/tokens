@@ -1,0 +1,11 @@
+{
+    "name": "Smart Farm Coin",
+    "website": "https://www.smart-farm.org/",
+    "description": "Smart Farm is a blockchain fun game built on Binance Smart Chain BSC, which adopts a completely decentralized operation. The game simulates the farm scene and integrates the new gameplay of Metaverse + DeFi + NFT. Users can obtain related asset income through experience farming and farm management.",
+    "explorer": "https://bscscan.com/token/0xd2979fafd759164094013cca67f617df7b1aadda",
+    "type": "BEP20",
+    "symbol": "SMTC",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xD2979FAFD759164094013CCA67f617DF7B1aAdda"
+   }

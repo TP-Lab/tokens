@@ -1,0 +1,11 @@
+{  
+    "name": "Crypto Football", 
+    "website": "https://www.cryptofootballdao.com", 
+    "description": "Crypto Football-DAO is devoted to combining football and cryptocurrency under auto-community, which will open the entrance of the crypto football world for users. $FBL is a BEP-20 token designed to buy World Cup tickets, book hotels, buy player IP to issue NFT. Use various related services, bet and participate in lottery tickets. ", 
+    "explorer": "https://bscscan.com/token/0xFC6070a75BE7709ED7797aef1Ef19aC872279F36", 
+    "type": "BEP20", 
+    "symbol": "FBL", 
+    "decimals": 18, 
+    "status": "active", 
+    "id": "0xFC6070a75BE7709ED7797aef1Ef19aC872279F36" 
+    } 

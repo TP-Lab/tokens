@@ -1,0 +1,9 @@
+ "name": "MRKCoin",
+ "website": "https://mrkcoin.vip/",
+ "description": "MRKC is a community consensus currency with soul and thought.",
+ "explorer": "https://bscscan.com/token/0xc017D283BdE7c6Ec521dACe9DDeA1EBF90ed6f78",
+ "type": "BEP20",
+ "symbol": "MRKC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc017D283BdE7c6Ec521dACe9DDeA1EBF90ed6f78"

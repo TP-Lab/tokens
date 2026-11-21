@@ -1,0 +1,11 @@
+{
+ "name": "314DAO Token",
+ "website": "https://bscscan.com/token/0xbf1f246c913b3d4f2fda290f9507357c03fc91cf",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xbf1f246c913b3d4f2fda290f9507357c03fc91cf",
+ "type": "BEP20",
+ "symbol": "314DAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbf1f246C913B3D4f2FdA290F9507357c03fc91cf"
+}

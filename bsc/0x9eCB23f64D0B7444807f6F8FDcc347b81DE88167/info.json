@@ -1,0 +1,11 @@
+{
+ "name": "Business Alliance Business",
+ "website": "https://www.bab.wang",
+ "description": "BAB is extremely rich in applications, and it is a very perfect blockchain intelligent ecosystem. It aims to build a BAB World Chain Association with long-term influence, gather ecological partners with high latitude and high cognition, and empower the top blockchain ecological construction.",
+ "explorer": "https://bscscan.com/address/0x9eCB23f64D0B7444807f6F8FDcc347b81DE88167",
+ "type": "BEP20",
+ "symbol": "BAB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9eCB23f64D0B7444807f6F8FDcc347b81DE88167"
+}

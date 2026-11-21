@@ -1,0 +1,11 @@
+{
+ "name": "Modernizing Park Chain",
+ "website": "https://www.mpark.cc",
+ "description": "Modernizing Park Chain aims to create a new high performance, highly trusted and highly secure public chai",
+ "explorer": "https://bscscan.com/token/0xcc28A76d6530388b7a1Dd585136F8Be5c9033cEf",
+ "type": "BEP20",
+ "symbol": "MPC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcc28A76d6530388b7a1Dd585136F8Be5c9033cEf"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "ZM",
+ "website": "..",
+ "description".",
+ "explorer": "https://bscscan.com/token/0x4ec59bbE3D46473C4fcCecaF7ddBe8d80d1767A8",
+ "type": "BEP20",
+ "symbol": "ZM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4ec59bbE3D46473C4fcCecaF7ddBe8d80d1767A8"
+}

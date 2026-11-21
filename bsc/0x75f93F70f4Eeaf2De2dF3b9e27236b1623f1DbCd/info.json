@@ -1,0 +1,11 @@
+{
+ "name": "AMTDAO",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x75f93F70f4Eeaf2De2dF3b9e27236b1623f1DbCd",
+ "type": "BEP20",
+ "symbol": "AMTDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x75f93F70f4Eeaf2De2dF3b9e27236b1623f1DbCd"
+}

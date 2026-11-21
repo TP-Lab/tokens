@@ -1,0 +1,11 @@
+{
+ "name": "New era",
+ "website": "http://necoin.io",
+ "description": "New era is a high-performance blockchain solution for large and medium-sized enterprises and government.",
+ "explorer": "https://bscscan.com/token/0x0b6E1f7653CABDeE71c05E6493f9bBd307072683",
+ "type": "BEP20",
+ "symbol": "NEC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0b6E1f7653CABDeE71c05E6493f9bBd307072683"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Meta",
+    "website": "https://www.metaswapstar.com",
+    "description": "Meta Swap Star is the aggregator of the Metaverse. It will utilize blockchain technology to integrate Defi, Gamefi, NFT, Socialfi and other fields.",
+    "explorer": "https://bscscan.com/token/0xF4936449d17E27B928E4aA5d75bB44e8983E87cc",
+    "type": "BEP20",
+    "symbol": "MT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF4936449d17E27B928E4aA5d75bB44e8983E87cc"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Car Token",
+ "website": "http://supercarsvip.com/",
+ "description": "Car Token",
+ "explorer": "https://bscscan.com/token/0xE661cAF9a306299fdd685ebdD76C55955182aa37",
+ "type": "BEP20",
+ "symbol": "CAR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE661cAF9a306299fdd685ebdD76C55955182aa37"
+}

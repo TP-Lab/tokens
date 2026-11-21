@@ -1,0 +1,11 @@
+{
+ "name": "ETH 3.0",
+ "website": "..",
+ "description": "",
+ "explorer": "https://etherscan.io/token/0xDf533D14A36fFf183109848663152A8c413cCC1c",
+ "type": "ERC20",
+ "symbol": "ETH 3.0",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xDf533D14A36fFf183109848663152A8c413cCC1c"
+}

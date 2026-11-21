@@ -1,0 +1,11 @@
+{
+    "name": "BEF",
+    "website": "https://www.eniac.network",
+    "description": " ",
+    "explorer": "https://scan.eniac.network/token/0x489afF416e514fFca4B1580E300c1Cc3e96Cf2d2",
+    "type": "ERC20",
+    "symbol": "BEF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x489afF416e514fFca4B1580E300c1Cc3e96Cf2d2"
+}

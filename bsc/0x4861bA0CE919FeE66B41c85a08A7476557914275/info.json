@@ -1,0 +1,11 @@
+{
+ "name": "ContinuumFinance",
+ "website": "https://continuum-seven.vercel.app",
+ "description": "The goal of Continuum Finance is to maximize the integration of the liquidity of tokens and the advantages of all current interest rate protocols, and to build a decentralized financial aggregator of token exchanges, money markets and liquidity protocols.",
+ "explorer": "https://bscscan.com/address/0x4861bA0CE919FeE66B41c85a08A7476557914275",
+ "type": "BEP20",
+ "symbol": "CTN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4861bA0CE919FeE66B41c85a08A7476557914275"
+}

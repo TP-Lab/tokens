@@ -1,0 +1,11 @@
+{
+ "name": "SpacePi",
+ "website": "https://space-pi.com",
+ "description": "SpacePi is preparing to develop Pi Metaverse, PiNFT, PiSwap and other ecosystems and issue token SpacePi.",
+ "explorer": "https://hecoinfo.com/address/0x4bed97ff445c1dfd7b2c60aaede15df0f1c25ed3",
+ "type": "HRC20",
+ "symbol": "SpacePi",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x4bEd97ff445C1dFD7B2C60aAeDE15dF0f1c25eD3"
+}

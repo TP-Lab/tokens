@@ -1,0 +1,11 @@
+{
+ "name": "HFH",
+ "website": "-",
+ "description": "HFH is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x2BD194d944b13af791be3c9469f04bf955888888",
+ "type": "BEP20",
+ "symbol": "HFH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2BD194d944b13af791be3c9469f04bf955888888"
+}

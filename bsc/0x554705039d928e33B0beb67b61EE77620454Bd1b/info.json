@@ -1,0 +1,11 @@
+{
+ "name": "AMC",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x554705039d928e33B0beb67b61EE77620454Bd1b",
+ "type": "BSC20",
+ "symbol": "AMC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x554705039d928e33B0beb67b61EE77620454Bd1b"
+}

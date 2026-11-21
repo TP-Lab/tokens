@@ -1,0 +1,11 @@
+{
+ "name": "DCL",
+ "website": "-",
+ "description": "DCL was created by the original Shib operation team",
+ "explorer": "https://bscscan.com/token/0xa30D0b7B254257DA3e54499060d4Cb40c7295583",
+ "type": "BEP20",
+ "symbol": "DCL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa30D0b7B254257DA3e54499060d4Cb40c7295583"
+}

@@ -1,0 +1,11 @@
+{ 
+"name": "ORACLE DAO TOKEN",
+"website": "https://oracle-dao.com",
+"description": "Oracle Dao is a Decentralized Autonomous Organization. DAO's vision is to develop the dual Connectivity between real and virtual economy.",
+"explorer": "https://bscscan.com/address/0x81F52Dd5FCe4D1f24e5aa839Df782244BE867B14",
+"type": "BEP20",
+"symbol": "ORC",
+"decimals": 18,
+"status": "active",
+"id": "0x81F52Dd5FCe4D1f24e5aa839Df782244BE867B14"
+}

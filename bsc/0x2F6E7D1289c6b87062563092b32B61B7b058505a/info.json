@@ -1,0 +1,11 @@
+{
+ "name": "LBDAO",
+ "website": "http://lbdao.net",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x2F6E7D1289c6b87062563092b32B61B7b058505a",
+ "type": "BEP20",
+ "symbol": "BDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2F6E7D1289c6b87062563092b32B61B7b058505a"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Roblox",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xb0F82938509C165Ed68d568ba20B2dBF82fA60eb",
+ "type": "BSC20",
+ "symbol": "Roblox",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb0F82938509C165Ed68d568ba20B2dBF82fA60eb"
+}

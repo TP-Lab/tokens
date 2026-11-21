@@ -1,0 +1,11 @@
+{ 
+"name": "BSD",
+"website": ".",
+"description": ". ",
+"explorer": "https://bscscan.com/token/0xfCe495E5dfe632184065Ba130A9e54612dD5b965",
+"type": "BEP20",
+"symbol": "BSD",
+"decimals": 18,
+"status": "active",
+"id": "0xfCe495E5dfe632184065Ba130A9e54612dD5b965"
+}

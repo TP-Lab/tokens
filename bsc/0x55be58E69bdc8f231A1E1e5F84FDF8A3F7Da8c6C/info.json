@@ -1,0 +1,11 @@
+{
+ "name": "wineking",
+ "website": "",
+ "description": "wineking is a platform token. The platform provides audit and insurance compensation services. The project settled on the platform must pay the corresponding deposit, so as to prevent and reduce fraud in the field of encryption.",
+ "explorer": "https://bscscan.com/token/0x55be58E69bdc8f231A1E1e5F84FDF8A3F7Da8c6C",
+ "type": "BEP20",
+ "symbol": "BBG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x55be58E69bdc8f231A1E1e5F84FDF8A3F7Da8c6C"
+}

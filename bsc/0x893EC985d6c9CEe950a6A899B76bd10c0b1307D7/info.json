@@ -1,0 +1,11 @@
+{
+ "name": "SHP (SHP)",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x893EC985d6c9CEe950a6A899B76bd10c0b1307D7",
+ "type": "BEP20",
+ "symbol": "SHP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x893EC985d6c9CEe950a6A899B76bd10c0b1307D7"
+}

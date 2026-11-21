@@ -1,0 +1,25 @@
+{
+"name": "X Token",
+"website": "https://x-star.us",
+"description": "X is the governance token of X-Star and also the most important resource in X-Star. 99.9% of X is stored in the interstellar space (Xswap), and players and robots need to obtain it through various explorations.",
+"explorer": "https://bscscan.com/token/0xdf40197bE479cd2907E92500dAD42ab64d3e1d07",
+"type": "BEP20",
+"symbol": "X",
+"decimals": 18,
+"status": "active",
+"links": [
+        {
+            "name": "github",
+            "url": "https://github.com/xsart"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Xstar2024"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://btok360.com/xstar2024"
+        }
+    ],
+"id": "0xdf40197bE479cd2907E92500dAD42ab64d3e1d07"
+}

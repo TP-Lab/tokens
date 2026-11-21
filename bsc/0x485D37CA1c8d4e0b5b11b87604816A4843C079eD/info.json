@@ -1,0 +1,11 @@
+{
+ "name": "DigimonRabbit",
+ "website": "https://digimonrabbit.com/",
+ "description": "🐰DigimonRabbit🐰 is an infrequent NFT Spot Market and a perpetual DigimonGame Pad🤖. It supports Digimon multi-ecological platform and Digimon Game🕹.",
+ "explorer": "https://bscscan.com/token/0x485D37CA1c8d4e0b5b11b87604816A4843C079eD",
+ "type": "BEP20",
+ "symbol": "DRB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x485D37CA1c8d4e0b5b11b87604816A4843C079eD"
+}

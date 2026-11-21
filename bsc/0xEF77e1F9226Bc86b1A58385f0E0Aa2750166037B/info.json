@@ -1,0 +1,11 @@
+{ 
+"name": "kbx-etf",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0xEF77e1F9226Bc86b1A58385f0E0Aa2750166037B",
+"type": "BEP20",
+"symbol": "kbx-etf",
+"decimals": 18,
+"status": "active",
+"id": "0xEF77e1F9226Bc86b1A58385f0E0Aa2750166037B"
+}

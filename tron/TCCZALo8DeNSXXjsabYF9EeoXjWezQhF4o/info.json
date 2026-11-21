@@ -1,0 +1,11 @@
+{
+ "name": "SET",
+ "website": "https://set-dapp.com",
+ "description": "超级生态令牌—Super ecological token—SET发行总量14285700枚，挖矿产出，通过强大的通缩销毁机制最终销毁到142857枚。",
+ "explorer": "https://tronscan.io/#/token20/TCCZALo8DeNSXXjsabYF9EeoXjWezQhF4o",
+ "type": "TRC20",
+ "symbol": "SET",
+ "decimals": 18,
+ "status": "active",
+ "id": "TCCZALo8DeNSXXjsabYF9EeoXjWezQhF4o"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "NRBTC",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x4f86262F50Ec6B4F090A0A4B08bc5Ac2d2C5A22f",
+ "type": "BEP20",
+ "symbol": "NRBTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4f86262F50Ec6B4F090A0A4B08bc5Ac2d2C5A22f"
+}

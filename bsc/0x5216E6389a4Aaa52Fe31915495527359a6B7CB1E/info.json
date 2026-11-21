@@ -1,0 +1,11 @@
+{
+    "name": "Simpson",
+    "website": "https://simpsonsbsc.com/",
+    "description": "Simpsons is the brand new native token A new generation auto-yield reward dividend contract powered by the Blockchain.",
+    "explorer": "https://bscscan.com/token/0x5216E6389a4Aaa52Fe31915495527359a6B7CB1E",
+    "type": "BSC",
+    "symbol": "Simpson",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5216E6389a4Aaa52Fe31915495527359a6B7CB1E"
+}

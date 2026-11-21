@@ -1,0 +1,11 @@
+{
+ "name": "Ethereum",
+ "website": "-",
+ "description": "Ethereum是区块链上大家都喜欢的新项目.",
+ "explorer": "https://bscscan.com/token/0x5332a743212e7933d58a86b3FfFBBe1C6440dD80",
+ "type": "BEP20",
+ "symbol": "Ethereum",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5332a743212e7933d58a86b3FfFBBe1C6440dD80"
+}

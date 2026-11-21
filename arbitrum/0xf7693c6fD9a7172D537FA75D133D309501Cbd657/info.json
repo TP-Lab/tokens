@@ -1,0 +1,11 @@
+{
+"name": "Web3 Network",
+"website": "https://w3n.club/home",
+"description": "W3N is a decentralized AI co-creation platform based on the ORP protocol.It provides an entrance for social interaction, organizational governance, co-creation of content, creation/trading of assets, and Dapp display for the combination of Web3 and AI.",
+"explorer":"https://arbiscan.io/address/0xf7693c6fD9a7172D537FA75D133D309501Cbd657",
+"type": "Arbitrum One",
+"symbol": "W3N",
+"decimals": 18,
+"status": "active",
+"id": "0xf7693c6fD9a7172D537FA75D133D309501Cbd657"
+}

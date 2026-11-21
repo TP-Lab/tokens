@@ -1,0 +1,11 @@
+﻿{
+ "name": "BDD Token",
+ "website": "www.ftzo2o.com",
+ "description": "BDD tokens are released through the collateralized block exchange of PCH tokens, which are asset-backed securitized tokens in the Parchim Free Trade Zone. BDD tokens can be exchanged at a one-to-one ratio with CNY and traded as equivalent on the Parchim Exchange. The Parchim Exchange reserves sufficient PCH digital asset tokens, with reserves in Euros, US Dollars, and Hong Kong Dollars, to ensure the liquidity and value stability of BDD tokens. BDD tokens can be exchanged and traded with other blockchain digital tokens.",
+ "explorer": "https://bscscan.com/token/0x589a2bf2b338dd9ca228a142fb88c38c732df2a2",
+ "type": "BEP20",
+ "symbol": "BDD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x589a2bf2b338dd9ca228a142fb88c38c732df2a2"
+}

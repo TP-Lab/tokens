@@ -1,0 +1,11 @@
+{
+ "name": "Elvantis",
+ "website": "https://elvantis.com/ ",
+ "description": "Bep20 token issued on BSC chain..",
+ "explorer": "https://bscscan.com/token/0xE942C48044FB1C7f4C9eB456f6097fa4A1A17B8f",
+ "type": "BEP20",
+ "symbol": "ELV",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE942C48044FB1C7f4C9eB456f6097fa4A1A17B8f"
+}

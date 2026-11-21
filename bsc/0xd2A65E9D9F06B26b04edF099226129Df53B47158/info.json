@@ -1,0 +1,11 @@
+{
+ "name": "Coco Game Coin",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xd2A65E9D9F06B26b04edF099226129Df53B47158",
+ "type": "BEP20",
+ "symbol": "CGC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd2A65E9D9F06B26b04edF099226129Df53B47158"
+}

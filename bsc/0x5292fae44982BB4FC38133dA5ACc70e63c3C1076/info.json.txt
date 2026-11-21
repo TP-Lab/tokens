@@ -1,0 +1,11 @@
+{
+ "name": "LAVG Token",
+ "website": "http://swap.lavg.io",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x5292fae44982BB4FC38133dA5ACc70e63c3C1076",
+ "type": "BEP20",
+ "symbol": "LAVG",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x5292fae44982BB4FC38133dA5ACc70e63c3C1076"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "sharecakedao",
+ "website": "-",
+ "description": "sharecakedao is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x3f9BBe15022850A23716Dbab442892155274CAE7",
+ "type": "BEP20",
+ "symbol": " SCD ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3f9BBe15022850A23716Dbab442892155274CAE7"
+}

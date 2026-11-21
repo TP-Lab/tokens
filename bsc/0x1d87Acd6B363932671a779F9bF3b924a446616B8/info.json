@@ -1,0 +1,11 @@
+{
+ "name": "Tomorrow's Ark",
+ "website": "https://www.tarkcoin.cn",
+ "description": "Tokens based on tomorrow's Ark game",
+ "explorer": "https://bscscan.com/token/0x1d87acd6b363932671a779f9bf3b924a446616b8",
+ "type": "BEP20",
+ "symbol": "TARK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1d87Acd6B363932671a779F9bF3b924a446616B8"
+}

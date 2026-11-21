@@ -1,0 +1,11 @@
+{
+ "name": "BIYI COIN",
+ "website": "http://www.biyicoin.com",
+ "description": "BYC is the base currency circulating in Biyi community, Biyi Mall and Biyiswap. The income of Biyi Ecosystem will be distributed into 4 quarters, which are used separately for liquidity fundings, liquidity holders dividends, developing funds and core team benefits.",
+ "explorer": "https://bscscan.com/token/0xc524d686a15EE76346dfed180Bc8f803714f284e",
+ "type": "BEP20",
+ "symbol": "BYC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc524d686a15EE76346dfed180Bc8f803714f284e"
+}

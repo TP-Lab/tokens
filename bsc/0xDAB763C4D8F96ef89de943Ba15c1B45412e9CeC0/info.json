@@ -1,0 +1,11 @@
+{
+ "name": "PARK",
+ "website": "https://h5.park2.xyz/#/",
+ "description": "A leading multi-chain wallet that supports ",
+ "explorer": "https://bscscan.com/token/0xdab763c4d8f96ef89de943ba15c1b45412e9cec0",
+ "type": "BEP20",
+ "symbol": "PARK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xdab763c4d8f96ef89de943ba15c1b45412e9cec0"
+{

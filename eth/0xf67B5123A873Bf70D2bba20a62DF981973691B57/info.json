@@ -1,0 +1,11 @@
+{
+    "name": "DeerBit Token",
+    "website": "https://deerbit.pro/",
+    "description": "DeerBit Global is a digital asset trading service platform with multiple decentralized trading rules built by DIBI Technology Co., Ltd.",
+    "explorer": "https://etherscan.io/token/0xf67B5123A873Bf70D2bba20a62DF981973691B57",
+    "type": "ERC20",
+    "symbol": "DEBI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf67B5123A873Bf70D2bba20a62DF981973691B57"
+}

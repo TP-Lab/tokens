@@ -1,0 +1,11 @@
+{
+ "name": "FishKing token",
+ "website": "https://fishking.pro/",
+ "description": "Fishking 3D Play to Earn game based on BSC",
+ "explorer": "https://bscscan.com/token/0x82d306d9f940958B6895b22725903b309aaFFE06",
+ "type": "BEP20",
+ "symbol": "FK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x82d306d9f940958B6895b22725903b309aaFFE06"
+} 

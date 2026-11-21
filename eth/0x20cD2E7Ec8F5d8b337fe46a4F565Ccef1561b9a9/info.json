@@ -1,0 +1,11 @@
+{
+  "name": "ESG",
+  "website": "http://esgfinancial.io/",
+  "description": "ESG is a governance token of ECO NFT platform where NFTs are minted and provided for staking and sale.",
+  "explorer": "https://etherscan.io/token/0x20cd2e7ec8f5d8b337fe46a4f565ccef1561b9a9",
+  "type": "ERC20",
+  "symbol": "ESG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x20cD2E7Ec8F5d8b337fe46a4F565Ccef1561b9a9"
+ }

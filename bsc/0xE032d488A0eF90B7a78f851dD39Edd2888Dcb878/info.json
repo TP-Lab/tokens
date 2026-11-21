@@ -1,0 +1,11 @@
+{
+ "name": "Pickled Cabbage",
+ "website": "https://pickledcabbage.pro/",
+ "description": "Pickled Cabbage is a tool to get profit from Pancake",
+ "explorer": "https://bscscan.com/token/0xe032d488a0ef90b7a78f851dd39edd2888dcb878",
+ "type": "BEP20",
+ "symbol": "PC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE032d488A0eF90B7a78f851dD39Edd2888Dcb878"
+}

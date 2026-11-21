@@ -1,0 +1,11 @@
+{
+ "name": "Tornoth",
+ "website": "https://fightfortornoth.com",
+ "description": "A breathtaking land known as Tornoth,a place filled with mystical powers.",
+ "explorer": "https://bscscan.com/token/0x4f9e022B488565d73971635B1eF9a224e796D75E",
+ "type": "BEP20",
+ "symbol": "Tornoth",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4f9e022B488565d73971635B1eF9a224e796D75E"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Tunan coin",
+ "website": "https://www.tunancoin.org",
+ "description": "PoV, a new issue mechanism, is used to create this digital currency that is self-profitable in Meta Universe.",
+ "explorer": "https://bscscan.com/token/0xa25E8c7860Ce823aD1779802cA35D25f1125d8C5",
+ "type": "BEP20",
+ "symbol": "TNC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa25E8c7860Ce823aD1779802cA35D25f1125d8C5"
+}

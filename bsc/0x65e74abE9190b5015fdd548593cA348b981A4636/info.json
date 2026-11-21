@@ -1,0 +1,11 @@
+{
+ "name": "SteamCoin",
+ "website": "https://www.stmswap.com/#/",
+ "description": "SteamSwap (STM) is an innovative blockchain project dedicated to enabling cross-chain transactions.",
+ "explorer": "https://bscscan.com/token/0x65e74abE9190b5015fdd548593cA348b981A4636",
+ "type": "BEP20",
+ "symbol": "STM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x65e74abE9190b5015fdd548593cA348b981A4636"
+}

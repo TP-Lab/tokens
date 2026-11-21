@@ -1,0 +1,11 @@
+{
+ "name": "Palm Game",
+ "website": "https://www.palmgame.vip",
+ "description": "Palm Game is a cross-epoch meta-universe game platform",
+ "explorer": "https://bscscan.com/token/0x2f885906bf906a600d1e44a9d439e0a335be1191",
+ "type": "BEP20",
+ "symbol": "PG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2f885906BF906a600d1E44A9D439E0a335BE1191"
+}

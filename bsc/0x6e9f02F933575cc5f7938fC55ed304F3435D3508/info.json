@@ -1,0 +1,11 @@
+{
+ "name": "MONOPOLY",
+ "website": "https://app.metamonopoly.mom/",
+ "description"MONO is an ecological governance token launched by Meta Monopoly in 2023, with a total circulation of 100 million. It runs on the BNB Smart Chain (BEP20) platform and is applied to programs including Gemefi and DeFi",
+ "explorer": "https://bscscan.com/token/0x6e9f02F933575cc5f7938fC55ed304F3435D3508",
+ "type": "BEP20",
+ "symbol": "MONO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6e9f02F933575cc5f7938fC55ed304F3435D3508"
+}

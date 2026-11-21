@@ -1,0 +1,11 @@
+{
+ "name": "Banana3 Coin",
+ "website": "https://banana3.lol",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x2b72c5b34cf7e6e28e63595084c8865ce89c645e",
+ "type": "BEP20",
+ "symbol": "B3C",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2b72c5b34cf7E6E28E63595084C8865ce89C645E"
+}

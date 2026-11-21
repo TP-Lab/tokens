@@ -1,0 +1,11 @@
+{
+ "name": "HiveDao",
+ "website": "https://www.hivedao.vip/",
+ "description": "HiveDao is an international organization founded by hundreds of high-latitude cognitive communities around the world to build a new order of wealth-sharing, security and mutual trust."
+ "explorer": "https://bscscan.com/token/0x860314608176498Cf63d9f88f06E8131B699f843",
+ "type": "BEP20",
+ "symbol": "Hive",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x860314608176498Cf63d9f88f06E8131B699f843"
+}

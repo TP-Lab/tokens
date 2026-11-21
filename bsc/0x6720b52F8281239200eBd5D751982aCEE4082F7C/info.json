@@ -1,0 +1,11 @@
+{ 
+"name": "UFO",
+"website": "https://www.ufo-sports.com/home",
+"description": "UFO competitive platform is a decentralized game competitive platform, which integrates NFT cards and competitive games to create a multi language arena. ",
+"explorer": "https://bscscan.com/address/0x6720b52f8281239200ebd5d751982acee4082f7c",
+"type": "BEP20",
+"symbol": "UFO",
+"decimals": 18,
+"status": "active",
+"id": "0x6720b52F8281239200eBd5D751982aCEE4082F7C"
+}

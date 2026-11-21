@@ -1,0 +1,11 @@
+{
+    "name": "Mini Tiger",
+    "website": "www.minitigerbsc.com",
+    "description": "Combines the Chinese New Year (zodiac signs), developers let the tiger into a cute memecoin, it represents the spirit of courage and perseverance.",
+    "explorer": "https://bscscan.com/address/0x2e10Abc27D4878fa43Ee97e600fBE41Ce2D046dc",
+    "type": "BEP20",
+    "symbol": "MINITIGER",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2e10Abc27D4878fa43Ee97e600fBE41Ce2D046dc"
+   } 

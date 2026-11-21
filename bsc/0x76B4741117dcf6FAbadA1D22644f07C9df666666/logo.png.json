@@ -1,0 +1,11 @@
+{
+  "name": "Space Victory",
+  "website": "https://twitter.com/HaoranJohn",
+  "description": "The most secure self-custody wallet for the next generation, One wallet for all your crypto, The Only Wallet with Built in free VPN and many other functions",
+  "explorer": "https://bscscan.com/token/0x76b4741117dcf6fabada1d22644f07c9df666666",
+  "type": "BEP20",
+  "symbol": "SV",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x76B4741117dcf6FAbadA1D22644f07C9df666666"
+}

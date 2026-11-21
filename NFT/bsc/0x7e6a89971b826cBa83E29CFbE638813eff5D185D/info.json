@@ -1,0 +1,11 @@
+{
+ "name": "AMC_EntryPass",
+ "website": "https://www.aimeta.club",
+ "description": "A DAO platform that bridges users to AI & Metaverse technologies. Based on AMC tokenomics, it connects global users to interact, share, learn and earn rewards.",
+ "explorer": "https://bscscan.com/token/0x7e6a89971b826cba83e29cfbe638813eff5d185d",
+ "type": "ERC721",
+ "symbol": "AMCEP",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x7e6a89971b826cBa83E29CFbE638813eff5D185D"
+}

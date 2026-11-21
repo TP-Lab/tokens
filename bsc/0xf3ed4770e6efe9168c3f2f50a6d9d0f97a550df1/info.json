@@ -1,0 +1,11 @@
+{
+ "name": "DKEY Bank",
+ "website": "https://dkey.io",
+ "description": "DKEY Bank is an ecosystem that empowers users to be in control of their finances by creating crypto-based passive income and harnessing the potentials of decentralized finance technologies. The ecosystem is optimized to deliver user-friendly controls and management of their assets and finances.",
+ "explorer": "https://bscscan.com/token/0xf3ed4770e6efe9168c3f2f50a6d9d0f97a550df1",
+ "type": "BEP20",
+ "symbol": "DKEY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF3ED4770E6eFe9168c3f2F50A6D9d0F97a550DF1"
+}

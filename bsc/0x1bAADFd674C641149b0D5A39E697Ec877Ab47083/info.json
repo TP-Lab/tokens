@@ -1,0 +1,11 @@
+{
+    "name": "CCGDS",
+    "website": "https://ccgds.com/",
+    "description": "CCGDS Investment DAOs use the power of Web 3.0 to democratise the investment process and make ti more inclusive. The inclusiveness of investment DAOs is reflected in a greater willingness to accept investments from across the globe than traditional venture capital. Traditional VC participation is exclusive and small retail investors have little access to established venture capital funds.",
+    "explorer": "https://bscscan.com/address/0x1baadfd674c641149b0d5a39e697ec877ab47083",
+    "type": "BEP20",
+    "symbol": "CCGDS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1bAADFd674C641149b0D5A39E697Ec877Ab47083"
+}

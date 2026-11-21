@@ -1,0 +1,11 @@
+{
+    "name": "Wall Street Jackpot",
+    "website": "https://wsjackpot.com",
+    "description": "WallStreet JACKPOT is a token created by a team with strong fundamental knowledge on the Binance Smart Chain. WallStreet JACKPOT is a frictionless dividend reward generating token that automatically distributes BNB to holders every 60 minutes.",
+    "explorer": "https://bscscan.com/token/0xf9605AB5b7c2c8D96C9cEF0a98Ba5071665B5c17",
+    "type": "BEP20",
+    "symbol": "WSJ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf9605AB5b7c2c8D96C9cEF0a98Ba5071665B5c17"
+}

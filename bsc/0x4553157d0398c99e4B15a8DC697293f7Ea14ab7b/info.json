@@ -1,0 +1,11 @@
+{
+ "name": "KOSHIB",
+ "website": "https://koshib.top",
+ "description": "meme tokens with bonus SHIB coins buy 12% sell 12% share SHIB coins per transaction 4%",
+ "explorer": "https://bscscan.com/token/0x4553157d0398c99e4B15a8DC697293f7Ea14ab7b",
+ "type": "BEP20",
+ "symbol": "KOSHIB",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x4553157d0398c99e4B15a8DC697293f7Ea14ab7b"
+}

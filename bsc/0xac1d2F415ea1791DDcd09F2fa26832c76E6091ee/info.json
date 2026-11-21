@@ -1,0 +1,11 @@
+{
+ "name": "Meta cosmos (MCS)",
+ "website": "https://fishinglife.games/",
+ "description": "Singapore MCS Foundation is a financial investment company that has been committed to stock capital operation and metaverse investment development for ten years.",
+ "explorer": "https://bscscan.com/token/0xac1d2F415ea1791DDcd09F2fa26832c76E6091ee",
+ "type": "BEP20",
+ "symbol": "MCS",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xac1d2F415ea1791DDcd09F2fa26832c76E6091ee"
+}

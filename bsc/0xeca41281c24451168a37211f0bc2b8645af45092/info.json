@@ -1,0 +1,11 @@
+{
+ "name": "TP",
+ "website": "https://www.tpswap.pro",
+ "description": "TPSwap is a diversified innovative financial ecosystem built on the Binance Smart Chain that integrates concepts such as decentralized algorithm smart contracts, Defi, WEB3.0, and staking meta-universe. ",
+ "explorer": "https://bscscan.com/token/0xe56478bCaD2BFA2E1406bbaD9F2Ab168848e0a29",
+ "type": "BEP20",
+ "symbol": "TP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe56478bCaD2BFA2E1406bbaD9F2Ab168848e0a29"
+}

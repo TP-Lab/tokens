@@ -1,0 +1,11 @@
+{
+ "name": "Squid Wars Token",
+ "website": "https://www.squidwars.io",
+ "description": "Change your life at SquidWars,the real squid game with no limit.",
+ "explorer": "https://bscscan.com/token/0x8AC0E69f96CE8095125fCc9e3eE0Dd8e4Fd9cfbd",
+ "type": "BEP20",
+ "symbol": "Squid Wars",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8AC0E69f96CE8095125fCc9e3eE0Dd8e4Fd9cfbd"
+}

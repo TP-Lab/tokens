@@ -1,0 +1,11 @@
+{
+ "name": "中国龍",
+ "website": "-",
+ "description": "中国龍 is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x2659725843334cb7Bb692f7DCCb5e52dc3f7112f",
+ "type": "BEP20",
+ "symbol": "龍",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2659725843334cb7Bb692f7DCCb5e52dc3f7112f"
+}

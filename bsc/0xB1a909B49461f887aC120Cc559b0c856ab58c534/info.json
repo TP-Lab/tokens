@@ -1,0 +1,11 @@
+{
+ "name": "AmazingFishToken",
+ "website": "https://www.aft58.com/",
+ "description": "AFT is a both defi and gamefi token that can be mined, played and won using AFT.",
+ "explorer": "https://bscscan.com/token/0xB1a909B49461f887aC120Cc559b0c856ab58c534",
+ "type": "BEP20",
+ "symbol": "AFT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xB1a909B49461f887aC120Cc559b0c856ab58c534"
+}

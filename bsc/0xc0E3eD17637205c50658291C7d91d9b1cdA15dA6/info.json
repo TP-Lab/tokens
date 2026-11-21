@@ -1,0 +1,11 @@
+{
+ "name": "pig",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0xc0E3eD17637205c50658291C7d91d9b1cdA15dA6",
+ "type": "BSC20",
+ "symbol": "pig",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc0E3eD17637205c50658291C7d91d9b1cdA15dA6"
+}

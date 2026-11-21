@@ -1,0 +1,11 @@
+{
+ "name": "Aptos Token",
+ "website": "https://aptoslabs.com/",
+ "description": "Committed to developing products and applications on the Aptos blockchain that redefine the web3 user experience.",
+ "explorer": "",
+ "type": "",
+ "symbol": "APT",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x1"
+}

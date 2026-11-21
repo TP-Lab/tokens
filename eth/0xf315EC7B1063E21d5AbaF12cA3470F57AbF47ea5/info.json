@@ -1,0 +1,11 @@
+{
+ "name": "ZM",
+ "website": "..",
+ "description": "",
+ "explorer": "https://cn.etherscan.com/token/0xf315EC7B1063E21d5AbaF12cA3470F57AbF47ea5",
+ "type": "ERC20",
+ "symbol": "ZM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf315EC7B1063E21d5AbaF12cA3470F57AbF47ea5"
+}

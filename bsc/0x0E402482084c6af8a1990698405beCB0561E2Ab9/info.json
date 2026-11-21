@@ -1,0 +1,11 @@
+{
+ "name": "Beatls Coin",
+ "website": ".",
+ "description": "Beatles 是去中心化自发社区建设的实验。我们最初成立后，电报界的知名人士组成了一个领导小组。该小组将发送Beatles 发展中的适当角色，并就BTS未来的决策达成一致",
+ "explorer": "https://bscscan.com/token/0x0E402482084c6af8a1990698405beCB0561E2Ab9",
+ "type": "BSC20",
+ "symbol": "BTS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0E402482084c6af8a1990698405beCB0561E2Ab9"
+}

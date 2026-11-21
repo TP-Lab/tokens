@@ -1,0 +1,11 @@
+{
+ "name": "zkToken",
+ "website": "https://bscscan.com/token/0xef76bee19199eba8366685a520b9715f55c15c91",
+ "description": "zk is a trustless protocol for scalable, low-cost payments on Binance Chain that uses zero-knowledge proofs and on-chain data availability to keep users’ funds safe. ZK Zero-Knowledge is also known as zero-knowledge proof. It is the official technical team of zksync that aims to prove the real user holder of block data knowledge. In the field of consensus, the underlying value of the original block is truly realized through the form of token, and its application The third value other than the value---the value of commercial tokens, and the issued native technology token ZK, through the data holdings of the native ZK token, makes zkSync zero-knowledge proof more valuable",
+ "explorer": "https://bscscan.com/token/0xef76bee19199eba8366685a520b9715f55c15c91",
+ "type": "BEP20",
+ "symbol": "ZK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xef76bee19199eba8366685a520b9715f55c15c91"
+}

@@ -1,0 +1,11 @@
+{ 
+"name": "FANHUA",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0x00EbE028966B8952606f5b6e5d1d22D3e4999999",
+"type": "BEP20",
+"symbol": "FANHUA",
+"decimals": 18,
+"status": "active",
+"id": "0x00EbE028966B8952606f5b6e5d1d22D3e4999999"
+}

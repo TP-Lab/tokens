@@ -1,0 +1,11 @@
+{
+ "name": "Meta Pocket",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x44690f7c8e56430Eb6Bfc7c1071Da67b27C76242",
+ "type": "BSC20",
+ "symbol": "MetaPK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x44690f7c8e56430Eb6Bfc7c1071Da67b27C76242"
+}

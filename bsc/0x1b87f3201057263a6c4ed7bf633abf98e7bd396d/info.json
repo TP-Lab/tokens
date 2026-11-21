@@ -1,0 +1,11 @@
+{
+    "name": "AKP",
+    "website": "https://shibkingpro.org/",
+    "description": "SKP infuses traditional venture capital with community spirit through open governance, support and inclusion backed by a pioneering financial mechanism. SKP ecosystem will implement the DAO structure over time to achieve decentralization.",
+    "explorer": "https://bscscan.com/token/0x1b87f3201057263a6c4ed7bf633abf98e7bd396d",
+    "type": "BEP20",
+    "symbol": "AKP",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x1b87f3201057263a6C4ED7Bf633aBF98E7Bd396d"
+}

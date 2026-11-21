@@ -1,0 +1,11 @@
+{
+ "name": "JLC Token",
+ "website": "www.jlc.one",
+ "description": "JLC is a metaverse world that combines virtual and reality based on the ancient city of Jinling, integrating business and entertainment. Here players can own real estate in the ancient city and carry out various commercial activities. In this platform, JLC tokens will be used as the settlement token of the platform ecosystem. ",
+ "explorer": "https://www.bscscan.com/token/0x9fc7d1DD15cb075a5ebeC98E5d04588ba1C689A3",
+ "type": "BEP20",
+ "symbol": "JLC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9fc7d1DD15cb075a5ebeC98E5d04588ba1C689A3"
+}

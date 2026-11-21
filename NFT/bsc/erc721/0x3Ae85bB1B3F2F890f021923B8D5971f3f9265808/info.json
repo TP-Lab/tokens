@@ -1,0 +1,11 @@
+{
+ "name": "StarLinkNFT",
+ "website": "https://www.slkmeta.vip",
+ "description": "The Starlink project was founded by the Starlink Foundation in the United States. It is committed to restoring the 1:1 simulation of its star artists to the metaverse, and allowing them to enjoy the artist's portrait rights and intellectual property rights. Through the Starlink TOKEN-SLK, many TOKEN holders can obtain star time shooting, endorsement, etc., and different star time have different values.",
+ "explorer": "https://bscscan.com/token/0x3Ae85bB1B3F2F890f021923B8D5971f3f9265808",
+ "type": "ERC721",
+ "symbol": "SLK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3Ae85bB1B3F2F890f021923B8D5971f3f9265808"
+}

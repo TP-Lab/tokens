@@ -1,0 +1,11 @@
+{
+    "name": "FomoETH",
+    "website": "https://fomoeth.net",
+    "description": "FomoETH is a revolutionary and community-driven blockchain ecosystem focused on Reward Distribution and NFT Technology.",
+    "explorer": "https://bscscan.com/token/0x8A65B987D9813f0a97446eDa0dE918b2573Ae406",
+    "type": "BEP20",
+    "symbol": "FomoETH",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x8A65B987D9813f0a97446eDa0dE918b2573Ae406"
+   }

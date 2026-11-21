@@ -1,0 +1,11 @@
+{
+    "name": "Infinitar Governance Token",
+    "website": "https://www.infinitar.com",
+    "description": "Priority Pass holders will regularly receive airdrops of the ecosystem token, IGT, which can be utilized across the Infinitar platform for various features, services, and transactions.",
+    "explorer": "https://bscscan.com/token/0xD5eeEc1a534c35C418B44bb28E4d5a602f1A22DE",
+    "type": "BEP20",
+    "symbol": "IGT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xD5eeEc1a534c35C418B44bb28E4d5a602f1A22DE"
+}

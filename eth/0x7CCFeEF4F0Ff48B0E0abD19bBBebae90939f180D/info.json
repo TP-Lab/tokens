@@ -1,0 +1,11 @@
+{
+ "name": "Starship",
+ "website": "https://starstoken.org",
+ "description": "STARS is a decentralized meta-universe project token that is 100% self-governed by the community, inspired by Musk Starship, and jointly developed by community members.",
+ "explorer": "https://etherscan.io/token/0x7CCFeEF4F0Ff48B0E0abD19bBBebae90939f180D",
+ "type": "ERC20",
+ "symbol": "STARS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7CCFeEF4F0Ff48B0E0abD19bBBebae90939f180D"
+} 

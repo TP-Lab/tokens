@@ -1,0 +1,11 @@
+{
+ "name": "KUSD",
+ "website": "https://kusd.top",
+ "description": "KUSD是一套簡單、無國界的、服務於數十億人的金融支付基礎設施，致力於建立一套全新的區塊鏈體系，從而打造更低成本、更易進入、聯繫更緊密的全球金融系統。KUSD 建立在安全、可擴展且可靠的區塊鏈之上通過真實資產儲備來保持其價值的穩定，由獨立的協會管理併發展其生態系統。",
+ "explorer": "https://bscscan.com/token/0xF219D4c85D8d083262a33C5913A75F25A1c43370",
+ "type": "BEP20",
+ "symbol": "KUSD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF219D4c85D8d083262a33C5913A75F25A1c43370"
+}

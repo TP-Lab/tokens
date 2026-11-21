@@ -1,0 +1,11 @@
+{
+ "name": "DW2 Token",
+ "website": "https://t.me/ljzeg",
+ "description": "In the future, DW2 will start investing in blockchain games and high-quality digital assets in the metaverse.",
+ "explorer": "https://bscscan.com/address/0xcdd8dc24a5a71134dc0d79a0333581996ae615d4",
+ "type": "BEP20",
+ "symbol": "DW2",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcdD8Dc24a5a71134Dc0d79a0333581996ae615D4"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MarsCat",
+ "website": "-",
+ "description": "MarsCat is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xb63952523319FEb52519b4E7D5a4F515Ca82AF3C",
+ "type": "BEP20",
+ "symbol": " Mcat ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb63952523319FEb52519b4E7D5a4F515Ca82AF3C"
+}

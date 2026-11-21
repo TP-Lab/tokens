@@ -1,0 +1,11 @@
+{
+ "name": "WODESWAP",
+ "website": "https://v2.wodeswap.com",
+ "description": "The world's first WEB3 on chain bank+aggregated decentralized trading platform, with functions such as multi chain, multi scenario, and multi application. Under the mechanism of AISmart AMM intelligent market maker, it pushes the market pool and market value to a larger market, provides one-stop financial services for B-end project parties, and escorts more WEB3 start-up projects. Driven by DAO autonomy and incentive layers, it has achieved steady growth in market value and K-line.",
+ "explorer": "https://bscscan.com/token/0xa8d881fb86351b74ec99732214253305ae9f2422",
+ "type": "BEP20",
+ "symbol": "WODE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa8d881fB86351B74ec99732214253305aE9f2422"
+}

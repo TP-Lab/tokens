@@ -1,0 +1,11 @@
+{
+ "name": "Chocolate Swap",
+ "website": "https://chocolateswap.gitbook.io/",
+ "description": "Chocolate Swap is built on the cutting edge of decentralized finance, providing personalized service for all WBE3 assets through innovation and a unique trading experience.",
+ "explorer": "https://bscscan.com/token/0x93e546a3837fca044d48e4bff770037bfc5eac4c",
+ "type": "BEP20",
+ "symbol": "Chocolate",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x93e546a3837FCA044d48E4BFf770037bfC5Eac4C"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "XIANZAI",
+  "website": "https://xianzai.one/",
+  "description": "现在 XIANZAI MEANS NOW IS THE TIME TO MAKE COMMUNITIES MORE CLOSE AND BE IN SAFE PLACE",
+  "explorer": "https://bscscan.com/token/0x08a1333e06b9ff97623e3d568351e5b6550b46e6",
+  "type": "BEP20",
+  "symbol": "XIAN",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x08A1333E06B9FF97623e3d568351E5B6550B46e6"
+}

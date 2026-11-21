@@ -1,0 +1,11 @@
+{
+ "name": "Nova",
+ "website": "https://ldexdao.com/",
+ "description": "Nova is the first ecosystem token of LDEX's impermanent loss-free trading platform, aimed at providing platform users with a lossless trading ecosystem experience.",
+ "explorer": "https://bscscan.com/address/0x38904795935eeC8f5Ae5e01e4915313177B420Dc",
+ "type": "BEP20",
+ "symbol": "Nova",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x38904795935eeC8f5Ae5e01e4915313177B420Dc"
+}

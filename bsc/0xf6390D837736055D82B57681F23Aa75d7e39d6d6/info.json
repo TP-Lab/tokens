@@ -1,0 +1,11 @@
+{
+ "name": "PIKA LABS",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xf6390D837736055D82B57681F23Aa75d7e39d6d6",
+ "type": "BEP20",
+ "symbol": "PIKA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf6390D837736055D82B57681F23Aa75d7e39d6d6"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "USEA",
+    "website": "",
+    "description": "USEA - Stable Currency, with the goal of becoming the second largest stable currency in the world after the stable currency USDT.
+USEA is a stable value based payment currency launched by the Taihe Foundation. USEA is worth RMB 1. It has been effectively guaranteed in terms of security and anonymity in the new generation blockchain encryption technology and decentralized financial business model. Rapid transactions and transfers have greatly reduced the cost of traditional financial transactions, guaranteed the transparency and fairness of transactions, and provided cross-border financial payment and digital currency services for all sectors of the world, And it will place an equivalent deposit in Taihe Fund Company, anchoring the value, and users can exchange USDT1-7 for USDA at any time,
+The Taihe Foundation has always been committed to the application and development of digital currencies. USEA coins can be redeemed in multiple physical investment industries under the Taihe Foundation. The birth of USEA also solves a series of problems in Southeast Asia's tourism scenario payment. USEA is deeply integrated with Southeast Asia's emerging industry chain, and is strongly empowered by a trillion level tourism industry blockchain aggregation platform for ecological circulation. The application scenarios are infinite, and you can freely travel to Southeast Asia with USEA coins!
+Future USEA will attract worldwide attention!",
+    "explorer": "https://bscscan.com/token/0xdf7ff95aa3d855a6fb21399432166a92fdcf1b1a",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "USEA",
+    "status": "active",
+    "id": "0xdf7ff95aa3d855a6fb21399432166a92fdcf1b1a"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "TIT",
+    "website": "https://tokenpocket.pro",
+    "description": "Titan Protocol是一个商用级的去中心化应用程序平台。Titan Protocol将采用一种主节点（Masternode）方案来解决目前Bitcoin、Ethereum等传统主流公链所面临的处理交易慢，数据庞大，被少数几个矿池控制的问题。",
+    "explorer": "https://bscscan.com/token/0x2Ab40ccf8B4CbD714555c2b477502FfF3211A60B",
+    "type": "BEP20",
+    "symbol": "TIT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2Ab40ccf8B4CbD714555c2b477502FfF3211A60B"
+   }

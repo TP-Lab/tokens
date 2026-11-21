@@ -1,0 +1,11 @@
+{
+ "name": "CBI",
+ "website": "-",
+ "description": "CBI is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xE41C11fA86A5F41eF31Af0faf4a22d1B08446767",
+ "type": "BEP20",
+ "symbol": "CBI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE41C11fA86A5F41eF31Af0faf4a22d1B08446767"
+}

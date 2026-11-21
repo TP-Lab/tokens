@@ -1,0 +1,11 @@
+{ 
+"name": "Wish Coin",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0xEc5Ee4891b146f6DEbf60C6380dAcd0A6264c977",
+"type": "BEP20",
+"symbol": "Wish",
+"decimals": 18,
+"status": "active",
+"id": "0xEc5Ee4891b146f6DEbf60C6380dAcd0A6264c977"
+}

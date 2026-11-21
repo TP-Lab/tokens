@@ -1,0 +1,11 @@
+{
+	"name": "ASDIC",
+	"website": "https://asdic.io",
+	"description": "ASDIC is an aggregated on-chain platform for Dex, Defi, Token, and NFT protocols, providing a more secure fund management, professional data, and convenient Web3 interaction. It is committed to building a traffic aggregator for the Web3 era.",
+	"explorer": "https://bscscan.com/token/0xFC6f27F40Cc9B4D8F23239465b208052BB4D3B0c",
+	"type": "BEP20",
+	"symbol": "ASDIC",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xFC6f27F40Cc9B4D8F23239465b208052BB4D3B0c"
+}

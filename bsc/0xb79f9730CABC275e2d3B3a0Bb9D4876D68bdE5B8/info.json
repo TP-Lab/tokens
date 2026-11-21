@@ -1,0 +1,11 @@
+{
+    "name": "GSTT",
+    "website": "GSTTgo.com",
+    "description": "GSTT is a game token based on WEB3's Play 2 Earn.",
+    "explorer": "https://bscscan.com/token/0xb79f9730CABC275e2d3B3a0Bb9D4876D68bdE5B8",
+    "type": "BEP20",
+    "symbol": "GSTT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb79f9730CABC275e2d3B3a0Bb9D4876D68bdE5B8"
+}

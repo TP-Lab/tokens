@@ -1,0 +1,11 @@
+{
+ "name": "CR7 DAO",
+ "website": "https://cr7dao.xyz",
+ "description": "THE LARGEST CR7 FANS DAO ON BNBCHAIN",
+ "explorer": "https://bscscan.com/address/0xcb9f1a1Da761Ae4f14ED6e2A7Ea07835aD8FB350",
+ "type": "BEP20",
+ "symbol": "CR7",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xcb9f1a1Da761Ae4f14ED6e2A7Ea07835aD8FB350"
+}

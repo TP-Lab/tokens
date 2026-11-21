@@ -1,0 +1,11 @@
+{
+    "name": "Hong Kong Token",
+    "website": "https://www.metasy.io",
+    "description": "HKswap is the world's first decentralized digital asset trading platform that integrates on-chain functions such as fiat currency payment, Binance payment, DEX, Farm, NFT, Perpetual and Multichain.",
+    "explorer": "https://bscscan.com/token/0x8355daab8550154068c94cf1d67910ffda0097a6",
+    "type": "BEP20",
+    "symbol": "HKT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8355dAAb8550154068c94Cf1d67910fFDA0097A6"
+   }

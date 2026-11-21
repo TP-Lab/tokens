@@ -1,0 +1,11 @@
+﻿{
+ "name": "SAFE",
+ "website": "https://www.anwang.com/",
+ "description": "SAFE was launched by SAFE Foundation in Singapore in October 2014.It has been 8 years of history.during which it has gone through 3 major iterations from SAFE 1.0、 2.0、3.0, Version 4.0 is now available and is being piloted.",
+ "explorer": "https://bscscan.com/token/0x4d7Fa587Ec8e50bd0E9cD837cb4DA796f47218a1",
+ "type": "BEP20",
+ "symbol": "SAFE",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x4d7Fa587Ec8e50bd0E9cD837cb4DA796f47218a1"
+}

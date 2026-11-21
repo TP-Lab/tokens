@@ -1,0 +1,11 @@
+{
+ "name": "HTK",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://www.bscscan.com/token/0x734AC23DF5fD41cC793a6f80E451533C331d6Cde",
+ "type": "BEP20",
+ "symbol": "HTK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x734AC23DF5fD41cC793a6f80E451533C331d6Cde"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "bkc Token",
+    "website": "https://twitter.com/rafikamulia_",
+    "description": "bkc builds future planet payments based on cutting-edge technology. Realizing cross time and space, reshaping the future of human finance.",
+    "explorer": "https://www.bscscan.com/token/0x5BF91b72f897eC1D4016032E0909ab7AA6f91399",
+    "type": "BEP20",
+    "symbol": "bkc",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5BF91b72f897eC1D4016032E0909ab7AA6f91399"
+ }

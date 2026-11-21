@@ -1,0 +1,11 @@
+{
+ "name": "LemonDAO",
+ "website": "https://lemondao.top/",
+ "description": "The Lemon-Themed Culture built on BSC allows friends who love lemons to play and earn together.",
+ "explorer": "https://bscscan.com/token/0x25806a95b39949df8d63e921620f5698efea3826",
+ "type": "BEP20",
+ "symbol": "LEMON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x25806a95b39949df8d63e921620f5698efea3826"
+}

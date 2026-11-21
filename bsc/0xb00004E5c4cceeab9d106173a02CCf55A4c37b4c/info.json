@@ -1,0 +1,11 @@
+{
+ "name": "MetaZero Token",
+ "website": "https://metazero.world",
+ "description": "MetaZero Tokenis an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xb00004E5c4cceeab9d106173a02CCf55A4c37b4c",
+ "type": "BEP20",
+ "symbol": "MZT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb00004E5c4cceeab9d106173a02CCf55A4c37b4c"
+}

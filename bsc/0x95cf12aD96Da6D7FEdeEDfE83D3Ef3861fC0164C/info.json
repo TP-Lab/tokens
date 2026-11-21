@@ -1,0 +1,11 @@
+{
+ "name": "LIVING LAW DAO",
+ "website": "https://llaw.cc",
+ "description": "Preaching the wisdom of the living law, We will build a living environment",
+ "explorer": "https://bscscan.com/token/0x95cf12ad96da6d7fedeedfe83d3ef3861fc0164c",
+ "type": "BEP20",
+ "symbol": "LLAWDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x95cf12aD96Da6D7FEdeEDfE83D3Ef3861fC0164C"
+}

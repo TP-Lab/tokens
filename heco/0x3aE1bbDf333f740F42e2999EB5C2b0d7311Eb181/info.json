@@ -1,0 +1,11 @@
+{
+ "name": "Foxy Brown",
+ "website": "https://www.houndcoin.net",
+ "description": "Foxy Brown uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://hecoinfo.com/token/0x3aE1bbDf333f740F42e2999EB5C2b0d7311Eb181",
+ "type": "HRC20",
+ "symbol": "FOXY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3aE1bbDf333f740F42e2999EB5C2b0d7311Eb181"
+}

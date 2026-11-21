@@ -1,0 +1,11 @@
+{
+ "name": "LSC",
+ "website": "https://www.luckysuperstar.vip/",
+ "description": "LuckyStar's parent company, LuckyStar Systems, is an NFT original design and development team. It continues to design and develop NFT products for multiple companies and brands..",
+ "explorer": "https://bscscan.com/token/0xa51EaC06bBc6aC2776F9c33BB741988b30A33B18",
+ "type": "BEP20",
+ "symbol": "LSC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa51EaC06bBc6aC2776F9c33BB741988b30A33B18"
+}

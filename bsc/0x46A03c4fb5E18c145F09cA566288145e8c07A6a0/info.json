@@ -1,0 +1,9 @@
+ "name": "YUNBITE",
+ "website": "https://tokenpocket.pro",
+ "description": "A decentralized token on the BNB Chain.",
+ "explorer": "https://bscscan.com/token/0x46a03c4fb5e18c145f09ca566288145e8c07a6a0",
+ "type": "BEP20",
+ "symbol": "YBT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x46A03c4fb5E18c145F09cA566288145e8c07A6a0"

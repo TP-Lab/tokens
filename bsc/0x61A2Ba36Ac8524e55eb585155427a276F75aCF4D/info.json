@@ -1,0 +1,11 @@
+{
+  "name": "PTS",
+  "website": "https://platinumpm.info/#/",
+  "description": "This is a parallel universe ecology full of opportunities and innovation. Provide users with a safe, convenient and efficient trading experience to help users grow their wealth.",
+  "explorer": "https://bscscan.com/token/0x61A2Ba36Ac8524e55eb585155427a276F75aCF4D",
+  "type": "BEP20",
+  "symbol": "PTS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x61A2Ba36Ac8524e55eb585155427a276F75aCF4D"
+}

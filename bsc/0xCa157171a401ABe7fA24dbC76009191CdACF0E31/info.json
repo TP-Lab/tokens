@@ -1,0 +1,11 @@
+{
+ "name": "Star Trek Electricity Material",
+ "website": "https://www.startrek.website",
+ "description": "The Electricity will be used as energy supply for equipment at all levels. ",
+ "explorer": "https://bscscan.com/token/0xCa157171a401ABe7fA24dbC76009191CdACF0E31",
+ "type": "BEP20",
+ "symbol": "STEM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCa157171a401ABe7fA24dbC76009191CdACF0E31"
+}

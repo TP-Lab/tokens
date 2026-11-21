@@ -1,0 +1,11 @@
+{
+ "name": "GOPIE",
+ "website": "https://gopie.co/",
+ "description": "GoPie is more than just an adorable mascot; it's a revolutionary cryptocurrency. Underneath the playful facade, you'll find ingenious tokenomics. With a deflationary token supply and rewarding staking system, ApeMax is the full-package.",
+ "explorer": "https://www.bscscan.com/token/0xCFcD30dCA6D4CBF149915F6f31F43a44300bB4fB",
+ "type": "BEP20",
+ "symbol": "GOPIE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCFcD30dCA6D4CBF149915F6f31F43a44300bB4fB"
+}

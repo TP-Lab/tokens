@@ -1,0 +1,11 @@
+{
+ "name": "PinfR",
+ "website": ".",
+ "description": "Hong Kong web3 Research Institute jointly founded PinfR, which is committed to serving global smes, optimizing capital structure, and building web3 public domain traffic in the digital era to practice the trinity transformation road of "user value-added", "capital value-added" and "consumption value-added".",
+ "explorer": "https://bscscan.com/token/0x189740edC5A8620118a40A2ea7cD417C14c17777",
+ "type": "BEP20",
+ "symbol": "PinfR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x189740edC5A8620118a40A2ea7cD417C14c17777"
+}

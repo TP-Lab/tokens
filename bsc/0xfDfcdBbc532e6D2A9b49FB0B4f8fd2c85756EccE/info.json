@@ -1,0 +1,11 @@
+{
+ "name": "LONG2024",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xfDfcdBbc532e6D2A9b49FB0B4f8fd2c85756EccE",
+ "type": "BEP20",
+ "symbol": "LONG2024",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfDfcdBbc532e6D2A9b49FB0B4f8fd2c85756EccE"
+}

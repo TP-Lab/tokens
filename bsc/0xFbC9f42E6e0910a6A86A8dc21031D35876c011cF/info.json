@@ -1,0 +1,11 @@
+{
+ "name": "LuckyApeGuild",
+ "website": "https://luckyapeguild.com",
+ "description": "LAG Coin 是一个治理和实用的通证，在幸运猿公会生态系统内使用，具备治理、统一支出、使用权、激励的几个作用.",
+ "explorer": "https://bscscan.com/token/0xfbc9f42e6e0910a6a86a8dc21031d35876c011cf",
+ "type": "BEP20",
+ "symbol": "LAG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFbC9f42E6e0910a6A86A8dc21031D35876c011cF"
+}

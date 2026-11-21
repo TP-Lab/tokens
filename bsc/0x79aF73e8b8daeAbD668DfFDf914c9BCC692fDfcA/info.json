@@ -1,0 +1,11 @@
+{
+ "name": "Liberal deal",
+ "website": "-",
+ "description": "Liberal deal (LBD) is the first Web3 comprehensive application platform officially launched by the Binance Foundation, which includes financial coinage, hash guessing, on chain shopping, AI trading, dividend lending, online gaming, DeFi SocialFi, NFT, etc.",
+ "explorer": "https://bscscan.com/address/0x79af73e8b8daeabd668dffdf914c9bcc692fdfca",
+ "type": "BEP20",
+ "symbol": "LBD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x79aF73e8b8daeAbD668DfFDf914c9BCC692fDfcA"
+}

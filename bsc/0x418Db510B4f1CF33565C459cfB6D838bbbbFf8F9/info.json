@@ -1,0 +1,11 @@
+{
+  "name": "Defi Wz Token",
+  "website": "https://defi.wzswap.net",
+  "description": "WZSWAP is a real and fully decentralized autonomous community, a decentralized exchange of digital assets, users who hold defiwz can not only become members of DAO, but also participate in the governance of DAO to obtain corresponding platform benefits.",
+  "explorer": "https://bscscan.com/token/0x418Db510B4f1CF33565C459cfB6D838bbbbFf8F9",
+  "type": "BEP20",
+  "symbol": "DEFIWZ",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x418Db510B4f1CF33565C459cfB6D838bbbbFf8F9"
+}

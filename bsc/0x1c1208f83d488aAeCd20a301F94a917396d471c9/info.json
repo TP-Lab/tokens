@@ -1,0 +1,11 @@
+{
+  "name": "GOT Token",
+  "website": "https://wog.one",
+  "description": "War of Gods, a metaverse game",
+  "explorer": "https://bscscan.com/token/0x1c1208f83d488aAeCd20a301F94a917396d471c9",
+  "type": "BEP20",
+  "symbol": "GOT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1c1208f83d488aAeCd20a301F94a917396d471c9"
+ }

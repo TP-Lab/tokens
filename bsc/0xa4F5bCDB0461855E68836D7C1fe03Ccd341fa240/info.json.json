@@ -1,0 +1,11 @@
+{
+  "name": "MTMT",
+  "website": "https://mtmt.io/",
+  "description": "MTMT is the MTMT SFT Liquidity Application Protocol token. ",
+  "explorer": "https://bscscan.com/token/0xa4f5bcdb0461855e68836d7c1fe03ccd341fa240",
+  "type": "BEP20",
+  "symbol": "MTMT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa4f5bcdb0461855e68836d7c1fe03ccd341fa240"
+}

@@ -1,0 +1,11 @@
+{
+  "decimals" : 18,
+  "description" : "Pagadi (PAD) is a decentralized artificial intelligence platform that provides a series of services based on Chat GPT for all institutions or individuals developing artificial intelligence in the world, covering marketing, advertising, games, VR, personal assistants, autonomous driving and many other industries Artificial intelligence is required.",
+  "explorer" : "https://bscscan.com/token/0xaB5CD36302D83aD5E524A67578Ae27beEFdD4Fc0",
+  "id" : "0xaB5CD36302D83aD5E524A67578Ae27beEFdD4Fc0",
+  "name" : "Pagadi",
+  "status" : "active",
+  "symbol" : "PAD",
+  "type" : "BEP20",
+  "website" : "https://www.pagadi.io"
+}

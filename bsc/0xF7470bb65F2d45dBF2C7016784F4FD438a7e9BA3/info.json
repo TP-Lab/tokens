@@ -1,0 +1,11 @@
+{
+ "name": "PHOENIX Token",
+ "website": "https://www.phoenixhome.me",
+ "description": "PHOENIX is a pre-product with strong consensus, high yield and many other characteristics created for the future blockchain WEB3.0 general-purpose generator, aiming to gather market consensus and jointly shape the future value of a product, the product contains a number of ecological, at the same time, PHOENIX is a blockchain DeFi3.0 financial ecosystem that includes digital assets, digital identity, digital social communication and games, develops a third blockchain financial ecosystem beyond Bitcoin and Ethereum, and expands the application and technical boundaries of blockchain technology. Enabling all Internet user participants to feel the Web3.0 value of blockchain technology.",
+ "explorer": "https://bscscan.com/address/0xF7470bb65F2d45dBF2C7016784F4FD438a7e9BA3",
+ "type": "BEP20",
+ "symbol": "PHOENIX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF7470bb65F2d45dBF2C7016784F4FD438a7e9BA3"
+}

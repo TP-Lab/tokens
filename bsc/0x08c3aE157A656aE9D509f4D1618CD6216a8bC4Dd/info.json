@@ -1,0 +1,14 @@
+{
+ "name": "SNAKEKING",
+ "website": "https://snakeking.vip/",
+ "description": "The SNAKE token aims to support peace advocacy and anti-violence movements.",
+ "explorer": "https://bscscan.com/token/0x08c3ae157a656ae9d509f4d1618cd6216a8bc4dd",
+ "Telegram": "https://t.me/+A-Qq3t0u4VRlNmM1",
+ "Twitter": "https://x.com/bnbsnakeking?s=21",
+ "Whitepaper": "https://snakeking.vip/hello-world/",
+ "type": "BEP20",
+ "symbol": "SNAKE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x08c3aE157A656aE9D509f4D1618CD6216a8bC4Dd"
+}

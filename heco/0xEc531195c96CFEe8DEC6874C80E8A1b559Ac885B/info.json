@@ -1,0 +1,11 @@
+{
+ "name": "ONE COIN",
+ "website": "-",
+ "description": "ONE COIN is a decentralized and perpetual deflation token issued on the Huobi Smart Chain.",
+ "explorer": "https://hecoinfo.com/token/0xec531195c96cfee8dec6874c80e8a1b559ac885b",
+ "type": "HRC-20",
+ "symbol": "ONE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xEc531195c96CFEe8DEC6874C80E8A1b559Ac885B"
+}

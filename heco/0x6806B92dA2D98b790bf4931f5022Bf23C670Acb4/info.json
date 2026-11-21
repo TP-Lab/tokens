@@ -1,0 +1,9 @@
+ "name": "Community Coin",
+ "website": "https://cctoken.mystrikingly.com/",
+ "description": "A decentralized token on the HECO Chain.",
+ "explorer": "https://hecoinfo.com/token/0x6806B92dA2D98b790bf4931f5022Bf23C670Acb4",
+ "type": "HRC20",
+ "symbol": "CC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x6806B92dA2D98b790bf4931f5022Bf23C670Acb4"

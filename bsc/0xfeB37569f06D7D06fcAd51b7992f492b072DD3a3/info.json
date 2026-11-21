@@ -1,0 +1,11 @@
+{
+    "name": "DAOF",
+    "website": "https://www.daofarmer.com",
+    "description": "DAO Farmer is a Play-to-Earn Metaverse GameFi that combines blockchain technology with traditional gaming connotations.",
+    "explorer": "https://bscscan.com/token/0xfeB37569f06D7D06fcAd51b7992f492b072DD3a3",
+    "type": "BEP20",
+    "symbol": "DAOF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xfeB37569f06D7D06fcAd51b7992f492b072DD3a3"
+}

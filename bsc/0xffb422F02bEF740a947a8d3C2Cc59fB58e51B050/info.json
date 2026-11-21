@@ -1,0 +1,11 @@
+{
+    "name": "Mellivora capensis",
+    "website": "https://mcdao.live/",
+    "description": "Create a high-quality, comprehensive blockchain ecosystem for users",
+    "explorer": "https://bscscan.com/token/0xffb422F02bEF740a947a8d3C2Cc59fB58e51B050",
+    "type": "BEP20",
+    "symbol": "MC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xffb422F02bEF740a947a8d3C2Cc59fB58e51B050"
+}

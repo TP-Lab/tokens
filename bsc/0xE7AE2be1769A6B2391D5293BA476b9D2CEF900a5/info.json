@@ -1,0 +1,11 @@
+{
+ "name": "iMC",
+ "website": "https://app.mitata.vip/",
+ "description": "iMC is a web3  platform driven by an new mechanism. It is the first contract exchange in the derivatives market right now. The original algorithm protocol will creates a Web3.0 traffic playround full of pleasure and excitation.",
+ "explorer": "https://bscscan.com/token/0xE7AE2be1769A6B2391D5293BA476b9D2CEF900a5",
+ "type": "BEP20",
+ "symbol": "iMC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE7AE2be1769A6B2391D5293BA476b9D2CEF900a5"
+}

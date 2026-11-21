@@ -1,0 +1,11 @@
+{
+ "name": "Sky Line",
+ "website": "https://skyline.best",
+ "description": "Let your assets reach the sky and start a new chapter of wealth, a journey of continuous appreciation.",
+ "explorer": "https://bscscan.com/token/0xB1AcA6F7c17Dbf2B23A6BeB10d8DE4109F485C3f",
+ "type": "BEP20",
+ "symbol": "SKY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB1AcA6F7c17Dbf2B23A6BeB10d8DE4109F485C3f"
+}

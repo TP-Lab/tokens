@@ -1,0 +1,11 @@
+{
+ "name": "ZT",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/address/0x2df773bB18C08fcDdF62800A613bcBfF8e179812",
+ "type": "BEP20",
+ "symbol": "ZT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2df773bB18C08fcDdF62800A613bcBfF8e179812"
+}

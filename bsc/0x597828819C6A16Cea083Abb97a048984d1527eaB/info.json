@@ -1,0 +1,11 @@
+{
+ "name": "FansProject Token",
+ "website": "https://fans.solutions/",
+ "description": "FANS is the official token of FansProject",
+ "explorer": "https://bscscan.com/token/0x597828819C6A16Cea083Abb97a048984d1527eaB",
+ "type": "BEP20",
+ "symbol": "FANS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x597828819C6A16Cea083Abb97a048984d1527eaB"
+}

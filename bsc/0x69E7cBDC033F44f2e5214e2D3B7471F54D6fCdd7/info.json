@@ -1,0 +1,11 @@
+{
+ "name": "Lightning Tortoise",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x69E7cBDC033F44f2e5214e2D3B7471F54D6fCdd7",
+ "type": "BEP20",
+ "symbol": "Lightning Tortoise",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x69E7cBDC033F44f2e5214e2D3B7471F54D6fCdd7"
+}

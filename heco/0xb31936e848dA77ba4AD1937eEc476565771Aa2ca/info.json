@@ -1,0 +1,11 @@
+{
+ "name": "JSLB",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://hecoinfo.com/token/0xb31936e848dA77ba4AD1937eEc476565771Aa2ca",
+ "type": "HRC20",
+ "symbol": "JSLB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb31936e848dA77ba4AD1937eEc476565771Aa2ca"
+}

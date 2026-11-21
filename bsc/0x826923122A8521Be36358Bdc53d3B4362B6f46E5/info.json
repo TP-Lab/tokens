@@ -1,0 +1,11 @@
+{
+ "name": "MCoin",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/address/0x826923122A8521Be36358Bdc53d3B4362B6f46E5",
+ "type": "BEP20",
+ "symbol": "MCoin",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x826923122A8521Be36358Bdc53d3B4362B6f46E5"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BHB Coin",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x7767D2Ce1660c2E29d846467f9db083491a9FC58",
+ "type": "BEP20",
+ "symbol": "BHB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7767D2Ce1660c2E29d846467f9db083491a9FC58"
+}

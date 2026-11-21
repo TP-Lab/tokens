@@ -1,0 +1,11 @@
+{
+    "name": "JadeHare",
+    "website": "https://jadehare.io",
+    "description": "JadeHare 玉兔，又名月兔，居住在月球上。JadeHare是月球生态代币，基于DeFi+NFT打造元宇宙生态",
+    "explorer": "https://bscscan.com/token/0x66ede4df172241abcbe7cc655c8f39a7f132f0d8",
+    "type": "BEP20",
+    "symbol": "JadeHare",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x66ede4Df172241ABcBe7Cc655c8f39a7F132F0d8"
+}

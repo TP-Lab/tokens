@@ -1,0 +1,11 @@
+{
+ "name": "Depin Blueprint",
+ "website": "https://www.depinblueprint.com",
+ "description": "The DePinBlueprint project adopts the latest technology Blockchain technology and advanced network protocols are committed to creating an efficient and secure decentralized network solution Resolution",
+ "explorer": "https://bscscan.com/token/0x45326F960B511BcE404C249b5aa22a947F41f8b2",
+ "type": "BEP20",
+ "symbol": "DB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x45326F960B511BcE404C249b5aa22a947F41f8b2"
+}

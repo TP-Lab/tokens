@@ -1,0 +1,11 @@
+{
+ "name": "BTCD Token",
+ "website": "https://btcvault.one",
+ "description": "BBTCD is a partially algorithmic stablecoin whose supply is partly backed by collateral and partly stabilized by algorithms. The ratio of collateral depends on the market price of the BTCD stablecoin. If BTCD is trading above $1, the agreement will reduce the collateral ratio. If BTCD trades below $1, the agreement increases the collateral ratio.",
+ "explorer": "https://bscscan.com/token/0xc72a0f961db3e3ab48239698b7b573c2200a3497",
+ "type": "BEP20",
+ "symbol": "BTCD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC72a0F961DB3E3aB48239698B7b573c2200A3497"
+}

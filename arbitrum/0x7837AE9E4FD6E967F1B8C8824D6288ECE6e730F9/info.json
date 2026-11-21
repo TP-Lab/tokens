@@ -1,0 +1,11 @@
+{
+ "name": "BITDO",
+ "website": "https://app.bitdocurves.com/",
+ "description": "BDO是Bitdu交易所在Arbitrum ONE發行總發行量：2.1億枚，每一枚幣都是遵循Bonding Curve 協議使用USDT在鏈上鑄造出來，讓用戶體驗到一級市場安全穩定持久的收益，從而實現我交易所在亞洲高品質用戶的持續成長！",
+ "explorer": "https://arbiscan.io/token/0x690f463C2AC35b18152c5DAdD9dFd2bdCE70443B",
+ "type": "ERC20",
+ "symbol": "BDO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x690f463C2AC35b18152c5DAdD9dFd2bdCE70443B"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "GOSC",
+ "website": ".",
+ "description": "GOSC是斗罗世界唯一通证，通过玩游戏即可获得代币奖励。持有GOSC令牌将享有项目治理权",
+ "explorer": "https://bscscan.com/token/0xe9bddc443d51702c49dd2be7be63fc2eeb51d73c",
+ "type": "BSC20",
+ "symbol": "GOSC",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xE9BDDC443D51702C49Dd2Be7BE63fC2eeb51D73c"
+}

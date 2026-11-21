@@ -1,0 +1,11 @@
+{
+	"name": "Banana Token",
+	"website": "https://bananacoin.io/",
+	"description": "Banana token was initiated by a community autonomous organization to create a truly decentralized and highly autonomous digital token.",
+	"explorer": "https://bscscan.com/token/0xd7610F7F96F526A914Ab443C32A8Ea10963Ac28a",
+	"type": "BEP20",
+	"symbol": "Banana",
+	"decimals": 6,
+	"status": "active",
+	"id": "0xd7610F7F96F526A914Ab443C32A8Ea10963Ac28a"
+}

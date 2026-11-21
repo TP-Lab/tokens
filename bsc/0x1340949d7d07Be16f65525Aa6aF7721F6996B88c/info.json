@@ -1,0 +1,11 @@
+{
+ "name": "LONGdead",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x1340949d7d07Be16f65525Aa6aF7721F6996B88c",
+ "type": "BEP20",
+ "symbol": "LONGdead",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1340949d7d07Be16f65525Aa6aF7721F6996B88c"
+}

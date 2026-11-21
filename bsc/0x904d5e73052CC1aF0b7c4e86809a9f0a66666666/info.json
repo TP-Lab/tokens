@@ -1,0 +1,11 @@
+{
+ "name": "FenDou",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x904d5e73052CC1aF0b7c4e86809a9f0a66666666",
+ "type": "BEP20",
+ "symbol": "FenDou",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x904d5e73052CC1aF0b7c4e86809a9f0a66666666"
+}

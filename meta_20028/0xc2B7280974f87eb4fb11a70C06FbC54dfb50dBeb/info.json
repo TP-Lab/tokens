@@ -1,0 +1,11 @@
+{ 
+"name": "MTC (MTC Token)",
+"website": ".",
+"description": ".",
+"explorer": "https://block.metachain1.com/token/0xc2B7280974f87eb4fb11a70C06FbC54dfb50dBeb",
+"type": "MTC-20",
+"symbol": "MTU",
+"decimals": 18,
+"status": "active",
+"id": "0xc2B7280974f87eb4fb11a70C06FbC54dfb50dBeb"
+}

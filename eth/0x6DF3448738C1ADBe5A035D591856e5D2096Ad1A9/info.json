@@ -1,0 +1,11 @@
+{
+    "name": "PEPEYE 2.0",
+    "website": ".",
+    "description": "A practical aggregation platform suitable for all digital product needs, integrating diversified digital products such as BEEC (Bee) exchange, Chat GPT AI ecological application, mall (global shopping), BEEC social, GameFi, DeFi product aggregator and so on.",
+    "explorer": "https://etherscan.io/token/0x6DF3448738C1ADBe5A035D591856e5D2096Ad1A9",
+    "type": ERC20",
+    "symbol": "PEPEYE 2.0",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6DF3448738C1ADBe5A035D591856e5D2096Ad1A9"
+}

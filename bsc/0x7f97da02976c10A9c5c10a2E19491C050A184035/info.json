@@ -1,0 +1,11 @@
+{
+ "name": "Deep Skyline Token",
+ "website": "https://www.wstecserver.com/",
+ "description": "DES combines the advantages of DeFi and NFT well, combining finance and mechanisms with NFT, games, and airdrop mechanisms to create a completely free market.",
+ "explorer": "https://bscscan.com/token/0x7f97da02976c10A9c5c10a2E19491C050A184035",
+ "type": "BEP20",
+ "symbol": "DES",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7f97da02976c10A9c5c10a2E19491C050A184035"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "SP",
+ "website": "-",
+ "description": "SP is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xAb8C399f11923212446B5820D8ACc14DE336301e",
+ "type": "BEP20",
+ "symbol": "SP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xAb8C399f11923212446B5820D8ACc14DE336301e"
+}

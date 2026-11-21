@@ -1,0 +1,11 @@
+{
+ "name": "DollarShiba",
+ "website": "https://dollarshiba.vip",
+ "description": " A Deflationary Reflection Token with Automated Liquidity Acquisition, community token.",
+ "explorer": "https://bscscan.com/address/0x2a4f8beB4AE2A34e0bc7bAeDD43C870a6E7ae438",
+ "type": "BEP20",
+ "symbol": "DSB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2a4f8beB4AE2A34e0bc7bAeDD43C870a6E7ae438"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "GHA Foundation",
+    "website": "https://ghaf.biz",
+    "description": "GHA focuses on integrating the hemp industry with blockchain technology through various applications.",
+    "explorer": "https://polygonscan.com/token/0x7585042b97f82404438c778185Ea6F5797B4e8ad",
+    "type": "ERC20",
+    "symbol": "GHAF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7585042b97f82404438c778185Ea6F5797B4e8ad"
+       }
+   

@@ -1,0 +1,11 @@
+{ 
+"name": "LUCAS PET TOKEN",
+"website": "https://www.pet888.vip",
+"description": "The International Pet Federation Foundation uses the principle of the blockchain token economy to issue a unique pet feeding token (Lucas Pet Toke, PET), and players are certified and adopted on the chain. sell etc.",
+"explorer": "https://www.bscscan.com/token/0x57Fd226aDc2aCcd15706A2CDd2dF6D52d373f7C3",
+"type": "BEP20",
+"symbol": "PET",
+"decimals": 18,
+"status": "active",
+"id": "0x57Fd226aDc2aCcd15706A2CDd2dF6D52d373f7C3"
+}

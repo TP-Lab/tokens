@@ -1,0 +1,11 @@
+{
+ "name": "RichMoon",
+ "website": "https://www.richmoonus.com/",
+ "description": "RichMoon is a nonprofit organization dedicated to changing the environment and building a better home.",
+ "explorer": "https://bscscan.com/token/0xc275dddbd0aa7d8be23d98992a5b7819c3115917",
+ "type": "BEP-20",
+ "symbol": "RichMoon",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xC275DDdBD0AA7d8Be23D98992a5B7819c3115917"
+}

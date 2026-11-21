@@ -1,0 +1,11 @@
+{
+ "name": "Alien World",
+ "website": "http://alienworld.online",
+ "description": "Alien-World is a meta-universe chain game with passionate and challenging. Alien-World covers the NFT role and NFT equipment.",
+ "explorer": "https://bscscan.com/token/0x8AD46cF63A93Cfe6DD0333f0d159Ed104e3aAD63",
+ "type": "BEP20",
+ "symbol": "ALIEN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8AD46cF63A93Cfe6DD0333f0d159Ed104e3aAD63"
+}

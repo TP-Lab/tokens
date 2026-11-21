@@ -1,0 +1,11 @@
+{
+  "name": "GWKEY",
+  "website": "",
+  "description": "Governance WKEY.",
+  "explorer": "https://browser.anubispace.org/token/0xcB1F55dC842f22E5f1fFCfDe83c24B068c887ecA",
+  "type": "ERC-20",
+  "symbol": "GWKEY",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcB1F55dC842f22E5f1fFCfDe83c24B068c887ecA"
+}

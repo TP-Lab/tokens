@@ -1,0 +1,11 @@
+{
+    "name": "BITDEX",
+    "website": "https://bitdexai.com",
+    "description": "BITDEX",
+    "explorer": "https://bscscan.com/token/0x59d82ad20e3b0737984e09993d35fdf6fdd324b6",
+    "type": "BEP20",
+    "symbol": "BIT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x59d82ad20E3b0737984E09993D35fDF6Fdd324b6"
+}

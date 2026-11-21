@@ -1,0 +1,11 @@
+{
+    "name": "BELE",
+    "website": "https://bele.bet",
+    "description": "BELE是链游疯狂海贼团的激励机制，总发行量1000亿，早期2%用于创世交易，其余98%全部在游戏中公平产出。BELE的故事来自于日本知名动漫《海贼王》。",
+    "explorer": "https://bscscan.com/token/0x27547eF67594ebf471F2914B14C4298466cF85B3",
+    "type": "BEP20",
+    "symbol": "BELE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x27547eF67594ebf471F2914B14C4298466cF85B3"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "MGN",
+ "website": "..",
+ "description": "",
+ "explorer": "https://scan.movachain.com/token/0x1B21dCFfe9Fd430518D41C59ab095Cde5Ec4D2F1",
+ "type": "MRC-20",
+ "symbol": "MGN ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1B21dCFfe9Fd430518D41C59ab095Cde5Ec4D2F1"
+}

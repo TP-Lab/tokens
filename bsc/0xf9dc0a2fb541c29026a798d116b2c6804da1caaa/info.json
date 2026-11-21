@@ -1,0 +1,11 @@
+{
+    "name": "SFT",
+    "website": "https://sft.network/",
+    "description": "SFT Chain, a 'Chain of Chains', bridges physical infra with Web3, focusing on a DePIN platform that integrates storage, computing, edge CDN , and beyond.",
+    "explorer": "https://bscscan.com/token/0xf9dc0a2fb541c29026a798d116b2c6804da1caaa",
+    "type": "BEP20",
+    "symbol": "SFT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf9dc0a2fb541c29026a798d116b2c6804da1caaa"
+}

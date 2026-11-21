@@ -1,0 +1,11 @@
+{
+ "name": "HXS",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xf289B386aD38745e8AB34fff568f8D833e596A02",
+ "type": "BEP20",
+ "symbol": "HXS",
+ "decimals": 18,
+ "status": "active",
+ "id": "00xf289B386aD38745e8AB34fff568f8D833e596A02"
+}

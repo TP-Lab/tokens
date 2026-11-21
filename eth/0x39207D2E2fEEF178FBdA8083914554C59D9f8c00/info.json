@@ -1,0 +1,11 @@
+{
+ "name": "MultiPlanetary Inus",
+ "website": "https://www.aleo.org/",
+ "description": "MultiPlanetary Inus Where Applications Become Private.",
+ "explorer": "https://etherscan.io/token/0x39207D2E2fEEF178FBdA8083914554C59D9f8c00",
+ "type": "ERC20",
+ "symbol": "INUS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x39207D2E2fEEF178FBdA8083914554C59D9f8c00"
+}

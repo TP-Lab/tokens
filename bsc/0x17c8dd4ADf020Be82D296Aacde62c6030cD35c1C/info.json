@@ -1,0 +1,11 @@
+{
+ "name": "BJS Token",
+ "website": "https://bscscan.com/token/0x17c8dd4ADf020Be82D296Aacde62c6030cD35c1C",
+ "description": "BJS TOKEN.",
+ "explorer": "https://bscscan.com/token/0x17c8dd4ADf020Be82D296Aacde62c6030cD35c1C",
+ "type": "BEP20",
+ "symbol": "BJS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x17c8dd4ADf020Be82D296Aacde62c6030cD35c1C"
+}

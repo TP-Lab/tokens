@@ -1,0 +1,11 @@
+{
+ "name": "DBB Token",
+ "website": "http://web.dbbcoin.xyz/",
+ "description": "DBB hopes to create a complete game ecosystem that integrates game guessing, NFT, prophecy machine and mining for game lovers. With the help of blockchain technology, DBB builds the "Double Dragon Treasure Hunt" guessing game ecosystem without licensing, decentralization, fairness and transparency. Players can not only use their skills and knowledge to obtain game rewards, but also gain profits by purchasing, collecting and trading PLATFORM issued by DBB.",
+ "explorer": "https://bscscan.com/token/0xe49069E6c035C33cff59cEf2FF8C99171598ead9",
+ "type": "BEP20",
+ "symbol": "DBB",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xe49069E6c035C33cff59cEf2FF8C99171598ead9"
+}

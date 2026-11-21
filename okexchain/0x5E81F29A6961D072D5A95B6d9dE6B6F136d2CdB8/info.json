@@ -1,0 +1,11 @@
+{
+ "name": "PiKing",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x5E81F29A6961D072D5A95B6d9dE6B6F136d2CdB8",
+ "type": "KIP20",
+ "symbol": "PiKing",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5E81F29A6961D072D5A95B6d9dE6B6F136d2CdB8"
+} 

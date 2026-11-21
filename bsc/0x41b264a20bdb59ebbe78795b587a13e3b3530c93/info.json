@@ -1,0 +1,11 @@
+{
+  "name": "FIL AI",
+  "website": "http://filai.co/",
+  "description": "",
+  "explorer": "https://bscscan.com/address/0x41b264a20bdb59ebbe78795b587a13e3b3530c93",
+  "type": "BEP20",
+  "symbol": "FAI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x41b264a20bdb59ebbe78795b587a13e3b3530c93"
+}

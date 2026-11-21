@@ -1,0 +1,11 @@
+{
+ "name": "Artificial intelligence robot",
+ "website": "..",
+ "description": "Standard tokens on the BSC public chain..",
+ "explorer": "https://bscscan.com/token/0xd25eC6f91C91B7cd76EA811AC3f2930a74ef37d5",
+ "type": "BEP20",
+ "symbol": "AIT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd25eC6f91C91B7cd76EA811AC3f2930a74ef37d5"
+}

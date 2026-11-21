@@ -1,0 +1,11 @@
+{
+    "name": "GrimaceCoin",
+    "website": "https://www.toca.games",
+    "description": "Grimace Coin is a project affiliated with the popular character and icon "Grimace" from McDonald’s. This aims to create friendly interaction between multi-billion dollar companies with global influence, further expanding cryptocurrency development and acceptance. The project offers a connection to a video characterized symbol that can be recognized across the world.",
+    "explorer": "https://bscscan.com/address/0xC6759a4Fc56B3ce9734035a56B36e8637c45b77E",
+    "type": "BEP20",
+    "symbol": "Grimace",
+    "decimals": 18,
+    "status": "active",
+    "id": " 0xC6759a4Fc56B3ce9734035a56B36e8637c45b77E"
+   } 

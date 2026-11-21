@@ -1,0 +1,11 @@
+{
+ "name": "Mininum Guarantee",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xd3E6cbcEAbC67377C8237C129C06D180D914fF31",
+ "type": "BEP20",
+ "symbol": "MG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd3E6cbcEAbC67377C8237C129C06D180D914fF31"
+}

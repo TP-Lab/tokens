@@ -1,0 +1,11 @@
+{
+    "name": "MART TOKEN",
+    "website": "https://martonline.bond",
+    "description": "Mart Blockchain, building the largest digital currency application platform",
+    "explorer": "https://bscscan.com/address/0x667dE2dDA32C02f6658ec9d243adDc1ab6487059",
+    "type": "BEP20",
+    "symbol": "MART",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x667dE2dDA32C02f6658ec9d243adDc1ab6487059"
+}

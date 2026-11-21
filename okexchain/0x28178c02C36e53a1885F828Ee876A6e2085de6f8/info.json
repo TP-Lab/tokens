@@ -1,0 +1,11 @@
+{
+ "name": "Eternal coin",
+ "website": ".",
+ "description": "Ete是基于OK莲发行的代币",
+ "explorer": "https://www.oklink.com/zh-cn/oec/tokenAddr/ex19qtccqkrdef6rzzls28wsa4xugy9mehcw8wzs2",
+ "type": "KIP20",
+ "symbol": "Ete",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x28178c02C36e53a1885F828Ee876A6e2085de6f8"
+}

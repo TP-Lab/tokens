@@ -1,0 +1,11 @@
+{
+  "name": "FEG Token",
+  "website": "https://fegtoken.com/",
+  "description": "Building an ecosystem and passive income around a governance token.Trade your crypto assets using our non-custodial peer-to-peer trading protocol and earn a passive income with our asset-backed governance token.",
+  "explorer": "https://etherscan.io/token/0xbededDf2eF49E87037c4fb2cA34d1FF3D3992A11",
+  "type": "ERC20",
+  "symbol": "FEG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbededDf2eF49E87037c4fb2cA34d1FF3D3992A11"
+}

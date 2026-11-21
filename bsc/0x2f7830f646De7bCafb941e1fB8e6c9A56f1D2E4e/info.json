@@ -1,0 +1,11 @@
+{
+ "name": "Tops",
+ "website": ".",
+ "description": "Tops is a collectible value token designed to support community-autonomous DAO all-round governance tokens",
+ "explorer": "https://bscscan.com/token/0x2f7830f646De7bCafb941e1fB8e6c9A56f1D2E4e",
+ "type": "BSC20",
+ "symbol": "Tops",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2f7830f646De7bCafb941e1fB8e6c9A56f1D2E4e"
+}

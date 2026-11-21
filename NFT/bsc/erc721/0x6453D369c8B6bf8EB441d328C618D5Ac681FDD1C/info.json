@@ -1,0 +1,11 @@
+{
+ "name": "HPL",
+ "website": "https://hpc.earth/",
+ "description": "开心农场是一款首发在BSC智能生态链上的 Gamefi + Socialfi游戏，独具完全去中心化的NFT农场租赁合约，通过智能合约控制，安全可靠.",
+ "explorer": "https://bscscan.com/token/0x6453D369c8B6bf8EB441d328C618D5Ac681FDD1C",
+ "type": "ERC721",
+ "symbol": "HPL",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x6453D369c8B6bf8EB441d328C618D5Ac681FDD1C"
+}

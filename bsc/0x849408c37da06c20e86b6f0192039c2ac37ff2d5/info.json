@@ -1,0 +1,11 @@
+{
+ "name": "JOKER",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x849408c37da06c20e86b6f0192039c2ac37ff2d5",
+ "type": "BEP20",
+ "symbol": "JOKER",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x849408c37da06c20e86b6f0192039c2ac37ff2d5"
+}

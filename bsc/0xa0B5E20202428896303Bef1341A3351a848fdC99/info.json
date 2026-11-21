@@ -1,0 +1,11 @@
+{
+ "name": "Co-rich Community",
+ "website": "http://dapp.novatokens.net",
+ "description": "NOVA-NFT is the only NFT recognized and issued by the Co-rich community to provide investors with diversified configurations through intelligent research and judgment and automatic contract trading",
+ "explorer": "https://bscscan.com/token/0xa0B5E20202428896303Bef1341A3351a848fdC99",
+ "type": "BEP20",
+ "symbol": "NOVA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa0B5E20202428896303Bef1341A3351a848fdC99"
+}

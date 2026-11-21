@@ -1,0 +1,11 @@
+{
+  "name": "Kb Coin",
+  "website": "kbcoin.cc",
+  "description": "KB aims to create the world's most powerful adult short video platform and blockchain casino. KB Coin serves as the functional token of the KB platform, allowing holders to use it for rewarding favored content creators and sharing in the platform's earnings.",
+  "explorer": "https://bscscan.com/token/0xc626D62BDdb4e1d72535fe0092679517F5f3aa7c",
+  "type": "BEP20",
+  "symbol": "KB",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc626D62BDdb4e1d72535fe0092679517F5f3aa7c"
+}

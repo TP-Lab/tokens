@@ -1,0 +1,11 @@
+{
+    "name": "Acid",
+    "website": "https://0xacid.com/",
+    "description": "Acid protocol is a community-driven DeFi platform on Arbitrum for maximizing yields of native assets and ETH staking rewards with long-term holding and locking of $ACID tokens",
+    "explorer": "https://arbiscan.io/token/0x29C1EA5ED7af53094b1a79eF60d20641987c867e",
+    "type": "Arbitrum",
+    "symbol": "ACID",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x29C1EA5ED7af53094b1a79eF60d20641987c867e"
+   }

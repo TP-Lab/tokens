@@ -1,0 +1,11 @@
+{
+ "name": "VRMETA",
+ "website": "https://vrmeta.world",
+ "description": "Virtual Reality World In Metaverse",
+ "explorer": "https://etherscan.io/token/0x0bfc0b8a897db1681f34e7a705ad02035857ae3f",
+ "type": "ERC20",
+ "symbol": "VMT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0Bfc0b8a897Db1681F34e7A705AD02035857AE3f"
+}

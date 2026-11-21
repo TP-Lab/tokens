@@ -1,0 +1,11 @@
+{
+"name": "FreerT DAO",
+"website": "https://freert.co",
+"description": "FreerT DAO（FT）First of all, it will build a distributed blockchain autonomous organization that is completely created, acquired and distributed by community members. At the same time, it will develop into a platform that can help communities and companies to easily build DAO governance, a platform that helps users easily access Defi and future Web3 A bridge to the .0 world, a wider aggregated ecological portal platform..",
+"explorer": "https://bscscan.com/address/0xfFFa44790462B15FEf0cB7B34b9485FbFbf84A39",
+"type": "BEP20",
+"symbol": "FT",
+"decimals": 18,
+"status": "active",
+"id": "0xfFFa44790462B15FEf0cB7B34b9485FbFbf84A39"
+}

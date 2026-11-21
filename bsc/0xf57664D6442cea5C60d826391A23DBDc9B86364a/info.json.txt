@@ -1,0 +1,21 @@
+{
+
+"name": "CUPID",
+
+"website": "-",
+
+"description": "A Dapp based on BSC.",
+
+"explorer": "https://bscscan.com/token/0xf57664D6442cea5C60d826391A23DBDc9B86364a",
+
+"type": "BEP20",
+
+"symbol": "CUPID",
+
+"decimals": 18,
+
+"status": "active",
+
+"id": "0xf57664D6442cea5C60d826391A23DBDc9B86364a"
+
+}

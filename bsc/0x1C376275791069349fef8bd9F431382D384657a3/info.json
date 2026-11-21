@@ -1,0 +1,11 @@
+{
+ "name": "Monopoly Millionaire game",
+ "website": "http://app.mm-finance.net",
+ "description": "MMG project party aims to create a circular economic model through the capital power. In the future, this ecosystem will be jointly governed by the community. The blockchain investment direction will be decided by votes. The returns of investment will be added to the MMG ecosystem. All funds in the ecosystem are transparent. The project party is only responsible for the management of funds and will charge for fees. The project party does not get any other profit apart from the fund management fees. All investors have to publicly buy tokens in order to obtain the equity.",
+ "explorer": "https://bscscan.com/token/0x1c376275791069349fef8bd9f431382d384657a3",
+ "type": "BEP20",
+ "symbol": "MMG",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x1C376275791069349fef8bd9F431382D384657a3"
+} 

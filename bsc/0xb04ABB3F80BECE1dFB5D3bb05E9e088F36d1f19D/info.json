@@ -1,0 +1,11 @@
+{
+ "name": "Captain Punk PUNK",
+ "website": "https://www.abc4btc.com",
+ "description": "A leading game character for Metaverse developers and Game players",
+ "explorer": "https://bscscan.com/token/ 0xb04ABB3F80BECE1dFB5D3bb05E9e088F36d1f19D",
+ "type": "BEP20",
+ "symbol": "PUNK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb04ABB3F80BECE1dFB5D3bb05E9e088F36d1f19D"
+}

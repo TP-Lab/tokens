@@ -1,0 +1,11 @@
+{
+ "name": "L7",
+ "website": "http://www.l7.finance/",
+ "description": "L7 is a Web3 digital asset management and traffic aggregation platform.",
+ "explorer": "https://bscscan.com/address/0xcd1b51b87a8a7137d6421ba5a976225187a26777",
+ "type": "BEP20",
+ "symbol": "LSD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcd1b51b87a8a7137d6421ba5a976225187a26777"
+}

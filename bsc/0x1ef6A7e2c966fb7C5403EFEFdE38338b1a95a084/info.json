@@ -1,0 +1,11 @@
+{
+ "name": "Shield Protocol",
+ "website": "http://shieldex.io/",
+ "description": "Shield Protocol is the crypto-native solution to on-chain derivatives trading as well as a one-stop-shop for Web3 structured products.",
+ "explorer": "https://bscscan.com/token/0x1ef6a7e2c966fb7c5403efefde38338b1a95a084",
+ "type": "BEP20",
+ "symbol": "SLD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1ef6A7e2c966fb7C5403EFEFdE38338b1a95a084"
+}

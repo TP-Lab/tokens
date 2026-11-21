@@ -1,0 +1,11 @@
+{
+ "name": "MARS SZ",
+ "website": "https://marssz.finance",
+ "description": "Mars Coin is a series of MeMe tokens developed by the Shenzhou team to explore the universe and planets, and to help China's aerospace industry.",
+ "explorer": "https://bscscan.com/token/0x88bea8f79fce73c9f19d31fb441cb491b0799999",
+ "type": "BEP20",
+ "symbol": "MARS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x88Bea8F79FCE73c9F19D31Fb441cb491B0799999"
+}

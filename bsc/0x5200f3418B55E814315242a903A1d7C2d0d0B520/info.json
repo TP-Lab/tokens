@@ -1,0 +1,11 @@
+{
+ "name": "520",
+ "website": "https://bscscan.com/token/0x5200f3418B55E814315242a903A1d7C2d0d0B520",
+ "description": "520 TOKEN.",
+ "explorer": "https://bscscan.com/token/0x5200f3418B55E814315242a903A1d7C2d0d0B520",
+ "type": "BEP20",
+ "symbol": "520",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5200f3418B55E814315242a903A1d7C2d0d0B520"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Puffer2.0",
+  "website": "https://m.puffern.com",
+  "description": "Puffer2.0.",
+  "explorer": "https://bscscan.com/token/0x99ea0787004C8ABcbAA1e40B80Ce6d139075162d",
+  "type": "BEP20",
+  "symbol": "PFR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x99ea0787004C8ABcbAA1e40B80Ce6d139075162d"
+}

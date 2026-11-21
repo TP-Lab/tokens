@@ -1,0 +1,11 @@
+{
+ "name": "Dream Token",
+ "website": "http://drtyyz.com",
+ "description": "DRT作为DR元宇宙中泛用代币，可在DR元宇宙中自由流通。DRT发行量为1亿枚，通缩至1000万枚流通总量。",
+ "explorer": "https://bscscan.com/token/0x915f14001397dfbbFd6ecfaAfE15Cdb0980D5803",
+ "type": "BEP20",
+ "symbol": "DRT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x915f14001397dfbbFd6ecfaAfE15Cdb0980D5803"
+}

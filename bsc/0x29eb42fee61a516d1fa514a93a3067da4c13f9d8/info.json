@@ -1,0 +1,11 @@
+{
+ "name": "MetaversePro wsMeta",
+ "website": "https://metaverse.pro/",
+ "description": "wsMeta can use for (6,6)、defi lego and cross-chain defi.When you wrap your sMeta, it becomes wsMeta (wrapped staked Meta).When you unwrap your wsMeta, you receive sMeta (sMeta = wsMeta * index)",
+ "explorer": "https://bscscan.com/token/0x29eb42fee61a516d1fa514a93a3067da4c13f9d8",
+ "type": "BEP20",
+ "symbol": "wsMeta",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x29eb42fee61a516d1fa514a93a3067da4c13f9d8"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "N.S.Guild",
+ "website": "https://www.nsguild.net/guild",
+ "description": "Ns a decentralized (Dao) autonomous organization pass, issued by U. S. N. S. The Guild Fund, which holds an MSB financial license and has tens of thousands of members who believe in and practice the concept of “Group-ogether,”has been set up to invest in blockchain-based meta-universe virtual world games and NFT.",
+ "explorer": "https://bscscan.com/token/0x67aC307E2385e5ADd4e29289D32AdA68Cf4280EA",
+ "type": "BEP20",
+ "symbol": "NS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x67aC307E2385e5ADd4e29289D32AdA68Cf4280EA"
+}

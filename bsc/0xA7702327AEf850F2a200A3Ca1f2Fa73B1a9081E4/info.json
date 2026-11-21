@@ -1,0 +1,11 @@
+ {
+  "name": "CeringSwap Token",
+  "website": "https://ceringswap.org/",
+  "description": "CeringSwap's vision is to be a decentralized exchange driven entirely by community governance",
+  "explorer": "https://bscscan.com/address/0xA7702327AEf850F2a200A3Ca1f2Fa73B1a9081E4",
+  "type": "BEP20",
+  "symbol": "CNG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xA7702327AEf850F2a200A3Ca1f2Fa73B1a9081E4"
+}

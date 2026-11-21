@@ -1,0 +1,11 @@
+{
+ "name": "OMNISWAP TOKEN",
+ "website": "https://omniswap.io",
+ "description": "OMNISWAP is a Web3 decentralized incubation platform for global users based on BSC. It uses innovative encryption underlying technology, combined with DeFi protocol applications, and adopts liquid mining methods to create a decentralized DEFI+Swap ecosystem and Have finally become  wrong  the globalization problem, reconstruct the global trusted ecosystem, and help more high-quality Web3 projects become the next super unicorn project while helping the economic empowerment of the Comoros region.",
+ "explorer": "https://bscscan.com/token/0x8ce12f697088746a260ec8990dbde7a40a0a9b7c",
+ "type": "BEP20",
+ "symbol": "OMNI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8ce12f697088746a260ec8990dbde7a40a0a9b7c"
+}

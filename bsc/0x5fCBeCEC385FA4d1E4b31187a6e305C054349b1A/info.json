@@ -1,0 +1,11 @@
+{
+ "name": "SWKCoin",
+ "website": "-",
+ "description": "SWKCoin is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x5fCBeCEC385FA4d1E4b31187a6e305C054349b1A",
+ "type": "BEP20",
+ "symbol": " SWKCoin ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5fCBeCEC385FA4d1E4b31187a6e305C054349b1A"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "SW",
+ "website": "",
+ "description": "sw e token is a new token on Binance Smart Chain network. We want to help animals, forests and humans that be hurt by sw.",
+ "explorer": "https://bscscan.com/token/0xFA463f47AB2b941E5231b75804fAE89ECf6E3F54",
+ "type": "BEP20",
+ "symbol": "SW ",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xFA463f47AB2b941E5231b75804fAE89ECf6E3F54"
+}

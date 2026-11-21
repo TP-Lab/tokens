@@ -1,0 +1,11 @@
+{
+  "name": "Compound Exponential Growth Token",
+  "website": "https://twitter.com/CEGT_Official",
+  "description": "CEGT, an innovative DeFi project, offers high returns & fair USDT dividends via smart contracts, ensuring timely & fair payouts. It utilizes advanced encryption for fund security & leverages decentralization for stability. Holding CEGT tokens enables community governance & autonomy.",
+  "explorer": "https://bscscan.com/token/0xe079b4cd782d6c950daa821a57a3188086c96666",
+  "type": "BEP20",
+  "symbol": "CEGT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xE079b4CD782d6c950DaA821a57a3188086C96666"
+}

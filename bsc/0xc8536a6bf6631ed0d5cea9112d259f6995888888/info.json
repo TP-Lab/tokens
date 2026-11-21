@@ -1,0 +1,11 @@
+{
+ "name": "BotChain  Token",
+ "website": "https://bscscan.com/token/0xc8536a6bf6631ed0d5cea9112d259f6995888888",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xc8536a6bf6631ed0d5cea9112d259f6995888888",
+ "type": "BEP20",
+ "symbol": "BC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc8536A6Bf6631ED0d5ceA9112D259f6995888888"
+}

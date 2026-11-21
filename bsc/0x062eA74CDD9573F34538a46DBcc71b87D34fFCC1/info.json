@@ -1,0 +1,11 @@
+{
+ "name": "Astronaut Game",
+ "website": "https://astronautgame.net",
+ "description": "Astronaut Game is to mock the madness of the cryptocurrency market. Astronaut Game is everywhere, after buying AstGame Coin you get nothing but AstronautGame.",
+ "explorer": "https://bscscan.com/token/0x062eA74CDD9573F34538a46DBcc71b87D34fFCC1",
+ "type": "BEP20",
+ "symbol": "AstronautGame",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x062eA74CDD9573F34538a46DBcc71b87D34fFCC1"
+}

@@ -1,0 +1,13 @@
+{
+ "name": "GodDoge.org",
+ "website": "https://goddoge.org",
+ "description": " 
+GodDoge is the world's first deflationary, shared mining, liquidity mining token. Since each transaction is a single destruction, the tokens in circulation will decrease over time.",
+ "explorer": "https://bscscan.com/token/0x094CbA7672882289b7fC32A4B1D2BDc84E226d4E",
+ "type": "BEP20",
+ "symbol": " GodDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x094CbA7672882289b7fC32A4B1D2BDc84E226d4E"
+}
+   

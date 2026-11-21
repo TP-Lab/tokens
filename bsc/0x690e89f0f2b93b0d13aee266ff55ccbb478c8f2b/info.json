@@ -1,0 +1,11 @@
+{
+   "name": "DragonFruit Token",
+   "website": "http://dft.zone",
+   "description": "Dragon Fruit, in a completely DAO autonomous way, opens a new web3 chapter, and enjoys the benefits and fun brought by Defi while playing.",
+   "explorer": "https://bscscan.com/token/0x690e89f0f2b93b0d13aee266ff55ccbb478c8f2b",
+   "type": "BEP20",
+   "symbol": "DFT",
+   "decimals": 18,
+   "status": "active",
+   "id": "0x690e89f0f2b93b0d13aee266ff55ccbb478c8f2b"
+}

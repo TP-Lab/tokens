@@ -1,0 +1,9 @@
+{
+ "name": "ETT",
+ "explorer": "https://bscscan.com/token/0xd3172abc420b002a98cb043db914f100d893e294",
+ "type": "BEP20",
+ "symbol": "ETT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD3172AbC420b002A98cB043Db914f100d893E294"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PartyAsset",
+  "website": "https://chainparty.xyz",
+  "description": "Chain Party is a new concept degen gaming in the space. Space Explorers can engage in daily PvP missions, participate in party-to-earn & share-to earn opportunities, and join degen social events within the space. The platform also fosters collaboration with bluechip Web3 communities, gaming guilds, and DAOs, providing opportunities for engagement and growth.",
+  "explorer": "https://bscscan.com/token/0x061D746B6B7eD8980ad74c14CcF6B4e9562714c6",
+  "type": "BEP20",
+  "symbol": "PA",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x061D746B6B7eD8980ad74c14CcF6B4e9562714c6"
+}

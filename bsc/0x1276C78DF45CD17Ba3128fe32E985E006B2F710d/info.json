@@ -1,0 +1,11 @@
+{
+ "name": "STAR Token",
+ "website": "-",
+ "description": "STAR Token is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x1276C78DF45CD17Ba3128fe32E985E006B2F710d",
+ "type": "BEP20",
+ "symbol": "STAR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1276C78DF45CD17Ba3128fe32E985E006B2F710d"
+}

@@ -1,0 +1,21 @@
+{
+
+ "name": "GOLD",
+
+ "website": "https://www.curtisswords.xyz/",
+
+ "description": "GOL is the Curtis Sword‘s token in-game, players'll earn GOL in the game.",
+
+ "explorer": "https://bscscan.com/token/0x4eEE88962eb0Af62C3EB5e8436aA4962995c528F",
+
+ "type": "BEP20",
+
+ "symbol": "GOL",
+
+ "decimals": 18,
+
+ "status": "active",
+
+ "id": "0x4eEE88962eb0Af62C3EB5e8436aA4962995c528F"
+
+}

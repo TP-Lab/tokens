@@ -1,0 +1,11 @@
+{
+    "name": "AIGC GPT",
+    "website": "https://gpt123.io",
+    "description": "A brand new economic model that assists Defi on its path to success.",
+    "explorer": "https://bscscan.com/token/0xdcb3ae3c5da2c8fa2c45b5719137b0ef6306e712",
+    "type": "BEP20",
+    "symbol": "GPT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xDcb3AE3c5da2C8FA2C45b5719137B0eF6306E712"
+   }

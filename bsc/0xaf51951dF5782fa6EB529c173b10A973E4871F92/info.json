@@ -1,0 +1,11 @@
+{
+ "name": "MSN",
+ "website": "https://bscscan.com/token/0xaf51951dF5782fa6EB529c173b10A973E4871F92",
+ "description": "MSN TOKEN.",
+ "explorer": "https://bscscan.com/token/0xaf51951dF5782fa6EB529c173b10A973E4871F92",
+ "type": "BEP20",
+ "symbol": "MSN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaf51951dF5782fa6EB529c173b10A973E4871F92"
+}

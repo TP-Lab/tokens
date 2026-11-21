@@ -1,0 +1,11 @@
+{
+ "name": "Shell",
+ "website": "https://bscscan.com/token/0xd4f7F853862CD8B4AB3b9e8C61aa0C131Ee5349D",
+ "description": "Shell TOKEN.",
+ "explorer": "https://bscscan.com/token/0xd4f7F853862CD8B4AB3b9e8C61aa0C131Ee5349D",
+ "type": "BEP20",
+ "symbol": "Shell",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd4f7F853862CD8B4AB3b9e8C61aa0C131Ee5349D"
+}

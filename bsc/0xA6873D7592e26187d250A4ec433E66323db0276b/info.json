@@ -1,0 +1,11 @@
+{
+ "name": "GCAFINANCE",
+ "website": "-",
+ "description": "GCAFINANCE is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xA6873D7592e26187d250A4ec433E66323db0276b",
+ "type": "BEP20",
+ "symbol": "GCA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA6873D7592e26187d250A4ec433E66323db0276b"
+}

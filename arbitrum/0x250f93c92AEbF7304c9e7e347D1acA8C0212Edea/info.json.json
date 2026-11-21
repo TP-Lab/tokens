@@ -1,0 +1,11 @@
+{
+  "name": "H20",
+  "website": "https://app.haya.finance/",
+  "description": "$H20 is Haya’s Zero-Fee on-chain ETF, giving you access to the top 20 Cryptocurrencies with just one token.",
+  "explorer": "https://arbiscan.io/token/0x250f93c92aebf7304c9e7e347d1aca8c0212edea",
+  "type": "ERC20",
+  "symbol": "H20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x250f93c92AEbF7304c9e7e347D1acA8C0212Edea"
+}

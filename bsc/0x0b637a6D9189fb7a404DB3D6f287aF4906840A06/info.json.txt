@@ -1,0 +1,11 @@
+{
+ "name": "Bitcoin-314",
+ "website": "https://x.com/bit_cow56302?s=09",
+ "description": "Bitcoin-314 is the first fully public welfare issuance token created based on BEP20, with 100% fair launch and a unique price tolerance mechanism, effectively improving user experience and bringing more imagination space and huge growth potential for ordinary players in the future!",
+ "explorer": "https://bscscan.com/token/0x0b637a6D9189fb7a404DB3D6f287aF4906840A06",
+ "type": "BEP20",
+ "symbol": "Bitcoin-314",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0b637a6D9189fb7a404DB3D6f287aF4906840A06"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "PLANET OF THE CATS",
+ "website": "https://poc.pet/",
+ "description": "猫猫星球是一款猫猫养成类和猫捉老鼠的游戏",
+ "explorer": "https://bscscan.com/token/0x4b909e6a5f6200c85777c0e05d6b94ef99eeea23",
+ "type": "BEP20",
+ "symbol": "POC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4b909E6a5f6200c85777c0e05D6b94Ef99EEeA23"
+}

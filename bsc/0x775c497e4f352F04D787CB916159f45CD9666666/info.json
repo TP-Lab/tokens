@@ -1,0 +1,11 @@
+{ 
+"name": "HXH",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/address/0x775c497e4f352F04D787CB916159f45CD9666666",
+"type": "BEP20",
+"symbol": "HXH",
+"decimals": 18,
+"status": "active",
+"id": "0x775c497e4f352F04D787CB916159f45CD9666666"
+}

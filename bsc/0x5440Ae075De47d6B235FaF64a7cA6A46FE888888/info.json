@@ -1,0 +1,11 @@
+{
+    "name": "QMX",
+    "website": "https://qmxcoin.com/",
+    "description": "QMX is a strong consensus eco-coin in Qixing ecology, which can motivate community members to participate in ecological construction. Community members can participate in various ecological projects through QMX and get more revenue opportunities.",
+    "explorer": "https://www.bscscan.com/token/0x5440Ae075De47d6B235FaF64a7cA6A46FE888888",
+    "type": "BEP20",
+    "symbol": "QMX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5440Ae075De47d6B235FaF64a7cA6A46FE888888"
+   }

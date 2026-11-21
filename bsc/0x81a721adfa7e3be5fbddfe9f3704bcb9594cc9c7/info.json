@@ -1,0 +1,11 @@
+{
+    "name": "Childhood Game",
+    "website": "https://childhoodgame.io/",
+    "description": "CG代币功能ChildhoodGame（CG）是针对经典端游进行区块链改造的孵化平台发行的社区治理代币。目的搭建统一的Gamefi登录平台，为孵化项目提供技术、渠道、经济模型等资源的支持。",
+    "explorer": "https://bscscan.com/token/0x81a721adfa7e3be5fbddfe9f3704bcb9594cc9c7",
+    "type": "BEP20",
+    "symbol": "CG",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x81a721adfa7e3be5fbddfe9f3704bcb9594cc9c7"
+   }

@@ -1,0 +1,11 @@
+{
+    "name": "BTC",
+    "website": "",
+    "description": "Decentralized trading applications",
+    "explorer": "https://bscscan.com/address/0xF35CAb1Ccd49b8D1Aad48b4e8F257760AEBb6E2A",
+    "type": "BEP20",
+    "symbol": "BTC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF35CAb1Ccd49b8D1Aad48b4e8F257760AEBb6E2A"
+   }

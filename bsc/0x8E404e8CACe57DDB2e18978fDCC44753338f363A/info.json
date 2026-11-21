@@ -1,0 +1,11 @@
+{
+    "name": "AORcoin",
+    "website": "https://home.aorcoins.com",
+    "description": "is a Web3.0 meta-universe ecological project invested by Singapore's Du Capital Founder",
+    "explorer": "https://bscscan.com/token/0x8e404e8cace57ddb2e18978fdcc44753338f363a",
+    "type": "BEP20",
+    "symbol": "AOR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8E404e8CACe57DDB2e18978fDCC44753338f363A"
+}

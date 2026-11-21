@@ -1,0 +1,11 @@
+{ 
+"name": "ACT TOKEN",
+"website": "https://www.tokenpocket.pro",
+"description": "Act is an important key to open a part of the consensus ecosystem. With act, you can get greater returns in the consensus ecosystem.",
+"explorer": "https://bscscan.com/address/0x6AAe40cFb2A843C96103249F3FED777fC33CdfF4",
+"type": "BEP20",
+"symbol": "ACT",
+"decimals": 18,
+"status": "active",
+"id": "0x6AAe40cFb2A843C96103249F3FED777fC33CdfF4"
+}

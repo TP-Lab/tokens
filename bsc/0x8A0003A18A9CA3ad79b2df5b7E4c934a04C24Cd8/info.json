@@ -1,0 +1,11 @@
+{
+ "name": "FaCaiNiu",
+ "website": "-",
+ "description": "FaCaiNiu is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x8A0003A18A9CA3ad79b2df5b7E4c934a04C24Cd8",
+ "type": "BEP20",
+ "symbol": " FCN ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8A0003A18A9CA3ad79b2df5b7E4c934a04C24Cd8"
+}

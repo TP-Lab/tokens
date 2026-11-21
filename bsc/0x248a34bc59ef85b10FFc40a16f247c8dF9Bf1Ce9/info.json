@@ -1,0 +1,11 @@
+{
+ "name": "Vulcan dog",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x248a34bc59ef85b10FFc40a16f247c8dF9Bf1Ce9",
+ "type": "BEP20",
+ "symbol": "VCD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x248a34bc59ef85b10FFc40a16f247c8dF9Bf1Ce9"
+}

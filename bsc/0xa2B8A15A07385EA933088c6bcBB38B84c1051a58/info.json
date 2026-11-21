@@ -1,0 +1,11 @@
+{
+    "name": "LaEeb",
+    "website": "http://www.laeebworldcup.com/",
+    "description": "LaEeb is a fair, open and transparent fan DAO community that aggregates football lovers around the world.",
+    "explorer": "https://bscscan.com/token/0xa2B8A15A07385EA933088c6bcBB38B84c1051a58",
+    "type": "BEP20",
+    "symbol": "LaEeb",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa2B8A15A07385EA933088c6bcBB38B84c1051a58"
+   }

@@ -1,0 +1,11 @@
+{
+ "name": "LUNADAO",
+ "website": "https://lunadao.tech/",
+ "description": "Revive LUNA World. Define infinite possibilities.",
+ "explorer": "https://bscscan.com/token/0xfaDC5454CC9Df7D5B1E1c292Ccab3B91e25ff7b8",
+ "type": "BEP20",
+ "symbol": "LUNADAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfaDC5454CC9Df7D5B1E1c292Ccab3B91e25ff7b8"
+}

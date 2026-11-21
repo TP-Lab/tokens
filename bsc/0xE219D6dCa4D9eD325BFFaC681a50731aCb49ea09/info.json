@@ -1,0 +1,11 @@
+{
+ "name": "Open Domain-DAO",
+ "website": "https://opendomaindao.com",
+ "description": "Open Domain DAO is a decentralized autonomous venture capital fund: By pooling capital and investors, deploying investment plans, the Open Domain DAO Funding Funds”, DAO means investment management portfolio.",
+ "explorer": "https://bscscan.com/token/0xE219D6dCa4D9eD325BFFaC681a50731aCb49ea09",
+ "type": "BEP20",
+ "symbol": "ODO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE219D6dCa4D9eD325BFFaC681a50731aCb49ea09"
+}

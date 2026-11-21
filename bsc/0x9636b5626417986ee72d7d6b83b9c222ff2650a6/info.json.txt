@@ -1,0 +1,11 @@
+{
+ "name": " BNBking ",
+"website": "https://bscscan.com/token/0x9636b5626417986Ee72d7d6b83B9c222FF2650a6",
+ "description": " BSC,  BNBking",
+ "explorer": "https://bscscan.com/token/0x9636b5626417986Ee72d7d6b83B9c222FF2650a6",
+ "type": "BEP20",
+ "symbol": " BNBking",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9636b5626417986Ee72d7d6b83B9c222FF2650a6"
+}

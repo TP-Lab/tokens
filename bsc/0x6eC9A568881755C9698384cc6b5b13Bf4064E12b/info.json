@@ -1,0 +1,11 @@
+{
+ "name": "Optimus X",
+ "website": "https://optimusx.xyz",
+ "description": "Inspired by Elon's Robot, we are a meme community built around all things Optimus X.",
+ "explorer": "https://bscscan.com/token/0x6eC9A568881755C9698384cc6b5b13Bf4064E12b",
+ "type": "BEP20",
+ "symbol": "OPX",
+ "decimals": 9,
+ "status": "active",
+ "id": 0x6eC9A568881755C9698384cc6b5b13Bf4064E12b
+}

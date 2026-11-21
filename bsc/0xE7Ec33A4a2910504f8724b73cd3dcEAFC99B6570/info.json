@@ -1,0 +1,11 @@
+{
+ "name": "HPG Token",
+ "website": "-",
+ "description": "HPG Token is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xE7Ec33A4a2910504f8724b73cd3dcEAFC99B6570",
+ "type": "BEP20",
+ "symbol": "HPG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE7Ec33A4a2910504f8724b73cd3dcEAFC99B6570"
+}

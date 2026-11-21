@@ -1,0 +1,11 @@
+{ 
+"name": "Aitetoken",
+"website": "https://www.attswap.com",
+"description": "ATT, full name: Aitetoken, aims to awaken human beings to enhance their awareness of environmental protection, encourage more people to learn the knowledge of garbage classification and promote the concept of green environmental protection. The environmental protection ecosystem is a habit-forming application dedicated to the classification of environmental protection waste. It solves the storage and processing of environmental protection data through blockchain and Internet of Things technologies.",
+"explorer": "https://bscscan.com/token/0xD727972b540dF5FD3b7bea2145313C2146D576e6",
+"type": "BEP20",
+"symbol": "ATT",
+"decimals": 18,
+"status": "active",
+"id": "0xD727972b540dF5FD3b7bea2145313C2146D576e6"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "JOE",
+ "website": "https://bidenmeme.vip",
+ "description": "Biden finish the job.",
+ "explorer": "https://etherscan.io/address/0x400Bc4F1Ee114537B4Fec3B08810ACfe117e7746",
+ "type": "ERC20",
+ "symbol": "BIDEN",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x400Bc4F1Ee114537B4Fec3B08810ACfe117e7746"
+}

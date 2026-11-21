@@ -1,0 +1,11 @@
+{
+ "name": "BC",
+ "website": "-",
+ "description": "BC is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xa68cdD146a67AdDED2f63B4aB286eDE09DD4cecc",
+ "type": "BEP20",
+ "symbol": "BC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa68cdD146a67AdDED2f63B4aB286eDE09DD4cecc"
+}

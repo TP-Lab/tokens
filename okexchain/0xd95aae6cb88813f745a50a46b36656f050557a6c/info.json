@@ -1,0 +1,13 @@
+﻿{
+ "name": "OKTPlay",
+ "website": "https://www.oktplay.com",
+ "description": "Your intelligentized DeFi butler，an one-stop decentralized service supplier. Integrating blockchain data especially DeFi date into one comprehensive DAO platform to make investment easier.IFO listed by Jswap.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xd95aae6cb88813f745a50a46b36656f050557a6c",
+ "type": "KIP20",
+ "symbol": "OKTP",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd95aae6cb88813f745a50a46b36656f050557a6c"
+}
+
+

@@ -1,0 +1,11 @@
+{
+ "name": "AntKing",
+ "website": "https://mall.zcbwjs.com/AK",
+ "description": "The Ant Foundation of Singapore and the Ant Community will develop the Ant King English (Ant King) token AK in the Defi field on the BSC chain in January 2022, with a total circulation of 3,888 pieces, and will never be issued more. The Ant Foundation of Singapore developed an ant business system, similar in style to Meituan, Didi Taxi, Taobao, etc. And we have a real ABS consumption value-added system, consumers can consume value-added online and offline stores, so that all consumers can consume without pain.",
+ "explorer": "https://bscscan.com/token/0x831B3Fa4507Be457889BC0333770eda5fe280599",
+ "type": "BEP20",
+ "symbol": "AK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x831B3Fa4507Be457889BC0333770eda5fe280599"
+}

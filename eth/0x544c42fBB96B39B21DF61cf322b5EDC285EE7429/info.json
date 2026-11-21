@@ -1,0 +1,11 @@
+{
+    "name": "INSUR Token",
+    "website": "https://www.insurace.io/",
+    "description": "a leading decentralized multi-chain protocol that provides reliable, robust and secure risk protection services to DeFi users, allowing them to protect their investment funds against various risks. ",
+    "explorer": "https://etherscan.io/token/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+    "type": "ERC20",
+    "symbol": "INSUR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429"
+   }

@@ -1,0 +1,11 @@
+{
+ "name": "FoolsDoge token",
+ "website": "-",
+ "description": "FoolsDoge is a Decentralized Meme Token that generated DOGE reward to its hodlers,Developer had burned the rest of the token to ensure this is 100% community-owned project!",
+ "explorer": "https://bscscan.com/token/0x76407BB1dEfc9920Fe66BfDC9d33E1cBa8889d45",
+ "type": "BEP20",
+ "symbol": "FoolsDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x76407BB1dEfc9920Fe66BfDC9d33E1cBa8889d45"
+} 

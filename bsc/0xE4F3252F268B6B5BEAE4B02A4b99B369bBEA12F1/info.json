@@ -1,0 +1,11 @@
+{
+  "name": "Enigma Gaming",
+  "website": "https://enigma-gaming.io/",
+  "description": "We will be the first decentralized online esports arena.",
+  "explorer": "https://bscscan.com/token/0xE4F3252F268B6B5BEAE4B02A4b99B369bBEA12F1",
+  "type": "BEP20",
+  "symbol": "ENG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xE4F3252F268B6B5BEAE4B02A4b99B369bBEA12F1"
+}

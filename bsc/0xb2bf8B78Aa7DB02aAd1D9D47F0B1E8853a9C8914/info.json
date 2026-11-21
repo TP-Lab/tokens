@@ -1,0 +1,12 @@
+{
+ "name": "Uladoge",
+ "website": "",
+ "description": "Uladoge token is a new token on Binance Smart Chain network. We want to help animals, forests and humans that be hurt by wildfires.",
+ "explorer": "https://bscscan.com/token/0xb2bf8B78Aa7DB02aAd1D9D47F0B1E8853a9C8914",
+ "type": "BEP20",
+ "symbol": "Uladoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xb2bf8B78Aa7DB02aAd1D9D47F0B1E8853a9C8914
+"
+}

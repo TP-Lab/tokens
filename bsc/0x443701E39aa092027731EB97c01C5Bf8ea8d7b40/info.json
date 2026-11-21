@@ -1,0 +1,11 @@
+{ 
+"name": "Sheld Token",
+"website": "",
+"description": "SHELD, the shield is indestructible. SheldToken promotes the enthusiasm of each role of the consensus platform through effective and reasonable economic model and perfect incentive mechanism. The creation, dissemination, consumption and use of users will take SheldToken as incentive reward, improve the enthusiasm, enhance the platform activity, so as to achieve the maximum value. Tokens: SheldToken are the core asset of the Consensual ecosystem, totaling 3.99 million.",
+"explorer": "https://bscscan.com/address/0x443701E39aa092027731EB97c01C5Bf8ea8d7b40",
+"type": "BEP20",
+"symbol": "SHELD",
+"decimals": 18,
+"status": "active",
+"id": "0x443701E39aa092027731EB97c01C5Bf8ea8d7b40"
+}

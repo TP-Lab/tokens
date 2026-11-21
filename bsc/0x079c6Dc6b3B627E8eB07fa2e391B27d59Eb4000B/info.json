@@ -1,0 +1,11 @@
+{
+ "name": "BABY RATS Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x079c6dc6b3b627e8eb07fa2e391b27d59eb4000b",
+ "type": "BEP20",
+ "symbol": "BABYRATS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x079c6dc6b3b627e8eb07fa2e391b27d59eb4000b"
+}

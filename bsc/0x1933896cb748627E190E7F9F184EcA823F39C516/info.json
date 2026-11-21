@@ -1,0 +1,11 @@
+{
+ "name": "ShenZhou16",
+ "website": "https://shenzhou.finance/",
+ "description": "ShenZhou(ShenZhou16) is the MeMe token of China Aerospace Shenzhou 16, helping China's aerospace industry. ",
+ "explorer": "https://bscscan.com/token/0x1933896cb748627e190e7f9f184eca823f39c516",
+ "type": "BEP20",
+ "symbol": "ShenZhou",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1933896cb748627E190E7F9F184EcA823F39C516"
+}

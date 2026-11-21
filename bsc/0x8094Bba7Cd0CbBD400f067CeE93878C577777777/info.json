@@ -1,0 +1,11 @@
+{
+ "name": "7X",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x8094Bba7Cd0CbBD400f067CeE93878C577777777",
+ "type": "BEP20",
+ "symbol": "7X",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8094Bba7Cd0CbBD400f067CeE93878C577777777"
+}

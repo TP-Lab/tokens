@@ -1,0 +1,11 @@
+{
+    "name": "Ant Agent",
+    "website": "https://www.ant-corps.com/",
+    "description": "Ant agent open source, independent decentralized application.",
+    "explorer": "https://bscscan.com/token/0x43e52bB9b4Cf91cE2D127810622A83E42ceE1D71",
+    "type": "BEP20",
+    "symbol": "ANTG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x43e52bB9b4Cf91cE2D127810622A83E42ceE1D71"
+   }

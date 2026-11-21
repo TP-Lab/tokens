@@ -1,0 +1,11 @@
+{ 
+"name": "Ethereum Dao (ETHD)",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/address/0xEdadFC60402Ec6466F317a6FBDe66CC0C6Eaec20",
+"type": "BEP20",
+"symbol": "ETHD",
+"decimals": 18,
+"status": "active",
+"id": "0xEdadFC60402Ec6466F317a6FBDe66CC0C6Eaec20"
+}

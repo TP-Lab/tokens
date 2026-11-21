@@ -1,0 +1,11 @@
+{
+ "name": "BabyRabbit",
+ "website": "..",
+ "description": "Very Lovely Rabbit, Hope can be lucky all the time",
+ "explorer": "https://bscscan.com/token/0x850cc3C27E6CF58ea83bB015c91e0Af021603E7d",
+ "type": "BEP20",
+ "symbol": “BabyRabbit",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x850cc3C27E6CF58ea83bB015c91e0Af021603E7d"
+}

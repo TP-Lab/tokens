@@ -1,0 +1,11 @@
+{
+ "name": "ShibSir token",
+ "website": "-",
+ "description": "Mr. Shibi is a Dao community self-governing project, which pays dividends to Shib.",
+ "explorer": "https://bscscan.com/token/0xb7b965269351Df731E1f855c7b9aD1FA5a3B6594",
+ "type": "BEP20",
+ "symbol": "ShibSir",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb7b965269351Df731E1f855c7b9aD1FA5a3B6594"
+}

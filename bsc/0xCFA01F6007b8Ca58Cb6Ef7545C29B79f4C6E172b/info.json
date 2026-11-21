@@ -1,0 +1,11 @@
+{
+ "name": "SWDog",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xCFA01F6007b8Ca58Cb6Ef7545C29B79f4C6E172b",
+ "type": "BSC20",
+ "symbol": "SWDog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCFA01F6007b8Ca58Cb6Ef7545C29B79f4C6E172b"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "MBK",
+    "website": "",
+    "description": "Decentralized trading applications",
+    "explorer": "https://bscscan.com/token/0x3E49bf118f8f92Ae4E15512a6bFaf28935Bc7082",
+    "type": "BEP20",
+    "symbol": "MBK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3E49bf118f8f92Ae4E15512a6bFaf28935Bc7082"
+   }

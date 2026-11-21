@@ -1,0 +1,11 @@
+{ 
+"name": "BAB",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0xA9DAF6cF42be8341988c1c0A474A6544052e60e6",
+"type": "BEP20",
+"symbol": "BAB",
+"decimals": 18,
+"status": "active",
+"id": "0xA9DAF6cF42be8341988c1c0A474A6544052e60e6"
+}

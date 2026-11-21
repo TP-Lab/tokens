@@ -1,0 +1,11 @@
+{
+ "name": "CDS",
+ "website": "-",
+ "description": "CDS is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x7045e3f0456DaAD3176e1B51cbd94e86B44CA99D",
+ "type": "BEP20",
+ "symbol": " CDS ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7045e3f0456DaAD3176e1B51cbd94e86B44CA99D"
+}

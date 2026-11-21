@@ -1,0 +1,11 @@
+{
+    "name": "XY Finance",
+    "website": "https://xy.finance/",
+    "description": "XY Finance is the best one-stop cross-chain aggregator for DeFi and Metaverse. Our mission is to facilitate the seamless and secure transfer of on-chain assets, including tokens, NFTs, and more, between all blockchains.",
+    "explorer": "https://etherscan.io/token/0x77777777772cf0455fb38ee0e75f38034dfa50de",
+    "type": "ERC20",
+    "symbol": "XY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x77777777772cf0455fB38eE0e75f38034dFa50DE"
+}

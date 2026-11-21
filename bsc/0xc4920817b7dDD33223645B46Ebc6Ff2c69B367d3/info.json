@@ -1,0 +1,11 @@
+{
+  "name": "Link Token",
+  "website": "https://www.interlinkage.cc/h5",
+  "description": "INTERLINKAGE(Link) is built by the global DeFi DAO Alliance with the DAO operation concept, including NFT exchange, NFT mining system, new Web3.0 track, community ecological governance, DEFI finance and other ecological models, through its pioneering economic model efforts Set off a new blockchain revolution, break the unfair rules in the previous industry, and create a completely fair, open, free and autonomous DAO ecological community",
+  "explorer": "https://bscscan.com/token/0xc4920817b7dDD33223645B46Ebc6Ff2c69B367d3",
+  "type": "BEP20",
+  "symbol": "LINK",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xc4920817b7dDD33223645B46Ebc6Ff2c69B367d3"
+}

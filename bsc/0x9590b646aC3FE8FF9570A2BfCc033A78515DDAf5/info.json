@@ -1,0 +1,11 @@
+{
+ "name": "Flashy",
+ "website": "https://www.flashytoken.com/",
+ "description": "Flashy for short FLA, is a decentralized blockchain digital asset based on Binance Chain BscScan. ",
+ "explorer": "https://bscscan.com/token/0x9590b646aC3FE8FF9570A2BfCc033A78515DDAf5",
+ "type": "BEP20",
+ "symbol": "FLA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9590b646aC3FE8FF9570A2BfCc033A78515DDAf5"
+} 

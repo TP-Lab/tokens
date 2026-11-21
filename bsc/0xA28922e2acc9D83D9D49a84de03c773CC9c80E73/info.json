@@ -1,0 +1,11 @@
+{
+	"name": "CBTT",
+	"website": "https://www.cbttglobal.top",
+	"description": "Carbon neutral blockchain solutions",
+	"explorer": "https://bscscan.com/token/0xA28922e2acc9D83D9D49a84de03c773CC9c80E73",
+	"type": "BEP20",
+	"symbol": "CBTT",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xA28922e2acc9D83D9D49a84de03c773CC9c80E73"
+ }

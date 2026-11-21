@@ -1,0 +1,11 @@
+{
+  "name": "SPC",
+  "website": "https://spcweb.xyz",
+  "description": "Community governance token",
+  "explorer": "https://tronscan.io/#/token20/TUG2ARTqo97echdMZQYghRa1Gbnzsoaq1z",
+  "type": "TRC20",
+  "symbol": "SPC",
+  "decimals": 18,
+  "status": "active",
+  "id": "TUG2ARTqo97echdMZQYghRa1Gbnzsoaq1z"
+}

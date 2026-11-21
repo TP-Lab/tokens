@@ -1,0 +1,11 @@
+{
+ "name": "SBM",
+ "website": "-",
+ "description": "Let consensuses participate and achieve common prosperity.",
+ "explorer": "https://bscscan.com/address/0x71b53C2DA92a2C888110a54c6548CAC86f6074AC",
+ "type": "BEP20",
+ "symbol": "SBM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x71b53C2DA92a2C888110a54c6548CAC86f6074AC"
+}

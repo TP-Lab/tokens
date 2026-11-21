@@ -1,0 +1,11 @@
+{
+ "name": "Apache NFT SalesRoom",
+ "website": ".",
+ "description": "Apache NFT SalesRoom is a completely decentralized cross-chain NFT exchange. Users have complete control and are not affected by any central organization.",
+ "explorer": "https://bscscan.com/token/0xAbE776435f7459E2f5bA773Bfb753ed19a053dD0",
+ "type": "BEP20",
+ "symbol": "ASN",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xAbE776435f7459E2f5bA773Bfb753ed19a053dD0"
+}

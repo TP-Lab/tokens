@@ -1,0 +1,11 @@
+{
+ "name": "MEEG",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xb12e9beb1eb25f6c50e1b05039d58fe696dd9393",
+ "type": "BEP20",
+ "symbol": "MEEG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb12e9beb1eb25f6c50e1b05039d58fe696dd9393"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DFH coins",
+  "website": "https://www.defidaodapp.com",
+  "description": "DFH has a circulation of 30 million and is the governance token of the DFD community, mainly used for community governance and ecological development.",
+  "explorer": "https://bscscan.com/token/0x0CAd9EFb503144fC4e7F507CC612E71313877fCF",
+  "type": "BEP20",
+  "symbol": "DFH",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0CAd9EFb503144fC4e7F507CC612E71313877fCF"
+}

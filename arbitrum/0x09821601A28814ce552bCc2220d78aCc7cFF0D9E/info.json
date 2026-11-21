@@ -1,0 +1,9 @@
+ "name": "XXMY",
+ "website": "https://xmy.bio",
+ "description": "A decentralized token on the Arbitrum.",
+ "explorer": "https://arbiscan.io/token/0x09821601A28814ce552bCc2220d78aCc7cFF0D9E",
+ "type": "ERC20",
+ "symbol": "XXMY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x09821601A28814ce552bCc2220d78aCc7cFF0D9E"

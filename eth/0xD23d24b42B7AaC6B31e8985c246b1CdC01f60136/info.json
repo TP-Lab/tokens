@@ -1,0 +1,11 @@
+{
+ "name": "AICASH",
+ "website": "https://aicashcouncil.ai/",
+ "description": "defi.",
+ "explorer": "https://etherscan.io/address/0xd23d24b42b7aac6b31e8985c246b1cdc01f60136",
+ "type": "ERC20",
+ "symbol": "uvs",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD23d24b42B7AaC6B31e8985c246b1CdC01f60136"
+}

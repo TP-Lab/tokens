@@ -1,0 +1,12 @@
+
+   {
+    "name": "FTF",
+    "website": "https://www.ftfswap.com/#/swap",
+    "description": "9999 FTFswap nodes worldwide (999,900 FT) Participate in 100 FT of a node and share out 60% of FTFSWAP's income through node FT coins. The node opens 3999 quota in the first phase, 3000 quota in the second phase and 3000 quota in the third phase in stages. The node has the airdrop of each coin on FTFSWAP and the first consultation line.",
+    "explorer": "https://bscscan.com/token/0x7D65b1e1b22Df1bF9F48748c10030D92f757F091",
+    "type": "BEP20",
+    "symbol": "FTF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7D65b1e1b22Df1bF9F48748c10030D92f757F091"
+   }

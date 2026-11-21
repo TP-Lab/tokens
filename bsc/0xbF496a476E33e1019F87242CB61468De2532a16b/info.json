@@ -1,0 +1,11 @@
+{
+ "name": "Magic element",
+ "website": "https://bscscan.com/token/0xbF496a476E33e1019F87242CB61468De2532a16b",
+ "description": "Magic metaverse coin",
+ "explorer": "https://bscscan.com/token/0xbF496a476E33e1019F87242CB61468De2532a16b",
+ "type": "BEP20",
+ "symbol": "MET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xbF496a476E33e1019F87242CB61468De2532a16b"
+}

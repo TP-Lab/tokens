@@ -1,0 +1,11 @@
+{ 
+    "name": "Arknights Token",
+    "website": "https://www.arkgamefi.com/",
+    "description": "Arknights is a three-body civilization based metaverse deployed on a multi-chain system,where community-driven players,developers,and investors can define the value evolution of the underlying NFT in a sustainable ecosystem.",
+    "explorer": "https://bscscan.com/token/0x58f650c16a487bf0c1516282ecec1cf23368b95f",
+    "type": "BEP20",
+    "symbol": "ARKS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x58f650c16a487bf0c1516282ecec1cf23368b95f"
+}

@@ -1,0 +1,11 @@
+{ 
+"name": "EDAO",
+"website": "https://www.bfcbnb.com/",
+"description": "EDAO是基于BSC智能链的去中心化区块链数字资产，由Bank First Corp联合HJW Foundation基金会倾力打造，完全由EDAO共识者成立DAO组织自治，旨在打造出一个虚实结合的多元良性生态循环的通证 ",
+"explorer": "https://bscscan.com/token/0x900882Be74c5Cb53eF02D603fCF006CDEf0495c9",
+"type": "BEP20",
+"symbol": "EDAO",
+"decimals": 18,
+"status": "active",
+"id": "0x900882Be74c5Cb53eF02D603fCF006CDEf0495c9"
+}

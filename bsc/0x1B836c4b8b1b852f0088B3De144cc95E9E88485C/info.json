@@ -1,0 +1,11 @@
+{
+ "name": "SaudiDoge",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0x1B836c4b8b1b852f0088B3De144cc95E9E88485C",
+ "type": "BSC20",
+ "symbol": "SaudiDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1B836c4b8b1b852f0088B3De144cc95E9E88485C"
+}

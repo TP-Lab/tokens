@@ -1,0 +1,11 @@
+{
+ "name": "SpacePiDAO",
+ "website": "..",
+ "description": "It is a new type of cryptocurrency and a digital asset currency that can be mined on mobile phones.",
+ "explorer": "https://bscscan.com/token/0x18A95F1026De234AAE28F56a658714d263E6C738",
+ "type": "BEP20",
+ "symbol": "SpacePiDAO",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x18A95F1026De234AAE28F56a658714d263E6C738"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "ETHEREAL",
+ "website": "https://www.ethereal.monster",
+ "description": "ETRL is native token for ETHEREAL ecosystem.",
+ "explorer": "https://bscscan.com/token/0x22714c3532b4d52256f3c683e34170266b888d55",
+ "type": "BEP20",
+ "symbol": "ETRL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x22714c3532b4D52256f3c683e34170266b888D55"
+}

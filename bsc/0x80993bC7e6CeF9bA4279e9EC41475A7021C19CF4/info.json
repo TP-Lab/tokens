@@ -1,0 +1,11 @@
+{ 
+"name": "BitDao",
+"website": "http://www.btdswap.com/",
+"description": "bit dao ecosystem token",
+"explorer": "https://bscscan.com/token/0x80993bC7e6CeF9bA4279e9EC41475A7021C19CF4",
+"type": "BEP20",
+"symbol": "BTD",
+"decimals": 9,
+"status": "active",
+"id": "0x80993bC7e6CeF9bA4279e9EC41475A7021C19CF4"
+}

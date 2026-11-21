@@ -1,0 +1,11 @@
+{
+    "name": "NT",
+    "website": "",
+    "description": "NT is Nexo's platform currency.",
+    "explorer": "https://bscscan.com/token/0x57Cb62644Ff9cC4a4404d9839AFa535Aa5159e1b",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "NT",
+    "status": "active",
+    "id": "0x57Cb62644Ff9cC4a4404d9839AFa535Aa5159e1b"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Galactics Protocol",
+  "website": "glcs.fun",
+  "description": "GLCS is an innovative Web3 project jointly launched by the Galactic Protocol Foundation and the Galaxy Community Alliance, characterized by its complete decentralization and community autonomy model.",
+  "explorer": "https://bscscan.com/token/0x65a4fb74ced27d141dc6a8fcdcb737d35e8f453e",
+  "type": "BEP20",
+  "symbol": "GLCS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x65a4fb74CED27d141dC6A8fcdCb737D35E8F453E"
+}

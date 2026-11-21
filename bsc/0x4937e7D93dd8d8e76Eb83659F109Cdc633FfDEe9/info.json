@@ -1,0 +1,11 @@
+{
+ "name": "CATCEO",
+ "website": "https://catceo.ai",
+ "description": "CATCEO is not an investment and created as a new gen meme. CATCEO makes no promises and is not responsible for any losses or errors use at your own risk.",
+ "explorer": "https://bscscan.com/token/0x4937e7d93dd8d8e76eb83659f109cdc633ffdee9",
+ "type": "BEP20",
+ "symbol": "CATCEO",
+ "decimals": 9,
+ "status": "active",
+ "id": 0x4937e7D93dd8d8e76Eb83659F109Cdc633FfDEe9
+}

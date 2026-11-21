@@ -1,0 +1,11 @@
+{
+ "name": "NEWXX Token",
+ "website": "https://c.newbi.vip",
+ "description": "A treasure hunting game based on the Binance blockchain, inviting players to explore a variety of ways to play.",
+ "explorer": "https://bscscan.com/token/0xF28787ca48835A1c0Bb8906600B3Fe4dAc84E5D2",
+ "type": "BEP20",
+ "symbol": "NEWXX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF28787ca48835A1c0Bb8906600B3Fe4dAc84E5D2"
+}

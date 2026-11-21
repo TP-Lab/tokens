@@ -1,0 +1,11 @@
+{
+ "name": "RXCHAIN Token",
+ "website": "https://www.rxchain.top",
+ "description": "RXCHAIN is a DeFi integrated business driven by community autonomy, including multi chain ore pool, artificial intelligence, aggregation type DEX, DAO governance, everyone in charge, machine robbing strategy pool, and Metaverse NFT track in all sectors. The agreement revenue belongs to RXCHAIN token and RXCHAIN token holders.",
+ "explorer": "https://tronscan.org/#/searchResult/TDUZZGMmrcAJDNiZDzyQ2LHbrYQzMqKCtx?type=tokens&contract",
+ "type": "TRC20",
+ "symbol": "RXCHAIN",
+ "decimals": 6,
+ "status": "active",
+ "id": "TDUZZGMmrcAJDNiZDzyQ2LHbrYQzMqKCtx"
+}

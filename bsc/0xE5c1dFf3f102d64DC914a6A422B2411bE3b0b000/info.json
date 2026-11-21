@@ -1,0 +1,11 @@
+{
+ "name": "TLDAO",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xE5c1dFf3f102d64DC914a6A422B2411bE3b0b000",
+ "type": "BEP20",
+ "symbol": "TLDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE5c1dFf3f102d64DC914a6A422B2411bE3b0b000"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Solana BreaKpoint",
+    "website": "https://sbt-coin.com",
+    "description": "SBT demonstrated important progress in its cross-chain technology, especially through cooperation with the BSC public chain, strengthening the connection and interoperability between the two blockchain platforms. SBT uses its cross-chain function to promote the flow of assets and information, which not only strengthens the ecosystem cooperation between Solana and BSC, but also provides a seamless cross-chain experience for DeFi and other blockchain applications, demonstrating its potential and prospects in blockchain technology innovation.",
+    "explorer": "https://bscscan.com/token/0x5e6eb2975cc3043f712b50b680fc47421650443f",
+    "type": "BEP20",
+    "symbol": "SBT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5e6eb2975cc3043f712b50b680fc47421650443f"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Dog Token",
+ "website": "http://www.dogtoken.cc/",
+ "description": "Dog token is a deflationary token on Bscscan",
+ "explorer": "https://bscscan.com/token/0x22A5576FadDc9bC38F86B64d3584A23e45805671",
+ "type": "BEP20",
+ "symbol": "Dog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x22A5576FadDc9bC38F86B64d3584A23e45805671"
+}

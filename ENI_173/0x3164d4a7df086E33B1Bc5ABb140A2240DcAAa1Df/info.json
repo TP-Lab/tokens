@@ -1,0 +1,11 @@
+{
+    "name": "Eni Labubu",
+    "website": ".",
+    "description": " ",
+    "explorer": "https://scan.eniac.network/token/0x3164d4a7df086E33B1Bc5ABb140A2240DcAAa1Df",
+    "type": ERC20",
+    "symbol": "Labubu",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3164d4a7df086E33B1Bc5ABb140A2240DcAAa1Df"
+}

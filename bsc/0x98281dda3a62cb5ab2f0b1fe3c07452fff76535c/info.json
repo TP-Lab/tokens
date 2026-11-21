@@ -1,0 +1,11 @@
+{
+ "name": "Laeeb",
+ "website": "https://www.laeeb.website/",
+ "description": "Qatar World Cup Mascot",
+ "explorer": "https://bscscan.com/token/0x98281dda3a62cb5ab2f0b1fe3c07452fff76535c",
+ "type": "BEP20",
+ "symbol": "Laeeb",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x98281DDa3A62CB5AB2F0b1Fe3C07452fff76535C"
+}

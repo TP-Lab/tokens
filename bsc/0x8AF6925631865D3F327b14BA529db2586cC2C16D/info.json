@@ -1,0 +1,11 @@
+{
+ "name": "Elephant Yield Guild",
+ "website": "/",
+ "description": "Elephant Yield Guild is a decentralised autonomous organisation (DAO) composed of the concept of Play To Earn. It invests in NFTs based on blockchain games.",
+ "explorer": "https://bscscan.com/token/0x8af6925631865d3f327b14ba529db2586cc2c16d",
+ "type": "BEP20",
+ "symbol": "EYG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8AF6925631865D3F327b14BA529db2586cC2C16D"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "BCPI",
+    "website": "https://cryptopia.network",
+    "description": "BCPI is the governance token for a farming game based on the BSC chain. The circulating supply of BCPI is 2.16 million, with a total supply of 20 million.",
+    "explorer": "https://bscscan.com/token/0x557805BbE627Ad81adEcF4A94Ef028141cEbABDF",
+    "type": "BEP20",
+    "symbol": "BCPI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x557805BbE627Ad81adEcF4A94Ef028141cEbABDF"
+}

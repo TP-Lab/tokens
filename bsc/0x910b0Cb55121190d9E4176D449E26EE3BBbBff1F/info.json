@@ -1,0 +1,11 @@
+{
+ "name": "babyLV",
+ "website": "https://cryptogerclub.org",
+ "description": "Standard bep20 token, contract control has been waived.",
+ "explorer": "https://bscscan.com/token/0x910b0Cb55121190d9E4176D449E26EE3BBbBff1F",
+ "type": "BEP20",
+ "symbol": "CToger",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x910b0Cb55121190d9E4176D449E26EE3BBbBff1F"
+}

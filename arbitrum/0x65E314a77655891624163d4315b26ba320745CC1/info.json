@@ -1,0 +1,11 @@
+{
+    "name": "BEBE",
+    "website": ".",
+    "description": "BEBE is an API-integrated gaming eco-protocol that is based on ChatGPT. It allows users to, via the API, log into all ecosystems embedded in the platform with a single click. YURI AI aims to enable users to entertain themselves more efficiently through AI and Game while gaining profits in doing so.",
+    "explorer": "https://arbiscan.io/token/0x65E314a77655891624163d4315b26ba320745CC1",
+    "decimals": 18,
+    "type": "Arbitrum One",
+    "symbol": "BEBE",
+    "status": "active",
+    "id": "0x65E314a77655891624163d4315b26ba320745CC1"
+}

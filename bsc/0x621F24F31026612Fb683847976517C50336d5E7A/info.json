@@ -1,0 +1,11 @@
+{
+ "name": "x-pepe",
+ "website": "-",
+ "description": "x-pepe is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x621F24F31026612Fb683847976517C50336d5E7A",
+ "type": "BEP20",
+ "symbol": " x-pepe ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x621F24F31026612Fb683847976517C50336d5E7A"
+}

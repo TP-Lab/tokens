@@ -1,0 +1,11 @@
+{
+ "name": "Howlingdog",
+ "website": "-",
+ "description": "Howlingdog Tokenis an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x33C9E95027fA6D6db81dCd060810F2c4aC95a97E",
+ "type": "BEP20",
+ "symbol": "HLD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x33C9E95027fA6D6db81dCd060810F2c4aC95a97E"
+}

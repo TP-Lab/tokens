@@ -1,0 +1,11 @@
+{
+    "name": "puggy coin",
+    "website": "http://www.puggcoin.com",
+    "description": "PUGG is another meme token similar to Dogecoin, which is also based on Scrypt algorithm, making the transaction process of PUGG more convenient than bitcoin. With a total circulation of 100 billion coins, the price is low and the transfer speed is fast, which is more suitable for the general public.  More importantly, PUGG has NFT properties, which makes it valuable for use in blockchain-based pet-raising game scenarios.",
+    "explorer": "https://bscscan.com/token/0x41cB42a380D099ebC7a0BA0d5bA1f6D08A7d8059",
+    "type": "BEP20",
+    "symbol": "PUGG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x41cB42a380D099ebC7a0BA0d5bA1f6D08A7d8059"
+}

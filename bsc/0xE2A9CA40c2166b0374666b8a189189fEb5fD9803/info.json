@@ -1,0 +1,11 @@
+{
+ "name": "Puppies Coin",
+ "website": "无",
+ "description": "无",
+ "explorer": "https://bscscan.com/token/0xE2A9CA40c2166b0374666b8a189189fEb5fD9803",
+ "type": "BSC20",
+ "symbol": "PUPPIES",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xE2A9CA40c2166b0374666b8a189189fEb5fD9803"
+}

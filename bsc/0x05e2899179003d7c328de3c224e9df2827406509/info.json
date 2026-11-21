@@ -1,0 +1,11 @@
+{
+ "name": "SNOOKER Token",
+ "website": "------",
+ "description": "It is a diversified and innovative financial ecosystem that integrates concepts such as DeFi, DAO, NFT, WEB3.0, and metauniverse.",
+ "explorer": "https://bscscan.com/token/0x05e2899179003d7c328de3c224e9df2827406509",
+ "type": "BEP20",
+ "symbol": "SNK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x05e2899179003d7c328de3C224e9dF2827406509"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Z",
+ "website": "https://zeusnetwork.org/",
+ "description": "A highly scalable, fast and secure blockchain platform for distributed apps, enterprise use cases and the new internet economy.",
+ "explorer": "https://bscscan.com/address/0xf489923b778b66e7271cc1095509ce02c05afc72",
+ "type": "BEP20",
+ "symbol": "ZEUS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf489923B778b66E7271cc1095509Ce02C05aFc72"
+}

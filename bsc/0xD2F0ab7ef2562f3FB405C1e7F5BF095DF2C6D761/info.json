@@ -1,0 +1,11 @@
+{
+ "name": "RentechCoin",
+ "website": "https://www.bitrentech.co",
+ "description": "RTC is one of the few new technologies of the same kind that allow it to connect with the meta universe and provide digital asset exploration. We provide a high standard and perfect virtual field. The platform setting will protect the overall transaction and become a new trend on the Internet in the future!",
+ "explorer": "https://bscscan.com/token/0xD2F0ab7ef2562f3FB405C1e7F5BF095DF2C6D761",
+ "type": "BEP20",
+ "symbol": "RTC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xD2F0ab7ef2562f3FB405C1e7F5BF095DF2C6D761"
+}

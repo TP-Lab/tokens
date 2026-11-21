@@ -1,0 +1,11 @@
+{
+ "name": "Token Chivo",
+ "website": "https://www.tokenchivo.com",
+ "description": "Develop our toquen to create a solid number of gamers",
+ "explorer": "https://bscscan.com/token/0xCF9eC02CeaC5625A358c4dd8Bb4f64c2d0Ed992D",
+ "type": "BEP20",
+ "symbol": "Chivo",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCF9eC02CeaC5625A358c4dd8Bb4f64c2d0Ed992D"
+}

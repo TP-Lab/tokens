@@ -1,0 +1,11 @@
+{ 
+"name": "HWH",
+"website": "",
+"description": "",
+"explorer": "https://bscscan.com/address/0x300d361ddFc0149a59650f4bB015B6f819A2e6Af",
+"type": "BEP20",
+"symbol": "HWH",
+"decimals": 6,
+"status": "active",
+"id": "0x300d361ddFc0149a59650f4bB015B6f819A2e6Af"
+}

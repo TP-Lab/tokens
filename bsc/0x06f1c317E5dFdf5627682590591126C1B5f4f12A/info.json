@@ -1,0 +1,11 @@
+{
+ "name": "Relife Token",
+ "website": "https://relife.world/",
+ "description": "Relife 是以人工智能、大数据、区块链技术为底层，集社交、娱乐、交易为一体的价值输出的元宇宙全系生态平台。用户在Relife能够沉浸式感受反转现实人生的绝妙体验，实现价值重生！",
+ "explorer": "https://bscscan.com/token/0x06f1c317E5dFdf5627682590591126C1B5f4f12A",
+ "type": "BEP20",
+ "symbol": "RLT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x06f1c317E5dFdf5627682590591126C1B5f4f12A"
+}

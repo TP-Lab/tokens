@@ -1,0 +1,11 @@
+{
+ "name": "Carbon Credit Metaverse",
+ "website": "-",
+ "description": "CCM is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xae5110B1093f850214E5530f86e8dbaDB7057373",
+ "type": "BEP20",
+ "symbol": " CCM ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xae5110B1093f850214E5530f86e8dbaDB7057373"
+}

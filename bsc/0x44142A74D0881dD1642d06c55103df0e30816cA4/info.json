@@ -1,0 +1,11 @@
+{
+ "name": "FmaCoin",
+ "website": "http://smncoin.net/zh/",
+ "description": "FmaCoin is the first value-enabling token minted by GIN, and its Chinese name is Newton. A total of 30,000 pieces were issued, and the output was cast daily through data intelligence contracts in the trading and consumption chains. Through the GIN blockchain distributed ledger, using the POT transaction and consumption data proof mechanism, users' transaction and consumption data are collected and chained, and the new asset Fma Coin is rewarded to users in the form of personal data weight contribution value.",
+ "explorer": "https://bscscan.com/token/0x44142A74D0881dD1642d06c55103df0e30816cA4",
+ "type": "BEP20",
+ "symbol": "Fma",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x44142A74D0881dD1642d06c55103df0e30816cA4"
+}

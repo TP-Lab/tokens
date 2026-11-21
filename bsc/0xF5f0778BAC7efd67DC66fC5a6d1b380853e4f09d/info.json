@@ -1,0 +1,11 @@
+{
+ "name": "DiDoge",
+ "website": "..",
+ "description": "Dogs are a good friend to humans.",
+ "explorer": "https://bscscan.com/token/0xF5f0778BAC7efd67DC66fC5a6d1b380853e4f09d",
+ "type": "BEP20",
+ "symbol": "DiDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF5f0778BAC7efd67DC66fC5a6d1b380853e4f09d"
+}

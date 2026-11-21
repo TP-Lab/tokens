@@ -1,0 +1,11 @@
+{
+ "name": "Payment",
+ "website": "-",
+ "description": "Payment is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xC8B14b0b0d8D2249283068a4440C382FafCD461A",
+ "type": "BEP20",
+ "symbol": "ACH39",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC8B14b0b0d8D2249283068a4440C382FafCD461A"
+}

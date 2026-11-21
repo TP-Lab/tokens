@@ -1,0 +1,11 @@
+{
+ "name": "Elon",
+ "website": "https://elontoken.cc",
+ "description": "Elon is an experimental protocol mashing up some of the most exciting innovations in DeFi and crypto collectibles.",
+ "explorer": "https://bscscan.com/token/0x939c494520E26c7ae2EBfdc6c07CeFfb67AD7e1d",
+ "type": "BEP20",
+ "symbol": "Elon",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x939c494520E26c7ae2EBfdc6c07CeFfb67AD7e1d"
+}

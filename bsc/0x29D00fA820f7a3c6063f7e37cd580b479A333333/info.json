@@ -1,0 +1,11 @@
+{
+ "name": "DNH",
+ "website": "-",
+ "description": "DNH is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x29D00fA820f7a3c6063f7e37cd580b479A333333",
+ "type": "BEP20",
+ "symbol": " DNH ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x29D00fA820f7a3c6063f7e37cd580b479A333333"
+}

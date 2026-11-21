@@ -1,0 +1,11 @@
+{
+  "name": "Rune-X Token",
+  "website": "https://runex.one",
+  "description": "Rune-X is a multi-chain deployed rune (rune) integrated platform that expands rune splitting, provides DEX trading, fair launch platforms, and solves the pain points of insufficient liquidity.",
+  "explorer": "https://bscscan.com/token/0xc5343a79279fc2569097db9311d13b606990061f",
+  "type": "BEP20",
+  "symbol": "RUNEX",
+  "decimals": 6,
+  "status": "active",
+  "id": "0xc5343A79279fc2569097Db9311D13b606990061f"
+}

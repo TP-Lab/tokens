@@ -1,0 +1,11 @@
+{
+ "name": "FOG",
+ "website": "http://fogbd.com/",
+ "description": "【FOG-Computing-Chain（简称FOG）】雾计算网络与区块链系统协同的FOG去中心化雾计算平台，旨在建立一个能够使世界上任何拥有计算能力的设备都能够连入的网络，任何人都可以贡献或使用所需要的算力，FOG是一套全新的专用区块链网络兼容目前相对成熟的以太坊主网，能够实现高吞吐量、低成本的智能合约，同时保持无信任的安全性。提供了一个用于验证，识别计算设备，管理和提供算力流通服务，且具备更强拓展性的系统。"
+ "explorer": "https://bscscan.com/token/0x3E791E040a19c708a8171EBD0DcFA8ca6eBD3Fd9",
+ "type": "BEP20",
+ "symbol": "FOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3E791E040a19c708a8171EBD0DcFA8ca6eBD3Fd9"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BeeFi Social Utility Tokens Seed",
+ "website": "https://beefi.net",
+ "description": ""A leading Web3 social finance platform that supports on BSC",
+ "explorer": "https://www.bscscan.com/token/0x7654ff6d3411250e3347b30aed5e826cf02615bc?a=0x19813a93b76dd624ea667467f8c1f9ab6a1f0b30",
+ "type": "BEP20",
+ "symbol": "Beefi-S",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7654FF6D3411250e3347B30aEd5E826CF02615bc"
+}

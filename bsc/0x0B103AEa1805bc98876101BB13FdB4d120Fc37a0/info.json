@@ -1,0 +1,11 @@
+{
+    "name": "rpcwequan",
+    "website": "https://rpcwequan.cc/",
+    "description": "RPC代表着全球70亿个韭菜的力量，是一种由维权群众联合发起的DAO组织代币。我们致力于抵制一切无良项目方割韭菜行为，为投资者维权提供强有力的支持。",
+    "explorer": "https://bscscan.com/token/0x0B103AEa1805bc98876101BB13FdB4d120Fc37a0",
+    "type": "BEP20",
+    "symbol": "RPC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0B103AEa1805bc98876101BB13FdB4d120Fc37a0"
+  }

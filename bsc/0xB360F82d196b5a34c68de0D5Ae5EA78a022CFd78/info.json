@@ -1,0 +1,11 @@
+{
+ "name": "Super King",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xB360F82d196b5a34c68de0D5Ae5EA78a022CFd78",
+ "type": "BEP20",
+ "symbol": "Super King",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB360F82d196b5a34c68de0D5Ae5EA78a022CFd78"
+}

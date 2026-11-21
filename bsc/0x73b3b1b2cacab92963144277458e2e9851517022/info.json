@@ -1,0 +1,11 @@
+{
+ "name": "UNI Token",
+ "website": "https://universeonline.world",
+ "description": "A Metaverse Ecosystem,Formulas forged by the community, fully DAO organized.",
+ "explorer": "https://bscscan.com/token/0x73b3b1b2cacab92963144277458e2e9851517022",
+ "type": "BEP20",
+ "symbol": "UNI",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x73b3b1b2cacab92963144277458e2e9851517022"
+}

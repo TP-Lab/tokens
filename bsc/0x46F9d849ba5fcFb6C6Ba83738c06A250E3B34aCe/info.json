@@ -1,0 +1,11 @@
+{
+  "name": "X",
+  "website": "",
+  "description": "",
+  "explorer": "https://bscscan.com/token/0x46F9d849ba5fcFb6C6Ba83738c06A250E3B34aCe",
+  "type": "BEP20",
+  "symbol": "X",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x46F9d849ba5fcFb6C6Ba83738c06A250E3B34aCe"
+}

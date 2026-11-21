@@ -1,0 +1,11 @@
+{
+ "name": "DataWorld",
+ "website": "https://www.dataworldchain.com",
+ "description": "DataWorld is a decentralized exchange, providing liquidity and enabling peer-to-peer transactions on the Binance Network.",
+ "explorer": "https://bscscan.com/token/0xf9a84b55a79486d63fd80e576495d5a710f8b906",
+ "type": "BEP20",
+ "symbol": "DWC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF9a84B55a79486d63Fd80e576495d5a710f8b906"
+}

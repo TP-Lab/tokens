@@ -1,0 +1,11 @@
+{ 
+"name": "BaByCandy",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0x1840E5Fe764cABDF9d99C3536f1EcCa6B3910Bfa",
+"type": "BEP20",
+"symbol": "BaByCandy",
+"decimals": 18,
+"status": "active",
+"id": "0x1840E5Fe764cABDF9d99C3536f1EcCa6B3910Bfa"
+}

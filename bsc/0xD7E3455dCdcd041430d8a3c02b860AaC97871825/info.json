@@ -1,0 +1,11 @@
+{
+  "name": "Navigator Token",
+  "website": "",
+  "description": "Navigator WEB3.0 aggregated ecological equity token NAVI, mainly DAO organization construction for Navigator WEB3.0 aggregation ecology, Applying scenarios such as ecological construction and economic governance construction, it is an ecological economic system. It is the general equivalent of the tradition, and it is also the general currency of the entire WEB3.0 world, It is the holder's most valuable equity certificate.",
+  "explorer": "https://bscscan.com/address/0xD7E3455dCdcd041430d8a3c02b860AaC97871825",
+  "type": "BEP20",
+  "symbol": "NAVI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xD7E3455dCdcd041430d8a3c02b860AaC97871825"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FUCOIN",
+  "website": "https://twitter.com/wufu365",
+  "description": "FUCOIN is a Cryptocurrency based on decentralization, adopting point-to-point network and Stigmergy, Open-source model, and blockchain as the underlying technology, which is created by the Fujin community.",
+  "explorer": "https://etherscan.io/address/0xA4aC45AD0722346F29B196B69197917D2488d403",
+  "type": "ERC20",
+  "symbol": "FU",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xA4aC45AD0722346F29B196B69197917D2488d403"
+}

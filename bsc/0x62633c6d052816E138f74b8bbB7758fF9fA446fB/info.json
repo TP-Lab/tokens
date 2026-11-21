@@ -1,0 +1,11 @@
+{
+ "name": "Perfect world",
+ "website": "https://www.pwtoken.cc",
+ "description": "Perfect world helps to build a new physical industry ecology and reshape a complete defi financial system. In the early stage of the global initiative, it can only be sold but not bought, bringing new possibilities for the development of "defi+ industry" enabled by blockchain technology.",
+ "explorer": "https://www.bscscan.com/token/0x62633c6d052816E138f74b8bbB7758fF9fA446fB",
+ "type": "BEP20",
+ "symbol": "PW",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x62633c6d052816E138f74b8bbB7758fF9fA446fB"
+}

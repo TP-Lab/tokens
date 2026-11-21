@@ -1,0 +1,11 @@
+{
+ "name": "RWA Finance",
+ "website": "https://www.rwa-finance.com/#/",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://arbiscan.io/token/0x1f2b426417663ac76eb92149a037753a45969f31",
+ "type": "Arbitrum One",
+ "symbol": "RWAS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1F2b426417663Ac76eB92149a037753a45969F31"
+}

@@ -1,0 +1,9 @@
+ "name": "EXCHANGE COIN",
+ "website": "https://www.eccoinpro.com/",
+ "description": "ECCOIN aims to create a truly decentralized green trading platform.",
+ "explorer": "https://bscscan.com/token/0x41027ad56181fe6914a14003edfd7148e40b3e3a",
+ "type": "BEP20",
+ "symbol": "EC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x41027ad56181Fe6914a14003edfD7148E40b3E3a"

@@ -1,0 +1,11 @@
+{
+ "name": "TwitsDoge",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x9F7Ed91BEbAAa6934407d00A215B3B5CD6260855",
+ "type": "BEP20",
+ "symbol": "TwitsDoge",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x9F7Ed91BEbAAa6934407d00A215B3B5CD6260855"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Funny Coin",
+ "website": "https://spaceguild.io/",
+ "description": "Funny Coin is the arbitrum chain native token launched by Space Guild, a large-scale wholly-owned chain game platform. Space Guild was established in 2021. It was first founded by chain game enthusiasts from Colombia, Australia, India and other places. Currently, the guild has more than 9,500 members Players, there are five different types of chain games under development, namely: AI construction battle game-WarSindia, massively multiplayer online metaverse game-Sindia chronicles, blockchain e-sports games Eternal Brawl, Bomb Park and more than five Finished game. All of its products are wholly-owned and without any external capital fundraise. Recently, the Sindia Chronicles Alpha test was very popular. More than 4,000 test players entered the game, and a maximum of 1,000 people were online at the same time. The game includes various professions such as gladiator, elementalist, profiteer, wizard, etc. Players can form teams , marry, form an alliance, do business, and trade NFT commodities. It truly integrates all the elements of traditional online games, with its excellent turn-based MMORPG gameplay and ultimate game experience The Space Guild has handed over the development and rights of the entire ecology to the community. By establishing a transparent DAO, players can participate in deciding the type of games launched on the platform and the use of the treasury through a voting mechanism. That is to say, Funny Coin owns the space guild’s Governance rights, it is worth mentioning that when players need to earn more income in the game, they need to consume tokens to upgrade, build equipment or other in-game activities to maximize benefits! These consumed tokens will be directly destroyed, even when players in the game trade or purchase in-game items, the system will automatically des",
+ "explorer": "https://bscscan.com/token/0xF77DcB1d378Ff8B83a1948f7982Cb6a9802d1037",
+ "type": "BEP20",
+ "symbol": "FUC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf77dcb1d378ff8b83a1948f7982cb6a9802d1037"
+}

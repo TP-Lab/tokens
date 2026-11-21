@@ -1,0 +1,11 @@
+{
+ "name": "PDA",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xC3A87ddC4FA3eD8d54716e83a648f6C0f597FaBa",
+ "type": "BEP20",
+ "symbol": "PDA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC3A87ddC4FA3eD8d54716e83a648f6C0f597FaBa"
+}

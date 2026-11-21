@@ -1,0 +1,11 @@
+{
+ "name": "ArrCity",
+ "website": "https://arrcity.cn/",
+ "description": "Best place for farming and Xtoearn.",
+ "explorer": "https://bscscan.com/address/0xB17759bEa3BA242b512656D3c31e39e63303d056",
+ "type": "BEP20",
+ "symbol": "ACY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xB17759bEa3BA242b512656D3c31e39e63303d056"
+}

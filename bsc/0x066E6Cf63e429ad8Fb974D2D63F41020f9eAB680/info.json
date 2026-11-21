@@ -1,0 +1,11 @@
+{
+ "name": "Nebula Coin",
+ "website": "http://www.nebulaeternity.com/",
+ "description": "The Nebula Token is for metaverse.It can only be obtained by pledge libra mining",
+ "explorer": "https://bscscan.com/token/0x066E6Cf63e429ad8Fb974D2D63F41020f9eAB680",
+ "type": "BEP20",
+ "symbol": "Nebula",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x066E6Cf63e429ad8Fb974D2D63F41020f9eAB680"
+}

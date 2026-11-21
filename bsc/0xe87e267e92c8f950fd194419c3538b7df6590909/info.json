@@ -1,0 +1,11 @@
+{
+ "name": "Discrete cipher block",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xe87e267e92c8f950fd194419c3538b7df6590909",
+ "type": "ERC20",
+ "symbol": "DCB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe87e267e92c8f950fd194419c3538b7df6590909"
+}

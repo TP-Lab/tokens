@@ -1,0 +1,11 @@
+{
+    "name": "NFTS TOKEN",
+    "website": "http://nftsdapp.live/inter.html",
+    "description": "NFTS TOKEN",
+    "explorer": "https://bscscan.com/token/0xa956b496C65B675fdE3EB2c0ae7af88305aD1407",
+    "type": "BEP20",
+    "symbol": "NFTS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa956b496C65B675fdE3EB2c0ae7af88305aD1407"
+}

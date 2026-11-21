@@ -1,0 +1,11 @@
+{
+ "name": "LilFloki Token",
+ "website": "https://bscscan.com/token/0x4341fb9ffd62cc9688b70757791512e881fa9132",
+ "description": "LilFloki TOKEN.",
+ "explorer": "https://bscscan.com/token/0x4341fb9ffd62cc9688b70757791512e881fa9132",
+ "type": "BEP20",
+ "symbol": "LNG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4341fb9ffd62cc9688b70757791512e881fa9132"
+}

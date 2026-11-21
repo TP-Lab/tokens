@@ -1,0 +1,11 @@
+{
+ "name": "ChainAi Labs",
+ "website": "https://ailabs.ink",
+ "description": "ChainAi Labs is an AI platform on Ethereum's blockchain, using advanced ChainAi Labs tech for decentralized data collection, analysis, and market intel. It leverages smart contracts and AI for secure, transparent data services.",
+ "explorer": "https://etherscan.io/token/0x53d5e41fd6557b93a821075ceab00d6410081676",
+ "type": "ERC20",
+ "symbol": "ALT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x53D5E41fD6557b93A821075CEAB00d6410081676"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Shoe Elimination Game",
+ "website": "http://seg.finance",
+ "description": "Shoe Elimination Game is a casual metaverse game.",
+ "explorer": "https://bscscan.com/token/0x2EefF21c71Ae38F9C34496cd9250c0d186DcD988",
+ "type": "BEP20",
+ "symbol": "SEG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2EefF21c71Ae38F9C34496cd9250c0d186DcD988"
+}

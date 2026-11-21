@@ -1,0 +1,11 @@
+{ 
+"name": "MY",
+"website": "https://myfinances.space",
+"description": "MY is Web3 network Game Token",
+"explorer": "https://www.bscscan.com/token/0x001609504dDc1B566522655E86820eF894AeeD5d",
+"type": "BEP20",
+"symbol": "MY",
+"decimals": 9,
+"status": "active",
+"id": "0x001609504dDc1B566522655E86820eF894AeeD5d"
+}

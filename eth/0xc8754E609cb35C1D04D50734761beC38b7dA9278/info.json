@@ -1,0 +1,11 @@
+{
+ "name": "RDAO Token",
+ "website": "https://rchaindao.com",
+ "description": "RDAO is a decentralized governance platform token made for the RChain community.",
+ "explorer": "https://etherscan.io/token/0xc8754E609cb35C1D04D50734761beC38b7dA9278",
+ "type": "ERC20",
+ "symbol": "RDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc8754E609cb35C1D04D50734761beC38b7dA9278"
+}

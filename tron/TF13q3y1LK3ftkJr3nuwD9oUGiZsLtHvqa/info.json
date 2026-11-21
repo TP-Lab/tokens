@@ -1,0 +1,11 @@
+{
+  "name": "DecentralizedExchange",
+  "website": "http://newdex.top",
+  "description": "Decentralized Exchange (DEX) is committed to building a global collection platform for digital currency, securities and is dedicated to discovering quality and innovative digital assets.",
+  "explorer": "https://tronscan.org/#/contract/TF13q3y1LK3ftkJr3nuwD9oUGiZsLtHvqa",
+  "type": "TRC20",
+  "symbol": "DEX",
+  "decimals": 18,
+  "status": "active",
+  "id": "TF13q3y1LK3ftkJr3nuwD9oUGiZsLtHvqa"
+} 

@@ -1,0 +1,11 @@
+{
+ "name": "CrossTheEarth",
+ "website": "https://crosstheearth.com",
+ "description": "The world's first carbon neutral NFT game community, we are about to break out globally",
+ "explorer": "https://bscscan.com/token/0x834dba554f41917fcb0040f9c9707f2b5dbfad4c",
+ "type": "BEP20",
+ "symbol": "CRO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x834dba554f41917FcB0040f9C9707F2b5DbFaD4C"
+}

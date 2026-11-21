@@ -1,0 +1,11 @@
+{
+  "name": "Apollo",
+  "website": "https://www.apollo-dao.com/",
+  "description": "Apollo is the God of light and prophecy in ancient Greek mythology, also known as the sun god.",
+  "explorer": "https://bscscan.com/token/0x5cE3b44856ff8385EA8642d0e604a3E02150bb8D ",
+  "type": "BEP20",
+  "symbol": "APLD",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5cE3b44856ff8385EA8642d0e604a3E02150bb8D"
+}

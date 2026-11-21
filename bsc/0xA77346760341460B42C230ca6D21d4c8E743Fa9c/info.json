@@ -1,0 +1,11 @@
+{
+ "name": "MicroPets",
+ "website": "https://micropets.io/",
+ "description": "We’ve taken everyone’s favorite dog-memes & packaged them up into adorable pets you can trade or stake!",
+ "explorer": "https://bscscan.com/address/0xA77346760341460B42C230ca6D21d4c8E743Fa9c",
+ "type": "BEP20",
+ "symbol": "PETS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA77346760341460B42C230ca6D21d4c8E743Fa9c"
+}

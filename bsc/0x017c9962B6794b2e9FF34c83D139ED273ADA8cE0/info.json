@@ -1,0 +1,11 @@
+{
+  "name": "NIAO",
+  "website": "web.niao.vip",
+  "description": "Bird Coin is a Twitter social experiment",
+  "explorer": "https://bscscan.com/token/0x017c9962b6794b2e9ff34c83d139ed273ada8ce0",
+  "type": "BEP20",
+  "symbol": "NIAO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x017c9962B6794b2e9FF34c83D139ED273ADA8cE0"
+}

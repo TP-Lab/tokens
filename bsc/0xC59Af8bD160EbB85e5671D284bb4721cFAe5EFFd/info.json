@@ -1,0 +1,11 @@
+{
+    "name": "ETL",
+    "website": "",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0xC59Af8bD160EbB85e5671D284bb4721cFAe5EFFd",
+    "decimals": 9,
+    "type": "BEP20",
+    "symbol": "ETL",
+    "status": "active",
+    "id": "0xC59Af8bD160EbB85e5671D284bb4721cFAe5EFFd"
+}

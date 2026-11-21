@@ -1,0 +1,11 @@
+{
+ "name": "BabyBTC",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x7C300c902CB878D1f73933c4e0b9Ec9C11fE9477",
+ "type": "BEP20",
+ "symbol": "BabyBTC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7C300c902CB878D1f73933c4e0b9Ec9C11fE9477"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "BCRT",
+  "website": "http://23.249.22.69/",
+  "description": "The BCRT trading system is a BEP20 series digital currency exchange based on the BSC public chain.",
+  "explorer": "https://bscscan.com/token/0x7c91d92cb4a044ff8534daef6c273d7fa4867c64",
+  "type": "BEP20",
+  "symbol": "BCRT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7C91D92cb4A044FF8534daef6c273D7fa4867c64"
+}

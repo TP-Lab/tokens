@@ -1,0 +1,11 @@
+{
+ "name": "MDY",
+ "website": "http://www.mdy.mn",
+ "description": "Issued by the Mongolian Dayuan Foundation, focusing on building a global ecological chain and expanding to physical entities",
+ "explorer": "https://bscscan.com/address/0xeF48386E71E76001EFdeEd992462af12449db436",
+ "type": "BEP20",
+ "symbol": "MDY",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xeF48386E71E76001EFdeEd992462af12449db436"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "LaeebClub",
+ "website": "https://LaeebClub.com",
+ "description": "The Club of 2022 Qatar World Cup mascot “La’eeb”",
+ "explorer": "https://bscscan.com/token/0x139a2e8a5087136845c8cc04414c92068d108580",
+ "type": "BEP20",
+ "symbol": "LaeebClub",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x139a2e8a5087136845c8cc04414c92068d108580"
+}

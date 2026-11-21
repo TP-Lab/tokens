@@ -1,0 +1,11 @@
+{
+ "name": "METAX",
+ "website": "https://metax.game",
+ "description": "MetaverseX is a decentralized virtual world sandbox building game.",
+ "explorer": "https://bscscan.com/token/0x03f8fdc10d5bcf7508375585b04e93d656d36954",
+ "type": "BEP20",
+ "symbol": "METAX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x03f8fdc10d5bcf7508375585b04e93d656d36954"
+}

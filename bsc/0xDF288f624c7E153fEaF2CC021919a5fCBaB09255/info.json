@@ -1,0 +1,11 @@
+{
+ "name": "ZGM",
+ "website": "https://zgm288.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, and so on.",
+ "explorer": "https://bscscan.com/token/0xDF288f624c7E153fEaF2CC021919a5fCBaB09255",
+ "type": "BEP20",
+ "symbol": "ZGM",
+ "decimals": 6,
+ "status": "active",
+ "0xDF288f624c7E153fEaF2CC021919a5fCBaB09255"
+}

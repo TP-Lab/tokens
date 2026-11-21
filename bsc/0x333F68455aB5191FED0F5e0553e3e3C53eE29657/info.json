@@ -1,0 +1,11 @@
+{
+    "name": "DOTS",
+    "website": "https://www.dotsvisa.com/",
+    "description": "DOTS is the world's first blockchain financial service provider for peer-to-peer polymorphic digital asset transaction payments. It is committed to creating a secure, reliable, and fast ecosystem of blockchain financial services that provides users with a one-stop, diversified, and thoughtful experience. Its future value prospects are broad.",
+    "explorer": "https://bscscan.com/address/0x333F68455aB5191FED0F5e0553e3e3C53eE29657",
+    "type": "BEP20",
+    "symbol": "DOTS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x333F68455aB5191FED0F5e0553e3e3C53eE29657"
+   }

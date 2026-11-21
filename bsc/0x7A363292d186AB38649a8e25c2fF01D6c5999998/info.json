@@ -1,0 +1,11 @@
+{
+ "name": "KLNT",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x7A363292d186AB38649a8e25c2fF01D6c5999998",
+ "type": "BEP20",
+ "symbol": "KLNT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7A363292d186AB38649a8e25c2fF01D6c5999998"
+}

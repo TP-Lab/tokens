@@ -1,0 +1,11 @@
+{
+ "name": "GAMIC Token",
+ "website": "https://gamic.app/",
+ "description": "The Best Community messaging app for Web3.",
+ "explorer": "https://explorer.zksync.io/address/0x6E893d508031b9bde1AA5969288fA5d197E5a480",
+ "type": "ERC20",
+ "symbol": "GAMIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6E893d508031b9bde1AA5969288fA5d197E5a480"
+}

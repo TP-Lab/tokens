@@ -1,0 +1,11 @@
+{
+    "name": "DFW",
+    "website": "https://www.daofarmer.com",
+    "description": "DAO Farmer is a Play-to-Earn Metaverse GameFi that combines blockchain technology with traditional gaming connotations.",
+    "explorer": "https://bscscan.com/token/0x4e52D1dCE54AB9D3C1798673B9cF1947E6660A3e",
+    "type": "BEP20",
+    "symbol": "DFW",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4e52D1dCE54AB9D3C1798673B9cF1947E6660A3e"
+}

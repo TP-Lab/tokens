@@ -1,0 +1,11 @@
+{
+ "name": "Token NEWFI",
+ "website": "http://www.newworldgames.net",
+ "description": "New  World（NEWFI）以《新世界》搭建首款区块链游戏，打破桎梏重塑链游价值，将会超越AXS,ZKN，SOL，成为元宇宙的新王",
+ "explorer": "https://bscscan.com/token/0xaed1dB1C2A317251c813f9aF394A24Ea28d24Da5",
+ "type": "BEP20",
+ "symbol": "NEWFI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaed1dB1C2A317251c813f9aF394A24Ea28d24Da5"
+}

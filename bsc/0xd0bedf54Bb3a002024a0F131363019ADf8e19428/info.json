@@ -1,0 +1,11 @@
+{
+ "name": "ESCToken",
+ "website": "https://esctoken.net",
+ "description": "ESCToken is a community-driven, fair-launched DeFi project. Four simple functions occur during each trade: FOMO, LP Acquisition, Static Reward & Burn.",
+ "explorer": "https://bscscan.com/address/0xd0bedf54bb3a002024a0f131363019adf8e19428",
+ "type": "BEP20",
+ "symbol": "ESCT",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xd0bedf54Bb3a002024a0F131363019ADf8e19428"
+}

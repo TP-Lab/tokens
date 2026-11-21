@@ -1,0 +1,11 @@
+{
+    "name": "Chocolate Cash",
+    "website": "https://chocolatecash.org",
+    "description": "A algorithm stable coin",
+    "explorer": "https://polygonscan.com/address/0x6aB4d79c4dBb009A2C4c6b7f8e8e067fC92e28b9",
+    "type": "Polygon",
+    "symbol": "CHC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6aB4d79c4dBb009A2C4c6b7f8e8e067fC92e28b9"
+   }

@@ -1,0 +1,12 @@
+{
+    "name": "OGT",
+    "website": "https://www.opengatenft.com",
+    "description": "Opengate is an innovative global NFT trading platform based on the Filecoin ecosystem. It is committed to building a NFT market that securely and permanently stores NFT data and is truly decentralized, creating value through exchange and returning profits to the community. And launched a continuous equity incentive ecological model, such as: providing investors with guaranteed repurchase and pledge services, providing rewards for global creators and project teams, etc.",
+    "explorer": "https://bscscan.com/token/0xD9976A13bea3E5AbBb16839E5ca49a852515C970",
+    "type": "BEP20",
+    "symbol": "OGT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xD9976A13bea3E5AbBb16839E5ca49a852515C970"
+   }
+   

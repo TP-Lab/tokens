@@ -1,0 +1,11 @@
+{
+ "name": "NumberSwap Token",
+ "website": "http://www.numberswap.online/",
+ "description": "NumberSwap Token.",
+ "explorer": "https://bscscan.com/token/0xc7e9D15A2dC34d3a9F532b325396B8bf02F44fB8",
+ "type": "BEP20",
+ "symbol": "SOA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc7e9D15A2dC34d3a9F532b325396B8bf02F44fB8"
+}

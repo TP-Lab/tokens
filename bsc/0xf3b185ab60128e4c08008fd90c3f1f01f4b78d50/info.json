@@ -1,0 +1,11 @@
+{
+ "name": "metadoge Token",
+ "website": "https://bscscan.com/token/0xf3b185ab60128e4c08008fd90c3f1f01f4b78d50",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xf3b185ab60128e4c08008fd90c3f1f01f4b78d50",
+ "type": "BEP20",
+ "symbol": "MetaDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf3B185ab60128E4C08008Fd90C3F1F01f4B78d50"
+}

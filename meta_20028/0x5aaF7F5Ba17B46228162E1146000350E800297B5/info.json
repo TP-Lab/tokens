@@ -1,0 +1,11 @@
+{ 
+"name": "MTU",
+"website": ".",
+"description": ".",
+"explorer": "https://block.metachain1.com/token/0x5aaF7F5Ba17B46228162E1146000350E800297B5",
+"type": "MTC-20",
+"symbol": "MTU",
+"decimals": 18,
+"status": "active",
+"id": "0x5aaF7F5Ba17B46228162E1146000350E800297B5"
+}

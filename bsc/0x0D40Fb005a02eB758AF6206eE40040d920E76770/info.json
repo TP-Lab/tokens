@@ -1,0 +1,11 @@
+{
+ "name": "A Game",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x0D40Fb005a02eB758AF6206eE40040d920E76770",
+ "type": "BSC20",
+ "symbol": "AG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0D40Fb005a02eB758AF6206eE40040d920E76770"
+}

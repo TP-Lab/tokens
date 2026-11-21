@@ -1,0 +1,11 @@
+{
+ "name": "PAPA BEAR",
+ "website": "https://papabsc.xyz/",
+ "description": "MEME",
+ "explorer": "https://bscscan.com/token/0x4bd46424b82194a2887516ecfeb1599a9531da0d",
+ "type": "BEP20",
+ "symbol": "PAPA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4bd46424b82194a2887516ecfeb1599a9531da0d"
+}

@@ -1,0 +1,11 @@
+{
+"name": "BitBrother",
+"website": "-",
+"description": "BB",
+"explorer": "https://bscscan.com/address/0xE60ce147621a372895329624f4C419DCDb3DAc39",
+"type": "BEP20",
+"symbol": "BB",
+"decimals": 18,
+"status": "active",
+"id": "0xE60ce147621a372895329624f4C419DCDb3DAc39"
+}

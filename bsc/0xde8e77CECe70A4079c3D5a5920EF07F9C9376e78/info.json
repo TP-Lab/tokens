@@ -1,0 +1,11 @@
+{ 
+"name": "FootEarn",
+"website": "https://fmp.footearn.live/#/home",
+"description": "FootEarn创立于英国伦敦,是全球首个集Web3.0、DeFi、NFT、GameFi等元素为一体的足球体育竞技赛事服务平台.FootEarn致力于在Web3.0标准下为全球12亿球迷创造一个价值20万亿美元的元宇宙足球赛事帝国并帮助更多普通人在家实现无风险创业.",
+"explorer": "https://bscscan.com/token/0xde8e77CECe70A4079c3D5a5920EF07F9C9376e78",
+"type": "BEP20",
+"symbol": "FTE",
+"decimals": 18,
+"status": "active",
+"id": "0xde8e77CECe70A4079c3D5a5920EF07F9C9376e78"
+}

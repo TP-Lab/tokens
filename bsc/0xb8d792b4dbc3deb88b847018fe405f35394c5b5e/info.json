@@ -1,0 +1,11 @@
+{
+ "name": "CatMoon",
+ "website": "http://catmooncoin.com",
+ "description": "CatMoon is a hyperdeflationary meme coin that aims to create a feline-focused social media brand and challenge the dog coins.",
+ "explorer": "https://bscscan.com/token/0xb8d792b4dbc3deb88b847018fe405f35394c5b5e",
+ "type": "BEP20",
+ "symbol": "CATMOON",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xb8d792b4dbc3deb88b847018fe405f35394c5b5e"
+}

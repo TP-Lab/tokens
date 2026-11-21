@@ -1,0 +1,11 @@
+{
+    "name": "Meta Car",
+    "website": "https://metacarus.com",
+    "description": "The first metaverse organization that mainly focuses on automobiles, to create a metaverse ecology.",
+    "explorer": "https://bscscan.com/address/0xFDd7c878e44ef9Eb95a0C4D40d20ceCA65E674A3",
+    "type": "BEP20",
+    "symbol": "Meta Car",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xFDd7c878e44ef9Eb95a0C4D40d20ceCA65E674A3"
+   } 

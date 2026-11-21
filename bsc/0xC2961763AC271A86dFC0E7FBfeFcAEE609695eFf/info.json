@@ -1,0 +1,11 @@
+{
+ "name": "ETN",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0xC2961763AC271A86dFC0E7FBfeFcAEE609695eFf",
+ "type": "BEP20",
+ "symbol": "ETN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC2961763AC271A86dFC0E7FBfeFcAEE609695eFf"
+}

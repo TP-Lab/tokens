@@ -1,0 +1,11 @@
+{
+ "name": "Asking",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xd0e75be39af244b2cd2da4aca297bb4113e96f5f",
+ "type": "BEP20",
+ "symbol": "Asking",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xD0e75BE39aF244b2cd2dA4aca297bb4113E96F5F"
+}

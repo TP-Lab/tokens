@@ -1,0 +1,11 @@
+{
+ "name": "AETS",
+ "website": "https://www.gamegff.com",
+ "description": "GFF platform, issued the first game token, the total amount of AETS is 2.1 billion, issued in constant quantity.",
+ "explorer": "https://bscscan.com/token/0x616dC296570a85e64DB9ddCE2D4176C081CD1F67",
+ "type": "BEP20",
+ "symbol": "AETS",
+ "decimals": 0,
+ "status": "active",
+ "id": "0x616dC296570a85e64DB9ddCE2D4176C081CD1F67"
+}

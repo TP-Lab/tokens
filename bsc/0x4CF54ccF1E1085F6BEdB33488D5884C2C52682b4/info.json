@@ -1,0 +1,11 @@
+{
+    "name": "CHATGPT COIN",
+    "website": "https://bscscan.com/address/0x4cf54ccf1e1085f6bedb33488d5884c2c52682b4",
+    "description": "ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot launched by OpenAI in November 2022. It is built on top of OpenAI's GPT-3 family of large language models and is fine-tuned (an approach to transfer learning) with both supervised and reinforcement learning techniques.",
+    "explorer": "https://bscscan.com/address/0x4cf54ccf1e1085f6bedb33488d5884c2c52682b4",
+    "type": "BEP20",
+    "symbol": "CHATGPT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4cf54ccf1e1085f6bedb33488d5884c2c52682b4"
+}

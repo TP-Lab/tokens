@@ -1,0 +1,11 @@
+{
+ "name": "Bit gold ",
+"website": "https://bscscan.com/token/0x5c70e62237B8F2D27b691f6B4BEBe80ce6d560d3",
+ "description": " BSC, Bit gold",
+ "explorer": "https://bscscan.com/token/0x5c70e62237B8F2D27b691f6B4BEBe80ce6d560d3",
+ "type": "BEP20",
+ "symbol": "Bit gold",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5c70e62237B8F2D27b691f6B4BEBe80ce6d560d3"
+}

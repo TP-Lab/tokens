@@ -1,0 +1,11 @@
+{
+ "name": "Playboy coin",
+ "website": "https://www.houndcoin.net",
+ "description": "PBC uses mainstream blockchain distributed ledger technology to achieve true decentralization and immutability",
+ "explorer": "https://bscscan.com/token/0x63bf67344ea2fa2bB58a4d3bAf7085e6ADfCAADC",
+ "type": "BEP20",
+ "symbol": "PBC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x63bf67344ea2fa2bB58a4d3bAf7085e6ADfCAADC"
+}

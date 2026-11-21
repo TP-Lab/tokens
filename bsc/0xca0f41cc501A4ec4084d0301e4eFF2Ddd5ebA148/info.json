@@ -1,0 +1,11 @@
+{
+ "name": "BurgerKing",
+ "website": "https://bscscan.com/token/0xca0f41cc501A4ec4084d0301e4eFF2Ddd5ebA148",
+ "description": "BurgerKing TOKEN.",
+ "explorer": "https://bscscan.com/token/0xca0f41cc501A4ec4084d0301e4eFF2Ddd5ebA148",
+ "type": "BEP20",
+ "symbol": "BurgerKing",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xca0f41cc501A4ec4084d0301e4eFF2Ddd5ebA148"
+}

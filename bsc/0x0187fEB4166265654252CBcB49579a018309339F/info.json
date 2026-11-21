@@ -1,0 +1,11 @@
+{
+ "name": "RacoonCity",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x0187fEB4166265654252CBcB49579a018309339F",
+ "type": "BEP20",
+ "symbol": "RacoonCity",
+ "decimals": 18,
+ "status": "not open yet",
+ "id": "0x0187fEB4166265654252CBcB49579a018309339F"
+}

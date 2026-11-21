@@ -1,0 +1,11 @@
+{
+ "name": "CBET Protocol",
+ "website": "https://cbet.finance",
+ "description": "A decentralized financial system that breaks the shackles and changes the world.",
+ "explorer": "https://www.bscscan.com/token/0xedb800ba4b48596b38c780cfe764ad003d9b9b77",
+ "type": "BEP20",
+ "symbol": "CBET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xeDB800bA4b48596b38C780cFE764aD003d9B9b77"
+}

@@ -2,10 +2,10 @@
 "name": "UMH Token",
 "website": "https://www.umh-medical.com",
 "description": "This is a start-up enterprise based on mdex blockchain",
-"explorer":"https://hecoinfo.com/token/0xaa3b015d1c4b06d7ca5d9e00e739d150363520df",
+"explorer":"https://hecoinfo.com/token/0xAA3B015D1C4B06D7cA5D9e00E739D150363520DF",
 "type": "HECO",
 "symbol": "UMH",
 "decimals": 18,
 "status": "active",
-"id": "0xaa3b015d1c4b06d7ca5d9e00e739d150363520df"
+"id": "0xAA3B015D1C4B06D7cA5D9e00E739D150363520DF"
 }

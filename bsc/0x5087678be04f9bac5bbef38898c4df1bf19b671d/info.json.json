@@ -1,0 +1,11 @@
+{
+  "name": "Black SHIBcoin",
+  "website": " https://shibcoin.press/",
+  "description": "Black Shiba Coin is a long term token of BEP-20 built on binyan smart chain and focused on Shiba INU driven community.",
+  "explorer": "https://bscscan.com/token/0x5087678be04f9bac5bbef38898c4df1bf19b671d",
+  "type": "BEP20",
+  "symbol": "SHIBcoin",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x5087678be04f9bac5bbef38898c4df1bf19b671d"
+}

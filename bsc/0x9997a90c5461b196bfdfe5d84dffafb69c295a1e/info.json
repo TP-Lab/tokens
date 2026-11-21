@@ -1,0 +1,11 @@
+{
+ "name": "BURN3.0&#128640;&#128640;&#128200; Token",
+ "website": "https://bscscan.com/token/0x9997a90c5461b196bfdfe5d84dffafb69c295a1e",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x9997a90c5461b196bfdfe5d84dffafb69c295a1e",
+ "type": "BEP20",
+ "symbol": "BURN3.0&#128640;&#128640;&#128200;",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9997a90C5461B196BFDFe5d84dffaFb69c295a1e"
+}

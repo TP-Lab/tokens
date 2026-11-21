@@ -1,0 +1,11 @@
+{
+ "name": "9419",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0x0cca1055f3827b6d2f530d52c514e3699c98f3b9",
+ "type": "BEP20",
+ "symbol": "9419",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0cca1055f3827b6d2f530d52c514e3699c98f3b9"
+}

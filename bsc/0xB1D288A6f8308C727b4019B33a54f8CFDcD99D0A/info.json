@@ -1,0 +1,11 @@
+{
+ "name": "NOSIM",
+ "website": "www.nosim.asia",
+ "description": "NOSIM is a blockchain integrated MMORPG game based on the RAN Online. Play and Earn by levelling and defeating bosses!",
+ "explorer": "https://bscscan.com/address/0xB1D288A6f8308C727b4019B33a54f8CFDcD99D0A",
+ "type": "BEP20",
+ "symbol": "NSM",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xB1D288A6f8308C727b4019B33a54f8CFDcD99D0A"
+}

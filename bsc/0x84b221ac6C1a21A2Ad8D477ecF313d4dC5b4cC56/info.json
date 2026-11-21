@@ -1,0 +1,11 @@
+{
+ "name": "Mars",
+ "website": "-",
+ "description": "Mars is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x84b221ac6C1a21A2Ad8D477ecF313d4dC5b4cC56",
+ "type": "BEP20",
+ "symbol": "Mars",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x84b221ac6C1a21A2Ad8D477ecF313d4dC5b4cC56"
+}

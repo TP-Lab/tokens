@@ -1,0 +1,11 @@
+{
+ "name": "AI",
+ "website": "https://www.metatsl.top/",
+ "description": "AI token is the equity token of Tesla NFT auction, 50% of the commission of each transaction will be destroyed, unlimited destruction mechanism, adding LP pool can enjoy 40% commission dividends, AI will also be deep in the field of intelligent chat software and multi-chain wallet",
+ "explorer": "https://bscscan.com/token/0x6dF52Fd8732c0d149035E16f4536Ef0A61487056",
+ "type": "BEP20",
+ "symbol": "AI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6dF52Fd8732c0d149035E16f4536Ef0A61487056"
+}

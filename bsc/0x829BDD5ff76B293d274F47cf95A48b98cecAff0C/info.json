@@ -1,0 +1,11 @@
+{
+    "name": "TYCOON",
+    "website": "https://tycoonzone.io/",
+    "description": "Tycoon Zone is the world's first 3D tycoon life simulation Metaverse blockchain game. Tycoon Zone brings its players a new experience different from traditional blockchain games by building a mesmerizing and splendid tycoon empire. ",
+    "explorer": "https://bscscan.com/token/0x829BDD5ff76B293d274F47cf95A48b98cecAff0C",
+    "type": "BEP20",
+    "symbol": "TYCOON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x829BDD5ff76B293d274F47cf95A48b98cecAff0C"
+}

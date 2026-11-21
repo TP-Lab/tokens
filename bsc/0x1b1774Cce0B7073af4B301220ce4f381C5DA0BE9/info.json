@@ -1,0 +1,11 @@
+{
+ "name": "MAFI",
+ "website": ".",
+ "description": "Mafi Crypto is building an entry layer for large-scale adoption of Web3.0, providing tailored mainstream market promotion and Metaverse web3.0 education to develop the community for users and enterprises.",
+ "explorer": "https://bscscan.com/token/0x1b1774Cce0B7073af4B301220ce4f381C5DA0BE9",
+ "type": "BEP20",
+ "symbol": "MAFI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1b1774Cce0B7073af4B301220ce4f381C5DA0BE9"
+}

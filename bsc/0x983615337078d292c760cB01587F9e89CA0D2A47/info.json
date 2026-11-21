@@ -1,0 +1,11 @@
+{
+    "name": "Trump DAO",
+    "website": ".",
+    "description": ". ",
+    "explorer": "https://etherscan.io/token/0x983615337078d292c760cB01587F9e89CA0D2A47",
+    "type": ERC20",
+    "symbol": "TPD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x983615337078d292c760cB01587F9e89CA0D2A47"
+}

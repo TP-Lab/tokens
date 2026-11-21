@@ -1,0 +1,11 @@
+{
+ "name": "Lemon World Cup Token",
+ "website": "https://lemonwc.win/",
+ "description": "Lemon World Cup is a web3 football betting platform, is a football casino belonging to the lemon family. Win, Earn USDT, lose, Mining LMWC, closed-loop economy,Profits never fail.",
+ "explorer": "https://bscscan.com/token/0x0d17d0bEc371DC3e6774Dc11809E525132353c15",
+ "type": "BEP20",
+ "symbol": "LMWC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0d17d0bEc371DC3e6774Dc11809E525132353c15"
+}

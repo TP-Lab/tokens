@@ -1,0 +1,11 @@
+{
+    "name": "Hutou Community",
+    "website": "https://bscscan.com/address/0xbc470e3d506df49e3498dac3df57d9dbb746caa6",
+    "description": "Hutou Community is spontaneously formed by enthusiasts who love blockchain technology. The community is committed to exploring the application and practice of blockchain finance!",
+    "explorer": "https://bscscan.com/address/0xbc470e3d506df49e3498dac3df57d9dbb746caa6",
+    "type": "BEP20",
+    "symbol": "Hutou",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBC470E3d506df49e3498Dac3Df57d9DbB746CAa6"
+}

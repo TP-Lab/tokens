@@ -1,0 +1,11 @@
+{
+    "name": "DRM",
+    "website": "https://www.doraemonfund.org",
+    "description": "DRM",
+    "explorer": "https://bscscan.com/token/0xEeE4e8A574126877d9239e0387Cf3B73a9aeFD6d",
+    "type": "BEP20",
+    "symbol": "DRM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xEeE4e8A574126877d9239e0387Cf3B73a9aeFD6d"
+   } 

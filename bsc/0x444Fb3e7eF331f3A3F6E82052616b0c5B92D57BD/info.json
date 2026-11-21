@@ -1,0 +1,11 @@
+{
+ "name": "NMS",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x444Fb3e7eF331f3A3F6E82052616b0c5B92D57BD",
+ "type": "BEP20",
+ "symbol": "NMS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x444Fb3e7eF331f3A3F6E82052616b0c5B92D57BD"
+}

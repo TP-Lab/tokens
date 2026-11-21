@@ -1,0 +1,11 @@
+{
+ "name": "SZ19",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xF18A7DC9D5B69f93954F8C99377eFB9F8d838888",
+ "type": "BEP20",
+ "symbol": "SZ19",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xF18A7DC9D5B69f93954F8C99377eFB9F8d838888"
+}

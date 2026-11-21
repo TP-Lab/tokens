@@ -1,0 +1,11 @@
+{
+ "name": "NEYMAR",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x1F5CdBD016a0459e4d31Cb562aaD92080E6B50ae",
+ "type": "BEP20",
+ "symbol": "NEYMAR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1F5CdBD016a0459e4d31Cb562aaD92080E6B50ae"
+}

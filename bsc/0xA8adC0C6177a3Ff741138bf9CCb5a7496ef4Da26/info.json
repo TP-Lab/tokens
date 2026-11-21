@@ -1,0 +1,11 @@
+{
+ "name": "2022 Be Rich",
+ "website": ".",
+ "description": "BeRich是通缩代币，持币可以分红USDT的代币",
+ "explorer": "https://bscscan.com/token/0xA8adC0C6177a3Ff741138bf9CCb5a7496ef4Da26",
+ "type": "BSC20",
+ "symbol": "BeRich",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xA8adC0C6177a3Ff741138bf9CCb5a7496ef4Da26"
+}

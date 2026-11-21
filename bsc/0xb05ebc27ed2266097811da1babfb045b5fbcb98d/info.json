@@ -1,0 +1,11 @@
+{
+  "name": "KingArthur",
+  "website": ".",
+  "description": ".",
+  "explorer": "https://bscscan.com/token/0xb05ebc27ed2266097811da1babfb045b5fbcb98d",
+  "type": "BEP20",
+  "symbol": "KingArthur",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb05ebc27ed2266097811da1babfb045b5fbcb98d"
+} 

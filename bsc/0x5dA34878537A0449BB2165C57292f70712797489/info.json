@@ -1,0 +1,11 @@
+{
+ "name": "TIGER",
+ "website": "https://tiger.network",
+ "description": "It is the product of defi + metaverse aggregate extreme deflation concept developed based on BSC coin security intelligent chain!",
+ "explorer": "https://bscscan.com/token/0x5dA34878537A0449BB2165C57292f70712797489",
+ "type": "BEP20",
+ "symbol": "TGR",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5dA34878537A0449BB2165C57292f70712797489"
+}

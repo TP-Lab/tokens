@@ -1,0 +1,11 @@
+{
+"name": "MetaMoon",
+"website": "-",
+"description": "MetaMoon",
+"explorer": "https://bscscan.com/address/0xc5b909d8AC6c5Ecef39AfDd738c3C5803b02D3d2",
+"type": "BEP20",
+"symbol": "MetaMoon",
+"decimals": 18,
+"status": "active",
+"id": "0xc5b909d8AC6c5Ecef39AfDd738c3C5803b02D3d2"
+}

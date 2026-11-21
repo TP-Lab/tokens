@@ -1,0 +1,11 @@
+{
+  "name": "MIC",
+  "website": "https://www.microcosm.finance/",
+  "description": "mic将元宇宙生态发展，治理和归属权益交给全球30个社区900个超强共识者，人人公平共建全球共识，让共识产生价值，每个人实现自己心中的小宇宙.",
+  "explorer": "https://bscscan.com/token/0x71Fc2c893e41EaBDF9C4Afda3b2Cdb46B93Cd8Aa",
+  "type": "BEP20",
+  "symbol": "MIC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x71Fc2c893e41EaBDF9C4Afda3b2Cdb46B93Cd8Aa"
+}

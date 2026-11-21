@@ -1,0 +1,11 @@
+{
+ "name": "Nuclear Bomb",
+ "website": "http://www.nuclearbomb.vip",
+ "description": "Nuclear Bomb is an utility token, holders can use various on-chain tools for free.",
+ "explorer": "https://bscscan.com/token/0x86A433A5BA224FA11247aE23FC8fbfC6dF4C7085",
+ "type": "BEP20",
+ "symbol": "NB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x86A433A5BA224FA11247aE23FC8fbfC6dF4C7085"
+}

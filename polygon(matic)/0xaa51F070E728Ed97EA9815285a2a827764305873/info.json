@@ -1,0 +1,11 @@
+{
+ "name": "Babylon Chain",
+ "website": "https://babylonnetwork.gitbook.io/document/",
+ "description": "As the token of the Babylon public chain and an important part of the metaverse ecology, BABM has no pre-mining, no seed round, and no pre-sale. All tokens are mined by NFT stake. The total circulation of BABM is 1 billion. Before the release of the mainnet of the Babylon public chain, the token runs on the Polygon protocol.",
+ "explorer": "https://polygonscan.com/token/0xaa51F070E728Ed97EA9815285a2a827764305873",
+ "type": "Polygon",
+ "symbol": "BABM",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xaa51F070E728Ed97EA9815285a2a827764305873"
+}

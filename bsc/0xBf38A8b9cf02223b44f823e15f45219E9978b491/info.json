@@ -1,0 +1,12 @@
+{
+"name": "DIV",
+"website": "https://diviner.io",
+"description": "We’ve been endeavoring to maintain the fairness of the project by avoiding external funding and keeping self-funding, in order to ensure its long-term significance. We sincerely hold that Diviner will be the cradle of cross-NFT, game, and cross-meta-universe.",
+"explorer": "https://bscscan.com/token/0xbf38a8b9cf02223b44f823e15f45219e9978b491",
+"type": "BEP20",
+"symbol": "DIV",
+"decimals": 18,
+"status": "active",
+"id": "0xbf38a8b9cf02223b44f823e15f45219e9978b491"
+}
+

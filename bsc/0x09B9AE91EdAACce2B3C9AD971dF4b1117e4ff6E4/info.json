@@ -1,0 +1,11 @@
+{
+    "name": "MGB",
+    "website": "https://www.mini-game.co",
+    "description": "The MiniGame game platform was built by the U.S. Silicon Valley R&D team. It uses blockchain technology to solve the trust and security problems of game asset management. Through point-to-point information transmission, it forms a Distributed database that is jointly built and shared. Through the integration of game NFT, it builds a safe, reliable, interesting, and low threshold refining Gamefi ecosystem",
+    "explorer": "https://bscscan.com/token/0x09B9AE91EdAACce2B3C9AD971dF4b1117e4ff6E4",
+    "decimals": 18,
+    "type": "BEP20",
+    "symbol": "MGB",
+    "status": "active",
+    "id": "0x09B9AE91EdAACce2B3C9AD971dF4b1117e4ff6E4"
+}

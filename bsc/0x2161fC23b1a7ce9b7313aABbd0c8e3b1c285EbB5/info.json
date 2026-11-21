@@ -1,0 +1,11 @@
+{
+  "name": "Super FIST Token",
+  "website": "ttps://bscscan.com/token/0x2161fc23b1a7ce9b7313aabbd0c8e3b1c285ebb5",
+  "description": "超级去零拳头币,总量1000万亿全流通。",
+  "explorer": "https://bscscan.com/token/0x2161fc23b1a7ce9b7313aabbd0c8e3b1c285ebb5",
+  "type": "BEP20",
+  "symbol": "SFIST",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x2161fC23b1a7ce9b7313aABbd0c8e3b1c285EbB5"
+}

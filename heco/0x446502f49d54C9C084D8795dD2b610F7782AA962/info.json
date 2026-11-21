@@ -1,0 +1,11 @@
+{
+ "name": "BTCQ",
+ "website": "www.btcdefi.vip",
+ "description": "-",
+ "explorer": "https://hecoinfo.com/token/0x446502f49d54C9C084D8795dD2b610F7782AA962",
+ "type": "HRC-2",
+ "symbol": "BTCQ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x446502f49d54C9C084D8795dD2b610F7782AA962"
+}

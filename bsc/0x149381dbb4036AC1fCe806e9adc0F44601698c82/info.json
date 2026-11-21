@@ -1,0 +1,11 @@
+{
+ "name": "LSNT",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x149381dbb4036AC1fCe806e9adc0F44601698c82",
+ "type": "BEP20",
+ "symbol": "LSNT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x149381dbb4036AC1fCe806e9adc0F44601698c82"
+}

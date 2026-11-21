@@ -1,0 +1,11 @@
+{
+  "name": "SuperFist Token",
+  "website": "http://superfist.io",
+  "description": "SuperFIST is a unique and interesting blockchain community.We are closely united to build SuperFIST into a world-renowned NFT blockchain community.",
+  "explorer": "https://bscscan.com/address/0x7edE72bBAa15EdD455B3a009759cf6075D819784",
+  "type": "BEP20",
+  "symbol": "SFIST",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x7edE72bBAa15EdD455B3a009759cf6075D819784"
+}

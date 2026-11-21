@@ -1,0 +1,11 @@
+{
+ "name": "SNFT token",
+ "website": "https://www.snfttoken.org",
+ "description": "SNFT token",
+ "explorer": "https://bscscan.com/address/0x2ca6fe115b7a12bcb3791887a7f701daa54c3cc2",
+ "type": "BEP20",
+ "symbol": "SNFT",
+ "decimals":18 ,
+ "status": "active",
+ "id": "0x2ca6fe115b7a12bcb3791887a7f701daa54c3cc2"
+}

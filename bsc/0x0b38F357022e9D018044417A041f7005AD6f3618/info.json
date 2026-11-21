@@ -1,0 +1,11 @@
+{
+ "name": "BabyDogeKiller",
+ "website": "https://www.babydogekiller.top",
+ "description": "BabyDogeKiller is a crypto-gaming ecosystem built on a play-to-earn game, bridge platform, and NFT marketplace",
+ "explorer": "https://bscscan.com/token/0x0b38F357022e9D018044417A041f7005AD6f3618",
+ "type": "BEP20",
+ "symbol": "BabyDogeKiller",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0b38F357022e9D018044417A041f7005AD6f3618"
+}

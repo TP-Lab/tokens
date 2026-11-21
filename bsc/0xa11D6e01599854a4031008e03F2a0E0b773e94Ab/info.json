@@ -1,0 +1,11 @@
+{
+ "name": "Encrypted Oasis Legend",
+ "website": "https://eol.finance",
+ "description": "Free,open and secure crypto asset management platform.",
+ "explorer": "https://bscscan.com/token/0xa11D6e01599854a4031008e03F2a0E0b773e94Ab",
+ "type": "BEP20",
+ "symbol": "EOL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa11D6e01599854a4031008e03F2a0E0b773e94Ab"
+}

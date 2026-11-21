@@ -1,0 +1,12 @@
+
+{
+ "name": "UATsuper",
+ "website": "https://uats.uat.ai",
+ "description": "UATs Finance is a new DeFi platform on the Binance Smart Chain network. The UATs Finance platform aims to bring a high yield to all users and provide everyone with an independent financial support fund, based on Smart Contract technology.",
+ "explorer": "https://bscscan.com/token/0xe5d423d574944316e437b126617ba7a226f7703d",
+ "type": "BEP20",
+ "symbol": "UATs",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe5D423D574944316e437B126617BA7a226f7703D"
+}

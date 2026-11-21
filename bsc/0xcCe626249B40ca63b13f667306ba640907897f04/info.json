@@ -1,0 +1,11 @@
+{
+ "name": "BIDD",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xcCe626249B40ca63b13f667306ba640907897f04",
+ "type": "BEP20",
+ "symbol": "BIDD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcCe626249B40ca63b13f667306ba640907897f04"
+}

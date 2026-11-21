@@ -1,0 +1,11 @@
+{
+ "name": "KOB",
+ "website": "https://bscscan.com/token/0x79629450DA16f9D9a1d35Ba8f592735712a11f71",
+ "description": "KOB TOKEN.",
+ "explorer": "https://bscscan.com/token/0x79629450DA16f9D9a1d35Ba8f592735712a11f71",
+ "type": "BEP20",
+ "symbol": "KOB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x79629450DA16f9D9a1d35Ba8f592735712a11f71"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "DATA",
+ "website": "https://datacoin.top/#/?code=0x537475a29520542Bad5B8C0dcbE1baA3fbF53C6d",
+ "description": "DataCoin由母公司Bigbear.ai Holdings在美国纽交所（BBAI）投资成立，旨在成为前沿的数据众包平台。为了让Queen AI更上一层楼，我们把众包数据打散，将其切割成小碎片，并通过区块链技术对每一小片进行精准标记。DATA代币不仅仅是一个简单代币，更是连接现实和虚拟的桥梁。每一份被标记的数据都将以DATA代币的形式被永久记录，DATA代币总发行量共3亿枚，每一枚销毁的DATA代币，都承载其独特的意义。这些销毁所产生的价值，将被提供给Queen AI模型，为了能让所有参与这场人工智能盛宴的用户获得最佳的收益，datacoin平台成立了DATA人工智能联盟，并用Queen为其打造了独特的引流机制。友情提示：您只能通过人工智能DATA联盟众包Dapp swap购买，通过其它渠道购买，币将被100%销毁！DATA联盟众包dapp：https://datacoin.top/#/?code=0x537475a29520542bad5b8c0dcbe1baa3fbf53c6d",
+ "explorer": "https://bscscan.com/token/0x5feDF523e8119Cd990A9b304aA3C7B595c765341",
+ "type": "BEP20",
+ "symbol": "DATA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5feDF523e8119Cd990A9b304aA3C7B595c765341"
+}

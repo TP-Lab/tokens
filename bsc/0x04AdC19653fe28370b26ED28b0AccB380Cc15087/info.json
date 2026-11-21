@@ -1,0 +1,11 @@
+{
+ "name": "TokenPocket Token",
+ "website": "https://tokenpocket.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x04AdC19653fe28370b26ED28b0AccB380Cc15087",
+ "type": "BEP20",
+ "symbol": "GS",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x04AdC19653fe28370b26ED28b0AccB380Cc15087"
+}

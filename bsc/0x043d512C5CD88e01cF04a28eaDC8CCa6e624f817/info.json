@@ -1,0 +1,11 @@
+{
+ "name": "Three Body Problem Metaverse",
+ "website": "http://tbpmetaverse.cc",
+ "description": "It aims to create an immersive interstellar city game experience for blockchain players.",
+ "explorer": "https://bscscan.com/token/0x043d512c5cd88e01cf04a28eadc8cca6e624f817",
+ "type": "BEP20",
+ "symbol": "TBP",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x043d512C5CD88e01cF04a28eaDC8CCa6e624f817"
+}

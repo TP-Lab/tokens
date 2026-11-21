@@ -1,0 +1,11 @@
+{
+ "name": "DVS",
+ "website": "-",
+ "description": "DVS can enable the global consensus to achieve economic freedom.",
+ "explorer": "https://bscscan.com/address/0x21b59c5a9d92710D683958A53f5a989679bc5b63",
+ "type": "BEP20",
+ "symbol": "DVS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x21b59c5a9d92710D683958A53f5a989679bc5b63"
+}

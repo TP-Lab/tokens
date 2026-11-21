@@ -1,0 +1,11 @@
+{
+	"name": "NEBULA",
+	"website": "https://www.nebulaweb.top",
+	"description": "NEB is a token with the concept of distributed autonomous organization SDAO.",
+	"explorer": "https://bscscan.com/token/0x2C6eb24A28Ad32460d06476321FDc18D340234Af",
+	"type": "BEP20",
+	"symbol": "NEB",
+	"decimals": 18,
+	"status": "active",
+	"id": "0x2C6eb24A28Ad32460d06476321FDc18D340234Af"
+ }

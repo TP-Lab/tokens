@@ -1,0 +1,11 @@
+{
+ "name": "LIGHTCYCLE Token",
+ "website": "https://bscscan.com/token/0xcf5b48bd28dc1459ad575c0c83a839fef2a463bc",
+ "description": "https://bscscan.com/token/0xcf5b48bd28dc1459ad575c0c83a839fef2a463bc",
+ "explorer": "https://bscscan.com/token/0xcf5b48bd28dc1459ad575c0c83a839fef2a463bc",
+ "type": "BEP20",
+ "symbol": "LILC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xCF5B48BD28Dc1459ad575c0c83A839feF2A463bc"
+}

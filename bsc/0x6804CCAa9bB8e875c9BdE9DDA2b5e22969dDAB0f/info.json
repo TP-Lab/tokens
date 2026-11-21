@@ -1,0 +1,11 @@
+{
+  "name": "WiKi",
+  "website": "https://pangolinswap.net/",
+  "description": "WiKi",
+  "explorer": "https://bscscan.com/token/0x6804CCAa9bB8e875c9BdE9DDA2b5e22969dDAB0f",
+  "type": "BEP20",
+  "symbol": "WiKi",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x6804CCAa9bB8e875c9BdE9DDA2b5e22969dDAB0f"
+}

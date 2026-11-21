@@ -1,0 +1,11 @@
+{
+ "name": "AlphaDAO",
+ "website": "https://www.alphadao.pro",
+ "description": "AlphaDAO is a community-driven DAO platform empowering users by rewarding them for their engagement and enjoyment.",
+ "explorer": "https://bscscan.com/token/0x0c5328400a5110eb26d547cd9a40c0d5c728ffe3",
+ "type": "BEP20",
+ "symbol": "ALPHADAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0C5328400a5110EB26D547cd9A40c0D5C728fFe3"
+}

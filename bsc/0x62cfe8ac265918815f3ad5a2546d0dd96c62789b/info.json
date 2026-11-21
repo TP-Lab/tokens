@@ -1,0 +1,11 @@
+﻿{
+ "name": "Panda",
+ "website": "www.ftzo2o.com",
+ "description": "The PANDA token is officially listed by Parchim Free Trade Zone Exchange representing ESG Panda NFT for trading, and the trading price is subject to the Parchim Free Trade Zone Exchange listing price.Customers can purchase PANDA tokens on the Parchim Free Trade Zone Exchange (FTZEX) or PancakeSwap. Recharging with WeChat, Alipay, bank cards on FTZEX exchange for PANDA from BDD. The ESG Panda NFT is available in the digital assets column of Parchim Free Trade Zone Shopping Mall. Registered users can deposit ESG Panda NFT to their multiple currency accounts through the FTZEX Multi-currency Digital Currency Wallet, exchange for various digital currencies, Euros and US dollars in the duty-free trading area. Exchange ESG Panda NFT for BDD tokens for worldwide circulation, and cash out through Parchim Free Trade Zone Exchange OTC transactions. The PANDA token can be traded with BDD to and from USDT on PancakeSwap, which providing easy way for mining PANDA tokens with BDD tokens.",
+ "explorer": "https://bscscan.com/token/0x62cfe8ac265918815f3ad5a2546d0dd96c62789b",
+ "type": "BEP20",
+ "symbol": "PANDA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x62cfe8ac265918815f3ad5a2546d0dd96c62789b"
+}

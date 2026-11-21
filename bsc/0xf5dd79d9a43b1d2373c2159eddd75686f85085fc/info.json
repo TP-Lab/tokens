@@ -1,0 +1,11 @@
+{
+ "name": "Super AI",
+ "website": "http://ai.superai.ink",
+ "description": "Super AI， 简称SAI，发行量：21000000",
+ "explorer": "https://bscscan.com/token/0xf5dd79d9a43b1d2373c2159eddd75686f85085fc",
+ "type": "BEP20",
+ "symbol": "SAI",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xf5dd79d9a43b1d2373c2159eddd75686f85085fc"
+}

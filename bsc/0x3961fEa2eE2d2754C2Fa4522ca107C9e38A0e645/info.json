@@ -1,0 +1,11 @@
+{
+ "name": "Digital Rose Game",
+ "website": "https://www.drose.link",
+ "description": "Drose - Give you a NFT Rose",
+ "explorer": "https://bscscan.com/token/0x3961fEa2eE2d2754C2Fa4522ca107C9e38A0e645",
+ "type": "BEP20",
+ "symbol": "DROSE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3961fEa2eE2d2754C2Fa4522ca107C9e38A0e645"
+}

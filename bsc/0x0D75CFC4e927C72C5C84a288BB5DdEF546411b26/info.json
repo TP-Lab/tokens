@@ -1,0 +1,11 @@
+{
+ "name": "Tether KLN",
+ "website": "-",
+ "description": "Tether KLN is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x0D75CFC4e927C72C5C84a288BB5DdEF546411b26",
+ "type": "BEP20",
+ "symbol": " KLN ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0D75CFC4e927C72C5C84a288BB5DdEF546411b26"
+}

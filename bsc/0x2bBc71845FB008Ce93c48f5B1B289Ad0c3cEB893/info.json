@@ -1,0 +1,11 @@
+{
+ "name": "Tauro",
+ "website": "-",
+ "description": "Tauro is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x2bBc71845FB008Ce93c48f5B1B289Ad0c3cEB893",
+ "type": "BEP20",
+ "symbol": " Tauro",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2bBc71845FB008Ce93c48f5B1B289Ad0c3cEB893"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "ÐÂ´óÂ½",
+ "website": "-",
+ "description": "XDL is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x183b771f5c268B2DCC97a6300af9b4557411A7e5",
+ "type": "BEP20",
+ "symbol": "XDL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x183b771f5c268B2DCC97a6300af9b4557411A7e5"
+}

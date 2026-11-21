@@ -1,0 +1,11 @@
+{
+    "name": "Captain",
+    "website": "https://www.richmonkey.vip/",
+    "description": "Captain (CAP)",
+    "explorer": "https://bscscan.com/address/0x63DfC8CB9B289b2299e58ec78D1e2f17Bc006c80",
+    "type": "ERC721",
+    "symbol": "CAP",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x63DfC8CB9B289b2299e58ec78D1e2f17Bc006c80"
+}

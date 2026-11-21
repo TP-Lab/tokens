@@ -1,0 +1,11 @@
+{
+ "name": "ETHG",
+ "website": "no",
+ "description": " no",
+ "explorer": "https://etherscan.io/token/0x8813f5bcbe6c7071d8bd32d2a4f07599bb5797b0",
+ "type": "ERC20",
+ "symbol": "ETHG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8813f5bcbe6c7071d8bd32d2a4f07599bb5797b0"
+}

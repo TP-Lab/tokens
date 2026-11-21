@@ -1,0 +1,11 @@
+{ 
+"name": "T3",
+"website": "https://am.game3.club/",
+"description": "This is a blockchain game called animal world",
+"explorer": "https://bscscan.com/token/0xbF5D28a824f35395D8a6C6CdA079F3c9B9443De6",
+"type": "BEP20",
+"symbol": "T3",
+"decimals": 18,
+"status": "active",
+"id": "0xbF5D28a824f35395D8a6C6CdA079F3c9B9443De6"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "CRYPTO CARD",
+ "website": "https://www.cryptioncard.com",
+ "description": "Crypto Card is a protocol offering an infrastructure that combines GameFi, NFT, and DeFi. It can attract users to join the blockchain space as an independent and open NFT ecosystem. Through the Crypto Card NFT kit, anyone can issue his NFTs to join a game. Also, the issued NFTs can be traded or auctioned. In this way, the whole life cycle of an NFT can be covered.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xe93707eDa8Bd9690e7a0Ed754bE9d064ED6984E4",
+ "type": "KIP20",
+ "symbol": "CC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe93707eDa8Bd9690e7a0Ed754bE9d064ED6984E4"
+}

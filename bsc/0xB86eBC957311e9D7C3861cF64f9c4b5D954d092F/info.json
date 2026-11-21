@@ -1,0 +1,11 @@
+{
+  "name": "SOLR",
+  "website": "http://home.solr.space/",
+  "description": "Solr is a decentralized blockchain built to enable scalable, user-friendly apps for the world.",
+  "explorer": "https://bscscan.com/token/0xB86eBC957311e9D7C3861cF64f9c4b5D954d092F",
+  "type": "BEP20",
+  "symbol": "SOLR",
+  "decimals": 6,
+  "status": "active",
+  "id": "0xb86ebc957311e9d7c3861cf64f9c4b5d954d092f"
+}

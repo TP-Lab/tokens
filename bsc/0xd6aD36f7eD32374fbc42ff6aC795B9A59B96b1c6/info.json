@@ -1,0 +1,11 @@
+{
+ "name": "Bodhi Tree",
+ "website": "https://www.bodhitreen.com/",
+ "description": "BOT, as the digital stock of Banyan Tree Technology Co., Ltd., provides users with all-round services based on the principle of global layout and user supremacy, constantly updates the high-quality ecosystem with current asset value in the DEFI sector, constantly explores the advanced value of the DEFI+web3+metauniverse, and brings users a value-added experience. At the same time, it makes BOT more scarce and value-added with technology ecology, A more professional, high-quality and responsible vision empowers users' asset appreciation.",
+ "explorer": "https://bscscan.com/token/0xd6aD36f7eD32374fbc42ff6aC795B9A59B96b1c6",
+ "type": "BEP20",
+ "symbol": "BOT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd6aD36f7eD32374fbc42ff6aC795B9A59B96b1c6"
+}

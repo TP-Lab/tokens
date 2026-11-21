@@ -1,0 +1,11 @@
+{
+ "name": "SAEX TOKEN",
+ "website": "https://bscscan.com/token/0xb6fB609d11d8E7a420240b6C3db8DC83e2FDb59a",
+ "description": "SAEX TOKEN",
+ "explorer": "https://bscscan.com/token/0xb6fB609d11d8E7a420240b6C3db8DC83e2FDb59a",
+ "type": "BEP20",
+ "symbol": "SAT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb6fB609d11d8E7a420240b6C3db8DC83e2FDb59a"
+}

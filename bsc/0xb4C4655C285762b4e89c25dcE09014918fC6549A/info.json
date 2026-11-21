@@ -1,0 +1,9 @@
+ "name": "GS",
+ "website": "https://tokenpocket.pro",
+ "description": "A decentralized token on the BNB Chain.",
+ "explorer": "https://bscscan.com/token/0xb4C4655C285762b4e89c25dcE09014918fC6549A",
+ "type": "BEP20",
+ "symbol": "GS",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xb4C4655C285762b4e89c25dcE09014918fC6549A"

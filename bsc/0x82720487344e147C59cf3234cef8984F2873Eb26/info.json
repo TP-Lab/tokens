@@ -1,0 +1,11 @@
+{
+ "name": "Hour Of Defeat",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x82720487344e147C59cf3234cef8984F2873Eb26",
+ "type": "BSC20",
+ "symbol": "DOD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x82720487344e147C59cf3234cef8984F2873Eb26"
+}

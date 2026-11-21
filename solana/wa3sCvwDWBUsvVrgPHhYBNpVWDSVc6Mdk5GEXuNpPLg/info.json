@@ -1,0 +1,11 @@
+{
+ "name": "WCDONALDS",
+ "website": ".",
+ "description": "Mysterious Point brings the speed and convenience of centralized exchanges to DeFi while remaining fully trustless and transparent.",
+ "explorer": "https://explorer.solana.com/address/wa3sCvwDWBUsvVrgPHhYBNpVWDSVc6Mdk5GEXuNpPLg",
+ "type": "SPL",
+ "symbol": "WCDONALDS",
+ "decimals": 1,
+ "status": "active",
+ "id": "wa3sCvwDWBUsvVrgPHhYBNpVWDSVc6Mdk5GEXuNpPLg"
+}

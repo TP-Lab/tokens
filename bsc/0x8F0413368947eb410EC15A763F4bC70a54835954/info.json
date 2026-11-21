@@ -1,0 +1,11 @@
+{
+ "name": "bigmillionaire",
+ "website": "https://web.bmo.eu.com",
+ "description": "big Millionaire愿作为新时代的推动者致力于区块链技术普及创新，帮助更多的人踏上通往财富行程。BMO在币安生态链（BSC）发行1万万亿枚猫币BMO（big Millionaire）",
+ "explorer": "https://bscscan.com/address/0x8f0413368947eb410ec15a763f4bc70a54835954",
+ "type": "BEP20",
+ "symbol": "BMO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8F0413368947eb410EC15A763F4bC70a54835954"
+}

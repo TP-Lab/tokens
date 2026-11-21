@@ -1,0 +1,11 @@
+{
+ "name": "WaterBearBug",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x6a44709B1fa78932A11946C4365134d1Fde0f45D",
+ "type": "BSC20",
+ "symbol": "WBB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x6a44709B1fa78932A11946C4365134d1Fde0f45D"
+}

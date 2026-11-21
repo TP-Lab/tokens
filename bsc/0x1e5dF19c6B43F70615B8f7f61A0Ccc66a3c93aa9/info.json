@@ -1,0 +1,11 @@
+{
+ "name": "CarToken",
+ "website": "https://superracing.co",
+ "description": "Super Racing  a new and secure DeFi+NFT SaaS (software as a service) .",
+ "explorer": "https://bscscan.com/token/0x1e5df19c6b43f70615b8f7f61a0ccc66a3c93aa9",
+ "type": "BEP20",
+ "symbol": "CAR",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x1e5df19c6b43f70615b8f7f61a0ccc66a3c93aa9"
+}

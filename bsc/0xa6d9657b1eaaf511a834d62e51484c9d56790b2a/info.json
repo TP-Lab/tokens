@@ -1,0 +1,11 @@
+{
+ "name": "CaesarsInsuranceFund Token",
+ "website": "https://www.cif.finance/",
+ "description": "The First auto-pledge compound fund paid in USDT ,invests in the highest APY project in history, and rewards users with a sustainable fixed compound interest model by using its unique SAP protocol and decentralized finance loan(L/A)protocol,CIF provides decentralized financial assets for investment and lending. It is the best automatic mortgage and automatic composite protocol in DeFi 3.0, which is safe and sustainable. ",
+ "explorer": "https://bscscan.com/token/0xA6D9657B1EAaf511A834D62E51484c9D56790B2a",
+ "type": "BEP20",
+ "symbol": "CIF",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA6D9657B1EAaf511A834D62E51484c9D56790B2a"
+}

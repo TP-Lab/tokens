@@ -1,0 +1,11 @@
+{
+ "name": "DOG",
+ "website": "dogcoindogcoin.com",
+ "description": "DOG will fly",
+ "explorer": "https://bscscan.com/token/0xCC4861AdC85d86ae8c9cc9D19F4F109969eb4F7B",
+ "type": "BEP20",
+ "symbol": "DOG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xCC4861AdC85d86ae8c9cc9D19F4F109969eb4F7B"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "aelfunion",
+ "website": "-",
+ "description": "aelfunion is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x43A45D34912b25c542329915cB46db4cFA281DD9",
+ "type": "BEP20",
+ "symbol": "ELFU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x43A45D34912b25c542329915cB46db4cFA281DD9"
+}

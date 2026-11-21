@@ -1,0 +1,11 @@
+{
+	"name": "TNT",
+	"website": "-",
+	"description": "TNT is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+	"explorer": "https://bscscan.com/address/0xfbdeb997266Ef6A274D77717B59477129af6B570",
+	"type": "BEP20",
+	"symbol": "TNT",
+	"decimals": 18,
+	"status": "active",
+	"id": "0xfbdeb997266Ef6A274D77717B59477129af6B570"
+}

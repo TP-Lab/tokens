@@ -1,0 +1,11 @@
+{
+ "name": "AFT",
+ "website": "https://www.aftswap.com",
+ "description": "ART Non-Fungible Token builds consensus for better deepening decentralized trust in the future.",
+ "explorer": "https://bscscan.com/token/0x553040a0b3403F12c5B97f3B067C3387Bea31028",
+ "type": "BEP20",
+ "symbol": "AFT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x553040a0b3403F12c5B97f3B067C3387Bea31028"
+}

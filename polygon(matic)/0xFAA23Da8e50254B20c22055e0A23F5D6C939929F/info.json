@@ -1,0 +1,11 @@
+{
+ "name": "Blockchain Financial System Coin",
+ "website": "https://www.bfc.ink",
+ "description": "BFC is the token of Blockchain Financial System. BFC is committed to creating a financial product with low threshold and simple process, and provides users with comfortable and high-quality financial services through innovation and interactive experience. BFC's goal is to continue to promote the development of digital assets and financial fields based on the concept of decentralization, and create more opportunities for users.",
+ "explorer": "https://polygonscan.com/token/0xFAA23Da8e50254B20c22055e0A23F5D6C939929F",
+ "type": "ERC20",
+ "symbol": "BFC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFAA23Da8e50254B20c22055e0A23F5D6C939929F"
+}

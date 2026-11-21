@@ -1,0 +1,11 @@
+{
+ "name": "太空之链",
+ "website": "https://tokel.io",
+ "description": "Create NFTs and tokens easily.No complicated smart contracts.No Gas Fees.",
+ "explorer": "https://bscscan.com/token/0xd9988c3fe281457e83e70657c365ac82821d6acd",
+ "type": "BEP20",
+ "symbol": "TKL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xd9988C3fe281457E83E70657C365Ac82821D6aCD"
+}

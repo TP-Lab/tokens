@@ -1,0 +1,11 @@
+{
+ "name": "UNL",
+ "website": "-",
+ "description": "UNL is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x1DCdD6Ab80CA732a3ad4e9F857b33d7e90D0Bba8",
+ "type": "BEP20",
+ "symbol": "UNL",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1DCdD6Ab80CA732a3ad4e9F857b33d7e90D0Bba8"
+}

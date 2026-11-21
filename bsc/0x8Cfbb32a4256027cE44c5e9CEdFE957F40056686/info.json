@@ -1,0 +1,11 @@
+{
+ "name": "DigitalDoge",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x8Cfbb32a4256027cE44c5e9CEdFE957F40056686",
+ "type": "BEP20",
+ "symbol": "DiDoge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8Cfbb32a4256027cE44c5e9CEdFE957F40056686"
+}

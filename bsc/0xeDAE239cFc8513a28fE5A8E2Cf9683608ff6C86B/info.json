@@ -1,0 +1,11 @@
+{
+ "name": "TYG",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xeDAE239cFc8513a28fE5A8E2Cf9683608ff6C86B",
+ "type": "BEP20",
+ "symbol": "TYG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xeDAE239cFc8513a28fE5A8E2Cf9683608ff6C86B"
+}

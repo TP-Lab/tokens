@@ -1,0 +1,11 @@
+{
+ "name": "GodeChain",
+ "website": "https://godechain.com/",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x245d9f531757f83064aD808b4c9b220C703a4934",
+ "type": "BEP20",
+ "symbol": "GODE",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x245d9f531757f83064aD808b4c9b220C703a4934"
+}

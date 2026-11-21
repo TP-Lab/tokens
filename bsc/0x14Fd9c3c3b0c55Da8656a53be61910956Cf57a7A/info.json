@@ -1,0 +1,11 @@
+{
+ "name": "DarkHorse DAO",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x14Fd9c3c3b0c55Da8656a53be61910956Cf57a7A",
+ "type": "BEP20",
+ "symbol": "DH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x14Fd9c3c3b0c55Da8656a53be61910956Cf57a7A"
+}

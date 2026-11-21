@@ -1,0 +1,11 @@
+{
+ "name": "CML-T",
+ "website": "https://github.com/Yantaiowig2/CmlToken",
+ "description": "Introduction to CML-T Token The CML-T token is the core token of the CmlToken community",
+ "explorer": "https://bscscan.com/token/0xFe8Ee0C0d6c7b5e8F347c19aD9180718ec0c1403",
+ "type": "BEP20",
+ "symbol": "CML-T",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xFe8Ee0C0d6c7b5e8F347c19aD9180718ec0c1403"
+}

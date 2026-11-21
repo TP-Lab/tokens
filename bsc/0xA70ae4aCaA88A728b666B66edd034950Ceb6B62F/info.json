@@ -1,0 +1,11 @@
+{ 
+"name": "Future rider",
+"website": "https://www.wlqs.top",
+"description": "BSC链首个赛车竞速类型链游。玩家可以通过盲盒获取a级 c级 e级 s级赛车以及随机赛车配件，包括引擎，车胎，尾翼，氮气，通过游戏内拍卖，改装，合成，竞拍，竞速比赛等方式获取代币。实现GAMEFI的PLAY—TO—EARN。",
+"explorer": "https://bscscan.com/token/0xA70ae4aCaA88A728b666B66edd034950Ceb6B62F",
+"type": "BEP20",
+"symbol": "FRP",
+"decimals": 8,
+"status": "active",
+"id": "0xA70ae4aCaA88A728b666B66edd034950Ceb6B62F"
+}

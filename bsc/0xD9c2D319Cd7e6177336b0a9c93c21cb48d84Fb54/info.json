@@ -1,0 +1,11 @@
+{
+ "name": "HAPI Token",
+ "website": "https://hapi.one",
+ "description": "HAPI - decentralized security protocol that prevents and interrupts any malicious activity within the blockchain space",
+ "explorer": "https://etherscan.io/token/0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
+ "type": "ERC20",
+ "symbol": "HAPI",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD9c2D319Cd7e6177336b0a9c93c21cb48d84Fb54"
+}

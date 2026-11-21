@@ -1,0 +1,11 @@
+{
+    "name": "MOTI",
+    "website": "",
+    "description": "Money tiger is a comprehensive business toolkit that meets all business transaction needs.",
+    "explorer": "https://bscscan.com/token/0x3C01EDA96A37A1C3dF760dE899139942Dc83695d",
+    "type": "BEP20",
+    "symbol": "MOTI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3C01EDA96A37A1C3dF760dE899139942Dc83695d"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "DORDAO",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xed470F8DeeF3b19B91d00D821F0207e9F2310225",
+ "type": "BEP20",
+ "symbol": "DORDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xed470F8DeeF3b19B91d00D821F0207e9F2310225"
+}

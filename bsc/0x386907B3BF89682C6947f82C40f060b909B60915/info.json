@@ -1,0 +1,11 @@
+{
+ "name": "JG",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0x386907B3BF89682C6947f82C40f060b909B60915",
+ "type": "BEP20",
+ "symbol": "JG",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x386907B3BF89682C6947f82C40f060b909B60915"
+}

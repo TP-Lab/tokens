@@ -1,0 +1,11 @@
+{ 
+"name": "Tyrannosaurus Rex",
+"website": ".",
+"description": ".",
+"explorer": "https://bscscan.com/token/0x8AFAADf57574E2D0a8961Bb893bdA1C065881314",
+"type": "BEP20",
+"symbol": "Rex",
+"decimals": 18,
+"status": "active",
+"id": "0x8AFAADf57574E2D0a8961Bb893bdA1C065881314"
+}

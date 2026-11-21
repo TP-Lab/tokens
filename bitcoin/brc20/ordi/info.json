@@ -1,0 +1,11 @@
+{
+ "name": "ORDI",
+ "website": "",
+ "description": "The first brc20 token on bitcoin network",
+ "explorer": "",
+ "type": "Bitcoin",
+ "symbol": "ORDI",
+ "decimals": 0,
+ "status": "active",
+ "id": "ordi"
+}

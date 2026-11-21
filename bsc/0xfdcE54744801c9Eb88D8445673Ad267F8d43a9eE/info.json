@@ -1,0 +1,11 @@
+{
+ "name": "Solarix",
+ "website": "www.metanebulas.com",
+ "description": "SocialFi (social finance) integrates DEFI staking, NFT and GameFi into the core functions, which is an indispensable and necessary component of the Metaverse",
+ "explorer": "https://bscscan.com/address/0xfdcE54744801c9Eb88D8445673Ad267F8d43a9eE",
+ "type": "BEP20",
+ "symbol": "Solarix",
+ "decimals": 6,
+ "status": "active",
+ "id": "0xfdcE54744801c9Eb88D8445673Ad267F8d43a9eE"
+}

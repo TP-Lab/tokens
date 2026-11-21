@@ -1,0 +1,11 @@
+{
+    "name": "INSUR Token",
+    "website": "https://www.insurace.io/",
+    "description": "a leading decentralized multi-chain protocol that provides reliable, robust and secure risk protection services to DeFi users, allowing them to protect their investment funds against various risks. ",
+    "explorer": "https://bscscan.com/token/0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30",
+    "type": "BEP20",
+    "symbol": "INSUR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30"
+   }

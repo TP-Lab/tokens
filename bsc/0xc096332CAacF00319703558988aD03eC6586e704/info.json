@@ -1,0 +1,11 @@
+{
+ "name": "DaoSwap",
+ "website": "-",
+ "description": "DaoSwap is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0xc096332CAacF00319703558988aD03eC6586e704",
+ "type": "BEP20",
+ "symbol": "DAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc096332CAacF00319703558988aD03eC6586e704"
+}

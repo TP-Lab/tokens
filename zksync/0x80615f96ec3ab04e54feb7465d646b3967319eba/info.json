@@ -1,0 +1,11 @@
+{
+ "name": "ZK World",
+ "website": "zkworld.io",
+ "description": "ZK World is a complete AI ecosystem developed based on ZK Rollup. Through continuous technological accumulation, it links the Internet and decentralized world, creates an open source, interconnected, and secure encryption network system, and continuously expands various decentralized applications. Its goal is to provide a new blockchain architecture platform, providing a high-performance and secure blockchain application platform for various blockchain applications.",
+ "explorer": "https://explorer.zksync.io/address/0x80615f96ec3ab04e54feb7465d646b3967319eba",
+ "type": "ERC20",
+ "symbol": "ZKD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x80615f96ec3ab04e54feb7465d646b3967319eba"
+}

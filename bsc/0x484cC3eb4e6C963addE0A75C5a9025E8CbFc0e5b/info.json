@@ -1,0 +1,11 @@
+{
+ "name": "BingoDoge",
+ "website": "https://www.bingodoge.com/",
+ "description": "BINGODOGE'S Team have made sure to be as transparent as possible when it comes to developing BINGODOGE with no locked doors.",
+ "explorer": "https://bscscan.com/address/0x484cC3eb4e6C963addE0A75C5a9025E8CbFc0e5b",
+ "type": "BEP-20",
+ "symbol": " BDOGE",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x484cC3eb4e6C963addE0A75C5a9025E8CbFc0e5b"
+}

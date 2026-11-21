@@ -1,0 +1,11 @@
+{
+ "name": "MXRN",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0xc2B2AFd6d9e5aCDb43f49C0a22853644c01A5588",
+ "type": "BEP20",
+ "symbol": "MXRN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc2B2AFd6d9e5aCDb43f49C0a22853644c01A5588"
+}

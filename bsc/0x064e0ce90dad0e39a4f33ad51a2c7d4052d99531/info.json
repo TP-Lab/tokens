@@ -1,0 +1,11 @@
+{
+ "name": "Social Contact Payment",
+ "website": "http://smncoin.net/zh/",
+ "description": "The SMN Public Chain Decentralized Autonomous Organization (SMN&DAO) was jointly launched by the Singapore Huayun Fund, Hong Kong International Public Chain and the global blockchain community in September 2019. Committed to becoming the infrastructure of the consumption blockchain industry, it will establish a multi-level blockchain digital industrial ecosystem serving global development.",
+ "explorer": "https://bscscan.com/token/0x064e0ce90dad0e39a4f33ad51a2c7d4052d99531",
+ "type": "BEP20",
+ "symbol": "SMN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x064e0ce90dad0e39a4f33ad51a2c7d4052d99531"
+}

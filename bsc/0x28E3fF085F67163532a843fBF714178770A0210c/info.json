@@ -1,0 +1,11 @@
+{
+ "name": "Hugo Inu",
+ "website": "https://hugoinu.com/",
+ "description": "Hugo a character in the game is famous for his journey to rescue his family. Now he has found his new journey in the blockchain world - Become the leader of Meme Season.",
+ "explorer": "https://bscscan.com/token/0x28E3fF085F67163532a843fBF714178770A0210c",
+ "type": "BEP20",
+ "symbol": "HUGO",
+ "decimals": 9,
+ "status": "active",
+ "id": 0x28E3fF085F67163532a843fBF714178770A0210c
+}

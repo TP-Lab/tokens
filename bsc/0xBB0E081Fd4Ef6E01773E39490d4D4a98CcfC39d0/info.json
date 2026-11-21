@@ -1,0 +1,11 @@
+{ 
+"name": "Baby Bonk Inu",
+"website": ".",
+"description": "",
+"explorer": "https://bscscan.com/token/0xBB0E081Fd4Ef6E01773E39490d4D4a98CcfC39d0",
+"type": "BEP20",
+"symbol": "BabyBonk",
+"decimals": 18,
+"status": "active",
+"id": "0xBB0E081Fd4Ef6E01773E39490d4D4a98CcfC39d0"
+}

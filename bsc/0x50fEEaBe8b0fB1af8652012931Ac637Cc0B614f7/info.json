@@ -1,0 +1,11 @@
+{
+ "name": "SET",
+ "website": "https://www.setdapp.com",
+ "description": "Super business ecology",
+ "explorer": "https://bscscan.com/token/0x50fEEaBe8b0fB1af8652012931Ac637Cc0B614f7",
+ "type": "BEP20",
+ "symbol": "SET",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x50fEEaBe8b0fB1af8652012931Ac637Cc0B614f7"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TZDAO",
+  "website": ".",
+  "description": "TZDAO是由tycoon zone的社区和TZpay的社区联合发起的去中心化自治社群，旨在为tycoon zone和TZpay赋能，代币符号TZD.",
+  "explorer": "https://bscscan.com/token/0x446ccFC5ec82583bd80975cADa54976170d7991B",
+  "type": "BEP20",
+  "symbol": "TZD",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x446ccFC5ec82583bd80975cADa54976170d7991B"
+}

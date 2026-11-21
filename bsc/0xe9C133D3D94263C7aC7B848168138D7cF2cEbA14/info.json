@@ -1,0 +1,30 @@
+{
+ "name": "CrystalPowder",
+ "website": "https://www.thelostthrone.net/",
+ "short_description": "CP is the equity and governance token of the TLT ecosystem and the only ownership proof of the game.",
+ "description": "CP is the equity and governance token of the TLT ecosystem and the only ownership proof of the game. It has value accrual mechanisms, a limited supply, in-game utility, and is used to govern the distribution of the Throne Treasury funds.",
+ "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/The_Lost_Throne"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.gg/AFp6hkBWTy"
+        },
+        {
+            "name": "Medium",
+            "url": "https://medium.com/@TheLostThrone"
+        },
+        {
+            "name": "Docs",
+            "url": "https://docs.thelostthrone.net/"
+        },
+    ],
+ "explorer": "https://bscscan.com/token/0xe9C133D3D94263C7aC7B848168138D7cF2cEbA14",
+ "type": "BEP20",
+ "symbol": "CP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe9C133D3D94263C7aC7B848168138D7cF2cEbA14"
+}

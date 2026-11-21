@@ -1,0 +1,11 @@
+{
+ "name": "JRDAO",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xD6A0f7Cb96B8AeB9D4Ce596BFc27Ffb30dAe862c",
+ "type": "BEP20",
+ "symbol": "JRDAO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD6A0f7Cb96B8AeB9D4Ce596BFc27Ffb30dAe862c"
+}

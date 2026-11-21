@@ -1,0 +1,11 @@
+{
+    "name": "Open DAA",
+    "website": "http://www.opendaa.com",
+    "description": "A leading community autonomy model, equity incentive token.",
+    "explorer": "https://bscscan.com/token/0x4c33663aFF5aaf45c42514125a1D91908bCd34f9",
+    "type": "BEP20",
+    "symbol": "DAA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4c33663aFF5aaf45c42514125a1D91908bCd34f9"
+}

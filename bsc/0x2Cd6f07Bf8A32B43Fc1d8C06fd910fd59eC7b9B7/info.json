@@ -1,0 +1,11 @@
+{
+ "name": "GoldRushToken",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x2Cd6f07Bf8A32B43Fc1d8C06fd910fd59eC7b9B7",
+ "type": "BEP20",
+ "symbol": "GRUSH",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2Cd6f07Bf8A32B43Fc1d8C06fd910fd59eC7b9B7"
+}

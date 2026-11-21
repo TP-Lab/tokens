@@ -1,0 +1,11 @@
+{
+    "name": "DOTMoon",
+    "website": "-",
+    "description": "总量10000万亿，上线60％销毁，单笔交易5％税，税收的3％进入流动池，税收的1％销毁，税收的1％分红，买入限制单笔：50万亿（0.5％），卖出限制单笔：50万亿（0.5％）。",
+    "explorer": "https://hecoinfo.com/token/0xf7b123192aaacd96c9e4ff9d9d6cbe92c881b5da",
+    "type": "HRC-20",
+    "symbol": "DOTMoon",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF7B123192AaAcd96C9E4Ff9D9d6cbE92c881B5da"
+   } 

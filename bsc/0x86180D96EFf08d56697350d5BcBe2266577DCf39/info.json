@@ -1,0 +1,11 @@
+{
+ "name": "GROK 2.0",
+ "website": "..",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x86180D96EFf08d56697350d5BcBe2266577DCf39",
+ "type": "BEP20",
+ "symbol": "GROK2",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x86180D96EFf08d56697350d5BcBe2266577DCf39"
+}

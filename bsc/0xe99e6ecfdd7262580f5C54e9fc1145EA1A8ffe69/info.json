@@ -1,0 +1,11 @@
+{
+  "name": "Puffer",
+  "website": "https://m.puffernet.com",
+  "description": "Puffer Meta-Ecosystem.",
+  "explorer": "https://bscscan.com/token/0xe99e6ecfdd7262580f5C54e9fc1145EA1A8ffe69",
+  "type": "BEP20",
+  "symbol": "PFR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xe99e6ecfdd7262580f5C54e9fc1145EA1A8ffe69"
+}

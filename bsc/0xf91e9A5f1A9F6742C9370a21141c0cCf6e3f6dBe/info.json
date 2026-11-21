@@ -1,0 +1,11 @@
+{
+ "name": "ChatGPT",
+ "website": "N/A",
+ "description": "ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.",
+ "explorer": "https://bscscan.com/token/0xf91e9a5f1a9f6742c9370a21141c0ccf6e3f6dbe",
+ "type": "BEP20",
+ "symbol": "ChatGPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xf91e9A5f1A9F6742C9370a21141c0cCf6e3f6dBe"
+}

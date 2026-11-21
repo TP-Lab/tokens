@@ -1,0 +1,11 @@
+{
+"name": "BNBTK",
+"website": "-",
+"description": "Win win cooperation",
+"explorer": "https://bscscan.com/token/0x09e59315EE059Cf0C794a5d809117ccEcf0b6F52",
+"type": "BEP20",
+"symbol": "BNBTK",
+"decimals": 9,
+"status": "active",
+"id": "0x09e59315EE059Cf0C794a5d809117ccEcf0b6F52"
+}

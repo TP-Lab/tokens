@@ -1,0 +1,11 @@
+{
+ "name": "BWE",
+ "website": "http://www.bwebluewhale.io/#/",
+ "description": "BWE is a new concept crypto financial game, which aims to bring long-term stable income to more financial players.",
+ "explorer": "https://bscscan.com/token/0x7fA895ddF5294C13d7c197cC5543B21cb0034084",
+ "type": "BEP20",
+ "symbol": "BWE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7fA895ddF5294C13d7c197cC5543B21cb0034084"
+}

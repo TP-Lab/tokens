@@ -1,0 +1,11 @@
+{
+ "name": "Smile Token",
+ "website": "https://smile-token.com",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0xa000c0a338eC7682354d09Dcb2bB3411B841F3bc",
+ "type": "BEP20",
+ "symbol": "Smile",
+ "decimals": 4,
+ "status": "active",
+ "id": "0xa000c0a338eC7682354d09Dcb2bB3411B841F3bc"
+}

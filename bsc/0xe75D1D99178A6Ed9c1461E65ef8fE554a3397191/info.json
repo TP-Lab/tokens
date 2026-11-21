@@ -1,0 +1,11 @@
+{
+"name": "TeaToken",
+"website": "http://fea.ink/#/",
+"description": "FEA will become the world's first decentralized distributed ledger equity certificate, enabling digital asset owners and consumers to benefit from each other, and combining equity equity with blockchain technology. Create a brand-new distributed ledger accounting system, empowering the core technical support of Metaverse, AI, and artificial intelligence integrated distributed ledgers.",
+"explorer": "https://bscscan.com/address/0xe75D1D99178A6Ed9c1461E65ef8fE554a3397191",
+"type": "BEP20",
+"symbol": "FEA",
+"decimals": 9,
+"status": "active",
+"id": "0xe75D1D99178A6Ed9c1461E65ef8fE554a3397191"
+}

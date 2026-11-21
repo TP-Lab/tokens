@@ -1,0 +1,11 @@
+{
+ "name": "DUTY",
+ "website": ".",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x0c7bF9a7454208b8Ca3B18de9C98BD298c75d593",
+ "type": "BEP20",
+ "symbol": "DUTY",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0c7bF9a7454208b8Ca3B18de9C98BD298c75d593"
+}

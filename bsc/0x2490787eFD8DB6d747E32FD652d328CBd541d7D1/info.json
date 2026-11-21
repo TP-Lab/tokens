@@ -1,0 +1,11 @@
+{
+    "name": "Huobi",
+    "website": "-",
+    "description": "-",
+    "explorer": "https://bscscan.com/token/0x2490787eFD8DB6d747E32FD652d328CBd541d7D1",
+    "type": "BEP20",
+    "symbol": "Huobi",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2490787eFD8DB6d747E32FD652d328CBd541d7D1"
+   } 

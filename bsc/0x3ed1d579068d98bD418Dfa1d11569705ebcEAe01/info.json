@@ -1,0 +1,11 @@
+{
+ "name": "Gold Chain",
+ "website": "http://www.ginglodcoin.info/",
+ "description": "The combination of blockchain and gold by Singapore gin foundation has effectively solved a series of fundamental challenges faced by physical gold. It perfectly combines the value of physical gold with the liquidity of digital assets. Both enterprises and individuals can easily buy and trade encrypted gold on the chain, which is of great significance to activate the flow rate of gold around the world and will give gold new value and vitality.",
+ "explorer": "https://www.bscscan.com/token/0x3ed1d579068d98bD418Dfa1d11569705ebcEAe01",
+ "type": "BEP20",
+ "symbol": "Gin",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3ed1d579068d98bD418Dfa1d11569705ebcEAe01"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Buffett's Dinner Dao",
+ "website": "https://x.com/BuffettDiner",
+ "description": "Follow in Brother Sun's footsteps and create 10,000 wealthy people who have dinner with Buffett.",
+ "explorer": "https://tronscan.io/#/token20/TM4xFuTPxwVRZSRRTJmWbUrmfCYsg5UxgZ",
+ "type": "TRC20",
+ "symbol": "BDD",
+ "decimals": 18,
+ "status": "active",
+ "id": "TM4xFuTPxwVRZSRRTJmWbUrmfCYsg5UxgZ"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FI Token",
+  "website": "https://fidao.io",
+  "description": "Finance Instiution DAO , FI will set off a blockchain revolution, overturn the unfairness of the existing industry, no longer let investors continue to be the playthings of institutional capital, and create a completely fair, open, free and autonomous DAO ecosystem.",
+  "explorer": "https://bscscan.com/token/0x259ec8dbab40e86ad3b36934c539b637da0d8cb1",
+  "type": "BEP20",
+  "symbol": "FI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x259ec8dBab40E86AD3b36934c539b637dA0D8cB1"
+}

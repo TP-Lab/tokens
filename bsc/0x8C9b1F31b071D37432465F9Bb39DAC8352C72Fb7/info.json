@@ -1,0 +1,11 @@
+{
+ "name": "fixed star",
+ "website": "-",
+ "description": "fixed star is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x8C9b1F31b071D37432465F9Bb39DAC8352C72Fb7",
+ "type": "BEP20",
+ "symbol": " FIxs ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x8C9b1F31b071D37432465F9Bb39DAC8352C72Fb7"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "FS",
+ "website": "",
+ "description": "",
+ "explorer": "https://bscscan.com/token/0x4837EfCDc4Ca30cAB8Fa74A1f46452BF9e8bc598",
+ "type": "BEP20",
+ "symbol": "FS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x4837EfCDc4Ca30cAB8Fa74A1f46452BF9e8bc598"
+}

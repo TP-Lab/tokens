@@ -1,0 +1,11 @@
+{
+    "name": "MoonDAO",
+    "website": "https://moondao.com",
+    "description": "MOONEY is used for decentralized community governance and gives its owners voting rights in directing the decisions made by MoonDAO.",
+    "explorer": "https://etherscan.io/token/0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395",
+    "type": "ERC20",
+    "symbol": "MOONEY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x20d4DB1946859E2Adb0e5ACC2eac58047aD41395"
+}

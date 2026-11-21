@@ -1,0 +1,11 @@
+{
+ "name": "Olympic Doge",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xE8a7dA5c28Ab1B29c4389b864Fa890E225ddD6c8",
+ "type": "BEP20",
+ "symbol": "Olympic Doge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xE8a7dA5c28Ab1B29c4389b864Fa890E225ddD6c8"
+}

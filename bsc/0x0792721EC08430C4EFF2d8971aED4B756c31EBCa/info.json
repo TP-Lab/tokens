@@ -1,0 +1,11 @@
+{
+ "name": "BIN Token",
+ "website": "https://bin-world.club",
+ "description": "The creation of BIN is an important breakthrough in the current digital economy. As a project initiated by the Winklevoss Capital Foundation, which was co-founded by Stanford Blockchain Lab and artificial intelligence company Vicarious, BIN aims to establish a Web3.0 aggregation platform integrating AI, blockchain and entertainment and social networking, and integrating multiple Internet fields such as digital finance, cross-border consumption, entertainment games, social payments, etc., to create an inner-cycle self-growing digital space for the global digital economy. BIN aims to establish a Web3.0 aggregation platform integrating AI, blockchain and entertainment and social networking, integrating digital finance, cross-border consumption, entertainment and games, social payment and other Internet fields, creating an inner-cycle self-growing digital space integrating intelligence, entertainment, application and transaction, and providing global users with faster and better commercialisation tools for realisation. Users can realise all kinds of production, investment, creation, entrepreneurship and interaction activities on the platform and enjoy the convenience brought by BIN. By integrating AI technology and blockchain technology, as well as incorporating entertainment and social elements into it, BIN will create a new digital space and provide users with an unprecedented digital experience.",
+ "explorer": "https://bscscan.com/token/0x0792721EC08430C4EFF2d8971aED4B756c31EBCa",
+ "type": "BEP20",
+ "symbol": "TPT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0792721EC08430C4EFF2d8971aED4B756c31EBCa"
+}

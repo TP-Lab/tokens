@@ -1,0 +1,11 @@
+{
+ "name": "AS Token",
+ "website": "",
+ "description": "AS is an open source Web3.0 decentralized blockchain platform, focus on  improving the throughput of blockchain networks",
+ "explorer": "https://bscscan.com/address/0xb38cAeac59f712dda97976fe963206172965612a",
+ "type": "BEP20",
+ "symbol": "AS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xb38cAeac59f712dda97976fe963206172965612a"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Teddy dog",
+ "website": "https://tdgdao.coinmarket.dev",
+ "description": "Teddy Dog aspires to become a top-level chain game integrated service development, operation and maintenance incubation platform, and is positioned as a chain game ecological development platform that integrates multi-functional services. It is not limited to the chain game itself, but pays more attention to providing blockchain solutions for the game industry. Provide corresponding technical and platform support for the blockchainization of traditional games, promote and support users with excellent IP identification, provide platform technical support for chain game distributors, and provide asset circulation support for emerging chain game projects ",
+ "explorer": "https://bscscan.com/token/0xD02193A88fF17D40C0bB97d316067B3FD4CB3B9D",
+ "type": "BEP20",
+ "symbol": "Tdg",
+ "decimals": 8,
+ "status": "active",
+ "id": "0xD02193A88fF17D40C0bB97d316067B3FD4CB3B9D"
+}

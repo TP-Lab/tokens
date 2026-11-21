@@ -1,0 +1,11 @@
+{
+ "name": "fmc",
+ "website": "https://www.fmcapp.com/",
+ "description": "FMC (Farm Money Coin) virtual currency, which is a digital asset based on the ERC-20 standard, is specifically used for farm adoption and its related ecosystem.FMC is an efficient and transparent virtual currency designed to provide a secure payment solution for farm adoption and agricultural transactions. Its total circulation is 20 billion coins, ensuring extensive participation of community members and the stability of currency holdings.FMC will become an important payment tool for farm adoption users. Users can use FMC to purchase farm fruits, vegetables, products and services, as well as adopt and invest, and obtain corresponding benefits.",
+ "explorer": "https://www.bscscan.com/token/0x7dc109DEeC69Edcf20AdA95C5aEbE8b5Fb74DA7c",
+ "type": "BEP20",
+ "symbol": "fmc",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7dc109DEeC69Edcf20AdA95C5aEbE8b5Fb74DA7c"
+}

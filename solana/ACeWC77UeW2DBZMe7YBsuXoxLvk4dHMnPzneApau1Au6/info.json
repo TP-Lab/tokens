@@ -1,0 +1,11 @@
+{
+ "name": "Any Inu",
+ "website": "https://anyinu.xyz",
+ "description": "A multi-chain dog token powered by the Axelar Interchain Token Service",
+ "explorer": "https://solscan.io/token/ACeWC77UeW2DBZMe7YBsuXoxLvk4dHMnPzneApau1Au6",
+ "type": "SPL",
+ "symbol": "AI",
+ "decimals": 8,
+ "status": "active",
+ "id": "ACeWC77UeW2DBZMe7YBsuXoxLvk4dHMnPzneApau1Au6"
+}

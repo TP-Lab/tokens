@@ -1,0 +1,11 @@
+{
+    "name": "ZYToken",
+    "website": "http://www.xuezhouyi.top",
+    "description": "Using the blockchain to empower the dissemination of Zhouyi Chinese culture.",
+    "explorer": "https://bscscan.com/token/0xf46686a24A7F4f202dCac7971d91ca752d9450d5",
+    "type": "BEP20",
+    "symbol": "ZY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf46686a24A7F4f202dCac7971d91ca752d9450d5"
+}

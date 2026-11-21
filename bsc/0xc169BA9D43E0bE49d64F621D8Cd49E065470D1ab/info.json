@@ -1,0 +1,11 @@
+{
+ "name": "USDollar Pax",
+ "website": "paxUSD.com",
+ "description": "USDP（Pax USDollar）作为锚定价值为1:1美元的稳定币，是全球首批受纽约州金融服务管理局（The New York State Department of Financial Services）直接监管并在其监管下稳定运营的加密数字货币，USDollar Pax旨在通过提供“现金的数字替代品”来为交易加密资产的投资者提供流动性，用于所有资产类别的即时交易结算。",
+ "explorer": "https://bscscan.com/token/0xc169BA9D43E0bE49d64F621D8Cd49E065470D1ab",
+ "type": "BEP20",
+ "symbol": "USDP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc169BA9D43E0bE49d64F621D8Cd49E065470D1ab"
+}

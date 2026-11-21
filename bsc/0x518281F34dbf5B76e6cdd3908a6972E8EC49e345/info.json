@@ -1,0 +1,11 @@
+{
+ "name": "Starlink token",
+ "website": "https://starlinkcoin.finance",
+ "description": "Starlink is a brand new Binance Smart Chain Token that generates profit maximization, DeFi and Crypto revenue Systems. Starlink Token has created a mechanism that bridges between our products and our goals through progressive auto-burning system.",
+ "explorer": "https://bscscan.com/token/0x518281F34dbf5B76e6cdd3908a6972E8EC49e345",
+ "type": "BEP20",
+ "symbol": "Starlink",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x518281F34dbf5B76e6cdd3908a6972E8EC49e345"
+} 

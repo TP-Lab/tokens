@@ -1,0 +1,11 @@
+{
+ "name": "SPAC",
+ "website": "https://spacdef.pro",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://bscscan.com/token/0x6aDe5aCb13428d88c032D0464B3D162E673d6037",
+ "type": "BEP20",
+ "symbol": "SPAC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x6aDe5aCb13428d88c032D0464B3D162E673d6037"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "DATA",
+  "website": ".",
+  "description": ".",
+  "explorer": "https://bscscan.com/token/0x68fc0bb45e407ab0ea0c71aec2a9f42085ee644e",
+  "type": "BEP20",
+  "symbol": "DATA",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x68fc0bb45e407ab0ea0c71aec2a9f42085ee644e"
+} 

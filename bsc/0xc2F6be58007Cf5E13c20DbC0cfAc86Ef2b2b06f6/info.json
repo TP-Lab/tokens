@@ -1,0 +1,11 @@
+{
+ "name": "DYJ",
+ "website": "-",
+ "description": "-",
+ "explorer": "https://bscscan.com/token/0xc2F6be58007Cf5E13c20DbC0cfAc86Ef2b2b06f6",
+ "type": "BEP20",
+ "symbol": "DYJ",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc2F6be58007Cf5E13c20DbC0cfAc86Ef2b2b06f6"
+}

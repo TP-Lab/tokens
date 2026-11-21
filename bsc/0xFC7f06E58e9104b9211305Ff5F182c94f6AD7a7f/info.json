@@ -1,0 +1,11 @@
+{
+ "name": "Sing",
+ "website": "https://www.singdao.store",
+ "description": "A super consensus made up of today's retail investors.",
+ "explorer": "https://bscscan.com/token/0xFC7f06E58e9104b9211305Ff5F182c94f6AD7a7f",
+ "type": "BEP20",
+ "symbol": "&#127925;",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xFC7f06E58e9104b9211305Ff5F182c94f6AD7a7f"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "bPFID",
+ "website": "-",
+ "description": "bPFID is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x1780CE9bA71E115bb36781a22B858b54fC0d93CE",
+ "type": "BEP20",
+ "symbol": "bPFID",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x1780CE9bA71E115bb36781a22B858b54fC0d93CE"
+}

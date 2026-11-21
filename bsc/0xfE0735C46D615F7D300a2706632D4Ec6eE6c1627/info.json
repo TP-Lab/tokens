@@ -1,0 +1,11 @@
+{
+    "name": "GCUP TOKEN",
+    "website": "https://gcup.com.pk",
+    "description": "GCUP is committed to realizing the integration of blockchain information, blockchain asset digital application platforms, blockchain wallets, and blockchain exchanges through blockchain technology, taking advantage of its decentralization and transparent and unchangeable characteristics of data and information. Four in one",
+    "explorer": "https://bscscan.com/token/0xfE0735C46D615F7D300a2706632D4Ec6eE6c1627",
+    "type": "BEP20",
+    "symbol": "GCUP",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xfE0735C46D615F7D300a2706632D4Ec6eE6c1627"
+   }

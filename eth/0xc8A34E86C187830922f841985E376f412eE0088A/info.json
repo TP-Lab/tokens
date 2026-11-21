@@ -1,0 +1,11 @@
+{
+ "name": "DRAC Token",
+ "website": "https://drac.io",
+ "description": "Decentralized Rewarding Autonomous Chain.",
+ "explorer": "https://etherscan.io/token/0xc8a34e86c187830922f841985e376f412ee0088a",
+ "type": "ERC20",
+ "symbol": "DRAC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xc8A34E86C187830922f841985E376f412eE0088A"
+}

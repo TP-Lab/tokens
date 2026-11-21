@@ -1,0 +1,11 @@
+{
+  "name": "MerryChristmas  Token",
+  "website": "MerryChristma.com",
+  "description": "BSC",
+  "explorer": "https://bscscan.com/token/0x1b927802fb7b0e074684408f8f9e87bb563aebec",
+  "type": "BEP20",
+  "symbol": "MerryChristmas",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x1B927802FB7b0E074684408f8F9E87bb563aEBEc"
+}

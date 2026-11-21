@@ -1,0 +1,11 @@
+{
+ "name": "PKS",
+ "website": "-",
+ "description": "PKS is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x5d6eD0d8Dcf5c076f69b26A139965019aa8aD065",
+ "type": "BEP20",
+ "symbol": "PKS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5d6eD0d8Dcf5c076f69b26A139965019aa8aD065"
+}

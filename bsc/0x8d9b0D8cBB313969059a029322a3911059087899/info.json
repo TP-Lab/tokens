@@ -1,0 +1,11 @@
+{
+ "name": "Brilliant",
+ "website": "https://www.zysmi.com/",
+ "description": "BAT是亞洲地區區塊鏈愛好者組成去中心化聯創社區；是由社區DAO自治運行。發起人有N位曾經在百度（B）阿裏（A）騰訊（T）三大巨頭企業任職高管；有道是：英雄所見略同！這樣一群人自發組織了DAO自治社區，為BAT奠定了穩固根基！BAT前期通過Defi 特有的商業模型鑄造幣值進而締造財富神話；中期通過流動性挖礦、鏈遊、元宇宙生態落地應用構建生態閉環。後期擁有海量粉絲會員，BAT將成為公鏈運行的Gas費。與此同時Swap去中心化交易所同步上線。讓BAT實現無可限量的穩定價值！",
+ "explorer": "https://bscscan.com/token/0x8d9b0D8cBB313969059a029322a3911059087899",
+ "type": "BEP20",
+ "symbol": "BAT",
+ "decimals": 11,
+ "status": "active",
+ "id": "0x8d9b0D8cBB313969059a029322a3911059087899"
+}

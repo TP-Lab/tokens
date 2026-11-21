@@ -1,0 +1,11 @@
+{
+ "name": "SouCoin",
+ "website": "http://www.soufighter.com",
+ "description": "SouFight(魂斗士)是基于NFT的区块链游戏项目,HECO链第一款打金卡牌游戏,NFT游戏资产只属于你自己，让我们一起踏上战斗之路!",
+ "explorer": "https://hecoinfo.com/token/0x92166d23e547CcAa3403B643FDBd73FC21cf7e71",
+ "type": "HRC20",
+ "symbol": "SOU",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x92166d23e547CcAa3403B643FDBd73FC21cf7e71"
+}

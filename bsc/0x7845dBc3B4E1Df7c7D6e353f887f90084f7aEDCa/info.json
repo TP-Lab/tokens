@@ -1,0 +1,11 @@
+{
+    "name": "WASP",
+    "website": "https://www.wasp-token.com/",
+    "description": "Wasp open source, independent decentralized application.",
+    "explorer": "https://bscscan.com/token/0x7845dBc3B4E1Df7c7D6e353f887f90084f7aEDCa",
+    "type": "BEP20",
+    "symbol": "WASP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7845dBc3B4E1Df7c7D6e353f887f90084f7aEDCa"
+   }

@@ -1,0 +1,12 @@
+{
+ "name": "Bulldog",
+ "website": "",
+ "description": "Bulldog token is a new token on Binance Smart Chain network. We want to help animals, forests and humans that be hurt by wildfires.",
+ "explorer": "https://bscscan.com/token/0x2691F16e3Db69f57Edb9cb64349e90253906312E",
+ "type": "BEP20",
+ "symbol": "Bulldog",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2691F16e3Db69f57Edb9cb64349e90253906312E
+"
+}

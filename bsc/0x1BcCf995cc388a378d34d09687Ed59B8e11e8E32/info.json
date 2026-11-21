@@ -1,0 +1,11 @@
+{
+ "name": "RWB ",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x1BcCf995cc388a378d34d09687Ed59B8e11e8E32",
+ "type": "BEP20",
+ "symbol": "RWB ",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x1BcCf995cc388a378d34d09687Ed59B8e11e8E32"
+}

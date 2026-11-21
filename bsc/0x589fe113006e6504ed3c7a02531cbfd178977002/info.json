@@ -1,0 +1,11 @@
+{
+ "name": "SquidKing",
+ "website": "https://www.squidking.top",
+ "description": "SQUIDKING is a meme token featuring dividend DOGE issued on the BSC chain.The goal is to surpass dogeking and become a new generation of kings.",
+ "explorer": "https://bscscan.com/token/0x589fe113006e6504ed3c7a02531cbfd178977002",
+ "type": "BEP20",
+ "symbol": "SquidKing",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x589fe113006e6504ed3c7a02531cbfd178977002"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "IMonster",
+  "website": "https://www.imonster.org",
+  "description": "IMonster is a Web3 game platform built on BNB Chain. Through the functional token IMO, players can participate in many gameplays such as Monster Factory, Adventure, Battle Royale, Dragon Spirit Treasure Box, etc. to gain different gaming experiences and gain benefits from them. At the same time, the platform issued a total of 3,000 various trendy monster NFT digital assets for players to build their own ecosystems, community governance, and enrich more gameplay.",
+  "explorer": "https://bscscan.com/token/0xb2c1528A5EA04528aC6a3E481d38c19003CB71D4",
+  "type": "BEP20",
+  "symbol": "IMO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xb2c1528A5EA04528aC6a3E481d38c19003CB71D4"
+}

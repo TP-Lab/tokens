@@ -1,0 +1,11 @@
+{
+  "name": "Multispace",
+  "website": "",
+  "description": "Multispace is Web3 network Game Token",
+  "explorer": "https://bscscan.com/token/0x39D7650adA67C5bAeb6a25d6255d4c99b7F4B77F",
+  "type": "BEP20",
+  "symbol": "MSC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x39D7650adA67C5bAeb6a25d6255d4c99b7F4B77F"
+}

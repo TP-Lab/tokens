@@ -1,0 +1,11 @@
+{
+    "name": "NTS Token",
+    "website": "https://nftlistfund.com/dist/#/",
+    "description": "The world's first NFT early bird investment and financing platform.",
+    "explorer": "https://bscscan.com/token/0xd991190daF1d81f67758Cd269E305d0076866831",
+    "type": "BEP20",
+    "symbol": "NTS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd991190daF1d81f67758Cd269E305d0076866831"
+   }

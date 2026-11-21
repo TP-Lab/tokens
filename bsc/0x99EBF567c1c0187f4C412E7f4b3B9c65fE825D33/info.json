@@ -1,0 +1,11 @@
+{
+ "name": "TSS",
+ "website": "https://www.thesuperstar.pro/",
+ "description": " the Super Star is the first creation project to explore the future universe. Here, All super planet partners can acquire their own new wealth territory and new wealth brought by technological innovation. ..",
+ "explorer": "https://bscscan.com/token/0x99EBF567c1c0187f4C412E7f4b3B9c65fE825D33",
+ "type": "BEP20",
+ "symbol": "TSS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x99EBF567c1c0187f4C412E7f4b3B9c65fE825D33"
+}

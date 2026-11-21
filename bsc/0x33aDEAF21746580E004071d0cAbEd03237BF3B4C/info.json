@@ -1,0 +1,11 @@
+{
+ "name": "GVG",
+ "website": "..",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0x33aDEAF21746580E004071d0cAbEd03237BF3B4C",
+ "type": "BEP20",
+ "symbol": "GVG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x33aDEAF21746580E004071d0cAbEd03237BF3B4C"
+}

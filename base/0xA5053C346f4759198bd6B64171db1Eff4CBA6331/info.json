@@ -1,0 +1,11 @@
+{
+ "name": "Refugee",
+ "website": "https://www.match.top",
+ "description": "RFG is the official memecoin of Match social platform, and it empowers users to engage in diverse community-driven activities, from staking to NFT auctions. Match is an innovative Web3 ecosystem that integrates Meme Coin, SocialFi, and AI technologies, all aimed at driving a decentralized social finance environment.",
+ "explorer": "https://basescan.org/token/0xa5053c346f4759198bd6b64171db1eff4cba6331",
+ "type": "ERC20",
+ "symbol": "RFG",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xA5053C346f4759198bd6B64171db1Eff4CBA6331"
+}

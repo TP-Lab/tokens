@@ -1,0 +1,11 @@
+{
+    "name": "Bunny Token",
+    "website": "https://www.bunnyweb.xyz",
+    "description": "The world's leading decentralized platform to earn crypto assets.",
+    "explorer": "https://bscscan.com/address/0x5d8266d4ed3858686f7d83d3191d5d13ebb5a9ff",
+    "type": "BEP20",
+    "symbol": "BUY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5d8266d4ed3858686F7d83D3191d5d13Ebb5A9FF"
+}

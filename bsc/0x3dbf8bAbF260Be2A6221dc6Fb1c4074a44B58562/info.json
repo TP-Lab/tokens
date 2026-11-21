@@ -1,0 +1,11 @@
+{
+ "name": "SLK",
+ "website": "-",
+ "description": "SLK is an electronic form of central bank currency, which can be used by households and businesses to make payments and store value.",
+ "explorer": "https://bscscan.com/address/0x3dbf8bAbF260Be2A6221dc6Fb1c4074a44B58562",
+ "type": "BEP20",
+ "symbol": "SLK",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x3dbf8bAbF260Be2A6221dc6Fb1c4074a44B58562"
+}

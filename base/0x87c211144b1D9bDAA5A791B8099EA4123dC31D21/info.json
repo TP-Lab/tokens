@@ -1,0 +1,11 @@
+{
+ "name": "BlockChainPeople",
+ "website": "https://bcp.ltd",
+ "description": "BCP purpose here is to make meme coins great again.",
+ "explorer": "https://basescan.org/token/0x87c211144b1d9bdaa5a791b8099ea4123dc31d21",
+ "type": "ERC20",
+ "symbol": "BCP",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x87c211144b1D9bDAA5A791B8099EA4123dC31D21"
+}

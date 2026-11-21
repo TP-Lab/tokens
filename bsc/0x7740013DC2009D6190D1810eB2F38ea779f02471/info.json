@@ -1,0 +1,11 @@
+{
+ "name": "Optimus Prime",
+ "website": "",
+ "description": "QTZ is a platform token. The platform provides audit and insurance compensation services. The project settled on the platform must pay the corresponding deposit, so as to prevent and reduce fraud in the field of encryption.",
+ "explorer": "https://bscscan.com/token/0x7740013DC2009D6190D1810eB2F38ea779f02471",
+ "type": "BEP20",
+ "symbol": "QTZ",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x7740013DC2009D6190D1810eB2F38ea779f02471"
+}

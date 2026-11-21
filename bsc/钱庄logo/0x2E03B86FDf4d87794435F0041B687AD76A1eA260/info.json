@@ -1,0 +1,11 @@
+{
+ "name": "GOLD",
+ "website": "https://GOLDID.com",
+ "description": "BSC",
+ "explorer": "https://bscscan.com/token/0x2E03B86FDf4d87794435F0041B687AD76A1eA260",
+ "type": "BEP20",
+ "symbol": "GOLD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2E03B86FDf4d87794435F0041B687AD76A1eA260"
+}

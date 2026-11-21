@@ -1,0 +1,11 @@
+{
+ "name": "Greatest Works",
+ "website": "https://www.gwork.site/",
+ "description": "$GWORK is inspired by JayChou latest album greatest worksUsers are rewarded with tokens for singing, performing events and stage performances GWORK makes it easy for you to buy JayChou new album NFT on our app and the community will be holding occasional sing-along events!",
+ "explorer": "https://bscscan.com/address/0x0d007ffFb2DcDfdAA676445D497b6AdbC8A381dC",
+ "type": "BEP20",
+ "symbol": "GWORK",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0d007ffFb2DcDfdAA676445D497b6AdbC8A381dC"
+}

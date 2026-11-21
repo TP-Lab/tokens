@@ -1,0 +1,12 @@
+{
+ "name": "SHIBX",
+ "website": "https://shibx.me/",
+ "description": "SHIBX is Shib's hard fork coin, the estimated market value of only one thousandth of Shib! Our vision is to become the first and most widely adopted xAI technology and community driven decentralized meme cryptocurrency under the blessing of Musk.",
+ "explorer":
+"https://etherscan.io/token/0x2c3c9e0ca36a1d22d105b607a8f49255c0884957",
+ "type": "ERC20",
+ "symbol": "SHIBX",
+ "decimals": 18,
+ "status": "active",
+ "id" : "0x2c3c9e0ca36a1d22d105b607a8f49255c0884957"
+}

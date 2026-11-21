@@ -1,0 +1,11 @@
+{
+ "name": "Great Heaven Metaverse Token",
+ "website": "https://GMV.WORLD",
+ "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+ "explorer": "https://hecoinfo.com/token/0x87C2F6FF97EF08ff0001b4118345b019cd324e87",
+ "type": "HECO20",
+ "symbol": "GMV",
+ "decimals": 8,
+ "status": "active",
+ "0x87C2F6FF97EF08ff0001b4118345b019cd324e87"
+}

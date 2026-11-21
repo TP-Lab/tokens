@@ -1,0 +1,11 @@
+{
+ "name": "Decentralized World Bank",
+ "website": "https://dwb.financial",
+ "description": "Decentralized World Bank.",
+ "explorer": "https://bscscan.com/token/0x7f9ac38cd691bfc0a37040be3dd4ec424f8ee377",
+ "type": "BEP20",
+ "symbol": "DWB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x7F9AC38cd691Bfc0a37040bE3Dd4ec424F8ee377"
+}

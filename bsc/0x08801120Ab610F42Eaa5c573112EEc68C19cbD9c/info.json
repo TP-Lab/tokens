@@ -1,0 +1,11 @@
+{
+ "name": "HB",
+ "website": "http://www.hbshop.xyz/",
+ "description": "HB is the governance token of WG entertainment ecosystem. Our vision is to build the world’s largest gamefi platform",
+ "explorer": "https://bscscan.com/token/0x08801120Ab610F42Eaa5c573112EEc68C19cbD9c",
+ "type": "BEP20",
+ "symbol": "HB",
+ "decimals": 4,
+ "status": "active",
+ "id": "0x08801120Ab610F42Eaa5c573112EEc68C19cbD9c"
+}

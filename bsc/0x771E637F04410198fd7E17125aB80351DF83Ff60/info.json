@@ -1,0 +1,11 @@
+{
+ "name": "SecrecyDog",
+ "website": "https://secrecy.dog",
+ "description": "A new generation of privacy coin mixing protocol based on WEB 3.0 anonymous encryption algorithm. ",
+ "explorer": "https://bscscan.com/token/0x771e637f04410198fd7e17125ab80351df83ff60",
+ "type": "BEP20",
+ "symbol": "SecrecyDog",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x771E637F04410198fd7E17125aB80351DF83Ff60"
+}

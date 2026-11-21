@@ -1,0 +1,11 @@
+{
+ "name": "TORO",
+ "website": "https://bscscan.com/token/0x500b7812CDa7Da91b7E69937d6f4D225fD4851B5",
+ "description": "TORO TOKEN.",
+ "explorer": "https://bscscan.com/token/0x500b7812CDa7Da91b7E69937d6f4D225fD4851B5",
+ "type": "BEP20",
+ "symbol": "TORO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x500b7812CDa7Da91b7E69937d6f4D225fD4851B5"
+}

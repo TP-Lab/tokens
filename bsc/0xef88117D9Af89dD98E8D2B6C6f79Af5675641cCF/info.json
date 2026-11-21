@@ -1,0 +1,11 @@
+{
+ "name": "MILDE",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/token/0xef88117D9Af89dD98E8D2B6C6f79Af5675641cCF",
+ "type": "BEP20",
+ "symbol": "MILDE",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xef88117D9Af89dD98E8D2B6C6f79Af5675641cCF"
+}

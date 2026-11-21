@@ -1,0 +1,11 @@
+{
+    "name": "Purple Dragon Box",
+    "website": "https://pdragon.io/",
+    "description": "The strongest 404 asset on #Arbitrum. The Ninth Purple Li Fire cycle begins in 2024, lasting for a 20-year period and part of a 180-year recurrence.",
+    "explorer": "https://arbiscan.io/address/0xe75e4e57c3cc02c74e5acacca696d8c83fc5ab75",
+    "decimals": 18,
+    "type": "ERC404",
+    "symbol": "PDB",
+    "status": "active",
+    "id": "0xe75E4E57C3cC02C74e5acaccA696d8C83Fc5aB75"
+}

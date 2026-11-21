@@ -1,0 +1,14 @@
+
+{ 
+"name": "PETO",
+"website": "https://peto.fun/",
+"description": "PETO is a combination of gaming and cryptocurrency, a platform for all gaming lovers.",
+"explorer": "https://bscscan.com/token/0x3C8548EBa4E75a6F7943335b80c175ba677CfCBB",
+"type": "BEP20",
+"symbol": "PTC",
+"decimals": 9,
+"status": "active",
+"id": "0x3C8548EBa4E75a6F7943335b80c175ba677CfCBB"
+}
+
+

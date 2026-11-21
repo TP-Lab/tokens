@@ -1,0 +1,11 @@
+{
+    "name": "DAO",
+    "website": "https://daotool.app/",
+    "description": "DAO creates a leading platform in the primary market! Top 10 Ecological Plates, beyond everything!",
+    "explorer": "https://bscscan.com/token/0x97e4f3D9c5F3d4a8B5768e3ccC28bdBD26C88f3B",
+    "type": "BEP20",
+    "symbol": "DAO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x97e4f3D9c5F3d4a8B5768e3ccC28bdBD26C88f3B"
+   }

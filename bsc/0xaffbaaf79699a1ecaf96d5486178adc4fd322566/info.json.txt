@@ -1,0 +1,11 @@
+{
+ "name": "SAC",
+ "website": "no",
+ "description": "no",
+ "explorer": "https://bscscan.com/token/0xaffbaaf79699a1ecaf96d5486178adc4fd322566",
+ "type": "BEP20",
+ "symbol": "SAC",
+ "decimals": 18,
+ "status": "not open yet",
+ "id": "0xaffbaaf79699a1ecaf96d5486178adc4fd322566"
+}

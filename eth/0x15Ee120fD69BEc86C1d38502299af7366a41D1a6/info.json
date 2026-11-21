@@ -1,0 +1,11 @@
+{
+ "name": "BitANT",
+ "website": "https://bitbtc.money/",
+ "description": "itANT is a MEME platform token of the BitBTC Protocol project.10 billion BitANT have been minted at genesis,but the team does not own any tokens, all tokens are distributed to the community:80%,liquidity is locked on UNISWAP V2 for 8 years, can't be unlocked before 2029 ;15%,community airdrops; 5%,community mining.",
+ "explorer": "https://etherscan.io/token/0x15Ee120fD69BEc86C1d38502299af7366a41D1a6",
+ "type": "ERC20",
+ "symbol": "BitANT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x15Ee120fD69BEc86C1d38502299af7366a41D1a6"
+}

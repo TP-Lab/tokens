@@ -1,0 +1,11 @@
+{
+"name": "SPO DAO",
+"website": "https://www.SPODAO.io/home",
+"Description": "SPO DAO is a real community currency, so that all participants will be treated fairly.",
+"Explorer": "https://bscscan.com/address/0xc46a1316d6c49b6bd9cf78ac9afeb8135aa32d2e",
+"type": "BEP20",
+"symbol": "SPO DAO",
+"decimal": 18,
+"status": "active",
+"id": "0xc46A1316d6C49B6bD9CF78ac9aFEB8135aA32d2e"
+}

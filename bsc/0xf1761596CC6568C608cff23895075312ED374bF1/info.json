@@ -1,0 +1,11 @@
+{
+ "name": "Meme Doge Coin",
+ "website": "https://www.memedogecoin.org/",
+ "description": "MemeDoge is a project which committed to spread the culture of Meme coin.",
+ "explorer": "https://bscscan.com/token/0xf1761596CC6568C608cff23895075312ED374bF1",
+ "type": "BEP20",
+ "symbol": "MemeDoge",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xf1761596CC6568C608cff23895075312ED374bF1"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "CRYPTO",
+ "website": "https://cryptomoney.bet",
+ "description": "CRYPTO established a decentralized Web3.0 information communication and transaction protocol based on blockchain technology",
+ "explorer": "https://bscscan.com/token/0x807F7D3Db25B4D4e2f799340D74ed6De9aa4d97D",
+ "type": "BEP20",
+ "symbol": "CRYPTO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x807F7D3Db25B4D4e2f799340D74ed6De9aa4d97D"
+}

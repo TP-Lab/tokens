@@ -1,0 +1,11 @@
+{
+    "name": "CSL",
+    "website": "",
+    "description": "",
+    "explorer": "https://bscscan.com/token/0x5FB070cAEd8B2CDf527642c78B754848b41253fc",
+    "type": "BEP20",
+    "symbol": "CSL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5FB070cAEd8B2CDf527642c78B754848b41253fc"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "Green Energy Coin - CNES",
+ "website": "https://carbon-neutral.earth",
+ "description": "$GEC is the second token of Carbon Neutral EcoSystem(CNES). $GEC will play an extremely important role in CNES DEX (tentatively named EcoSwap)",
+ "explorer": "https://bscscan.com/token/0x0965d7717068FF4f8F302556316F7B8e8661E485",
+ "type": "BEP20",
+ "symbol": "GEC",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x0965d7717068FF4f8F302556316F7B8e8661E485"
+}

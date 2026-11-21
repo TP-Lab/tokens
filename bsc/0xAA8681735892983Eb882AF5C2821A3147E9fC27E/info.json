@@ -1,0 +1,11 @@
+{
+    "name": "UDoge",
+    "website": "https://www.udoge.org",
+    "description": "The leading usdt dividend token, creating a blockchain social e-commerce application, using udoge as a platform payment token.",
+    "explorer": "https://bscscan.com/token/0xAA8681735892983Eb882AF5C2821A3147E9fC27E",
+    "type": "BEP20",
+    "symbol": "UDoge",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xAA8681735892983Eb882AF5C2821A3147E9fC27E"
+}

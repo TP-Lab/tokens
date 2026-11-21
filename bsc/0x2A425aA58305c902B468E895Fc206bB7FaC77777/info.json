@@ -1,0 +1,11 @@
+{
+ "name": "Sun Token",
+ "website": "https://bossun.io/",
+ "description": "Sun is the token for the bossun project",
+ "explorer": "https://bscscan.com/token/0x2A425aA58305c902B468E895Fc206bB7FaC77777",
+ "type": "BEP20",
+ "symbol": "SUN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x2A425aA58305c902B468E895Fc206bB7FaC77777"
+}

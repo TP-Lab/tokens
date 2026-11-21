@@ -1,0 +1,11 @@
+{
+ "name": "UAT TOKEN",
+ "website": "https://uat.bar",
+ "description": "UAT Finance is a new DeFi platform on the Binance Smart Chain network. The UAT Finance platform aims to bring a high yield to all users and provide everyone with an independent financial support fund, based on Smart Contract technology.",
+ "explorer": "https://bscscan.com/token/0x173a54eb1a6ec4bbfbbd9d8cb6c79ebb36e8267f",
+ "type": "BEP20",
+ "symbol": "UAT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x173a54EB1a6Ec4bBfBbd9d8cb6C79Ebb36e8267f"
+}

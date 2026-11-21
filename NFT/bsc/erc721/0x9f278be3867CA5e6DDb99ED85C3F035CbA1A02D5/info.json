@@ -1,0 +1,10 @@
+{
+   "name":"EggPlus",
+   "website":"https://eggplus.org/",
+   "description":"EggPlus is a DeFi asset that rewards holders with a sustainable fixed compound interest model by using its unique protocol.",
+   "explorer":"https://bscscan.com/address/0x9f278be3867CA5e6DDb99ED85C3F035CbA1A02D5",
+   "type":"BEP721",
+   "symbol":"EGGPLUS",
+   "status":"active",
+   "id":"0x9f278be3867CA5e6DDb99ED85C3F035CbA1A02D5"
+}

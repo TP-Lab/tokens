@@ -1,0 +1,11 @@
+{
+ "name": "Brian",
+ "website": "https://briancoin.cc",
+ "description": "The BASE BRIAN Coin for the people.",
+ "explorer": "https://basescan.org/token/0xce43e66a6C7158F5e89688C1429C8e6B7Cf3c2bc",
+ "type": "Base",
+ "symbol": "BRIAN",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xce43e66a6C7158F5e89688C1429C8e6B7Cf3c2bc"
+}

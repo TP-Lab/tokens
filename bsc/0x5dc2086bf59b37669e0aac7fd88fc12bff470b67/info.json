@@ -1,0 +1,11 @@
+{
+ "name": "Sea Horse Token",
+ "website": "",
+ "description": ".",
+ "explorer": "https://bscscan.com/address/0x5dc2086bf59b37669e0aac7fd88fc12bff470b67",
+ "type": "BEP20",
+ "symbol": "SOO",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5dc2086bf59b37669e0aac7fd88fc12bff470b67"
+}

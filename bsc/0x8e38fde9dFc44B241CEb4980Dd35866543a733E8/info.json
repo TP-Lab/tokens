@@ -1,0 +1,11 @@
+{
+  "name": "DexCoin token",
+  "website": "https://cdex.tv/",
+  "description": "The world's largest decentralized OTC exchange",
+  "explorer": "https://bscscan.com/token/0x8e38fde9dFc44B241CEb4980Dd35866543a733E8",
+  "type": "BEP20",
+  "symbol": "DC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8e38fde9dFc44B241CEb4980Dd35866543a733E8"
+}

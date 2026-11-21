@@ -1,0 +1,11 @@
+{
+    "name": "DOC",
+    "website": "https://twitter.com/DofferingDoc/",
+    "description": "DOC is a blockchain-based web3.0 data traffic aggregation engine with DOcoin as it community governance coin. DOC is combined with aggregating of web3.0 applications with potential and users from all kinds of communities, which is aiming at building a circulation of data traffic and the value generated underneath.",
+    "explorer": "https://bscscan.com/token/0xf9d501495055e17f681d7cd858ef6628dff71823",
+    "type": "BEP20",
+    "symbol": "DOC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf9d501495055E17F681D7Cd858Ef6628dFF71823"
+   } 

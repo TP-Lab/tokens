@@ -1,0 +1,11 @@
+{
+  "name": "PenguinDAO",
+  "website": "https://bscscan.com/token/0x869F4aDc64d89942C123715a3a501a0c35477860",
+  "description": "The PenguinDAO Protocol is a community driven DeFi Token. Three built-in mechanisms occur on each trade: Reflection, Burn and Reward.",
+  "explorer": "https://bscscan.com/token/0x869F4aDc64d89942C123715a3a501a0c35477860",
+  "type": "BEP20",
+  "symbol": "PenguinDAO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x869F4aDc64d89942C123715a3a501a0c35477860"
+}

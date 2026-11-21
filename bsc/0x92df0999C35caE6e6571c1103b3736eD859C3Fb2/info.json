@@ -1,0 +1,11 @@
+{
+ "name": "Football World",
+ "website": "..",
+ "description": "...",
+ "explorer": "https://bscscan.com/token/0x92df0999C35caE6e6571c1103b3736eD859C3Fb2",
+ "type": "BEP20",
+ "symbol": "FIFA",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x92df0999C35caE6e6571c1103b3736eD859C3Fb2"
+}

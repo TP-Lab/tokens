@@ -1,0 +1,12 @@
+{
+    "name": "EOH Token",
+    "website": "https://www.oknode.club/",
+    "description": "Eye Of Heaven Consensus",
+    "explorer": "https://bscscan.com/token/0xe3019793fffE66fC46734A387434427C56eEb1E0",
+    "type": "BEP20",
+    "symbol": "EOH",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xe3019793fffE66fC46734A387434427C56eEb1E0"
+    
+}

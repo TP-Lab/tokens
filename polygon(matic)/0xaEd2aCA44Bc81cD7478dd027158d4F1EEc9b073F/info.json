@@ -1,0 +1,11 @@
+{
+    "name": "AK",
+    "website": "https://www.aksg.top",
+    "description": "AK Quantitative Intelligent System is a system for digital currency exchange and circulation. The asset blockchain trading system is guided by "making digital asset transactions safer and faster", aiming to create a secure, stable, fast, and transparent trading system.By utilizing computer technology and adopting mathematical models to implement investment strategies, various "high probability" events that can bring excess returns are selected from vast historical data, helping users achieve sustainable, stable, and above average returns.",
+    "explorer": "https://polygonscan.com/address/0xaEd2aCA44Bc81cD7478dd027158d4F1EEc9b073F",
+    "decimals": 18,
+    "type": "Polygon",
+    "symbol": "AK",
+    "status": "active",
+    "id": "0xaEd2aCA44Bc81cD7478dd027158d4F1EEc9b073F"
+}

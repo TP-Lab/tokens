@@ -1,0 +1,11 @@
+{
+    "name": "Open intelligent Chain Token",
+    "website": "http://farm.ochain.vc",
+    "description": "Open Intelligent Chain is the first decentralized aggregation revenue protocol on Optimism Provide users with high-yield, safe and stable OP token pledge services, and help users find the best pledge strategy.",
+    "explorer": "https://optimistic.etherscan.io/token/0xcE2a13c2B6ab6F15B7AEEc272F65D4d8b11e4619",
+    "type": "ERC-20",
+    "symbol": "OC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xcE2a13c2B6ab6F15B7AEEc272F65D4d8b11e4619"
+   }

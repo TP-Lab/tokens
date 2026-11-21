@@ -1,0 +1,11 @@
+{
+    "name": "usda",
+    "website": "https://rpcwequan.cc/",
+    "description": "USDA，即'United Support for Digital Assets'，是维权部落平台的平稳锚定币，扮演着至关重要的角色。USDA代表了RPC的锻造模型，平台没有任何预挖或私募代币，所有USDA都通过公平的捐赠、空投和推广获得。",
+    "explorer": "https://bscscan.com/token/0x94fc0e2c621140b5e5f575cd7fbea5a573519c28",
+    "type": "BEP20",
+    "symbol": "USDA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x94fc0e2c621140b5e5f575cd7fbea5a573519c28"
+  }

@@ -1,0 +1,11 @@
+{
+ "name": "OKSHIB",
+ "website": "https://www.okshib.org/",
+ "description": "Making his first debut in the OEC Chain, OkShib are here to bring the pride of Shiba into the chain and aiming to be the most successful Shiba meme project ever in OEC Chain!",
+ "explorer": "https://www.oklink.com/en/okc/tokenAddr/ex1qveyu8j6dzs052sn4z2rnlr2meg94khqfda20q",
+ "type": "KIP20",
+ "symbol": "OKSHIB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x03324e1e5a68a0fa2a13a89439fc6ade505adae0"
+}

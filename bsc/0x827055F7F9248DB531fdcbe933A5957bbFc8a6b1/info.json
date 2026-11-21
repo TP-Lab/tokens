@@ -1,0 +1,11 @@
+{ 
+"name": "Space Ecology",
+"website": "https://www.spaceecology.space/",
+"description": "太空狗原班人马打造第四大热点IP，太空生态系列终极一战， 汇聚精英成员，终局之战，一触即发！",
+"explorer": "https://bscscan.com/token/0x827055F7F9248DB531fdcbe933A5957bbFc8a6b1",
+"type": "BEP20",
+"symbol": "Space",
+"decimals": 18,
+"status": "active",
+"id": "0x827055F7F9248DB531fdcbe933A5957bbFc8a6b1"
+}

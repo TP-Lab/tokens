@@ -1,0 +1,11 @@
+{
+    "name": "SAC",
+    "website": "https://www.sac.quest/",
+    "description": "SAC is not only a MEME project, but also a fusion of humor and innovation, making it the first rune in the BSC blockchain.",
+    "explorer": "https://bscscan.com/token/0xF101c7bF0282546D03EF0F9256Bb4191604D6B18",
+    "type": "BEP20",
+    "symbol": "SAC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF101c7bF0282546D03EF0F9256Bb4191604D6B18"
+   }

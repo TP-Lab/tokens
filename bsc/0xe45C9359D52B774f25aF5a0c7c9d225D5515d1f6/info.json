@@ -1,0 +1,11 @@
+{
+ "name": "ALAD",
+ "website": "https://www.ALADTOKEN.com/",
+ "description": "Welcome to ALAD word on the BSC platform.",
+ "explorer": "https://bscscan.com/token/0xe45C9359D52B774f25aF5a0c7c9d225D5515d1f6",
+ "type": "BEP20",
+ "symbol": "ALAD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe45C9359D52B774f25aF5a0c7c9d225D5515d1f6"
+}

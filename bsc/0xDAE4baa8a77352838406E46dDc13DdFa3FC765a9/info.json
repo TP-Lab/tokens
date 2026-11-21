@@ -1,0 +1,11 @@
+{
+  "name": "PanguDoge",
+  "website": "-",
+  "description": "Pgdoge is the token of Pangu Ecosystem, which is committed to helping Pangu Ecosystem go global.",
+  "explorer": "https://bscscan.com/address/0xDAE4baa8a77352838406E46dDc13DdFa3FC765a9",
+  "type": "BEP20",
+  "symbol": "PgDoge",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xDAE4baa8a77352838406E46dDc13DdFa3FC765a9"
+}

@@ -1,0 +1,11 @@
+{
+ "name": "BNB714",
+ "website": "https://BNB714.club",
+ "description": "For the first Binance birthday meme token, the establishment date of Binance, 20170714, is selected as the total amount of tokens, and we will grow with Binance.",
+ "explorer": "https://bscscan.com/token/0x97352224d1904DC183dA279F8848E10116Df4871",
+ "type": "BEP20",
+ "symbol": "714",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x97352224d1904DC183dA279F8848E10116Df4871"
+}
