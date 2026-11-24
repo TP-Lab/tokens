@@ -1,0 +1,32 @@
+{
+  "id": "0x332649d348617cd64C061D01Ef8830eD1E607C81",
+  "name": "Elite Force Token",
+  "symbol": "EFORCE",
+  "type": "BEP20",
+  "decimals": 18,
+  "website": "https://elite-force.space",
+  "timer_website": "https://timer.elite-force.space",
+  "explorer": "https://bscscan.com/token/0x332649d348617cd64C061D01Ef8830eD1E607C81",
+  "links": [
+    {
+      "name": "website",
+      "url": "https://elite-force.space"
+    },
+    {
+      "name": "timer",
+      "url": "https://timer.elite-force.space"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/EliteForceWeb3"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/EliteForceCommunity"
+    }
+  ],
+  "social": {
+    "twitter": "https://x.com/EliteForceWeb3",
+    "telegram": "https://t.me/EliteForceCommunity"
+  }
+}
